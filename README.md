@@ -19,9 +19,9 @@ Available online at https://numeralbank.clld.org
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 203
+- **Varieties:** 81
 - **Concepts:** 103
-- **Lexemes:** 8,168
+- **Lexemes:** 7,587
 - **Sources:** 0
 - **Synonymy:** 1.01
 
@@ -29,7 +29,7 @@ Available online at https://numeralbank.clld.org
 
 
 
-- Entries missing sources: 8168/8168 (100.00%)
+- Entries missing sources: 7587/7587 (100.00%)
 
 ## CLDF Datasets
 
