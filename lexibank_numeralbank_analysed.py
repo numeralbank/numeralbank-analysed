@@ -127,6 +127,14 @@ class Dataset(BaseDataset):
         with open(self.raw_dir.joinpath("unique_systems.json")) as f:
             relations = json.load(f)
 
+        convert = {
+            "Tener": "decimal",
+            "Eighter": "octal",
+            "Twentier": "vigesimal",
+            "Fiver": "quinary",
+            "Unknown": "unknown"
+        }
+        all_scores = []
         for language in wl.languages:
             scores, coverage = find_system(language, relations)
             # check for sufficient coverage
@@ -140,11 +148,19 @@ class Dataset(BaseDataset):
                 scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
                 bestSystem = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
                         reverse=True)][0]
+
                 if len(set(scores.values())) == 1 and list(scores.values())[0] == 0:
                     bestSystem = ""
                 if bestSystem and scores[bestSystem] < 0.1:
                     bestSystem = "Unknown"
+
                 if bestSystem:
+                    # check for correctness, can be expanded when more systems available
+                    if real_base in ["quinary", "octal", "decimal", "vigesimal"]:
+                        if real_base == convert[bestSystem]:
+                            all_scores += [1]
+                        else:
+                            all_scores += [0]
                     args.log.info("{0} / {1}".format(language.name, bestSystem))
                     args.writer.add_language(
                         ID=language.id,
@@ -153,7 +169,7 @@ class Dataset(BaseDataset):
                         Latitude=language.latitude,
                         Longitude=language.longitude,
                         Bases=scoreS,
-                        BestBase=bestSystem,
+                        BestBase=convert[bestSystem],
                         Base=real_base
                     )
                     for concept in language.concepts:
@@ -165,4 +181,8 @@ class Dataset(BaseDataset):
                                     Form=form.form,
                                     Source=""
                                     )
+        args.log.info("Tests: {0}".format(len(all_scores)))
+        args.log.info("Hits:  {0}".format(all_scores.count(1)))
+        args.log.info("Fails: {0}".format(all_scores.count(0)))
+        args.log.info("Props: {0:.2f}".format(sum(all_scores)/len(all_scores)))
 
