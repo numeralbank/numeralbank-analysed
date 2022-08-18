@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "5d56c4c",
+            "dc:created": "c46767f",
             "dc:title": "Repository"
         },
         {
@@ -50,6 +50,18 @@
             "rdf:type": "prov:Entity",
             "dc:created": "a8001124",
             "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.2-4-g2a34d50",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/googleuninum",
+            "rdf:type": "prov:Entity",
+            "dc:created": "4bff680",
+            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -72,7 +84,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 172601,
+            "dc:extent": 211895,
             "tableSchema": {
                 "columns": [
                     {
@@ -175,7 +187,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4371,
+            "dc:extent": 5603,
             "tableSchema": {
                 "columns": [
                     {
@@ -239,6 +251,10 @@
                     {
                         "datatype": "string",
                         "name": "Bases"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Base"
                     }
                 ],
                 "primaryKey": [
@@ -249,7 +265,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 153,
+            "dc:extent": 159,
             "tableSchema": {
                 "columns": [
                     {
