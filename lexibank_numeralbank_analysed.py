@@ -29,7 +29,6 @@ def find_system(language, relations):
             try:
                 for formA in language.concepts[conceptA].forms:
                     for formB in language.concepts[conceptB].forms:
-                        print(language.name, formA, formB)
                         if formA.form in formB.form:
                             hit = True
                             break
@@ -121,7 +120,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept.id
                     )
 
-        with open(self.raw_dir.joinpath("systems.json")) as f:
+        with open(self.raw_dir.joinpath("unique_systems.json")) as f:
             relations = json.load(f)
 
         for language in wl.languages:
