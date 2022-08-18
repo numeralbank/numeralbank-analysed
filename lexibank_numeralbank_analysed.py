@@ -161,6 +161,8 @@ class Dataset(BaseDataset):
                             all_scores += [1]
                         else:
                             all_scores += [0]
+                    else:
+                        real_base = "unknown"
                     args.log.info("{0} / {1}".format(language.name, bestSystem))
                     args.writer.add_language(
                         ID=language.id,
