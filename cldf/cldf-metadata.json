@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "bedfa1e",
+            "dc:created": "5d56c4c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {
@@ -44,6 +44,12 @@
             "rdf:type": "prov:Entity",
             "dc:created": "ff267d2",
             "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/numerals",
+            "rdf:type": "prov:Entity",
+            "dc:created": "a8001124",
+            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -66,7 +72,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 6739,
+            "dc:extent": 172601,
             "tableSchema": {
                 "columns": [
                     {
@@ -169,7 +175,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 68,
+            "dc:extent": 4371,
             "tableSchema": {
                 "columns": [
                     {
@@ -243,7 +249,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 103,
+            "dc:extent": 153,
             "tableSchema": {
                 "columns": [
                     {

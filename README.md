@@ -15,21 +15,21 @@ Available online at https://numeralbank.clld.org
 ## Statistics
 
 
-![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-green.svg "Glottolog: 91%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 68
-- **Concepts:** 103
-- **Lexemes:** 6,739
+- **Varieties:** 4,371
+- **Concepts:** 153
+- **Lexemes:** 172,601
 - **Sources:** 0
-- **Synonymy:** 1.01
+- **Synonymy:** 1.07
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 6739/6739 (100.00%)
+- Entries missing sources: 172601/172601 (100.00%)
 
 ## CLDF Datasets
 

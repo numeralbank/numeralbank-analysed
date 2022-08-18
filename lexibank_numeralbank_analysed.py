@@ -130,6 +130,8 @@ class Dataset(BaseDataset):
                     reverse=True)][0]
             if len(set(scores.values())) == 1 and list(scores.values())[0] == 0:
                 bestSystem = ""
+            if bestSystem and scores[bestSystem] < 0.1:
+                bestSystem = "Unknown"
             if bestSystem:
                 args.log.info("{0} / {1}".format(language.name, bestSystem))
                 args.writer.add_language(
