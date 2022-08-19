@@ -1,23 +1,37 @@
 import pathlib
-import zipfile
-import itertools
-import collections
 
 import pycldf
-from cldfbench import CLDFSpec
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language
 from cltoolkit import Wordlist
-from cltoolkit.features import FEATURES
+from pylexibank import progressbar
 from cldfzenodo import oai_lexibank
-from pyclts import CLTS
 from git import Repo, GitCommandError
-from tqdm import tqdm
-from csvw.dsv import reader
 import json
 import attr
+from lingpy import sw_align
+from collections import defaultdict
+from tabulate import tabulate
+from unidecode import unidecode
 
 from clldutils.misc import slug
+
+
+def common_substring(seqA, seqB):
+    almA, almB, _ = sw_align(seqA, seqB)
+    alm_a, alm_b = almA[1], almB[1]
+    start = False
+    subs = []
+    for a, b in zip(alm_a, alm_b):
+        if a != b and not start:
+            pass
+        elif a == b and not start:
+            start = True
+        if start and a == b:
+            subs += [a]
+        elif start and a != b:
+            break
+    return len(subs)
 
 
 def find_system(language, relations):
@@ -47,12 +61,65 @@ def find_system(language, relations):
     return scores, coverage
 
 
+def find_system_b(language, relations):
+    scores = {}
+    coverage = {}
+    colexis = {}
+    for system in relations:
+        score, count = 0, 0
+        coverage[system] = 0
+        colexis[system] = {}
+        for relation, conceptA, conceptB in relations[system]:
+            hit = False
+            if relation == "partial":
+                try:
+                    for formA in language.concepts[conceptA].forms:
+                        for formB in language.concepts[conceptB].forms:
+                            if unidecode(formA.form) in unidecode(formB.form):
+                                hit = True
+                                colexis[system][conceptA] = conceptB
+                                break
+                    if hit:
+                        score += 1
+                    count += 1
+                    coverage[system] += 1
+                except KeyError:
+                    pass
+            #elif relation == "substring":
+            #    try:
+            #        for formA in language.concepts[conceptA].forms:
+            #            for formB in language.concepts[conceptB].forms:
+            #                if common_substring(formA.form, formB.form) >= 3:
+            #                    hit = True
+            #                    break
+            #        if hit:
+            #            score += 1
+            #        count += 1
+            #        coverage[system] += 1
+            #    except KeyError:
+            #        pass
+        if count:
+            scores[system] = score / count
+        else:
+            scores[system] = 0
+    return scores, coverage, colexis
+
+
 @attr.s
 class CustomLanguage(Language):
     BestBase = attr.ib(default=None)
     Bases = attr.ib(default=None)
     Base = attr.ib(default=None)
+    Coverage = attr.ib(
+        default=None,
+        metadata={
+            'datatype': 'float',
+            'dc:description': 'Coverage of the language in comparison with our master concept list.'}
+    )
 
+
+def coverage(language, concepts):
+    return len([c.id for c in language.concepts if c.id in concepts]) / len(concepts)
 
 
 class Dataset(BaseDataset):
@@ -107,10 +174,12 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
 
+        all_concepts = {concept["CONCEPTICON_GLOSS"] for concept in self.concepts}
         datasets = [ds["ID"] for ds in self.etc_dir.read_csv(
             "datasets.tsv",
             delimiter="\t", dicts=True
             )]
+        #datasets = ["testing"]
         wl = Wordlist([
             pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
@@ -124,7 +193,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept.id
                     )
 
-        with open(self.raw_dir.joinpath("unique_systems.json")) as f:
+        with open(self.raw_dir.joinpath("unique_relations.json")) as f:
             relations = json.load(f)
 
         convert = {
@@ -135,11 +204,14 @@ class Dataset(BaseDataset):
             "Unknown": "unknown"
         }
         all_scores = []
-        for language in wl.languages:
-            scores, coverage = find_system(language, relations)
+        errors = defaultdict(list)
+        for language in progressbar(wl.languages):
+            scores, cov, colexis = find_system_b(language, relations)
             # check for sufficient coverage
-            if len(set(coverage.values())) == 1 and list(coverage.values())[0] == 0:
-                args.log.info("Ignoring {0} with low coverage".format(language.name))
+            cov_ = coverage(language, all_concepts)
+            if cov_ < 0.75:
+                pass
+                #args.log.info("Ignoring {0} with low coverage".format(language.name))
             else:
                 if language.dataset == "numerals":
                     real_base = language.data["Base"]
@@ -149,9 +221,11 @@ class Dataset(BaseDataset):
                 bestSystem = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
                         reverse=True)][0]
 
-                if len(set(scores.values())) == 1 and list(scores.values())[0] == 0:
+                if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
                     bestSystem = ""
-                if bestSystem and scores[bestSystem] < 0.1:
+                    args.log.info("Ignoring {0} due to low coverage in concepts".format(language.name))
+
+                if bestSystem and scores[bestSystem] < 0.05:
                     bestSystem = "Unknown"
 
                 if bestSystem:
@@ -161,9 +235,14 @@ class Dataset(BaseDataset):
                             all_scores += [1]
                         else:
                             all_scores += [0]
+                            errors[real_base, bestSystem] += [[
+                                language,
+                                scoreS,
+                                colexis
+                            ]]
                     else:
                         real_base = "unknown"
-                    args.log.info("{0} / {1}".format(language.name, bestSystem))
+                    #args.log.info("{0} / {1}".format(language.name, bestSystem))
                     args.writer.add_language(
                         ID=language.id,
                         Name=language.name,
@@ -172,7 +251,8 @@ class Dataset(BaseDataset):
                         Longitude=language.longitude,
                         Bases=scoreS,
                         BestBase=convert[bestSystem],
-                        Base=real_base
+                        Base=real_base,
+                        Coverage=cov_
                     )
                     for concept in language.concepts:
                         for form in concept.forms:
@@ -188,3 +268,19 @@ class Dataset(BaseDataset):
         args.log.info("Fails: {0}".format(all_scores.count(0)))
         args.log.info("Props: {0:.2f}".format(sum(all_scores)/len(all_scores)))
 
+        estring = ""
+        for (gold, test), results in errors.items():
+            args.log.info("{0:10} / {1:10} : {2}".format(gold, test, len(results)))
+            estring += "# {0} / {1}\n".format(gold, test)
+            for language, scoreS, colexis in results:
+                estring += "## {0} / {1} / {2}\n\n".format(language.id, language.name, scoreS)
+                table = []
+                for concept in language.concepts:
+                    if concept.id in all_concepts:
+                        row = []
+                        for system in ["Fiver", "Eighter", "Tener", "Twentier"]:
+                            row += [colexis[system].get(concept.id, "")]
+                        table += [[concept.id, " / ".join([unidecode(f.form) for f in concept.forms])]+row]
+                estring += tabulate(table, tablefmt="pipe", headers=["Concept", "Forms", "Fiver", "Eighter", "Tener", "Twentier"])+"\n\n"
+        with open(self.dir.joinpath("errors.md"), "w") as f:
+            f.write(estring)

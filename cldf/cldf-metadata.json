@@ -12,19 +12,19 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "a7636b2",
+            "dc:created": "d1d55b2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v2.6.0-1-g303e5ec",
             "dc:title": "Concepticon"
         },
         {
@@ -46,12 +46,6 @@
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/numerals",
-            "rdf:type": "prov:Entity",
-            "dc:created": "a8001124",
-            "dc:title": "Repository"
-        },
-        {
             "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
             "dc:created": "v1.2-4-g2a34d50",
@@ -62,6 +56,18 @@
             "rdf:type": "prov:Entity",
             "dc:created": "4bff680",
             "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/numerals",
+            "rdf:type": "prov:Entity",
+            "dc:created": "a8001124",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/numerals",
+            "rdf:type": "prov:Entity",
+            "dc:created": "a8001124",
+            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -71,7 +77,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.2"
+            "dc:description": "3.10.4"
         },
         {
             "dc:title": "python-packages",
@@ -84,7 +90,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 211895,
+            "dc:extent": 189223,
             "tableSchema": {
                 "columns": [
                     {
@@ -187,7 +193,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5603,
+            "dc:extent": 4077,
             "tableSchema": {
                 "columns": [
                     {
@@ -255,6 +261,11 @@
                     {
                         "datatype": "string",
                         "name": "Base"
+                    },
+                    {
+                        "dc:description": "Coverage of the language in comparison with our master concept list.",
+                        "datatype": "float",
+                        "name": "Coverage"
                     }
                 ],
                 "primaryKey": [
@@ -265,7 +276,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 159,
+            "dc:extent": 157,
             "tableSchema": {
                 "columns": [
                     {
