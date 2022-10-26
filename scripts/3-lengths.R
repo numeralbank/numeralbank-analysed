@@ -1,11 +1,14 @@
-#libraries----
-library(tidyverse)
-library(ggplot2)
+#load libraries----
+library(groundhog)
+my.date <- "2022-10-16"
+pkgs <- c("tidyverse","ggplot2")
+groundhog.library(pkgs,my.date)
 
 
 
-#setwd(getSrcDirectory()[1]) #if using R
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #if using RStudio
+#set working directory----
+#setwd(getSrcDirectory()[1]) # run this line if using R
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #run this line if using RStudio
 setwd('..')
 
 

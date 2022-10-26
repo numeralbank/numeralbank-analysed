@@ -1,13 +1,17 @@
-#libraries----
-library(tidyverse)
-library(ggplot2)
-library(cowplot) #function plot_grid
+#load libraries----
+library(groundhog)
+my.date <- "2022-10-16"
+pkgs <- c("tidyverse","ggplot2","cowplot","gridExtra")
+groundhog.library(pkgs,my.date)
 
 
-#set working directory
-#setwd(getSrcDirectory()[1]) #if using R
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #if using RStudio
+
+#set working directory----
+#setwd(getSrcDirectory()[1]) # run this line if using R
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #run this line if using RStudio
 setwd('..')
+
+
 
 #load data----
 forms <- read.csv("cldf/forms.csv")
@@ -51,7 +55,7 @@ simp.forms$Form <- sapply(simp.forms$Form, str_replace_all,"̩","")
 nrow(languages) #5336 > 4077
 unique(languages$Glottocode) #4347 > 3271
 unique(simp.forms$Language_ID) #5336 > 4077
-#fewer in all nb than in chan?
+#fewer in all nb than in chan? There were 5336 in numerals alone (chan), but only 4077 in all numeralbank-analysed
 
 #1-30 -----
 

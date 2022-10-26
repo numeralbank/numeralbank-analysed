@@ -1,11 +1,14 @@
 #load libraries----
-library(tidyverse)
-library(ggplot2)
-library(reshape)
+library(groundhog)
+my.date <- "2022-10-16"
+pkgs <- c("tidyverse","ggplot2","reshape")
+groundhog.library(pkgs,my.date)
 
-#set working directory
-#setwd(getSrcDirectory()[1]) #if using R
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #if using RStudio
+
+
+#set working directory----
+#setwd(getSrcDirectory()[1]) # run this line if using R
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #run this line if using RStudio
 setwd('..')
 
 #load data----
@@ -113,7 +116,7 @@ reusability <- function(the.numbers, language = "unknown language") {
   return(my.matrix)
 }
 
-#this functions gives the stats of the previous function
+#this functions gives the summary stats of the previous function
 
 reusability2 <- function(the.numbers, language = "unknown language") {
   max <- length(the.numbers)

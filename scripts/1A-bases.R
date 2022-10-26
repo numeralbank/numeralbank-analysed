@@ -1,12 +1,13 @@
 #load libraries----
-library(tidyverse)
-library(ggplot2)
-library(cowplot) #function plot_grid
+library(groundhog)
+my.date <- "2022-10-16"
+pkgs <- c("tidyverse","ggplot2","cowplot","RColorBrewer")
+groundhog.library(pkgs,my.date)
 
 
-#set working directory
-#setwd(getSrcDirectory()[1]) #if using R
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #if using RStudio
+#set working directory----
+#setwd(getSrcDirectory()[1]) # run this line if using R
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #run this line if using RStudio
 setwd('..')
 
 #load data----
@@ -17,10 +18,6 @@ parameters <- read.csv("cldf/parameters.csv")
 #convert categorical variables to factor
 new_factors <- c("Glottocode","Glottolog_Name","ISO639P3code","Macroarea","Family","BestBase","Base")
 languages[,new_factors] <- lapply(languages[,new_factors] ,factor)
-
-
-
-
 
 #visualize Base (from data) vs BestBase (inferred)----
 tablebases <- as.data.frame(table(languages$Base, languages$BestBase))
@@ -171,7 +168,6 @@ basemap <- ggplot(cldf_wide_df_long_shifted) +
 
 
 #Create a custom color scale
-library(RColorBrewer)
 myColors <- color_vector
 names(myColors) <- levels(cldf_wide_df_long_shifted$BestBase)
 colScale <- scale_colour_manual(name = "the.bases",values = myColors)
