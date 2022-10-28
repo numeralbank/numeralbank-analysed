@@ -15,21 +15,23 @@ Available online at https://numeralbank.clld.org
 ## Statistics
 
 
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-green.svg "Glottolog: 99%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 4,077
-- **Concepts:** 157
-- **Lexemes:** 189,223
+- **Varieties:** 6,560
+- **Concepts:** 162
+- **Lexemes:** 238,760
 - **Sources:** 0
-- **Synonymy:** 1.06
+- **Synonymy:** 1.08
 
 ## Possible Improvements:
 
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
 
 
-- Entries missing sources: 189223/189223 (100.00%)
+- Entries missing sources: 238760/238760 (100.00%)
 
 ## CLDF Datasets
 

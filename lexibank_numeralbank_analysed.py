@@ -209,11 +209,15 @@ class Dataset(BaseDataset):
             scores, cov, colexis = find_system_b(language, relations)
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
-            if cov_ < 0.75:
+            # TODO adjust coverage here
+            if cov_ < 0.25:
                 pass
                 #args.log.info("Ignoring {0} with low coverage".format(language.name))
             else:
+                # TODO: check for other annotations on numerals
                 if language.dataset == "numerals":
+                    real_base = language.data["Base"]
+                elif language.dataset == "sand":
                     real_base = language.data["Base"]
                 else:
                     real_base = "unknown"
@@ -249,6 +253,8 @@ class Dataset(BaseDataset):
                         Glottocode=language.glottocode,
                         Latitude=language.latitude,
                         Longitude=language.longitude,
+                        Macroarea=language.macroarea,
+                        # TODO add old bases here
                         Bases=scoreS,
                         BestBase=convert[bestSystem],
                         Base=real_base,
@@ -260,7 +266,8 @@ class Dataset(BaseDataset):
                                     Language_ID=language.id,
                                     Parameter_ID=slug(concept.id),
                                     Value=form.value,
-                                    Form=form.form,
+                                    # TODO: add unidecode here
+                                    Form=unidecode(form.form),
                                     Source=""
                                     )
         args.log.info("Tests: {0}".format(len(all_scores)))
