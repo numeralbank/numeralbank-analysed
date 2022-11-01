@@ -2,7 +2,7 @@ import pathlib
 
 import pycldf
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Language
+from pylexibank import Language, Lexeme
 from cltoolkit import Wordlist
 from pylexibank import progressbar
 from cldfzenodo import oai_lexibank
@@ -71,6 +71,12 @@ def find_system(language, relations):
             scores[system] = 0
     return scores, coverage, colexis
 
+
+@attr.s
+class CustomLexeme(Lexeme):
+    NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
+
+
 @attr.s
 class CustomLanguage(Language):
     BestBase = attr.ib(default=None)
@@ -94,6 +100,7 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "numeralbank-analysed"
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
 
 
     def cmd_download(self, args):
@@ -139,7 +146,7 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
 
-        all_concepts = {concept["CONCEPTICON_GLOSS"] for concept in self.concepts}
+        all_concepts = {concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts}
         datasets = [ds["ID"] for ds in self.etc_dir.read_csv(
             "datasets.tsv",
             delimiter="\t", dicts=True
@@ -251,14 +258,16 @@ class Dataset(BaseDataset):
                         BaseInSource=base_in_source
                     )
                     for concept in language.concepts:
-                        for form in concept.forms:
-                            args.writer.add_form(
-                                    Language_ID=language.id,
-                                    Parameter_ID=slug(concept.id),
-                                    Value=form.value,
-                                    Form=simple_chars(form.form),
-                                    Source=""
-                                    )
+                        if concept.id in all_concepts:
+                            for form in concept.forms:
+                                args.writer.add_form(
+                                        Language_ID=language.id,
+                                        Parameter_ID=slug(concept.id),
+                                        Value=form.value,
+                                        Form=simple_chars(form.form),
+                                        Source="",
+                                        NumberValue=all_concepts[concept.id]
+                                        )
         args.log.info("Tests: {0}".format(len(all_scores)))
         args.log.info("Hits:  {0}".format(all_scores.count(1)))
         args.log.info("Fails: {0}".format(all_scores.count(0)))
