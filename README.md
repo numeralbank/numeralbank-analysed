@@ -19,11 +19,11 @@ Available online at https://numeralbank.clld.org
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 6,560
-- **Concepts:** 162
-- **Lexemes:** 238,760
+- **Varieties:** 5,955
+- **Concepts:** 47
+- **Lexemes:** 206,902
 - **Sources:** 0
-- **Synonymy:** 1.08
+- **Synonymy:** 1.07
 
 ## Possible Improvements:
 
@@ -31,7 +31,7 @@ Available online at https://numeralbank.clld.org
   - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
 
 
-- Entries missing sources: 238760/238760 (100.00%)
+- Entries missing sources: 206902/206902 (100.00%)
 
 ## CLDF Datasets
 

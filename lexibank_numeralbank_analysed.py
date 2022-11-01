@@ -18,7 +18,6 @@ from clldutils.misc import slug
 
 
 def simple_chars(chars):
-
     return slug(unidecode(chars).replace("@", "a"))
 
 
@@ -170,7 +169,7 @@ class Dataset(BaseDataset):
         # relations conversion for our detection method
         convert = {
             "Tener": "decimal",
-            "Eighter": "octal",
+            "Twoer": "binary",
             "Twentier": "vigesimal",
             "Fiver": "quinary",
             "Unknown": "unknown"
@@ -196,7 +195,7 @@ class Dataset(BaseDataset):
                 }
         
 
-        all_scores = []
+        all_scores, mixed_scores = [], []
         errors = defaultdict(list)
         for language in progressbar(wl.languages):
             scores, cov, colexis = find_system(language, relations)
@@ -209,15 +208,21 @@ class Dataset(BaseDataset):
             else:
                 # TODO: check for other annotations on numerals
                 if language.dataset == "numerals":
-                    real_base = language.data["Base"]
+                    real_base = target_bases.get(
+                            language.data["Base"],
+                            "unknown")
                 elif language.dataset == "sand":
-                    real_base = language.data["Base"]
+                    real_base = target_bases.get(
+                            language.data["Base"], 
+                            "unknown")
                 else:
                     real_base = "unknown"
                 scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
                 bestSystems = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
                         reverse=True)]
                 bestSystem = bestSystems[0]
+                mixed_systems = [convert[k] for k, v in sorted(scores.items(),
+                    key=lambda x: x[1], reverse=True) if v > 0.05]
                 #secondSystem = bestSystems[1]
 
                 if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
@@ -229,12 +234,10 @@ class Dataset(BaseDataset):
 
                 if bestSystem:
                     # check for correctness, can be expanded when more systems available
-                    base_in_source = target_bases.get(real_base, "")
-                    if real_base in ["quinary", "octal", "decimal", "vigesimal"]:
+                    base_in_source = real_base
+                    if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov_ >= 0.75:
                         if real_base == convert[bestSystem]:
                             all_scores += [1]
-                        elif convert[bestSystem] in real_base:
-                            all_scores += [0.5]
                         else:
                             all_scores += [0]
                             errors[real_base, bestSystem] += [[
@@ -242,6 +245,10 @@ class Dataset(BaseDataset):
                                 scoreS,
                                 colexis
                             ]]
+                        if real_base in mixed_systems:
+                            mixed_scores += [1/len(mixed_systems)]
+                        else:
+                            mixed_scores += [0]
                     else:
                         real_base = "unknown"
                     args.writer.add_language(
@@ -273,6 +280,12 @@ class Dataset(BaseDataset):
         args.log.info("Fails: {0}".format(all_scores.count(0)))
         args.log.info("Props: {0:.2f}".format(sum(all_scores)/len(all_scores)))
 
+        args.log.info("Tests: {0}".format(len(mixed_scores)))
+        args.log.info("Hits:  {0}".format(sum(mixed_scores)))
+        args.log.info("Fails: {0}".format(mixed_scores.count(0)))
+        args.log.info("Props: {0:.2f}".format(sum(mixed_scores)/len(mixed_scores)))
+
+
         estring = ""
         for (gold, test), results in errors.items():
             args.log.info("{0:10} / {1:10} : {2}".format(gold, test, len(results)))
@@ -283,9 +296,11 @@ class Dataset(BaseDataset):
                 for concept in language.concepts:
                     if concept.id in all_concepts:
                         row = []
-                        for system in ["Fiver", "Eighter", "Tener", "Twentier"]:
+                        for system in ["Fiver", "Twoer", "Tener", "Twentier"]:
                             row += [colexis[system].get(concept.id, "")]
-                        table += [[concept.id, " / ".join([unidecode(f.form) for f in concept.forms])]+row]
-                estring += tabulate(table, tablefmt="pipe", headers=["Concept", "Forms", "Fiver", "Eighter", "Tener", "Twentier"])+"\n\n"
+                        table += [[concept.id, " / ".join([simple_chars(f.form) for f in concept.forms])]+row]
+                estring += tabulate(
+                        table, tablefmt="pipe", 
+                        headers=["Concept", "Forms", "Fiver", "Twoer", "Tener", "Twentier"])+"\n\n"
         with open(self.dir.joinpath("errors.md"), "w") as f:
             f.write(estring)

@@ -10,27 +10,18 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numeralbank.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/bb998ec">numeralbank/numeralbank-analysed bb998ec</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.6.0">Concepticon v2.6.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/3b35405">numeralbank/sand 3b35405</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/ff267d2">numeralbank/bowernnumerals ff267d2</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/2a34d50">numeralbank/barlowpacific v1.2-4-g2a34d50</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/8a53b96">numeralbank/numeralbank-analysed 8a53b96</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.6.0">Concepticon v2.6.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/2a34d50">numeralbank/barlowpacific v1.2-4-g2a34d50</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/ff267d2">numeralbank/bowernnumerals ff267d2</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/numeralbank/sand/tree/3b35405">numeralbank/sand 3b35405</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
 
-
-Raw lexical data item as it can be pulled out of the original datasets.
-
-This is the basis for creating rows in CLDF representations of the data by
-- splitting the lexical item into forms
-- cleaning the forms
-- potentially tokenizing the form
-
-
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 238760
+[dc:extent](http://purl.org/dc/terms/extent) | 206902
 
 
 ### Columns
@@ -50,13 +41,14 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
+`NumberValue` | `integer` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 6560
+[dc:extent](http://purl.org/dc/terms/extent) | 5955
 
 
 ### Columns
@@ -76,13 +68,15 @@ Name/Property | Datatype | Description
 `Bases` | `string` | 
 `Base` | `string` | 
 `Coverage` | `float` | Coverage of the language in comparison with our master concept list.
+`OneToThirty` | `string` | 
+`BaseInSource` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 162
+[dc:extent](http://purl.org/dc/terms/extent) | 47
 
 
 ### Columns

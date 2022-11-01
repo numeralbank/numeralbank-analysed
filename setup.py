@@ -20,9 +20,6 @@ setup(
         'cldfbench.dataset': [
             'lexibank-analysed=cldfbench_numeralbank_analysed:Dataset',
         ],
-        'cldfbench.commands': [
-            'lexibank-analysed=numeralbank_analysed_commands',
-        ],
     },
     platforms='any',
     python_requires='>=3.6',

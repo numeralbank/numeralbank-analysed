@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "bb998ec",
+            "dc:created": "8a53b96",
             "dc:title": "Repository"
         },
         {
@@ -34,9 +34,9 @@
             "dc:title": "CLTS"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/sand",
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
-            "dc:created": "3b35405",
+            "dc:created": "v1.2-4-g2a34d50",
             "dc:title": "Repository"
         },
         {
@@ -46,21 +46,21 @@
             "dc:title": "Repository"
         },
         {
+            "rdf:about": "https://github.com/numeralbank/googleuninum",
+            "rdf:type": "prov:Entity",
+            "dc:created": "4bff680",
+            "dc:title": "Repository"
+        },
+        {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
             "dc:created": "a8001124",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-4-g2a34d50",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/googleuninum",
-            "rdf:type": "prov:Entity",
-            "dc:created": "4bff680",
+            "dc:created": "3b35405",
             "dc:title": "Repository"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.10.4"
         },
         {
             "dc:title": "python-packages",
@@ -86,14 +86,10 @@
     ],
     "rdf:ID": "numeralbank-analysed",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 238760,
+            "dc:extent": 206902,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,6 +158,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "NumberValue"
                     }
                 ],
                 "foreignKeys": [
@@ -196,7 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 6560,
+            "dc:extent": 5955,
             "tableSchema": {
                 "columns": [
                     {
@@ -269,6 +269,14 @@
                         "dc:description": "Coverage of the language in comparison with our master concept list.",
                         "datatype": "float",
                         "name": "Coverage"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "OneToThirty"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "BaseInSource"
                     }
                 ],
                 "primaryKey": [
@@ -279,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 162,
+            "dc:extent": 47,
             "tableSchema": {
                 "columns": [
                     {
