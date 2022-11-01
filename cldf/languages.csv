@@ -1,79 +1,79 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,BestBase,Bases,Base,Coverage,OneToThirty,BaseInSource
 bowernnumerals-Kamil,Kamilaroi,gami1243,Yuwaalaraay-Gamilaraay,kld,Australia,-29.9037,149.543,Pama-Nyungan,binary,Fiver:0.12 Tener:0.00 Twentier:0.00 Twoer:0.16,unknown,0.425531914893617,,unknown
-sand-Spiti,Spiti,spit1240,Spiti Bhoti,spt,Eurasia,32.53,77.83,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.55 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Ladakhi,Ladakhi,lada1244,Leh Ladakhi,lbj,Eurasia,33.47,80.6,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.51 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Khoibu,Khoibu,khoi1251,Khoibu,nkb,Eurasia,24.2,94.13,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Ao,Ao,aona1235,Ao Naga,njo,Eurasia,26.32,94.38,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.32 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Adi,Adi,bori1243,Bori-Karko,adi,Eurasia,27.63,94.35,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Bodo,Bodo,bodo1269,Bodo-Mech,brx,Eurasia,26.1,92,Sino-Tibetan,decimal,Fiver:0.02 Tener:1.00 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Meiteilon,Meiteilon,meit1246,Meitei,,Eurasia,,,Sino-Tibetan,vigesimal,Fiver:0.00 Tener:0.27 Twentier:0.83 Twoer:0.00,unknown,1.0,,unknown
-sand-Thangal,Thangal,than1255,Thangal Naga,nki,Eurasia,25.35,93.84,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Tangkhul,Tangkhul,tang1336,East-Central Tangkhul Naga,nmf,Eurasia,25.05,94.36,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.34 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Tinkarlo,Tinkarlo,,,,,,,,decimal,Fiver:0.00 Tener:0.39 Twentier:0.00 Twoer:0.00,unknown,0.9787234042553191,,unknown
-sand-Lotha,Lotha,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.32 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Rongmei,Rongmei,rong1266,Rongmei Naga,nbu,Eurasia,25.1,93.79,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.46 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Angami,Angami,anga1288,Angami Naga,njm,Eurasia,25.68,93.87,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.20 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Jad,Jad,jadd1243,Jad,jda,Eurasia,30.24,79.15,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.42 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Bhoti,Bhoti,stod1241,Stod Bhoti,sbu,Eurasia,32.5,77.12,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.68 Twentier:0.00 Twoer:0.04,unknown,1.0,,unknown
-sand-Thadou,Thadou,thad1238,Thado Chin,tcz,Eurasia,24.1,93.72,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.38,94,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Hajong,Hajong,hajo1238,Hajong,haj,Eurasia,25.51,89.86,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Ho,Ho,hooo1248,Ho,hoc,Eurasia,23.96,87.12,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.13 Twentier:0.92 Twoer:0.00,unknown,1.0,,unknown
-sand-Kharia,Kharia,khar1287,Kharia,khr,Eurasia,22.36,84.39,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.45 Twentier:1.00 Twoer:0.04,unknown,1.0,,unknown
-sand-Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92,Austroasiatic,decimal,Fiver:0.00 Tener:0.38 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Pnar,Pnar,pnar1238,Pnar,pbv,Eurasia,24.82,92.26,Austroasiatic,decimal,Fiver:0.00 Tener:0.52 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Santali,Santali,sant1410,Santali,sat,Eurasia,25.03,87.82,Austroasiatic,decimal,Fiver:0.00 Tener:1.00 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Mundari,Mundari,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.25 Twentier:0.92 Twoer:0.04,unknown,1.0,,unknown
-sand-Korku,Korku,kork1243,Korku,kfq,Eurasia,21.84,77.55,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.45 Twentier:1.00 Twoer:0.00,unknown,0.9787234042553191,,unknown
-sand-Sora,Sora,sora1254,Sora,srb,Eurasia,19.12,84.19,Austroasiatic,vigesimal,Fiver:0.07 Tener:0.01 Twentier:0.83 Twoer:0.00,unknown,0.9787234042553191,,unknown
-sand-CarNicobarese,Car Nicobarese,carn1240,Car Nicobarese,caq,Eurasia,9.19,92.77,Austroasiatic,decimal,Fiver:0.00 Tener:0.59 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Sanenyo,Sanenyo,,,,,,,,decimal,Fiver:0.04 Tener:0.59 Twentier:0.08 Twoer:0.16,unknown,1.0,,unknown
-sand-Luro,Luro,,,,,,,,decimal,Fiver:0.02 Tener:0.59 Twentier:0.00 Twoer:0.08,unknown,1.0,,unknown
-sand-Kannada,Kannada,nucl1305,Kannada,kan,Eurasia,13.59,76.12,Dravidian,unknown,Fiver:0.04 Tener:0.03 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Toda,Toda,toda1252,Toda,tcx,Eurasia,11.42,77.02,Dravidian,unknown,Fiver:0.00 Tener:0.04 Twentier:0.00 Twoer:0.04,unknown,1.0,,unknown
-sand-Gondi,Gondi,nort2702,Northern Gondi,gno,Eurasia,18.16,81.38,Dravidian,vigesimal,Fiver:0.00 Tener:0.00 Twentier:0.08 Twoer:0.00,unknown,0.9787234042553191,,unknown
-sand-Kota,Kota,kota1263,Kota (India),kfe,Eurasia,11.5,76.94,Dravidian,decimal,Fiver:0.00 Tener:0.08 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kodagu,Kodagu,koda1255,Kodava,kfa,Eurasia,12.24,75.92,Dravidian,decimal,Fiver:0.00 Tener:0.27 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Tamil,Tamil,tami1289,Tamil,tam,Eurasia,10.52,78.83,Dravidian,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Malayalam,Malayalam,mala1464,Malayalam,mal,Eurasia,9.59,76.77,Dravidian,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Telugu,Telugu,telu1262,Telugu,tel,Eurasia,16.45,78.7,Dravidian,decimal,Fiver:0.00 Tener:0.24 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kurukh,Kurukh,kuru1301,Kurukh,kru,Eurasia,24.46,86.47,Dravidian,decimal,Fiver:0.00 Tener:1.00 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Badaga,Badaga,bada1257,Badaga,bfq,Eurasia,11.31,76.6,Dravidian,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kulvi,Kulvi,kull1236,Kullu Pahari,kfx,Eurasia,31.83,77.38,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Gaddi,Gaddi,gadd1242,Gaddi,gbk,Eurasia,32.36,76.57,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kumaoni,Kumaoni,kuma1273,Kumaoni,kfy,Eurasia,29.56,80.02,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Garhwali,Garhwali,garh1243,Garhwali,gbm,Eurasia,30.51,78.72,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Dogri,Dogri,dogr1250,Dogri,dgo,Eurasia,32.55,75.71,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Konkani,Konkani,goan1235,Goan Konkani,gom,Eurasia,15.27,74.21,Indo-European,decimal,Fiver:0.00 Tener:0.15 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Nepali,Nepali,nepa1254,Nepali,npi,Eurasia,28,85,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kudmali,Kudmali,kudm1238,Kudmali,kyw,Eurasia,25.92,87.33,Indo-European,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Bengali,Bengali,beng1280,Bengali,ben,Eurasia,24,90,Indo-European,decimal,Fiver:0.00 Tener:0.07 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.09,91.29,Indo-European,decimal,Fiver:0.00 Tener:0.15 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Marwari,Marwari,marw1260,Marwari (India),rwr,Eurasia,27,75.07,Indo-European,unknown,Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-PakistaniPunjabi,PakistaniPunjabi,west2386,Western Panjabi,pnb,Eurasia,30.0948,75.3474,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-IndianPunjabi,IndianPunjabi,panj1256,Eastern Panjabi,pan,Eurasia,30.0368,75.6702,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Oriya,Oriya,adiv1239,Kotia-Adivasi Oriya-Desiya,ort,Eurasia,18.1,82.85,Indo-European,decimal,Fiver:0.00 Tener:0.07 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Kashmiri,Kashmiri,kash1277,Kashmiri,kas,Eurasia,34.17,74.33,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Marathi,Marathi,mara1378,Marathi,mar,Eurasia,17.93,76.67,Indo-European,decimal,Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Gujarati,Gujarati,guja1252,Gujarati,guj,Eurasia,22.69,71.1,Indo-European,decimal,Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Sindhi,Sindhi,sind1272,Sindhi,snd,Eurasia,26,69,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Pahari,Pahari,paha1251,Pahari Potwari,phr,Eurasia,33.64,73.81,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Nagpuri,Nagpuri,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Wagdi,Wagdi,wagd1238,Wagdi,wbr,Eurasia,23.69,73.9,Indo-European,unknown,Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Bajjika,Bajjika,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Sanskrit,Sanskrit,sans1269,Sanskrit,san,Eurasia,20,77,Indo-European,decimal,Fiver:0.00 Tener:0.21 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Panchparganiya,Panchparganiya,panc1246,Panchpargania,tdb,Eurasia,23.45,85.8,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Sylheti,Sylheti,sylh1242,Sylheti,syl,Eurasia,24.84,92.25,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Urdu,Urdu,urdu1245,Urdu,urd,Eurasia,25,67,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Halbi,Halbi,halb1244,Halbi,hlb,Eurasia,20.31,81.37,Indo-European,vigesimal,Fiver:0.00 Tener:0.01 Twentier:0.92 Twoer:0.00,unknown,1.0,,unknown
-sand-Khortha,Khortha,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Sinhala,Sinhala,sinh1246,Sinhala,sin,Eurasia,8,81,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.04,unknown,1.0,,unknown
-sand-Palula,Palula,phal1254,Palula,phl,Eurasia,35.51,71.84,Indo-European,vigesimal,Fiver:0.00 Tener:0.03 Twentier:0.92 Twoer:0.08,unknown,1.0,,unknown
-sand-Rohingya,Rohingya,rohi1238,Rohingya,rhg,Eurasia,20.83,92.39,Indo-European,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Rajbongshi,Rajbongshi,rajb1243,Rajbanshi,rjs,Eurasia,26.52,88.04,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-TaiKhamti,Tai-Khamti,kham1290,Khamti,kht,Eurasia,27.67,97.04,Tai-Kadai,decimal,Fiver:0.02 Tener:0.59 Twentier:0.00 Twoer:0.04,unknown,1.0,,unknown
-sand-Nihali,Nihali,niha1238,Nihali,nll,Eurasia,21.19,76.33,Nihali,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,unknown,1.0,,unknown
-sand-Burushaski,Burushaski,buru1296,Burushaski,bsk,Eurasia,36.22,74.82,Burushaski,vigesimal,Fiver:0.02 Tener:0.39 Twentier:1.00 Twoer:0.04,unknown,1.0,,unknown
+sand-Spiti,Spiti,spit1240,Spiti Bhoti,spt,Eurasia,32.53,77.83,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.55 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Ladakhi,Ladakhi,lada1244,Leh Ladakhi,lbj,Eurasia,33.47,80.6,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.51 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Khoibu,Khoibu,khoi1251,Khoibu,nkb,Eurasia,24.2,94.13,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Ao,Ao,aona1235,Ao Naga,njo,Eurasia,26.32,94.38,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.32 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Adi,Adi,bori1243,Bori-Karko,adi,Eurasia,27.63,94.35,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Bodo,Bodo,bodo1269,Bodo-Mech,brx,Eurasia,26.1,92,Sino-Tibetan,decimal,Fiver:0.02 Tener:1.00 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Meiteilon,Meiteilon,meit1246,Meitei,,Eurasia,,,Sino-Tibetan,vigesimal,Fiver:0.00 Tener:0.27 Twentier:0.83 Twoer:0.00,vigesimal,1.0,,vigesimal
+sand-Thangal,Thangal,than1255,Thangal Naga,nki,Eurasia,25.35,93.84,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Tangkhul,Tangkhul,tang1336,East-Central Tangkhul Naga,nmf,Eurasia,25.05,94.36,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.34 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Tinkarlo,Tinkarlo,,,,,,,,decimal,Fiver:0.00 Tener:0.39 Twentier:0.00 Twoer:0.00,unknown,0.9787234042553191,,decimal/vigesimal
+sand-Lotha,Lotha,loth1237,Lotha Naga,njh,Eurasia,26.01,94.04,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.32 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Rongmei,Rongmei,rong1266,Rongmei Naga,nbu,Eurasia,25.1,93.79,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.46 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Angami,Angami,anga1288,Angami Naga,njm,Eurasia,25.68,93.87,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.20 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Jad,Jad,jadd1243,Jad,jda,Eurasia,30.24,79.15,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.42 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Bhoti,Bhoti,stod1241,Stod Bhoti,sbu,Eurasia,32.5,77.12,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.68 Twentier:0.00 Twoer:0.04,decimal,1.0,,decimal
+sand-Thadou,Thadou,thad1238,Thado Chin,tcz,Eurasia,24.1,93.72,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.87 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.38,94,Sino-Tibetan,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Hajong,Hajong,hajo1238,Hajong,haj,Eurasia,25.51,89.86,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Ho,Ho,hooo1248,Ho,hoc,Eurasia,23.96,87.12,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.13 Twentier:0.92 Twoer:0.00,vigesimal,1.0,,vigesimal
+sand-Kharia,Kharia,khar1287,Kharia,khr,Eurasia,22.36,84.39,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.45 Twentier:1.00 Twoer:0.04,vigesimal,1.0,,vigesimal
+sand-Khasi,Khasi,khas1269,Khasi,kha,Eurasia,24.98,92,Austroasiatic,decimal,Fiver:0.00 Tener:0.38 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Pnar,Pnar,pnar1238,Pnar,pbv,Eurasia,24.82,92.26,Austroasiatic,decimal,Fiver:0.00 Tener:0.52 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Santali,Santali,sant1410,Santali,sat,Eurasia,25.03,87.82,Austroasiatic,decimal,Fiver:0.00 Tener:1.00 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Mundari,Mundari,mund1320,Mundari,unr,Eurasia,23.03,85.85,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.25 Twentier:0.92 Twoer:0.04,vigesimal,1.0,,vigesimal
+sand-Korku,Korku,kork1243,Korku,kfq,Eurasia,21.84,77.55,Austroasiatic,vigesimal,Fiver:0.00 Tener:0.45 Twentier:1.00 Twoer:0.00,vigesimal,0.9787234042553191,,vigesimal
+sand-Sora,Sora,sora1254,Sora,srb,Eurasia,19.12,84.19,Austroasiatic,vigesimal,Fiver:0.07 Tener:0.01 Twentier:0.83 Twoer:0.00,vigesimal,0.9787234042553191,,vigesimal
+sand-CarNicobarese,Car Nicobarese,carn1240,Car Nicobarese,caq,Eurasia,9.19,92.77,Austroasiatic,decimal,Fiver:0.00 Tener:0.59 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Sanenyo,Sanenyo,,,,,,,,decimal,Fiver:0.04 Tener:0.59 Twentier:0.08 Twoer:0.16,decimal,1.0,,decimal
+sand-Luro,Luro,,,,,,,,decimal,Fiver:0.02 Tener:0.59 Twentier:0.00 Twoer:0.08,decimal,1.0,,decimal
+sand-Kannada,Kannada,nucl1305,Kannada,kan,Eurasia,13.59,76.12,Dravidian,unknown,Fiver:0.04 Tener:0.03 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Toda,Toda,toda1252,Toda,tcx,Eurasia,11.42,77.02,Dravidian,unknown,Fiver:0.00 Tener:0.04 Twentier:0.00 Twoer:0.04,decimal,1.0,,decimal
+sand-Gondi,Gondi,nort2702,Northern Gondi,gno,Eurasia,18.16,81.38,Dravidian,vigesimal,Fiver:0.00 Tener:0.00 Twentier:0.08 Twoer:0.00,vigesimal,0.9787234042553191,,vigesimal
+sand-Kota,Kota,kota1263,Kota (India),kfe,Eurasia,11.5,76.94,Dravidian,decimal,Fiver:0.00 Tener:0.08 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kodagu,Kodagu,koda1255,Kodava,kfa,Eurasia,12.24,75.92,Dravidian,decimal,Fiver:0.00 Tener:0.27 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Tamil,Tamil,tami1289,Tamil,tam,Eurasia,10.52,78.83,Dravidian,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Malayalam,Malayalam,mala1464,Malayalam,mal,Eurasia,9.59,76.77,Dravidian,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Telugu,Telugu,telu1262,Telugu,tel,Eurasia,16.45,78.7,Dravidian,decimal,Fiver:0.00 Tener:0.24 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kurukh,Kurukh,kuru1301,Kurukh,kru,Eurasia,24.46,86.47,Dravidian,decimal,Fiver:0.00 Tener:1.00 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Badaga,Badaga,bada1257,Badaga,bfq,Eurasia,11.31,76.6,Dravidian,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kulvi,Kulvi,kull1236,Kullu Pahari,kfx,Eurasia,31.83,77.38,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Gaddi,Gaddi,gadd1242,Gaddi,gbk,Eurasia,32.36,76.57,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kumaoni,Kumaoni,kuma1273,Kumaoni,kfy,Eurasia,29.56,80.02,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Garhwali,Garhwali,garh1243,Garhwali,gbm,Eurasia,30.51,78.72,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Dogri,Dogri,dogr1250,Dogri,dgo,Eurasia,32.55,75.71,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Konkani,Konkani,goan1235,Goan Konkani,gom,Eurasia,15.27,74.21,Indo-European,decimal,Fiver:0.00 Tener:0.15 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Nepali,Nepali,nepa1254,Nepali,npi,Eurasia,28,85,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kudmali,Kudmali,kudm1238,Kudmali,kyw,Eurasia,25.92,87.33,Indo-European,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Bengali,Bengali,beng1280,Bengali,ben,Eurasia,24,90,Indo-European,decimal,Fiver:0.00 Tener:0.07 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.09,91.29,Indo-European,decimal,Fiver:0.00 Tener:0.15 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Marwari,Marwari,marw1260,Marwari (India),rwr,Eurasia,27,75.07,Indo-European,unknown,Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-PakistaniPunjabi,PakistaniPunjabi,west2386,Western Panjabi,pnb,Eurasia,30.0948,75.3474,Indo-European,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-IndianPunjabi,IndianPunjabi,panj1256,Eastern Panjabi,pan,Eurasia,30.0368,75.6702,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Oriya,Oriya,adiv1239,Kotia-Adivasi Oriya-Desiya,ort,Eurasia,18.1,82.85,Indo-European,decimal,Fiver:0.00 Tener:0.07 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Kashmiri,Kashmiri,kash1277,Kashmiri,kas,Eurasia,34.17,74.33,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Marathi,Marathi,mara1378,Marathi,mar,Eurasia,17.93,76.67,Indo-European,decimal,Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Gujarati,Gujarati,guja1252,Gujarati,guj,Eurasia,22.69,71.1,Indo-European,decimal,Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Sindhi,Sindhi,sind1272,Sindhi,snd,Eurasia,26,69,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Pahari,Pahari,paha1251,Pahari Potwari,phr,Eurasia,33.64,73.81,Indo-European,unknown,Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Nagpuri,Nagpuri,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Wagdi,Wagdi,wagd1238,Wagdi,wbr,Eurasia,23.69,73.9,Indo-European,unknown,Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Bajjika,Bajjika,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Sanskrit,Sanskrit,sans1269,Sanskrit,san,Eurasia,20,77,Indo-European,decimal,Fiver:0.00 Tener:0.21 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Panchparganiya,Panchparganiya,panc1246,Panchpargania,tdb,Eurasia,23.45,85.8,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Sylheti,Sylheti,sylh1242,Sylheti,syl,Eurasia,24.84,92.25,Indo-European,decimal,Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Urdu,Urdu,urdu1245,Urdu,urd,Eurasia,25,67,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Halbi,Halbi,halb1244,Halbi,hlb,Eurasia,20.31,81.37,Indo-European,vigesimal,Fiver:0.00 Tener:0.01 Twentier:0.92 Twoer:0.00,vigesimal,1.0,,vigesimal
+sand-Khortha,Khortha,,,,,,,,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Sinhala,Sinhala,sinh1246,Sinhala,sin,Eurasia,8,81,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.04,decimal,1.0,,decimal
+sand-Palula,Palula,phal1254,Palula,phl,Eurasia,35.51,71.84,Indo-European,vigesimal,Fiver:0.00 Tener:0.03 Twentier:0.92 Twoer:0.08,vigesimal,1.0,,vigesimal
+sand-Rohingya,Rohingya,rohi1238,Rohingya,rhg,Eurasia,20.83,92.39,Indo-European,decimal,Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Rajbongshi,Rajbongshi,rajb1243,Rajbanshi,rjs,Eurasia,26.52,88.04,Indo-European,decimal,Fiver:0.00 Tener:0.13 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-TaiKhamti,Tai-Khamti,kham1290,Khamti,kht,Eurasia,27.67,97.04,Tai-Kadai,decimal,Fiver:0.02 Tener:0.59 Twentier:0.00 Twoer:0.04,decimal,1.0,,decimal
+sand-Nihali,Nihali,niha1238,Nihali,nll,Eurasia,21.19,76.33,Nihali,decimal,Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00,decimal,1.0,,decimal
+sand-Burushaski,Burushaski,buru1296,Burushaski,bsk,Eurasia,36.22,74.82,Burushaski,vigesimal,Fiver:0.02 Tener:0.39 Twentier:1.00 Twoer:0.04,vigesimal,1.0,,vigesimal
 numerals-aari1239-1,"Aari, Ethiopia",aari1239,Aari,aiw,Africa,5.95034,36.5721,South Omotic,vigesimal,Fiver:0.00 Tener:0.00 Twentier:0.67 Twoer:0.00,vigesimal,0.8085106382978723,,vigesimal
 numerals-abad1241-1,"Gabadi, Papua New Guinea",abad1241,Abadi,kbt,Papunesia,-9.03389,146.992,Austronesian,decimal,Fiver:0.04 Tener:0.44 Twentier:0.00 Twoer:0.04,decimal,0.8085106382978723,,decimal
 numerals-abar1238-1,"Mungbam (Abar), Cameroon",abar1238,Mungbam,mij,Africa,6.5805,10.2267,Atlantic-Congo,decimal,Fiver:0.00 Tener:0.69 Twentier:0.00 Twoer:0.08,unknown,0.5319148936170213,,decimal

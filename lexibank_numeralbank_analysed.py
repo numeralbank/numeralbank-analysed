@@ -178,7 +178,11 @@ class Dataset(BaseDataset):
         # how to represent basic relations in Chan, which are frequent enough
         # in the data
         target_bases = {
+                "Decimal": "decimal",
                 "decimal": "decimal",
+                "Decimal-Vigesimal": "decimal/vigesimal",
+                "Vigesimal": "vigesimal",
+                "Restricted": "restricted",
                 "vigesimal": "vigesimal",
                 "quinary": "quinary",
                 "quinary AND decimal": "quinary/decimal",
