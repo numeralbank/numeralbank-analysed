@@ -17,6 +17,11 @@ from unidecode import unidecode
 from clldutils.misc import slug
 
 
+def simple_chars(chars):
+
+    return slug(unidecode(chars).replace("@", "a"))
+
+
 def common_substring(seqA, seqB):
     almA, almB, _ = sw_align(seqA, seqB)
     alm_a, alm_b = almA[1], almB[1]
@@ -267,7 +272,7 @@ class Dataset(BaseDataset):
                                     Parameter_ID=slug(concept.id),
                                     Value=form.value,
                                     # TODO: add unidecode here
-                                    Form=unidecode(form.form),
+                                    Form=simple_chars(form.form),
                                     Source=""
                                     )
         args.log.info("Tests: {0}".format(len(all_scores)))
