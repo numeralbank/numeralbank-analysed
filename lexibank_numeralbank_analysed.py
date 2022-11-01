@@ -39,34 +39,9 @@ def common_substring(seqA, seqB):
     return len(subs)
 
 
+
+
 def find_system(language, relations):
-    scores = {}
-    coverage = {}
-    for system in relations:
-        score, count = 0, 0
-        coverage[system] = 0
-        for conceptA, conceptB in relations[system]:
-            hit = False
-            try:
-                for formA in language.concepts[conceptA].forms:
-                    for formB in language.concepts[conceptB].forms:
-                        if formA.form in formB.form:
-                            hit = True
-                            break
-                if hit:
-                    score += 1
-                count += 1
-                coverage[system] += 1
-            except KeyError:
-                pass
-        if count:
-            scores[system] = score / count
-        else:
-            scores[system] = 0
-    return scores, coverage
-
-
-def find_system_b(language, relations):
     scores = {}
     coverage = {}
     colexis = {}
@@ -90,25 +65,11 @@ def find_system_b(language, relations):
                     coverage[system] += 1
                 except KeyError:
                     pass
-            #elif relation == "substring":
-            #    try:
-            #        for formA in language.concepts[conceptA].forms:
-            #            for formB in language.concepts[conceptB].forms:
-            #                if common_substring(formA.form, formB.form) >= 3:
-            #                    hit = True
-            #                    break
-            #        if hit:
-            #            score += 1
-            #        count += 1
-            #        coverage[system] += 1
-            #    except KeyError:
-            #        pass
         if count:
             scores[system] = score / count
         else:
             scores[system] = 0
     return scores, coverage, colexis
-
 
 @attr.s
 class CustomLanguage(Language):
@@ -121,6 +82,8 @@ class CustomLanguage(Language):
             'datatype': 'float',
             'dc:description': 'Coverage of the language in comparison with our master concept list.'}
     )
+    OneToThirty = attr.ib(default=None)
+    BaseInSource = attr.ib(default=None)
 
 
 def coverage(language, concepts):
@@ -173,9 +136,6 @@ class Dataset(BaseDataset):
                         args.log.error('found neither main nor master branch')
                 repo.git.merge()
 
-        #with self.raw_dir.temp_download(CLTS_2_1[0], 'ds.zip', log=args.log) as zipp:
-        #    zipfile.ZipFile(str(zipp)).extractall(self.raw_dir)
-
 
     def cmd_makecldf(self, args):
 
@@ -184,7 +144,6 @@ class Dataset(BaseDataset):
             "datasets.tsv",
             delimiter="\t", dicts=True
             )]
-        #datasets = ["testing"]
         wl = Wordlist([
             pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
@@ -201,6 +160,7 @@ class Dataset(BaseDataset):
         with open(self.raw_dir.joinpath("unique_relations.json")) as f:
             relations = json.load(f)
 
+        # relations conversion for our detection method
         convert = {
             "Tener": "decimal",
             "Eighter": "octal",
@@ -208,10 +168,31 @@ class Dataset(BaseDataset):
             "Fiver": "quinary",
             "Unknown": "unknown"
         }
+
+        # how to represent basic relations in Chan, which are frequent enough
+        # in the data
+        target_bases = {
+                "decimal": "decimal",
+                "vigesimal": "vigesimal",
+                "quinary": "quinary",
+                "quinary AND decimal": "quinary/decimal",
+                "quinary AND vigesimal": "quinary/vigesimal",
+                "binary": "binary",
+                "decimal AND vigesimal": "decimal/vigesimal",
+                "duodecimal": "duodecimal",
+                "octal": "octal",
+                "quinary OR decimal": "quinary/decimal",
+                "quinary AND vigesimal OR decimal": "quinary/vigesimal",
+                "quinary AND double decimal": "quinary/decimal",
+                "octal AND decimal": "octal",
+                "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal"
+                }
+        
+
         all_scores = []
         errors = defaultdict(list)
         for language in progressbar(wl.languages):
-            scores, cov, colexis = find_system_b(language, relations)
+            scores, cov, colexis = find_system(language, relations)
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
             # TODO adjust coverage here
@@ -227,8 +208,10 @@ class Dataset(BaseDataset):
                 else:
                     real_base = "unknown"
                 scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
-                bestSystem = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
-                        reverse=True)][0]
+                bestSystems = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
+                        reverse=True)]
+                bestSystem = bestSystems[0]
+                #secondSystem = bestSystems[1]
 
                 if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
                     bestSystem = ""
@@ -239,9 +222,12 @@ class Dataset(BaseDataset):
 
                 if bestSystem:
                     # check for correctness, can be expanded when more systems available
+                    base_in_source = target_bases.get(real_base, "")
                     if real_base in ["quinary", "octal", "decimal", "vigesimal"]:
                         if real_base == convert[bestSystem]:
                             all_scores += [1]
+                        elif convert[bestSystem] in real_base:
+                            all_scores += [0.5]
                         else:
                             all_scores += [0]
                             errors[real_base, bestSystem] += [[
@@ -251,7 +237,6 @@ class Dataset(BaseDataset):
                             ]]
                     else:
                         real_base = "unknown"
-                    #args.log.info("{0} / {1}".format(language.name, bestSystem))
                     args.writer.add_language(
                         ID=language.id,
                         Name=language.name,
@@ -259,11 +244,11 @@ class Dataset(BaseDataset):
                         Latitude=language.latitude,
                         Longitude=language.longitude,
                         Macroarea=language.macroarea,
-                        # TODO add old bases here
                         Bases=scoreS,
                         BestBase=convert[bestSystem],
                         Base=real_base,
-                        Coverage=cov_
+                        Coverage=cov_,
+                        BaseInSource=base_in_source
                     )
                     for concept in language.concepts:
                         for form in concept.forms:
@@ -271,7 +256,6 @@ class Dataset(BaseDataset):
                                     Language_ID=language.id,
                                     Parameter_ID=slug(concept.id),
                                     Value=form.value,
-                                    # TODO: add unidecode here
                                     Form=simple_chars(form.form),
                                     Source=""
                                     )
