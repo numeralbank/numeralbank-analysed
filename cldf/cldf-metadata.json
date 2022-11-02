@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "c2da7f7",
+            "dc:created": "c4abdd2",
             "dc:title": "Repository"
         },
         {
@@ -34,9 +34,9 @@
             "dc:title": "CLTS"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:about": "https://github.com/numeralbank/sand",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-4-g2a34d50",
+            "dc:created": "3b35405",
             "dc:title": "Repository"
         },
         {
@@ -46,21 +46,21 @@
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/googleuninum",
-            "rdf:type": "prov:Entity",
-            "dc:created": "4bff680",
-            "dc:title": "Repository"
-        },
-        {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
             "dc:created": "a8001124",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/numeralbank/sand",
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
             "rdf:type": "prov:Entity",
-            "dc:created": "3b35405",
+            "dc:created": "v1.2-4-g2a34d50",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/googleuninum",
+            "rdf:type": "prov:Entity",
+            "dc:created": "4bff680",
             "dc:title": "Repository"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.4"
+            "dc:description": "3.10.2"
         },
         {
             "dc:title": "python-packages",
@@ -89,7 +89,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 206902,
+            "dc:extent": 222315,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,7 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5955,
+            "dc:extent": 7946,
             "tableSchema": {
                 "columns": [
                     {

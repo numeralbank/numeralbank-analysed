@@ -205,80 +205,76 @@ class Dataset(BaseDataset):
             scores, cov, colexis = find_system(language, relations)
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
-            # TODO adjust coverage here
-            if cov_ < 0.25:
-                pass
-                #args.log.info("Ignoring {0} with low coverage".format(language.name))
+
+            # TODO: check for other annotations on numerals
+            if language.dataset == "numerals":
+                real_base = target_bases.get(
+                        language.data["Base"],
+                        "unknown")
+            elif language.dataset == "sand":
+                real_base = target_bases.get(
+                        language.data["Base"], 
+                        "unknown")
             else:
-                # TODO: check for other annotations on numerals
-                if language.dataset == "numerals":
-                    real_base = target_bases.get(
-                            language.data["Base"],
-                            "unknown")
-                elif language.dataset == "sand":
-                    real_base = target_bases.get(
-                            language.data["Base"], 
-                            "unknown")
+                real_base = "unknown"
+            scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
+            bestSystems = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
+                    reverse=True)]
+            bestSystem = bestSystems[0]
+            mixed_systems = [convert[k] for k, v in sorted(scores.items(),
+                key=lambda x: x[1], reverse=True) if v > 0.05]
+            #secondSystem = bestSystems[1]
+
+            if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
+                bestSystem = ""
+                args.log.info("Ignoring {0} due to low coverage in concepts".format(language.name))
+
+            if bestSystem and scores[bestSystem] < 0.05:
+                bestSystem = "Unknown"
+
+            if bestSystem:
+                # check for correctness, can be expanded when more systems available
+                base_in_source = real_base
+                if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov_ >= 0.75:
+                    if real_base == convert[bestSystem]:
+                        all_scores += [1]
+                    else:
+                        all_scores += [0]
+                        errors[real_base, bestSystem] += [[
+                            language,
+                            scoreS,
+                            colexis
+                        ]]
+                    if real_base in mixed_systems:
+                        mixed_scores += [1/len(mixed_systems)]
+                    else:
+                        mixed_scores += [0]
                 else:
                     real_base = "unknown"
-                scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
-                bestSystems = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
-                        reverse=True)]
-                bestSystem = bestSystems[0]
-                mixed_systems = [convert[k] for k, v in sorted(scores.items(),
-                    key=lambda x: x[1], reverse=True) if v > 0.05]
-                #secondSystem = bestSystems[1]
-
-                if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
-                    bestSystem = ""
-                    args.log.info("Ignoring {0} due to low coverage in concepts".format(language.name))
-
-                if bestSystem and scores[bestSystem] < 0.05:
-                    bestSystem = "Unknown"
-
-                if bestSystem:
-                    # check for correctness, can be expanded when more systems available
-                    base_in_source = real_base
-                    if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov_ >= 0.75:
-                        if real_base == convert[bestSystem]:
-                            all_scores += [1]
-                        else:
-                            all_scores += [0]
-                            errors[real_base, bestSystem] += [[
-                                language,
-                                scoreS,
-                                colexis
-                            ]]
-                        if real_base in mixed_systems:
-                            mixed_scores += [1/len(mixed_systems)]
-                        else:
-                            mixed_scores += [0]
-                    else:
-                        real_base = "unknown"
-                    args.writer.add_language(
-                        ID=language.id,
-                        Name=language.name,
-                        Glottocode=language.glottocode,
-                        Latitude=language.latitude,
-                        Longitude=language.longitude,
-                        Macroarea=language.macroarea,
-                        Bases=scoreS,
-                        BestBase=convert[bestSystem],
-                        Base=real_base,
-                        Coverage=cov_,
-                        BaseInSource=base_in_source
-                    )
-                    for concept in language.concepts:
-                        if concept.id in all_concepts:
-                            for form in concept.forms:
-                                args.writer.add_form(
-                                        Language_ID=language.id,
-                                        Parameter_ID=slug(concept.id),
-                                        Value=form.value,
-                                        Form=simple_chars(form.form),
-                                        Source="",
-                                        NumberValue=all_concepts[concept.id]
-                                        )
+                args.writer.add_language(
+                    ID=language.id,
+                    Name=language.name,
+                    Glottocode=language.glottocode,
+                    Latitude=language.latitude,
+                    Longitude=language.longitude,
+                    Macroarea=language.macroarea,
+                    Bases=scoreS,
+                    BestBase=convert[bestSystem],
+                    Base=real_base,
+                    Coverage=cov_,
+                    BaseInSource=base_in_source
+                )
+                for concept in language.concepts:
+                    if concept.id in all_concepts:
+                        for form in concept.forms:
+                            args.writer.add_form(
+                                    Language_ID=language.id,
+                                    Parameter_ID=slug(concept.id),
+                                    Value=form.value,
+                                    Form=simple_chars(form.form),
+                                    Source="",
+                                    NumberValue=all_concepts[concept.id]
+                                    )
         args.log.info("Tests: {0}".format(len(all_scores)))
         args.log.info("Hits:  {0}".format(all_scores.count(1)))
         args.log.info("Fails: {0}".format(all_scores.count(0)))
