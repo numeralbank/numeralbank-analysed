@@ -87,7 +87,7 @@ class CustomLanguage(Language):
             'datatype': 'float',
             'dc:description': 'Coverage of the language in comparison with our master concept list.'}
     )
-    OneToThirty = attr.ib(default=None)
+    OneToThirty = attr.ib(default=None, metadata={"datatype": 'float'})
     BaseInSource = attr.ib(default=None)
 
 
@@ -154,6 +154,11 @@ class Dataset(BaseDataset):
             pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
             ])
+        
+        one_to_forty = [concept["CONCEPTICON_GLOSS"] for concept in
+                self.concepts if concept["TEST"] in ["1", "2"]]
+        one_to_thirty = [concept["CONCEPTICON_GLOSS"] for concept in
+                self.concepts if concept["TEST"] in ["1"]]
 
         for concept in wl.concepts:
             args.writer.add_concept(
@@ -205,6 +210,8 @@ class Dataset(BaseDataset):
             scores, cov, colexis = find_system(language, relations)
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
+            cov1 = coverage(language, one_to_forty)
+            cov2 = coverage(language, one_to_thirty)
 
             # TODO: check for other annotations on numerals
             if language.dataset == "numerals":
@@ -223,11 +230,6 @@ class Dataset(BaseDataset):
             bestSystem = bestSystems[0]
             mixed_systems = [convert[k] for k, v in sorted(scores.items(),
                 key=lambda x: x[1], reverse=True) if v > 0.05]
-            #secondSystem = bestSystems[1]
-
-            if len(set(cov.values())) == 1 and list(cov.values())[0] == 0:
-                bestSystem = ""
-                args.log.info("Ignoring {0} due to low coverage in concepts".format(language.name))
 
             if bestSystem and scores[bestSystem] < 0.05:
                 bestSystem = "Unknown"
@@ -235,7 +237,7 @@ class Dataset(BaseDataset):
             if bestSystem:
                 # check for correctness, can be expanded when more systems available
                 base_in_source = real_base
-                if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov_ >= 0.75:
+                if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov1 >= 0.8:
                     if real_base == convert[bestSystem]:
                         all_scores += [1]
                     else:
@@ -262,6 +264,7 @@ class Dataset(BaseDataset):
                     BestBase=convert[bestSystem],
                     Base=real_base,
                     Coverage=cov_,
+                    OneToThirty=cov2,
                     BaseInSource=base_in_source
                 )
                 for concept in language.concepts:

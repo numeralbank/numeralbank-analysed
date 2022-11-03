@@ -1,462 +1,905 @@
 # decimal / Unknown
 ## sand-Kannada / Kannada / Fiver:0.04 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms       | Fiver      | Twoer   | Tener        | Twentier   |
-|:-------------|:------------|:-----------|:--------|:-------------|:-----------|
-| ONE          | vandu       |            |         |              |            |
-| TWO          | iredu       |            |         |              |            |
-| THREE        | muru        |            |         |              |            |
-| FOUR         | nalku       |            |         | THIRTY FOUR  |            |
-| FIVE         | aidu        |            |         |              |            |
-| SIX          | aru         |            |         |              |            |
-| SEVEN        | edu         | TWENTY TWO |         |              |            |
-| EIGHT        | entu        |            |         | THIRTY EIGHT |            |
-| NINE         | ombattu     |            |         |              |            |
-| TEN          | hattu       |            |         |              |            |
-| ELEVEN       | hannondu    |            |         |              |            |
-| TWELVE       | hanneredu   |            |         |              |            |
-| THIRTEEN     | hadimuru    |            |         |              |            |
-| FOURTEEN     | hadinalku   |            |         |              |            |
-| FIFTEEN      | hadinaidu   |            |         |              |            |
-| SIXTEEN      | hadinaru    |            |         |              |            |
-| SEVENTEEN    | hadineru    |            |         |              |            |
-| EIGHTEEN     | hadinentu   |            |         |              |            |
-| NINETEEN     | hatombattu  |            |         |              |            |
-| TWENTY       | ipattu      |            |         |              |            |
-| TWENTY ONE   | ippatondu   |            |         |              |            |
-| TWENTY TWO   | ippateredu  |            |         |              |            |
-| TWENTY THREE | ippatamuru  |            |         |              |            |
-| TWENTY FOUR  | ippatanalku |            |         |              |            |
-| TWENTY FIVE  | ippataidu   |            |         |              |            |
-| TWENTY SIX   | ippataru    |            |         |              |            |
-| TWENTY SEVEN | ippateru    |            |         |              |            |
-| TWENTY EIGHT | ippatentu   |            |         |              |            |
-| TWENTY NINE  | ippatombatu |            |         |              |            |
-| THIRTY       | muvatu      |            |         |              |            |
-| THIRTY ONE   | muvatondu   |            |         |              |            |
-| THIRTY TWO   | muvateredu  |            |         |              |            |
-| THIRTY THREE | muvatamuru  |            |         |              |            |
-| THIRTY FOUR  | muvaenalku  |            |         |              |            |
-| THIRTY FIVE  | muvataidu   |            |         |              |            |
-| THIRTY SIX   | muvattaru   |            |         |              |            |
-| THIRTY SEVEN | muvatteru   |            |         |              |            |
-| THIRTY EIGHT | muvatentu   |            |         |              |            |
-| THIRTY NINE  | muvatombatu |            |         |              |            |
-| FORTY        | nalavattu   |            |         |              |            |
-| FIFTY        | aivattu     |            |         |              |            |
-| SIXTY        | arvattu     |            |         |              |            |
-| SEVENTY      | japattu     |            |         |              |            |
-| EIGHTY       | jambattu    |            |         |              |            |
-| NINETY       | tombattu    |            |         |              |            |
-| HUNDRED      | nuru        |            |         |              |            |
-| THOUSAND     | savira      |            |         |              |            |
+| Concept       | Forms         | Fiver      | Twoer   | Tener        | Twentier   |
+|:--------------|:--------------|:-----------|:--------|:-------------|:-----------|
+| ONE           | vandu         |            |         |              |            |
+| TWO           | iredu         |            |         |              |            |
+| THREE         | muru          |            |         |              |            |
+| FOUR          | nalku         |            |         | THIRTY FOUR  |            |
+| FIVE          | aidu          |            |         |              |            |
+| SIX           | aru           |            |         |              |            |
+| SEVEN         | edu           | TWENTY TWO |         |              |            |
+| EIGHT         | entu          |            |         | THIRTY EIGHT |            |
+| NINE          | ombattu       |            |         |              |            |
+| TEN           | hattu         |            |         |              |            |
+| ELEVEN        | hannondu      |            |         |              |            |
+| TWELVE        | hanneredu     |            |         |              |            |
+| THIRTEEN      | hadimuru      |            |         |              |            |
+| FOURTEEN      | hadinalku     |            |         |              |            |
+| FIFTEEN       | hadinaidu     |            |         |              |            |
+| SIXTEEN       | hadinaru      |            |         |              |            |
+| SEVENTEEN     | hadineru      |            |         |              |            |
+| EIGHTEEN      | hadinentu     |            |         |              |            |
+| NINETEEN      | hatombattu    |            |         |              |            |
+| TWENTY        | ipattu        |            |         |              |            |
+| TWENTY ONE    | ippatondu     |            |         |              |            |
+| TWENTY TWO    | ippateredu    |            |         |              |            |
+| TWENTY THREE  | ippatamuru    |            |         |              |            |
+| TWENTY FOUR   | ippatanalku   |            |         |              |            |
+| TWENTY FIVE   | ippataidu     |            |         |              |            |
+| TWENTY SIX    | ippataru      |            |         |              |            |
+| TWENTY SEVEN  | ippateru      |            |         |              |            |
+| TWENTY EIGHT  | ippatentu     |            |         |              |            |
+| TWENTY NINE   | ippatombatu   |            |         |              |            |
+| THIRTY        | muvatu        |            |         |              |            |
+| THIRTY ONE    | muvatondu     |            |         |              |            |
+| THIRTY TWO    | muvateredu    |            |         |              |            |
+| THIRTY THREE  | muvatamuru    |            |         |              |            |
+| THIRTY FOUR   | muvaenalku    |            |         |              |            |
+| THIRTY FIVE   | muvataidu     |            |         |              |            |
+| THIRTY SIX    | muvattaru     |            |         |              |            |
+| THIRTY SEVEN  | muvatteru     |            |         |              |            |
+| THIRTY EIGHT  | muvatentu     |            |         |              |            |
+| THIRTY NINE   | muvatombatu   |            |         |              |            |
+| FORTY         | nalavattu     |            |         |              |            |
+| FORTY ONE     | nalavatondu   |            |         |              |            |
+| FORTY TWO     | nalavateredu  |            |         |              |            |
+| FORTY THREE   | nalavatmuru   |            |         |              |            |
+| FORTY FOUR    | nalavatnalku  |            |         |              |            |
+| FORTY FIVE    | nalavataidu   |            |         |              |            |
+| FORTY SIX     | nalavattaru   |            |         |              |            |
+| FORTY SEVEN   | nalavatteru   |            |         |              |            |
+| FORTY EIGHT   | nalavattentu  |            |         |              |            |
+| FORTY NINE    | nalavatombatu |            |         |              |            |
+| FIFTY         | aivattu       |            |         |              |            |
+| FIFTY ONE     | aivatondu     |            |         |              |            |
+| FIFTY TWO     | aivatteredu   |            |         |              |            |
+| FIFTY THREE   | aivatmuru     |            |         |              |            |
+| FIFTY FOUR    | aivatnalku    |            |         |              |            |
+| FIFTY FIVE    | aivattaidu    |            |         |              |            |
+| FIFTY SIX     | aivattaru     |            |         |              |            |
+| FIFTY SEVEN   | aivatteru     |            |         |              |            |
+| FIFTY EIGHT   | aivattentu    |            |         |              |            |
+| FIFTY NINE    | aivatombatu   |            |         |              |            |
+| SIXTY         | arvattu       |            |         |              |            |
+| SIXTY ONE     | arvatondu     |            |         |              |            |
+| SIXTY TWO     | arvatteradu   |            |         |              |            |
+| SIXTY THREE   | arvatmuru     |            |         |              |            |
+| SIXTY FOUR    | arvatnalku    |            |         |              |            |
+| SIXTY FIVE    | arvattaidu    |            |         |              |            |
+| SIXTY SIX     | arvattaru     |            |         |              |            |
+| SIXTY SEVEN   | arvatteru     |            |         |              |            |
+| SIXTY EIGHT   | arvattentu    |            |         |              |            |
+| SIXTY NINE    | arvatombatu   |            |         |              |            |
+| SEVENTY       | japattu       |            |         |              |            |
+| SEVENTY ONE   | japatondu     |            |         |              |            |
+| SEVENTY TWO   | japatteredu   |            |         |              |            |
+| SEVENTY THREE | japatmuru     |            |         |              |            |
+| SEVENTY FOUR  | japatnalku    |            |         |              |            |
+| SEVENTY FIVE  | japattaidu    |            |         |              |            |
+| SEVENTY SIX   | japattaru     |            |         |              |            |
+| SEVENTY SEVEN | japatteru     |            |         |              |            |
+| SEVENTY EIGHT | japattentu    |            |         |              |            |
+| SEVENTY NINE  | japatombatu   |            |         |              |            |
+| EIGHTY        | jambattu      |            |         |              |            |
+| EIGHTY ONE    | jambatondu    |            |         |              |            |
+| EIGHTY TWO    | jambatteredu  |            |         |              |            |
+| EIGHTY THREE  | jambatmuru    |            |         |              |            |
+| EIGHTY FOUR   | jambatnalku   |            |         |              |            |
+| EIGHTY FIVE   | jambattaidu   |            |         |              |            |
+| EIGHTY SIX    | jambattaru    |            |         |              |            |
+| EIGHTY SEVEN  | jambatteru    |            |         |              |            |
+| EIGHTY EIGHT  | jambattentu   |            |         |              |            |
+| EIGHTY NINE   | jambatombatu  |            |         |              |            |
+| NINETY        | tombattu      |            |         |              |            |
+| NINETY ONE    | tombatondu    |            |         |              |            |
+| NINETY TWO    | tombatteredu  |            |         |              |            |
+| NINETY THREE  | tombatmuru    |            |         |              |            |
+| NINETY FOUR   | tombatnalku   |            |         |              |            |
+| NINETY FIVE   | tombattaidu   |            |         |              |            |
+| NINETY SIX    | tombattaru    |            |         |              |            |
+| NINETY SEVEN  | tombatteru    |            |         |              |            |
+| NINETY EIGHT  | tombattentu   |            |         |              |            |
+| NINETY NINE   | tombatombatu  |            |         |              |            |
+| HUNDRED       | nuru          |            |         |              |            |
+| THOUSAND      | savira        |            |         |              |            |
 
 ## sand-Toda / Toda / Fiver:0.00 Tener:0.04 Twentier:0.00 Twoer:0.04
 
-| Concept      | Forms      | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:-----------|:--------|:--------|:-------------|:-----------|
-| ONE          | vuj        |         |         |              |            |
-| TWO          | ed         |         |         | THIRTY TWO   |            |
-| THREE        | mud        |         |         |              |            |
-| FOUR         | non        |         |         |              |            |
-| FIVE         | iz         |         |         | THIRTY FIVE  |            |
-| SIX          | or         |         |         |              |            |
-| SEVEN        | au         |         |         | THIRTY SEVEN |            |
-| EIGHT        | att        |         | TEN     |              |            |
-| NINE         | unbod      |         |         |              |            |
-| TEN          | patt       |         |         |              |            |
-| ELEVEN       | ponnodh    |         |         |              |            |
-| TWELVE       | panedh     |         |         |              |            |
-| THIRTEEN     | ponnudh    |         |         |              |            |
-| FOURTEEN     | pan        |         |         |              |            |
-| FIFTEEN      | puj        |         |         |              |            |
-| SIXTEEN      | par        |         |         |              |            |
-| SEVENTEEN    | pau        |         |         |              |            |
-| EIGHTEEN     | puth       |         |         |              |            |
-| NINETEEN     | punbad     |         |         |              |            |
-| TWENTY       | avad       |         |         |              |            |
-| TWENTY ONE   | vatuj      |         |         |              |            |
-| TWENTY TWO   | vated      |         |         |              |            |
-| TWENTY THREE | vatmur     |         |         |              |            |
-| TWENTY FOUR  | vatnan     |         |         |              |            |
-| TWENTY FIVE  | vatiz      |         |         |              |            |
-| TWENTY SIX   | vatar      |         |         |              |            |
-| TWENTY SEVEN | vatau      |         |         |              |            |
-| TWENTY EIGHT | vatuth     |         |         |              |            |
-| TWENTY NINE  | vatunbad   |         |         |              |            |
-| THIRTY       | muppad     |         |         |              |            |
-| THIRTY ONE   | mupatuj    |         |         |              |            |
-| THIRTY TWO   | mupated    |         |         |              |            |
-| THIRTY THREE | mupatmur   |         |         |              |            |
-| THIRTY FOUR  | mupatnan   |         |         |              |            |
-| THIRTY FIVE  | mupatiz    |         |         |              |            |
-| THIRTY SIX   | mupatar    |         |         |              |            |
-| THIRTY SEVEN | mupatau    |         |         |              |            |
-| THIRTY EIGHT | mupateth   |         |         |              |            |
-| THIRTY NINE  | mupatunbad |         |         |              |            |
-| FORTY        | nalpa      |         |         |              |            |
-| FIFTY        | ebbad      |         |         |              |            |
-| SIXTY        | arad       |         |         |              |            |
-| SEVENTY      | auvad      |         |         |              |            |
-| EIGHTY       | ethvad     |         |         |              |            |
-| NINETY       | ainbad     |         |         |              |            |
-| HUNDRED      | onnor      |         |         |              |            |
-| THOUSAND     | sover      |         |         |              |            |
+| Concept       | Forms       | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:------------|:--------|:--------|:-------------|:-----------|
+| ONE           | vuj         |         |         |              |            |
+| TWO           | ed          |         |         | THIRTY TWO   |            |
+| THREE         | mud         |         |         |              |            |
+| FOUR          | non         |         |         |              |            |
+| FIVE          | iz          |         |         | THIRTY FIVE  |            |
+| SIX           | or          |         |         |              |            |
+| SEVEN         | au          |         |         | THIRTY SEVEN |            |
+| EIGHT         | att         |         | TEN     |              |            |
+| NINE          | unbod       |         |         |              |            |
+| TEN           | patt        |         |         |              |            |
+| ELEVEN        | ponnodh     |         |         |              |            |
+| TWELVE        | panedh      |         |         |              |            |
+| THIRTEEN      | ponnudh     |         |         |              |            |
+| FOURTEEN      | pan         |         |         |              |            |
+| FIFTEEN       | puj         |         |         |              |            |
+| SIXTEEN       | par         |         |         |              |            |
+| SEVENTEEN     | pau         |         |         |              |            |
+| EIGHTEEN      | puth        |         |         |              |            |
+| NINETEEN      | punbad      |         |         |              |            |
+| TWENTY        | avad        |         |         |              |            |
+| TWENTY ONE    | vatuj       |         |         |              |            |
+| TWENTY TWO    | vated       |         |         |              |            |
+| TWENTY THREE  | vatmur      |         |         |              |            |
+| TWENTY FOUR   | vatnan      |         |         |              |            |
+| TWENTY FIVE   | vatiz       |         |         |              |            |
+| TWENTY SIX    | vatar       |         |         |              |            |
+| TWENTY SEVEN  | vatau       |         |         |              |            |
+| TWENTY EIGHT  | vatuth      |         |         |              |            |
+| TWENTY NINE   | vatunbad    |         |         |              |            |
+| THIRTY        | muppad      |         |         |              |            |
+| THIRTY ONE    | mupatuj     |         |         |              |            |
+| THIRTY TWO    | mupated     |         |         |              |            |
+| THIRTY THREE  | mupatmur    |         |         |              |            |
+| THIRTY FOUR   | mupatnan    |         |         |              |            |
+| THIRTY FIVE   | mupatiz     |         |         |              |            |
+| THIRTY SIX    | mupatar     |         |         |              |            |
+| THIRTY SEVEN  | mupatau     |         |         |              |            |
+| THIRTY EIGHT  | mupateth    |         |         |              |            |
+| THIRTY NINE   | mupatunbad  |         |         |              |            |
+| FORTY         | nalpa       |         |         |              |            |
+| FORTY ONE     | nalpatuj    |         |         |              |            |
+| FORTY TWO     | nalpated    |         |         |              |            |
+| FORTY THREE   | nalpatmur   |         |         |              |            |
+| FORTY FOUR    | nalpatnan   |         |         |              |            |
+| FORTY FIVE    | nalpatiz    |         |         |              |            |
+| FORTY SIX     | nalpatar    |         |         |              |            |
+| FORTY SEVEN   | nalpatau    |         |         |              |            |
+| FORTY EIGHT   | nalpateth   |         |         |              |            |
+| FORTY NINE    | nalpatunbad |         |         |              |            |
+| FIFTY         | ebbad       |         |         |              |            |
+| FIFTY ONE     | ebbatuj     |         |         |              |            |
+| FIFTY TWO     | ebbated     |         |         |              |            |
+| FIFTY THREE   | ebbatmur    |         |         |              |            |
+| FIFTY FOUR    | ebbatnan    |         |         |              |            |
+| FIFTY FIVE    | ebbatiz     |         |         |              |            |
+| FIFTY SIX     | ebbatar     |         |         |              |            |
+| FIFTY SEVEN   | ebbatau     |         |         |              |            |
+| FIFTY EIGHT   | ebbateth    |         |         |              |            |
+| FIFTY NINE    | ebbatunbad  |         |         |              |            |
+| SIXTY         | arad        |         |         |              |            |
+| SIXTY ONE     | aratuj      |         |         |              |            |
+| SIXTY TWO     | arated      |         |         |              |            |
+| SIXTY THREE   | aratmur     |         |         |              |            |
+| SIXTY FOUR    | aratnan     |         |         |              |            |
+| SIXTY FIVE    | aratiz      |         |         |              |            |
+| SIXTY SIX     | aratar      |         |         |              |            |
+| SIXTY SEVEN   | aratau      |         |         |              |            |
+| SIXTY EIGHT   | arateth     |         |         |              |            |
+| SIXTY NINE    | aratunbad   |         |         |              |            |
+| SEVENTY       | auvad       |         |         |              |            |
+| SEVENTY ONE   | auvatuj     |         |         |              |            |
+| SEVENTY TWO   | auvated     |         |         |              |            |
+| SEVENTY THREE | auvatmur    |         |         |              |            |
+| SEVENTY FOUR  | auvatnan    |         |         |              |            |
+| SEVENTY FIVE  | auvatiz     |         |         |              |            |
+| SEVENTY SIX   | auvatar     |         |         |              |            |
+| SEVENTY SEVEN | auvatau     |         |         |              |            |
+| SEVENTY EIGHT | auvateth    |         |         |              |            |
+| SEVENTY NINE  | auvatunbad  |         |         |              |            |
+| EIGHTY        | ethvad      |         |         |              |            |
+| EIGHTY ONE    | ethvatuj    |         |         |              |            |
+| EIGHTY TWO    | ethvated    |         |         |              |            |
+| EIGHTY THREE  | ethvatmur   |         |         |              |            |
+| EIGHTY FOUR   | ethvatnan   |         |         |              |            |
+| EIGHTY FIVE   | ethvatiz    |         |         |              |            |
+| EIGHTY SIX    | ethvatar    |         |         |              |            |
+| EIGHTY SEVEN  | ethvatau    |         |         |              |            |
+| EIGHTY EIGHT  | ethvateth   |         |         |              |            |
+| EIGHTY NINE   | ethvatunbad |         |         |              |            |
+| NINETY        | ainbad      |         |         |              |            |
+| NINETY ONE    | ainbatuj    |         |         |              |            |
+| NINETY TWO    | ainbated    |         |         |              |            |
+| NINETY THREE  | ainbatmur   |         |         |              |            |
+| NINETY FOUR   | ainbatnan   |         |         |              |            |
+| NINETY FIVE   | ainbatiz    |         |         |              |            |
+| NINETY SIX    | ainbatar    |         |         |              |            |
+| NINETY SEVEN  | ainbatau    |         |         |              |            |
+| NINETY EIGHT  | ainbateth   |         |         |              |            |
+| NINETY NINE   | ainbatunbad |         |         |              |            |
+| HUNDRED       | onnor       |         |         |              |            |
+| THOUSAND      | sover       |         |         |              |            |
 
 ## sand-Gaddi / Gaddi / Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:--------|:--------|:--------|:-------------|:-----------|
-| ONE          | akh     |         |         |              |            |
-| TWO          | do      |         |         |              |            |
-| THREE        | tre     |         |         |              |            |
-| FOUR         | car     |         |         |              |            |
-| FIVE         | panj    |         |         |              |            |
-| SIX          | che     |         |         |              |            |
-| SEVEN        | sat     |         |         | THIRTY SEVEN |            |
-| EIGHT        | ath     |         |         |              |            |
-| NINE         | no      |         |         |              |            |
-| TEN          | das     |         |         |              |            |
-| ELEVEN       | jara    |         |         |              |            |
-| TWELVE       | bara    |         |         |              |            |
-| THIRTEEN     | tera    |         |         |              |            |
-| FOURTEEN     | coda    |         |         |              |            |
-| FIFTEEN      | pandra  |         |         |              |            |
-| SIXTEEN      | sola    |         |         |              |            |
-| SEVENTEEN    | satara  |         |         |              |            |
-| EIGHTEEN     | thara   |         |         |              |            |
-| NINETEEN     | unni    |         |         |              |            |
-| TWENTY       | bi      |         |         |              |            |
-| TWENTY ONE   | ikki    |         |         |              |            |
-| TWENTY TWO   | bai     |         |         |              |            |
-| TWENTY THREE | trei    |         |         |              |            |
-| TWENTY FOUR  | cobbi   |         |         |              |            |
-| TWENTY FIVE  | panji   |         |         |              |            |
-| TWENTY SIX   | chabbi  |         |         |              |            |
-| TWENTY SEVEN | satai   |         |         |              |            |
-| TWENTY EIGHT | thai    |         |         |              |            |
-| TWENTY NINE  | nati    |         |         |              |            |
-| THIRTY       | tri     |         |         |              |            |
-| THIRTY ONE   | katti   |         |         |              |            |
-| THIRTY TWO   | batti   |         |         |              |            |
-| THIRTY THREE | tetti   |         |         |              |            |
-| THIRTY FOUR  | cotti   |         |         |              |            |
-| THIRTY FIVE  | peti    |         |         |              |            |
-| THIRTY SIX   | chatti  |         |         |              |            |
-| THIRTY SEVEN | satatti |         |         |              |            |
-| THIRTY EIGHT | thatti  |         |         |              |            |
-| THIRTY NINE  | untali  |         |         |              |            |
-| FORTY        | cali    |         |         |              |            |
-| FIFTY        | peja    |         |         |              |            |
-| SIXTY        | sath    |         |         |              |            |
-| SEVENTY      | sattar  |         |         |              |            |
-| EIGHTY       | assi    |         |         |              |            |
-| NINETY       | nabbe   |         |         |              |            |
-| HUNDRED      | so      |         |         |              |            |
-| THOUSAND     | jar     |         |         |              |            |
+| Concept       | Forms     | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:----------|:--------|:--------|:-------------|:-----------|
+| ONE           | akh       |         |         |              |            |
+| TWO           | do        |         |         |              |            |
+| THREE         | tre       |         |         |              |            |
+| FOUR          | car       |         |         |              |            |
+| FIVE          | panj      |         |         |              |            |
+| SIX           | che       |         |         |              |            |
+| SEVEN         | sat       |         |         | THIRTY SEVEN |            |
+| EIGHT         | ath       |         |         |              |            |
+| NINE          | no        |         |         |              |            |
+| TEN           | das       |         |         |              |            |
+| ELEVEN        | jara      |         |         |              |            |
+| TWELVE        | bara      |         |         |              |            |
+| THIRTEEN      | tera      |         |         |              |            |
+| FOURTEEN      | coda      |         |         |              |            |
+| FIFTEEN       | pandra    |         |         |              |            |
+| SIXTEEN       | sola      |         |         |              |            |
+| SEVENTEEN     | satara    |         |         |              |            |
+| EIGHTEEN      | thara     |         |         |              |            |
+| NINETEEN      | unni      |         |         |              |            |
+| TWENTY        | bi        |         |         |              |            |
+| TWENTY ONE    | ikki      |         |         |              |            |
+| TWENTY TWO    | bai       |         |         |              |            |
+| TWENTY THREE  | trei      |         |         |              |            |
+| TWENTY FOUR   | cobbi     |         |         |              |            |
+| TWENTY FIVE   | panji     |         |         |              |            |
+| TWENTY SIX    | chabbi    |         |         |              |            |
+| TWENTY SEVEN  | satai     |         |         |              |            |
+| TWENTY EIGHT  | thai      |         |         |              |            |
+| TWENTY NINE   | nati      |         |         |              |            |
+| THIRTY        | tri       |         |         |              |            |
+| THIRTY ONE    | katti     |         |         |              |            |
+| THIRTY TWO    | batti     |         |         |              |            |
+| THIRTY THREE  | tetti     |         |         |              |            |
+| THIRTY FOUR   | cotti     |         |         |              |            |
+| THIRTY FIVE   | peti      |         |         |              |            |
+| THIRTY SIX    | chatti    |         |         |              |            |
+| THIRTY SEVEN  | satatti   |         |         |              |            |
+| THIRTY EIGHT  | thatti    |         |         |              |            |
+| THIRTY NINE   | untali    |         |         |              |            |
+| FORTY         | cali      |         |         |              |            |
+| FORTY ONE     | ektali    |         |         |              |            |
+| FORTY TWO     | betali    |         |         |              |            |
+| FORTY THREE   | tertali   |         |         |              |            |
+| FORTY FOUR    | curtali   |         |         |              |            |
+| FORTY FIVE    | petali    |         |         |              |            |
+| FORTY SIX     | chatali   |         |         |              |            |
+| FORTY SEVEN   | santali   |         |         |              |            |
+| FORTY EIGHT   | athtali   |         |         |              |            |
+| FORTY NINE    | ununja    |         |         |              |            |
+| FIFTY         | peja      |         |         |              |            |
+| FIFTY ONE     | kunja     |         |         |              |            |
+| FIFTY TWO     | bunja     |         |         |              |            |
+| FIFTY THREE   | trunja    |         |         |              |            |
+| FIFTY FOUR    | curunja   |         |         |              |            |
+| FIFTY FIVE    | pacunja   |         |         |              |            |
+| FIFTY SIX     | chuna     |         |         |              |            |
+| FIFTY SEVEN   | satunja   |         |         |              |            |
+| FIFTY EIGHT   | thunja    |         |         |              |            |
+| FIFTY NINE    | unath     |         |         |              |            |
+| SIXTY         | sath      |         |         |              |            |
+| SIXTY ONE     | ekath     |         |         |              |            |
+| SIXTY TWO     | bath      |         |         |              |            |
+| SIXTY THREE   | treth     |         |         |              |            |
+| SIXTY FOUR    | coth      |         |         |              |            |
+| SIXTY FIVE    | peth      |         |         |              |            |
+| SIXTY SIX     | chijath   |         |         |              |            |
+| SIXTY SEVEN   | satath    |         |         |              |            |
+| SIXTY EIGHT   | thath     |         |         |              |            |
+| SIXTY NINE    | unattar   |         |         |              |            |
+| SEVENTY       | sattar    |         |         |              |            |
+| SEVENTY ONE   | kattar    |         |         |              |            |
+| SEVENTY TWO   | battar    |         |         |              |            |
+| SEVENTY THREE | trettar   |         |         |              |            |
+| SEVENTY FOUR  | curattar  |         |         |              |            |
+| SEVENTY FIVE  | pacattar  |         |         |              |            |
+| SEVENTY SIX   | chejattar |         |         |              |            |
+| SEVENTY SEVEN | satatter  |         |         |              |            |
+| SEVENTY EIGHT | thattar   |         |         |              |            |
+| SEVENTY NINE  | unasi     |         |         |              |            |
+| EIGHTY        | assi      |         |         |              |            |
+| EIGHTY ONE    | ekasi     |         |         |              |            |
+| EIGHTY TWO    | bejasi    |         |         |              |            |
+| EIGHTY THREE  | terasi    |         |         |              |            |
+| EIGHTY FOUR   | curasi    |         |         |              |            |
+| EIGHTY FIVE   | pacasi    |         |         |              |            |
+| EIGHTY SIX    | chejasi   |         |         |              |            |
+| EIGHTY SEVEN  | satasi    |         |         |              |            |
+| EIGHTY EIGHT  | thasi     |         |         |              |            |
+| EIGHTY NINE   | nanve     |         |         |              |            |
+| NINETY        | nabbe     |         |         |              |            |
+| NINETY ONE    | kanve     |         |         |              |            |
+| NINETY TWO    | vanve     |         |         |              |            |
+| NINETY THREE  | teranve   |         |         |              |            |
+| NINETY FOUR   | curanve   |         |         |              |            |
+| NINETY FIVE   | pacanve   |         |         |              |            |
+| NINETY SIX    | chijanve  |         |         |              |            |
+| NINETY SEVEN  | satanve   |         |         |              |            |
+| NINETY EIGHT  | thanve    |         |         |              |            |
+| NINETY NINE   | narinve   |         |         |              |            |
+| HUNDRED       | so        |         |         |              |            |
+| THOUSAND      | jar       |         |         |              |            |
+| BILLION       | arab      |         |         |              |            |
 
 ## sand-Dogri / Dogri / Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener      | Twentier   |
-|:-------------|:--------|:--------|:--------|:-----------|:-----------|
-| ONE          | ek      |         |         |            |            |
-| TWO          | do      |         |         |            |            |
-| THREE        | tre     |         |         |            |            |
-| FOUR         | car     |         |         |            |            |
-| FIVE         | panj    |         |         |            |            |
-| SIX          | se      |         |         | THIRTY SIX |            |
-| SEVEN        | sat     |         |         |            |            |
-| EIGHT        | ath     |         |         |            |            |
-| NINE         | no      |         |         |            |            |
-| TEN          | das     |         |         |            |            |
-| ELEVEN       | gjara   |         |         |            |            |
-| TWELVE       | bara    |         |         |            |            |
-| THIRTEEN     | tera    |         |         |            |            |
-| FOURTEEN     | coda    |         |         |            |            |
-| FIFTEEN      | pandra  |         |         |            |            |
-| SIXTEEN      | sola    |         |         |            |            |
-| SEVENTEEN    | satara  |         |         |            |            |
-| EIGHTEEN     | thara   |         |         |            |            |
-| NINETEEN     | unni    |         |         |            |            |
-| TWENTY       | bi      |         |         |            |            |
-| TWENTY ONE   | ikki    |         |         |            |            |
-| TWENTY TWO   | bai     |         |         |            |            |
-| TWENTY THREE | trei    |         |         |            |            |
-| TWENTY FOUR  | covi    |         |         |            |            |
-| TWENTY FIVE  | panji   |         |         |            |            |
-| TWENTY SIX   | sabbi   |         |         |            |            |
-| TWENTY SEVEN | satai   |         |         |            |            |
-| TWENTY EIGHT | thai    |         |         |            |            |
-| TWENTY NINE  | natti   |         |         |            |            |
-| THIRTY       | tri     |         |         |            |            |
-| THIRTY ONE   | katti   |         |         |            |            |
-| THIRTY TWO   | batti   |         |         |            |            |
-| THIRTY THREE | tetti   |         |         |            |            |
-| THIRTY FOUR  | cotti   |         |         |            |            |
-| THIRTY FIVE  | petti   |         |         |            |            |
-| THIRTY SIX   | setti   |         |         |            |            |
-| THIRTY SEVEN | setti   |         |         |            |            |
-| THIRTY EIGHT | thatti  |         |         |            |            |
-| THIRTY NINE  | untali  |         |         |            |            |
-| FORTY        | cali    |         |         |            |            |
-| FIFTY        | paja    |         |         |            |            |
-| SIXTY        | sath    |         |         |            |            |
-| SEVENTY      | sattar  |         |         |            |            |
-| EIGHTY       | assi    |         |         |            |            |
-| NINETY       | nabbe   |         |         |            |            |
-| HUNDRED      | so      |         |         |            |            |
-| THOUSAND     | jar     |         |         |            |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener      | Twentier   |
+|:--------------|:---------|:--------|:--------|:-----------|:-----------|
+| ONE           | ek       |         |         |            |            |
+| TWO           | do       |         |         |            |            |
+| THREE         | tre      |         |         |            |            |
+| FOUR          | car      |         |         |            |            |
+| FIVE          | panj     |         |         |            |            |
+| SIX           | se       |         |         | THIRTY SIX |            |
+| SEVEN         | sat      |         |         |            |            |
+| EIGHT         | ath      |         |         |            |            |
+| NINE          | no       |         |         |            |            |
+| TEN           | das      |         |         |            |            |
+| ELEVEN        | gjara    |         |         |            |            |
+| TWELVE        | bara     |         |         |            |            |
+| THIRTEEN      | tera     |         |         |            |            |
+| FOURTEEN      | coda     |         |         |            |            |
+| FIFTEEN       | pandra   |         |         |            |            |
+| SIXTEEN       | sola     |         |         |            |            |
+| SEVENTEEN     | satara   |         |         |            |            |
+| EIGHTEEN      | thara    |         |         |            |            |
+| NINETEEN      | unni     |         |         |            |            |
+| TWENTY        | bi       |         |         |            |            |
+| TWENTY ONE    | ikki     |         |         |            |            |
+| TWENTY TWO    | bai      |         |         |            |            |
+| TWENTY THREE  | trei     |         |         |            |            |
+| TWENTY FOUR   | covi     |         |         |            |            |
+| TWENTY FIVE   | panji    |         |         |            |            |
+| TWENTY SIX    | sabbi    |         |         |            |            |
+| TWENTY SEVEN  | satai    |         |         |            |            |
+| TWENTY EIGHT  | thai     |         |         |            |            |
+| TWENTY NINE   | natti    |         |         |            |            |
+| THIRTY        | tri      |         |         |            |            |
+| THIRTY ONE    | katti    |         |         |            |            |
+| THIRTY TWO    | batti    |         |         |            |            |
+| THIRTY THREE  | tetti    |         |         |            |            |
+| THIRTY FOUR   | cotti    |         |         |            |            |
+| THIRTY FIVE   | petti    |         |         |            |            |
+| THIRTY SIX    | setti    |         |         |            |            |
+| THIRTY SEVEN  | setti    |         |         |            |            |
+| THIRTY EIGHT  | thatti   |         |         |            |            |
+| THIRTY NINE   | untali   |         |         |            |            |
+| FORTY         | cali     |         |         |            |            |
+| FORTY ONE     | aktali   |         |         |            |            |
+| FORTY TWO     | batali   |         |         |            |            |
+| FORTY THREE   | tertali  |         |         |            |            |
+| FORTY FOUR    | cartali  |         |         |            |            |
+| FORTY FIVE    | petali   |         |         |            |            |
+| FORTY SIX     | seali    |         |         |            |            |
+| FORTY SEVEN   | santali  |         |         |            |            |
+| FORTY EIGHT   | artali   |         |         |            |            |
+| FORTY NINE    | nunja    |         |         |            |            |
+| FIFTY         | paja     |         |         |            |            |
+| FIFTY ONE     | kunja    |         |         |            |            |
+| FIFTY TWO     | bunja    |         |         |            |            |
+| FIFTY THREE   | trunja   |         |         |            |            |
+| FIFTY FOUR    | curunja  |         |         |            |            |
+| FIFTY FIVE    | pacunja  |         |         |            |            |
+| FIFTY SIX     | spunja   |         |         |            |            |
+| FIFTY SEVEN   | satunja  |         |         |            |            |
+| FIFTY EIGHT   | thunja   |         |         |            |            |
+| FIFTY NINE    | nad      |         |         |            |            |
+| SIXTY         | sath     |         |         |            |            |
+| SIXTY ONE     | kad      |         |         |            |            |
+| SIXTY TWO     | bad      |         |         |            |            |
+| SIXTY THREE   | tred     |         |         |            |            |
+| SIXTY FOUR    | cod      |         |         |            |            |
+| SIXTY FIVE    | ped      |         |         |            |            |
+| SIXTY SIX     | sjad     |         |         |            |            |
+| SIXTY SEVEN   | satad    |         |         |            |            |
+| SIXTY EIGHT   | thad     |         |         |            |            |
+| SIXTY NINE    | nattar   |         |         |            |            |
+| SEVENTY       | sattar   |         |         |            |            |
+| SEVENTY ONE   | kattar   |         |         |            |            |
+| SEVENTY TWO   | batter   |         |         |            |            |
+| SEVENTY THREE | teattar  |         |         |            |            |
+| SEVENTY FOUR  | coattar  |         |         |            |            |
+| SEVENTY FIVE  | pacattar |         |         |            |            |
+| SEVENTY SIX   | sjattar  |         |         |            |            |
+| SEVENTY SEVEN | satattar |         |         |            |            |
+| SEVENTY EIGHT | thattar  |         |         |            |            |
+| SEVENTY NINE  | unasi    |         |         |            |            |
+| EIGHTY        | assi     |         |         |            |            |
+| EIGHTY ONE    | kjasi    |         |         |            |            |
+| EIGHTY TWO    | bjasi    |         |         |            |            |
+| EIGHTY THREE  | terasi   |         |         |            |            |
+| EIGHTY FOUR   | curasi   |         |         |            |            |
+| EIGHTY FIVE   | pacasi   |         |         |            |            |
+| EIGHTY SIX    | sejasi   |         |         |            |            |
+| EIGHTY SEVEN  | satasi   |         |         |            |            |
+| EIGHTY EIGHT  | thasi    |         |         |            |            |
+| EIGHTY NINE   | nasi     |         |         |            |            |
+| NINETY        | nabbe    |         |         |            |            |
+| NINETY ONE    | ikanve   |         |         |            |            |
+| NINETY TWO    | banve    |         |         |            |            |
+| NINETY THREE  | tranve   |         |         |            |            |
+| NINETY FOUR   | curanve  |         |         |            |            |
+| NINETY FIVE   | pacanve  |         |         |            |            |
+| NINETY SIX    | sijanve  |         |         |            |            |
+| NINETY SEVEN  | satanve  |         |         |            |            |
+| NINETY EIGHT  | thanve   |         |         |            |            |
+| NINETY NINE   | nadinue  |         |         |            |            |
+| HUNDRED       | so       |         |         |            |            |
+| THOUSAND      | jar      |         |         |            |            |
+| ONE MILLION   | daslakh  |         |         |            |            |
+| BILLION       | solakh   |         |         |            |            |
 
 ## sand-Marwari / Marwari / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | ek      |         |         |         |            |
-| TWO          | do      |         |         |         |            |
-| THREE        | tin     |         |         |         |            |
-| FOUR         | tsar    |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | che     |         |         |         |            |
-| SEVEN        | sat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | no      |         |         |         |            |
-| TEN          | das     |         |         |         |            |
-| ELEVEN       | igjara  |         |         |         |            |
-| TWELVE       | bara    |         |         |         |            |
-| THIRTEEN     | tera    |         |         |         |            |
-| FOURTEEN     | cauda   |         |         |         |            |
-| FIFTEEN      | pandra  |         |         |         |            |
-| SIXTEEN      | sola    |         |         |         |            |
-| SEVENTEEN    | satara  |         |         |         |            |
-| EIGHTEEN     | athara  |         |         |         |            |
-| NINETEEN     | uganis  |         |         |         |            |
-| TWENTY       | bis     |         |         |         |            |
-| TWENTY ONE   | ikis    |         |         |         |            |
-| TWENTY TWO   | bais    |         |         |         |            |
-| TWENTY THREE | teis    |         |         |         |            |
-| TWENTY FOUR  | cois    |         |         |         |            |
-| TWENTY FIVE  | pacis   |         |         |         |            |
-| TWENTY SIX   | chabis  |         |         |         |            |
-| TWENTY SEVEN | satais  |         |         |         |            |
-| TWENTY EIGHT | athais  |         |         |         |            |
-| TWENTY NINE  | untis   |         |         |         |            |
-| THIRTY       | tis     |         |         |         |            |
-| THIRTY ONE   | iktis   |         |         |         |            |
-| THIRTY TWO   | batis   |         |         |         |            |
-| THIRTY THREE | tetis   |         |         |         |            |
-| THIRTY FOUR  | cotis   |         |         |         |            |
-| THIRTY FIVE  | pantis  |         |         |         |            |
-| THIRTY SIX   | catis   |         |         |         |            |
-| THIRTY SEVEN | setis   |         |         |         |            |
-| THIRTY EIGHT | attis   |         |         |         |            |
-| THIRTY NINE  | untalis |         |         |         |            |
-| FORTY        | calis   |         |         |         |            |
-| FIFTY        | pacas   |         |         |         |            |
-| SIXTY        | sath    |         |         |         |            |
-| SEVENTY      | satara  |         |         |         |            |
-| EIGHTY       | asi     |         |         |         |            |
-| NINETY       | nobe    |         |         |         |            |
-| HUNDRED      | so      |         |         |         |            |
-| THOUSAND     | hazar   |         |         |         |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------|:--------|:--------|:--------|:-----------|
+| ONE           | ek       |         |         |         |            |
+| TWO           | do       |         |         |         |            |
+| THREE         | tin      |         |         |         |            |
+| FOUR          | tsar     |         |         |         |            |
+| FIVE          | pats     |         |         |         |            |
+| SIX           | che      |         |         |         |            |
+| SEVEN         | sat      |         |         |         |            |
+| EIGHT         | ath      |         |         |         |            |
+| NINE          | no       |         |         |         |            |
+| TEN           | das      |         |         |         |            |
+| ELEVEN        | igjara   |         |         |         |            |
+| TWELVE        | bara     |         |         |         |            |
+| THIRTEEN      | tera     |         |         |         |            |
+| FOURTEEN      | cauda    |         |         |         |            |
+| FIFTEEN       | pandra   |         |         |         |            |
+| SIXTEEN       | sola     |         |         |         |            |
+| SEVENTEEN     | satara   |         |         |         |            |
+| EIGHTEEN      | athara   |         |         |         |            |
+| NINETEEN      | uganis   |         |         |         |            |
+| TWENTY        | bis      |         |         |         |            |
+| TWENTY ONE    | ikis     |         |         |         |            |
+| TWENTY TWO    | bais     |         |         |         |            |
+| TWENTY THREE  | teis     |         |         |         |            |
+| TWENTY FOUR   | cois     |         |         |         |            |
+| TWENTY FIVE   | pacis    |         |         |         |            |
+| TWENTY SIX    | chabis   |         |         |         |            |
+| TWENTY SEVEN  | satais   |         |         |         |            |
+| TWENTY EIGHT  | athais   |         |         |         |            |
+| TWENTY NINE   | untis    |         |         |         |            |
+| THIRTY        | tis      |         |         |         |            |
+| THIRTY ONE    | iktis    |         |         |         |            |
+| THIRTY TWO    | batis    |         |         |         |            |
+| THIRTY THREE  | tetis    |         |         |         |            |
+| THIRTY FOUR   | cotis    |         |         |         |            |
+| THIRTY FIVE   | pantis   |         |         |         |            |
+| THIRTY SIX    | catis    |         |         |         |            |
+| THIRTY SEVEN  | setis    |         |         |         |            |
+| THIRTY EIGHT  | attis    |         |         |         |            |
+| THIRTY NINE   | untalis  |         |         |         |            |
+| FORTY         | calis    |         |         |         |            |
+| FORTY ONE     | iktalis  |         |         |         |            |
+| FORTY TWO     | bajalis  |         |         |         |            |
+| FORTY THREE   | tejalis  |         |         |         |            |
+| FORTY FOUR    | comalis  |         |         |         |            |
+| FORTY FIVE    | pentalis |         |         |         |            |
+| FORTY SIX     | chajalis |         |         |         |            |
+| FORTY SEVEN   | setalis  |         |         |         |            |
+| FORTY EIGHT   | arcas    |         |         |         |            |
+| FORTY NINE    | guncas   |         |         |         |            |
+| FIFTY         | pacas    |         |         |         |            |
+| FIFTY ONE     | ikjavan  |         |         |         |            |
+| FIFTY TWO     | bavan    |         |         |         |            |
+| FIFTY THREE   | tarepan  |         |         |         |            |
+| FIFTY FOUR    | copan    |         |         |         |            |
+| FIFTY FIVE    | picapan  |         |         |         |            |
+| FIFTY SIX     | capan    |         |         |         |            |
+| FIFTY SEVEN   | satavan  |         |         |         |            |
+| FIFTY EIGHT   | athavan  |         |         |         |            |
+| FIFTY NINE    | gunsath  |         |         |         |            |
+| SIXTY         | sath     |         |         |         |            |
+| SIXTY ONE     | iksath   |         |         |         |            |
+| SIXTY TWO     | basath   |         |         |         |            |
+| SIXTY THREE   | taresath |         |         |         |            |
+| SIXTY FOUR    | cosath   |         |         |         |            |
+| SIXTY FIVE    | pensath  |         |         |         |            |
+| SIXTY SIX     | chasath  |         |         |         |            |
+| SIXTY SEVEN   | sarsath  |         |         |         |            |
+| SIXTY EIGHT   | arsath   |         |         |         |            |
+| SIXTY NINE    | gunsatar |         |         |         |            |
+| SEVENTY       | satara   |         |         |         |            |
+| SEVENTY ONE   | ikatar   |         |         |         |            |
+| SEVENTY TWO   | bahotar  |         |         |         |            |
+| SEVENTY THREE | tehatar  |         |         |         |            |
+| SEVENTY FOUR  | cohatar  |         |         |         |            |
+| SEVENTY FIVE  | picatar  |         |         |         |            |
+| SEVENTY SIX   | chijatar |         |         |         |            |
+| SEVENTY SEVEN | satatar  |         |         |         |            |
+| SEVENTY EIGHT | athatar  |         |         |         |            |
+| SEVENTY NINE  | gunjasi  |         |         |         |            |
+| EIGHTY        | asi      |         |         |         |            |
+| EIGHTY ONE    | ikjasi   |         |         |         |            |
+| EIGHTY TWO    | bajasi   |         |         |         |            |
+| EIGHTY THREE  | terasi   |         |         |         |            |
+| EIGHTY FOUR   | chorasi  |         |         |         |            |
+| EIGHTY FIVE   | picjasi  |         |         |         |            |
+| EIGHTY SIX    | chajasi  |         |         |         |            |
+| EIGHTY SEVEN  | sitjasi  |         |         |         |            |
+| EIGHTY EIGHT  | athajasi |         |         |         |            |
+| EIGHTY NINE   | navasi   |         |         |         |            |
+| NINETY        | nobe     |         |         |         |            |
+| NINETY ONE    | ikanme   |         |         |         |            |
+| NINETY TWO    | banme    |         |         |         |            |
+| NINETY THREE  | tarenme  |         |         |         |            |
+| NINETY FOUR   | conme    |         |         |         |            |
+| NINETY FIVE   | picanme  |         |         |         |            |
+| NINETY SIX    | cinme    |         |         |         |            |
+| NINETY SEVEN  | sitanme  |         |         |         |            |
+| NINETY EIGHT  | ithanme  |         |         |         |            |
+| NINETY NINE   | ninnanme |         |         |         |            |
+| HUNDRED       | so       |         |         |         |            |
+| THOUSAND      | hazar    |         |         |         |            |
 
 ## sand-IndianPunjabi / IndianPunjabi / Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:--------|:--------|:--------|:-------------|:-----------|
-| ONE          | ik      |         |         |              |            |
-| TWO          | do      |         |         |              |            |
-| THREE        | tin     |         |         |              |            |
-| FOUR         | car     |         |         |              |            |
-| FIVE         | pang    |         |         |              |            |
-| SIX          | che     |         |         |              |            |
-| SEVEN        | sat     |         |         |              |            |
-| EIGHT        | ath     |         |         | THIRTY EIGHT |            |
-| NINE         | no      |         |         |              |            |
-| TEN          | das     |         |         |              |            |
-| ELEVEN       | gjara   |         |         |              |            |
-| TWELVE       | bara    |         |         |              |            |
-| THIRTEEN     | tera    |         |         |              |            |
-| FOURTEEN     | cauda   |         |         |              |            |
-| FIFTEEN      | pandra  |         |         |              |            |
-| SIXTEEN      | sola    |         |         |              |            |
-| SEVENTEEN    | satara  |         |         |              |            |
-| EIGHTEEN     | athara  |         |         |              |            |
-| NINETEEN     | unni    |         |         |              |            |
-| TWENTY       | vi      |         |         |              |            |
-| TWENTY ONE   | ikki    |         |         |              |            |
-| TWENTY TWO   | bai     |         |         |              |            |
-| TWENTY THREE | tei     |         |         |              |            |
-| TWENTY FOUR  | cobi    |         |         |              |            |
-| TWENTY FIVE  | pacci   |         |         |              |            |
-| TWENTY SIX   | chabbi  |         |         |              |            |
-| TWENTY SEVEN | satai   |         |         |              |            |
-| TWENTY EIGHT | athai   |         |         |              |            |
-| TWENTY NINE  | unnatti |         |         |              |            |
-| THIRTY       | ti      |         |         |              |            |
-| THIRTY ONE   | ekatti  |         |         |              |            |
-| THIRTY TWO   | batti   |         |         |              |            |
-| THIRTY THREE | tetti   |         |         |              |            |
-| THIRTY FOUR  | cotti   |         |         |              |            |
-| THIRTY FIVE  | petti   |         |         |              |            |
-| THIRTY SIX   | chatti  |         |         |              |            |
-| THIRTY SEVEN | saetti  |         |         |              |            |
-| THIRTY EIGHT | athatti |         |         |              |            |
-| THIRTY NINE  | untali  |         |         |              |            |
-| FORTY        | cali    |         |         |              |            |
-| FIFTY        | panja   |         |         |              |            |
-| SIXTY        | sath    |         |         |              |            |
-| SEVENTY      | sattar  |         |         |              |            |
-| EIGHTY       | assi    |         |         |              |            |
-| NINETY       | nabbe   |         |         |              |            |
-| HUNDRED      | so      |         |         |              |            |
-| THOUSAND     | hazar   |         |         |              |            |
+| Concept       | Forms     | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:----------|:--------|:--------|:-------------|:-----------|
+| ONE           | ik        |         |         |              |            |
+| TWO           | do        |         |         |              |            |
+| THREE         | tin       |         |         |              |            |
+| FOUR          | car       |         |         |              |            |
+| FIVE          | pang      |         |         |              |            |
+| SIX           | che       |         |         |              |            |
+| SEVEN         | sat       |         |         |              |            |
+| EIGHT         | ath       |         |         | THIRTY EIGHT |            |
+| NINE          | no        |         |         |              |            |
+| TEN           | das       |         |         |              |            |
+| ELEVEN        | gjara     |         |         |              |            |
+| TWELVE        | bara      |         |         |              |            |
+| THIRTEEN      | tera      |         |         |              |            |
+| FOURTEEN      | cauda     |         |         |              |            |
+| FIFTEEN       | pandra    |         |         |              |            |
+| SIXTEEN       | sola      |         |         |              |            |
+| SEVENTEEN     | satara    |         |         |              |            |
+| EIGHTEEN      | athara    |         |         |              |            |
+| NINETEEN      | unni      |         |         |              |            |
+| TWENTY        | vi        |         |         |              |            |
+| TWENTY ONE    | ikki      |         |         |              |            |
+| TWENTY TWO    | bai       |         |         |              |            |
+| TWENTY THREE  | tei       |         |         |              |            |
+| TWENTY FOUR   | cobi      |         |         |              |            |
+| TWENTY FIVE   | pacci     |         |         |              |            |
+| TWENTY SIX    | chabbi    |         |         |              |            |
+| TWENTY SEVEN  | satai     |         |         |              |            |
+| TWENTY EIGHT  | athai     |         |         |              |            |
+| TWENTY NINE   | unnatti   |         |         |              |            |
+| THIRTY        | ti        |         |         |              |            |
+| THIRTY ONE    | ekatti    |         |         |              |            |
+| THIRTY TWO    | batti     |         |         |              |            |
+| THIRTY THREE  | tetti     |         |         |              |            |
+| THIRTY FOUR   | cotti     |         |         |              |            |
+| THIRTY FIVE   | petti     |         |         |              |            |
+| THIRTY SIX    | chatti    |         |         |              |            |
+| THIRTY SEVEN  | saetti    |         |         |              |            |
+| THIRTY EIGHT  | athatti   |         |         |              |            |
+| THIRTY NINE   | untali    |         |         |              |            |
+| FORTY         | cali      |         |         |              |            |
+| FORTY ONE     | iktali    |         |         |              |            |
+| FORTY TWO     | batali    |         |         |              |            |
+| FORTY THREE   | tertali   |         |         |              |            |
+| FORTY FOUR    | cutali    |         |         |              |            |
+| FORTY FIVE    | panjtali  |         |         |              |            |
+| FORTY SIX     | chejali   |         |         |              |            |
+| FORTY SEVEN   | santali   |         |         |              |            |
+| FORTY EIGHT   | artali    |         |         |              |            |
+| FORTY NINE    | orinja    |         |         |              |            |
+| FIFTY         | panja     |         |         |              |            |
+| FIFTY ONE     | ekvanja   |         |         |              |            |
+| FIFTY TWO     | dovanja   |         |         |              |            |
+| FIFTY THREE   | trivanja  |         |         |              |            |
+| FIFTY FOUR    | curanja   |         |         |              |            |
+| FIFTY FIVE    | peranja   |         |         |              |            |
+| FIFTY SIX     | sipinja   |         |         |              |            |
+| FIFTY SEVEN   | satvanja  |         |         |              |            |
+| FIFTY EIGHT   | athvanja  |         |         |              |            |
+| FIFTY NINE    | unahath   |         |         |              |            |
+| SIXTY         | sath      |         |         |              |            |
+| SIXTY ONE     | ikahath   |         |         |              |            |
+| SIXTY TWO     | bahath    |         |         |              |            |
+| SIXTY THREE   | trehath   |         |         |              |            |
+| SIXTY FOUR    | cohath    |         |         |              |            |
+| SIXTY FIVE    | pehath    |         |         |              |            |
+| SIXTY SIX     | chihath   |         |         |              |            |
+| SIXTY SEVEN   | satahath  |         |         |              |            |
+| SIXTY EIGHT   | athahath  |         |         |              |            |
+| SIXTY NINE    | unattar   |         |         |              |            |
+| SEVENTY       | sattar    |         |         |              |            |
+| SEVENTY ONE   | ikattar   |         |         |              |            |
+| SEVENTY TWO   | bahattar  |         |         |              |            |
+| SEVENTY THREE | tehattar  |         |         |              |            |
+| SEVENTY FOUR  | cohattar  |         |         |              |            |
+| SEVENTY FIVE  | pachattar |         |         |              |            |
+| SEVENTY SIX   | chihattar |         |         |              |            |
+| SEVENTY SEVEN | sattatar  |         |         |              |            |
+| SEVENTY EIGHT | athattar  |         |         |              |            |
+| SEVENTY NINE  | unasi     |         |         |              |            |
+| EIGHTY        | assi      |         |         |              |            |
+| EIGHTY ONE    | ikjasi    |         |         |              |            |
+| EIGHTY TWO    | bijasi    |         |         |              |            |
+| EIGHTY THREE  | trijasi   |         |         |              |            |
+| EIGHTY FOUR   | curasi    |         |         |              |            |
+| EIGHTY FIVE   | pacasi    |         |         |              |            |
+| EIGHTY SIX    | chiasi    |         |         |              |            |
+| EIGHTY SEVEN  | satasi    |         |         |              |            |
+| EIGHTY EIGHT  | athasi    |         |         |              |            |
+| EIGHTY NINE   | unanve    |         |         |              |            |
+| NINETY        | nabbe     |         |         |              |            |
+| NINETY ONE    | ikanve    |         |         |              |            |
+| NINETY TWO    | banve     |         |         |              |            |
+| NINETY THREE  | tiranve   |         |         |              |            |
+| NINETY FOUR   | curanve   |         |         |              |            |
+| NINETY FIVE   | pacanve   |         |         |              |            |
+| NINETY SIX    | chianve   |         |         |              |            |
+| NINETY SEVEN  | satanve   |         |         |              |            |
+| NINETY EIGHT  | athanve   |         |         |              |            |
+| NINETY NINE   | narinve   |         |         |              |            |
+| HUNDRED       | so        |         |         |              |            |
+| THOUSAND      | hazar     |         |         |              |            |
+| ONE MILLION   | daslakh   |         |         |              |            |
+| BILLION       | arab      |         |         |              |            |
 
 ## sand-Pahari / Pahari / Fiver:0.00 Tener:0.01 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms         | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:--------------|:--------|:--------|:-------------|:-----------|
-| ONE          | ek            |         |         |              |            |
-| TWO          | do            |         |         |              |            |
-| THREE        | tre           |         |         |              |            |
-| FOUR         | car           |         |         |              |            |
-| FIVE         | panj          |         |         |              |            |
-| SIX          | che           |         |         |              |            |
-| SEVEN        | sat           |         |         | THIRTY SEVEN |            |
-| EIGHT        | ath           |         |         |              |            |
-| NINE         | nau           |         |         |              |            |
-| TEN          | das           |         |         |              |            |
-| ELEVEN       | jara          |         |         |              |            |
-| TWELVE       | bara          |         |         |              |            |
-| THIRTEEN     | tera          |         |         |              |            |
-| FOURTEEN     | coda          |         |         |              |            |
-| FIFTEEN      | pandra        |         |         |              |            |
-| SIXTEEN      | sola          |         |         |              |            |
-| SEVENTEEN    | satara        |         |         |              |            |
-| EIGHTEEN     | thara         |         |         |              |            |
-| NINETEEN     | unni          |         |         |              |            |
-| TWENTY       | bi            |         |         |              |            |
-| TWENTY ONE   | ikki          |         |         |              |            |
-| TWENTY TWO   | bai           |         |         |              |            |
-| TWENTY THREE | trei          |         |         |              |            |
-| TWENTY FOUR  | cobbi         |         |         |              |            |
-| TWENTY FIVE  | panji         |         |         |              |            |
-| TWENTY SIX   | chabbi        |         |         |              |            |
-| TWENTY SEVEN | satai         |         |         |              |            |
-| TWENTY EIGHT | thai          |         |         |              |            |
-| TWENTY NINE  | nati          |         |         |              |            |
-| THIRTY       | tri           |         |         |              |            |
-| THIRTY ONE   | katti         |         |         |              |            |
-| THIRTY TWO   | batti         |         |         |              |            |
-| THIRTY THREE | tetti         |         |         |              |            |
-| THIRTY FOUR  | cotti         |         |         |              |            |
-| THIRTY FIVE  | peti          |         |         |              |            |
-| THIRTY SIX   | chatti        |         |         |              |            |
-| THIRTY SEVEN | satatti       |         |         |              |            |
-| THIRTY EIGHT | thatti        |         |         |              |            |
-| THIRTY NINE  | untali        |         |         |              |            |
-| FORTY        | cali          |         |         |              |            |
-| FIFTY        | panja         |         |         |              |            |
-| SIXTY        | sath          |         |         |              |            |
-| SEVENTY      | sattar        |         |         |              |            |
-| EIGHTY       | assi          |         |         |              |            |
-| NINETY       | nabbe         |         |         |              |            |
-| HUNDRED      | so            |         |         |              |            |
-| THOUSAND     | hadzar / dzar |         |         |              |            |
+| Concept       | Forms         | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:--------------|:--------|:--------|:-------------|:-----------|
+| ONE           | ek            |         |         |              |            |
+| TWO           | do            |         |         |              |            |
+| THREE         | tre           |         |         |              |            |
+| FOUR          | car           |         |         |              |            |
+| FIVE          | panj          |         |         |              |            |
+| SIX           | che           |         |         |              |            |
+| SEVEN         | sat           |         |         | THIRTY SEVEN |            |
+| EIGHT         | ath           |         |         |              |            |
+| NINE          | nau           |         |         |              |            |
+| TEN           | das           |         |         |              |            |
+| ELEVEN        | jara          |         |         |              |            |
+| TWELVE        | bara          |         |         |              |            |
+| THIRTEEN      | tera          |         |         |              |            |
+| FOURTEEN      | coda          |         |         |              |            |
+| FIFTEEN       | pandra        |         |         |              |            |
+| SIXTEEN       | sola          |         |         |              |            |
+| SEVENTEEN     | satara        |         |         |              |            |
+| EIGHTEEN      | thara         |         |         |              |            |
+| NINETEEN      | unni          |         |         |              |            |
+| TWENTY        | bi            |         |         |              |            |
+| TWENTY ONE    | ikki          |         |         |              |            |
+| TWENTY TWO    | bai           |         |         |              |            |
+| TWENTY THREE  | trei          |         |         |              |            |
+| TWENTY FOUR   | cobbi         |         |         |              |            |
+| TWENTY FIVE   | panji         |         |         |              |            |
+| TWENTY SIX    | chabbi        |         |         |              |            |
+| TWENTY SEVEN  | satai         |         |         |              |            |
+| TWENTY EIGHT  | thai          |         |         |              |            |
+| TWENTY NINE   | nati          |         |         |              |            |
+| THIRTY        | tri           |         |         |              |            |
+| THIRTY ONE    | katti         |         |         |              |            |
+| THIRTY TWO    | batti         |         |         |              |            |
+| THIRTY THREE  | tetti         |         |         |              |            |
+| THIRTY FOUR   | cotti         |         |         |              |            |
+| THIRTY FIVE   | peti          |         |         |              |            |
+| THIRTY SIX    | chatti        |         |         |              |            |
+| THIRTY SEVEN  | satatti       |         |         |              |            |
+| THIRTY EIGHT  | thatti        |         |         |              |            |
+| THIRTY NINE   | untali        |         |         |              |            |
+| FORTY         | cali          |         |         |              |            |
+| FORTY ONE     | ektali        |         |         |              |            |
+| FORTY TWO     | betali        |         |         |              |            |
+| FORTY THREE   | tertali       |         |         |              |            |
+| FORTY FOUR    | curtali       |         |         |              |            |
+| FORTY FIVE    | petali        |         |         |              |            |
+| FORTY SIX     | chatali       |         |         |              |            |
+| FORTY SEVEN   | santali       |         |         |              |            |
+| FORTY EIGHT   | athtali       |         |         |              |            |
+| FORTY NINE    | ununja        |         |         |              |            |
+| FIFTY         | panja         |         |         |              |            |
+| FIFTY ONE     | ekunja        |         |         |              |            |
+| FIFTY TWO     | bunja         |         |         |              |            |
+| FIFTY THREE   | trunja        |         |         |              |            |
+| FIFTY FOUR    | curunja       |         |         |              |            |
+| FIFTY FIVE    | pacunja       |         |         |              |            |
+| FIFTY SIX     | chuna         |         |         |              |            |
+| FIFTY SEVEN   | satunja       |         |         |              |            |
+| FIFTY EIGHT   | thunja        |         |         |              |            |
+| FIFTY NINE    | unath         |         |         |              |            |
+| SIXTY         | sath          |         |         |              |            |
+| SIXTY ONE     | ekath         |         |         |              |            |
+| SIXTY TWO     | bath          |         |         |              |            |
+| SIXTY THREE   | treth         |         |         |              |            |
+| SIXTY FOUR    | coth          |         |         |              |            |
+| SIXTY FIVE    | peth          |         |         |              |            |
+| SIXTY SIX     | chijath       |         |         |              |            |
+| SIXTY SEVEN   | satath        |         |         |              |            |
+| SIXTY EIGHT   | thath         |         |         |              |            |
+| SIXTY NINE    | unattar       |         |         |              |            |
+| SEVENTY       | sattar        |         |         |              |            |
+| SEVENTY ONE   | kattar        |         |         |              |            |
+| SEVENTY TWO   | battar        |         |         |              |            |
+| SEVENTY THREE | trettar       |         |         |              |            |
+| SEVENTY FOUR  | curattar      |         |         |              |            |
+| SEVENTY FIVE  | pacattar      |         |         |              |            |
+| SEVENTY SIX   | chejattar     |         |         |              |            |
+| SEVENTY SEVEN | satatter      |         |         |              |            |
+| SEVENTY EIGHT | thattar       |         |         |              |            |
+| SEVENTY NINE  | unasi         |         |         |              |            |
+| EIGHTY        | assi          |         |         |              |            |
+| EIGHTY ONE    | ekasi         |         |         |              |            |
+| EIGHTY TWO    | bejasi        |         |         |              |            |
+| EIGHTY THREE  | terasi        |         |         |              |            |
+| EIGHTY FOUR   | curasi        |         |         |              |            |
+| EIGHTY FIVE   | pacasi        |         |         |              |            |
+| EIGHTY SIX    | chejasi       |         |         |              |            |
+| EIGHTY SEVEN  | satasi        |         |         |              |            |
+| EIGHTY EIGHT  | thasi         |         |         |              |            |
+| EIGHTY NINE   | ananme        |         |         |              |            |
+| NINETY        | nabbe         |         |         |              |            |
+| NINETY ONE    | ekanme        |         |         |              |            |
+| NINETY TWO    | banme         |         |         |              |            |
+| NINETY THREE  | teranme       |         |         |              |            |
+| NINETY FOUR   | curanme       |         |         |              |            |
+| NINETY FIVE   | pecanme       |         |         |              |            |
+| NINETY SIX    | chejanme      |         |         |              |            |
+| NINETY SEVEN  | satanme       |         |         |              |            |
+| NINETY EIGHT  | thanme        |         |         |              |            |
+| NINETY NINE   | narimne       |         |         |              |            |
+| HUNDRED       | so            |         |         |              |            |
+| THOUSAND      | hadzar / dzar |         |         |              |            |
+| ONE MILLION   | arab          |         |         |              |            |
+| BILLION       | kharab        |         |         |              |            |
 
 ## sand-Wagdi / Wagdi / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms    | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:---------|:--------|:--------|:-------------|:-----------|
-| ONE          | ek       |         |         | THIRTY ONE   |            |
-| TWO          | be       |         |         |              |            |
-| THREE        | tran     |         |         |              |            |
-| FOUR         | sar      |         |         |              |            |
-| FIVE         | pas      |         |         |              |            |
-| SIX          | cho      |         |         |              |            |
-| SEVEN        | hat      |         |         | THIRTY SEVEN |            |
-| EIGHT        | at       |         |         |              |            |
-| NINE         | nov      |         |         |              |            |
-| TEN          | das      |         |         |              |            |
-| ELEVEN       | igjar    |         |         |              |            |
-| TWELVE       | bar      |         |         |              |            |
-| THIRTEEN     | ter      |         |         |              |            |
-| FOURTEEN     | saud     |         |         |              |            |
-| FIFTEEN      | pannor   |         |         |              |            |
-| SIXTEEN      | hor      |         |         |              |            |
-| SEVENTEEN    | hattar   |         |         |              |            |
-| EIGHTEEN     | adar     |         |         |              |            |
-| NINETEEN     | ognis    |         |         |              |            |
-| TWENTY       | vis      |         |         |              |            |
-| TWENTY ONE   | ekvi     |         |         |              |            |
-| TWENTY TWO   | bavi     |         |         |              |            |
-| TWENTY THREE | tevi     |         |         |              |            |
-| TWENTY FOUR  | sovi     |         |         |              |            |
-| TWENTY FIVE  | passi    |         |         |              |            |
-| TWENTY SIX   | chabbi   |         |         |              |            |
-| TWENTY SEVEN | hattavi  |         |         |              |            |
-| TWENTY EIGHT | athavi   |         |         |              |            |
-| TWENTY NINE  | ovantari |         |         |              |            |
-| THIRTY       | tari     |         |         |              |            |
-| THIRTY ONE   | ekatri   |         |         |              |            |
-| THIRTY TWO   | batri    |         |         |              |            |
-| THIRTY THREE | tetri    |         |         |              |            |
-| THIRTY FOUR  | sotri    |         |         |              |            |
-| THIRTY FIVE  | patri    |         |         |              |            |
-| THIRTY SIX   | chatri   |         |         |              |            |
-| THIRTY SEVEN | hatri    |         |         |              |            |
-| THIRTY EIGHT | arti     |         |         |              |            |
-| THIRTY NINE  | ogancali |         |         |              |            |
-| FORTY        | cali     |         |         |              |            |
-| FIFTY        | pasa     |         |         |              |            |
-| SIXTY        | hat      |         |         |              |            |
-| SEVENTY      | hittar   |         |         |              |            |
-| EIGHTY       | esi      |         |         |              |            |
-| NINETY       | nevu     |         |         |              |            |
-| HUNDRED      | ho       |         |         |              |            |
-| THOUSAND     | hazar    |         |         |              |            |
+| Concept       | Forms      | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:-----------|:--------|:--------|:-------------|:-----------|
+| ONE           | ek         |         |         | THIRTY ONE   |            |
+| TWO           | be         |         |         |              |            |
+| THREE         | tran       |         |         |              |            |
+| FOUR          | sar        |         |         |              |            |
+| FIVE          | pas        |         |         |              |            |
+| SIX           | cho        |         |         |              |            |
+| SEVEN         | hat        |         |         | THIRTY SEVEN |            |
+| EIGHT         | at         |         |         |              |            |
+| NINE          | nov        |         |         |              |            |
+| TEN           | das        |         |         |              |            |
+| ELEVEN        | igjar      |         |         |              |            |
+| TWELVE        | bar        |         |         |              |            |
+| THIRTEEN      | ter        |         |         |              |            |
+| FOURTEEN      | saud       |         |         |              |            |
+| FIFTEEN       | pannor     |         |         |              |            |
+| SIXTEEN       | hor        |         |         |              |            |
+| SEVENTEEN     | hattar     |         |         |              |            |
+| EIGHTEEN      | adar       |         |         |              |            |
+| NINETEEN      | ognis      |         |         |              |            |
+| TWENTY        | vis        |         |         |              |            |
+| TWENTY ONE    | ekvi       |         |         |              |            |
+| TWENTY TWO    | bavi       |         |         |              |            |
+| TWENTY THREE  | tevi       |         |         |              |            |
+| TWENTY FOUR   | sovi       |         |         |              |            |
+| TWENTY FIVE   | passi      |         |         |              |            |
+| TWENTY SIX    | chabbi     |         |         |              |            |
+| TWENTY SEVEN  | hattavi    |         |         |              |            |
+| TWENTY EIGHT  | athavi     |         |         |              |            |
+| TWENTY NINE   | ovantari   |         |         |              |            |
+| THIRTY        | tari       |         |         |              |            |
+| THIRTY ONE    | ekatri     |         |         |              |            |
+| THIRTY TWO    | batri      |         |         |              |            |
+| THIRTY THREE  | tetri      |         |         |              |            |
+| THIRTY FOUR   | sotri      |         |         |              |            |
+| THIRTY FIVE   | patri      |         |         |              |            |
+| THIRTY SIX    | chatri     |         |         |              |            |
+| THIRTY SEVEN  | hatri      |         |         |              |            |
+| THIRTY EIGHT  | arti       |         |         |              |            |
+| THIRTY NINE   | ogancali   |         |         |              |            |
+| FORTY         | cali       |         |         |              |            |
+| FORTY ONE     | ektali     |         |         |              |            |
+| FORTY TWO     | betali     |         |         |              |            |
+| FORTY THREE   | tetali     |         |         |              |            |
+| FORTY FOUR    | cummali    |         |         |              |            |
+| FORTY FIVE    | pistali    |         |         |              |            |
+| FORTY SIX     | chetali    |         |         |              |            |
+| FORTY SEVEN   | hantali    |         |         |              |            |
+| FORTY EIGHT   | artali     |         |         |              |            |
+| FORTY NINE    | oganpasa   |         |         |              |            |
+| FIFTY         | pasa       |         |         |              |            |
+| FIFTY ONE     | ekavan     |         |         |              |            |
+| FIFTY TWO     | baven      |         |         |              |            |
+| FIFTY THREE   | tippan     |         |         |              |            |
+| FIFTY FOUR    | copan      |         |         |              |            |
+| FIFTY FIVE    | paspan     |         |         |              |            |
+| FIFTY SIX     | chappan    |         |         |              |            |
+| FIFTY SEVEN   | hattavan   |         |         |              |            |
+| FIFTY EIGHT   | athavan    |         |         |              |            |
+| FIFTY NINE    | oganhat    |         |         |              |            |
+| SIXTY         | hat        |         |         |              |            |
+| SIXTY ONE     | ekhet      |         |         |              |            |
+| SIXTY TWO     | bahet      |         |         |              |            |
+| SIXTY THREE   | trehet     |         |         |              |            |
+| SIXTY FOUR    | sohet      |         |         |              |            |
+| SIXTY FIVE    | pahet      |         |         |              |            |
+| SIXTY SIX     | chahet     |         |         |              |            |
+| SIXTY SEVEN   | hanihet    |         |         |              |            |
+| SIXTY EIGHT   | arihet     |         |         |              |            |
+| SIXTY NINE    | oganhittar |         |         |              |            |
+| SEVENTY       | hittar     |         |         |              |            |
+| SEVENTY ONE   | ekoter     |         |         |              |            |
+| SEVENTY TWO   | boter      |         |         |              |            |
+| SEVENTY THREE | toter      |         |         |              |            |
+| SEVENTY FOUR  | simuter    |         |         |              |            |
+| SEVENTY FIVE  | picuter    |         |         |              |            |
+| SEVENTY SIX   | choter     |         |         |              |            |
+| SEVENTY SEVEN | hatuter    |         |         |              |            |
+| SEVENTY EIGHT | athuter    |         |         |              |            |
+| SEVENTY NINE  | ognasi     |         |         |              |            |
+| EIGHTY        | esi        |         |         |              |            |
+| EIGHTY ONE    | ekjasi     |         |         |              |            |
+| EIGHTY TWO    | bejasi     |         |         |              |            |
+| EIGHTY THREE  | terjasi    |         |         |              |            |
+| EIGHTY FOUR   | curjasi    |         |         |              |            |
+| EIGHTY FIVE   | picasi     |         |         |              |            |
+| EIGHTY SIX    | chejasi    |         |         |              |            |
+| EIGHTY SEVEN  | hetjasi    |         |         |              |            |
+| EIGHTY EIGHT  | ethjasi    |         |         |              |            |
+| EIGHTY NINE   | nivjasi    |         |         |              |            |
+| NINETY        | nevu       |         |         |              |            |
+| NINETY ONE    | ekkanu     |         |         |              |            |
+| NINETY TWO    | banu       |         |         |              |            |
+| NINETY THREE  | teranu     |         |         |              |            |
+| NINETY FOUR   | soranu     |         |         |              |            |
+| NINETY FIVE   | pancanu    |         |         |              |            |
+| NINETY SIX    | channu     |         |         |              |            |
+| NINETY SEVEN  | hattanu    |         |         |              |            |
+| NINETY EIGHT  | athanu     |         |         |              |            |
+| NINETY NINE   | ninjanu    |         |         |              |            |
+| HUNDRED       | ho         |         |         |              |            |
+| THOUSAND      | hazar      |         |         |              |            |
 
 ## numerals-aghu1253-1 / Aghul, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------|:--------|:--------|:--------|:-----------|
-| ONE          | sad         |         |         |         |            |
-| TWO          | qud         |         |         |         |            |
-| THREE        | xibud       |         |         |         |            |
-| FOUR         | jaqud       |         |         |         |            |
-| FIVE         | jyfyd       |         |         |         |            |
-| SIX          | jerxid      |         |         |         |            |
-| SEVEN        | jerid       |         |         |         |            |
-| EIGHT        | mujid       |         |         |         |            |
-| NINE         | jerkyd      |         |         |         |            |
-| TEN          | jitsud      |         |         |         |            |
-| ELEVEN       | tsisad      |         |         |         |            |
-| TWELVE       | tsiqud      |         |         |         |            |
-| THIRTEEN     | tsixibud    |         |         |         |            |
-| FOURTEEN     | tsijaqud    |         |         |         |            |
-| FIFTEEN      | tsijyfyd    |         |         |         |            |
-| SIXTEEN      | tsijerxid   |         |         |         |            |
-| SEVENTEEN    | tsijerid    |         |         |         |            |
-| EIGHTEEN     | tsimwjid    |         |         |         |            |
-| NINETEEN     | tsijerkyd   |         |         |         |            |
-| TWENTY       | qad         |         |         |         |            |
-| TWENTY ONE   | qannasad    |         |         |         |            |
-| TWENTY TWO   | qannaqud    |         |         |         |            |
-| TWENTY THREE | qannaxibud  |         |         |         |            |
-| TWENTY FOUR  | qannajaqud  |         |         |         |            |
-| TWENTY FIVE  | qannajyfyd  |         |         |         |            |
-| TWENTY SIX   | qannajerxid |         |         |         |            |
-| TWENTY SEVEN | qannajerid  |         |         |         |            |
-| TWENTY EIGHT | qannamujid  |         |         |         |            |
-| TWENTY NINE  | qannajerkyd |         |         |         |            |
-| THIRTY       | ximtsur     |         |         |         |            |
-| FORTY        | jartsur     |         |         |         |            |
-| FIFTY        | jyftsur     |         |         |         |            |
-| SIXTY        | jerxijits   |         |         |         |            |
-| SEVENTY      | jerijits    |         |         |         |            |
-| EIGHTY       | mujtsur     |         |         |         |            |
-| NINETY       | jerkyjits   |         |         |         |            |
-| HUNDRED      | wers        |         |         |         |            |
-| THOUSAND     | arzur       |         |         |         |            |
+| Concept       | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:------------|:--------|:--------|:--------|:-----------|
+| ONE           | sad         |         |         |         |            |
+| TWO           | qud         |         |         |         |            |
+| THREE         | xibud       |         |         |         |            |
+| FOUR          | jaqud       |         |         |         |            |
+| FIVE          | jyfyd       |         |         |         |            |
+| SIX           | jerxid      |         |         |         |            |
+| SEVEN         | jerid       |         |         |         |            |
+| EIGHT         | mujid       |         |         |         |            |
+| NINE          | jerkyd      |         |         |         |            |
+| TEN           | jitsud      |         |         |         |            |
+| ELEVEN        | tsisad      |         |         |         |            |
+| TWELVE        | tsiqud      |         |         |         |            |
+| THIRTEEN      | tsixibud    |         |         |         |            |
+| FOURTEEN      | tsijaqud    |         |         |         |            |
+| FIFTEEN       | tsijyfyd    |         |         |         |            |
+| SIXTEEN       | tsijerxid   |         |         |         |            |
+| SEVENTEEN     | tsijerid    |         |         |         |            |
+| EIGHTEEN      | tsimwjid    |         |         |         |            |
+| NINETEEN      | tsijerkyd   |         |         |         |            |
+| TWENTY        | qad         |         |         |         |            |
+| TWENTY ONE    | qannasad    |         |         |         |            |
+| TWENTY TWO    | qannaqud    |         |         |         |            |
+| TWENTY THREE  | qannaxibud  |         |         |         |            |
+| TWENTY FOUR   | qannajaqud  |         |         |         |            |
+| TWENTY FIVE   | qannajyfyd  |         |         |         |            |
+| TWENTY SIX    | qannajerxid |         |         |         |            |
+| TWENTY SEVEN  | qannajerid  |         |         |         |            |
+| TWENTY EIGHT  | qannamujid  |         |         |         |            |
+| TWENTY NINE   | qannajerkyd |         |         |         |            |
+| THIRTY        | ximtsur     |         |         |         |            |
+| FORTY         | jartsur     |         |         |         |            |
+| FIFTY         | jyftsur     |         |         |         |            |
+| SIXTY         | jerxijits   |         |         |         |            |
+| SEVENTY       | jerijits    |         |         |         |            |
+| EIGHTY        | mujtsur     |         |         |         |            |
+| NINETY        | jerkyjits   |         |         |         |            |
+| HUNDRED       | wers        |         |         |         |            |
+| TWO HUNDRED   | quwers      |         |         |         |            |
+| FOUR HUNDRED  | jaquwers    |         |         |         |            |
+| EIGHT HUNDRED | mujiwers    |         |         |         |            |
+| THOUSAND      | arzur       |         |         |         |            |
+| TWO THOUSAND  | quarzur     |         |         |         |            |
 
 ## numerals-aghu1253-2 / Aghul, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -499,50 +942,56 @@
 | EIGHTY       | mujtsur     |         |         |         |            |
 | NINETY       | jerkyjits   |         |         |         |            |
 | HUNDRED      | wers        |         |         |         |            |
+| TWO HUNDRED  | quwers      |         |         |         |            |
 | THOUSAND     | arzur       |         |         |         |            |
+| TWO THOUSAND | quarzur     |         |         |         |            |
 
 ## numerals-aher1237-1 / Aheri Gondi, Maharashtra, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------|:--------|:--------|:--------|:-----------|
-| ONE          | undi          |         |         |         |            |
-| TWO          | rendu         |         |         |         |            |
-| THREE        | mudu          |         |         |         |            |
-| FOUR         | nalung        |         |         |         |            |
-| FIVE         | hejung        |         |         |         |            |
-| SIX          | harung        |         |         |         |            |
-| SEVEN        | hedung        |         |         |         |            |
-| EIGHT        | enmidi        |         |         |         |            |
-| NINE         | tommidi       |         |         |         |            |
-| TEN          | padi          |         |         |         |            |
-| ELEVEN       | padakondu     |         |         |         |            |
-| TWELVE       | panendu       |         |         |         |            |
-| THIRTEEN     | padamudu      |         |         |         |            |
-| FOURTEEN     | padnalung     |         |         |         |            |
-| FIFTEEN      | padheni       |         |         |         |            |
-| SIXTEEN      | padharung     |         |         |         |            |
-| SEVENTEEN    | padhedung     |         |         |         |            |
-| EIGHTEEN     | padenmidi     |         |         |         |            |
-| NINETEEN     | pandomidi     |         |         |         |            |
-| TWENTY       | iruvaj        |         |         |         |            |
-| TWENTY ONE   | iruvajundi    |         |         |         |            |
-| TWENTY TWO   | iruvajrendu   |         |         |         |            |
-| TWENTY THREE | iruvajmudu    |         |         |         |            |
-| TWENTY FOUR  | iruvajnalung  |         |         |         |            |
-| TWENTY FIVE  | iruvajhejung  |         |         |         |            |
-| TWENTY SIX   | iruvajharung  |         |         |         |            |
-| TWENTY SEVEN | iruvajhedung  |         |         |         |            |
-| TWENTY EIGHT | iruvajenmidi  |         |         |         |            |
-| TWENTY NINE  | iruvajtommidi |         |         |         |            |
-| THIRTY       | mupaj         |         |         |         |            |
-| FORTY        | nalpej        |         |         |         |            |
-| FIFTY        | javej         |         |         |         |            |
-| SIXTY        | aruvej        |         |         |         |            |
-| SEVENTY      | dabaj         |         |         |         |            |
-| EIGHTY       | enbaj         |         |         |         |            |
-| NINETY       | tombaj        |         |         |         |            |
-| HUNDRED      | nuru          |         |         |         |            |
-| THOUSAND     | vej           |         |         |         |            |
+| Concept       | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------------|:--------|:--------|:--------|:-----------|
+| ONE           | undi          |         |         |         |            |
+| TWO           | rendu         |         |         |         |            |
+| THREE         | mudu          |         |         |         |            |
+| FOUR          | nalung        |         |         |         |            |
+| FIVE          | hejung        |         |         |         |            |
+| SIX           | harung        |         |         |         |            |
+| SEVEN         | hedung        |         |         |         |            |
+| EIGHT         | enmidi        |         |         |         |            |
+| NINE          | tommidi       |         |         |         |            |
+| TEN           | padi          |         |         |         |            |
+| ELEVEN        | padakondu     |         |         |         |            |
+| TWELVE        | panendu       |         |         |         |            |
+| THIRTEEN      | padamudu      |         |         |         |            |
+| FOURTEEN      | padnalung     |         |         |         |            |
+| FIFTEEN       | padheni       |         |         |         |            |
+| SIXTEEN       | padharung     |         |         |         |            |
+| SEVENTEEN     | padhedung     |         |         |         |            |
+| EIGHTEEN      | padenmidi     |         |         |         |            |
+| NINETEEN      | pandomidi     |         |         |         |            |
+| TWENTY        | iruvaj        |         |         |         |            |
+| TWENTY ONE    | iruvajundi    |         |         |         |            |
+| TWENTY TWO    | iruvajrendu   |         |         |         |            |
+| TWENTY THREE  | iruvajmudu    |         |         |         |            |
+| TWENTY FOUR   | iruvajnalung  |         |         |         |            |
+| TWENTY FIVE   | iruvajhejung  |         |         |         |            |
+| TWENTY SIX    | iruvajharung  |         |         |         |            |
+| TWENTY SEVEN  | iruvajhedung  |         |         |         |            |
+| TWENTY EIGHT  | iruvajenmidi  |         |         |         |            |
+| TWENTY NINE   | iruvajtommidi |         |         |         |            |
+| THIRTY        | mupaj         |         |         |         |            |
+| FORTY         | nalpej        |         |         |         |            |
+| FIFTY         | javej         |         |         |         |            |
+| SIXTY         | aruvej        |         |         |         |            |
+| SEVENTY       | dabaj         |         |         |         |            |
+| EIGHTY        | enbaj         |         |         |         |            |
+| NINETY        | tombaj        |         |         |         |            |
+| HUNDRED       | nuru          |         |         |         |            |
+| TWO HUNDRED   | rendunuhuku   |         |         |         |            |
+| FOUR HUNDRED  | nalungnuhuku  |         |         |         |            |
+| EIGHT HUNDRED | enmidinuhuku  |         |         |         |            |
+| THOUSAND      | vej           |         |         |         |            |
+| TWO THOUSAND  | renduvejku    |         |         |         |            |
 
 ## numerals-akan1250-2 / Akan, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -585,50 +1034,54 @@
 | EIGHTY       | aduowotwe     |         |         |         |            |
 | NINETY       | aduonkron     |         |         |         |            |
 | HUNDRED      | oha           |         |         |         |            |
+| TWO HUNDRED  | ohaanu        |         |         |         |            |
 | THOUSAND     | apem          |         |         |         |            |
+| TWO THOUSAND | mpemmmienu    |         |         |         |            |
 
 ## numerals-akla1241-2 / Inakeanon (Aklanon), Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------------|:--------|:--------|:--------|:-----------|
-| ONE          | isah               |         |         |         |            |
-| TWO          | daywa              |         |         |         |            |
-| THREE        | tatloh             |         |         |         |            |
-| FOUR         | apat               |         |         |         |            |
-| FIVE         | lima               |         |         |         |            |
-| SIX          | anom               |         |         |         |            |
-| SEVEN        | pitoh              |         |         |         |            |
-| EIGHT        | waoh               |         |         |         |            |
-| NINE         | siyam              |         |         |         |            |
-| TEN          | napuo              |         |         |         |            |
-| ELEVEN       | onsi               |         |         |         |            |
-| TWELVE       | dusi               |         |         |         |            |
-| THIRTEEN     | tresi              |         |         |         |            |
-| FOURTEEN     | katorsi            |         |         |         |            |
-| FIFTEEN      | kinsi              |         |         |         |            |
-| SIXTEEN      | disisai            |         |         |         |            |
-| SEVENTEEN    | disisieti          |         |         |         |            |
-| EIGHTEEN     | disiotso           |         |         |         |            |
-| NINETEEN     | disinoybi          |         |         |         |            |
-| TWENTY       | baynti             |         |         |         |            |
-| TWENTY ONE   | bayntiuno          |         |         |         |            |
-| TWENTY TWO   | bayntidos          |         |         |         |            |
-| TWENTY THREE | bayntitres         |         |         |         |            |
-| TWENTY FOUR  | bayntikwatro       |         |         |         |            |
-| TWENTY FIVE  | bayntisingko       |         |         |         |            |
-| TWENTY SIX   | bayntisaes         |         |         |         |            |
-| TWENTY SEVEN | bayntisiete        |         |         |         |            |
-| TWENTY EIGHT | bayntiotso         |         |         |         |            |
-| TWENTY NINE  | bayntinoybe        |         |         |         |            |
-| THIRTY       | trainta            |         |         |         |            |
-| FORTY        | kwarinta           |         |         |         |            |
-| FIFTY        | singkwenta         |         |         |         |            |
-| SIXTY        | sesenta            |         |         |         |            |
-| SEVENTY      | setenta            |         |         |         |            |
-| EIGHTY       | otsenta            |         |         |         |            |
-| NINETY       | nobenta            |         |         |         |            |
-| HUNDRED      | sanggatus / syento |         |         |         |            |
-| THOUSAND     | sanglibo / mil     |         |         |         |            |
+| Concept      | Forms                     | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:--------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | isah                      |         |         |         |            |
+| TWO          | daywa                     |         |         |         |            |
+| THREE        | tatloh                    |         |         |         |            |
+| FOUR         | apat                      |         |         |         |            |
+| FIVE         | lima                      |         |         |         |            |
+| SIX          | anom                      |         |         |         |            |
+| SEVEN        | pitoh                     |         |         |         |            |
+| EIGHT        | waoh                      |         |         |         |            |
+| NINE         | siyam                     |         |         |         |            |
+| TEN          | napuo                     |         |         |         |            |
+| ELEVEN       | onsi                      |         |         |         |            |
+| TWELVE       | dusi                      |         |         |         |            |
+| THIRTEEN     | tresi                     |         |         |         |            |
+| FOURTEEN     | katorsi                   |         |         |         |            |
+| FIFTEEN      | kinsi                     |         |         |         |            |
+| SIXTEEN      | disisai                   |         |         |         |            |
+| SEVENTEEN    | disisieti                 |         |         |         |            |
+| EIGHTEEN     | disiotso                  |         |         |         |            |
+| NINETEEN     | disinoybi                 |         |         |         |            |
+| TWENTY       | baynti                    |         |         |         |            |
+| TWENTY ONE   | bayntiuno                 |         |         |         |            |
+| TWENTY TWO   | bayntidos                 |         |         |         |            |
+| TWENTY THREE | bayntitres                |         |         |         |            |
+| TWENTY FOUR  | bayntikwatro              |         |         |         |            |
+| TWENTY FIVE  | bayntisingko              |         |         |         |            |
+| TWENTY SIX   | bayntisaes                |         |         |         |            |
+| TWENTY SEVEN | bayntisiete               |         |         |         |            |
+| TWENTY EIGHT | bayntiotso                |         |         |         |            |
+| TWENTY NINE  | bayntinoybe               |         |         |         |            |
+| THIRTY       | trainta                   |         |         |         |            |
+| FORTY        | kwarinta                  |         |         |         |            |
+| FIFTY        | singkwenta                |         |         |         |            |
+| SIXTY        | sesenta                   |         |         |         |            |
+| SEVENTY      | setenta                   |         |         |         |            |
+| EIGHTY       | otsenta                   |         |         |         |            |
+| NINETY       | nobenta                   |         |         |         |            |
+| HUNDRED      | sanggatus / syento        |         |         |         |            |
+| TWO HUNDRED  | darwanggatus / dossyentos |         |         |         |            |
+| THOUSAND     | sanglibo / mil            |         |         |         |            |
+| TWO THOUSAND | darwanglibo / dosmil      |         |         |         |            |
 
 ## numerals-alab1254-1 / Alaaba, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -671,7 +1124,9 @@
 | EIGHTY       | hizzeetahu            |         |         |         |            |
 | NINETY       | honsahu               |         |         |         |            |
 | HUNDRED      | tebbita               |         |         |         |            |
+| TWO HUNDRED  | lamitebbita           |         |         |         |            |
 | THOUSAND     | matusiha / matukumita |         |         |         |            |
+| TWO THOUSAND | lamusiha / lamikumita |         |         |         |            |
 
 ## numerals-andi1255-1 / Andi, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -714,7 +1169,9 @@
 | EIGHTY       | bijtlaitsolgu      |         |         |         |            |
 | NINETY       | hotsotsolgu        |         |         |         |            |
 | HUNDRED      | besonugu           |         |         |         |            |
+| TWO HUNDRED  | tsebesonugu        |         |         |         |            |
 | THOUSAND     | ozirugu            |         |         |         |            |
+| TWO THOUSAND | tseozirugu         |         |         |         |            |
 
 ## numerals-arch1244-1 / Archi, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -757,50 +1214,54 @@
 | EIGHTY       | tlimij      |         |         |         |            |
 | NINETY       | tswij       |         |         |         |            |
 | HUNDRED      | bosor       |         |         |         |            |
+| TWO HUNDRED  | qwebosi     |         |         |         |            |
 | THOUSAND     | izar        |         |         |         |            |
+| TWO THOUSAND | qweizara    |         |         |         |            |
 
 ## numerals-arom1237-1 / Arumanian, Romania, Greece / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms             | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------------|:--------|:--------|:--------|:-----------|
-| ONE          | un / uni          |         |         |         |            |
-| TWO          | doi / dawi        |         |         |         |            |
-| THREE        | trei              |         |         |         |            |
-| FOUR         | patru             |         |         |         |            |
-| FIVE         | tsintsi           |         |         |         |            |
-| SIX          | sasi              |         |         |         |            |
-| SEVEN        | sapti             |         |         |         |            |
-| EIGHT        | optu              |         |         |         |            |
-| NINE         | nawi              |         |         |         |            |
-| TEN          | dzatsi            |         |         |         |            |
-| ELEVEN       | unspridzatsi      |         |         |         |            |
-| TWELVE       | doispridzatsi     |         |         |         |            |
-| THIRTEEN     | treispridzatsi    |         |         |         |            |
-| FOURTEEN     | paspridzatsi      |         |         |         |            |
-| FIFTEEN      | tsispridzatsi     |         |         |         |            |
-| SIXTEEN      | saspridzatsi      |         |         |         |            |
-| SEVENTEEN    | saptispridzatsi   |         |         |         |            |
-| EIGHTEEN     | optuspridzatsi    |         |         |         |            |
-| NINETEEN     | nawispridzatsi    |         |         |         |            |
-| TWENTY       | ginggits          |         |         |         |            |
-| TWENTY ONE   | unspriginggits    |         |         |         |            |
-| TWENTY TWO   | doispriginggits   |         |         |         |            |
-| TWENTY THREE | treispriginggits  |         |         |         |            |
-| TWENTY FOUR  | paspriginggits    |         |         |         |            |
-| TWENTY FIVE  | tsispriginggits   |         |         |         |            |
-| TWENTY SIX   | saspriginggits    |         |         |         |            |
-| TWENTY SEVEN | saptispriginggits |         |         |         |            |
-| TWENTY EIGHT | optuspriginggits  |         |         |         |            |
-| TWENTY NINE  | nawispriginggits  |         |         |         |            |
-| THIRTY       | treidzats         |         |         |         |            |
-| FORTY        | patrudzats        |         |         |         |            |
-| FIFTY        | tsindzats         |         |         |         |            |
-| SIXTY        | saidzats          |         |         |         |            |
-| SEVENTY      | saptidzats        |         |         |         |            |
-| EIGHTY       | obdzats           |         |         |         |            |
-| NINETY       | nawidzats         |         |         |         |            |
-| HUNDRED      | unisuti           |         |         |         |            |
-| THOUSAND     | uniniyi           |         |         |         |            |
+| Concept      | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:---------------------|:--------|:--------|:--------|:-----------|
+| ONE          | un / uni             |         |         |         |            |
+| TWO          | doi / dawi           |         |         |         |            |
+| THREE        | trei                 |         |         |         |            |
+| FOUR         | patru                |         |         |         |            |
+| FIVE         | tsintsi              |         |         |         |            |
+| SIX          | sasi                 |         |         |         |            |
+| SEVEN        | sapti                |         |         |         |            |
+| EIGHT        | optu                 |         |         |         |            |
+| NINE         | nawi                 |         |         |         |            |
+| TEN          | dzatsi               |         |         |         |            |
+| ELEVEN       | unspridzatsi         |         |         |         |            |
+| TWELVE       | doispridzatsi        |         |         |         |            |
+| THIRTEEN     | treispridzatsi       |         |         |         |            |
+| FOURTEEN     | paspridzatsi         |         |         |         |            |
+| FIFTEEN      | tsispridzatsi        |         |         |         |            |
+| SIXTEEN      | saspridzatsi         |         |         |         |            |
+| SEVENTEEN    | saptispridzatsi      |         |         |         |            |
+| EIGHTEEN     | optuspridzatsi       |         |         |         |            |
+| NINETEEN     | nawispridzatsi       |         |         |         |            |
+| TWENTY       | ginggits             |         |         |         |            |
+| TWENTY ONE   | unspriginggits       |         |         |         |            |
+| TWENTY TWO   | doispriginggits      |         |         |         |            |
+| TWENTY THREE | treispriginggits     |         |         |         |            |
+| TWENTY FOUR  | paspriginggits       |         |         |         |            |
+| TWENTY FIVE  | tsispriginggits      |         |         |         |            |
+| TWENTY SIX   | saspriginggits       |         |         |         |            |
+| TWENTY SEVEN | saptispriginggits    |         |         |         |            |
+| TWENTY EIGHT | optuspriginggits     |         |         |         |            |
+| TWENTY NINE  | nawispriginggits     |         |         |         |            |
+| THIRTY       | treidzats            |         |         |         |            |
+| FORTY        | patrudzats           |         |         |         |            |
+| FIFTY        | tsindzats            |         |         |         |            |
+| SIXTY        | saidzats             |         |         |         |            |
+| SEVENTY      | saptidzats           |         |         |         |            |
+| EIGHTY       | obdzats              |         |         |         |            |
+| NINETY       | nawidzats            |         |         |         |            |
+| HUNDRED      | unisuti              |         |         |         |            |
+| TWO HUNDRED  | dawisuti             |         |         |         |            |
+| THOUSAND     | uniniyi              |         |         |         |            |
+| TWO THOUSAND | daonjilje / dawiniyi |         |         |         |            |
 
 ## numerals-asho1236-1 / Asho Chin, Bangladesh, Myanmar / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -843,49 +1304,9 @@
 | EIGHTY       | setgit       |         |         |         |            |
 | NINETY       | kogit        |         |         |         |            |
 | HUNDRED      | khrak        |         |         |         |            |
+| TWO HUNDRED  | khrahngi     |         |         |         |            |
 | THOUSAND     | tungak       |         |         |         |            |
-
-## numerals-aton1241-1 / A'tong, India, Bangladesh / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | cha            |         |         |         |            |
-| TWO          | gani           |         |         |         |            |
-| THREE        | gatham         |         |         |         |            |
-| FOUR         | biri           |         |         | FORTY   |            |
-| FIVE         | banga          |         |         |         |            |
-| SIX          | korok          |         |         |         |            |
-| SEVEN        | chene          |         |         |         |            |
-| EIGHT        | tcatgak        |         |         |         |            |
-| NINE         | tcakhaw        |         |         |         |            |
-| TEN          | tcajgak        |         |         |         |            |
-| ELEVEN       | tcitsa         |         |         |         |            |
-| TWELVE       | tcini          |         |         |         |            |
-| THIRTEEN     | tcitham        |         |         |         |            |
-| FOURTEEN     | tcibiri        |         |         |         |            |
-| FIFTEEN      | tciranga       |         |         |         |            |
-| SIXTEEN      | tcidok         |         |         |         |            |
-| SEVENTEEN    | tcichene       |         |         |         |            |
-| EIGHTEEN     | tcitchat       |         |         |         |            |
-| NINETEEN     | tcisuku        |         |         |         |            |
-| TWENTY       | kholgak        |         |         |         |            |
-| TWENTY ONE   | kholgrakcha    |         |         |         |            |
-| TWENTY TWO   | kholgrakgatham |         |         |         |            |
-| TWENTY FOUR  | kholgrakbiri   |         |         |         |            |
-| TWENTY FIVE  | kholgrakbanga  |         |         |         |            |
-| TWENTY SIX   | kholgrakdok    |         |         |         |            |
-| TWENTY SEVEN | kholgrakchene  |         |         |         |            |
-| TWENTY EIGHT | kholgrakchet   |         |         |         |            |
-| TWENTY NINE  | kholgraksku    |         |         |         |            |
-| THIRTY       | kholattci      |         |         |         |            |
-| FORTY        | chotbiri       |         |         |         |            |
-| FIFTY        | chotbunga      |         |         |         |            |
-| SIXTY        | chotdok        |         |         |         |            |
-| SEVENTY      | chotchene      |         |         |         |            |
-| EIGHTY       | chottcet       |         |         |         |            |
-| NINETY       | chotsuku       |         |         |         |            |
-| HUNDRED      | radzachaa      |         |         |         |            |
-| THOUSAND     | hadzalcha      |         |         |         |            |
+| TWO THOUSAND | tunghngi     |         |         |         |            |
 
 ## numerals-auve1239-1 / Occitan (Auvergnat), France / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -928,7 +1349,9 @@
 | EIGHTY       | katravjin    |         |         |         |            |
 | NINETY       | katravjindje |         |         |         |            |
 | HUNDRED      | se           |         |         |         |            |
+| TWO HUNDRED  | duse         |         |         |         |            |
 | THOUSAND     | mjila        |         |         |         |            |
+| TWO THOUSAND | dumjila      |         |         |         |            |
 
 ## numerals-bafa1249-1 / Bafanji, Cameroon / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -971,7 +1394,9 @@
 | EIGHTY       | fuogwu                 |         |         |         |            |
 | NINETY       | puugwu                 |         |         |         |            |
 | HUNDRED      | tiaengkww              |         |         |         |            |
+| TWO HUNDRED  | piangkww               |         |         |         |            |
 | THOUSAND     | tiaengkee              |         |         |         |            |
+| TWO THOUSAND | piaengkee              |         |         |         |            |
 
 ## numerals-bagv1239-1 / Bagulal, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1015,6 +1440,7 @@
 | NINETY       | hatswatsa      |         |         |         |            |
 | HUNDRED      | besenda        |         |         |         |            |
 | THOUSAND     | azarda         |         |         |         |            |
+| TWO THOUSAND | kjeazarda      |         |         |         |            |
 
 ## numerals-baim1244-1 / Baima, China / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -1057,7 +1483,9 @@
 | EIGHTY       | dzea13tso53                   |         |         |              |            |
 | NINETY       | go13tso53                     |         |         |              |            |
 | HUNDRED      | dza341                        |         |         |              |            |
+| TWO HUNDRED  | no13dza341                    |         |         |              |            |
 | THOUSAND     | to35tsr53                     |         |         |              |            |
+| TWO THOUSAND | to35tsr53ni341                |         |         |              |            |
 
 ## numerals-bala1302-1 / Balanta-Ganja, Senegal / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -1100,93 +1528,99 @@
 | EIGHTY       | njimminntaataala           |         |         |         |            |
 | NINETY       | njimminnjintahla           |         |         |         |            |
 | HUNDRED      | geme                       |         |         |         |            |
+| TWO HUNDRED  | ggemegsibi                 |         |         |         |            |
 | THOUSAND     | wilimbooda                 |         |         |         |            |
+| TWO THOUSAND | gwiligsibi                 |         |         |         |            |
 
 ## numerals-bant1288-1 / Bantoanon, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------------|:--------|:--------|:--------|:-----------|
-| ONE          | usah                |         |         |         |            |
-| TWO          | ruhah               |         |         |         |            |
-| THREE        | tatloh              |         |         |         |            |
-| FOUR         | apat                |         |         |         |            |
-| FIVE         | limah               |         |         |         |            |
-| SIX          | anom                |         |         |         |            |
-| SEVEN        | pitoh               |         |         |         |            |
-| EIGHT        | wayoh               |         |         |         |            |
-| NINE         | sidam               |         |         |         |            |
-| TEN          | sampuyo             |         |         |         |            |
-| ELEVEN       | onse                |         |         |         |            |
-| TWELVE       | dose                |         |         |         |            |
-| THIRTEEN     | trese               |         |         |         |            |
-| FOURTEEN     | katorse             |         |         |         |            |
-| FIFTEEN      | kinse               |         |         |         |            |
-| SIXTEEN      | disisais            |         |         |         |            |
-| SEVENTEEN    | disisyete           |         |         |         |            |
-| EIGHTEEN     | disiotso            |         |         |         |            |
-| NINETEEN     | disinoybe           |         |         |         |            |
-| TWENTY       | beynte              |         |         |         |            |
-| TWENTY ONE   | beynteuno           |         |         |         |            |
-| TWENTY TWO   | beyntedos           |         |         |         |            |
-| TWENTY THREE | beyntetres          |         |         |         |            |
-| TWENTY FOUR  | beyntekwatro        |         |         |         |            |
-| TWENTY FIVE  | beyntesingko        |         |         |         |            |
-| TWENTY SIX   | beyntesais          |         |         |         |            |
-| TWENTY SEVEN | beyntesyete         |         |         |         |            |
-| TWENTY EIGHT | beynteotso          |         |         |         |            |
-| TWENTY NINE  | beyntenoybe         |         |         |         |            |
-| THIRTY       | treynta             |         |         |         |            |
-| FORTY        | kwarenta            |         |         |         |            |
-| FIFTY        | singkwenta          |         |         |         |            |
-| SIXTY        | saysenta            |         |         |         |            |
-| SEVENTY      | sitenta             |         |         |         |            |
-| EIGHTY       | otsenta             |         |         |         |            |
-| NINETY       | nobenta             |         |         |         |            |
-| HUNDRED      | usanggatos / syento |         |         |         |            |
-| THOUSAND     | usanglibo / mil     |         |         |         |            |
+| Concept      | Forms                   | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | usah                    |         |         |         |            |
+| TWO          | ruhah                   |         |         |         |            |
+| THREE        | tatloh                  |         |         |         |            |
+| FOUR         | apat                    |         |         |         |            |
+| FIVE         | limah                   |         |         |         |            |
+| SIX          | anom                    |         |         |         |            |
+| SEVEN        | pitoh                   |         |         |         |            |
+| EIGHT        | wayoh                   |         |         |         |            |
+| NINE         | sidam                   |         |         |         |            |
+| TEN          | sampuyo                 |         |         |         |            |
+| ELEVEN       | onse                    |         |         |         |            |
+| TWELVE       | dose                    |         |         |         |            |
+| THIRTEEN     | trese                   |         |         |         |            |
+| FOURTEEN     | katorse                 |         |         |         |            |
+| FIFTEEN      | kinse                   |         |         |         |            |
+| SIXTEEN      | disisais                |         |         |         |            |
+| SEVENTEEN    | disisyete               |         |         |         |            |
+| EIGHTEEN     | disiotso                |         |         |         |            |
+| NINETEEN     | disinoybe               |         |         |         |            |
+| TWENTY       | beynte                  |         |         |         |            |
+| TWENTY ONE   | beynteuno               |         |         |         |            |
+| TWENTY TWO   | beyntedos               |         |         |         |            |
+| TWENTY THREE | beyntetres              |         |         |         |            |
+| TWENTY FOUR  | beyntekwatro            |         |         |         |            |
+| TWENTY FIVE  | beyntesingko            |         |         |         |            |
+| TWENTY SIX   | beyntesais              |         |         |         |            |
+| TWENTY SEVEN | beyntesyete             |         |         |         |            |
+| TWENTY EIGHT | beynteotso              |         |         |         |            |
+| TWENTY NINE  | beyntenoybe             |         |         |         |            |
+| THIRTY       | treynta                 |         |         |         |            |
+| FORTY        | kwarenta                |         |         |         |            |
+| FIFTY        | singkwenta              |         |         |         |            |
+| SIXTY        | saysenta                |         |         |         |            |
+| SEVENTY      | sitenta                 |         |         |         |            |
+| EIGHTY       | otsenta                 |         |         |         |            |
+| NINETY       | nobenta                 |         |         |         |            |
+| HUNDRED      | usanggatos / syento     |         |         |         |            |
+| TWO HUNDRED  | ruhanggatos / dosyentos |         |         |         |            |
+| THOUSAND     | usanglibo / mil         |         |         |         |            |
+| TWO THOUSAND | dosmil                  |         |         |         |            |
 
 ## numerals-bant1288-2 / Bantoanon, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------------|:--------|:--------|:--------|:-----------|
-| ONE          | usah                |         |         |         |            |
-| TWO          | ruhah               |         |         |         |            |
-| THREE        | tatloh              |         |         |         |            |
-| FOUR         | apat                |         |         |         |            |
-| FIVE         | limah               |         |         |         |            |
-| SIX          | anom                |         |         |         |            |
-| SEVEN        | pitoh               |         |         |         |            |
-| EIGHT        | wayoh               |         |         |         |            |
-| NINE         | sidam               |         |         |         |            |
-| TEN          | sampuyo             |         |         |         |            |
-| ELEVEN       | onse                |         |         |         |            |
-| TWELVE       | dose                |         |         |         |            |
-| THIRTEEN     | trese               |         |         |         |            |
-| FOURTEEN     | katorse             |         |         |         |            |
-| FIFTEEN      | kinse               |         |         |         |            |
-| SIXTEEN      | disisais            |         |         |         |            |
-| SEVENTEEN    | disisiete           |         |         |         |            |
-| EIGHTEEN     | disiotso            |         |         |         |            |
-| NINETEEN     | disinoybe           |         |         |         |            |
-| TWENTY       | bainte              |         |         |         |            |
-| TWENTY ONE   | bainteuno           |         |         |         |            |
-| TWENTY TWO   | baintedos           |         |         |         |            |
-| TWENTY THREE | baintetres          |         |         |         |            |
-| TWENTY FOUR  | baintekwatro        |         |         |         |            |
-| TWENTY FIVE  | baintesingko        |         |         |         |            |
-| TWENTY SIX   | baintesaes          |         |         |         |            |
-| TWENTY SEVEN | baintesiete         |         |         |         |            |
-| TWENTY EIGHT | bainteotso          |         |         |         |            |
-| TWENTY NINE  | baintenoybe         |         |         |         |            |
-| THIRTY       | trainta             |         |         |         |            |
-| FORTY        | kwarinta            |         |         |         |            |
-| FIFTY        | singkwenta          |         |         |         |            |
-| SIXTY        | sesenta             |         |         |         |            |
-| SEVENTY      | setenta             |         |         |         |            |
-| EIGHTY       | otsenta             |         |         |         |            |
-| NINETY       | nobenta             |         |         |         |            |
-| HUNDRED      | usanggatos / syentu |         |         |         |            |
-| THOUSAND     | usanglibo / mil     |         |         |         |            |
+| Concept      | Forms                   | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | usah                    |         |         |         |            |
+| TWO          | ruhah                   |         |         |         |            |
+| THREE        | tatloh                  |         |         |         |            |
+| FOUR         | apat                    |         |         |         |            |
+| FIVE         | limah                   |         |         |         |            |
+| SIX          | anom                    |         |         |         |            |
+| SEVEN        | pitoh                   |         |         |         |            |
+| EIGHT        | wayoh                   |         |         |         |            |
+| NINE         | sidam                   |         |         |         |            |
+| TEN          | sampuyo                 |         |         |         |            |
+| ELEVEN       | onse                    |         |         |         |            |
+| TWELVE       | dose                    |         |         |         |            |
+| THIRTEEN     | trese                   |         |         |         |            |
+| FOURTEEN     | katorse                 |         |         |         |            |
+| FIFTEEN      | kinse                   |         |         |         |            |
+| SIXTEEN      | disisais                |         |         |         |            |
+| SEVENTEEN    | disisiete               |         |         |         |            |
+| EIGHTEEN     | disiotso                |         |         |         |            |
+| NINETEEN     | disinoybe               |         |         |         |            |
+| TWENTY       | bainte                  |         |         |         |            |
+| TWENTY ONE   | bainteuno               |         |         |         |            |
+| TWENTY TWO   | baintedos               |         |         |         |            |
+| TWENTY THREE | baintetres              |         |         |         |            |
+| TWENTY FOUR  | baintekwatro            |         |         |         |            |
+| TWENTY FIVE  | baintesingko            |         |         |         |            |
+| TWENTY SIX   | baintesaes              |         |         |         |            |
+| TWENTY SEVEN | baintesiete             |         |         |         |            |
+| TWENTY EIGHT | bainteotso              |         |         |         |            |
+| TWENTY NINE  | baintenoybe             |         |         |         |            |
+| THIRTY       | trainta                 |         |         |         |            |
+| FORTY        | kwarinta                |         |         |         |            |
+| FIFTY        | singkwenta              |         |         |         |            |
+| SIXTY        | sesenta                 |         |         |         |            |
+| SEVENTY      | setenta                 |         |         |         |            |
+| EIGHTY       | otsenta                 |         |         |         |            |
+| NINETY       | nobenta                 |         |         |         |            |
+| HUNDRED      | usanggatos / syentu     |         |         |         |            |
+| TWO HUNDRED  | ruhanggatos / dosyentos |         |         |         |            |
+| THOUSAND     | usanglibo / mil         |         |         |         |            |
+| TWO THOUSAND | dosmil                  |         |         |         |            |
 
 ## numerals-baro1252-1 / Barombi, Cameroon / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1229,7 +1663,9 @@
 | EIGHTY       | moongwamb          |         |         |         |            |
 | NINETY       | mookiboo           |         |         |         |            |
 | HUNDRED      | mboko              |         |         |         |            |
+| TWO HUNDRED  | mbokobaa           |         |         |         |            |
 | THOUSAND     | fikoo              |         |         |         |            |
+| TWO THOUSAND | fikoobaa           |         |         |         |            |
 
 ## numerals-bata1298-1 / Batad Ifugao, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1272,50 +1708,56 @@
 | EIGHTY       | nawalu            |         |         |         |            |
 | NINETY       | nahiyam           |         |         |         |            |
 | HUNDRED      | hinggahut         |         |         |         |            |
+| TWO HUNDRED  | duwaygahut        |         |         |         |            |
 | THOUSAND     | hinlubu           |         |         |         |            |
+| TWO THOUSAND | duwaylubu         |         |         |         |            |
 
 ## numerals-baur1251-1 / Bauria (Bawriya), India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | eka     |         |         |         |            |
-| TWO          | ba      |         |         |         |            |
-| THREE        | tren    |         |         |         |            |
-| FOUR         | tsar    |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | tsho    |         |         |         |            |
-| SEVEN        | hat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | nw      |         |         |         |            |
-| TEN          | doh     |         |         |         |            |
-| ELEVEN       | gyara   |         |         |         |            |
-| TWELVE       | bara    |         |         |         |            |
-| THIRTEEN     | tera    |         |         |         |            |
-| FOURTEEN     | tswda   |         |         |         |            |
-| FIFTEEN      | pndra   |         |         |         |            |
-| SIXTEEN      | holea   |         |         |         |            |
-| SEVENTEEN    | htora   |         |         |         |            |
-| EIGHTEEN     | atara   |         |         |         |            |
-| NINETEEN     | ungngi  |         |         |         |            |
-| TWENTY       | wih     |         |         |         |            |
-| TWENTY ONE   | ikki    |         |         |         |            |
-| TWENTY TWO   | bai     |         |         |         |            |
-| TWENTY THREE | tei     |         |         |         |            |
-| TWENTY FOUR  | tswvi   |         |         |         |            |
-| TWENTY FIVE  | ptstsi  |         |         |         |            |
-| TWENTY SIX   | tshbbi  |         |         |         |            |
-| TWENTY SEVEN | htai    |         |         |         |            |
-| TWENTY EIGHT | tai     |         |         |         |            |
-| TWENTY NINE  | ungngti |         |         |         |            |
-| THIRTY       | tih     |         |         |         |            |
-| FORTY        | tsalia  |         |         |         |            |
-| FIFTY        | pdzaa   |         |         |         |            |
-| SIXTY        | hatth   |         |         |         |            |
-| SEVENTY      | httr    |         |         |         |            |
-| EIGHTY       | assi    |         |         |         |            |
-| NINETY       | nbbea   |         |         |         |            |
-| HUNDRED      | hoa     |         |         |         |            |
-| THOUSAND     | ekdzar  |         |         |         |            |
+| Concept       | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------|:--------|:--------|:--------|:-----------|
+| ONE           | eka     |         |         |         |            |
+| TWO           | ba      |         |         |         |            |
+| THREE         | tren    |         |         |         |            |
+| FOUR          | tsar    |         |         |         |            |
+| FIVE          | pats    |         |         |         |            |
+| SIX           | tsho    |         |         |         |            |
+| SEVEN         | hat     |         |         |         |            |
+| EIGHT         | ath     |         |         |         |            |
+| NINE          | nw      |         |         |         |            |
+| TEN           | doh     |         |         |         |            |
+| ELEVEN        | gyara   |         |         |         |            |
+| TWELVE        | bara    |         |         |         |            |
+| THIRTEEN      | tera    |         |         |         |            |
+| FOURTEEN      | tswda   |         |         |         |            |
+| FIFTEEN       | pndra   |         |         |         |            |
+| SIXTEEN       | holea   |         |         |         |            |
+| SEVENTEEN     | htora   |         |         |         |            |
+| EIGHTEEN      | atara   |         |         |         |            |
+| NINETEEN      | ungngi  |         |         |         |            |
+| TWENTY        | wih     |         |         |         |            |
+| TWENTY ONE    | ikki    |         |         |         |            |
+| TWENTY TWO    | bai     |         |         |         |            |
+| TWENTY THREE  | tei     |         |         |         |            |
+| TWENTY FOUR   | tswvi   |         |         |         |            |
+| TWENTY FIVE   | ptstsi  |         |         |         |            |
+| TWENTY SIX    | tshbbi  |         |         |         |            |
+| TWENTY SEVEN  | htai    |         |         |         |            |
+| TWENTY EIGHT  | tai     |         |         |         |            |
+| TWENTY NINE   | ungngti |         |         |         |            |
+| THIRTY        | tih     |         |         |         |            |
+| FORTY         | tsalia  |         |         |         |            |
+| FIFTY         | pdzaa   |         |         |         |            |
+| SIXTY         | hatth   |         |         |         |            |
+| SEVENTY       | httr    |         |         |         |            |
+| EIGHTY        | assi    |         |         |         |            |
+| NINETY        | nbbea   |         |         |         |            |
+| HUNDRED       | hoa     |         |         |         |            |
+| TWO HUNDRED   | bahoa   |         |         |         |            |
+| FOUR HUNDRED  | tsarhoa |         |         |         |            |
+| EIGHT HUNDRED | athhoa  |         |         |         |            |
+| THOUSAND      | ekdzar  |         |         |         |            |
+| TWO THOUSAND  | badzar  |         |         |         |            |
 
 ## numerals-bemb1257-1 / Bemba, Zambia, DR of the Congo / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1358,7 +1800,9 @@
 | EIGHTY       | amakumicinekonse          |         |         |         |            |
 | NINETY       | amakumipaabula            |         |         |         |            |
 | HUNDRED      | umwandaumo                |         |         |         |            |
+| TWO HUNDRED  | imyandaibili              |         |         |         |            |
 | THOUSAND     | ikanalimo                 |         |         |         |            |
+| TWO THOUSAND | amakanayabili             |         |         |         |            |
 
 ## numerals-bena1262-1 / Bena, Tanzania / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1401,7 +1845,10 @@
 | EIGHTY       | maccjumimunana           |         |         |         |            |
 | NINETY       | maccjumimugonza          |         |         |         |            |
 | HUNDRED      | liganalimwi              |         |         |         |            |
+| TWO HUNDRED  | maganagavili             |         |         |         |            |
+| FOUR HUNDRED | maganagataayi            |         |         |         |            |
 | THOUSAND     | mbilima                  |         |         |         |            |
+| TWO THOUSAND | mbilimatsivili           |         |         |         |            |
 
 ## numerals-benc1235-1 / Gimira (Bench), Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1444,50 +1891,56 @@
 | EIGHTY       | nyar5tn3tam2        |         |         |         |            |
 | NINETY       | irs5tn3tam2         |         |         |         |            |
 | HUNDRED      | bal23               |         |         |         |            |
+| TWO HUNDRED  | nam4bal23           |         |         |         |            |
 | THOUSAND     | nam4wum23           |         |         |         |            |
+| TWO THOUSAND | nam4wum23           |         |         |         |            |
 
 ## numerals-bhad1241-1 / Bhadrawahi, Jammu-Kashmir, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | ak      |         |         |         |            |
-| TWO          | dui     |         |         |         |            |
-| THREE        | taj     |         |         |         |            |
-| FOUR         | tsor    |         |         |         |            |
-| FIVE         | pants   |         |         |         |            |
-| SIX          | sa      |         |         |         |            |
-| SEVEN        | sat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | nv      |         |         |         |            |
-| TEN          | das     |         |         |         |            |
-| ELEVEN       | jare    |         |         |         |            |
-| TWELVE       | bare    |         |         |         |            |
-| THIRTEEN     | tere    |         |         |         |            |
-| FOURTEEN     | tsovde  |         |         |         |            |
-| FIFTEEN      | parne   |         |         |         |            |
-| SIXTEEN      | sore    |         |         |         |            |
-| SEVENTEEN    | stare   |         |         |         |            |
-| EIGHTEEN     | athare  |         |         |         |            |
-| NINETEEN     | unih    |         |         |         |            |
-| TWENTY       | bih     |         |         |         |            |
-| TWENTY ONE   | ikai    |         |         |         |            |
-| TWENTY TWO   | bai     |         |         |         |            |
-| TWENTY THREE | tebei   |         |         |         |            |
-| TWENTY FOUR  | tsobei  |         |         |         |            |
-| TWENTY FIVE  | pantsai |         |         |         |            |
-| TWENTY SIX   | sabai   |         |         |         |            |
-| TWENTY SEVEN | satai   |         |         |         |            |
-| TWENTY EIGHT | athai   |         |         |         |            |
-| TWENTY NINE  | unatri  |         |         |         |            |
-| THIRTY       | tih     |         |         |         |            |
-| FORTY        | tsalih  |         |         |         |            |
-| FIFTY        | pandza  |         |         |         |            |
-| SIXTY        | sath    |         |         |         |            |
-| SEVENTY      | satar   |         |         |         |            |
-| EIGHTY       | esi     |         |         |         |            |
-| NINETY       | nebi    |         |         |         |            |
-| HUNDRED      | sv      |         |         |         |            |
-| THOUSAND     | hazar   |         |         |         |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------|:--------|:--------|:--------|:-----------|
+| ONE           | ak       |         |         |         |            |
+| TWO           | dui      |         |         |         |            |
+| THREE         | taj      |         |         |         |            |
+| FOUR          | tsor     |         |         |         |            |
+| FIVE          | pants    |         |         |         |            |
+| SIX           | sa       |         |         |         |            |
+| SEVEN         | sat      |         |         |         |            |
+| EIGHT         | ath      |         |         |         |            |
+| NINE          | nv       |         |         |         |            |
+| TEN           | das      |         |         |         |            |
+| ELEVEN        | jare     |         |         |         |            |
+| TWELVE        | bare     |         |         |         |            |
+| THIRTEEN      | tere     |         |         |         |            |
+| FOURTEEN      | tsovde   |         |         |         |            |
+| FIFTEEN       | parne    |         |         |         |            |
+| SIXTEEN       | sore     |         |         |         |            |
+| SEVENTEEN     | stare    |         |         |         |            |
+| EIGHTEEN      | athare   |         |         |         |            |
+| NINETEEN      | unih     |         |         |         |            |
+| TWENTY        | bih      |         |         |         |            |
+| TWENTY ONE    | ikai     |         |         |         |            |
+| TWENTY TWO    | bai      |         |         |         |            |
+| TWENTY THREE  | tebei    |         |         |         |            |
+| TWENTY FOUR   | tsobei   |         |         |         |            |
+| TWENTY FIVE   | pantsai  |         |         |         |            |
+| TWENTY SIX    | sabai    |         |         |         |            |
+| TWENTY SEVEN  | satai    |         |         |         |            |
+| TWENTY EIGHT  | athai    |         |         |         |            |
+| TWENTY NINE   | unatri   |         |         |         |            |
+| THIRTY        | tih      |         |         |         |            |
+| FORTY         | tsalih   |         |         |         |            |
+| FIFTY         | pandza   |         |         |         |            |
+| SIXTY         | sath     |         |         |         |            |
+| SEVENTY       | satar    |         |         |         |            |
+| EIGHTY        | esi      |         |         |         |            |
+| NINETY        | nebi     |         |         |         |            |
+| HUNDRED       | sv       |         |         |         |            |
+| TWO HUNDRED   | duisv    |         |         |         |            |
+| FOUR HUNDRED  | tsorsv   |         |         |         |            |
+| EIGHT HUNDRED | atsv     |         |         |         |            |
+| THOUSAND      | hazar    |         |         |         |            |
+| TWO THOUSAND  | duihazar |         |         |         |            |
 
 ## numerals-bima1247-1 / Sambori, Flores, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1530,49 +1983,9 @@
 | EIGHTY       | varumpurumbua    |         |         |         |            |
 | NINETY       | sovompurumbua    |         |         |         |            |
 | HUNDRED      | saratumbua       |         |         |         |            |
+| TWO HUNDRED  | duaratumbua      |         |         |         |            |
 | THOUSAND     | sarivumbua       |         |         |         |            |
-
-## numerals-bodo1269-2 / Bodo, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------|:--------|:--------|:--------|:-----------|
-| ONE          | se1                  |         |         |         |            |
-| TWO          | noy1                 |         |         |         |            |
-| THREE        | tham2                |         |         |         |            |
-| FOUR         | broy1 / bri1         |         |         |         |            |
-| FIVE         | ba1                  |         |         |         |            |
-| SIX          | do1 / ro1            |         |         |         |            |
-| SEVEN        | sni1 / si2ni1        |         |         |         |            |
-| EIGHT        | zad1 / dang1 / dyan1 |         |         |         |            |
-| NINE         | si2kho1              |         |         |         |            |
-| TEN          | zi2 / zu2            |         |         |         |            |
-| ELEVEN       | zi2se1               |         |         |         |            |
-| TWELVE       | zi2noy1              |         |         |         |            |
-| THIRTEEN     | zi2tham2             |         |         |         |            |
-| FOURTEEN     | zi2broy1             |         |         |         |            |
-| FIFTEEN      | zi2ba1               |         |         |         |            |
-| SIXTEEN      | zi2do1               |         |         |         |            |
-| SEVENTEEN    | zi2sni1              |         |         |         |            |
-| EIGHTEEN     | zi2dyan1             |         |         |         |            |
-| NINETEEN     | zi2gu1               |         |         |         |            |
-| TWENTY       | noy2zi1 / kuri       |         |         |         |            |
-| TWENTY ONE   | noy2zi1se1           |         |         |         |            |
-| TWENTY TWO   | noy2zi1tham2         |         |         |         |            |
-| TWENTY FOUR  | noy2zi1broy1         |         |         |         |            |
-| TWENTY FIVE  | noy2zi1ba1           |         |         |         |            |
-| TWENTY SIX   | noy2zi1do1           |         |         |         |            |
-| TWENTY SEVEN | noy2zi1sni1          |         |         |         |            |
-| TWENTY EIGHT | noy2zi1dyan1         |         |         |         |            |
-| TWENTY NINE  | noy2zi1gu1           |         |         |         |            |
-| THIRTY       | tham2zi1             |         |         |         |            |
-| FORTY        | broy2zi1             |         |         |         |            |
-| FIFTY        | ba2zi1               |         |         |         |            |
-| SIXTY        | do2zi2               |         |         |         |            |
-| SEVENTY      | sni2zi1              |         |         |         |            |
-| EIGHTY       | dyan2zi1             |         |         |         |            |
-| NINETY       | gu2zi1               |         |         |         |            |
-| HUNDRED      | zow2se1              |         |         |         |            |
-| THOUSAND     | ro2za2se1            |         |         |         |            |
+| TWO THOUSAND | duarivumbua      |         |         |         |            |
 
 ## numerals-boli1256-1 / Bolinao, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1615,7 +2028,9 @@
 | EIGHTY       | walumpulo       |         |         |         |            |
 | NINETY       | syamapulo       |         |         |         |            |
 | HUNDRED      | sanyasot        |         |         |         |            |
+| TWO HUNDRED  | rwanyasot       |         |         |         |            |
 | THOUSAND     | sanribo         |         |         |         |            |
+| TWO THOUSAND | rwanribo        |         |         |         |            |
 
 ## numerals-bona1250-1 / Baoan, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1658,7 +2073,9 @@
 | EIGHTY       | dzatci          |         |         |         |            |
 | NINETY       | rgabtci         |         |         |         |            |
 | HUNDRED      | dza             |         |         |         |            |
+| TWO HUNDRED  | dzaguar         |         |         |         |            |
 | THOUSAND     | sdong           |         |         |         |            |
+| TWO THOUSAND | sdongguar       |         |         |         |            |
 
 ## numerals-bona1250-2 / Baoan, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1701,7 +2118,9 @@
 | EIGHTY       | naimarang       |         |         |         |            |
 | NINETY       | iasung          |         |         |         |            |
 | HUNDRED      | nagandzyng      |         |         |         |            |
+| TWO HUNDRED  | guardzyng       |         |         |         |            |
 | THOUSAND     | itcian          |         |         |         |            |
+| TWO THOUSAND | artcian         |         |         |         |            |
 
 ## numerals-botl1242-1 / Botlix, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1744,7 +2163,9 @@
 | EIGHTY       | bitlitsalida      |         |         |         |            |
 | NINETY       | hatsatsalida      |         |         |         |            |
 | HUNDRED      | besunuda          |         |         |         |            |
+| TWO HUNDRED  | kebesunuda        |         |         |         |            |
 | THOUSAND     | azaruda           |         |         |         |            |
+| TWO THOUSAND | keazaruda         |         |         |         |            |
 
 ## numerals-boto1242-1 / Botolan Sambal, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1787,7 +2208,9 @@
 | EIGHTY       | walompo         |         |         |         |            |
 | NINETY       | siyamapo        |         |         |         |            |
 | HUNDRED      | magato          |         |         |         |            |
+| TWO HUNDRED  | lowanggato      |         |         |         |            |
 | THOUSAND     | malibo          |         |         |         |            |
+| TWO THOUSAND | lowanlibo       |         |         |         |            |
 
 ## numerals-bush1247-1 / Bushong, DR of the Congo / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -1872,50 +2295,54 @@
 | EIGHTY       | gwadumpudu           |         |         |         |            |
 | NINETY       | sidzampudu           |         |         |         |            |
 | HUNDRED      | singkasut            |         |         |         |            |
+| TWO HUNDRED  | tsugwangkasut        |         |         |         |            |
 | THOUSAND     | sillihwu             |         |         |         |            |
+| TWO THOUSAND | tsugwwallihwu        |         |         |         |            |
 
 ## numerals-calu1238-1 / Caluyanun, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------------------|:--------|:--------|:--------|:-----------|
-| ONE          | isara                  |         |         |         |            |
-| TWO          | darwa                  |         |         |         |            |
-| THREE        | tatlo                  |         |         |         |            |
-| FOUR         | apat                   |         |         |         |            |
-| FIVE         | lima                   |         |         |         |            |
-| SIX          | anum                   |         |         |         |            |
-| SEVEN        | pito                   |         |         |         |            |
-| EIGHT        | walo                   |         |         |         |            |
-| NINE         | siyam                  |         |         |         |            |
-| TEN          | napolo                 |         |         |         |            |
-| ELEVEN       | onse                   |         |         |         |            |
-| TWELVE       | dose                   |         |         |         |            |
-| THIRTEEN     | trese                  |         |         |         |            |
-| FOURTEEN     | katorse                |         |         |         |            |
-| FIFTEEN      | kinse                  |         |         |         |            |
-| SIXTEEN      | disisas                |         |         |         |            |
-| SEVENTEEN    | disisiete              |         |         |         |            |
-| EIGHTEEN     | disiotso               |         |         |         |            |
-| NINETEEN     | disinoybe              |         |         |         |            |
-| TWENTY       | bainte                 |         |         |         |            |
-| TWENTY ONE   | bainteuno              |         |         |         |            |
-| TWENTY TWO   | baintedos              |         |         |         |            |
-| TWENTY THREE | baintetres             |         |         |         |            |
-| TWENTY FOUR  | baintekwatro           |         |         |         |            |
-| TWENTY FIVE  | baintesingko           |         |         |         |            |
-| TWENTY SIX   | baintesaes             |         |         |         |            |
-| TWENTY SEVEN | baintesiete            |         |         |         |            |
-| TWENTY EIGHT | bainteotso             |         |         |         |            |
-| TWENTY NINE  | baintenoybe            |         |         |         |            |
-| THIRTY       | trainta                |         |         |         |            |
-| FORTY        | kwarinta               |         |         |         |            |
-| FIFTY        | singkwenta             |         |         |         |            |
-| SIXTY        | sesenta                |         |         |         |            |
-| SEVENTY      | setenta                |         |         |         |            |
-| EIGHTY       | otsenta                |         |         |         |            |
-| NINETY       | nobenta                |         |         |         |            |
-| HUNDRED      | sien                   |         |         |         |            |
-| THOUSAND     | sanglibo / onethousand |         |         |         |            |
+| Concept      | Forms                     | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:--------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | isara                     |         |         |         |            |
+| TWO          | darwa                     |         |         |         |            |
+| THREE        | tatlo                     |         |         |         |            |
+| FOUR         | apat                      |         |         |         |            |
+| FIVE         | lima                      |         |         |         |            |
+| SIX          | anum                      |         |         |         |            |
+| SEVEN        | pito                      |         |         |         |            |
+| EIGHT        | walo                      |         |         |         |            |
+| NINE         | siyam                     |         |         |         |            |
+| TEN          | napolo                    |         |         |         |            |
+| ELEVEN       | onse                      |         |         |         |            |
+| TWELVE       | dose                      |         |         |         |            |
+| THIRTEEN     | trese                     |         |         |         |            |
+| FOURTEEN     | katorse                   |         |         |         |            |
+| FIFTEEN      | kinse                     |         |         |         |            |
+| SIXTEEN      | disisas                   |         |         |         |            |
+| SEVENTEEN    | disisiete                 |         |         |         |            |
+| EIGHTEEN     | disiotso                  |         |         |         |            |
+| NINETEEN     | disinoybe                 |         |         |         |            |
+| TWENTY       | bainte                    |         |         |         |            |
+| TWENTY ONE   | bainteuno                 |         |         |         |            |
+| TWENTY TWO   | baintedos                 |         |         |         |            |
+| TWENTY THREE | baintetres                |         |         |         |            |
+| TWENTY FOUR  | baintekwatro              |         |         |         |            |
+| TWENTY FIVE  | baintesingko              |         |         |         |            |
+| TWENTY SIX   | baintesaes                |         |         |         |            |
+| TWENTY SEVEN | baintesiete               |         |         |         |            |
+| TWENTY EIGHT | bainteotso                |         |         |         |            |
+| TWENTY NINE  | baintenoybe               |         |         |         |            |
+| THIRTY       | trainta                   |         |         |         |            |
+| FORTY        | kwarinta                  |         |         |         |            |
+| FIFTY        | singkwenta                |         |         |         |            |
+| SIXTY        | sesenta                   |         |         |         |            |
+| SEVENTY      | setenta                   |         |         |         |            |
+| EIGHTY       | otsenta                   |         |         |         |            |
+| NINETY       | nobenta                   |         |         |         |            |
+| HUNDRED      | sien                      |         |         |         |            |
+| TWO HUNDRED  | dossientos                |         |         |         |            |
+| THOUSAND     | sanglibo / onethousand    |         |         |         |            |
+| TWO THOUSAND | darwakalibo / twothousand |         |         |         |            |
 
 ## numerals-capp1239-1 / Cappadocian Greek, Greece / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.04
 
@@ -1958,7 +2385,10 @@
 | EIGHTY       | ogdoinda      |         |         |         |            |
 | NINETY       | eneninda      |         |         |         |            |
 | HUNDRED      | kato          |         |         |         |            |
+| TWO HUNDRED  | jakosa        |         |         |         |            |
+| FOUR HUNDRED | tetrakosa     |         |         |         |            |
 | THOUSAND     | ciya          |         |         |         |            |
+| TWO THOUSAND | djociliais    |         |         |         |            |
 
 ## numerals-carn1240-1 / Car Nicobarese, India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2001,7 +2431,9 @@
 | EIGHTY       | hevhareanay                   |         |         |         |            |
 | NINETY       | macuhtareanay                 |         |         |         |            |
 | HUNDRED      | kahokrong / sinanay / hengong |         |         |         |            |
+| TWO HUNDRED  | netrong / netong              |         |         |         |            |
 | THOUSAND     | kahokkan / kan                |         |         |         |            |
+| TWO THOUSAND | netkan                        |         |         |         |            |
 
 ## numerals-cham1309-1 / Chamalal, Russia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2044,7 +2476,9 @@
 | EIGHTY       | betlatsada    |         |         |         |            |
 | NINETY       | atsuna        |         |         |         |            |
 | HUNDRED      | behana        |         |         |         |            |
+| TWO HUNDRED  | etsibehana    |         |         |         |            |
 | THOUSAND     | azalda        |         |         |         |            |
+| TWO THOUSAND | etsiazalda    |         |         |         |            |
 
 ## numerals-cham1312-1 / Chamorro, Mariana Islands / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2087,50 +2521,56 @@
 | EIGHTY       | otsenta      |         |         |         |            |
 | NINETY       | nubenta      |         |         |         |            |
 | HUNDRED      | sjentu       |         |         |         |            |
+| TWO HUNDRED  | dossjentu    |         |         |         |            |
 | THOUSAND     | mit          |         |         |         |            |
+| TWO THOUSAND | dosmit       |         |         |         |            |
 
 ## numerals-cham1329-1 / Chamari, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | ek      |         |         |         |            |
-| TWO          | don     |         |         |         |            |
-| THREE        | tin     |         |         |         |            |
-| FOUR         | tsar    |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | tsey    |         |         |         |            |
-| SEVEN        | sat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | nu      |         |         |         |            |
-| TEN          | ds      |         |         |         |            |
-| ELEVEN       | gyarh   |         |         |         |            |
-| TWELVE       | bara    |         |         |         |            |
-| THIRTEEN     | tera    |         |         |         |            |
-| FOURTEEN     | tsudah  |         |         |         |            |
-| FIFTEEN      | pndrah  |         |         |         |            |
-| SIXTEEN      | sola    |         |         |         |            |
-| SEVENTEEN    | stra    |         |         |         |            |
-| EIGHTEEN     | attara  |         |         |         |            |
-| NINETEEN     | eknbis  |         |         |         |            |
-| TWENTY       | bis     |         |         |         |            |
-| TWENTY ONE   | ekbis   |         |         |         |            |
-| TWENTY TWO   | bawis   |         |         |         |            |
-| TWENTY THREE | tewis   |         |         |         |            |
-| TWENTY FOUR  | tsbis   |         |         |         |            |
-| TWENTY FIVE  | ptstsis |         |         |         |            |
-| TWENTY SIX   | tsbbis  |         |         |         |            |
-| TWENTY SEVEN | stawis  |         |         |         |            |
-| TWENTY EIGHT | attawis |         |         |         |            |
-| TWENTY NINE  | ekuntis |         |         |         |            |
-| THIRTY       | tis     |         |         |         |            |
-| FORTY        | tsalis  |         |         |         |            |
-| FIFTY        | ptsas   |         |         |         |            |
-| SIXTY        | sath    |         |         |         |            |
-| SEVENTY      | sttar   |         |         |         |            |
-| EIGHTY       | assi    |         |         |         |            |
-| NINETY       | nbbe    |         |         |         |            |
-| HUNDRED      | sou     |         |         |         |            |
-| THOUSAND     | ekhdzar |         |         |         |            |
+| Concept       | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------|:--------|:--------|:--------|:-----------|
+| ONE           | ek      |         |         |         |            |
+| TWO           | don     |         |         |         |            |
+| THREE         | tin     |         |         |         |            |
+| FOUR          | tsar    |         |         |         |            |
+| FIVE          | pats    |         |         |         |            |
+| SIX           | tsey    |         |         |         |            |
+| SEVEN         | sat     |         |         |         |            |
+| EIGHT         | ath     |         |         |         |            |
+| NINE          | nu      |         |         |         |            |
+| TEN           | ds      |         |         |         |            |
+| ELEVEN        | gyarh   |         |         |         |            |
+| TWELVE        | bara    |         |         |         |            |
+| THIRTEEN      | tera    |         |         |         |            |
+| FOURTEEN      | tsudah  |         |         |         |            |
+| FIFTEEN       | pndrah  |         |         |         |            |
+| SIXTEEN       | sola    |         |         |         |            |
+| SEVENTEEN     | stra    |         |         |         |            |
+| EIGHTEEN      | attara  |         |         |         |            |
+| NINETEEN      | eknbis  |         |         |         |            |
+| TWENTY        | bis     |         |         |         |            |
+| TWENTY ONE    | ekbis   |         |         |         |            |
+| TWENTY TWO    | bawis   |         |         |         |            |
+| TWENTY THREE  | tewis   |         |         |         |            |
+| TWENTY FOUR   | tsbis   |         |         |         |            |
+| TWENTY FIVE   | ptstsis |         |         |         |            |
+| TWENTY SIX    | tsbbis  |         |         |         |            |
+| TWENTY SEVEN  | stawis  |         |         |         |            |
+| TWENTY EIGHT  | attawis |         |         |         |            |
+| TWENTY NINE   | ekuntis |         |         |         |            |
+| THIRTY        | tis     |         |         |         |            |
+| FORTY         | tsalis  |         |         |         |            |
+| FIFTY         | ptsas   |         |         |         |            |
+| SIXTY         | sath    |         |         |         |            |
+| SEVENTY       | sttar   |         |         |         |            |
+| EIGHTY        | assi    |         |         |         |            |
+| NINETY        | nbbe    |         |         |         |            |
+| HUNDRED       | sou     |         |         |         |            |
+| TWO HUNDRED   | dosou   |         |         |         |            |
+| FOUR HUNDRED  | tsarsou |         |         |         |            |
+| EIGHT HUNDRED | athsou  |         |         |         |            |
+| THOUSAND      | ekhdzar |         |         |         |            |
+| TWO THOUSAND  | dohdzar |         |         |         |            |
 
 ## numerals-chey1247-1 / Cheyenne, Montana, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2173,7 +2613,9 @@
 | EIGHTY       | nanohtohnoe                |         |         |         |            |
 | NINETY       | soohtohnoe                 |         |         |         |            |
 | HUNDRED      | nokamahtohtohnoe           |         |         |         |            |
+| TWO HUNDRED  | nexamahtohtohnoe           |         |         |         |            |
 | THOUSAND     | nokamahtohtohamahtohtohnoe |         |         |         |            |
+| TWO THOUSAND | nexamahtohtohamahtohtohnoe |         |         |         |            |
 
 ## numerals-chir1284-1 / Chirag, Daghestan, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2216,7 +2658,9 @@
 | EIGHTY       | katsale        |         |         |         |            |
 | NINETY       | artsamtsale    |         |         |         |            |
 | HUNDRED      | dars           |         |         |         |            |
+| TWO HUNDRED  | tsudars        |         |         |         |            |
 | THOUSAND     | azur           |         |         |         |            |
+| TWO THOUSAND | tswalazur      |         |         |         |            |
 
 ## numerals-chit1280-1 / Hyow, Chittagong, Bangladesh / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2259,7 +2703,9 @@
 | EIGHTY       | saetgip    |         |         |         |            |
 | NINETY       | kogip      |         |         |         |            |
 | HUNDRED      | khrak      |         |         |         |            |
+| TWO HUNDRED  | khrani     |         |         |         |            |
 | THOUSAND     | thungngat  |         |         |         |            |
+| TWO THOUSAND | thungni    |         |         |         |            |
 
 ## numerals-chuv1255-1 / Chuvash, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2302,7 +2748,9 @@
 | EIGHTY       | sakarvuna       |         |         |         |            |
 | NINETY       | taxarvuna       |         |         |         |            |
 | HUNDRED      | cjerj           |         |         |         |            |
+| TWO HUNDRED  | ikjcjerj        |         |         |         |            |
 | THOUSAND     | pjinj           |         |         |         |            |
+| TWO THOUSAND | ikjepjinj       |         |         |         |            |
 
 ## numerals-cors1241-1 / Corsican, France / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2345,93 +2793,103 @@
 | EIGHTY       | otanta             |         |         |         |            |
 | NINETY       | nowanta            |         |         |         |            |
 | HUNDRED      | tsentu             |         |         |         |            |
+| TWO HUNDRED  | dujedzentu         |         |         |         |            |
 | THOUSAND     | mile               |         |         |         |            |
+| TWO THOUSAND | dujemila           |         |         |         |            |
 
 ## numerals-dagb1246-1 / Dagbani (Dagomba), Ghana / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------------|:--------|:--------|:--------|:-----------|
-| ONE          | ndaam / yino / yini |         |         |         |            |
-| TWO          | yi                  | ELEVEN  |         |         |            |
-| THREE        | ta                  |         |         |         |            |
-| FOUR         | nahi                |         |         |         |            |
-| FIVE         | nu                  |         |         |         |            |
-| SIX          | yobu                |         |         |         |            |
-| SEVEN        | yopoin              |         |         |         |            |
-| EIGHT        | nii                 |         |         |         |            |
-| NINE         | wey                 |         |         |         |            |
-| TEN          | pia                 |         |         |         |            |
-| ELEVEN       | piniyini            |         |         |         |            |
-| TWELVE       | pinaayi             |         |         |         |            |
-| THIRTEEN     | pinaata             |         |         |         |            |
-| FOURTEEN     | pinaanahi           |         |         |         |            |
-| FIFTEEN      | pinaanu             |         |         |         |            |
-| SIXTEEN      | pinaayobu           |         |         |         |            |
-| SEVENTEEN    | pinaayopoin         |         |         |         |            |
-| EIGHTEEN     | pisiaayika          |         |         |         |            |
-| NINETEEN     | pisiayinika         |         |         |         |            |
-| TWENTY       | pisi                |         |         |         |            |
-| TWENTY ONE   | pisiniyini          |         |         |         |            |
-| TWENTY TWO   | pisinaayi           |         |         |         |            |
-| TWENTY THREE | pisinaata           |         |         |         |            |
-| TWENTY FOUR  | pisinaanahi         |         |         |         |            |
-| TWENTY FIVE  | pisinaanu           |         |         |         |            |
-| TWENTY SIX   | pisinaayobu         |         |         |         |            |
-| TWENTY SEVEN | pisinaayopoin       |         |         |         |            |
-| TWENTY EIGHT | pihtaayika          |         |         |         |            |
-| TWENTY NINE  | pihtayinika         |         |         |         |            |
-| THIRTY       | pihta               |         |         |         |            |
-| FORTY        | pihnahi             |         |         |         |            |
-| FIFTY        | pihnu               |         |         |         |            |
-| SIXTY        | pihyobu             |         |         |         |            |
-| SEVENTY      | pihyopoin           |         |         |         |            |
-| EIGHTY       | pihnii              |         |         |         |            |
-| NINETY       | pihwey              |         |         |         |            |
-| HUNDRED      | kobga               |         |         |         |            |
-| THOUSAND     | tuhli               |         |         |         |            |
+| Concept                      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
+|:-----------------------------|:--------------------|:--------|:--------|:--------|:-----------|
+| ONE                          | ndaam / yino / yini |         |         |         |            |
+| TWO                          | yi                  | ELEVEN  |         |         |            |
+| THREE                        | ta                  |         |         |         |            |
+| FOUR                         | nahi                |         |         |         |            |
+| FIVE                         | nu                  |         |         |         |            |
+| SIX                          | yobu                |         |         |         |            |
+| SEVEN                        | yopoin              |         |         |         |            |
+| EIGHT                        | nii                 |         |         |         |            |
+| NINE                         | wey                 |         |         |         |            |
+| TEN                          | pia                 |         |         |         |            |
+| ELEVEN                       | piniyini            |         |         |         |            |
+| TWELVE                       | pinaayi             |         |         |         |            |
+| THIRTEEN                     | pinaata             |         |         |         |            |
+| FOURTEEN                     | pinaanahi           |         |         |         |            |
+| FIFTEEN                      | pinaanu             |         |         |         |            |
+| SIXTEEN                      | pinaayobu           |         |         |         |            |
+| SEVENTEEN                    | pinaayopoin         |         |         |         |            |
+| EIGHTEEN                     | pisiaayika          |         |         |         |            |
+| NINETEEN                     | pisiayinika         |         |         |         |            |
+| TWENTY                       | pisi                |         |         |         |            |
+| TWENTY ONE                   | pisiniyini          |         |         |         |            |
+| TWENTY TWO                   | pisinaayi           |         |         |         |            |
+| TWENTY THREE                 | pisinaata           |         |         |         |            |
+| TWENTY FOUR                  | pisinaanahi         |         |         |         |            |
+| TWENTY FIVE                  | pisinaanu           |         |         |         |            |
+| TWENTY SIX                   | pisinaayobu         |         |         |         |            |
+| TWENTY SEVEN                 | pisinaayopoin       |         |         |         |            |
+| TWENTY EIGHT                 | pihtaayika          |         |         |         |            |
+| TWENTY NINE                  | pihtayinika         |         |         |         |            |
+| THIRTY                       | pihta               |         |         |         |            |
+| FORTY                        | pihnahi             |         |         |         |            |
+| FIFTY                        | pihnu               |         |         |         |            |
+| SIXTY                        | pihyobu             |         |         |         |            |
+| SEVENTY                      | pihyopoin           |         |         |         |            |
+| EIGHTY                       | pihnii              |         |         |         |            |
+| NINETY                       | pihwey              |         |         |         |            |
+| NINETY EIGHT                 | kobgaayika          |         |         |         |            |
+| HUNDRED                      | kobga               |         |         |         |            |
+| TWO HUNDRED                  | kobsita             |         |         |         |            |
+| NINE HUNDRED AND NINETY NINE | tuhliyinika         |         |         |         |            |
+| THOUSAND                     | tuhli               |         |         |         |            |
+| TWO THOUSAND                 | tusaayi             |         |         |         |            |
 
 ## numerals-darg1241-1 / Dargwa, Daghestan, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | tsa            |         |         |         |            |
-| TWO          | kel            |         |         |         |            |
-| THREE        | khabal         |         |         |         |            |
-| FOUR         | awal           |         |         |         |            |
-| FIVE         | sel            |         |         |         |            |
-| SIX          | uregal         |         |         |         |            |
-| SEVEN        | werkhel        |         |         |         |            |
-| EIGHT        | gakhel         |         |         |         |            |
-| NINE         | urtsemal       |         |         |         |            |
-| TEN          | wetsal         |         |         |         |            |
-| ELEVEN       | wetsnutsara    |         |         |         |            |
-| TWELVE       | wetsnukira     |         |         |         |            |
-| THIRTEEN     | wetsnukhabra   |         |         |         |            |
-| FOURTEEN     | wetsnuawra     |         |         |         |            |
-| FIFTEEN      | wetsnusura     |         |         |         |            |
-| SIXTEEN      | wetsnuuregra   |         |         |         |            |
-| SEVENTEEN    | wetsnuwerkhra  |         |         |         |            |
-| EIGHTEEN     | wetsnugakhra   |         |         |         |            |
-| NINETEEN     | wetsnuurtsemra |         |         |         |            |
-| TWENTY       | gal            |         |         |         |            |
-| TWENTY ONE   | ganutsara      |         |         |         |            |
-| TWENTY TWO   | ganukira       |         |         |         |            |
-| TWENTY THREE | ganukhabra     |         |         |         |            |
-| TWENTY FOUR  | ganuawra       |         |         |         |            |
-| TWENTY FIVE  | ganusura       |         |         |         |            |
-| TWENTY SIX   | ganuuregra     |         |         |         |            |
-| TWENTY SEVEN | ganuwerkhra    |         |         |         |            |
-| TWENTY EIGHT | ganugakhra     |         |         |         |            |
-| TWENTY NINE  | ganuurtsemra   |         |         |         |            |
-| THIRTY       | khavtsali      |         |         |         |            |
-| FORTY        | awtsali        |         |         |         |            |
-| FIFTY        | sutsali        |         |         |         |            |
-| SIXTY        | urektsali      |         |         |         |            |
-| SEVENTY      | werkhtsali     |         |         |         |            |
-| EIGHTY       | gakhtsali      |         |         |         |            |
-| NINETY       | urtsemtsali    |         |         |         |            |
-| HUNDRED      | darsal         |         |         |         |            |
-| THOUSAND     | azir           |         |         |         |            |
+| Concept       | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------|:--------|:--------|:--------|:-----------|
+| ONE           | tsa            |         |         |         |            |
+| TWO           | kel            |         |         |         |            |
+| THREE         | khabal         |         |         |         |            |
+| FOUR          | awal           |         |         |         |            |
+| FIVE          | sel            |         |         |         |            |
+| SIX           | uregal         |         |         |         |            |
+| SEVEN         | werkhel        |         |         |         |            |
+| EIGHT         | gakhel         |         |         |         |            |
+| NINE          | urtsemal       |         |         |         |            |
+| TEN           | wetsal         |         |         |         |            |
+| ELEVEN        | wetsnutsara    |         |         |         |            |
+| TWELVE        | wetsnukira     |         |         |         |            |
+| THIRTEEN      | wetsnukhabra   |         |         |         |            |
+| FOURTEEN      | wetsnuawra     |         |         |         |            |
+| FIFTEEN       | wetsnusura     |         |         |         |            |
+| SIXTEEN       | wetsnuuregra   |         |         |         |            |
+| SEVENTEEN     | wetsnuwerkhra  |         |         |         |            |
+| EIGHTEEN      | wetsnugakhra   |         |         |         |            |
+| NINETEEN      | wetsnuurtsemra |         |         |         |            |
+| TWENTY        | gal            |         |         |         |            |
+| TWENTY ONE    | ganutsara      |         |         |         |            |
+| TWENTY TWO    | ganukira       |         |         |         |            |
+| TWENTY THREE  | ganukhabra     |         |         |         |            |
+| TWENTY FOUR   | ganuawra       |         |         |         |            |
+| TWENTY FIVE   | ganusura       |         |         |         |            |
+| TWENTY SIX    | ganuuregra     |         |         |         |            |
+| TWENTY SEVEN  | ganuwerkhra    |         |         |         |            |
+| TWENTY EIGHT  | ganugakhra     |         |         |         |            |
+| TWENTY NINE   | ganuurtsemra   |         |         |         |            |
+| THIRTY        | khavtsali      |         |         |         |            |
+| FORTY         | awtsali        |         |         |         |            |
+| FIFTY         | sutsali        |         |         |         |            |
+| SIXTY         | urektsali      |         |         |         |            |
+| SEVENTY       | werkhtsali     |         |         |         |            |
+| EIGHTY        | gakhtsali      |         |         |         |            |
+| NINETY        | urtsemtsali    |         |         |         |            |
+| HUNDRED       | darsal         |         |         |         |            |
+| TWO HUNDRED   | kidars         |         |         |         |            |
+| FOUR HUNDRED  | awdars         |         |         |         |            |
+| EIGHT HUNDRED | gakhdars       |         |         |         |            |
+| THOUSAND      | azir           |         |         |         |            |
+| TWO THOUSAND  | kelazir        |         |         |         |            |
 
 ## numerals-dghw1239-1 / Dghwede, Nigeria / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2474,7 +2932,9 @@
 | EIGHTY       | tagasimsaka            |         |         |         |            |
 | NINETY       | tambamsaka             |         |         |         |            |
 | HUNDRED      | darmuke / drmake       |         |         |         |            |
+| TWO HUNDRED  | micadrmake             |         |         |         |            |
 | THOUSAND     | dape                   |         |         |         |            |
+| TWO THOUSAND | dapamice               |         |         |         |            |
 
 ## numerals-dhiv1236-1 / Dhivehi (Maldivian), Maldives / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -2517,7 +2977,9 @@
 | EIGHTY       | addiha          |         |         |         |            |
 | NINETY       | nuvadiha        |         |         |         |            |
 | HUNDRED      | sateka          |         |         |         |            |
+| TWO HUNDRED  | duisatta        |         |         |         |            |
 | THOUSAND     | enghas          |         |         |         |            |
+| TWO THOUSAND | dehas           |         |         |         |            |
 
 ## numerals-diml1238-1 / Zazaki, Turkey / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2560,50 +3022,56 @@
 | EIGHTY       | hestaj          |         |         |         |            |
 | NINETY       | newaj           |         |         |         |            |
 | HUNDRED      | se              |         |         |         |            |
+| TWO HUNDRED  | dysej           |         |         |         |            |
 | THOUSAND     | hezar           |         |         |         |            |
+| TWO THOUSAND | dyhezar         |         |         |         |            |
 
 ## numerals-east2304-1 / Eastern Balochi, India, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms      | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------|:--------|:--------|:--------|:-----------|
-| ONE          | jakh       |         |         |         |            |
-| TWO          | do         |         |         |         |            |
-| THREE        | se         |         |         |         |            |
-| FOUR         | tsar       |         |         |         |            |
-| FIVE         | pants      |         |         |         |            |
-| SIX          | sas        |         |         |         |            |
-| SEVEN        | hapt       |         |         |         |            |
-| EIGHT        | hast       |         |         |         |            |
-| NINE         | noh        |         |         |         |            |
-| TEN          | dah        |         |         |         |            |
-| ELEVEN       | jazda      |         |         |         |            |
-| TWELVE       | dowazda    |         |         |         |            |
-| THIRTEEN     | sezda      |         |         |         |            |
-| FOURTEEN     | tsarda     |         |         |         |            |
-| FIFTEEN      | panzda     |         |         |         |            |
-| SIXTEEN      | sanzda     |         |         |         |            |
-| SEVENTEEN    | habda      |         |         |         |            |
-| EIGHTEEN     | hazda      |         |         |         |            |
-| NINETEEN     | nozda      |         |         |         |            |
-| TWENTY       | bist       |         |         |         |            |
-| TWENTY ONE   | bistojakh  |         |         |         |            |
-| TWENTY TWO   | bistodo    |         |         |         |            |
-| TWENTY THREE | bistose    |         |         |         |            |
-| TWENTY FOUR  | bistotsar  |         |         |         |            |
-| TWENTY FIVE  | bistopants |         |         |         |            |
-| TWENTY SIX   | bistosas   |         |         |         |            |
-| TWENTY SEVEN | bistohapt  |         |         |         |            |
-| TWENTY EIGHT | bistohast  |         |         |         |            |
-| TWENTY NINE  | bistonoh   |         |         |         |            |
-| THIRTY       | si         |         |         |         |            |
-| FORTY        | tsel       |         |         |         |            |
-| FIFTY        | pandza     |         |         |         |            |
-| SIXTY        | sast       |         |         |         |            |
-| SEVENTY      | haptad     |         |         |         |            |
-| EIGHTY       | hastad     |         |         |         |            |
-| NINETY       | nawad      |         |         |         |            |
-| HUNDRED      | sad        |         |         |         |            |
-| THOUSAND     | hazar      |         |         |         |            |
+| Concept       | Forms      | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-----------|:--------|:--------|:--------|:-----------|
+| ONE           | jakh       |         |         |         |            |
+| TWO           | do         |         |         |         |            |
+| THREE         | se         |         |         |         |            |
+| FOUR          | tsar       |         |         |         |            |
+| FIVE          | pants      |         |         |         |            |
+| SIX           | sas        |         |         |         |            |
+| SEVEN         | hapt       |         |         |         |            |
+| EIGHT         | hast       |         |         |         |            |
+| NINE          | noh        |         |         |         |            |
+| TEN           | dah        |         |         |         |            |
+| ELEVEN        | jazda      |         |         |         |            |
+| TWELVE        | dowazda    |         |         |         |            |
+| THIRTEEN      | sezda      |         |         |         |            |
+| FOURTEEN      | tsarda     |         |         |         |            |
+| FIFTEEN       | panzda     |         |         |         |            |
+| SIXTEEN       | sanzda     |         |         |         |            |
+| SEVENTEEN     | habda      |         |         |         |            |
+| EIGHTEEN      | hazda      |         |         |         |            |
+| NINETEEN      | nozda      |         |         |         |            |
+| TWENTY        | bist       |         |         |         |            |
+| TWENTY ONE    | bistojakh  |         |         |         |            |
+| TWENTY TWO    | bistodo    |         |         |         |            |
+| TWENTY THREE  | bistose    |         |         |         |            |
+| TWENTY FOUR   | bistotsar  |         |         |         |            |
+| TWENTY FIVE   | bistopants |         |         |         |            |
+| TWENTY SIX    | bistosas   |         |         |         |            |
+| TWENTY SEVEN  | bistohapt  |         |         |         |            |
+| TWENTY EIGHT  | bistohast  |         |         |         |            |
+| TWENTY NINE   | bistonoh   |         |         |         |            |
+| THIRTY        | si         |         |         |         |            |
+| FORTY         | tsel       |         |         |         |            |
+| FIFTY         | pandza     |         |         |         |            |
+| SIXTY         | sast       |         |         |         |            |
+| SEVENTY       | haptad     |         |         |         |            |
+| EIGHTY        | hastad     |         |         |         |            |
+| NINETY        | nawad      |         |         |         |            |
+| HUNDRED       | sad        |         |         |         |            |
+| TWO HUNDRED   | dosad      |         |         |         |            |
+| FOUR HUNDRED  | tsarsad    |         |         |         |            |
+| EIGHT HUNDRED | hastsad    |         |         |         |            |
+| THOUSAND      | hazar      |         |         |         |            |
+| TWO THOUSAND  | dohazar    |         |         |         |            |
 
 ## numerals-ewee1241-1 / Éwé, Togo, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2646,7 +3114,10 @@
 | EIGHTY       | blani         |         |         |         |            |
 | NINETY       | blaasieke     |         |         |         |            |
 | HUNDRED      | alofadeka     |         |         |         |            |
+| TWO HUNDRED  | alofave       |         |         |         |            |
+| FOUR HUNDRED | alofane       |         |         |         |            |
 | THOUSAND     | akpedeka      |         |         |         |            |
+| TWO THOUSAND | akpeve        |         |         |         |            |
 
 ## numerals-fala1243-1 / Falam Chin, Myanmar / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2689,7 +3160,9 @@
 | EIGHTY       | somriat     |         |         |         |            |
 | NINETY       | somkwa      |         |         |         |            |
 | HUNDRED      | zakhat      |         |         |         |            |
+| TWO HUNDRED  | zani        |         |         |         |            |
 | THOUSAND     | thongkhat   |         |         |         |            |
+| TWO THOUSAND | thongni     |         |         |         |            |
 
 ## numerals-fipa1238-1 / Fipa, Tanzania / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2732,50 +3205,55 @@
 | EIGHTY       | amakumichinane           |         |         |         |            |
 | NINETY       | amakumitisa              |         |         |         |            |
 | HUNDRED      | umwandawonga             |         |         |         |            |
+| TWO HUNDRED  | imyandayili              |         |         |         |            |
 | THOUSAND     | iyelufuyonga             |         |         |         |            |
+| TWO THOUSAND | iyelufushiyili / ziyili  |         |         |         |            |
 
 ## numerals-fung1245-1 / Fungwa (Cifungwa), Nigeria / Fiver:0.04 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver        | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------|:-------------|:--------|:--------|:-----------|
-| ONE          | n / bike        |              |         |         |            |
-| TWO          | jogo            |              |         |         |            |
-| THREE        | tatu            |              |         | THIRTY  |            |
-| FOUR         | nosi            |              |         |         |            |
-| FIVE         | ta              | TWENTY THREE |         |         |            |
-| SIX          | tsiji           |              |         |         |            |
-| SEVEN        | tidolo          |              |         |         |            |
-| EIGHT        | tidatu          |              |         |         |            |
-| NINE         | tidisi          |              |         |         |            |
-| TEN          | hupe            |              |         |         |            |
-| ELEVEN       | suagibuko       |              |         |         |            |
-| TWELVE       | suagijo         |              |         |         |            |
-| THIRTEEN     | suagitatu       |              |         |         |            |
-| FOURTEEN     | suaginosi       |              |         |         |            |
-| FIFTEEN      | suagita         |              |         |         |            |
-| SIXTEEN      | suagitsiji      |              |         |         |            |
-| SEVENTEEN    | suagitidolo     |              |         |         |            |
-| EIGHTEEN     | suagitidatu     |              |         |         |            |
-| NINETEEN     | suagitidisi     |              |         |         |            |
-| TWENTY       | kudziho         |              |         |         |            |
-| TWENTY ONE   | kudzihovunko    |              |         |         |            |
-| TWENTY TWO   | kudziovunjo     |              |         |         |            |
-| TWENTY THREE | kudziovuntatu   |              |         |         |            |
-| TWENTY FOUR  | kudziovunnosi   |              |         |         |            |
-| TWENTY FIVE  | kudziovunta     |              |         |         |            |
-| TWENTY SIX   | kudziovuntsiji  |              |         |         |            |
-| TWENTY SEVEN | kudziovuntidolo |              |         |         |            |
-| TWENTY EIGHT | kudziovuntidatu |              |         |         |            |
-| TWENTY NINE  | kudziovuntidisi |              |         |         |            |
-| THIRTY       | kutatu          |              |         |         |            |
-| FORTY        | nkudzo          |              |         |         |            |
-| FIFTY        | jidze           |              |         |         |            |
-| SIXTY        | jidzenahupa     |              |         |         |            |
-| SEVENTY      | jidzemukudzo    |              |         |         |            |
-| EIGHTY       | jidzenkutatu    |              |         |         |            |
-| NINETY       | jidzenkudzo     |              |         |         |            |
-| HUNDRED      | jidzenkwaku     |              |         |         |            |
-| THOUSAND     | nvanta          |              |         |         |            |
+| Concept              | Forms           | Fiver        | Twoer   | Tener   | Twentier   |
+|:---------------------|:----------------|:-------------|:--------|:--------|:-----------|
+| ONE                  | n / bike        |              |         |         |            |
+| TWO                  | jogo            |              |         |         |            |
+| THREE                | tatu            |              |         | THIRTY  |            |
+| FOUR                 | nosi            |              |         |         |            |
+| FIVE                 | ta              | TWENTY THREE |         |         |            |
+| SIX                  | tsiji           |              |         |         |            |
+| SEVEN                | tidolo          |              |         |         |            |
+| EIGHT                | tidatu          |              |         |         |            |
+| NINE                 | tidisi          |              |         |         |            |
+| TEN                  | hupe            |              |         |         |            |
+| ELEVEN               | suagibuko       |              |         |         |            |
+| TWELVE               | suagijo         |              |         |         |            |
+| THIRTEEN             | suagitatu       |              |         |         |            |
+| FOURTEEN             | suaginosi       |              |         |         |            |
+| FIFTEEN              | suagita         |              |         |         |            |
+| SIXTEEN              | suagitsiji      |              |         |         |            |
+| SEVENTEEN            | suagitidolo     |              |         |         |            |
+| EIGHTEEN             | suagitidatu     |              |         |         |            |
+| NINETEEN             | suagitidisi     |              |         |         |            |
+| TWENTY               | kudziho         |              |         |         |            |
+| TWENTY ONE           | kudzihovunko    |              |         |         |            |
+| TWENTY TWO           | kudziovunjo     |              |         |         |            |
+| TWENTY THREE         | kudziovuntatu   |              |         |         |            |
+| TWENTY FOUR          | kudziovunnosi   |              |         |         |            |
+| TWENTY FIVE          | kudziovunta     |              |         |         |            |
+| TWENTY SIX           | kudziovuntsiji  |              |         |         |            |
+| TWENTY SEVEN         | kudziovuntidolo |              |         |         |            |
+| TWENTY EIGHT         | kudziovuntidatu |              |         |         |            |
+| TWENTY NINE          | kudziovuntidisi |              |         |         |            |
+| THIRTY               | kutatu          |              |         |         |            |
+| FORTY                | nkudzo          |              |         |         |            |
+| FIFTY                | jidze           |              |         |         |            |
+| SIXTY                | jidzenahupa     |              |         |         |            |
+| SEVENTY              | jidzemukudzo    |              |         |         |            |
+| EIGHTY               | jidzenkutatu    |              |         |         |            |
+| NINETY               | jidzenkudzo     |              |         |         |            |
+| HUNDRED              | jidzenkwaku     |              |         |         |            |
+| TWO HUNDRED          | ikudzomujo      |              |         |         |            |
+| FIVE HUNDRED         | ikudzomuta      |              |         |         |            |
+| THOUSAND             | nvanta          |              |         |         |            |
+| ONE THOUSAND AND ONE | ntanabike       |              |         |         |            |
 
 ## numerals-garr1259-1 / Garre (Karre), Somalia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2818,6 +3296,7 @@
 | EIGHTY       | siyyeetan        |         |         |         |            |
 | NINETY       | sagaasan         |         |         |         |            |
 | HUNDRED      | boqol            |         |         |         |            |
+| TWO HUNDRED  | lammaboqol       |         |         |         |            |
 | THOUSAND     | kun              |         |         |         |            |
 
 ## numerals-gede1246-1 / Gedeo, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
@@ -2861,7 +3340,9 @@
 | EIGHTY       | saddentama                   |         |         |         |            |
 | NINETY       | sagaltama                    |         |         |         |            |
 | HUNDRED      | dibba                        |         |         |         |            |
+| TWO HUNDRED  | lamedibba                    |         |         |         |            |
 | THOUSAND     | kuma                         |         |         |         |            |
+| TWO THOUSAND | lamekuma                     |         |         |         |            |
 
 ## numerals-ghan1242-1 / Ghanonnga, Solomon Islands / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -2904,7 +3385,9 @@
 | EIGHTY       | vesungavuluputa   |         |         |         |            |
 | NINETY       | siangavuluputa    |         |         |         |            |
 | HUNDRED      | makagogotoputa    |         |         |         |            |
+| TWO HUNDRED  | korigogotoputa    |         |         |         |            |
 | THOUSAND     | makavuro          |         |         |         |            |
+| TWO THOUSAND | korivuro          |         |         |         |            |
 
 ## numerals-ghod1238-1 / Godoberi, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -2947,7 +3430,9 @@
 | EIGHTY       | bitlitsali      |         |         |         |            |
 | NINETY       | hatsatsali      |         |         |         |            |
 | HUNDRED      | besenuda        |         |         |         |            |
+| TWO HUNDRED  | kebesenuda      |         |         |         |            |
 | THOUSAND     | azaruda         |         |         |         |            |
+| TWO THOUSAND | keazaruda       |         |         |         |            |
 
 ## numerals-guan1252-1 / Khroskyabs (Guanyinqiao dialect), China / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3076,7 +3561,9 @@
 | EIGHTY       | ensi           |         |         |         |            |
 | NINETY       | newun          |         |         |         |            |
 | HUNDRED      | ekso           |         |         |         |            |
+| TWO HUNDRED  | baso           |         |         |         |            |
 | THOUSAND     | ekhadzar       |         |         |         |            |
+| TWO THOUSAND | bahadzar       |         |         |         |            |
 
 ## numerals-gura1251-1 / Gurani (Hawramani), Iraq, Iran / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3162,49 +3649,52 @@
 | EIGHTY       | tagasnsako       |         |         |         |            |
 | NINETY       | timbaynsako      |         |         |         |            |
 | HUNDRED      | dirmoko          |         |         |         |            |
+| TWO HUNDRED  | dirmokxeco       |         |         |         |            |
 
 ## numerals-haka1240-2 / Haka Chin, Myanmar / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms      | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------|:--------|:--------|:--------|:-----------|
-| ONE          | pakhat     |         |         |         |            |
-| TWO          | pahnih     |         |         |         |            |
-| THREE        | pathum     |         |         |         |            |
-| FOUR         | pali       |         |         |         |            |
-| FIVE         | panga      |         |         |         |            |
-| SIX          | paruk      |         |         |         |            |
-| SEVEN        | pasarih    |         |         |         |            |
-| EIGHT        | pariat     |         |         |         |            |
-| NINE         | pakua      |         |         |         |            |
-| TEN          | pahra      |         |         |         |            |
-| ELEVEN       | hleikhat   |         |         |         |            |
-| TWELVE       | hleihnih   |         |         |         |            |
-| THIRTEEN     | hleithum   |         |         |         |            |
-| FOURTEEN     | hleili     |         |         |         |            |
-| FIFTEEN      | hleinga    |         |         |         |            |
-| SIXTEEN      | hleiruk    |         |         |         |            |
-| SEVENTEEN    | hleisarih  |         |         |         |            |
-| EIGHTEEN     | hleiriat   |         |         |         |            |
-| NINETEEN     | hleikua    |         |         |         |            |
-| TWENTY       | kul        |         |         |         |            |
-| TWENTY ONE   | kullekhat  |         |         |         |            |
-| TWENTY TWO   | kullehnih  |         |         |         |            |
-| TWENTY THREE | kullethum  |         |         |         |            |
-| TWENTY FOUR  | kulleli    |         |         |         |            |
-| TWENTY FIVE  | kullenga   |         |         |         |            |
-| TWENTY SIX   | kulleruk   |         |         |         |            |
-| TWENTY SEVEN | kullesarih |         |         |         |            |
-| TWENTY EIGHT | kulleriat  |         |         |         |            |
-| TWENTY NINE  | kullekua   |         |         |         |            |
-| THIRTY       | sawmthum   |         |         |         |            |
-| FORTY        | sawmli     |         |         |         |            |
-| FIFTY        | sawmnga    |         |         |         |            |
-| SIXTY        | sawmruk    |         |         |         |            |
-| SEVENTY      | sawmsarih  |         |         |         |            |
-| EIGHTY       | sawmriat   |         |         |         |            |
-| NINETY       | sawmkua    |         |         |         |            |
-| HUNDRED      | zakhat     |         |         |         |            |
-| THOUSAND     | thawngkhat |         |         |         |            |
+| Concept      | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:-----------------------|:--------|:--------|:--------|:-----------|
+| ONE          | pakhat                 |         |         |         |            |
+| TWO          | pahnih                 |         |         |         |            |
+| THREE        | pathum                 |         |         |         |            |
+| FOUR         | pali                   |         |         |         |            |
+| FIVE         | panga                  |         |         |         |            |
+| SIX          | paruk                  |         |         |         |            |
+| SEVEN        | pasarih                |         |         |         |            |
+| EIGHT        | pariat                 |         |         |         |            |
+| NINE         | pakua                  |         |         |         |            |
+| TEN          | pahra                  |         |         |         |            |
+| ELEVEN       | hleikhat               |         |         |         |            |
+| TWELVE       | hleihnih               |         |         |         |            |
+| THIRTEEN     | hleithum               |         |         |         |            |
+| FOURTEEN     | hleili                 |         |         |         |            |
+| FIFTEEN      | hleinga                |         |         |         |            |
+| SIXTEEN      | hleiruk                |         |         |         |            |
+| SEVENTEEN    | hleisarih              |         |         |         |            |
+| EIGHTEEN     | hleiriat               |         |         |         |            |
+| NINETEEN     | hleikua                |         |         |         |            |
+| TWENTY       | kul                    |         |         |         |            |
+| TWENTY ONE   | kullekhat              |         |         |         |            |
+| TWENTY TWO   | kullehnih              |         |         |         |            |
+| TWENTY THREE | kullethum              |         |         |         |            |
+| TWENTY FOUR  | kulleli                |         |         |         |            |
+| TWENTY FIVE  | kullenga               |         |         |         |            |
+| TWENTY SIX   | kulleruk               |         |         |         |            |
+| TWENTY SEVEN | kullesarih             |         |         |         |            |
+| TWENTY EIGHT | kulleriat              |         |         |         |            |
+| TWENTY NINE  | kullekua               |         |         |         |            |
+| THIRTY       | sawmthum               |         |         |         |            |
+| FORTY        | sawmli                 |         |         |         |            |
+| FIFTY        | sawmnga                |         |         |         |            |
+| SIXTY        | sawmruk                |         |         |         |            |
+| SEVENTY      | sawmsarih              |         |         |         |            |
+| EIGHTY       | sawmriat               |         |         |         |            |
+| NINETY       | sawmkua                |         |         |         |            |
+| HUNDRED      | zakhat                 |         |         |         |            |
+| TWO HUNDRED  | zahnih                 |         |         |         |            |
+| THOUSAND     | thawngkhat             |         |         |         |            |
+| TWO THOUSAND | thawnghnih / thwanghra |         |         |         |            |
 
 ## numerals-halh1238-1 / Halh Mongolian, Mongolia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3247,7 +3737,9 @@
 | EIGHTY       | naja         |         |         |         |            |
 | NINETY       | jir          |         |         |         |            |
 | HUNDRED      | cuu          |         |         |         |            |
+| TWO HUNDRED  | xojarcuu     |         |         |         |            |
 | THOUSAND     | mjangg       |         |         |         |            |
+| TWO THOUSAND | xojarmjangg  |         |         |         |            |
 
 ## numerals-hang1258-1 / Hanga, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3290,7 +3782,9 @@
 | EIGHTY       | phisini       |         |         |         |            |
 | NINETY       | phisiwi       |         |         |         |            |
 | HUNDRED      | kwow          |         |         |         |            |
+| TWO HUNDRED  | kwobsiyi      |         |         |         |            |
 | THOUSAND     | thusri        |         |         |         |            |
+| TWO THOUSAND | thusyi        |         |         |         |            |
 
 ## numerals-heil1246-1 / Heiltsuk, Canada / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3333,7 +3827,9 @@
 | EIGHTY       | yutxwauspngwustiwa     |         |         |         |            |
 | NINETY       | mamnihapngwustiwa      |         |         |         |            |
 | HUNDRED      | hakaspnkstais          |         |         |         |            |
+| TWO HUNDRED  | malpnkstais            |         |         |         |            |
 | THOUSAND     | luxwsmxhit             |         |         |         |            |
+| TWO THOUSAND | malukwsluxwsmxhit      |         |         |         |            |
 
 ## numerals-icel1247-1 / Icelandic, Iceland / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3376,7 +3872,9 @@
 | EIGHTY       | auhtathiy                 |         |         |         |            |
 | NINETY       | niythiy                   |         |         |         |            |
 | HUNDRED      | eihthyntrad               |         |         |         |            |
+| TWO HUNDRED  | thvoehyntrad              |         |         |         |            |
 | THOUSAND     | eihtthusynt               |         |         |         |            |
+| TWO THOUSAND | thvoethusynt              |         |         |         |            |
 
 ## numerals-idum1241-2 / Idu (Yidu Luoba), China, India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3462,7 +3960,9 @@
 | EIGHTY       | walompo        |         |         |         |            |
 | NINETY       | siyamnapo      |         |         |         |            |
 | HUNDRED      | saikadaan      |         |         |         |            |
+| TWO HUNDRED  | darwakadaan    |         |         |         |            |
 | THOUSAND     | saikaribu      |         |         |         |            |
+| TWO THOUSAND | darwakaribu    |         |         |         |            |
 
 ## numerals-istr1244-1 / Istriot, Croatia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3505,7 +4005,9 @@
 | EIGHTY       | otanta                   |         |         |         |            |
 | NINETY       | novanta                  |         |         |         |            |
 | HUNDRED      | sento                    |         |         |         |            |
+| TWO HUNDRED  | dusento                  |         |         |         |            |
 | THOUSAND     | mejle                    |         |         |         |            |
+| TWO THOUSAND | dumejle                  |         |         |         |            |
 
 ## numerals-istr1245-1 / Istro-Romanian, Croatia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3548,7 +4050,9 @@
 | EIGHTY       | osamdeset                          |         |         |         |            |
 | NINETY       | devetdeset                         |         |         |         |            |
 | HUNDRED      | sto                                |         |         |         |            |
+| TWO HUNDRED  | dvisto / dvesto                    |         |         |         |            |
 | THOUSAND     | ur / ur                            |         |         |         |            |
+| TWO THOUSAND | dojmiyar                           |         |         |         |            |
 
 ## numerals-java1254-1 / East Javanese, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3591,7 +4095,9 @@
 | EIGHTY       | wolongpulo  |         |         |         |            |
 | NINETY       | sangangpulo |         |         |         |            |
 | HUNDRED      | satus       |         |         |         |            |
+| TWO HUNDRED  | rongatus    |         |         |         |            |
 | THOUSAND     | sewu        |         |         |         |            |
+| TWO THOUSAND | rongewu     |         |         |         |            |
 
 ## numerals-java1254-2 / Javanese (Polite level), Indonesia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3634,7 +4140,9 @@
 | EIGHTY       | wolungdoso     |         |         |         |            |
 | NINETY       | sangangdoso    |         |         |         |            |
 | HUNDRED      | satunggalatus  |         |         |         |            |
+| TWO HUNDRED  | kalehatus      |         |         |         |            |
 | THOUSAND     | satunggalewu   |         |         |         |            |
+| TWO THOUSAND | kalehew        |         |         |         |            |
 
 ## numerals-java1254-3 / Javanese, Java, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3677,50 +4185,56 @@
 | EIGHTY       | wolungpuluh  |         |         |         |            |
 | NINETY       | sangangpuluh |         |         |         |            |
 | HUNDRED      | satus        |         |         |         |            |
+| TWO HUNDRED  | rongatus     |         |         |         |            |
 | THOUSAND     | sewu         |         |         |         |            |
+| TWO THOUSAND | rongewu      |         |         |         |            |
 
 ## numerals-jenn1240-1 / Jennu Kurumba, Karnataka, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------|:--------|:--------|:--------|:-----------|
-| ONE          | ondi          |         |         |         |            |
-| TWO          | erdi          |         |         |         |            |
-| THREE        | muri          |         |         |         |            |
-| FOUR         | naki          |         |         |         |            |
-| FIVE         | eidi          |         |         |         |            |
-| SIX          | ari           |         |         |         |            |
-| SEVEN        | eli           |         |         |         |            |
-| EIGHT        | engti         |         |         |         |            |
-| NINE         | ombatti       |         |         |         |            |
-| TEN          | hatti         |         |         |         |            |
-| ELEVEN       | hannondi      |         |         |         |            |
-| TWELVE       | hannerdi      |         |         |         |            |
-| THIRTEEN     | hadimuri      |         |         |         |            |
-| FOURTEEN     | hadinaki      |         |         |         |            |
-| FIFTEEN      | hadinejdi     |         |         |         |            |
-| SIXTEEN      | hadinari      |         |         |         |            |
-| SEVENTEEN    | hadineli      |         |         |         |            |
-| EIGHTEEN     | hadinenti     |         |         |         |            |
-| NINETEEN     | hattambotti   |         |         |         |            |
-| TWENTY       | ippatti       |         |         |         |            |
-| TWENTY ONE   | ippattondi    |         |         |         |            |
-| TWENTY TWO   | ippatterdi    |         |         |         |            |
-| TWENTY THREE | ippattimuri   |         |         |         |            |
-| TWENTY FOUR  | ippattinaki   |         |         |         |            |
-| TWENTY FIVE  | ippattejdi    |         |         |         |            |
-| TWENTY SIX   | ippattari     |         |         |         |            |
-| TWENTY SEVEN | ippatteli     |         |         |         |            |
-| TWENTY EIGHT | ippattenti    |         |         |         |            |
-| TWENTY NINE  | ippattombatti |         |         |         |            |
-| THIRTY       | muvatti       |         |         |         |            |
-| FORTY        | naluvatti     |         |         |         |            |
-| FIFTY        | ejvatti       |         |         |         |            |
-| SIXTY        | aruvatti      |         |         |         |            |
-| SEVENTY      | eluvatti      |         |         |         |            |
-| EIGHTY       | embatti       |         |         |         |            |
-| NINETY       | tombatti      |         |         |         |            |
-| HUNDRED      | nuri          |         |         |         |            |
-| THOUSAND     | ondisavra     |         |         |         |            |
+| Concept       | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------------|:--------|:--------|:--------|:-----------|
+| ONE           | ondi          |         |         |         |            |
+| TWO           | erdi          |         |         |         |            |
+| THREE         | muri          |         |         |         |            |
+| FOUR          | naki          |         |         |         |            |
+| FIVE          | eidi          |         |         |         |            |
+| SIX           | ari           |         |         |         |            |
+| SEVEN         | eli           |         |         |         |            |
+| EIGHT         | engti         |         |         |         |            |
+| NINE          | ombatti       |         |         |         |            |
+| TEN           | hatti         |         |         |         |            |
+| ELEVEN        | hannondi      |         |         |         |            |
+| TWELVE        | hannerdi      |         |         |         |            |
+| THIRTEEN      | hadimuri      |         |         |         |            |
+| FOURTEEN      | hadinaki      |         |         |         |            |
+| FIFTEEN       | hadinejdi     |         |         |         |            |
+| SIXTEEN       | hadinari      |         |         |         |            |
+| SEVENTEEN     | hadineli      |         |         |         |            |
+| EIGHTEEN      | hadinenti     |         |         |         |            |
+| NINETEEN      | hattambotti   |         |         |         |            |
+| TWENTY        | ippatti       |         |         |         |            |
+| TWENTY ONE    | ippattondi    |         |         |         |            |
+| TWENTY TWO    | ippatterdi    |         |         |         |            |
+| TWENTY THREE  | ippattimuri   |         |         |         |            |
+| TWENTY FOUR   | ippattinaki   |         |         |         |            |
+| TWENTY FIVE   | ippattejdi    |         |         |         |            |
+| TWENTY SIX    | ippattari     |         |         |         |            |
+| TWENTY SEVEN  | ippatteli     |         |         |         |            |
+| TWENTY EIGHT  | ippattenti    |         |         |         |            |
+| TWENTY NINE   | ippattombatti |         |         |         |            |
+| THIRTY        | muvatti       |         |         |         |            |
+| FORTY         | naluvatti     |         |         |         |            |
+| FIFTY         | ejvatti       |         |         |         |            |
+| SIXTY         | aruvatti      |         |         |         |            |
+| SEVENTY       | eluvatti      |         |         |         |            |
+| EIGHTY        | embatti       |         |         |         |            |
+| NINETY        | tombatti      |         |         |         |            |
+| HUNDRED       | nuri          |         |         |         |            |
+| TWO HUNDRED   | innuri        |         |         |         |            |
+| FOUR HUNDRED  | nanuri        |         |         |         |            |
+| EIGHT HUNDRED | entinuri      |         |         |         |            |
+| THOUSAND      | ondisavra     |         |         |         |            |
+| TWO THOUSAND  | erdisavra     |         |         |         |            |
 
 ## numerals-kaco1239-1 / Kaco' (Kachok), Cambodia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3763,7 +4277,9 @@
 | EIGHTY       | thamjt      |         |         |         |            |
 | NINETY       | njongjt     |         |         |         |            |
 | HUNDRED      | moehjeng    |         |         |         |            |
+| TWO HUNDRED  | pielhjeng   |         |         |         |            |
 | THOUSAND     | moepo       |         |         |         |            |
+| TWO THOUSAND | pielpo      |         |         |         |            |
 
 ## numerals-kafa1242-1 / Kafa, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3806,7 +4322,9 @@
 | EIGHTY       | sinnoo         |         |         |         |            |
 | NINETY       | jitenoo        |         |         |         |            |
 | HUNDRED      | ballo          |         |         |         |            |
+| TWO HUNDRED  | gutteballo     |         |         |         |            |
 | THOUSAND     | humo           |         |         |         |            |
+| TWO THOUSAND | guttehumo      |         |         |         |            |
 
 ## numerals-kafa1242-2 / Kafa, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3849,7 +4367,9 @@
 | EIGHTY       | sinno         |         |         |         |            |
 | NINETY       | jiiteno       |         |         |         |            |
 | HUNDRED      | ballo         |         |         |         |            |
+| TWO HUNDRED  | gutteballo    |         |         |         |            |
 | THOUSAND     | humo          |         |         |         |            |
+| TWO THOUSAND | guttehumo     |         |         |         |            |
 
 ## numerals-kafa1242-3 / Kafa, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -3892,7 +4412,9 @@
 | EIGHTY       | sinno         |         |         |         |            |
 | NINETY       | yiittano      |         |         |         |            |
 | HUNDRED      | ballo         |         |         |         |            |
+| TWO HUNDRED  | guttoballo    |         |         |         |            |
 | THOUSAND     | humo          |         |         |         |            |
+| TWO THOUSAND | guttohumo     |         |         |         |            |
 
 ## numerals-kamb1297-1 / Kikamba, Kenya / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -3935,93 +4457,106 @@
 | EIGHTY       | mirongoenana        |         |         |         |            |
 | NINETY       | mirongokenda        |         |         |         |            |
 | HUNDRED      | iana                |         |         |         |            |
+| TWO HUNDRED  | maanaeli            |         |         |         |            |
 | THOUSAND     | ngiri               |         |         |         |            |
+| TWO THOUSAND | ngiriili            |         |         |         |            |
 
 ## numerals-kamb1316-1 / Kambaata, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------|:--------|:--------|:--------|:-----------|
-| ONE          | mato            |         |         |         |            |
-| TWO          | lamo            |         |         |         |            |
-| THREE        | saso            |         |         |         |            |
-| FOUR         | soolo           |         |         |         |            |
-| FIVE         | onto            |         |         |         |            |
-| SIX          | leho            |         |         |         |            |
-| SEVEN        | lamala          |         |         |         |            |
-| EIGHT        | hezzeeto        |         |         |         |            |
-| NINE         | honso           |         |         |         |            |
-| TEN          | torduma         |         |         |         |            |
-| ELEVEN       | toonamato       |         |         |         |            |
-| TWELVE       | toonalamo       |         |         |         |            |
-| THIRTEEN     | toonasaso       |         |         |         |            |
-| FOURTEEN     | toonasoolo      |         |         |         |            |
-| FIFTEEN      | toonaonto       |         |         |         |            |
-| SIXTEEN      | toonaleho       |         |         |         |            |
-| SEVENTEEN    | toonalamala     |         |         |         |            |
-| EIGHTEEN     | toonahezzeeto   |         |         |         |            |
-| NINETEEN     | toonahonso      |         |         |         |            |
-| TWENTY       | lamooduma       |         |         |         |            |
-| TWENTY ONE   | lameenamato     |         |         |         |            |
-| TWENTY TWO   | lameenalamo     |         |         |         |            |
-| TWENTY THREE | lameenasaso     |         |         |         |            |
-| TWENTY FOUR  | lameenasoolo    |         |         |         |            |
-| TWENTY FIVE  | lameenaonto     |         |         |         |            |
-| TWENTY SIX   | lameenaleho     |         |         |         |            |
-| TWENTY SEVEN | lameenalamala   |         |         |         |            |
-| TWENTY EIGHT | lameenahezzeeto |         |         |         |            |
-| TWENTY NINE  | lameenahonso    |         |         |         |            |
-| THIRTY       | sadzdzaaduma    |         |         |         |            |
-| FORTY        | soolaaduma      |         |         |         |            |
-| FIFTY        | ontaaduma       |         |         |         |            |
-| SIXTY        | lehaaduma       |         |         |         |            |
-| SEVENTY      | lamalaaduma     |         |         |         |            |
-| EIGHTY       | hezzeettaaduma  |         |         |         |            |
-| NINETY       | honsaaduma      |         |         |         |            |
-| HUNDRED      | tibbita         |         |         |         |            |
-| THOUSAND     | kumita          |         |         |         |            |
+| Concept             | Forms           | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------------|:----------------|:--------|:--------|:--------|:-----------|
+| ONE                 | mato            |         |         |         |            |
+| TWO                 | lamo            |         |         |         |            |
+| THREE               | saso            |         |         |         |            |
+| FOUR                | soolo           |         |         |         |            |
+| FIVE                | onto            |         |         |         |            |
+| SIX                 | leho            |         |         |         |            |
+| SEVEN               | lamala          |         |         |         |            |
+| EIGHT               | hezzeeto        |         |         |         |            |
+| NINE                | honso           |         |         |         |            |
+| TEN                 | torduma         |         |         |         |            |
+| ELEVEN              | toonamato       |         |         |         |            |
+| TWELVE              | toonalamo       |         |         |         |            |
+| THIRTEEN            | toonasaso       |         |         |         |            |
+| FOURTEEN            | toonasoolo      |         |         |         |            |
+| FIFTEEN             | toonaonto       |         |         |         |            |
+| SIXTEEN             | toonaleho       |         |         |         |            |
+| SEVENTEEN           | toonalamala     |         |         |         |            |
+| EIGHTEEN            | toonahezzeeto   |         |         |         |            |
+| NINETEEN            | toonahonso      |         |         |         |            |
+| TWENTY              | lamooduma       |         |         |         |            |
+| TWENTY ONE          | lameenamato     |         |         |         |            |
+| TWENTY TWO          | lameenalamo     |         |         |         |            |
+| TWENTY THREE        | lameenasaso     |         |         |         |            |
+| TWENTY FOUR         | lameenasoolo    |         |         |         |            |
+| TWENTY FIVE         | lameenaonto     |         |         |         |            |
+| TWENTY SIX          | lameenaleho     |         |         |         |            |
+| TWENTY SEVEN        | lameenalamala   |         |         |         |            |
+| TWENTY EIGHT        | lameenahezzeeto |         |         |         |            |
+| TWENTY NINE         | lameenahonso    |         |         |         |            |
+| THIRTY              | sadzdzaaduma    |         |         |         |            |
+| FORTY               | soolaaduma      |         |         |         |            |
+| FORTY SIX           | soolaanaleho    |         |         |         |            |
+| FIFTY               | ontaaduma       |         |         |         |            |
+| FIFTY FIVE          | ontaanaonto     |         |         |         |            |
+| SIXTY               | lehaaduma       |         |         |         |            |
+| SEVENTY             | lamalaaduma     |         |         |         |            |
+| SEVENTY THREE       | lamalaanasaso   |         |         |         |            |
+| EIGHTY              | hezzeettaaduma  |         |         |         |            |
+| NINETY              | honsaaduma      |         |         |         |            |
+| NINETY ONE          | honsaanamato    |         |         |         |            |
+| HUNDRED             | tibbita         |         |         |         |            |
+| ONE HUNDRED AND TWO | tibbitalamo     |         |         |         |            |
+| TWO HUNDRED         | lamitatibbita   |         |         |         |            |
+| THOUSAND            | kumita          |         |         |         |            |
+| TWO THOUSAND        | lamitakumita    |         |         |         |            |
 
 ## numerals-kana1281-1 / Kanauji, Uttar Pradesh, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------|:--------|:--------|:--------|:-----------|
-| ONE          | ek / jak     |         |         |         |            |
-| TWO          | dui          |         |         |         |            |
-| THREE        | tin          |         |         |         |            |
-| FOUR         | tsar / tsari |         |         |         |            |
-| FIVE         | pats         |         |         |         |            |
-| SIX          | tshe         |         |         |         |            |
-| SEVEN        | sat          |         |         |         |            |
-| EIGHT        | ath          |         |         |         |            |
-| NINE         | no           |         |         |         |            |
-| TEN          | das          |         |         |         |            |
-| ELEVEN       | gjara        |         |         |         |            |
-| TWELVE       | bara         |         |         |         |            |
-| THIRTEEN     | tera         |         |         |         |            |
-| FOURTEEN     | tsauda       |         |         |         |            |
-| FIFTEEN      | pandra       |         |         |         |            |
-| SIXTEEN      | sola         |         |         |         |            |
-| SEVENTEEN    | sattra       |         |         |         |            |
-| EIGHTEEN     | athara       |         |         |         |            |
-| NINETEEN     | unais        |         |         |         |            |
-| TWENTY       | bis          |         |         |         |            |
-| TWENTY ONE   | ekais        |         |         |         |            |
-| TWENTY TWO   | bais         |         |         |         |            |
-| TWENTY THREE | teis         |         |         |         |            |
-| TWENTY FOUR  | tsaubis      |         |         |         |            |
-| TWENTY FIVE  | patsis       |         |         |         |            |
-| TWENTY SIX   | tshabbis     |         |         |         |            |
-| TWENTY SEVEN | sattais      |         |         |         |            |
-| TWENTY EIGHT | atthais      |         |         |         |            |
-| TWENTY NINE  | untis        |         |         |         |            |
-| THIRTY       | tis          |         |         |         |            |
-| FORTY        | tsalis       |         |         |         |            |
-| FIFTY        | patsas       |         |         |         |            |
-| SIXTY        | sath         |         |         |         |            |
-| SEVENTY      | sattar       |         |         |         |            |
-| EIGHTY       | assi         |         |         |         |            |
-| NINETY       | nabbe        |         |         |         |            |
-| HUNDRED      | so           |         |         |         |            |
-| THOUSAND     | ekhadzar     |         |         |         |            |
+| Concept       | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------|:--------|:--------|:--------|:-----------|
+| ONE           | ek / jak     |         |         |         |            |
+| TWO           | dui          |         |         |         |            |
+| THREE         | tin          |         |         |         |            |
+| FOUR          | tsar / tsari |         |         |         |            |
+| FIVE          | pats         |         |         |         |            |
+| SIX           | tshe         |         |         |         |            |
+| SEVEN         | sat          |         |         |         |            |
+| EIGHT         | ath          |         |         |         |            |
+| NINE          | no           |         |         |         |            |
+| TEN           | das          |         |         |         |            |
+| ELEVEN        | gjara        |         |         |         |            |
+| TWELVE        | bara         |         |         |         |            |
+| THIRTEEN      | tera         |         |         |         |            |
+| FOURTEEN      | tsauda       |         |         |         |            |
+| FIFTEEN       | pandra       |         |         |         |            |
+| SIXTEEN       | sola         |         |         |         |            |
+| SEVENTEEN     | sattra       |         |         |         |            |
+| EIGHTEEN      | athara       |         |         |         |            |
+| NINETEEN      | unais        |         |         |         |            |
+| TWENTY        | bis          |         |         |         |            |
+| TWENTY ONE    | ekais        |         |         |         |            |
+| TWENTY TWO    | bais         |         |         |         |            |
+| TWENTY THREE  | teis         |         |         |         |            |
+| TWENTY FOUR   | tsaubis      |         |         |         |            |
+| TWENTY FIVE   | patsis       |         |         |         |            |
+| TWENTY SIX    | tshabbis     |         |         |         |            |
+| TWENTY SEVEN  | sattais      |         |         |         |            |
+| TWENTY EIGHT  | atthais      |         |         |         |            |
+| TWENTY NINE   | untis        |         |         |         |            |
+| THIRTY        | tis          |         |         |         |            |
+| FORTY         | tsalis       |         |         |         |            |
+| FIFTY         | patsas       |         |         |         |            |
+| SIXTY         | sath         |         |         |         |            |
+| SEVENTY       | sattar       |         |         |         |            |
+| EIGHTY        | assi         |         |         |         |            |
+| NINETY        | nabbe        |         |         |         |            |
+| HUNDRED       | so           |         |         |         |            |
+| TWO HUNDRED   | duiso        |         |         |         |            |
+| FOUR HUNDRED  | tsarso       |         |         |         |            |
+| EIGHT HUNDRED | athso        |         |         |         |            |
+| THOUSAND      | ekhadzar     |         |         |         |            |
+| TWO THOUSAND  | duihadzar    |         |         |         |            |
 
 ## numerals-kank1243-1 / Central Kankanaey, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4064,7 +4599,9 @@
 | EIGHTY       | waopolo        |         |         |         |            |
 | NINETY       | siyammapolo    |         |         |         |            |
 | HUNDRED      | singasot       |         |         |         |            |
+| TWO HUNDRED  | dowaaygasot    |         |         |         |            |
 | THOUSAND     | sinlibo        |         |         |         |            |
+| TWO THOUSAND | dowaaylibo     |         |         |         |            |
 
 ## numerals-kara1474-1 / Karata, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4107,7 +4644,9 @@
 | EIGHTY       | bitlwatsada    |         |         |         |            |
 | NINETY       | hatsatsada     |         |         |         |            |
 | HUNDRED      | besanda        |         |         |         |            |
+| TWO HUNDRED  | kebesanda      |         |         |         |            |
 | THOUSAND     | azarda         |         |         |         |            |
+| TWO THOUSAND | keazarda       |         |         |         |            |
 
 ## numerals-kara1499-1 / Karas (Kalamang), Indonesia / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4150,7 +4689,10 @@
 | EIGHTY       | putirie             |         |         |         |            |
 | NINETY       | putkaninggonie      |         |         |         |            |
 | HUNDRED      | reitkon             |         |         |         |            |
+| TWO HUNDRED  | reirir              |         |         |         |            |
+| FOUR HUNDRED | reitkansor          |         |         |         |            |
 | THOUSAND     | ripion              |         |         |         |            |
+| TWO THOUSAND | ripir               |         |         |         |            |
 
 ## numerals-kash1277-1 / Kashmiri, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4193,7 +4735,9 @@
 | EIGHTY       | sith      |         |         |         |            |
 | NINETY       | namath    |         |         |         |            |
 | HUNDRED      | hath      |         |         |         |            |
+| TWO HUNDRED  | zihath    |         |         |         |            |
 | THOUSAND     | akhsas    |         |         |         |            |
+| TWO THOUSAND | zisas     |         |         |         |            |
 
 ## numerals-kaya1320-2 / Kayapa Kallahan, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4236,7 +4780,9 @@
 | EIGHTY       | walonpolo         |         |         |         |            |
 | NINETY       | hiyampolo         |         |         |         |            |
 | HUNDRED      | hallahoh          |         |         |         |            |
+| TWO HUNDRED  | dowanlahoh        |         |         |         |            |
 | THOUSAND     | hallibo           |         |         |         |            |
+| TWO THOUSAND | dowanlibo         |         |         |         |            |
 
 ## numerals-kele1259-1 / Keley-i, Luzon, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4279,7 +4825,9 @@
 | EIGHTY       | newalu           |         |         |         |            |
 | NINETY       | hahyam           |         |         |         |            |
 | HUNDRED      | hanggatu         |         |         |         |            |
+| TWO HUNDRED  | dewwanggatut     |         |         |         |            |
 | THOUSAND     | hanlibu          |         |         |         |            |
+| TWO THOUSAND | dewwanglibu      |         |         |         |            |
 
 ## numerals-kgal1244-1 / Kgalagadi (Shekgalagari), Botswana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4322,50 +4870,56 @@
 | EIGHTY       | masumiibutamiberi               |         |         |         |            |
 | NINETY       | masumiibutamowonwe              |         |         |         |            |
 | HUNDRED      | likkhulu                        |         |         |         |            |
+| TWO HUNDRED  | makkhuluumaberi                 |         |         |         |            |
 | THOUSAND     | sikikji                         |         |         |         |            |
+| TWO THOUSAND | bikikjizebiberi                 |         |         |         |            |
 
 ## numerals-khan1272-1 / Ahirani, Gujarat, India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------|:--------|:--------|:--------|:-----------|
-| ONE          | ek       |         |         |         |            |
-| TWO          | don      |         |         |         |            |
-| THREE        | tin      |         |         |         |            |
-| FOUR         | car      |         |         | FORTY   |            |
-| FIVE         | pac      |         |         |         |            |
-| SIX          | sav      |         |         |         |            |
-| SEVEN        | sat      |         |         |         |            |
-| EIGHT        | ath      |         |         |         |            |
-| NINE         | nau      |         |         |         |            |
-| TEN          | daha     |         |         |         |            |
-| ELEVEN       | akara    |         |         |         |            |
-| TWELVE       | bara     |         |         |         |            |
-| THIRTEEN     | tera     |         |         |         |            |
-| FOURTEEN     | cauda    |         |         |         |            |
-| FIFTEEN      | pandhra  |         |         |         |            |
-| SIXTEEN      | sora     |         |         |         |            |
-| SEVENTEEN    | satra    |         |         |         |            |
-| EIGHTEEN     | athara   |         |         |         |            |
-| NINETEEN     | ekonavis |         |         |         |            |
-| TWENTY       | vis      |         |         |         |            |
-| TWENTY ONE   | ekvis    |         |         |         |            |
-| TWENTY TWO   | bavis    |         |         |         |            |
-| TWENTY THREE | tevis    |         |         |         |            |
-| TWENTY FOUR  | covis    |         |         |         |            |
-| TWENTY FIVE  | pancvis  |         |         |         |            |
-| TWENTY SIX   | savvis   |         |         |         |            |
-| TWENTY SEVEN | sattavis |         |         |         |            |
-| TWENTY EIGHT | atthavis |         |         |         |            |
-| TWENTY NINE  | ekontis  |         |         |         |            |
-| THIRTY       | tis      |         |         |         |            |
-| FORTY        | caris    |         |         |         |            |
-| FIFTY        | pannas   |         |         |         |            |
-| SIXTY        | sath     |         |         |         |            |
-| SEVENTY      | sattar   |         |         |         |            |
-| EIGHTY       | ainsi    |         |         |         |            |
-| NINETY       | navvad   |         |         |         |            |
-| HUNDRED      | sambhar  |         |         |         |            |
-| THOUSAND     | ekhajar  |         |         |         |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------|:--------|:--------|:--------|:-----------|
+| ONE           | ek       |         |         |         |            |
+| TWO           | don      |         |         |         |            |
+| THREE         | tin      |         |         |         |            |
+| FOUR          | car      |         |         | FORTY   |            |
+| FIVE          | pac      |         |         |         |            |
+| SIX           | sav      |         |         |         |            |
+| SEVEN         | sat      |         |         |         |            |
+| EIGHT         | ath      |         |         |         |            |
+| NINE          | nau      |         |         |         |            |
+| TEN           | daha     |         |         |         |            |
+| ELEVEN        | akara    |         |         |         |            |
+| TWELVE        | bara     |         |         |         |            |
+| THIRTEEN      | tera     |         |         |         |            |
+| FOURTEEN      | cauda    |         |         |         |            |
+| FIFTEEN       | pandhra  |         |         |         |            |
+| SIXTEEN       | sora     |         |         |         |            |
+| SEVENTEEN     | satra    |         |         |         |            |
+| EIGHTEEN      | athara   |         |         |         |            |
+| NINETEEN      | ekonavis |         |         |         |            |
+| TWENTY        | vis      |         |         |         |            |
+| TWENTY ONE    | ekvis    |         |         |         |            |
+| TWENTY TWO    | bavis    |         |         |         |            |
+| TWENTY THREE  | tevis    |         |         |         |            |
+| TWENTY FOUR   | covis    |         |         |         |            |
+| TWENTY FIVE   | pancvis  |         |         |         |            |
+| TWENTY SIX    | savvis   |         |         |         |            |
+| TWENTY SEVEN  | sattavis |         |         |         |            |
+| TWENTY EIGHT  | atthavis |         |         |         |            |
+| TWENTY NINE   | ekontis  |         |         |         |            |
+| THIRTY        | tis      |         |         |         |            |
+| FORTY         | caris    |         |         |         |            |
+| FIFTY         | pannas   |         |         |         |            |
+| SIXTY         | sath     |         |         |         |            |
+| SEVENTY       | sattar   |         |         |         |            |
+| EIGHTY        | ainsi    |         |         |         |            |
+| NINETY        | navvad   |         |         |         |            |
+| HUNDRED       | sambhar  |         |         |         |            |
+| TWO HUNDRED   | donse    |         |         |         |            |
+| FOUR HUNDRED  | carse    |         |         |         |            |
+| EIGHT HUNDRED | athse    |         |         |         |            |
+| THOUSAND      | ekhajar  |         |         |         |            |
+| TWO THOUSAND  | donhajar |         |         |         |            |
 
 ## numerals-kina1250-1 / Kinaray-a, Philippines / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4408,7 +4962,9 @@
 | EIGHTY       | otsenta      |         |         |         |            |
 | NINETY       | nobenta      |         |         |         |            |
 | HUNDRED      | iskagatos    |         |         |         |            |
+| TWO HUNDRED  | duwakagatos  |         |         |         |            |
 | THOUSAND     | isakalibo    |         |         |         |            |
+| TWO THOUSAND | duwakalibo   |         |         |         |            |
 
 ## numerals-kiok1239-1 / Kambowa, Sulawesi, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4451,7 +5007,9 @@
 | EIGHTY       | alupulu       |         |         |         |            |
 | NINETY       | siuapulu      |         |         |         |            |
 | HUNDRED      | mohono        |         |         |         |            |
+| TWO HUNDRED  | ruamohono     |         |         |         |            |
 | THOUSAND     | seribu        |         |         |         |            |
+| TWO THOUSAND | ruaribu       |         |         |         |            |
 
 ## numerals-kiok1239-2 / Kioko, Sulawesi, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4494,7 +5052,9 @@
 | EIGHTY       | alufulu         |         |         |         |            |
 | NINETY       | siuafulu        |         |         |         |            |
 | HUNDRED      | moono           |         |         |         |            |
+| TWO HUNDRED  | khuamoono       |         |         |         |            |
 | THOUSAND     | sekhibu         |         |         |         |            |
+| TWO THOUSAND | khuakhibu       |         |         |         |            |
 
 ## numerals-koda1255-1 / Kodagu, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4537,7 +5097,9 @@
 | EIGHTY       | umbada          |         |         |         |            |
 | NINETY       | tombada         |         |         |         |            |
 | HUNDRED      | nura            |         |         |         |            |
+| TWO HUNDRED  | irunura         |         |         |         |            |
 | THOUSAND     | ajira           |         |         |         |            |
+| TWO THOUSAND | dandajira       |         |         |         |            |
 
 ## numerals-konn1242-1 / Konni, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4580,7 +5142,9 @@
 | EIGHTY       | bangsini        |         |         |         |            |
 | NINETY       | bangsiwai       |         |         |         |            |
 | HUNDRED      | kobiga / bora   |         |         |         |            |
+| TWO HUNDRED  | borali          |         |         |         |            |
 | THOUSAND     | tuse / tusing   |         |         |         |            |
+| TWO THOUSAND | tusingali       |         |         |         |            |
 
 ## numerals-kora1291-1 / Korandje (Kwarandzyəy), Algeria / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4623,7 +5187,9 @@
 | EIGHTY       | tmanin       |         |         |         |            |
 | NINETY       | tasin        |         |         |         |            |
 | HUNDRED      | mijja        |         |         |         |            |
+| TWO HUNDRED  | mijtajn      |         |         |         |            |
 | THOUSAND     | alaf         |         |         |         |            |
+| TWO THOUSAND | alfajn       |         |         |         |            |
 
 ## numerals-kuli1254-1 / Kulisusu, Sulawesi, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4666,7 +5232,9 @@
 | EIGHTY       | halupulu        |         |         |         |            |
 | NINETY       | siopulu         |         |         |         |            |
 | HUNDRED      | saetsu          |         |         |         |            |
+| TWO HUNDRED  | ruaetsu         |         |         |         |            |
 | THOUSAND     | saribu          |         |         |         |            |
+| TWO THOUSAND | ruaribu         |         |         |         |            |
 
 ## numerals-kumb1274-1 / Kumbewaha, Sulawesi, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4709,7 +5277,9 @@
 | EIGHTY       | alupulu        |         |         |         |            |
 | NINETY       | siopulu        |         |         |         |            |
 | HUNDRED      | hahatsu        |         |         |         |            |
+| TWO HUNDRED  | xuaatsu        |         |         |         |            |
 | THOUSAND     | xaxibu         |         |         |         |            |
+| TWO THOUSAND | xuaxibu        |         |         |         |            |
 
 ## numerals-lakk1252-1 / Lak, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4752,7 +5322,9 @@
 | EIGHTY       | majtsala      |         |         |         |            |
 | NINETY       | urtstsala     |         |         |         |            |
 | HUNDRED      | ttursa        |         |         |         |            |
+| TWO HUNDRED  | kittursa      |         |         |         |            |
 | THOUSAND     | azara         |         |         |         |            |
+| TWO THOUSAND | kiazara       |         |         |         |            |
 
 ## numerals-lamb1269-1 / Lamani (Lambadi), India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -4795,7 +5367,9 @@
 | EIGHTY       | eisi / axsi          |         |         |              |            |
 | NINETY       | nawwad               |         |         |              |            |
 | HUNDRED      | so                   |         |         |              |            |
+| TWO HUNDRED  | dise / doso          |         |         |              |            |
 | THOUSAND     | hadzar               |         |         |              |            |
+| TWO THOUSAND | dihadzar / dohadzar  |         |         |              |            |
 
 ## numerals-lasa1237-1 / Lasalimu, Sulawesi, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4838,7 +5412,9 @@
 | EIGHTY       | alupulu        |         |         |         |            |
 | NINETY       | siopulu        |         |         |         |            |
 | HUNDRED      | raatsu         |         |         |         |            |
+| TWO HUNDRED  | ruaatsu        |         |         |         |            |
 | THOUSAND     | raribu         |         |         |         |            |
+| TWO THOUSAND | ruaribu        |         |         |         |            |
 
 ## numerals-lele1265-1 / Lele (shiLele), DR of the Congo / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4881,7 +5457,9 @@
 | EIGHTY       | masanggmanana           |         |         |         |            |
 | NINETY       | masanggribwa            |         |         |         |            |
 | HUNDRED      | lukamalumoko            |         |         |         |            |
+| TWO HUNDRED  | kamipe                  |         |         |         |            |
 | THOUSAND     | mil                     |         |         |         |            |
+| TWO THOUSAND | milipe                  |         |         |         |            |
 
 ## numerals-lian1255-1 / Liana-Seti, Maluku, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4924,7 +5502,9 @@
 | EIGHTY       | futwal           |         |         |         |            |
 | NINETY       | futsiwa          |         |         |         |            |
 | HUNDRED      | utnes            |         |         |         |            |
+| TWO HUNDRED  | utlua            |         |         |         |            |
 | THOUSAND     | lifnes           |         |         |         |            |
+| TWO THOUSAND | liflua           |         |         |         |            |
 
 ## numerals-ligu1248-1 / Ligurian, Italy / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -4967,7 +5547,9 @@
 | EIGHTY       | otangta                     |         |         |         |            |
 | NINETY       | nuvangta                    |         |         |         |            |
 | HUNDRED      | sengtu                      |         |         |         |            |
+| TWO HUNDRED  | dyzengtu                    |         |         |         |            |
 | THOUSAND     | mile                        |         |         |         |            |
+| TWO THOUSAND | duemila                     |         |         |         |            |
 
 ## numerals-limb1266-2 / Limbu, Nepal, Sikkim / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5052,7 +5634,9 @@
 | EIGHTY       | odomlamina        |         |         |         |            |
 | NINETY       | odogokwadu        |         |         |         |            |
 | HUNDRED      | uga               |         |         |         |            |
+| TWO HUNDRED  | ugainyo           |         |         |         |            |
 | THOUSAND     | akpiokpe          |         |         |         |            |
+| TWO THOUSAND | akpianyo          |         |         |         |            |
 
 ## numerals-logb1245-2 / Logba, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -5095,7 +5679,9 @@
 | EIGHTY       | udumlamina     |         |         |         |            |
 | NINETY       | udugokwadu     |         |         |         |            |
 | HUNDRED      | uga            |         |         |         |            |
+| TWO HUNDRED  | ugaino         |         |         |         |            |
 | THOUSAND     | akpiokpe       |         |         |         |            |
+| TWO THOUSAND | akpiino        |         |         |         |            |
 
 ## numerals-loko1255-2 / Loko, Sierra Leone / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -5138,7 +5724,9 @@
 | EIGHTY       | puburosagba        |         |         |         |            |
 | NINETY       | puburabu           |         |         |         |            |
 | HUNDRED      | keme               |         |         |         |            |
+| TWO HUNDRED  | kemefe             |         |         |         |            |
 | THOUSAND     | wulila             |         |         |         |            |
+| TWO THOUSAND | wulfe              |         |         |         |            |
 
 ## numerals-lyel1241-1 / Lyélé, Burkina Faso / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5181,7 +5769,9 @@
 | EIGHTY       | silyele         |         |         |         |            |
 | NINETY       | sinabo          |         |         |         |            |
 | HUNDRED      | zom             |         |         |         |            |
+| TWO HUNDRED  | zwaelye         |         |         |         |            |
 | THOUSAND     | morho           |         |         |         |            |
+| TWO THOUSAND | moorheralye     |         |         |         |            |
 
 ## numerals-maga1263-1 / Mag-Anchi Ayta, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5224,7 +5814,9 @@
 | EIGHTY       | walumpo         |         |         |         |            |
 | NINETY       | siyamapo        |         |         |         |            |
 | HUNDRED      | dinalan         |         |         |         |            |
+| TWO HUNDRED  | lowandalan      |         |         |         |            |
 | THOUSAND     | libo            |         |         |         |            |
+| TWO THOUSAND | lowalibo        |         |         |         |            |
 
 ## numerals-magi1241-1 / Mag-Indi Ayta, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5267,7 +5859,9 @@
 | EIGHTY       | walumpu         |         |         |         |            |
 | NINETY       | siyamapu        |         |         |         |            |
 | HUNDRED      | gisaygatus      |         |         |         |            |
+| TWO HUNDRED  | luwaygatus      |         |         |         |            |
 | THOUSAND     | gisaylibu       |         |         |         |            |
+| TWO THOUSAND | luwaylibu       |         |         |         |            |
 
 ## numerals-mala1464-1 / Malayalam, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5310,7 +5904,9 @@
 | EIGHTY       | empatu         |         |         |         |            |
 | NINETY       | tonuru         |         |         |         |            |
 | HUNDRED      | nuru           |         |         |         |            |
+| TWO HUNDRED  | irunuru        |         |         |         |            |
 | THOUSAND     | ajiram         |         |         |         |            |
+| TWO THOUSAND | randujiram     |         |         |         |            |
 
 ## numerals-malo1243-1 / Malo (Tamambo), Vanuatu / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5353,50 +5949,53 @@
 | EIGHTY       | ngalaibwalu                 |         |         |         |            |
 | NINETY       | ngalaisuabwa                |         |         |         |            |
 | HUNDRED      | ngalaisangabulu             |         |         |         |            |
+| TWO HUNDRED  | ngalaisangabulubaxarua      |         |         |         |            |
 | THOUSAND     | baxasangabulu               |         |         |         |            |
 
 ## numerals-malv1243-1 / Malvi, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms     | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------|:--------|:--------|:--------|:-----------|
-| ONE          | ek        |         |         |         |            |
-| TWO          | do        |         |         |         |            |
-| THREE        | tin       |         |         |         |            |
-| FOUR         | tsar      |         |         |         |            |
-| FIVE         | patsa     |         |         |         |            |
-| SIX          | tshe      |         |         |         |            |
-| SEVEN        | sata      |         |         |         |            |
-| EIGHT        | ata       |         |         |         |            |
-| NINE         | no        |         |         |         |            |
-| TEN          | dasa      |         |         |         |            |
-| ELEVEN       | gjara     |         |         |         |            |
-| TWELVE       | bara      |         |         |         |            |
-| THIRTEEN     | tara      |         |         |         |            |
-| FOURTEEN     | tsavada   |         |         |         |            |
-| FIFTEEN      | paadra    |         |         |         |            |
-| SIXTEEN      | sola      |         |         |         |            |
-| SEVENTEEN    | satara    |         |         |         |            |
-| EIGHTEEN     | attara    |         |         |         |            |
-| NINETEEN     | ganis     |         |         |         |            |
-| TWENTY       | bis       |         |         |         |            |
-| TWENTY ONE   | ekkis     |         |         |         |            |
-| TWENTY TWO   | bavis     |         |         |         |            |
-| TWENTY THREE | tevis     |         |         |         |            |
-| TWENTY FOUR  | tsovis    |         |         |         |            |
-| TWENTY FIVE  | patstsis  |         |         |         |            |
-| TWENTY SIX   | tshabbis  |         |         |         |            |
-| TWENTY SEVEN | sattavis  |         |         |         |            |
-| TWENTY EIGHT | attavis   |         |         |         |            |
-| TWENTY NINE  | ganatis   |         |         |         |            |
-| THIRTY       | tis       |         |         |         |            |
-| FORTY        | tsalis    |         |         |         |            |
-| FIFTY        | patsas    |         |         |         |            |
-| SIXTY        | sata      |         |         |         |            |
-| SEVENTY      | sattara   |         |         |         |            |
-| EIGHTY       | assi      |         |         |         |            |
-| NINETY       | nobbe     |         |         |         |            |
-| HUNDRED      | so        |         |         |         |            |
-| THOUSAND     | hadzdzara |         |         |         |            |
+| Concept      | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:------------|:--------|:--------|:--------|:-----------|
+| ONE          | ek          |         |         |         |            |
+| TWO          | do          |         |         |         |            |
+| THREE        | tin         |         |         |         |            |
+| FOUR         | tsar        |         |         |         |            |
+| FIVE         | patsa       |         |         |         |            |
+| SIX          | tshe        |         |         |         |            |
+| SEVEN        | sata        |         |         |         |            |
+| EIGHT        | ata         |         |         |         |            |
+| NINE         | no          |         |         |         |            |
+| TEN          | dasa        |         |         |         |            |
+| ELEVEN       | gjara       |         |         |         |            |
+| TWELVE       | bara        |         |         |         |            |
+| THIRTEEN     | tara        |         |         |         |            |
+| FOURTEEN     | tsavada     |         |         |         |            |
+| FIFTEEN      | paadra      |         |         |         |            |
+| SIXTEEN      | sola        |         |         |         |            |
+| SEVENTEEN    | satara      |         |         |         |            |
+| EIGHTEEN     | attara      |         |         |         |            |
+| NINETEEN     | ganis       |         |         |         |            |
+| TWENTY       | bis         |         |         |         |            |
+| TWENTY ONE   | ekkis       |         |         |         |            |
+| TWENTY TWO   | bavis       |         |         |         |            |
+| TWENTY THREE | tevis       |         |         |         |            |
+| TWENTY FOUR  | tsovis      |         |         |         |            |
+| TWENTY FIVE  | patstsis    |         |         |         |            |
+| TWENTY SIX   | tshabbis    |         |         |         |            |
+| TWENTY SEVEN | sattavis    |         |         |         |            |
+| TWENTY EIGHT | attavis     |         |         |         |            |
+| TWENTY NINE  | ganatis     |         |         |         |            |
+| THIRTY       | tis         |         |         |         |            |
+| FORTY        | tsalis      |         |         |         |            |
+| FIFTY        | patsas      |         |         |         |            |
+| SIXTY        | sata        |         |         |         |            |
+| SEVENTY      | sattara     |         |         |         |            |
+| EIGHTY       | assi        |         |         |         |            |
+| NINETY       | nobbe       |         |         |         |            |
+| HUNDRED      | so          |         |         |         |            |
+| TWO HUNDRED  | doso        |         |         |         |            |
+| THOUSAND     | hadzdzara   |         |         |         |            |
+| TWO THOUSAND | dohadzdzara |         |         |         |            |
 
 ## numerals-mamp1244-1 / Mampruli, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5439,7 +6038,9 @@
 | EIGHTY       | pisinii / pihinii     |         |         |         |            |
 | NINETY       | pisiway / pihiwe      |         |         |         |            |
 | HUNDRED      | kwobuga / kwobga      |         |         |         |            |
+| TWO HUNDRED  | kwobsiiyi             |         |         |         |            |
 | THOUSAND     | tusiri / tuhuri       |         |         |         |            |
+| TWO THOUSAND | tusaaayi              |         |         |         |            |
 
 ## numerals-mana1288-2 / Manange, Nepal / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5525,7 +6126,9 @@
 | EIGHTY       | alompulu            |         |         |         |            |
 | NINETY       | tsiokmpulu          |         |         |         |            |
 | HUNDRED      | tsaratus            |         |         |         |            |
+| TWO HUNDRED  | suaratus            |         |         |         |            |
 | THOUSAND     | tsasabu             |         |         |         |            |
+| TWO THOUSAND | suasabu             |         |         |         |            |
 
 ## numerals-mann1246-1 / Mannan, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5568,7 +6171,9 @@
 | EIGHTY       | empatu         |         |         |         |            |
 | NINETY       | tonuru         |         |         |         |            |
 | HUNDRED      | nuru           |         |         |         |            |
+| TWO HUNDRED  | irandurunuru   |         |         |         |            |
 | THOUSAND     | ajiram         |         |         |         |            |
+| TWO THOUSAND | irandajiram    |         |         |         |            |
 
 ## numerals-mara1378-1 / Marathi, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5611,7 +6216,9 @@
 | EIGHTY       | oysi            |         |         |         |            |
 | NINETY       | navvad          |         |         |         |            |
 | HUNDRED      | sambhar         |         |         |         |            |
+| TWO HUNDRED  | donse           |         |         |         |            |
 | THOUSAND     | ekhadzar        |         |         |         |            |
+| TWO THOUSAND | donhadzar       |         |         |         |            |
 
 ## numerals-marg1266-1 / South Marghi, Nigeria / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -5654,7 +6261,9 @@
 | EIGHTY       | tsisukumonyi          |         |         |         |            |
 | NINETY       | aldlaukumonyi         |         |         |         |            |
 | HUNDRED      | garu                  |         |         |         |            |
+| TWO HUNDRED  | garumalu              |         |         |         |            |
 | THOUSAND     | dubupalu              |         |         |         |            |
+| TWO THOUSAND | dubumalu              |         |         |         |            |
 
 ## numerals-mbug1242-1 / Mbugwe, Tanzania / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5697,7 +6306,9 @@
 | EIGHTY       | meronggoenane            |         |         |         |            |
 | NINETY       | meronggokenda            |         |         |         |            |
 | HUNDRED      | ganaremo                 |         |         |         |            |
+| TWO HUNDRED  | maganaevere              |         |         |         |            |
 | THOUSAND     | elfu                     |         |         |         |            |
+| TWO THOUSAND | elfuivere                |         |         |         |            |
 
 ## numerals-megl1237-1 / Megleno-Romanian, Greece / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5740,7 +6351,9 @@
 | EIGHTY       | obzats            |         |         |         |            |
 | NINETY       | noawazats         |         |         |         |            |
 | HUNDRED      | unasuta           |         |         |         |            |
+| TWO HUNDRED  | doawasuti         |         |         |         |            |
 | THOUSAND     | unamiye           |         |         |         |            |
+| TWO THOUSAND | doawamiy          |         |         |         |            |
 
 ## numerals-meng1263-1 / Mengisa, Cameroon / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5783,7 +6396,9 @@
 | EIGHTY       | mawommom        |         |         |         |            |
 | NINETY       | mawom           |         |         |         |            |
 | HUNDRED      | nted            |         |         |         |            |
+| TWO HUNDRED  | mintedmiba      |         |         |         |            |
 | THOUSAND     | togsin          |         |         |         |            |
+| TWO THOUSAND | togsiniba       |         |         |         |            |
 
 ## numerals-mesk1242-1 / Meskwaki, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -5826,7 +6441,9 @@
 | EIGHTY       | swasikapitaki        |         |         |         |            |
 | NINETY       | sakapitaki           |         |         |         |            |
 | HUNDRED      | nekotwahkwe          |         |         |         |            |
+| TWO HUNDRED  | niswahkwe            |         |         |         |            |
 | THOUSAND     | nekotimahkahkwi      |         |         |         |            |
+| TWO THOUSAND | niswimahkahkwi       |         |         |         |            |
 
 ## numerals-mika1239-1 / Mikasuki, USA / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -5869,93 +6486,103 @@
 | EIGHTY       | pokoltosatapawajken      |         |         |         |            |
 | NINETY       | pokolosnapawajken        |         |         |         |            |
 | HUNDRED      | pokolnaknoslaan          |         |         |         |            |
+| TWO HUNDRED  | pokolnaknostoklen        |         |         |         |            |
 | THOUSAND     | pokolnaknostsobelaan     |         |         |         |            |
+| TWO THOUSAND | pokolnaknostsobetoklen   |         |         |         |            |
 
 ## numerals-mudu1239-1 / Muduga, Kerala, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------|:--------|:--------|:--------|:-----------|
-| ONE          | onu           |         |         |         |            |
-| TWO          | randu         |         |         |         |            |
-| THREE        | munu          |         |         |         |            |
-| FOUR         | nalu          |         |         |         |            |
-| FIVE         | andzu         |         |         |         |            |
-| SIX          | aru           |         |         |         |            |
-| SEVEN        | elu           |         |         |         |            |
-| EIGHT        | atu           |         |         |         |            |
-| NINE         | ombatu        |         |         |         |            |
-| TEN          | patu          |         |         |         |            |
-| ELEVEN       | patinonu      |         |         |         |            |
-| TWELVE       | panndu        |         |         |         |            |
-| THIRTEEN     | patimunu      |         |         |         |            |
-| FOURTEEN     | patinalu      |         |         |         |            |
-| FIFTEEN      | patinandzu    |         |         |         |            |
-| SIXTEEN      | patinaru      |         |         |         |            |
-| SEVENTEEN    | patinelu      |         |         |         |            |
-| EIGHTEEN     | patinetu      |         |         |         |            |
-| NINETEEN     | patombatu     |         |         |         |            |
-| TWENTY       | iruvatu       |         |         |         |            |
-| TWENTY ONE   | iruvatonu     |         |         |         |            |
-| TWENTY TWO   | iruvatirandu  |         |         |         |            |
-| TWENTY THREE | iruvatimunu   |         |         |         |            |
-| TWENTY FOUR  | iruvatinalu   |         |         |         |            |
-| TWENTY FIVE  | iruvatiandzu  |         |         |         |            |
-| TWENTY SIX   | iruvatiaru    |         |         |         |            |
-| TWENTY SEVEN | iruvatielu    |         |         |         |            |
-| TWENTY EIGHT | iruvatiatu    |         |         |         |            |
-| TWENTY NINE  | iruvatiombatu |         |         |         |            |
-| THIRTY       | mupatu        |         |         |         |            |
-| FORTY        | napatu        |         |         |         |            |
-| FIFTY        | ambatu        |         |         |         |            |
-| SIXTY        | aruvatu       |         |         |         |            |
-| SEVENTY      | aluvatu       |         |         |         |            |
-| EIGHTY       | ambatu        |         |         |         |            |
-| NINETY       | tonuru        |         |         |         |            |
-| HUNDRED      | nuru          |         |         |         |            |
-| THOUSAND     | ajira         |         |         |         |            |
+| Concept       | Forms         | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------------|:--------|:--------|:--------|:-----------|
+| ONE           | onu           |         |         |         |            |
+| TWO           | randu         |         |         |         |            |
+| THREE         | munu          |         |         |         |            |
+| FOUR          | nalu          |         |         |         |            |
+| FIVE          | andzu         |         |         |         |            |
+| SIX           | aru           |         |         |         |            |
+| SEVEN         | elu           |         |         |         |            |
+| EIGHT         | atu           |         |         |         |            |
+| NINE          | ombatu        |         |         |         |            |
+| TEN           | patu          |         |         |         |            |
+| ELEVEN        | patinonu      |         |         |         |            |
+| TWELVE        | panndu        |         |         |         |            |
+| THIRTEEN      | patimunu      |         |         |         |            |
+| FOURTEEN      | patinalu      |         |         |         |            |
+| FIFTEEN       | patinandzu    |         |         |         |            |
+| SIXTEEN       | patinaru      |         |         |         |            |
+| SEVENTEEN     | patinelu      |         |         |         |            |
+| EIGHTEEN      | patinetu      |         |         |         |            |
+| NINETEEN      | patombatu     |         |         |         |            |
+| TWENTY        | iruvatu       |         |         |         |            |
+| TWENTY ONE    | iruvatonu     |         |         |         |            |
+| TWENTY TWO    | iruvatirandu  |         |         |         |            |
+| TWENTY THREE  | iruvatimunu   |         |         |         |            |
+| TWENTY FOUR   | iruvatinalu   |         |         |         |            |
+| TWENTY FIVE   | iruvatiandzu  |         |         |         |            |
+| TWENTY SIX    | iruvatiaru    |         |         |         |            |
+| TWENTY SEVEN  | iruvatielu    |         |         |         |            |
+| TWENTY EIGHT  | iruvatiatu    |         |         |         |            |
+| TWENTY NINE   | iruvatiombatu |         |         |         |            |
+| THIRTY        | mupatu        |         |         |         |            |
+| FORTY         | napatu        |         |         |         |            |
+| FIFTY         | ambatu        |         |         |         |            |
+| SIXTY         | aruvatu       |         |         |         |            |
+| SEVENTY       | aluvatu       |         |         |         |            |
+| EIGHTY        | ambatu        |         |         |         |            |
+| NINETY        | tonuru        |         |         |         |            |
+| HUNDRED       | nuru          |         |         |         |            |
+| TWO HUNDRED   | irunuru       |         |         |         |            |
+| FOUR HUNDRED  | nanuru        |         |         |         |            |
+| EIGHT HUNDRED | anuru         |         |         |         |            |
+| THOUSAND      | ajira         |         |         |         |            |
+| TWO THOUSAND  | randajira     |         |         |         |            |
 
 ## numerals-mull1244-1 / Mullu Kurumba, Kerala, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------|:--------|:--------|:--------|:-----------|
-| ONE          | onni         |         |         |         |            |
-| TWO          | rendi        |         |         |         |            |
-| THREE        | muni         |         |         |         |            |
-| FOUR         | nali         |         |         |         |            |
-| FIVE         | andzi        |         |         |         |            |
-| SIX          | ari          |         |         |         |            |
-| SEVEN        | eli          |         |         |         |            |
-| EIGHT        | etti         |         |         |         |            |
-| NINE         | ombadi       |         |         |         |            |
-| TEN          | patti        |         |         |         |            |
-| ELEVEN       | painonni     |         |         |         |            |
-| TWELVE       | pandrendi    |         |         |         |            |
-| THIRTEEN     | paimuni      |         |         |         |            |
-| FOURTEEN     | painali      |         |         |         |            |
-| FIFTEEN      | painandzi    |         |         |         |            |
-| SIXTEEN      | painari      |         |         |         |            |
-| SEVENTEEN    | paineli      |         |         |         |            |
-| EIGHTEEN     | painetti     |         |         |         |            |
-| NINETEEN     | pattambodi   |         |         |         |            |
-| TWENTY       | iruvadi      |         |         |         |            |
-| TWENTY ONE   | irvattonni   |         |         |         |            |
-| TWENTY TWO   | irvatrendi   |         |         |         |            |
-| TWENTY THREE | irvatmuni    |         |         |         |            |
-| TWENTY FOUR  | irvatnali    |         |         |         |            |
-| TWENTY FIVE  | irvatandzi   |         |         |         |            |
-| TWENTY SIX   | irvattari    |         |         |         |            |
-| TWENTY SEVEN | irvatteli    |         |         |         |            |
-| TWENTY EIGHT | irvattetti   |         |         |         |            |
-| TWENTY NINE  | irvattombadi |         |         |         |            |
-| THIRTY       | muppadi      |         |         |         |            |
-| FORTY        | napadi       |         |         |         |            |
-| FIFTY        | ambadi       |         |         |         |            |
-| SIXTY        | aruvadi      |         |         |         |            |
-| SEVENTY      | eluvadi      |         |         |         |            |
-| EIGHTY       | embadi       |         |         |         |            |
-| NINETY       | tonnuri      |         |         |         |            |
-| HUNDRED      | nuri         |         |         |         |            |
-| THOUSAND     | ajiro        |         |         |         |            |
+| Concept       | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------|:--------|:--------|:--------|:-----------|
+| ONE           | onni         |         |         |         |            |
+| TWO           | rendi        |         |         |         |            |
+| THREE         | muni         |         |         |         |            |
+| FOUR          | nali         |         |         |         |            |
+| FIVE          | andzi        |         |         |         |            |
+| SIX           | ari          |         |         |         |            |
+| SEVEN         | eli          |         |         |         |            |
+| EIGHT         | etti         |         |         |         |            |
+| NINE          | ombadi       |         |         |         |            |
+| TEN           | patti        |         |         |         |            |
+| ELEVEN        | painonni     |         |         |         |            |
+| TWELVE        | pandrendi    |         |         |         |            |
+| THIRTEEN      | paimuni      |         |         |         |            |
+| FOURTEEN      | painali      |         |         |         |            |
+| FIFTEEN       | painandzi    |         |         |         |            |
+| SIXTEEN       | painari      |         |         |         |            |
+| SEVENTEEN     | paineli      |         |         |         |            |
+| EIGHTEEN      | painetti     |         |         |         |            |
+| NINETEEN      | pattambodi   |         |         |         |            |
+| TWENTY        | iruvadi      |         |         |         |            |
+| TWENTY ONE    | irvattonni   |         |         |         |            |
+| TWENTY TWO    | irvatrendi   |         |         |         |            |
+| TWENTY THREE  | irvatmuni    |         |         |         |            |
+| TWENTY FOUR   | irvatnali    |         |         |         |            |
+| TWENTY FIVE   | irvatandzi   |         |         |         |            |
+| TWENTY SIX    | irvattari    |         |         |         |            |
+| TWENTY SEVEN  | irvatteli    |         |         |         |            |
+| TWENTY EIGHT  | irvattetti   |         |         |         |            |
+| TWENTY NINE   | irvattombadi |         |         |         |            |
+| THIRTY        | muppadi      |         |         |         |            |
+| FORTY         | napadi       |         |         |         |            |
+| FIFTY         | ambadi       |         |         |         |            |
+| SIXTY         | aruvadi      |         |         |         |            |
+| SEVENTY       | eluvadi      |         |         |         |            |
+| EIGHTY        | embadi       |         |         |         |            |
+| NINETY        | tonnuri      |         |         |         |            |
+| HUNDRED       | nuri         |         |         |         |            |
+| TWO HUNDRED   | irunuri      |         |         |         |            |
+| FOUR HUNDRED  | nanuri       |         |         |         |            |
+| EIGHT HUNDRED | ennuri       |         |         |         |            |
+| THOUSAND      | ajiro        |         |         |         |            |
+| TWO THOUSAND  | randajiro    |         |         |         |            |
 
 ## numerals-muns1251-1 / Munsee Delaware, Canada / Fiver:0.02 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -5998,50 +6625,55 @@
 | EIGHTY       | xastxinaxke           |           |         |              |            |
 | NINETY       | nolitxinaxke          |           |         |              |            |
 | HUNDRED      | nkwatapoxka           |           |         |              |            |
+| TWO HUNDRED  | nisapoxka             |           |         |              |            |
 | THOUSAND     | nkwattaawsan          |           |         |              |            |
 
 ## numerals-muya1239-1 / Muya, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------|:--------|:--------|:--------|:-----------|
-| ONE          | t55lo33              |         |         |         |            |
-| TWO          | t55ndze34 / na55ze33 |         |         |         |            |
-| THREE        | so55lo33             |         |         |         |            |
-| FOUR         | z55lo33              |         |         |         |            |
-| FIVE         | na55lo33             |         |         |         |            |
-| SIX          | tchy55lo33           |         |         |         |            |
-| SEVEN        | ny55lo33             |         |         |         |            |
-| EIGHT        | c55lo33              |         |         |         |            |
-| NINE         | ngga55lo33           |         |         |         |            |
-| TEN          | he33ko55lo33         |         |         |         |            |
-| ELEVEN       | he33ti55lo33         |         |         |         |            |
-| TWELVE       | he55na33lo33         |         |         |         |            |
-| THIRTEEN     | ro33so55lo33         |         |         |         |            |
-| FOURTEEN     | ro33z55lo33          |         |         |         |            |
-| FIFTEEN      | ha55na33lo33         |         |         |         |            |
-| SIXTEEN      | ro33tchy55lo33       |         |         |         |            |
-| SEVENTEEN    | ro33ny55lo33         |         |         |         |            |
-| EIGHTEEN     | ro33c55lo33          |         |         |         |            |
-| NINETEEN     | ro55ngga55lo33       |         |         |         |            |
-| TWENTY       | ni55ca33             |         |         |         |            |
-| TWENTY ONE   | ni55ca33tse33tci53   |         |         |         |            |
-| TWENTY TWO   | ni55ca33tse33ni53    |         |         |         |            |
-| TWENTY THREE | ni55ca33tse33so53    |         |         |         |            |
-| TWENTY FOUR  | ni55ca33tse33za53    |         |         |         |            |
-| TWENTY FIVE  | ni55ca33tse33na53    |         |         |         |            |
-| TWENTY SIX   | ni55ca33tse33tsu53   |         |         |         |            |
-| TWENTY SEVEN | ni55ca33tse33do53    |         |         |         |            |
-| TWENTY EIGHT | ni55ca33tse33dze53   |         |         |         |            |
-| TWENTY NINE  | ni55ca33tse33nggu53  |         |         |         |            |
-| THIRTY       | so55tse33            |         |         |         |            |
-| FORTY        | za55tse33            |         |         |         |            |
-| FIFTY        | nge55tse33           |         |         |         |            |
-| SIXTY        | tsu55tse33           |         |         |         |            |
-| SEVENTY      | do55tse33            |         |         |         |            |
-| EIGHTY       | dze55tse33           |         |         |         |            |
-| NINETY       | nggu55tse33          |         |         |         |            |
-| HUNDRED      | dze53                |         |         |         |            |
-| THOUSAND     | to55ntsha33t55lo33   |         |         |         |            |
+| Concept       | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------------|:--------|:--------|:--------|:-----------|
+| ONE           | t55lo33              |         |         |         |            |
+| TWO           | t55ndze34 / na55ze33 |         |         |         |            |
+| THREE         | so55lo33             |         |         |         |            |
+| FOUR          | z55lo33              |         |         |         |            |
+| FIVE          | na55lo33             |         |         |         |            |
+| SIX           | tchy55lo33           |         |         |         |            |
+| SEVEN         | ny55lo33             |         |         |         |            |
+| EIGHT         | c55lo33              |         |         |         |            |
+| NINE          | ngga55lo33           |         |         |         |            |
+| TEN           | he33ko55lo33         |         |         |         |            |
+| ELEVEN        | he33ti55lo33         |         |         |         |            |
+| TWELVE        | he55na33lo33         |         |         |         |            |
+| THIRTEEN      | ro33so55lo33         |         |         |         |            |
+| FOURTEEN      | ro33z55lo33          |         |         |         |            |
+| FIFTEEN       | ha55na33lo33         |         |         |         |            |
+| SIXTEEN       | ro33tchy55lo33       |         |         |         |            |
+| SEVENTEEN     | ro33ny55lo33         |         |         |         |            |
+| EIGHTEEN      | ro33c55lo33          |         |         |         |            |
+| NINETEEN      | ro55ngga55lo33       |         |         |         |            |
+| TWENTY        | ni55ca33             |         |         |         |            |
+| TWENTY ONE    | ni55ca33tse33tci53   |         |         |         |            |
+| TWENTY TWO    | ni55ca33tse33ni53    |         |         |         |            |
+| TWENTY THREE  | ni55ca33tse33so53    |         |         |         |            |
+| TWENTY FOUR   | ni55ca33tse33za53    |         |         |         |            |
+| TWENTY FIVE   | ni55ca33tse33na53    |         |         |         |            |
+| TWENTY SIX    | ni55ca33tse33tsu53   |         |         |         |            |
+| TWENTY SEVEN  | ni55ca33tse33do53    |         |         |         |            |
+| TWENTY EIGHT  | ni55ca33tse33dze53   |         |         |         |            |
+| TWENTY NINE   | ni55ca33tse33nggu53  |         |         |         |            |
+| THIRTY        | so55tse33            |         |         |         |            |
+| FORTY         | za55tse33            |         |         |         |            |
+| FIFTY         | nge55tse33           |         |         |         |            |
+| SIXTY         | tsu55tse33           |         |         |         |            |
+| SEVENTY       | do55tse33            |         |         |         |            |
+| EIGHTY        | dze55tse33           |         |         |         |            |
+| NINETY        | nggu55tse33          |         |         |         |            |
+| HUNDRED       | dze53                |         |         |         |            |
+| TWO HUNDRED   | ni33dze53            |         |         |         |            |
+| FOUR HUNDRED  | za33dze53            |         |         |         |            |
+| EIGHT HUNDRED | dze33dze53           |         |         |         |            |
+| THOUSAND      | to55ntsha33t55lo33   |         |         |         |            |
+| TWO THOUSAND  | to55ntsha33t55ndze33 |         |         |         |            |
 
 ## numerals-naka1262-2 / Nakanai, Papua New Guinea / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6084,7 +6716,9 @@
 | EIGHTY       | savuluualu           |         |         |         |            |
 | NINETY       | savuluualasiu        |         |         |         |            |
 | HUNDRED      | salatuisasa          |         |         |         |            |
+| TWO HUNDRED  | salatuilua           |         |         |         |            |
 | THOUSAND     | salatusavulusasa     |         |         |         |            |
+| TWO THOUSAND | salatusavululua      |         |         |         |            |
 
 ## numerals-nava1243-1 / Navajo, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6127,7 +6761,9 @@
 | EIGHTY       | tshepitin        |         |         |         |            |
 | NINETY       | nahastetin       |         |         |         |            |
 | HUNDRED      | talahitineznatin |         |         |         |            |
+| TWO HUNDRED  | nakhitineznatin  |         |         |         |            |
 | THOUSAND     | talahitimiljazi  |         |         |         |            |
+| TWO THOUSAND | nakhitimiljazi   |         |         |         |            |
 
 ## numerals-nava1243-2 / Navajo, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6170,7 +6806,9 @@
 | EIGHTY       | tseebidiin           |         |         |         |            |
 | NINETY       | nahastedin           |         |         |         |            |
 | HUNDRED      | taalahidineeznadiin  |         |         |         |            |
+| TWO HUNDRED  | naakihidineeznadiin  |         |         |         |            |
 | THOUSAND     | taalahididamiilyazhi |         |         |         |            |
+| TWO THOUSAND | naakidimiil          |         |         |         |            |
 
 ## numerals-nawu1242-1 / Nawuri, Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6213,50 +6851,55 @@
 | EIGHTY       | adiburuwa      |         |         |         |            |
 | NINETY       | adikpno        |         |         |         |            |
 | HUNDRED      | gilifa         |         |         |         |            |
+| TWO HUNDRED  | alifano        |         |         |         |            |
 | THOUSAND     | ggbing         |         |         |         |            |
+| TWO THOUSAND | nggbino        |         |         |         |            |
 
 ## numerals-nezp1238-1 / Nez Perce, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms            | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------------|:--------|:--------|:--------|:-----------|
-| ONE          | naqc             |         |         |         |            |
-| TWO          | lepit            |         |         |         |            |
-| THREE        | mitat            |         |         |         |            |
-| FOUR         | pilept           |         |         |         |            |
-| FIVE         | paxlo            |         |         |         |            |
-| SIX          | oylaqc           |         |         |         |            |
-| SEVEN        | uynept           |         |         |         |            |
-| EIGHT        | uymetet          |         |         |         |            |
-| NINE         | kuyc             |         |         |         |            |
-| TEN          | putimt           |         |         |         |            |
-| ELEVEN       | puimtwaxnacq     |         |         |         |            |
-| TWELVE       | puimtwaxlepit    |         |         |         |            |
-| THIRTEEN     | puimtwaxmitat    |         |         |         |            |
-| FOURTEEN     | puimtwaxpilept   |         |         |         |            |
-| FIFTEEN      | puimtwaxpaxlo    |         |         |         |            |
-| SIXTEEN      | puimtwaxoylaqc   |         |         |         |            |
-| SEVENTEEN    | puimtwaxuynept   |         |         |         |            |
-| EIGHTEEN     | puimtwaxuymetet  |         |         |         |            |
-| NINETEEN     | puimtwaxkuyc     |         |         |         |            |
-| TWENTY       | leetit           |         |         |         |            |
-| TWENTY ONE   | leeptitwaxnacq   |         |         |         |            |
-| TWENTY TWO   | leeptitwaxlepit  |         |         |         |            |
-| TWENTY THREE | leeptitwaxmitat  |         |         |         |            |
-| TWENTY FOUR  | leeptitwaxpilept |         |         |         |            |
-| TWENTY FIVE  | leeptitwaxpaxlo  |         |         |         |            |
-| TWENTY SIX   | leetitwaxoylaqc  |         |         |         |            |
-| TWENTY SEVEN | leetitwaxuynept  |         |         |         |            |
-| TWENTY EIGHT | leetitwaxuymetet |         |         |         |            |
-| TWENTY NINE  | leetitwaxkuyc    |         |         |         |            |
-| THIRTY       | mitaaptit        |         |         |         |            |
-| FORTY        | pileeptit        |         |         |         |            |
-| FIFTY        | paqaptit         |         |         |         |            |
-| SIXTY        | oylaqcaaptit     |         |         |         |            |
-| SEVENTY      | uynepteeptit     |         |         |         |            |
-| EIGHTY       | oymitaaptit      |         |         |         |            |
-| NINETY       | kuyceeptit       |         |         |         |            |
-| HUNDRED      | puteeptit        |         |         |         |            |
-| THOUSAND     | putmusus         |         |         |         |            |
+| Concept       | Forms            | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-----------------|:--------|:--------|:--------|:-----------|
+| ONE           | naqc             |         |         |         |            |
+| TWO           | lepit            |         |         |         |            |
+| THREE         | mitat            |         |         |         |            |
+| FOUR          | pilept           |         |         |         |            |
+| FIVE          | paxlo            |         |         |         |            |
+| SIX           | oylaqc           |         |         |         |            |
+| SEVEN         | uynept           |         |         |         |            |
+| EIGHT         | uymetet          |         |         |         |            |
+| NINE          | kuyc             |         |         |         |            |
+| TEN           | putimt           |         |         |         |            |
+| ELEVEN        | puimtwaxnacq     |         |         |         |            |
+| TWELVE        | puimtwaxlepit    |         |         |         |            |
+| THIRTEEN      | puimtwaxmitat    |         |         |         |            |
+| FOURTEEN      | puimtwaxpilept   |         |         |         |            |
+| FIFTEEN       | puimtwaxpaxlo    |         |         |         |            |
+| SIXTEEN       | puimtwaxoylaqc   |         |         |         |            |
+| SEVENTEEN     | puimtwaxuynept   |         |         |         |            |
+| EIGHTEEN      | puimtwaxuymetet  |         |         |         |            |
+| NINETEEN      | puimtwaxkuyc     |         |         |         |            |
+| TWENTY        | leetit           |         |         |         |            |
+| TWENTY ONE    | leeptitwaxnacq   |         |         |         |            |
+| TWENTY TWO    | leeptitwaxlepit  |         |         |         |            |
+| TWENTY THREE  | leeptitwaxmitat  |         |         |         |            |
+| TWENTY FOUR   | leeptitwaxpilept |         |         |         |            |
+| TWENTY FIVE   | leeptitwaxpaxlo  |         |         |         |            |
+| TWENTY SIX    | leetitwaxoylaqc  |         |         |         |            |
+| TWENTY SEVEN  | leetitwaxuynept  |         |         |         |            |
+| TWENTY EIGHT  | leetitwaxuymetet |         |         |         |            |
+| TWENTY NINE   | leetitwaxkuyc    |         |         |         |            |
+| THIRTY        | mitaaptit        |         |         |         |            |
+| FORTY         | pileeptit        |         |         |         |            |
+| FIFTY         | paqaptit         |         |         |         |            |
+| SIXTY         | oylaqcaaptit     |         |         |         |            |
+| SEVENTY       | uynepteeptit     |         |         |         |            |
+| EIGHTY        | oymitaaptit      |         |         |         |            |
+| NINETY        | kuyceeptit       |         |         |         |            |
+| HUNDRED       | puteeptit        |         |         |         |            |
+| TWO HUNDRED   | lepusus          |         |         |         |            |
+| EIGHT HUNDRED | oymitosos        |         |         |         |            |
+| THOUSAND      | putmusus         |         |         |         |            |
+| TWO THOUSAND  | leeptitusus      |         |         |         |            |
 
 ## numerals-nort1550-1 / Northern Tiwa, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6299,7 +6942,9 @@
 | EIGHTY       | texwili      |         |         |         |            |
 | NINETY       | xwiete       |         |         |         |            |
 | HUNDRED      | wemsien      |         |         |         |            |
+| TWO HUNDRED  | wisien       |         |         |         |            |
 | THOUSAND     | wemmil       |         |         |         |            |
+| TWO THOUSAND | wimil        |         |         |         |            |
 
 ## numerals-nort2617-1 / Modern Scots (Northern Scots), United Kingdom / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6342,7 +6987,9 @@
 | EIGHTY       | axti            |         |         |         |            |
 | NINETY       | nainti          |         |         |         |            |
 | HUNDRED      | hndar           |         |         |         |            |
+| TWO HUNDRED  | thwahndar       |         |         |         |            |
 | THOUSAND     | thuzand         |         |         |         |            |
+| TWO THOUSAND | thwathuzand     |         |         |         |            |
 
 ## numerals-nort2628-1 / Low Saxon (North Dialect), Germany / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -6385,7 +7032,9 @@
 | EIGHTY       | thakhngtic    |         |         |         |            |
 | NINETY       | negngtic      |         |         |         |            |
 | HUNDRED      | hunert        |         |         |         |            |
+| TWO HUNDRED  | thveihunert   |         |         |         |            |
 | THOUSAND     | duznt         |         |         |         |            |
+| TWO THOUSAND | thveiduznt    |         |         |         |            |
 
 ## numerals-nort2645-1 / Luri, Iran / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6428,92 +7077,56 @@
 | EIGHTY       | hasta        |         |         |         |            |
 | NINETY       | nwd          |         |         |         |            |
 | HUNDRED      | sd           |         |         |         |            |
+| TWO HUNDRED  | divis / duis |         |         |         |            |
 | THOUSAND     | hezar        |         |         |         |            |
-
-## numerals-nort2954-1 / Northern Paiute, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
-
-| Concept      | Forms                           | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------------------------|:--------|:--------|:--------|:-----------|
-| ONE          | simiju                          |         | SEVEN   |         |            |
-| TWO          | wahaju                          |         |         |         |            |
-| THREE        | pahaiju / pahaiju / pahaiju     |         |         |         |            |
-| FOUR         | watsikwiju                      |         |         |         |            |
-| FIVE         | manigiju                        |         |         |         |            |
-| SIX          | napahaiju / napahaiju           |         |         |         |            |
-| SEVEN        | tatsimiju                       |         |         |         |            |
-| EIGHT        | woggwosiggwiju                  |         |         |         |            |
-| NINE         | simikaroju                      |         |         |         |            |
-| TEN          | simiminoju                      |         |         |         |            |
-| ELEVEN       | simiminojinosimimatsipuki       |         |         |         |            |
-| TWELVE       | simiminojinowahamatsipuki       |         |         |         |            |
-| THIRTEEN     | simiminojinopahematsipuki       |         |         |         |            |
-| FOURTEEN     | simiminojinowatsimatsipuki      |         |         |         |            |
-| FIFTEEN      | simiminojinomanigimatsipuki     |         |         |         |            |
-| SIXTEEN      | simiminojinonapahaimatsipuki    |         |         |         |            |
-| SEVENTEEN    | simiminojinotatsimimatsipuki    |         |         |         |            |
-| EIGHTEEN     | simiminojinowoggwosiggwijum     |         |         |         |            |
-| NINETEEN     | simiminojinosimikaroomatsipuki  |         |         |         |            |
-| TWENTY       | wahamanoju                      |         |         |         |            |
-| TWENTY ONE   | wahamanojusimimatsipuki         |         |         |         |            |
-| TWENTY TWO   | wahamanojuwahamatsipuki         |         |         |         |            |
-| TWENTY THREE | wahamanojupahematsipuki         |         |         |         |            |
-| TWENTY FOUR  | wahamanojuwatsiimatsipuki       |         |         |         |            |
-| TWENTY FIVE  | wahamanojumanigimatsipuki       |         |         |         |            |
-| TWENTY SIX   | wahamanojunapahaimatsipuki      |         |         |         |            |
-| TWENTY SEVEN | wahamanojutatsimimatsipuki      |         |         |         |            |
-| TWENTY EIGHT | wahamanojuwoggwosiggwimatsipuki |         |         |         |            |
-| TWENTY NINE  | wahamanojusimikaroomatsipuki    |         |         |         |            |
-| THIRTY       | pahemanoju                      |         |         |         |            |
-| FORTY        | watsikwimanoju                  |         |         |         |            |
-| FIFTY        | manigimanoju                    |         |         |         |            |
-| SIXTY        | napahemanoju                    |         |         |         |            |
-| SEVENTY      | taatsimimanoju                  |         |         |         |            |
-| EIGHTY       | woggwosiggwimanoju              |         |         |         |            |
-| HUNDRED      | wahajumanigimanoju              |         |         |         |            |
-| THOUSAND     | simiminojumanigimanoju          |         |         |         |            |
+| TWO THOUSAND | dohezar      |         |         |         |            |
 
 ## numerals-nort3139-1 / Levantine Arabic, Syria, Egypt / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | wahad          |         |         |         |            |
-| TWO          | tnen           |         |         |         |            |
-| THREE        | tlete          |         |         |         |            |
-| FOUR         | arba           |         |         |         |            |
-| FIVE         | xamse          |         |         |         |            |
-| SIX          | sitte          |         |         |         |            |
-| SEVEN        | saba           |         |         |         |            |
-| EIGHT        | tmene          |         |         |         |            |
-| NINE         | tisa           |         |         |         |            |
-| TEN          | asra           |         |         |         |            |
-| ELEVEN       | hdasarar       |         |         |         |            |
-| TWELVE       | tnaasar        |         |         |         |            |
-| THIRTEEN     | tletaasar      |         |         |         |            |
-| FOURTEEN     | arbataasar     |         |         |         |            |
-| FIFTEEN      | xamstataasarar |         |         |         |            |
-| SIXTEEN      | sittaasar      |         |         |         |            |
-| SEVENTEEN    | sabataasar     |         |         |         |            |
-| EIGHTEEN     | tmentaasar     |         |         |         |            |
-| NINETEEN     | tisataasar     |         |         |         |            |
-| TWENTY       | asrin          |         |         |         |            |
-| TWENTY ONE   | wahdawasrin    |         |         |         |            |
-| TWENTY TWO   | tnenawasrin    |         |         |         |            |
-| TWENTY THREE | tletawasrin    |         |         |         |            |
-| TWENTY FOUR  | arbawasrin     |         |         |         |            |
-| TWENTY FIVE  | xamsawasrin    |         |         |         |            |
-| TWENTY SIX   | sittawasrin    |         |         |         |            |
-| TWENTY SEVEN | sabawasrin     |         |         |         |            |
-| TWENTY EIGHT | tmenawasrin    |         |         |         |            |
-| TWENTY NINE  | tisawasrin     |         |         |         |            |
-| THIRTY       | tletin         |         |         |         |            |
-| FORTY        | arbain         |         |         |         |            |
-| FIFTY        | xamsin         |         |         |         |            |
-| SIXTY        | sittin         |         |         |         |            |
-| SEVENTY      | saban          |         |         |         |            |
-| EIGHTY       | tmenin         |         |         |         |            |
-| NINETY       | tisain         |         |         |         |            |
-| HUNDRED      | miyye          |         |         |         |            |
-| THOUSAND     | alf            |         |         |         |            |
+| Concept       | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------|:--------|:--------|:--------|:-----------|
+| ONE           | wahad          |         |         |         |            |
+| TWO           | tnen           |         |         |         |            |
+| THREE         | tlete          |         |         |         |            |
+| FOUR          | arba           |         |         |         |            |
+| FIVE          | xamse          |         |         |         |            |
+| SIX           | sitte          |         |         |         |            |
+| SEVEN         | saba           |         |         |         |            |
+| EIGHT         | tmene          |         |         |         |            |
+| NINE          | tisa           |         |         |         |            |
+| TEN           | asra           |         |         |         |            |
+| ELEVEN        | hdasarar       |         |         |         |            |
+| TWELVE        | tnaasar        |         |         |         |            |
+| THIRTEEN      | tletaasar      |         |         |         |            |
+| FOURTEEN      | arbataasar     |         |         |         |            |
+| FIFTEEN       | xamstataasarar |         |         |         |            |
+| SIXTEEN       | sittaasar      |         |         |         |            |
+| SEVENTEEN     | sabataasar     |         |         |         |            |
+| EIGHTEEN      | tmentaasar     |         |         |         |            |
+| NINETEEN      | tisataasar     |         |         |         |            |
+| TWENTY        | asrin          |         |         |         |            |
+| TWENTY ONE    | wahdawasrin    |         |         |         |            |
+| TWENTY TWO    | tnenawasrin    |         |         |         |            |
+| TWENTY THREE  | tletawasrin    |         |         |         |            |
+| TWENTY FOUR   | arbawasrin     |         |         |         |            |
+| TWENTY FIVE   | xamsawasrin    |         |         |         |            |
+| TWENTY SIX    | sittawasrin    |         |         |         |            |
+| TWENTY SEVEN  | sabawasrin     |         |         |         |            |
+| TWENTY EIGHT  | tmenawasrin    |         |         |         |            |
+| TWENTY NINE   | tisawasrin     |         |         |         |            |
+| THIRTY        | tletin         |         |         |         |            |
+| FORTY         | arbain         |         |         |         |            |
+| FIFTY         | xamsin         |         |         |         |            |
+| SIXTY         | sittin         |         |         |         |            |
+| SEVENTY       | saban          |         |         |         |            |
+| EIGHTY        | tmenin         |         |         |         |            |
+| NINETY        | tisain         |         |         |         |            |
+| HUNDRED       | miyye          |         |         |         |            |
+| TWO HUNDRED   | miten          |         |         |         |            |
+| FOUR HUNDRED  | arbamiyye      |         |         |         |            |
+| EIGHT HUNDRED | tmenmiyye      |         |         |         |            |
+| THOUSAND      | alf            |         |         |         |            |
+| TWO THOUSAND  | alfen          |         |         |         |            |
 
 ## numerals-nucl1305-1 / Kannada, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6556,7 +7169,9 @@
 | EIGHTY       | embhattu        |         |         |         |            |
 | NINETY       | tombhattu       |         |         |         |            |
 | HUNDRED      | nuru            |         |         |         |            |
+| TWO HUNDRED  | innuru          |         |         |         |            |
 | THOUSAND     | savira          |         |         |         |            |
+| TWO THOUSAND | eradusavira     |         |         |         |            |
 
 ## numerals-nucl1460-1 / Madurese, Java, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6599,7 +7214,9 @@
 | EIGHTY       | ballongpolo |         |         |         |            |
 | NINETY       | sangangpolo |         |         |         |            |
 | HUNDRED      | saratos     |         |         |         |            |
+| TWO HUNDRED  | doratos     |         |         |         |            |
 | THOUSAND     | saebo       |         |         |         |            |
+| TWO THOUSAND | doebo       |         |         |         |            |
 
 ## numerals-nyam1275-1 / Nyamwanga, Zambia, Tanzania / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -6642,7 +7259,9 @@
 | EIGHTY       | amakumivinekonsekoonse          |         |         |         |            |
 | NINETY       | amakumimunenulambaali           |         |         |         |            |
 | HUNDRED      | mwandaoongga                    |         |         |         |            |
+| TWO HUNDRED  | mwandayiwiili                   |         |         |         |            |
 | THOUSAND     | ikaana                          |         |         |         |            |
+| TWO THOUSAND | makanayawiili                   |         |         |         |            |
 
 ## numerals-oddd1238-1 / Oadki (Ok), Pakistan / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -6685,7 +7304,9 @@
 | EIGHTY       | asi      |         |         |         |            |
 | NINETY       | nave     |         |         |         |            |
 | HUNDRED      | sao      |         |         |         |            |
+| TWO HUNDRED  | onsao    |         |         |         |            |
 | THOUSAND     | hazar    |         |         |         |            |
+| TWO THOUSAND | onhazar  |         |         |         |            |
 
 ## numerals-okpa1238-1 / Okpamheri, Nigeria / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6728,7 +7349,9 @@
 | EIGHTY       | agbeletehie     |         |         |         |            |
 | NINETY       | agbeletesien    |         |         |         |            |
 | HUNDRED      | egbea           |         |         |         |            |
+| TWO HUNDRED  | akpaagu         |         |         |         |            |
 | THOUSAND     | akpoeva         |         |         |         |            |
+| TWO THOUSAND | ijisebhihuzie   |         |         |         |            |
 
 ## numerals-ormu1247-1 / Ormuri, Afghanistan / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -6771,50 +7394,56 @@
 | EIGHTY       | astai           |         |         |         |            |
 | NINETY       | astaiwides      |         |         |         |            |
 | HUNDRED      | so              |         |         |         |            |
+| TWO HUNDRED  | diosewa         |         |         |         |            |
 | THOUSAND     | zar             |         |         |         |            |
+| TWO THOUSAND | diozara         |         |         |         |            |
 
 ## numerals-osin1237-1 / Osing, Java Island, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------|:--------|:--------|:--------|:-----------|
-| ONE          | sidzi        |         |         |         |            |
-| TWO          | loro         |         |         |         |            |
-| THREE        | talau        |         |         |         |            |
-| FOUR         | ppat         |         |         |         |            |
-| FIVE         | limo         |         |         |         |            |
-| SIX          | anam         |         |         |         |            |
-| SEVEN        | pitau        |         |         |         |            |
-| EIGHT        | wolau        |         |         |         |            |
-| NINE         | sogo         |         |         |         |            |
-| TEN          | sapuluh      |         |         |         |            |
-| ELEVEN       | sawalas      |         |         |         |            |
-| TWELVE       | rolas        |         |         |         |            |
-| THIRTEEN     | talulas      |         |         |         |            |
-| FOURTEEN     | patbalas     |         |         |         |            |
-| FIFTEEN      | limobalas    |         |         |         |            |
-| SIXTEEN      | nambalas     |         |         |         |            |
-| SEVENTEEN    | pitublas     |         |         |         |            |
-| EIGHTEEN     | wolulas      |         |         |         |            |
-| NINETEEN     | sogolas      |         |         |         |            |
-| TWENTY       | rongpuluh    |         |         |         |            |
-| TWENTY ONE   | salikur      |         |         |         |            |
-| TWENTY TWO   | rolikur      |         |         |         |            |
-| TWENTY THREE | talulikur    |         |         |         |            |
-| TWENTY FOUR  | patlikur     |         |         |         |            |
-| TWENTY FIVE  | salawa       |         |         |         |            |
-| TWENTY SIX   | namlikur     |         |         |         |            |
-| TWENTY SEVEN | pitulikur    |         |         |         |            |
-| TWENTY EIGHT | wolulikur    |         |         |         |            |
-| TWENTY NINE  | sogolikur    |         |         |         |            |
-| THIRTY       | talngpuluh   |         |         |         |            |
-| FORTY        | patangpuluh  |         |         |         |            |
-| FIFTY        | sekat        |         |         |         |            |
-| SIXTY        | suwida       |         |         |         |            |
-| SEVENTY      | pitungpuluh  |         |         |         |            |
-| EIGHTY       | wolungpuluh  |         |         |         |            |
-| NINETY       | sangangpuluh |         |         |         |            |
-| HUNDRED      | satus        |         |         |         |            |
-| THOUSAND     | sewu         |         |         |         |            |
+| Concept       | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------|:--------|:--------|:--------|:-----------|
+| ONE           | sidzi        |         |         |         |            |
+| TWO           | loro         |         |         |         |            |
+| THREE         | talau        |         |         |         |            |
+| FOUR          | ppat         |         |         |         |            |
+| FIVE          | limo         |         |         |         |            |
+| SIX           | anam         |         |         |         |            |
+| SEVEN         | pitau        |         |         |         |            |
+| EIGHT         | wolau        |         |         |         |            |
+| NINE          | sogo         |         |         |         |            |
+| TEN           | sapuluh      |         |         |         |            |
+| ELEVEN        | sawalas      |         |         |         |            |
+| TWELVE        | rolas        |         |         |         |            |
+| THIRTEEN      | talulas      |         |         |         |            |
+| FOURTEEN      | patbalas     |         |         |         |            |
+| FIFTEEN       | limobalas    |         |         |         |            |
+| SIXTEEN       | nambalas     |         |         |         |            |
+| SEVENTEEN     | pitublas     |         |         |         |            |
+| EIGHTEEN      | wolulas      |         |         |         |            |
+| NINETEEN      | sogolas      |         |         |         |            |
+| TWENTY        | rongpuluh    |         |         |         |            |
+| TWENTY ONE    | salikur      |         |         |         |            |
+| TWENTY TWO    | rolikur      |         |         |         |            |
+| TWENTY THREE  | talulikur    |         |         |         |            |
+| TWENTY FOUR   | patlikur     |         |         |         |            |
+| TWENTY FIVE   | salawa       |         |         |         |            |
+| TWENTY SIX    | namlikur     |         |         |         |            |
+| TWENTY SEVEN  | pitulikur    |         |         |         |            |
+| TWENTY EIGHT  | wolulikur    |         |         |         |            |
+| TWENTY NINE   | sogolikur    |         |         |         |            |
+| THIRTY        | talngpuluh   |         |         |         |            |
+| FORTY         | patangpuluh  |         |         |         |            |
+| FIFTY         | sekat        |         |         |         |            |
+| SIXTY         | suwida       |         |         |         |            |
+| SEVENTY       | pitungpuluh  |         |         |         |            |
+| EIGHTY        | wolungpuluh  |         |         |         |            |
+| NINETY        | sangangpuluh |         |         |         |            |
+| HUNDRED       | satus        |         |         |         |            |
+| TWO HUNDRED   | rongatus     |         |         |         |            |
+| FOUR HUNDRED  | petangngatus |         |         |         |            |
+| EIGHT HUNDRED | wolungngatus |         |         |         |            |
+| THOUSAND      | sewu         |         |         |         |            |
+| TWO THOUSAND  | rongewu      |         |         |         |            |
 
 ## numerals-paez1247-1 / Páez (Nasa Yuwe), Colombia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6857,7 +7486,9 @@
 | EIGHTY       | tawmba      |         |         |         |            |
 | NINETY       | kjemba      |         |         |         |            |
 | HUNDRED      | etskan      |         |         |         |            |
+| TWO HUNDRED  | jekan       |         |         |         |            |
 | THOUSAND     | pkamb       |         |         |         |            |
+| TWO THOUSAND | jendzpkamb  |         |         |         |            |
 
 ## numerals-paha1251-1 / Pahari-Potwari, Pakistan, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6900,50 +7531,56 @@
 | EIGHTY       | assi    |         |         |         |            |
 | NINETY       | nawe    |         |         |         |            |
 | HUNDRED      | so      |         |         |         |            |
+| TWO HUNDRED  | doso    |         |         |         |            |
 | THOUSAND     | ekhazar |         |         |         |            |
+| TWO THOUSAND | dohazar |         |         |         |            |
 
 ## numerals-paly1238-1 / Bareli Palya, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | ek      |         |         |         |            |
-| TWO          | be      |         |         |         |            |
-| THREE        | tn      |         |         |         |            |
-| FOUR         | tsar    |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | tsoh    |         |         |         |            |
-| SEVEN        | hat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | now     |         |         |         |            |
-| TEN          | dh      |         |         |         |            |
-| ELEVEN       | gyare   |         |         |         |            |
-| TWELVE       | bare    |         |         |         |            |
-| THIRTEEN     | tere    |         |         |         |            |
-| FOURTEEN     | tsowde  |         |         |         |            |
-| FIFTEEN      | pndre   |         |         |         |            |
-| SIXTEEN      | dowwe   |         |         |         |            |
-| SEVENTEEN    | htre    |         |         |         |            |
-| EIGHTEEN     | atare   |         |         |         |            |
-| NINETEEN     | ogngahi |         |         |         |            |
-| TWENTY       | wih     |         |         |         |            |
-| TWENTY ONE   | ekis    |         |         |         |            |
-| TWENTY TWO   | bawis   |         |         |         |            |
-| TWENTY THREE | telis   |         |         |         |            |
-| TWENTY FOUR  | tsewi   |         |         |         |            |
-| TWENTY FIVE  | ptsihi  |         |         |         |            |
-| TWENTY SIX   | tshbis  |         |         |         |            |
-| TWENTY SEVEN | htabis  |         |         |         |            |
-| TWENTY EIGHT | atawis  |         |         |         |            |
-| TWENTY NINE  | ekkmtis |         |         |         |            |
-| THIRTY       | tis     |         |         |         |            |
-| FORTY        | tsawi   |         |         |         |            |
-| FIFTY        | ptsah   |         |         |         |            |
-| SIXTY        | tsat    |         |         |         |            |
-| SEVENTY      | httar   |         |         |         |            |
-| EIGHTY       | assi    |         |         |         |            |
-| NINETY       | dhkmho  |         |         |         |            |
-| HUNDRED      | ekho    |         |         |         |            |
-| THOUSAND     | ekhdzar |         |         |         |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------|:--------|:--------|:--------|:-----------|
+| ONE           | ek       |         |         |         |            |
+| TWO           | be       |         |         |         |            |
+| THREE         | tn       |         |         |         |            |
+| FOUR          | tsar     |         |         |         |            |
+| FIVE          | pats     |         |         |         |            |
+| SIX           | tsoh     |         |         |         |            |
+| SEVEN         | hat      |         |         |         |            |
+| EIGHT         | ath      |         |         |         |            |
+| NINE          | now      |         |         |         |            |
+| TEN           | dh       |         |         |         |            |
+| ELEVEN        | gyare    |         |         |         |            |
+| TWELVE        | bare     |         |         |         |            |
+| THIRTEEN      | tere     |         |         |         |            |
+| FOURTEEN      | tsowde   |         |         |         |            |
+| FIFTEEN       | pndre    |         |         |         |            |
+| SIXTEEN       | dowwe    |         |         |         |            |
+| SEVENTEEN     | htre     |         |         |         |            |
+| EIGHTEEN      | atare    |         |         |         |            |
+| NINETEEN      | ogngahi  |         |         |         |            |
+| TWENTY        | wih      |         |         |         |            |
+| TWENTY ONE    | ekis     |         |         |         |            |
+| TWENTY TWO    | bawis    |         |         |         |            |
+| TWENTY THREE  | telis    |         |         |         |            |
+| TWENTY FOUR   | tsewi    |         |         |         |            |
+| TWENTY FIVE   | ptsihi   |         |         |         |            |
+| TWENTY SIX    | tshbis   |         |         |         |            |
+| TWENTY SEVEN  | htabis   |         |         |         |            |
+| TWENTY EIGHT  | atawis   |         |         |         |            |
+| TWENTY NINE   | ekkmtis  |         |         |         |            |
+| THIRTY        | tis      |         |         |         |            |
+| FORTY         | tsawi    |         |         |         |            |
+| FIFTY         | ptsah    |         |         |         |            |
+| SIXTY         | tsat     |         |         |         |            |
+| SEVENTY       | httar    |         |         |         |            |
+| EIGHTY        | assi     |         |         |         |            |
+| NINETY        | dhkmho   |         |         |         |            |
+| HUNDRED       | ekho     |         |         |         |            |
+| TWO HUNDRED   | beho     |         |         |         |            |
+| FOUR HUNDRED  | tsarho   |         |         |         |            |
+| EIGHT HUNDRED | athho    |         |         |         |            |
+| THOUSAND      | ekhdzar  |         |         |         |            |
+| TWO THOUSAND  | behadzar |         |         |         |            |
 
 ## numerals-pamp1243-1 / Pampangan, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -6986,50 +7623,56 @@
 | EIGHTY       | walongpulo       |         |         |         |            |
 | NINETY       | siyamapulo       |         |         |         |            |
 | HUNDRED      | dinalan          |         |         |         |            |
+| TWO HUNDRED  | adwangdinalan    |         |         |         |            |
 | THOUSAND     | libo             |         |         |         |            |
+| TWO THOUSAND | adwanglibo       |         |         |         |            |
 
 ## numerals-pang1282-1 / Pangwali, Himachal Pradesh, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------------|:--------|:--------|:--------|:-----------|
-| ONE          | yak                |         |         |         |            |
-| TWO          | dui                |         |         |         |            |
-| THREE        | tai                |         |         |         |            |
-| FOUR         | tseur              |         |         |         |            |
-| FIVE         | pandz              |         |         |         |            |
-| SIX          | tshea              |         |         |         |            |
-| SEVEN        | sat                |         |         |         |            |
-| EIGHT        | ath                |         |         |         |            |
-| NINE         | neu                |         |         |         |            |
-| TEN          | des                |         |         |         |            |
-| ELEVEN       | gjarah             |         |         |         |            |
-| TWELVE       | barah              |         |         |         |            |
-| THIRTEEN     | terah              |         |         |         |            |
-| FOURTEEN     | tsouda             |         |         |         |            |
-| FIFTEEN      | pendrah            |         |         |         |            |
-| SIXTEEN      | solah              |         |         |         |            |
-| SEVENTEEN    | satarah            |         |         |         |            |
-| EIGHTEEN     | atharah            |         |         |         |            |
-| NINETEEN     | uni                |         |         |         |            |
-| TWENTY       | bi                 |         |         |         |            |
-| TWENTY ONE   | eki                |         |         |         |            |
-| TWENTY TWO   | bai                |         |         |         |            |
-| TWENTY THREE | trei               |         |         |         |            |
-| TWENTY FOUR  | tsebi              |         |         |         |            |
-| TWENTY FIVE  | pandzi             |         |         |         |            |
-| TWENTY SIX   | tshebi             |         |         |         |            |
-| TWENTY SEVEN | satai              |         |         |         |            |
-| TWENTY EIGHT | athai              |         |         |         |            |
-| TWENTY NINE  | unhati             |         |         |         |            |
-| THIRTY       | tih                |         |         |         |            |
-| FORTY        | tsari              |         |         |         |            |
-| FIFTY        | pandzha            |         |         |         |            |
-| SIXTY        | sath               |         |         |         |            |
-| SEVENTY      | satar              |         |         |         |            |
-| EIGHTY       | asi                |         |         |         |            |
-| NINETY       | nebe               |         |         |         |            |
-| HUNDRED      | sau                |         |         |         |            |
-| THOUSAND     | yakhadzar / hadzar |         |         |         |            |
+| Concept       | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------------|:--------|:--------|:--------|:-----------|
+| ONE           | yak                |         |         |         |            |
+| TWO           | dui                |         |         |         |            |
+| THREE         | tai                |         |         |         |            |
+| FOUR          | tseur              |         |         |         |            |
+| FIVE          | pandz              |         |         |         |            |
+| SIX           | tshea              |         |         |         |            |
+| SEVEN         | sat                |         |         |         |            |
+| EIGHT         | ath                |         |         |         |            |
+| NINE          | neu                |         |         |         |            |
+| TEN           | des                |         |         |         |            |
+| ELEVEN        | gjarah             |         |         |         |            |
+| TWELVE        | barah              |         |         |         |            |
+| THIRTEEN      | terah              |         |         |         |            |
+| FOURTEEN      | tsouda             |         |         |         |            |
+| FIFTEEN       | pendrah            |         |         |         |            |
+| SIXTEEN       | solah              |         |         |         |            |
+| SEVENTEEN     | satarah            |         |         |         |            |
+| EIGHTEEN      | atharah            |         |         |         |            |
+| NINETEEN      | uni                |         |         |         |            |
+| TWENTY        | bi                 |         |         |         |            |
+| TWENTY ONE    | eki                |         |         |         |            |
+| TWENTY TWO    | bai                |         |         |         |            |
+| TWENTY THREE  | trei               |         |         |         |            |
+| TWENTY FOUR   | tsebi              |         |         |         |            |
+| TWENTY FIVE   | pandzi             |         |         |         |            |
+| TWENTY SIX    | tshebi             |         |         |         |            |
+| TWENTY SEVEN  | satai              |         |         |         |            |
+| TWENTY EIGHT  | athai              |         |         |         |            |
+| TWENTY NINE   | unhati             |         |         |         |            |
+| THIRTY        | tih                |         |         |         |            |
+| FORTY         | tsari              |         |         |         |            |
+| FIFTY         | pandzha            |         |         |         |            |
+| SIXTY         | sath               |         |         |         |            |
+| SEVENTY       | satar              |         |         |         |            |
+| EIGHTY        | asi                |         |         |         |            |
+| NINETY        | nebe               |         |         |         |            |
+| HUNDRED       | sau                |         |         |         |            |
+| TWO HUNDRED   | duisau             |         |         |         |            |
+| FOUR HUNDRED  | tseursau           |         |         |         |            |
+| EIGHT HUNDRED | athsau             |         |         |         |            |
+| THOUSAND      | yakhadzar / hadzar |         |         |         |            |
+| TWO THOUSAND  | duihadzar          |         |         |         |            |
 
 ## numerals-papi1254-1 / Papitalai, Papua New Guinea / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -7072,6 +7715,7 @@
 | EIGHTY       | mandorungul    |         |         |         |            |
 | NINETY       | mondotongul    |         |         |         |            |
 | HUNDRED      | masangat       |         |         |         |            |
+| TWO HUNDRED  | morungat       |         |         |         |            |
 | THOUSAND     | patih          |         |         |         |            |
 
 ## numerals-para1299-1 / Parachi, Afghanistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
@@ -7115,49 +7759,54 @@
 | EIGHTY       | hastad     |         |         |         |            |
 | NINETY       | nawad      |         |         |         |            |
 | HUNDRED      | so         |         |         |         |            |
+| TWO HUNDRED  | diso       |         |         |         |            |
 
 ## numerals-pard1243-1 / Pardhi, Maharashtra State, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | ek      |         |         |         |            |
-| TWO          | bo      |         |         |         |            |
-| THREE        | tin     |         |         |         |            |
-| FOUR         | tsar    |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | tsho    |         |         |         |            |
-| SEVEN        | sat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | nw      |         |         |         |            |
-| TEN          | ds      |         |         |         |            |
-| ELEVEN       | gyara   |         |         |         |            |
-| TWELVE       | bara    |         |         |         |            |
-| THIRTEEN     | tera    |         |         |         |            |
-| FOURTEEN     | tswdha  |         |         |         |            |
-| FIFTEEN      | pdhra   |         |         |         |            |
-| SIXTEEN      | sola    |         |         |         |            |
-| SEVENTEEN    | stra    |         |         |         |            |
-| EIGHTEEN     | athra   |         |         |         |            |
-| NINETEEN     | ekonis  |         |         |         |            |
-| TWENTY       | vis     |         |         |         |            |
-| TWENTY ONE   | ekvis   |         |         |         |            |
-| TWENTY TWO   | bavis   |         |         |         |            |
-| TWENTY THREE | tevis   |         |         |         |            |
-| TWENTY FOUR  | tsovis  |         |         |         |            |
-| TWENTY FIVE  | ptsvis  |         |         |         |            |
-| TWENTY SIX   | swvis   |         |         |         |            |
-| TWENTY SEVEN | stavis  |         |         |         |            |
-| TWENTY EIGHT | athavis |         |         |         |            |
-| TWENTY NINE  | ekontis |         |         |         |            |
-| THIRTY       | tis     |         |         |         |            |
-| FORTY        | tsalis  |         |         |         |            |
-| FIFTY        | pndzas  |         |         |         |            |
-| SIXTY        | sath    |         |         |         |            |
-| SEVENTY      | sttr    |         |         |         |            |
-| EIGHTY       | ashi    |         |         |         |            |
-| NINETY       | nwwhd   |         |         |         |            |
-| HUNDRED      | shmbar  |         |         |         |            |
-| THOUSAND     | hdzar   |         |         |         |            |
+| Concept       | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:--------|:--------|:--------|:--------|:-----------|
+| ONE           | ek      |         |         |         |            |
+| TWO           | bo      |         |         |         |            |
+| THREE         | tin     |         |         |         |            |
+| FOUR          | tsar    |         |         |         |            |
+| FIVE          | pats    |         |         |         |            |
+| SIX           | tsho    |         |         |         |            |
+| SEVEN         | sat     |         |         |         |            |
+| EIGHT         | ath     |         |         |         |            |
+| NINE          | nw      |         |         |         |            |
+| TEN           | ds      |         |         |         |            |
+| ELEVEN        | gyara   |         |         |         |            |
+| TWELVE        | bara    |         |         |         |            |
+| THIRTEEN      | tera    |         |         |         |            |
+| FOURTEEN      | tswdha  |         |         |         |            |
+| FIFTEEN       | pdhra   |         |         |         |            |
+| SIXTEEN       | sola    |         |         |         |            |
+| SEVENTEEN     | stra    |         |         |         |            |
+| EIGHTEEN      | athra   |         |         |         |            |
+| NINETEEN      | ekonis  |         |         |         |            |
+| TWENTY        | vis     |         |         |         |            |
+| TWENTY ONE    | ekvis   |         |         |         |            |
+| TWENTY TWO    | bavis   |         |         |         |            |
+| TWENTY THREE  | tevis   |         |         |         |            |
+| TWENTY FOUR   | tsovis  |         |         |         |            |
+| TWENTY FIVE   | ptsvis  |         |         |         |            |
+| TWENTY SIX    | swvis   |         |         |         |            |
+| TWENTY SEVEN  | stavis  |         |         |         |            |
+| TWENTY EIGHT  | athavis |         |         |         |            |
+| TWENTY NINE   | ekontis |         |         |         |            |
+| THIRTY        | tis     |         |         |         |            |
+| FORTY         | tsalis  |         |         |         |            |
+| FIFTY         | pndzas  |         |         |         |            |
+| SIXTY         | sath    |         |         |         |            |
+| SEVENTY       | sttr    |         |         |         |            |
+| EIGHTY        | ashi    |         |         |         |            |
+| NINETY        | nwwhd   |         |         |         |            |
+| HUNDRED       | shmbar  |         |         |         |            |
+| TWO HUNDRED   | bso     |         |         |         |            |
+| FOUR HUNDRED  | tsarso  |         |         |         |            |
+| EIGHT HUNDRED | athso   |         |         |         |            |
+| THOUSAND      | hdzar   |         |         |         |            |
+| TWO THOUSAND  | bhadzar |         |         |         |            |
 
 ## numerals-poum1235-1 / Poumai Naga (Poula), India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7200,7 +7849,9 @@
 | EIGHTY       | raitca    |         |         |         |            |
 | NINETY       | raika     |         |         |         |            |
 | HUNDRED      | kai       |         |         |         |            |
+| TWO HUNDRED  | kaingai   |         |         |         |            |
 | THOUSAND     | theli     |         |         |         |            |
+| TWO THOUSAND | thengai   |         |         |         |            |
 
 ## numerals-poum1235-2 / Oinam Naga, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -7243,7 +7894,9 @@
 | EIGHTY       | raitca       |         |         |         |            |
 | NINETY       | raiku        |         |         |         |            |
 | HUNDRED      | kila         |         |         |         |            |
+| TWO HUNDRED  | kidi         |         |         |         |            |
 | THOUSAND     | thangla      |         |         |         |            |
+| TWO THOUSAND | thangdi      |         |         |         |            |
 
 ## numerals-poum1235-3 / Poumai Naga, India / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7286,7 +7939,9 @@
 | EIGHTY       | rai2ca4       |         |         |         |            |
 | NINETY       | rai2kwa2      |         |         |         |            |
 | HUNDRED      | trai1         |         |         |         |            |
+| TWO HUNDRED  | trai1hai3     |         |         |         |            |
 | THOUSAND     | the1          |         |         |         |            |
+| TWO THOUSAND | the1a1hai3    |         |         |         |            |
 
 ## numerals-qima1242-1 / Kimant (Qimant), Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7329,7 +7984,9 @@
 | EIGHTY       | sagwating        |         |         |         |            |
 | NINETY       | sassing          |         |         |         |            |
 | HUNDRED      | lig              |         |         |         |            |
+| TWO HUNDRED  | lingalig         |         |         |         |            |
 | THOUSAND     | si               |         |         |         |            |
+| TWO THOUSAND | lingasi          |         |         |         |            |
 
 ## numerals-quin1251-1 / Quinault, USA / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7372,6 +8029,7 @@
 | EIGHTY       | camustaltumis                 |         |         |         |            |
 | NINETY       | tugwixwnaltumis               |         |         |         |            |
 | HUNDRED      | panakstaltumis                |         |         |         |            |
+| TWO HUNDRED  | camspanakstaltumis            |         |         |         |            |
 | THOUSAND     | panikstalpanakstaltumis       |         |         |         |            |
 
 ## numerals-rajb1243-1 / Rajbanshi, Nepal, India, Bangladesh / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
@@ -7415,7 +8073,9 @@
 | EIGHTY       | assi                |         |         |         |            |
 | NINETY       | nbbe                |         |         |         |            |
 | HUNDRED      | s / eksou           |         |         |         |            |
+| TWO HUNDRED  | duis                |         |         |         |            |
 | THOUSAND     | ekhadzar / ekhadzar |         |         |         |            |
+| TWO THOUSAND | duihadzar           |         |         |         |            |
 
 ## numerals-rata1244-1 / Ratahan, Sulawesi, Indonesia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7458,7 +8118,9 @@
 | EIGHTY       | balumpulo    |         |         |         |            |
 | NINETY       | siaumpulo    |         |         |         |            |
 | HUNDRED      | sangaren     |         |         |         |            |
+| TWO HUNDRED  | ruangaren    |         |         |         |            |
 | THOUSAND     | suibu        |         |         |         |            |
+| TWO THOUSAND | ruaibu       |         |         |         |            |
 
 ## numerals-ravu1237-1 / Yerava (Ravula), India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7501,50 +8163,56 @@
 | EIGHTY       | embadu         |         |         |         |            |
 | NINETY       | tombadu        |         |         |         |            |
 | HUNDRED      | nuru           |         |         |         |            |
+| TWO HUNDRED  | irunuru        |         |         |         |            |
 | THOUSAND     | ajira          |         |         |         |            |
+| TWO THOUSAND | irandajira     |         |         |         |            |
 
 ## numerals-remo1247-1 / Remontado, Luzon, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | isa            |         |         |         |            |
-| TWO          | dara           |         |         |         |            |
-| THREE        | tatlu          |         |         |         |            |
-| FOUR         | apat           |         |         |         |            |
-| FIVE         | lima           |         |         |         |            |
-| SIX          | anim           |         |         |         |            |
-| SEVEN        | pitu           |         |         |         |            |
-| EIGHT        | walu           |         |         |         |            |
-| NINE         | sijam          |         |         |         |            |
-| TEN          | sampu          |         |         |         |            |
-| ELEVEN       | labingisa      |         |         |         |            |
-| TWELVE       | labingdara     |         |         |         |            |
-| THIRTEEN     | labingtatlu    |         |         |         |            |
-| FOURTEEN     | labing         |         |         |         |            |
-| FIFTEEN      | labinglima     |         |         |         |            |
-| SIXTEEN      | labinganim     |         |         |         |            |
-| SEVENTEEN    | labingpitu     |         |         |         |            |
-| EIGHTEEN     | labingwalu     |         |         |         |            |
-| NINETEEN     | labingsijam    |         |         |         |            |
-| TWENTY       | darangpu       |         |         |         |            |
-| TWENTY ONE   | darangputisa   |         |         |         |            |
-| TWENTY TWO   | darangputdara  |         |         |         |            |
-| TWENTY THREE | darangputtatlu |         |         |         |            |
-| TWENTY FOUR  | darangputapat  |         |         |         |            |
-| TWENTY FIVE  | darangputlima  |         |         |         |            |
-| TWENTY SIX   | darangputanim  |         |         |         |            |
-| TWENTY SEVEN | darangputpitu  |         |         |         |            |
-| TWENTY EIGHT | darangputwalu  |         |         |         |            |
-| TWENTY NINE  | darangputsijam |         |         |         |            |
-| THIRTY       | tatlungpu      |         |         |         |            |
-| FORTY        | apatnapu       |         |         |         |            |
-| FIFTY        | limangpu       |         |         |         |            |
-| SIXTY        | animnapu       |         |         |         |            |
-| SEVENTY      | pitungpu       |         |         |         |            |
-| EIGHTY       | walungpu       |         |         |         |            |
-| NINETY       | sijamnapu      |         |         |         |            |
-| HUNDRED      | sangdaan       |         |         |         |            |
-| THOUSAND     | isanglibu      |         |         |         |            |
+| Concept       | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------|:--------|:--------|:--------|:-----------|
+| ONE           | isa            |         |         |         |            |
+| TWO           | dara           |         |         |         |            |
+| THREE         | tatlu          |         |         |         |            |
+| FOUR          | apat           |         |         |         |            |
+| FIVE          | lima           |         |         |         |            |
+| SIX           | anim           |         |         |         |            |
+| SEVEN         | pitu           |         |         |         |            |
+| EIGHT         | walu           |         |         |         |            |
+| NINE          | sijam          |         |         |         |            |
+| TEN           | sampu          |         |         |         |            |
+| ELEVEN        | labingisa      |         |         |         |            |
+| TWELVE        | labingdara     |         |         |         |            |
+| THIRTEEN      | labingtatlu    |         |         |         |            |
+| FOURTEEN      | labing         |         |         |         |            |
+| FIFTEEN       | labinglima     |         |         |         |            |
+| SIXTEEN       | labinganim     |         |         |         |            |
+| SEVENTEEN     | labingpitu     |         |         |         |            |
+| EIGHTEEN      | labingwalu     |         |         |         |            |
+| NINETEEN      | labingsijam    |         |         |         |            |
+| TWENTY        | darangpu       |         |         |         |            |
+| TWENTY ONE    | darangputisa   |         |         |         |            |
+| TWENTY TWO    | darangputdara  |         |         |         |            |
+| TWENTY THREE  | darangputtatlu |         |         |         |            |
+| TWENTY FOUR   | darangputapat  |         |         |         |            |
+| TWENTY FIVE   | darangputlima  |         |         |         |            |
+| TWENTY SIX    | darangputanim  |         |         |         |            |
+| TWENTY SEVEN  | darangputpitu  |         |         |         |            |
+| TWENTY EIGHT  | darangputwalu  |         |         |         |            |
+| TWENTY NINE   | darangputsijam |         |         |         |            |
+| THIRTY        | tatlungpu      |         |         |         |            |
+| FORTY         | apatnapu       |         |         |         |            |
+| FIFTY         | limangpu       |         |         |         |            |
+| SIXTY         | animnapu       |         |         |         |            |
+| SEVENTY       | pitungpu       |         |         |         |            |
+| EIGHTY        | walungpu       |         |         |         |            |
+| NINETY        | sijamnapu      |         |         |         |            |
+| HUNDRED       | sangdaan       |         |         |         |            |
+| TWO HUNDRED   | darangdaan     |         |         |         |            |
+| THREE HUNDRED | tatlungdaan    |         |         |         |            |
+| FOUR HUNDRED  | apatnadaan     |         |         |         |            |
+| THOUSAND      | isanglibu      |         |         |         |            |
+| TWO THOUSAND  | daranglibu     |         |         |         |            |
 
 ## numerals-rovi1238-1 / Roviana, Solomon Islands / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7587,7 +8255,9 @@
 | EIGHTY       | besungabulu   |         |         |         |            |
 | NINETY       | siangabulu    |         |         |         |            |
 | HUNDRED      | kekegogoto    |         |         |         |            |
+| TWO HUNDRED  | karuagogoto   |         |         |         |            |
 | THOUSAND     | keketina      |         |         |         |            |
+| TWO THOUSAND | karuatina     |         |         |         |            |
 
 ## numerals-rutu1240-1 / Rutul, Russia, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7630,7 +8300,9 @@
 | EIGHTY       | mijtsir     |         |         |         |            |
 | NINETY       | judtsur     |         |         |         |            |
 | HUNDRED      | ves         |         |         |         |            |
+| TWO HUNDRED  | qwadves     |         |         |         |            |
 | THOUSAND     | harzir      |         |         |         |            |
+| TWO THOUSAND | qwadharzir  |         |         |         |            |
 
 ## numerals-rutu1240-2 / Rutul, Russia, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7716,51 +8388,55 @@
 | EIGHTY       | hesta                    |         |         |         |            |
 | NINETY       | naevij                   |         |         |         |            |
 | HUNDRED      | sej                      |         |         |         |            |
+| TWO HUNDRED  | dovist                   |         |         |         |            |
 | THOUSAND     | hezar                    |         |         |         |            |
+| TWO THOUSAND | duhezar                  |         |         |         |            |
 
 ## numerals-sanj1275-1 / Northwest Pashai (Sanjan), Afghanistan / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms        | Fiver   | Twoer   | Tener      | Twentier   |
-|:-------------|:-------------|:--------|:--------|:-----------|:-----------|
-| ONE          | juwal        |         |         |            |            |
-| TWO          | dowal        |         |         |            |            |
-| THREE        | tra          |         |         |            |            |
-| FOUR         | tsur         |         |         |            |            |
-| FIVE         | pandza       |         |         |            |            |
-| SIX          | se           |         |         |            |            |
-| SEVEN        | sata         |         |         |            |            |
-| EIGHT        | asta         |         |         |            |            |
-| NINE         | nawa         |         |         |            |            |
-| TEN          | da           |         |         |            |            |
-| ELEVEN       | zuj          |         |         |            |            |
-| TWELVE       | duj          |         |         |            |            |
-| THIRTEEN     | triju        |         |         |            |            |
-| FOURTEEN     | tsada        |         |         |            |            |
-| FIFTEEN      | pandzi       |         |         |            |            |
-| SIXTEEN      | suj          |         |         |            |            |
-| SEVENTEEN    | sati         |         |         |            |            |
-| EIGHTEEN     | asti         |         |         |            |            |
-| NINETEEN     | nawi         |         |         |            |            |
-| TWENTY       | wast         |         |         |            |            |
-| TWENTY ONE   | wastai       |         |         |            |            |
-| TWENTY TWO   | wastado      |         |         |            |            |
-| TWENTY THREE | wastatra     |         |         |            |            |
-| TWENTY FOUR  | wastatsur    |         |         |            |            |
-| TWENTY FIVE  | wastapaandza |         |         |            |            |
-| TWENTY SIX   | wastase      |         |         |            |            |
-| TWENTY SEVEN | wastasata    |         |         |            |            |
-| TWENTY EIGHT | wastaasta    |         |         |            |            |
-| TWENTY NINE  | wastanawa    |         |         |            |            |
-| THIRTY       | triju        |         |         | THIRTY ONE |            |
-| THIRTY ONE   | trijui       |         |         |            |            |
-| FORTY        | tsel         |         |         |            |            |
-| FIFTY        | pendza       |         |         |            |            |
-| SIXTY        | sast         |         |         |            |            |
-| SEVENTY      | haftad       |         |         |            |            |
-| EIGHTY       | hastad       |         |         |            |            |
-| NINETY       | nawad        |         |         |            |            |
-| HUNDRED      | sad          |         |         |            |            |
-| THOUSAND     | ihazar       |         |         |            |            |
+| Concept                | Forms        | Fiver   | Twoer   | Tener      | Twentier   |
+|:-----------------------|:-------------|:--------|:--------|:-----------|:-----------|
+| ONE                    | juwal        |         |         |            |            |
+| TWO                    | dowal        |         |         |            |            |
+| THREE                  | tra          |         |         |            |            |
+| FOUR                   | tsur         |         |         |            |            |
+| FIVE                   | pandza       |         |         |            |            |
+| SIX                    | se           |         |         |            |            |
+| SEVEN                  | sata         |         |         |            |            |
+| EIGHT                  | asta         |         |         |            |            |
+| NINE                   | nawa         |         |         |            |            |
+| TEN                    | da           |         |         |            |            |
+| ELEVEN                 | zuj          |         |         |            |            |
+| TWELVE                 | duj          |         |         |            |            |
+| THIRTEEN               | triju        |         |         |            |            |
+| FOURTEEN               | tsada        |         |         |            |            |
+| FIFTEEN                | pandzi       |         |         |            |            |
+| SIXTEEN                | suj          |         |         |            |            |
+| SEVENTEEN              | sati         |         |         |            |            |
+| EIGHTEEN               | asti         |         |         |            |            |
+| NINETEEN               | nawi         |         |         |            |            |
+| TWENTY                 | wast         |         |         |            |            |
+| TWENTY ONE             | wastai       |         |         |            |            |
+| TWENTY TWO             | wastado      |         |         |            |            |
+| TWENTY THREE           | wastatra     |         |         |            |            |
+| TWENTY FOUR            | wastatsur    |         |         |            |            |
+| TWENTY FIVE            | wastapaandza |         |         |            |            |
+| TWENTY SIX             | wastase      |         |         |            |            |
+| TWENTY SEVEN           | wastasata    |         |         |            |            |
+| TWENTY EIGHT           | wastaasta    |         |         |            |            |
+| TWENTY NINE            | wastanawa    |         |         |            |            |
+| THIRTY                 | triju        |         |         | THIRTY ONE |            |
+| THIRTY ONE             | trijui       |         |         |            |            |
+| FORTY                  | tsel         |         |         |            |            |
+| FIFTY                  | pendza       |         |         |            |            |
+| SIXTY                  | sast         |         |         |            |            |
+| SEVENTY                | haftad       |         |         |            |            |
+| EIGHTY                 | hastad       |         |         |            |            |
+| NINETY                 | nawad        |         |         |            |            |
+| HUNDRED                | sad          |         |         |            |            |
+| ONE HUNDRED AND TWENTY | isaduwast    |         |         |            |            |
+| TWO HUNDRED            | dosad        |         |         |            |            |
+| THOUSAND               | ihazar       |         |         |            |            |
 
 ## numerals-scan1238-1 / Scanian, Sweden / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7803,7 +8479,9 @@
 | EIGHTY       | oati         |         |         |         |            |
 | NINETY       | niti         |         |         |         |            |
 | HUNDRED      | hondra       |         |         |         |            |
+| TWO HUNDRED  | tveuhondra   |         |         |         |            |
 | THOUSAND     | tusan        |         |         |         |            |
+| TWO THOUSAND | tveutusan    |         |         |         |            |
 
 ## numerals-seke1240-1 / Seke (Tangbe dialect), Nepal / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7846,7 +8524,9 @@
 | EIGHTY       | lkyacyu        |         |         |         |            |
 | NINETY       | lkopcyu        |         |         |         |            |
 | HUNDRED      | lpra           |         |         |         |            |
+| TWO HUNDRED  | lnippra        |         |         |         |            |
 | THOUSAND     | htangtalki     |         |         |         |            |
+| TWO THOUSAND | htangtalni     |         |         |         |            |
 
 ## numerals-sema1269-1 / Semandang /Kualan, Indonesia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -7889,7 +8569,9 @@
 | EIGHTY       | lapanpuloh      |         |         |         |            |
 | NINETY       | samilanpuloh    |         |         |         |            |
 | HUNDRED      | saratus         |         |         |         |            |
+| TWO HUNDRED  | duaratus        |         |         |         |            |
 | THOUSAND     | saribu          |         |         |         |            |
+| TWO THOUSAND | duaribu         |         |         |         |            |
 
 ## numerals-sena1268-1 / Senaya, Iran, USA, Australia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.04
 
@@ -7932,7 +8614,9 @@
 | EIGHTY       | tmani                    |         |         |         |            |
 | NINETY       | tesi                     |         |         |         |            |
 | HUNDRED      | ama                      |         |         |         |            |
+| TWO HUNDRED  | treama                   |         |         |         |            |
 | THOUSAND     | alpa                     |         |         |         |            |
+| TWO THOUSAND | trealpa                  |         |         |         |            |
 
 ## numerals-seng1278-1 / Sengele, DR of the Congo, Congo / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -7975,7 +8659,9 @@
 | EIGHTY       | mongwambi           |         |         |         |            |
 | NINETY       | mowua               |         |         |         |            |
 | HUNDRED      | mongkama            |         |         |         |            |
+| TWO HUNDRED  | minkamaipe          |         |         |         |            |
 | THOUSAND     | midi                |         |         |         |            |
+| TWO THOUSAND | midiipe             |         |         |         |            |
 
 ## numerals-sera1259-2 / Siraiki, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8018,7 +8704,9 @@
 | EIGHTY       | esi      |         |         |         |            |
 | NINETY       | nive     |         |         |         |            |
 | HUNDRED      | seo      |         |         |         |            |
+| TWO HUNDRED  | duseo    |         |         |         |            |
 | THOUSAND     | hezar    |         |         |         |            |
+| TWO THOUSAND | duhezar  |         |         |         |            |
 
 ## numerals-sind1272-1 / Sindhi, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8061,7 +8749,9 @@
 | EIGHTY       | asi        |         |         |         |            |
 | NINETY       | nave       |         |         |         |            |
 | HUNDRED      | sau        |         |         |         |            |
+| TWO HUNDRED  | besau      |         |         |         |            |
 | THOUSAND     | hazarsu    |         |         |         |            |
+| TWO THOUSAND | behazara   |         |         |         |            |
 
 ## numerals-sinh1246-1 / Sinhala, Sri Lanka / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -8104,7 +8794,9 @@
 | EIGHTY       | asuva / asu       |         |         |         |            |
 | NINETY       | anuva / anu       |         |         |         |            |
 | HUNDRED      | ekasija           |         |         |         |            |
+| TWO HUNDRED  | desija            |         |         |         |            |
 | THOUSAND     | ekadaha           |         |         |         |            |
+| TWO THOUSAND | dedaha            |         |         |         |            |
 
 ## numerals-sout2642-1 / Southern Balochi, Pakistan, Iran / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8147,50 +8839,56 @@
 | EIGHTY       | stad / hstad         |         |         |         |            |
 | NINETY       | nwd                  |         |         |         |            |
 | HUNDRED      | sd                   |         |         |         |            |
+| TWO HUNDRED  | dosd                 |         |         |         |            |
 | THOUSAND     | zar / hzar           |         |         |         |            |
+| TWO THOUSAND | dozar                |         |         |         |            |
 
 ## numerals-sout2732-1 / Western Rengma, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------------|:--------|:--------|:--------|:-----------|
-| ONE          | kame               |         |         |         |            |
-| TWO          | keihju             |         |         |         |            |
-| THREE        | teisen             |         |         |         |            |
-| FOUR         | padze              |         |         |         |            |
-| FIVE         | fung               |         |         |         |            |
-| SIX          | saro               |         |         |         |            |
-| SEVEN        | seni               |         |         |         |            |
-| EIGHT        | tassi              |         |         |         |            |
-| NINE         | taky               |         |         |         |            |
-| TEN          | sarre              |         |         |         |            |
-| ELEVEN       | sareugame          |         |         |         |            |
-| TWELVE       | sareugeihju        |         |         |         |            |
-| THIRTEEN     | sareugeisen        |         |         |         |            |
-| FOURTEEN     | sareupadze         |         |         |         |            |
-| FIFTEEN      | sareufung          |         |         |         |            |
-| SIXTEEN      | sareusaro          |         |         |         |            |
-| SEVENTEEN    | sareuseni          |         |         |         |            |
-| EIGHTEEN     | sareutassi         |         |         |         |            |
-| NINETEEN     | sareutaky          |         |         |         |            |
-| TWENTY       | nki                |         |         |         |            |
-| TWENTY ONE   | nkikame / nkime    |         |         |         |            |
-| TWENTY TWO   | nkikeihju / nkihju |         |         |         |            |
-| TWENTY THREE | nkiteisen / nkisen |         |         |         |            |
-| TWENTY FOUR  | nkipadze / nkidze  |         |         |         |            |
-| TWENTY FIVE  | nkifung            |         |         |         |            |
-| TWENTY SIX   | nkisaro            |         |         |         |            |
-| TWENTY SEVEN | nkiseni            |         |         |         |            |
-| TWENTY EIGHT | nkitassi           |         |         |         |            |
-| TWENTY NINE  | nkitaky            |         |         |         |            |
-| THIRTY       | senre              |         |         |         |            |
-| FORTY        | hendze             |         |         |         |            |
-| FIFTY        | hemfung            |         |         |         |            |
-| SIXTY        | hensaro            |         |         |         |            |
-| SEVENTY      | henseni            |         |         |         |            |
-| EIGHTY       | hentassi           |         |         |         |            |
-| NINETY       | hentaky            |         |         |         |            |
-| HUNDRED      | tsime              |         |         |         |            |
-| THOUSAND     | semme              |         |         |         |            |
+| Concept       | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------------|:--------|:--------|:--------|:-----------|
+| ONE           | kame               |         |         |         |            |
+| TWO           | keihju             |         |         |         |            |
+| THREE         | teisen             |         |         |         |            |
+| FOUR          | padze              |         |         |         |            |
+| FIVE          | fung               |         |         |         |            |
+| SIX           | saro               |         |         |         |            |
+| SEVEN         | seni               |         |         |         |            |
+| EIGHT         | tassi              |         |         |         |            |
+| NINE          | taky               |         |         |         |            |
+| TEN           | sarre              |         |         |         |            |
+| ELEVEN        | sareugame          |         |         |         |            |
+| TWELVE        | sareugeihju        |         |         |         |            |
+| THIRTEEN      | sareugeisen        |         |         |         |            |
+| FOURTEEN      | sareupadze         |         |         |         |            |
+| FIFTEEN       | sareufung          |         |         |         |            |
+| SIXTEEN       | sareusaro          |         |         |         |            |
+| SEVENTEEN     | sareuseni          |         |         |         |            |
+| EIGHTEEN      | sareutassi         |         |         |         |            |
+| NINETEEN      | sareutaky          |         |         |         |            |
+| TWENTY        | nki                |         |         |         |            |
+| TWENTY ONE    | nkikame / nkime    |         |         |         |            |
+| TWENTY TWO    | nkikeihju / nkihju |         |         |         |            |
+| TWENTY THREE  | nkiteisen / nkisen |         |         |         |            |
+| TWENTY FOUR   | nkipadze / nkidze  |         |         |         |            |
+| TWENTY FIVE   | nkifung            |         |         |         |            |
+| TWENTY SIX    | nkisaro            |         |         |         |            |
+| TWENTY SEVEN  | nkiseni            |         |         |         |            |
+| TWENTY EIGHT  | nkitassi           |         |         |         |            |
+| TWENTY NINE   | nkitaky            |         |         |         |            |
+| THIRTY        | senre              |         |         |         |            |
+| FORTY         | hendze             |         |         |         |            |
+| FIFTY         | hemfung            |         |         |         |            |
+| SIXTY         | hensaro            |         |         |         |            |
+| SEVENTY       | henseni            |         |         |         |            |
+| EIGHTY        | hentassi           |         |         |         |            |
+| NINETY        | hentaky            |         |         |         |            |
+| HUNDRED       | tsime              |         |         |         |            |
+| TWO HUNDRED   | tsihju             |         |         |         |            |
+| FOUR HUNDRED  | tsidzje            |         |         |         |            |
+| EIGHT HUNDRED | tsitassi           |         |         |         |            |
+| THOUSAND      | semme              |         |         |         |            |
+| TWO THOUSAND  | senhju             |         |         |         |            |
 
 ## numerals-sout2750-1 / Southern Yukaghir, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8233,7 +8931,9 @@
 | EIGHTY       | malgilakunkunel         |         |         |         |            |
 | NINETY       | kunirkilbozhakunel      |         |         |         |            |
 | HUNDRED      | kunelkunel / sto        |         |         |         |            |
+| TWO HUNDRED  | ataqunsto               |         |         |         |            |
 | THOUSAND     | tysjaca / irkintysjaca  |         |         |         |            |
+| TWO THOUSAND | ataquntysjaca           |         |         |         |            |
 
 ## numerals-sout2750-2 / Southern Yukaghir, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8276,6 +8976,7 @@
 | EIGHTY       | malgilakunkunel         |         |         |         |            |
 | NINETY       | kunirkilbozhakunel      |         |         |         |            |
 | HUNDRED      | kunelkunel / sto        |         |         |         |            |
+| TWO HUNDRED  | ataqunsto               |         |         |         |            |
 
 ## numerals-sout2905-1 / Southern Alta, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8318,7 +9019,9 @@
 | EIGHTY       | walompu                 |         |         |         |            |
 | NINETY       | siyamnapu               |         |         |         |            |
 | HUNDRED      | isadutadean             |         |         |         |            |
+| TWO HUNDRED  | iduadean                |         |         |         |            |
 | THOUSAND     | isadutalebo             |         |         |         |            |
+| TWO THOUSAND | iduaalebo               |         |         |         |            |
 
 ## numerals-sout2961-1 / Southern Tiwa, USA / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -8361,7 +9064,9 @@
 | EIGHTY       | hwiriti         |         |         |         |            |
 | NINETY       | hoati           |         |         |         |            |
 | HUNDRED      | tiwitati        |         |         |         |            |
+| TWO HUNDRED  | witiwitati      |         |         |         |            |
 | THOUSAND     | wimtusena / mil |         |         |         |            |
+| TWO THOUSAND | witusena        |         |         |         |            |
 
 ## numerals-sout3261-2 / Tanti Dargwa, Daghestan, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8404,93 +9109,99 @@
 | EIGHTY       | ketsale        |         |         |         |            |
 | NINETY       | urtsemtsale    |         |         |         |            |
 | HUNDRED      | dars           |         |         |         |            |
+| TWO HUNDRED  | tsudars        |         |         |         |            |
 | THOUSAND     | hazir          |         |         |         |            |
+| TWO THOUSAND | tsuazir        |         |         |         |            |
 
 ## numerals-sude1239-2 / Sudest, Papua New Guinea / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.04
 
-| Concept      | Forms                     | Fiver   | Twoer   | Tener      | Twentier   |
-|:-------------|:--------------------------|:--------|:--------|:-----------|:-----------|
-| ONE          | ra / rega                 |         |         |            |            |
-| TWO          | iwo / gewo                |         | SIX     | TWENTY SIX |            |
-| THREE        | to / geto                 |         |         |            |            |
-| FOUR         | vari / gevari             |         |         |            |            |
-| FIVE         | lima / gelima             |         |         |            |            |
-| SIX          | wona / gewona             |         |         |            |            |
-| SEVEN        | piri / gepiri             |         |         |            |            |
-| EIGHT        | wa / gewa                 |         |         |            |            |
-| NINE         | siwo / gesiwo             |         |         |            |            |
-| TEN          | yawora                    |         |         |            |            |
-| ELEVEN       | yaworanarega              |         |         |            |            |
-| TWELVE       | yaworanagewo              |         |         |            |            |
-| THIRTEEN     | yaworanageto              |         |         |            |            |
-| FOURTEEN     | yaworanagevari            |         |         |            |            |
-| FIFTEEN      | yaworanagelima            |         |         |            |            |
-| SIXTEEN      | yaworanagewona            |         |         |            |            |
-| SEVENTEEN    | yaworanagepiri            |         |         |            |            |
-| EIGHTEEN     | yaworanagewa              |         |         |            |            |
-| NINETEEN     | yaworanagesiwo            |         |         |            |            |
-| TWENTY       | iyeiwo                    |         |         |            |            |
-| TWENTY ONE   | iyeiwonarega              |         |         |            |            |
-| TWENTY TWO   | iyeiwonagewo              |         |         |            |            |
-| TWENTY THREE | iyeiwonageto              |         |         |            |            |
-| TWENTY FOUR  | iyeiwonagevari            |         |         |            |            |
-| TWENTY FIVE  | iyeiwonagelima            |         |         |            |            |
-| TWENTY SIX   | iyeiwonagewona            |         |         |            |            |
-| TWENTY SEVEN | iyeiwonagepiri            |         |         |            |            |
-| TWENTY EIGHT | iyeiwonagewa              |         |         |            |            |
-| TWENTY NINE  | iyeiwonagesiwo            |         |         |            |            |
-| THIRTY       | iyeto                     |         |         |            |            |
-| FORTY        | iyevari                   |         |         |            |            |
-| FIFTY        | iyelima                   |         |         |            |            |
-| SIXTY        | iyewona                   |         |         |            |            |
-| SEVENTY      | iyegepiri                 |         |         |            |            |
-| EIGHTY       | iyegewa                   |         |         |            |            |
-| NINETY       | iyesiwo                   |         |         |            |            |
-| HUNDRED      | iyethangari / munthangari |         |         |            |            |
-| THOUSAND     | hoserithangari            |         |         |            |            |
+| Concept      | Forms                          | Fiver   | Twoer   | Tener      | Twentier   |
+|:-------------|:-------------------------------|:--------|:--------|:-----------|:-----------|
+| ONE          | ra / rega                      |         |         |            |            |
+| TWO          | iwo / gewo                     |         | SIX     | TWENTY SIX |            |
+| THREE        | to / geto                      |         |         |            |            |
+| FOUR         | vari / gevari                  |         |         |            |            |
+| FIVE         | lima / gelima                  |         |         |            |            |
+| SIX          | wona / gewona                  |         |         |            |            |
+| SEVEN        | piri / gepiri                  |         |         |            |            |
+| EIGHT        | wa / gewa                      |         |         |            |            |
+| NINE         | siwo / gesiwo                  |         |         |            |            |
+| TEN          | yawora                         |         |         |            |            |
+| ELEVEN       | yaworanarega                   |         |         |            |            |
+| TWELVE       | yaworanagewo                   |         |         |            |            |
+| THIRTEEN     | yaworanageto                   |         |         |            |            |
+| FOURTEEN     | yaworanagevari                 |         |         |            |            |
+| FIFTEEN      | yaworanagelima                 |         |         |            |            |
+| SIXTEEN      | yaworanagewona                 |         |         |            |            |
+| SEVENTEEN    | yaworanagepiri                 |         |         |            |            |
+| EIGHTEEN     | yaworanagewa                   |         |         |            |            |
+| NINETEEN     | yaworanagesiwo                 |         |         |            |            |
+| TWENTY       | iyeiwo                         |         |         |            |            |
+| TWENTY ONE   | iyeiwonarega                   |         |         |            |            |
+| TWENTY TWO   | iyeiwonagewo                   |         |         |            |            |
+| TWENTY THREE | iyeiwonageto                   |         |         |            |            |
+| TWENTY FOUR  | iyeiwonagevari                 |         |         |            |            |
+| TWENTY FIVE  | iyeiwonagelima                 |         |         |            |            |
+| TWENTY SIX   | iyeiwonagewona                 |         |         |            |            |
+| TWENTY SEVEN | iyeiwonagepiri                 |         |         |            |            |
+| TWENTY EIGHT | iyeiwonagewa                   |         |         |            |            |
+| TWENTY NINE  | iyeiwonagesiwo                 |         |         |            |            |
+| THIRTY       | iyeto                          |         |         |            |            |
+| FORTY        | iyevari                        |         |         |            |            |
+| FIFTY        | iyelima                        |         |         |            |            |
+| SIXTY        | iyewona                        |         |         |            |            |
+| SEVENTY      | iyegepiri                      |         |         |            |            |
+| EIGHTY       | iyegewa                        |         |         |            |            |
+| NINETY       | iyesiwo                        |         |         |            |            |
+| HUNDRED      | iyethangari / munthangari      |         |         |            |            |
+| TWO HUNDRED  | hoseriyeiwo                    |         |         |            |            |
+| THOUSAND     | hoserithangari                 |         |         |            |            |
+| TWO THOUSAND | hoserithangarinahoserithangari |         |         |            |            |
 
 ## numerals-swab1242-1 / Swabian, Germany / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------|:--------|:--------|:--------|:-----------|
-| ONE          | oins                 |         |         |         |            |
-| TWO          | tsvo / tsvoi         |         |         |         |            |
-| THREE        | drai                 |         |         |         |            |
-| FOUR         | fia / fira           |         |         |         |            |
-| FIVE         | fymf / fymfa         |         |         |         |            |
-| SIX          | seks / seksa         |         |         |         |            |
-| SEVEN        | sibm / simna         |         |         |         |            |
-| EIGHT        | axt / axta           |         |         |         |            |
-| NINE         | noin / noina         |         |         |         |            |
-| TEN          | tsen / tsena         |         |         |         |            |
-| ELEVEN       | elf / elfa           |         |         |         |            |
-| TWELVE       | tsvoelf / tsvoelfa   |         |         |         |            |
-| THIRTEEN     | draitsn              |         |         |         |            |
-| FOURTEEN     | firrtsn              |         |         |         |            |
-| FIFTEEN      | futsn                |         |         |         |            |
-| SIXTEEN      | sectsn               |         |         |         |            |
-| SEVENTEEN    | siptsn               |         |         |         |            |
-| EIGHTEEN     | axtsn                |         |         |         |            |
-| NINETEEN     | nointsn              |         |         |         |            |
-| TWENTY       | tsvantsk / tsvantska |         |         |         |            |
-| TWENTY ONE   | oinatsvantsk         |         |         |         |            |
-| TWENTY TWO   | tsvoatsvantsk        |         |         |         |            |
-| TWENTY THREE | draiatsvantsk        |         |         |         |            |
-| TWENTY FOUR  | firatsvantsk         |         |         |         |            |
-| TWENTY FIVE  | fymfatsvantsk        |         |         |         |            |
-| TWENTY SIX   | seksatsvantsk        |         |         |         |            |
-| TWENTY SEVEN | simnatsvantsk        |         |         |         |            |
-| TWENTY EIGHT | axtatsvantsk         |         |         |         |            |
-| TWENTY NINE  | noinatsvantsk        |         |         |         |            |
-| THIRTY       | draisk / draiska     |         |         |         |            |
-| FORTY        | firrtsk / firrtska   |         |         |         |            |
-| FIFTY        | fuftsk / fuftska     |         |         |         |            |
-| SIXTY        | sectsk / sectska     |         |         |         |            |
-| SEVENTY      | siptsk / siptska     |         |         |         |            |
-| EIGHTY       | axtsk / axtska       |         |         |         |            |
-| NINETY       | nointsk / nointska   |         |         |         |            |
-| HUNDRED      | hundat               |         |         |         |            |
-| THOUSAND     | dausnt / thausnt     |         |         |         |            |
+| Concept      | Forms                     | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:--------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | oins                      |         |         |         |            |
+| TWO          | tsvo / tsvoi              |         |         |         |            |
+| THREE        | drai                      |         |         |         |            |
+| FOUR         | fia / fira                |         |         |         |            |
+| FIVE         | fymf / fymfa              |         |         |         |            |
+| SIX          | seks / seksa              |         |         |         |            |
+| SEVEN        | sibm / simna              |         |         |         |            |
+| EIGHT        | axt / axta                |         |         |         |            |
+| NINE         | noin / noina              |         |         |         |            |
+| TEN          | tsen / tsena              |         |         |         |            |
+| ELEVEN       | elf / elfa                |         |         |         |            |
+| TWELVE       | tsvoelf / tsvoelfa        |         |         |         |            |
+| THIRTEEN     | draitsn                   |         |         |         |            |
+| FOURTEEN     | firrtsn                   |         |         |         |            |
+| FIFTEEN      | futsn                     |         |         |         |            |
+| SIXTEEN      | sectsn                    |         |         |         |            |
+| SEVENTEEN    | siptsn                    |         |         |         |            |
+| EIGHTEEN     | axtsn                     |         |         |         |            |
+| NINETEEN     | nointsn                   |         |         |         |            |
+| TWENTY       | tsvantsk / tsvantska      |         |         |         |            |
+| TWENTY ONE   | oinatsvantsk              |         |         |         |            |
+| TWENTY TWO   | tsvoatsvantsk             |         |         |         |            |
+| TWENTY THREE | draiatsvantsk             |         |         |         |            |
+| TWENTY FOUR  | firatsvantsk              |         |         |         |            |
+| TWENTY FIVE  | fymfatsvantsk             |         |         |         |            |
+| TWENTY SIX   | seksatsvantsk             |         |         |         |            |
+| TWENTY SEVEN | simnatsvantsk             |         |         |         |            |
+| TWENTY EIGHT | axtatsvantsk              |         |         |         |            |
+| TWENTY NINE  | noinatsvantsk             |         |         |         |            |
+| THIRTY       | draisk / draiska          |         |         |         |            |
+| FORTY        | firrtsk / firrtska        |         |         |         |            |
+| FIFTY        | fuftsk / fuftska          |         |         |         |            |
+| SIXTY        | sectsk / sectska          |         |         |         |            |
+| SEVENTY      | siptsk / siptska          |         |         |         |            |
+| EIGHTY       | axtsk / axtska            |         |         |         |            |
+| NINETY       | nointsk / nointska        |         |         |         |            |
+| HUNDRED      | hundat                    |         |         |         |            |
+| TWO HUNDRED  | tsvohundat / tsvoihundat  |         |         |         |            |
+| THOUSAND     | dausnt / thausnt          |         |         |         |            |
+| TWO THOUSAND | tsvothausnt / tsvoidausnt |         |         |         |            |
 
 ## numerals-taba1259-1 / Tabasaran, Russia / Fiver:0.04 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8533,7 +9244,9 @@
 | EIGHTY       | mizitsur     |         |         |         |            |
 | NINETY       | urtswutsur   |         |         |         |            |
 | HUNDRED      | warz         |         |         |         |            |
+| TWO HUNDRED  | qudwarz      |         |         |         |            |
 | THOUSAND     | arzur        |         |         |         |            |
+| TWO THOUSAND | qudarzur     |         |         |         |            |
 
 ## numerals-taga1270-1 / Tagalog, Philippines / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8576,7 +9289,9 @@
 | EIGHTY       | walumpu             |         |         |         |            |
 | NINETY       | siyamnapu           |         |         |         |            |
 | HUNDRED      | isangdaan / sandaan |         |         |         |            |
+| TWO HUNDRED  | dalawangdaan        |         |         |         |            |
 | THOUSAND     | isangribo / sanlibo |         |         |         |            |
+| TWO THOUSAND | dalawangribo        |         |         |         |            |
 
 ## numerals-taly1247-1 / Talysh, Azerbaijan / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -8619,7 +9334,9 @@
 | EIGHTY       | haesto      |         |         |           |            |
 | NINETY       | naevae      |         |         |           |            |
 | HUNDRED      | sae         |         |         |           |            |
+| TWO HUNDRED  | disae       |         |         |           |            |
 | THOUSAND     | haezo       |         |         |           |            |
+| TWO THOUSAND | dihaezo     |         |         |           |            |
 
 ## numerals-tami1289-1 / Tamil, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8662,7 +9379,9 @@
 | EIGHTY       | enbdu         |         |         |         |            |
 | NINETY       | tonuru        |         |         |         |            |
 | HUNDRED      | nuru          |         |         |         |            |
+| TWO HUNDRED  | irunuru       |         |         |         |            |
 | THOUSAND     | airm          |         |         |         |            |
+| TWO THOUSAND | irndairm      |         |         |         |            |
 
 ## numerals-taro1263-1 / Tarok (Yergam), Nigeria / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8705,7 +9424,9 @@
 | EIGHTY       | isimnanne                    |         |         |         |            |
 | NINETY       | isimfangzingting             |         |         |         |            |
 | HUNDRED      | igbalpiiazing                |         |         |         |            |
+| TWO HUNDRED  | igbalpiiparim                |         |         |         |            |
 | THOUSAND     | isimkalongpiiazing           |         |         |         |            |
+| TWO THOUSAND | isimkalongpiiparim           |         |         |         |            |
 
 ## numerals-tela1241-1 / Tela-Masbuar, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8748,50 +9469,56 @@
 | EIGHTY       | wukwoav       |         |         |         |            |
 | NINETY       | wukreeri      |         |         |         |            |
 | HUNDRED      | rai           |         |         |         |            |
+| TWO HUNDRED  | raworu        |         |         |         |            |
 | THOUSAND     | ribni         |         |         |         |            |
+| TWO THOUSAND | ribniworu     |         |         |         |            |
 
 ## numerals-teng1272-1 / Tengger, Java Island, Indonesia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------|:--------|:--------|:--------|:-----------|
-| ONE          | siji        |         |         |         |            |
-| TWO          | loro        |         |         |         |            |
-| THREE        | talu        |         |         | THIRTY  |            |
-| FOUR         | papat       |         |         |         |            |
-| FIVE         | lima        |         |         |         |            |
-| SIX          | anam        |         |         |         |            |
-| SEVEN        | pitu        |         |         |         |            |
-| EIGHT        | wolu        |         |         |         |            |
-| NINE         | sanga       |         |         |         |            |
-| TEN          | sapulu      |         |         |         |            |
-| ELEVEN       | sawalas     |         |         |         |            |
-| TWELVE       | rolas       |         |         |         |            |
-| THIRTEEN     | talulas     |         |         |         |            |
-| FOURTEEN     | patblas     |         |         |         |            |
-| FIFTEEN      | limoblas    |         |         |         |            |
-| SIXTEEN      | namblas     |         |         |         |            |
-| SEVENTEEN    | pitublas    |         |         |         |            |
-| EIGHTEEN     | wolulas     |         |         |         |            |
-| NINETEEN     | sangalas    |         |         |         |            |
-| TWENTY       | rongpulo    |         |         |         |            |
-| TWENTY ONE   | salikor     |         |         |         |            |
-| TWENTY TWO   | ronglikor   |         |         |         |            |
-| TWENTY THREE | talulikor   |         |         |         |            |
-| TWENTY FOUR  | patlikor    |         |         |         |            |
-| TWENTY FIVE  | salawe      |         |         |         |            |
-| TWENTY SIX   | namlikor    |         |         |         |            |
-| TWENTY SEVEN | pitulikor   |         |         |         |            |
-| TWENTY EIGHT | wolulikor   |         |         |         |            |
-| TWENTY NINE  | sangalikor  |         |         |         |            |
-| THIRTY       | talungpulo  |         |         |         |            |
-| FORTY        | patanglikor |         |         |         |            |
-| FIFTY        | sekat       |         |         |         |            |
-| SIXTY        | swida       |         |         |         |            |
-| SEVENTY      | pitungpulo  |         |         |         |            |
-| EIGHTY       | wolongpulo  |         |         |         |            |
-| NINETY       | sangangpulo |         |         |         |            |
-| HUNDRED      | satus       |         |         |         |            |
-| THOUSAND     | sewu        |         |         |         |            |
+| Concept       | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:------------|:--------|:--------|:--------|:-----------|
+| ONE           | siji        |         |         |         |            |
+| TWO           | loro        |         |         |         |            |
+| THREE         | talu        |         |         | THIRTY  |            |
+| FOUR          | papat       |         |         |         |            |
+| FIVE          | lima        |         |         |         |            |
+| SIX           | anam        |         |         |         |            |
+| SEVEN         | pitu        |         |         |         |            |
+| EIGHT         | wolu        |         |         |         |            |
+| NINE          | sanga       |         |         |         |            |
+| TEN           | sapulu      |         |         |         |            |
+| ELEVEN        | sawalas     |         |         |         |            |
+| TWELVE        | rolas       |         |         |         |            |
+| THIRTEEN      | talulas     |         |         |         |            |
+| FOURTEEN      | patblas     |         |         |         |            |
+| FIFTEEN       | limoblas    |         |         |         |            |
+| SIXTEEN       | namblas     |         |         |         |            |
+| SEVENTEEN     | pitublas    |         |         |         |            |
+| EIGHTEEN      | wolulas     |         |         |         |            |
+| NINETEEN      | sangalas    |         |         |         |            |
+| TWENTY        | rongpulo    |         |         |         |            |
+| TWENTY ONE    | salikor     |         |         |         |            |
+| TWENTY TWO    | ronglikor   |         |         |         |            |
+| TWENTY THREE  | talulikor   |         |         |         |            |
+| TWENTY FOUR   | patlikor    |         |         |         |            |
+| TWENTY FIVE   | salawe      |         |         |         |            |
+| TWENTY SIX    | namlikor    |         |         |         |            |
+| TWENTY SEVEN  | pitulikor   |         |         |         |            |
+| TWENTY EIGHT  | wolulikor   |         |         |         |            |
+| TWENTY NINE   | sangalikor  |         |         |         |            |
+| THIRTY        | talungpulo  |         |         |         |            |
+| FORTY         | patanglikor |         |         |         |            |
+| FIFTY         | sekat       |         |         |         |            |
+| SIXTY         | swida       |         |         |         |            |
+| SEVENTY       | pitungpulo  |         |         |         |            |
+| EIGHTY        | wolongpulo  |         |         |         |            |
+| NINETY        | sangangpulo |         |         |         |            |
+| HUNDRED       | satus       |         |         |         |            |
+| TWO HUNDRED   | rongatus    |         |         |         |            |
+| FOUR HUNDRED  | patangatus  |         |         |         |            |
+| EIGHT HUNDRED | wolongatus  |         |         |         |            |
+| THOUSAND      | sewu        |         |         |         |            |
+| TWO THOUSAND  | rongewu     |         |         |         |            |
 
 ## numerals-thul1246-2 / Thulung, Nepal, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8877,7 +9604,9 @@
 | EIGHTY       | walompolo         |         |         |         |            |
 | NINETY       | siyamapolo        |         |         |         |            |
 | HUNDRED      | sanyatos          |         |         |         |            |
+| TWO HUNDRED  | lowanyatos        |         |         |         |            |
 | THOUSAND     | sanlibo           |         |         |         |            |
+| TWO THOUSAND | lowanlibo         |         |         |         |            |
 
 ## numerals-tobi1238-1 / Tobian (Hatohobei), Palau / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -8924,46 +9653,50 @@
 
 ## numerals-tsak1249-1 / Tsakhur, Russia, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------------|:--------|:--------|:--------|:-----------|
-| ONE          | sad                |         |         |         |            |
-| TWO          | qod                |         |         |         |            |
-| THREE        | xjebid             |         |         |         |            |
-| FOUR         | joqud              |         |         |         |            |
-| FIVE         | xod                |         |         |         |            |
-| SIX          | jixid              |         |         |         |            |
-| SEVEN        | jigid              |         |         |         |            |
-| EIGHT        | moljud             |         |         |         |            |
-| NINE         | jutsud             |         |         |         |            |
-| TEN          | jitsid             |         |         |         |            |
-| ELEVEN       | jitsisad           |         |         |         |            |
-| TWELVE       | jitsiqad           |         |         |         |            |
-| THIRTEEN     | jitsixjebad        |         |         |         |            |
-| FOURTEEN     | jitsijoqwod        |         |         |         |            |
-| FIFTEEN      | jitsixwad          |         |         |         |            |
-| SIXTEEN      | jitsijixid         |         |         |         |            |
-| SEVENTEEN    | jitsijigid         |         |         |         |            |
-| EIGHTEEN     | jitsimoljud        |         |         |         |            |
-| NINETEEN     | jitsijutsud        |         |         |         |            |
-| TWENTY       | gale               |         |         |         |            |
-| TWENTY ONE   | gajiqwsad          |         |         |         |            |
-| TWENTY TWO   | gajiqwad           |         |         |         |            |
-| TWENTY THREE | gajixjebad         |         |         |         |            |
-| TWENTY FOUR  | gajijoqwad         |         |         |         |            |
-| TWENTY FIVE  | gajixwad           |         |         |         |            |
-| TWENTY SIX   | gajijixid / gaixid |         |         |         |            |
-| TWENTY SEVEN | gajijigid / gaigid |         |         |         |            |
-| TWENTY EIGHT | gajimoljud         |         |         |         |            |
-| TWENTY NINE  | gajijutsud         |         |         |         |            |
-| THIRTY       | xjebtsalj          |         |         |         |            |
-| FORTY        | joqtsalj           |         |         |         |            |
-| FIFTY        | xotsalj            |         |         |         |            |
-| SIXTY        | jixtsalj           |         |         |         |            |
-| SEVENTY      | jigtsalj           |         |         |         |            |
-| EIGHTY       | moljtsalj          |         |         |         |            |
-| NINETY       | jutsalj            |         |         |         |            |
-| HUNDRED      | vas                |         |         |         |            |
-| THOUSAND     | azir               |         |         |         |            |
+| Concept       | Forms              | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------------|:--------|:--------|:--------|:-----------|
+| ONE           | sad                |         |         |         |            |
+| TWO           | qod                |         |         |         |            |
+| THREE         | xjebid             |         |         |         |            |
+| FOUR          | joqud              |         |         |         |            |
+| FIVE          | xod                |         |         |         |            |
+| SIX           | jixid              |         |         |         |            |
+| SEVEN         | jigid              |         |         |         |            |
+| EIGHT         | moljud             |         |         |         |            |
+| NINE          | jutsud             |         |         |         |            |
+| TEN           | jitsid             |         |         |         |            |
+| ELEVEN        | jitsisad           |         |         |         |            |
+| TWELVE        | jitsiqad           |         |         |         |            |
+| THIRTEEN      | jitsixjebad        |         |         |         |            |
+| FOURTEEN      | jitsijoqwod        |         |         |         |            |
+| FIFTEEN       | jitsixwad          |         |         |         |            |
+| SIXTEEN       | jitsijixid         |         |         |         |            |
+| SEVENTEEN     | jitsijigid         |         |         |         |            |
+| EIGHTEEN      | jitsimoljud        |         |         |         |            |
+| NINETEEN      | jitsijutsud        |         |         |         |            |
+| TWENTY        | gale               |         |         |         |            |
+| TWENTY ONE    | gajiqwsad          |         |         |         |            |
+| TWENTY TWO    | gajiqwad           |         |         |         |            |
+| TWENTY THREE  | gajixjebad         |         |         |         |            |
+| TWENTY FOUR   | gajijoqwad         |         |         |         |            |
+| TWENTY FIVE   | gajixwad           |         |         |         |            |
+| TWENTY SIX    | gajijixid / gaixid |         |         |         |            |
+| TWENTY SEVEN  | gajijigid / gaigid |         |         |         |            |
+| TWENTY EIGHT  | gajimoljud         |         |         |         |            |
+| TWENTY NINE   | gajijutsud         |         |         |         |            |
+| THIRTY        | xjebtsalj          |         |         |         |            |
+| FORTY         | joqtsalj           |         |         |         |            |
+| FIFTY         | xotsalj            |         |         |         |            |
+| SIXTY         | jixtsalj           |         |         |         |            |
+| SEVENTY       | jigtsalj           |         |         |         |            |
+| EIGHTY        | moljtsalj          |         |         |         |            |
+| NINETY        | jutsalj            |         |         |         |            |
+| HUNDRED       | vas                |         |         |         |            |
+| TWO HUNDRED   | qodvas             |         |         |         |            |
+| FOUR HUNDRED  | joqudvas           |         |         |         |            |
+| EIGHT HUNDRED | moljudvas          |         |         |         |            |
+| THOUSAND      | azir               |         |         |         |            |
+| TWO THOUSAND  | qodazir            |         |         |         |            |
 
 ## numerals-tsak1249-2 / Tsakhur, Russia, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9049,50 +9782,56 @@
 | EIGHTY       | aluhulu       |         |         |         |            |
 | NINETY       | siahulu       |         |         |         |            |
 | HUNDRED      | asahatu       |         |         |         |            |
+| TWO HUNDRED  | duahatu       |         |         |         |            |
 | THOUSAND     | asaribu       |         |         |         |            |
+| TWO THOUSAND | duaribu       |         |         |         |            |
 
 ## numerals-tulu1258-1 / Tulu, Karnataka and Kerala, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------------------|:--------|:--------|:--------|:-----------|
-| ONE          | ondzi                  |         |         |         |            |
-| TWO          | raddw                  |         |         |         |            |
-| THREE        | mudzi                  |         |         |         |            |
-| FOUR         | nalw                   |         |         |         |            |
-| FIVE         | ainw                   |         |         |         |            |
-| SIX          | adzi                   |         |         |         |            |
-| SEVEN        | elw                    |         |         |         |            |
-| EIGHT        | edma / enma / enma     |         |         |         |            |
-| NINE         | ormba                  |         |         |         |            |
-| TEN          | pattw                  |         |         |         |            |
-| ELEVEN       | pattondzi / padinondzi |         |         |         |            |
-| TWELVE       | padradw / padiradw     |         |         |         |            |
-| THIRTEEN     | padmudzi / padimudzi   |         |         |         |            |
-| FOURTEEN     | padnalw / padinalw     |         |         |         |            |
-| FIFTEEN      | padnainw / padinainw   |         |         |         |            |
-| SIXTEEN      | padnadzi / padinadzi   |         |         |         |            |
-| SEVENTEEN    | padnelw / padinelw     |         |         |         |            |
-| EIGHTEEN     | padnedma / padinedma   |         |         |         |            |
-| NINETEEN     | padnormba / padinormba |         |         |         |            |
-| TWENTY       | irva                   |         |         |         |            |
-| TWENTY ONE   | irvatondzi             |         |         |         |            |
-| TWENTY TWO   | irvatraddw             |         |         |         |            |
-| TWENTY THREE | irvatmudzi             |         |         |         |            |
-| TWENTY FOUR  | irvatnalw              |         |         |         |            |
-| TWENTY FIVE  | irvatainw              |         |         |         |            |
-| TWENTY SIX   | irvatadzi              |         |         |         |            |
-| TWENTY SEVEN | irvatelw               |         |         |         |            |
-| TWENTY EIGHT | irvatedma / irvatenma  |         |         |         |            |
-| TWENTY NINE  | irvatormba             |         |         |         |            |
-| THIRTY       | muppa                  |         |         |         |            |
-| FORTY        | nalpa                  |         |         |         |            |
-| FIFTY        | aiva                   |         |         |         |            |
-| SIXTY        | adzpa                  |         |         |         |            |
-| SEVENTY      | elpa                   |         |         |         |            |
-| EIGHTY       | enpa                   |         |         |         |            |
-| NINETY       | sonpa / sonpa          |         |         |         |            |
-| HUNDRED      | nudw                   |         |         |         |            |
-| THOUSAND     | savira                 |         |         |         |            |
+| Concept       | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-----------------------|:--------|:--------|:--------|:-----------|
+| ONE           | ondzi                  |         |         |         |            |
+| TWO           | raddw                  |         |         |         |            |
+| THREE         | mudzi                  |         |         |         |            |
+| FOUR          | nalw                   |         |         |         |            |
+| FIVE          | ainw                   |         |         |         |            |
+| SIX           | adzi                   |         |         |         |            |
+| SEVEN         | elw                    |         |         |         |            |
+| EIGHT         | edma / enma / enma     |         |         |         |            |
+| NINE          | ormba                  |         |         |         |            |
+| TEN           | pattw                  |         |         |         |            |
+| ELEVEN        | pattondzi / padinondzi |         |         |         |            |
+| TWELVE        | padradw / padiradw     |         |         |         |            |
+| THIRTEEN      | padmudzi / padimudzi   |         |         |         |            |
+| FOURTEEN      | padnalw / padinalw     |         |         |         |            |
+| FIFTEEN       | padnainw / padinainw   |         |         |         |            |
+| SIXTEEN       | padnadzi / padinadzi   |         |         |         |            |
+| SEVENTEEN     | padnelw / padinelw     |         |         |         |            |
+| EIGHTEEN      | padnedma / padinedma   |         |         |         |            |
+| NINETEEN      | padnormba / padinormba |         |         |         |            |
+| TWENTY        | irva                   |         |         |         |            |
+| TWENTY ONE    | irvatondzi             |         |         |         |            |
+| TWENTY TWO    | irvatraddw             |         |         |         |            |
+| TWENTY THREE  | irvatmudzi             |         |         |         |            |
+| TWENTY FOUR   | irvatnalw              |         |         |         |            |
+| TWENTY FIVE   | irvatainw              |         |         |         |            |
+| TWENTY SIX    | irvatadzi              |         |         |         |            |
+| TWENTY SEVEN  | irvatelw               |         |         |         |            |
+| TWENTY EIGHT  | irvatedma / irvatenma  |         |         |         |            |
+| TWENTY NINE   | irvatormba             |         |         |         |            |
+| THIRTY        | muppa                  |         |         |         |            |
+| FORTY         | nalpa                  |         |         |         |            |
+| FIFTY         | aiva                   |         |         |         |            |
+| SIXTY         | adzpa                  |         |         |         |            |
+| SEVENTY       | elpa                   |         |         |         |            |
+| EIGHTY        | enpa                   |         |         |         |            |
+| NINETY        | sonpa / sonpa          |         |         |         |            |
+| HUNDRED       | nudw                   |         |         |         |            |
+| TWO HUNDRED   | irnudw                 |         |         |         |            |
+| FOUR HUNDRED  | nalnudw                |         |         |         |            |
+| EIGHT HUNDRED | enmanudw               |         |         |         |            |
+| THOUSAND      | savira                 |         |         |         |            |
+| TWO THOUSAND  | raddwsavira            |         |         |         |            |
 
 ## numerals-tulu1258-2 / Tulu, Karnataka and Kerala, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9135,50 +9874,55 @@
 | EIGHTY       | enpa / enpa / enpo          |         |         |         |            |
 | NINETY       | sonpa / sonpa / sonpo       |         |         |         |            |
 | HUNDRED      | nudu                        |         |         |         |            |
+| TWO HUNDRED  | irnudu                      |         |         |         |            |
 | THOUSAND     | savira                      |         |         |         |            |
+| TWO THOUSAND | reddisara / eradisavira     |         |         |         |            |
 
 ## numerals-tuma1248-1 / Tumari Kanuri, Eastern Niger / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------|:--------|:--------|:--------|:-----------|
-| ONE          | tilo         |         |         |         |            |
-| TWO          | jindi        |         |         |         |            |
-| THREE        | jaku         |         |         |         |            |
-| FOUR         | djijo        |         |         |         |            |
-| FIVE         | uu           |         |         |         |            |
-| SIX          | araku        |         |         |         |            |
-| SEVEN        | tuulu        |         |         |         |            |
-| EIGHT        | usku         |         |         |         |            |
-| NINE         | laaru        |         |         |         |            |
-| TEN          | mejo         |         |         |         |            |
-| ELEVEN       | meontilon    |         |         |         |            |
-| TWELVE       | meonindin    |         |         |         |            |
-| THIRTEEN     | meonjakun    |         |         |         |            |
-| FOURTEEN     | meoderi      |         |         |         |            |
-| FIFTEEN      | meowuri      |         |         |         |            |
-| SIXTEEN      | meoarakan    |         |         |         |            |
-| SEVENTEEN    | meotulori    |         |         |         |            |
-| EIGHTEEN     | meowuskun    |         |         |         |            |
-| NINETEEN     | meolaari     |         |         |         |            |
-| TWENTY       | findi        |         |         |         |            |
-| TWENTY ONE   | findintilon  |         |         |         |            |
-| TWENTY TWO   | findinindin  |         |         |         |            |
-| TWENTY THREE | findinjakun  |         |         |         |            |
-| TWENTY FOUR  | findinderi   |         |         |         |            |
-| TWENTY FIVE  | findinwuri   |         |         |         |            |
-| TWENTY SIX   | findinarakan |         |         |         |            |
-| TWENTY SEVEN | findintulori |         |         |         |            |
-| TWENTY EIGHT | findinwuskun |         |         |         |            |
-| TWENTY NINE  | findinlaari  |         |         |         |            |
-| THIRTY       | fiaku        |         |         |         |            |
-| FORTY        | fidio        |         |         |         |            |
-| FIFTY        | fjiu         |         |         |         |            |
-| SIXTY        | firako       |         |         |         |            |
-| SEVENTY      | fitulu       |         |         |         |            |
-| EIGHTY       | fisku        |         |         |         |            |
-| NINETY       | filaar       |         |         |         |            |
-| HUNDRED      | mia          |         |         |         |            |
-| THOUSAND     | dubu         |         |         |         |            |
+| Concept       | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------|:--------|:--------|:--------|:-----------|
+| ONE           | tilo         |         |         |         |            |
+| TWO           | jindi        |         |         |         |            |
+| THREE         | jaku         |         |         |         |            |
+| FOUR          | djijo        |         |         |         |            |
+| FIVE          | uu           |         |         |         |            |
+| SIX           | araku        |         |         |         |            |
+| SEVEN         | tuulu        |         |         |         |            |
+| EIGHT         | usku         |         |         |         |            |
+| NINE          | laaru        |         |         |         |            |
+| TEN           | mejo         |         |         |         |            |
+| ELEVEN        | meontilon    |         |         |         |            |
+| TWELVE        | meonindin    |         |         |         |            |
+| THIRTEEN      | meonjakun    |         |         |         |            |
+| FOURTEEN      | meoderi      |         |         |         |            |
+| FIFTEEN       | meowuri      |         |         |         |            |
+| SIXTEEN       | meoarakan    |         |         |         |            |
+| SEVENTEEN     | meotulori    |         |         |         |            |
+| EIGHTEEN      | meowuskun    |         |         |         |            |
+| NINETEEN      | meolaari     |         |         |         |            |
+| TWENTY        | findi        |         |         |         |            |
+| TWENTY ONE    | findintilon  |         |         |         |            |
+| TWENTY TWO    | findinindin  |         |         |         |            |
+| TWENTY THREE  | findinjakun  |         |         |         |            |
+| TWENTY FOUR   | findinderi   |         |         |         |            |
+| TWENTY FIVE   | findinwuri   |         |         |         |            |
+| TWENTY SIX    | findinarakan |         |         |         |            |
+| TWENTY SEVEN  | findintulori |         |         |         |            |
+| TWENTY EIGHT  | findinwuskun |         |         |         |            |
+| TWENTY NINE   | findinlaari  |         |         |         |            |
+| THIRTY        | fiaku        |         |         |         |            |
+| FORTY         | fidio        |         |         |         |            |
+| FIFTY         | fjiu         |         |         |         |            |
+| SIXTY         | firako       |         |         |         |            |
+| SEVENTY       | fitulu       |         |         |         |            |
+| EIGHTY        | fisku        |         |         |         |            |
+| NINETY        | filaar       |         |         |         |            |
+| HUNDRED       | mia          |         |         |         |            |
+| TWO HUNDRED   | jaroindi     |         |         |         |            |
+| THREE HUNDRED | jarojaku     |         |         |         |            |
+| THOUSAND      | dubu         |         |         |         |            |
+| TWO THOUSAND  | dubuindi     |         |         |         |            |
 
 ## numerals-tund1254-1 / Tundra Enets, Russia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9221,7 +9965,9 @@
 | EIGHTY       | sidetui        |         |         |         |            |
 | NINETY       | nesau          |         |         |         |            |
 | HUNDRED      | ju             |         |         |         |            |
+| TWO HUNDRED  | sideju         |         |         |         |            |
 | THOUSAND     | biuju          |         |         |         |            |
+| TWO THOUSAND | sidebiuju      |         |         |         |            |
 
 ## numerals-tuwu1238-1 / Tuwuri (Bowiri), Ghana / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9264,49 +10010,9 @@
 | EIGHTY       | taavedi      |         |         |         |            |
 | NINETY       | oha          |         |         |         |            |
 | HUNDRED      | ohanvia      |         |         |         |            |
+| TWO HUNDRED  | apim         |         |         |         |            |
 | THOUSAND     | mpimnvia     |         |         |         |            |
-
-## numerals-usui1238-2 / Usoi, Bangladesh / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------|:--------|:--------|:--------|:-----------|
-| ONE          | kaiha    |         |         |         |            |
-| TWO          | kainoi   |         |         |         |            |
-| THREE        | kaithang |         |         |         |            |
-| FOUR         | kaibroi  |         |         |         |            |
-| FIVE         | kaiba    |         |         |         |            |
-| SIX          | kaidou   |         |         |         |            |
-| SEVEN        | kaisni   |         |         |         |            |
-| EIGHT        | kaitsa   |         |         |         |            |
-| NINE         | kaisku   |         |         |         |            |
-| TEN          | kaitsi   |         |         |         |            |
-| ELEVEN       | tsisa    |         |         |         |            |
-| TWELVE       | tsignoi  |         |         |         |            |
-| THIRTEEN     | tsithang |         |         |         |            |
-| FOURTEEN     | tsibroi  |         |         |         |            |
-| FIFTEEN      | tsiba    |         |         |         |            |
-| SIXTEEN      | tsidou   |         |         |         |            |
-| SEVENTEEN    | tsisni   |         |         |         |            |
-| EIGHTEEN     | tsitsa   |         |         |         |            |
-| NINETEEN     | tsisku   |         |         |         |            |
-| TWENTY       | kho      |         |         |         |            |
-| TWENTY ONE   | khosa    |         |         |         |            |
-| TWENTY TWO   | khothang |         |         |         |            |
-| TWENTY FOUR  | khobroi  |         |         |         |            |
-| TWENTY FIVE  | khoba    |         |         |         |            |
-| TWENTY SIX   | khodou   |         |         |         |            |
-| TWENTY SEVEN | khosni   |         |         |         |            |
-| TWENTY EIGHT | khotsa   |         |         |         |            |
-| TWENTY NINE  | khosku   |         |         |         |            |
-| THIRTY       | thangtsi |         |         |         |            |
-| FORTY        | broitsi  |         |         |         |            |
-| FIFTY        | batsi    |         |         |         |            |
-| SIXTY        | doutsi   |         |         |         |            |
-| SEVENTY      | snitsi   |         |         |         |            |
-| EIGHTY       | tsatsi   |         |         |         |            |
-| NINETY       | skutsi   |         |         |         |            |
-| HUNDRED      | irdzaha  |         |         |         |            |
-| THOUSAND     | saiha    |         |         |         |            |
+| TWO THOUSAND | nkpenno      |         |         |         |            |
 
 ## numerals-vang1243-1 / Bareke, Solomon Islands / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -9349,7 +10055,9 @@
 | EIGHTY       | vesungvuluput  |         |         |         |            |
 | NINETY       | singvuluput    |         |         |         |            |
 | HUNDRED      | mekgogotoput   |         |         |         |            |
+| TWO HUNDRED  | krugogotoput   |         |         |         |            |
 | THOUSAND     | mekatin        |         |         |         |            |
+| TWO THOUSAND | karutin        |         |         |         |            |
 
 ## numerals-vang1243-2 / Vangunu, Solomon Islands / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -9392,7 +10100,9 @@
 | EIGHTY       | vesungavuluputa   |         |         |         |            |
 | NINETY       | siangavuluputa    |         |         |         |            |
 | HUNDRED      | mekagogoto        |         |         |         |            |
+| TWO HUNDRED  | karuagogoto       |         |         |         |            |
 | THOUSAND     | mekatina          |         |         |         |            |
+| TWO THOUSAND | karuatina         |         |         |         |            |
 
 ## numerals-voti1245-1 / Votian, Russia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -9435,7 +10145,9 @@
 | EIGHTY       | kahesatsymetae                        |         |         |         |            |
 | NINETY       | yheksaetsymetae                       |         |         |         |            |
 | HUNDRED      | sata                                  |         |         |         |            |
+| TWO HUNDRED  | kahsisata                             |         |         |         |            |
 | THOUSAND     | tuhata                                |         |         |         |            |
+| TWO THOUSAND | kahsituhata                           |         |         |         |            |
 
 ## numerals-west2368-1 / Western Balochi, Pakistan, Iran / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9478,7 +10190,9 @@
 | EIGHTY       | hstad                 |         |         |         |            |
 | NINETY       | nwd                   |         |         |         |            |
 | HUNDRED      | sd                    |         |         |         |            |
+| TWO HUNDRED  | dusd                  |         |         |         |            |
 | THOUSAND     | hzar                  |         |         |         |            |
+| TWO THOUSAND | duhzar                |         |         |         |            |
 
 ## numerals-west2615-1 / Western Apache, USA / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9521,7 +10235,9 @@
 | EIGHTY       | tsebidin                      |         |         |         |            |
 | NINETY       | ngostaadin / ngostadin        |         |         |         |            |
 | HUNDRED      | gonenadin / goneznadin        |         |         |         |            |
+| TWO HUNDRED  | nakihgonenadin                |         |         |         |            |
 | THOUSAND     | doonaholtaddayu               |         |         |         |            |
+| TWO THOUSAND | nakihdoonaholtaddayu          |         |         |         |            |
 
 ## numerals-xamt1239-1 / Xamtanga, Ethiopia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9564,7 +10280,9 @@
 | EIGHTY       | sawtarngin           |         |         |         |            |
 | NINETY       | sajtsarngin          |         |         |         |            |
 | HUNDRED      | la                   |         |         |         |            |
+| TWO HUNDRED  | lingala              |         |         |         |            |
 | THOUSAND     | six                  |         |         |         |            |
+| TWO THOUSAND | lingasix             |         |         |         |            |
 
 ## numerals-yans1239-1 / Yansi (Ngong), DR of the Congo / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9607,7 +10325,9 @@
 | EIGHTY       | makwumkenan         |         |         |         |            |
 | NINETY       | makwumkeva          |         |         |         |            |
 | HUNDRED      | nkam                |         |         |         |            |
+| TWO HUNDRED  | nkamyol             |         |         |         |            |
 | THOUSAND     | fund                |         |         |         |            |
+| TWO THOUSAND | mafundmayol         |         |         |         |            |
 
 ## numerals-yape1248-1 / Yapese, Yap Island, FSM / Fiver:0.02 Tener:0.03 Twentier:0.00 Twoer:0.04
 
@@ -9650,7 +10370,9 @@
 | EIGHTY       | merukiragag      |           |         |         |            |
 | NINETY       | merebiragag      |           |         |         |            |
 | HUNDRED      | raay             |           |         |         |            |
+| TWO HUNDRED  | lagaruwmiraay    |           |         |         |            |
 | THOUSAND     | buyu             |           |         |         |            |
+| TWO THOUSAND | lagaruwbuyu      |           |         |         |            |
 
 ## numerals-yelo1242-1 / Khroskyabs (Yelong dialect), China / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -9697,88 +10419,50 @@
 
 ## numerals-yeru1240-1 / Yerukula, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------------------|:--------|:--------|:--------|:-----------|
-| ONE          | undu / ondu         |         |         |         |            |
-| TWO          | rendu / rondu       |         |         |         |            |
-| THREE        | mudu                |         |         |         |            |
-| FOUR         | nalu                |         |         |         |            |
-| FIVE         | anju                |         |         |         |            |
-| SIX          | aru                 |         |         |         |            |
-| SEVEN        | ogu                 |         |         |         |            |
-| EIGHT        | ettu                |         |         |         |            |
-| NINE         | ombedu              |         |         |         |            |
-| TEN          | pottu               |         |         |         |            |
-| ELEVEN       | padahend            |         |         |         |            |
-| TWELVE       | pannendu            |         |         |         |            |
-| THIRTEEN     | padimudu            |         |         |         |            |
-| FOURTEEN     | padinalu            |         |         |         |            |
-| FIFTEEN      | podinaydu           |         |         |         |            |
-| SIXTEEN      | podinaru            |         |         |         |            |
-| SEVENTEEN    | podinogu            |         |         |         |            |
-| EIGHTEEN     | podinottu           |         |         |         |            |
-| NINETEEN     | pottombedu          |         |         |         |            |
-| TWENTY       | iravay              |         |         |         |            |
-| TWENTY ONE   | iravayundu / ondu   |         |         |         |            |
-| TWENTY TWO   | iravayrendu / rondu |         |         |         |            |
-| TWENTY THREE | iravaymudu          |         |         |         |            |
-| TWENTY FOUR  | iravaynalu          |         |         |         |            |
-| TWENTY FIVE  | iravayanju          |         |         |         |            |
-| TWENTY SIX   | iravayaru           |         |         |         |            |
-| TWENTY SEVEN | iravayogu           |         |         |         |            |
-| TWENTY EIGHT | iravayettu          |         |         |         |            |
-| TWENTY NINE  | iravayombedu        |         |         |         |            |
-| THIRTY       | muppay              |         |         |         |            |
-| FORTY        | nalabay             |         |         |         |            |
-| FIFTY        | yabay               |         |         |         |            |
-| SIXTY        | aravay              |         |         |         |            |
-| SEVENTY      | dabbay              |         |         |         |            |
-| EIGHTY       | enbay               |         |         |         |            |
-| NINETY       | tonbay              |         |         |         |            |
-| HUNDRED      | nuru                |         |         |         |            |
-| THOUSAND     | ey                  |         |         |         |            |
-
-## numerals-yimc1240-2 / Yimchungru Naga, Nagaland, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms           | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------|:--------|:--------|:--------|:-----------|
-| ONE          | khlang          |         |         |         |            |
-| TWO          | mania           |         |         |         |            |
-| THREE        | masam           |         |         |         |            |
-| FOUR         | paya            |         |         |         |            |
-| FIVE         | panga           |         |         |         |            |
-| SIX          | theruk          |         |         |         |            |
-| SEVEN        | thanya          |         |         |         |            |
-| EIGHT        | thaza           |         |         |         |            |
-| NINE         | thakhu          |         |         |         |            |
-| TEN          | thara           |         |         |         |            |
-| ELEVEN       | tharikyakkhlang |         |         |         |            |
-| TWELVE       | tharikyakmania  |         |         |         |            |
-| THIRTEEN     | tharikyakmasam  |         |         |         |            |
-| FOURTEEN     | tharikyakpaya   |         |         |         |            |
-| FIFTEEN      | tharikyakpanga  |         |         |         |            |
-| SIXTEEN      | tharikyaktheruk |         |         |         |            |
-| SEVENTEEN    | tharikyakthanya |         |         |         |            |
-| EIGHTEEN     | tharikyakthaza  |         |         |         |            |
-| NINETEEN     | tharikyakthakhu |         |         |         |            |
-| TWENTY       | maku            |         |         |         |            |
-| TWENTY ONE   | makukyakkhlang  |         |         |         |            |
-| TWENTY TWO   | makukyakmasam   |         |         |         |            |
-| TWENTY FOUR  | makukyakpaya    |         |         |         |            |
-| TWENTY FIVE  | makukyakpanga   |         |         |         |            |
-| TWENTY SIX   | makukyaktheruk  |         |         |         |            |
-| TWENTY SEVEN | makukyakthanya  |         |         |         |            |
-| TWENTY EIGHT | makukyakthaza   |         |         |         |            |
-| TWENTY NINE  | makukyakthakhu  |         |         |         |            |
-| THIRTY       | samra           |         |         |         |            |
-| FORTY        | yara            |         |         |         |            |
-| FIFTY        | thanyam         |         |         |         |            |
-| SIXTY        | rukra           |         |         |         |            |
-| SEVENTY      | nyara           |         |         |         |            |
-| EIGHTY       | zara            |         |         |         |            |
-| NINETY       | khura           |         |         |         |            |
-| HUNDRED      | cikhlang        |         |         |         |            |
-| THOUSAND     | aungkhlang      |         |         |         |            |
+| Concept       | Forms                 | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:----------------------|:--------|:--------|:--------|:-----------|
+| ONE           | undu / ondu           |         |         |         |            |
+| TWO           | rendu / rondu         |         |         |         |            |
+| THREE         | mudu                  |         |         |         |            |
+| FOUR          | nalu                  |         |         |         |            |
+| FIVE          | anju                  |         |         |         |            |
+| SIX           | aru                   |         |         |         |            |
+| SEVEN         | ogu                   |         |         |         |            |
+| EIGHT         | ettu                  |         |         |         |            |
+| NINE          | ombedu                |         |         |         |            |
+| TEN           | pottu                 |         |         |         |            |
+| ELEVEN        | padahend              |         |         |         |            |
+| TWELVE        | pannendu              |         |         |         |            |
+| THIRTEEN      | padimudu              |         |         |         |            |
+| FOURTEEN      | padinalu              |         |         |         |            |
+| FIFTEEN       | podinaydu             |         |         |         |            |
+| SIXTEEN       | podinaru              |         |         |         |            |
+| SEVENTEEN     | podinogu              |         |         |         |            |
+| EIGHTEEN      | podinottu             |         |         |         |            |
+| NINETEEN      | pottombedu            |         |         |         |            |
+| TWENTY        | iravay                |         |         |         |            |
+| TWENTY ONE    | iravayundu / ondu     |         |         |         |            |
+| TWENTY TWO    | iravayrendu / rondu   |         |         |         |            |
+| TWENTY THREE  | iravaymudu            |         |         |         |            |
+| TWENTY FOUR   | iravaynalu            |         |         |         |            |
+| TWENTY FIVE   | iravayanju            |         |         |         |            |
+| TWENTY SIX    | iravayaru             |         |         |         |            |
+| TWENTY SEVEN  | iravayogu             |         |         |         |            |
+| TWENTY EIGHT  | iravayettu            |         |         |         |            |
+| TWENTY NINE   | iravayombedu          |         |         |         |            |
+| THIRTY        | muppay                |         |         |         |            |
+| FORTY         | nalabay               |         |         |         |            |
+| FIFTY         | yabay                 |         |         |         |            |
+| SIXTY         | aravay                |         |         |         |            |
+| SEVENTY       | dabbay                |         |         |         |            |
+| EIGHTY        | enbay                 |         |         |         |            |
+| NINETY        | tonbay                |         |         |         |            |
+| HUNDRED       | nuru                  |         |         |         |            |
+| TWO HUNDRED   | rendunuru / rondunuru |         |         |         |            |
+| FOUR HUNDRED  | nalunuru              |         |         |         |            |
+| EIGHT HUNDRED | ettunuru              |         |         |         |            |
+| THOUSAND      | ey                    |         |         |         |            |
+| TWO THOUSAND  | renduey / ronduey     |         |         |         |            |
 
 ## numerals-yinc1238-1 / Yinchia, Myanmar / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9821,7 +10505,9 @@
 | EIGHTY       | dagol     |         |         |         |            |
 | NINETY       | dimgol    |         |         |         |            |
 | HUNDRED      | saburja   |         |         |         |            |
+| TWO HUNDRED  | arburja   |         |         |         |            |
 | THOUSAND     | sareng    |         |         |         |            |
+| TWO THOUSAND | arreng    |         |         |         |            |
 
 ## numerals-youl1235-1 / Youle Jinou, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9864,48 +10550,9 @@
 | EIGHTY       | xe44tshu55       |         |         |         |            |
 | NINETY       | kju55tshu55      |         |         |         |            |
 | HUNDRED      | thi33co55        |         |         |         |            |
+| TWO HUNDRED  | n33co55          |         |         |         |            |
 | THOUSAND     | thi55tchen44     |         |         |         |            |
-
-## numerals-zbua1234-1 / Zbu Jiarong, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms        | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------|:--------|:--------|:--------|:-----------|
-| ONE          | kaldza       |         |         |         |            |
-| TWO          | rnis         |         |         |         |            |
-| THREE        | khsum        |         |         |         |            |
-| FOUR         | kavlda       |         |         |         |            |
-| FIVE         | kamnga       |         |         |         |            |
-| SIX          | katcox       |         |         |         |            |
-| SEVEN        | kasnas       |         |         |         |            |
-| EIGHT        | varjet       |         |         |         |            |
-| NINE         | kanggit      |         |         |         |            |
-| TEN          | sara         |         |         |         |            |
-| ELEVEN       | rafcak       |         |         |         |            |
-| TWELVE       | ramnas       |         |         |         |            |
-| THIRTEEN     | rafcum       |         |         |         |            |
-| FOURTEEN     | ravldi       |         |         |         |            |
-| FIFTEEN      | ramnga       |         |         |         |            |
-| SIXTEEN      | raftcox      |         |         |         |            |
-| SEVENTEEN    | racnas       |         |         |         |            |
-| EIGHTEEN     | ravrjet      |         |         |         |            |
-| NINETEEN     | ranggit      |         |         |         |            |
-| TWENTY       | rnasqa       |         |         |         |            |
-| TWENTY ONE   | rnasqafcak   |         |         |         |            |
-| TWENTY TWO   | rnasqamnas   |         |         |         |            |
-| TWENTY THREE | rnasqafcum   |         |         |         |            |
-| TWENTY FOUR  | rnasqavldi   |         |         |         |            |
-| TWENTY FIVE  | rnasqamnga   |         |         |         |            |
-| TWENTY SIX   | rnasqaftcox  |         |         |         |            |
-| TWENTY SEVEN | rnasqangcnas |         |         |         |            |
-| TWENTY EIGHT | rnasqavrjet  |         |         |         |            |
-| TWENTY NINE  | rnasqanggit  |         |         |         |            |
-| THIRTY       | khsusqa      |         |         |         |            |
-| FORTY        | vldisqa      |         |         |         |            |
-| FIFTY        | mngasqa      |         |         |         |            |
-| SIXTY        | katcosqa     |         |         |         |            |
-| SEVENTY      | kasnasqa     |         |         |         |            |
-| EIGHTY       | varjesqa     |         |         |         |            |
-| NINETY       | kanggisqa    |         |         |         |            |
+| TWO THOUSAND | n33tchen44       |         |         |         |            |
 
 ## numerals-zhab1238-1 / Zhaba, China / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -9948,7 +10595,9 @@
 | EIGHTY       | cye55ga35           |         |         |         |            |
 | NINETY       | gw55ga35            |         |         |         |            |
 | HUNDRED      | dza35               |         |         |         |            |
+| TWO HUNDRED  | na35dza35           |         |         |         |            |
 | THOUSAND     | tu55                |         |         |         |            |
+| TWO THOUSAND | na35tu55            |         |         |         |            |
 
 # decimal / Fiver
 ## numerals-abui1241-1 / Abui, Nusa Tenggara, Indonesia / Fiver:0.09 Tener:0.06 Twentier:0.00 Twoer:0.00
@@ -9992,7 +10641,9 @@
 | EIGHTY       | karjetisua           |          |         |         |            |
 | NINETY       | karjetibuti          |          |         |         |            |
 | HUNDRED      | aisahanuqu           |          |         |         |            |
+| TWO HUNDRED  | aisahaajoqu          |          |         |         |            |
 | THOUSAND     | rifinuqu             |          |         |         |            |
+| TWO THOUSAND | rifiajoqu            |          |         |         |            |
 
 ## numerals-alab1237-1 / Alabama, USA / Fiver:0.09 Tener:0.06 Twentier:0.00 Twoer:0.00
 
@@ -10035,50 +10686,54 @@
 | EIGHTY       | poolihchiontotchiina                |             |         |              |            |
 | NINETY       | poolihchichakkaali                  |             |         |              |            |
 | HUNDRED      | talliipaschaffaaka / hanti          |             |         |              |            |
+| TWO HUNDRED  | talliipastoklo                      |             |         |              |            |
 | THOUSAND     | taliipaspokkooli                    |             |         |              |            |
+| TWO THOUSAND | taliipaspoolistoklo                 |             |         |              |            |
 
 ## numerals-bign1238-1 / V'ënen Taut, Malekula, Vanuatu / Fiver:0.07 Tener:0.06 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------|:--------|:--------|:--------|:-----------|
-| ONE          | ist             |         |         |         |            |
-| TWO          | iru             |         |         |         |            |
-| THREE        | itl             |         |         | THIRTY  |            |
-| FOUR         | ida             |         |         | FORTY   |            |
-| FIVE         | iln             | SIXTEEN |         |         |            |
-| SIX          | ilnsei          |         |         |         |            |
-| SEVEN        | isaru           |         |         |         |            |
-| EIGHT        | isatl           |         |         |         |            |
-| NINE         | isabet          |         |         |         |            |
-| TEN          | snal            |         |         |         |            |
-| ELEVEN       | inalmaniamak    |         |         |         |            |
-| TWELVE       | inalmaniru      |         |         |         |            |
-| THIRTEEN     | inalmanitl      |         |         |         |            |
-| FOURTEEN     | inalmanida      |         |         |         |            |
-| FIFTEEN      | inalmaniln      | SIXTEEN |         |         |            |
-| SIXTEEN      | inalmanilnsei   |         |         |         |            |
-| SEVENTEEN    | inalmanisaru    |         |         |         |            |
-| EIGHTEEN     | inalmanisatl    |         |         |         |            |
-| NINETEEN     | inalmanisabet   |         |         |         |            |
-| TWENTY       | inelru          |         |         |         |            |
-| TWENTY ONE   | inelrumaniamak  |         |         |         |            |
-| TWENTY TWO   | inelrumaniru    |         |         |         |            |
-| TWENTY THREE | inelrumanitl    |         |         |         |            |
-| TWENTY FOUR  | inelrumanida    |         |         |         |            |
-| TWENTY FIVE  | inelrumaniln    |         |         |         |            |
-| TWENTY SIX   | inelrumanilnsei |         |         |         |            |
-| TWENTY SEVEN | inelrumanisaru  |         |         |         |            |
-| TWENTY EIGHT | inelrumanisatl  |         |         |         |            |
-| TWENTY NINE  | inelrumanisabet |         |         |         |            |
-| THIRTY       | inelitl         |         |         |         |            |
-| FORTY        | inelida         |         |         |         |            |
-| FIFTY        | ineliln         |         |         |         |            |
-| SIXTY        | inelilnsei      |         |         |         |            |
-| SEVENTY      | inelisaru       |         |         |         |            |
-| EIGHTY       | inelisatl       |         |         |         |            |
-| NINETY       | inelisabet      |         |         |         |            |
-| HUNDRED      | nelnalibamak    |         |         |         |            |
-| THOUSAND     | nelnalibanal    |         |         |         |            |
+| Concept      | Forms             | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:------------------|:--------|:--------|:--------|:-----------|
+| ONE          | ist               |         |         |         |            |
+| TWO          | iru               |         |         |         |            |
+| THREE        | itl               |         |         | THIRTY  |            |
+| FOUR         | ida               |         |         | FORTY   |            |
+| FIVE         | iln               | SIXTEEN |         |         |            |
+| SIX          | ilnsei            |         |         |         |            |
+| SEVEN        | isaru             |         |         |         |            |
+| EIGHT        | isatl             |         |         |         |            |
+| NINE         | isabet            |         |         |         |            |
+| TEN          | snal              |         |         |         |            |
+| ELEVEN       | inalmaniamak      |         |         |         |            |
+| TWELVE       | inalmaniru        |         |         |         |            |
+| THIRTEEN     | inalmanitl        |         |         |         |            |
+| FOURTEEN     | inalmanida        |         |         |         |            |
+| FIFTEEN      | inalmaniln        | SIXTEEN |         |         |            |
+| SIXTEEN      | inalmanilnsei     |         |         |         |            |
+| SEVENTEEN    | inalmanisaru      |         |         |         |            |
+| EIGHTEEN     | inalmanisatl      |         |         |         |            |
+| NINETEEN     | inalmanisabet     |         |         |         |            |
+| TWENTY       | inelru            |         |         |         |            |
+| TWENTY ONE   | inelrumaniamak    |         |         |         |            |
+| TWENTY TWO   | inelrumaniru      |         |         |         |            |
+| TWENTY THREE | inelrumanitl      |         |         |         |            |
+| TWENTY FOUR  | inelrumanida      |         |         |         |            |
+| TWENTY FIVE  | inelrumaniln      |         |         |         |            |
+| TWENTY SIX   | inelrumanilnsei   |         |         |         |            |
+| TWENTY SEVEN | inelrumanisaru    |         |         |         |            |
+| TWENTY EIGHT | inelrumanisatl    |         |         |         |            |
+| TWENTY NINE  | inelrumanisabet   |         |         |         |            |
+| THIRTY       | inelitl           |         |         |         |            |
+| FORTY        | inelida           |         |         |         |            |
+| FIFTY        | ineliln           |         |         |         |            |
+| SIXTY        | inelilnsei        |         |         |         |            |
+| SEVENTY      | inelisaru         |         |         |         |            |
+| EIGHTY       | inelisatl         |         |         |         |            |
+| NINETY       | inelisabet        |         |         |         |            |
+| HUNDRED      | nelnalibamak      |         |         |         |            |
+| TWO HUNDRED  | nelnalibaru       |         |         |         |            |
+| THOUSAND     | nelnalibanal      |         |         |         |            |
+| TWO THOUSAND | nelnalibanalibaru |         |         |         |            |
 
 ## numerals-gusi1247-1 / Gusii (Kisii), Kenya / Fiver:0.24 Tener:0.17 Twentier:0.00 Twoer:0.00
 
@@ -10121,7 +10776,9 @@
 | EIGHTY       | emerongoetanonaetato        |           |         |              |            |
 | NINETY       | emerongokianda              |           |         |              |            |
 | HUNDRED      | emiaejemo / riganaerimo     |           |         |              |            |
+| TWO HUNDRED  | tsimiaibere                 |           |         |              |            |
 | THOUSAND     | eribuejemo                  |           |         |              |            |
+| TWO THOUSAND | tsribuibere                 |           |         |              |            |
 
 ## numerals-kele1257-4 / Kélé (diKélé), Gabon / Fiver:0.36 Tener:0.17 Twentier:0.00 Twoer:0.00
 
@@ -10164,6 +10821,7 @@
 | EIGHTY       | mabumatannamalali       |           |         |              |            |
 | NINETY       | mabumatannamanayi       |           |         |              |            |
 | HUNDRED      | ngkama                  |           |         |              |            |
+| TWO HUNDRED  | ngkamamba               |           |         |              |            |
 
 ## numerals-luch1239-1 / Luchazi, Angola, Zambia / Fiver:0.36 Tener:0.17 Twentier:0.00 Twoer:0.00
 
@@ -10206,7 +10864,9 @@
 | EIGHTY       | makumiatanunatatu       |           |         |              |            |
 | NINETY       | makumiatanunauana       |           |         |              |            |
 | HUNDRED      | cihita                  |           |         |              |            |
+| TWO HUNDRED  | vihitavivali            |           |         |              |            |
 | THOUSAND     | likulukazi              |           |         |              |            |
+| TWO THOUSAND | makulukazimavali        |           |         |              |            |
 
 ## numerals-nort2641-1 / Kurmanji, Turkey, Iraq, Iran / Fiver:0.09 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -10249,7 +10909,9 @@
 | EIGHTY       | heyste    |           |         |         |            |
 | NINETY       | nod       |           |         |         |            |
 | HUNDRED      | sed       |           |         |         |            |
+| TWO HUNDRED  | desid     |           |         |         |            |
 | THOUSAND     | hezar     |           |         |         |            |
+| TWO THOUSAND | dehezar   |           |         |         |            |
 
 ## numerals-nyol1238-1 / Nyole (Lunyole), Uganda / Fiver:0.36 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -10292,7 +10954,9 @@
 | EIGHTY       | cinaana             |           |         |              |            |
 | NINETY       | cenda               |           |         |              |            |
 | HUNDRED      | hyasa               |           |         |              |            |
+| TWO HUNDRED  | ebyasabibiri        |           |         |              |            |
 | THOUSAND     | ebyasaehumi         |           |         |              |            |
+| TWO THOUSAND | ebyaabiri           |           |         |              |            |
 
 ## numerals-seki1238-1 / Seki, Gabon, Equatorial Guinea / Fiver:0.18 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -10338,46 +11002,50 @@
 
 ## numerals-tamk1242-1 / Tamki, Guéra region, Chad / Fiver:0.07 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver     | Twoer   | Tener   | Twentier   |
-|:-------------|:-------------------|:----------|:--------|:--------|:-----------|
-| ONE          | kiti               |           |         |         |            |
-| TWO          | mudu               | SEVENTEEN |         |         |            |
-| THREE        | suba               | EIGHTEEN  |         | THIRTY  |            |
-| FOUR         | pada               |           |         |         |            |
-| FIVE         | biya               |           |         |         |            |
-| SIX          | bependi            |           |         |         |            |
-| SEVEN        | bemudu             |           |         |         |            |
-| EIGHT        | besuba             |           |         |         |            |
-| NINE         | bepada             |           |         |         |            |
-| TEN          | orka               |           |         |         |            |
-| ELEVEN       | orkubuutikiti      |           |         |         |            |
-| TWELVE       | orkubuutimudu      |           |         |         |            |
-| THIRTEEN     | orkubuutisuba      |           |         |         |            |
-| FOURTEEN     | orkubuutipaada     |           |         |         |            |
-| FIFTEEN      | orkubuutibiya      |           |         |         |            |
-| SIXTEEN      | orkubuutibependi   |           |         |         |            |
-| SEVENTEEN    | orkubuutibemudu    |           |         |         |            |
-| EIGHTEEN     | orkubuutibesuba    |           |         |         |            |
-| NINETEEN     | orkubuutibepada    |           |         |         |            |
-| TWENTY       | uskiti             |           |         |         |            |
-| TWENTY ONE   | uskitibuutikiti    |           |         |         |            |
-| TWENTY TWO   | uskitibuutimuudu   |           |         |         |            |
-| TWENTY THREE | uskitibuutisuba    |           |         |         |            |
-| TWENTY FOUR  | uskitibuutipaada   |           |         |         |            |
-| TWENTY FIVE  | uskitibuutibiya    |           |         |         |            |
-| TWENTY SIX   | uskitibuutibependi |           |         |         |            |
-| TWENTY SEVEN | uskitibuutibemuudu |           |         |         |            |
-| TWENTY EIGHT | uskitibuutibesuba  |           |         |         |            |
-| TWENTY NINE  | uskitibuutibepada  |           |         |         |            |
-| THIRTY       | orkusuba           |           |         |         |            |
-| FORTY        | orkupaada          |           |         |         |            |
-| FIFTY        | orkubiyya          |           |         |         |            |
-| SIXTY        | orkubependi        |           |         |         |            |
-| SEVENTY      | orkubemuudu        |           |         |         |            |
-| EIGHTY       | orkubesuba         |           |         |         |            |
-| NINETY       | orkubepaada        |           |         |         |            |
-| HUNDRED      | miya               |           |         |         |            |
-| THOUSAND     | alip               |           |         |         |            |
+| Concept       | Forms              | Fiver     | Twoer   | Tener   | Twentier   |
+|:--------------|:-------------------|:----------|:--------|:--------|:-----------|
+| ONE           | kiti               |           |         |         |            |
+| TWO           | mudu               | SEVENTEEN |         |         |            |
+| THREE         | suba               | EIGHTEEN  |         | THIRTY  |            |
+| FOUR          | pada               |           |         |         |            |
+| FIVE          | biya               |           |         |         |            |
+| SIX           | bependi            |           |         |         |            |
+| SEVEN         | bemudu             |           |         |         |            |
+| EIGHT         | besuba             |           |         |         |            |
+| NINE          | bepada             |           |         |         |            |
+| TEN           | orka               |           |         |         |            |
+| ELEVEN        | orkubuutikiti      |           |         |         |            |
+| TWELVE        | orkubuutimudu      |           |         |         |            |
+| THIRTEEN      | orkubuutisuba      |           |         |         |            |
+| FOURTEEN      | orkubuutipaada     |           |         |         |            |
+| FIFTEEN       | orkubuutibiya      |           |         |         |            |
+| SIXTEEN       | orkubuutibependi   |           |         |         |            |
+| SEVENTEEN     | orkubuutibemudu    |           |         |         |            |
+| EIGHTEEN      | orkubuutibesuba    |           |         |         |            |
+| NINETEEN      | orkubuutibepada    |           |         |         |            |
+| TWENTY        | uskiti             |           |         |         |            |
+| TWENTY ONE    | uskitibuutikiti    |           |         |         |            |
+| TWENTY TWO    | uskitibuutimuudu   |           |         |         |            |
+| TWENTY THREE  | uskitibuutisuba    |           |         |         |            |
+| TWENTY FOUR   | uskitibuutipaada   |           |         |         |            |
+| TWENTY FIVE   | uskitibuutibiya    |           |         |         |            |
+| TWENTY SIX    | uskitibuutibependi |           |         |         |            |
+| TWENTY SEVEN  | uskitibuutibemuudu |           |         |         |            |
+| TWENTY EIGHT  | uskitibuutibesuba  |           |         |         |            |
+| TWENTY NINE   | uskitibuutibepada  |           |         |         |            |
+| THIRTY        | orkusuba           |           |         |         |            |
+| FORTY         | orkupaada          |           |         |         |            |
+| FIFTY         | orkubiyya          |           |         |         |            |
+| SIXTY         | orkubependi        |           |         |         |            |
+| SEVENTY       | orkubemuudu        |           |         |         |            |
+| EIGHTY        | orkubesuba         |           |         |         |            |
+| NINETY        | orkubepaada        |           |         |         |            |
+| HUNDRED       | miya               |           |         |         |            |
+| TWO HUNDRED   | miyamuudu          |           |         |         |            |
+| FOUR HUNDRED  | miyapada           |           |         |         |            |
+| EIGHT HUNDRED | miyabesuba         |           |         |         |            |
+| THOUSAND      | alip               |           |         |         |            |
+| TWO THOUSAND  | alipmuudu          |           |         |         |            |
 
 # quinary / Tener
 ## numerals-ache1245-1 / Acheron, Sudan / Fiver:0.29 Tener:0.47 Twentier:0.00 Twoer:0.00
@@ -10421,7 +11089,9 @@
 | EIGHTY       | gurrunggozagungzulluknazttk       |          |         |         |            |
 | NINETY       | gurrunggozagungzulluknabrando     |          |         |         |            |
 | HUNDRED      | gurrunggogurrung                  |          |         |         |            |
+| TWO HUNDRED  | gurrunggerkdummek                 |          |         |         |            |
 | THOUSAND     | gurrunggogurrungdummek            |          |         |         |            |
+| TWO THOUSAND | gurrunggogurrunggerkdummek        |          |         |         |            |
 
 ## numerals-aigh1235-1 / Aighon, Papua New Guinea / Fiver:0.09 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -10464,6 +11134,7 @@
 | EIGHTY       | sulukansuplimijuk         |           |         |             |            |
 | NINETY       | sulukansuplinal           |           |         |             |            |
 | HUNDRED      | sulukansulukanta          |           |         |             |            |
+| TWO HUNDRED  | sulukansulukanvuong       |           |         |             |            |
 
 ## numerals-aikl1237-1 / Aiklep (Kaul), Papua New Guinea / Fiver:0.11 Tener:0.72 Twentier:0.00 Twoer:0.00
 
@@ -10506,6 +11177,7 @@
 | EIGHTY       | sungulelmokmiok      |           |         |             |            |
 | NINETY       | sungulelmokpeng      |           |         |             |            |
 | HUNDRED      | wononake             |           |         |             |            |
+| TWO HUNDRED  | wonokyop             |           |         |             |            |
 
 ## numerals-amar1272-1 / Amara, Papua New Guinea / Fiver:0.22 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -10548,6 +11220,7 @@
 | EIGHTY       | singilmesungtelio |           |         |             |            |
 | NINETY       | singilmesilpangio |           |         |             |            |
 | HUNDRED      | kuvusnge          |           |         |             |            |
+| TWO HUNDRED  | kuvusngeruo       |           |         |             |            |
 
 ## numerals-ambl1237-1 / Amblong, Vanuatu / Fiver:0.07 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -10590,7 +11263,9 @@
 | EIGHTY       | monafulraftolu       |         |         |          |            |
 | NINETY       | monafulrampati       |         |         |          |            |
 | HUNDRED      | molafulmoatse        |         |         |          |            |
+| TWO HUNDRED  | molafulmorua         |         |         |          |            |
 | THOUSAND     | taumoatse            |         |         |          |            |
+| TWO THOUSAND | taumorua             |         |         |          |            |
 
 ## numerals-anua1242-1 / Anuak(Anyua), Ethiopia, S. Sudan / Fiver:0.07 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -10633,7 +11308,9 @@
 | EIGHTY       | pierabara           |         |         |             |            |
 | NINETY       | pierabingween       |         |         |             |            |
 | HUNDRED      | dipa                |         |         |             |            |
+| TWO HUNDRED  | dipariyo            |         |         |             |            |
 | THOUSAND     | kumaaciel           |         |         |             |            |
+| TWO THOUSAND | kumeariyo           |         |         |             |            |
 
 ## numerals-arop1243-1 / Arop-Lokep, Papua New Guinea / Fiver:0.33 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -10676,7 +11353,9 @@
 | EIGHTY       | sangauullimibetol       |          |         |             |            |
 | NINETY       | sangauullimibepai       |          |         |             |            |
 | HUNDRED      | sangauulsangauul        |          |         |             |            |
+| TWO HUNDRED  | sangauulsangauulru      |          |         |             |            |
 | THOUSAND     | tauatu                  |          |         |             |            |
+| TWO THOUSAND | tauru                   |          |         |             |            |
 
 ## numerals-aulu1238-1 / Aulua, Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -10719,7 +11398,9 @@
 | EIGHTY       | ngavulnrohtil                |         |         |             |            |
 | NINETY       | ngavulnrohves                |         |         |             |            |
 | HUNDRED      | ngotmbavogol                 |         |         |             |            |
+| TWO HUNDRED  | ngotmbarua                   |         |         |             |            |
 | THOUSAND     | ngotsarmbavogol              |         |         |             |            |
+| TWO THOUSAND | ngotsarmbarua                |         |         |             |            |
 
 ## numerals-ayiw1239-1 / Äiwoo, Solomon Islands / Fiver:0.04 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -10762,7 +11443,9 @@
 | EIGHTY       | nugoluwaepolee              |          |         |             |            |
 | NINETY       | nugoluwaepolouvae           |          |         |             |            |
 | HUNDRED      | tevisiki                    |          |         |             |            |
+| TWO HUNDRED  | tevisikililu                |          |         |             |            |
 | THOUSAND     | nuobunyigi                  |          |         |             |            |
+| TWO THOUSAND | nuobulilu                   |          |         |             |            |
 
 ## numerals-ayiw1239-2 / Äiwoo, Solomon Islands / Fiver:0.04 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -10805,7 +11488,9 @@
 | EIGHTY       | nugoluwaepolee            |          |         |             |            |
 | NINETY       | nugoluwaepolouvae         |          |         |             |            |
 | HUNDRED      | tevisiginigi              |          |         |             |            |
+| TWO HUNDRED  | tevisigililu              |          |         |             |            |
 | THOUSAND     | nuwobanigi                |          |         |             |            |
+| TWO THOUSAND | nuwobalilu                |          |         |             |            |
 
 ## numerals-bari1286-1 / Bariai, Papua New Guinea / Fiver:0.36 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -10848,7 +11533,9 @@
 | EIGHTY       | sangalimasangaultol           |           |         |             |            |
 | NINETY       | sangalimasangaulpange         |           |         |             |            |
 | HUNDRED      | buno                          |           |         |             |            |
+| TWO HUNDRED  | bunorua                       |           |         |             |            |
 | THOUSAND     | bunoringring                  |           |         |             |            |
+| TWO THOUSAND | bunoringringrua               |           |         |             |            |
 
 ## numerals-bari1286-2 / Bariai, Papua New Guinea / Fiver:0.36 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -10891,6 +11578,7 @@
 | EIGHTY       | sangaullimagatolu     |           |         |             |            |
 | NINETY       | sangaullimagapange    |           |         |             |            |
 | HUNDRED      | buno                  |           |         |             |            |
+| TWO HUNDRED  | bunorua               |           |         |             |            |
 
 ## numerals-burm1263-1 / Ndenggan (Banam Bay), Vanuatu / Fiver:0.02 Tener:0.31 Twentier:0.00 Twoer:0.00
 
@@ -10976,7 +11664,9 @@
 | EIGHTY       | ngaraftol         |         |         |          |            |
 | NINETY       | ngarapat          |         |         |          |            |
 | HUNDRED      | laful             |         |         |          |            |
+| TWO HUNDRED  | lafulfuru         |         |         |          |            |
 | THOUSAND     | taufatakai        |         |         |          |            |
+| TWO THOUSAND | taufuru           |         |         |          |            |
 
 ## numerals-carr1249-1 / Carrier, Canada / Fiver:0.04 Tener:0.72 Twentier:0.00 Twoer:0.12
 
@@ -11019,7 +11709,9 @@
 | EIGHTY       | lkdnggixwnizyai           |           |         |              |            |
 | NINETY       | ilohulohxwnizyai          |           |         |              |            |
 | HUNDRED      | xwnizyaixwnizyai / honded |           |         |              |            |
+| TWO HUNDRED  | nankihonded               |           |         |              |            |
 | THOUSAND     | ilothauzan                |           |         |              |            |
+| TWO THOUSAND | nankithauzan              |           |         |              |            |
 
 ## numerals-cent1989-1 / Khmer, Cambodia / Fiver:0.13 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -11062,7 +11754,9 @@
 | EIGHTY       | paeesup        |           |         |          |            |
 | NINETY       | kaewsup        |           |         |          |            |
 | HUNDRED      | roj            |           |         |          |            |
+| TWO HUNDRED  | piirooy        |           |         |          |            |
 | THOUSAND     | poan           |           |         |          |            |
+| TWO THOUSAND | piipoan        |           |         |          |            |
 
 ## numerals-cofa1242-1 / Cofán, Colombia, Ecuador / Fiver:0.09 Tener:0.33 Twentier:0.00 Twoer:0.20
 
@@ -11105,7 +11799,9 @@
 | EIGHTY       | khafaisejikhwanitsungga         |           |         |              |            |
 | NINETY       | khafaisejikhathufajitsungga     |           |         |              |            |
 | HUNDRED      | cien                            |           |         |              |            |
+| TWO HUNDRED  | doscientos                      |           |         |              |            |
 | THOUSAND     | mil                             |           |         |              |            |
+| TWO THOUSAND | dosmil                          |           |         |              |            |
 
 ## numerals-daka1243-1 / Daakaka, Vanuatu / Fiver:0.04 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -11148,6 +11844,7 @@
 | EIGHTY       | ungmilifsi        |          |         |             |            |
 | NINETY       | ungmepar          |          |         |             |            |
 | HUNDRED      | ungsungabi        |          |         |             |            |
+| TWO HUNDRED  | ungsungabibjasi   |          |         |             |            |
 
 ## numerals-dama1272-1 / Damal, Papua, Indonesia / Fiver:0.13 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -11190,7 +11887,9 @@
 | EIGHTY       | menagaoeaju                       |           |         |             |            |
 | NINETY       | menagaoeamoep                     |           |         |             |            |
 | HUNDRED      | menagaoeamathenamat               |           |         |             |            |
+| TWO HUNDRED  | nokhau                            |           |         |             |            |
 | THOUSAND     | maralingamwaiyuk                  |           |         |             |            |
+| TWO THOUSAND | maralingamwaiyuk                  |           |         |             |            |
 
 ## numerals-dein1238-1 / Deing, Flores, Indonesia / Fiver:0.04 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -11233,7 +11932,9 @@
 | EIGHTY       | qarsantig         |          |         |             |            |
 | NINETY       | qarsanut          |          |         |             |            |
 | HUNDRED      | aratu             |          |         |             |            |
+| TWO HUNDRED  | araturaq          |          |         |             |            |
 | THOUSAND     | aribunuk          |          |         |             |            |
+| TWO THOUSAND | ariburaq          |          |         |             |            |
 
 ## numerals-diri1252-1 / Diriku (RuGciriku), Namibia / Fiver:0.36 Tener:0.53 Twentier:0.00 Twoer:0.00
 
@@ -11276,7 +11977,9 @@
 | EIGHTY       | murongotanonatatu      |           |         |              |            |
 | NINETY       | murongotanonane        |           |         |              |            |
 | HUNDRED      | lifere                 |           |         |              |            |
+| TWO HUNDRED  | maferemaviri           |           |         |              |            |
 | THOUSAND     | liyovi / maferemurongo |           |         |              |            |
+| TWO THOUSAND | mayovimurongo          |           |         |              |            |
 
 ## numerals-fort1240-1 / Fortsenal, Vanuatu / Fiver:0.04 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -11319,7 +12022,9 @@
 | EIGHTY       | nabulrabtolu                |         |         |          |            |
 | NINETY       | nabulrambati                |         |         |          |            |
 | HUNDRED      | labul                       |         |         |          |            |
+| TWO HUNDRED  | labulrua                    |         |         |          |            |
 | THOUSAND     | labulbasanbulu / wantasusen |         |         |          |            |
+| TWO THOUSAND | labulbanabulrua             |         |         |          |            |
 
 ## numerals-gimi1242-1 / Gimi (Loko), Papua New Guinea / Fiver:0.27 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -11362,7 +12067,9 @@
 | EIGHTY       | sungulmoklekonliemngo         |           |         |             |            |
 | NINETY       | sungulpenglekonliemngo        |           |         |             |            |
 | HUNDRED      | sungulsungul                  |           |         |             |            |
+| TWO HUNDRED  | tuhandret                     |           |         |             |            |
 | THOUSAND     | wantausen                     |           |         |             |            |
+| TWO THOUSAND | tutausen                      |           |         |             |            |
 
 ## numerals-haho1237-1 / Hahon, Papua New Guinea / Fiver:0.36 Tener:0.61 Twentier:0.00 Twoer:0.00
 
@@ -11405,7 +12112,9 @@
 | EIGHTY       | taunimamanakukanasavun        |           |         |              |            |
 | NINETY       | taunimamanatanasavun          |           |         |              |            |
 | HUNDRED      | oanhandrat                    |           |         |              |            |
+| TWO HUNDRED  | tuhandrat                     |           |         |              |            |
 | THOUSAND     | oantausen                     |           |         |              |            |
+| TWO THOUSAND | tutausen                      |           |         |              |            |
 
 ## numerals-ilon1239-2 / Ilongot, Luzon, Philippines / Fiver:0.36 Tener:0.42 Twentier:0.00 Twoer:0.00
 
@@ -11448,7 +12157,9 @@
 | EIGHTY       | tansibanotagompo        |           |         |             |            |
 | NINETY       | tansibanoapatapu        |           |         |             |            |
 | HUNDRED      | tanmolo                 |           |         |             |            |
+| TWO HUNDRED  | dowanmolo               |           |         |             |            |
 | THOUSAND     | tangibo                 |           |         |             |            |
+| TWO THOUSAND | dowangibo               |           |         |             |            |
 
 ## numerals-kaer1234-1 / Kaera, Flores, Indonesia / Fiver:0.02 Tener:0.19 Twentier:0.00 Twoer:0.00
 
@@ -11491,7 +12202,9 @@
 | EIGHTY       | xarjentug                         |          |         |          |            |
 | NINETY       | xarjeniut                         |          |         |          |            |
 | HUNDRED      | ratunuku                          |          |         |          |            |
+| TWO HUNDRED  | raturax                           |          |         |          |            |
 | THOUSAND     | ribunuk                           |          |         |          |            |
+| TWO THOUSAND | riburax                           |          |         |          |            |
 
 ## numerals-kair1263-1 / Kairiru, Papua New Guinea / Fiver:0.36 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -11576,7 +12289,9 @@
 | EIGHTY       | leeblakkiadooba        |         |         |             |            |
 | NINETY       | leeblasakka            |         |         |             |            |
 | HUNDRED      | hii                    |         |         |             |            |
+| TWO HUNDRED  | hiinoba                |         |         |             |            |
 | THOUSAND     | zaakkooge              |         |         |             |            |
+| TWO THOUSAND | zaakkoogenoba          |         |         |             |            |
 
 ## numerals-kara1486-1 / Kara (Lemakot), Papua New Guinea / Fiver:0.04 Tener:0.72 Twentier:0.00 Twoer:0.00
 
@@ -11661,7 +12376,9 @@
 | EIGHTY       | luwalimaluwatolu |           |         |             |            |
 | NINETY       | luwalimaluwavasi |           |         |             |            |
 | HUNDRED      | lakatutala       |           |         |             |            |
+| TWO HUNDRED  | lakatuyu         |           |         |             |            |
 | THOUSAND     | lakatuluwatala   |           |         |             |            |
+| TWO THOUSAND | lakatuluwayu     |           |         |             |            |
 
 ## numerals-kiss1246-1 / Kis, Papua New Guinea / Fiver:0.36 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -11704,7 +12421,9 @@
 | EIGHTY       | kulemualimatolni          |           |         |             |            |
 | NINETY       | kulemualimaowani          |           |         |             |            |
 | HUNDRED      | kulemuabalakulemua        |           |         |             |            |
+| TWO HUNDRED  | kulemuabalakulemuaulani   |           |         |             |            |
 | THOUSAND     | kulemuabalakulemuabala    |           |         |             |            |
+| TWO THOUSAND | kulemuabalakulemuaulani   |           |         |             |            |
 
 ## numerals-komo1260-1 / Komo, DR of the Congo / Fiver:0.33 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -11747,7 +12466,9 @@
 | EIGHTY       | nkamamonane                    |           |         |             |            |
 | NINETY       | nkamatisa                      |           |         |             |            |
 | HUNDRED      | mia                            |           |         |             |            |
+| TWO HUNDRED  | miaibe                         |           |         |             |            |
 | THOUSAND     | eephu / elephu                 |           |         |             |            |
+| TWO THOUSAND | elephuibe                      |           |         |             |            |
 
 ## numerals-kove1237-1 / Kove, Papua New Guinea / Fiver:0.36 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -11832,6 +12553,7 @@
 | EIGHTY       | sangalimagatolu       |           |         |             |            |
 | NINETY       | sangalimagapange      |           |         |             |            |
 | HUNDRED      | buno                  |           |         |             |            |
+| TWO HUNDRED  | bunohua               |           |         |             |            |
 | THOUSAND     | bunosangaulu          |           |         |             |            |
 
 ## numerals-kowi1239-1 / Kowiai, Papua, Indonesia / Fiver:0.36 Tener:0.44 Twentier:0.00 Twoer:0.00
@@ -11875,7 +12597,9 @@
 | EIGHTY       | subutrimtor            |           |         |             |            |
 | NINETY       | subutrimfat            |           |         |             |            |
 | HUNDRED      | raca                   |           |         |             |            |
+| TWO HUNDRED  | ratwet                 |           |         |             |            |
 | THOUSAND     | rifun                  |           |         |             |            |
+| TWO THOUSAND | rifunwet               |           |         |             |            |
 
 ## numerals-kuan1248-1 / Kuanua (Tolai), Papua New Guinea / Fiver:0.00 Tener:0.19 Twentier:0.00 Twoer:0.00
 
@@ -11918,7 +12642,9 @@
 | EIGHTY       | alavutulnavinun     |         |         |          |            |
 | NINETY       | alavuvatnavinun     |         |         |          |            |
 | HUNDRED      | tikanamar           |         |         |          |            |
+| TWO HUNDRED  | auramar             |         |         |          |            |
 | THOUSAND     | tikanaarip          |         |         |          |            |
+| TWO THOUSAND | auraarip            |         |         |          |            |
 
 ## numerals-kulo1237-1 / Pazeh, Taiwan / Fiver:0.11 Tener:0.58 Twentier:0.00 Twoer:0.00
 
@@ -11961,7 +12687,9 @@
 | EIGHTY       | xasabituruisit      |           |         |             |            |
 | NINETY       | xasabisupatisit     |           |         |             |            |
 | HUNDRED      | adangahatal         |           |         |             |            |
+| TWO HUNDRED  | dusahatal           |           |         |             |            |
 | THOUSAND     | adangasahal         |           |         |             |            |
+| TWO THOUSAND | dusasahal           |           |         |             |            |
 
 ## numerals-kwan1273-1 / Kwangali, Namibia, Angola / Fiver:0.36 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -12004,7 +12732,9 @@
 | EIGHTY       | nomrongontanonantatu    |           |         |              |            |
 | NINETY       | nomrongontanonane       |           |         |              |            |
 | HUNDRED      | esere                   |           |         |              |            |
+| TWO HUNDRED  | maseregavali            |           |         |              |            |
 | THOUSAND     | eyuvi                   |           |         |              |            |
+| TWO THOUSAND | mayuvinomrongo          |           |         |              |            |
 
 ## numerals-lako1245-1 / Lakona, Vanuatu / Fiver:0.04 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12047,7 +12777,9 @@
 | EIGHTY       | gapraelabitil           |         |         |         |            |
 | NINETY       | gapraelabibaes          |         |         |         |            |
 | HUNDRED      | mwilitsil               |         |         |         |            |
+| TWO HUNDRED  | mwilitsilbagru          |         |         |         |            |
 | THOUSAND     | tae                     |         |         |         |            |
+| TWO THOUSAND | taebagru                |         |         |         |            |
 
 ## numerals-lamo1244-1 / Lamogai, Papua New Guinea / Fiver:0.27 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -12090,7 +12822,9 @@
 | EIGHTY       | songotnoelmeitlu              |           |         |             |            |
 | NINETY       | songotnoelmeapanal            |           |         |             |            |
 | HUNDRED      | vunoruoisa                    |           |         |             |            |
+| TWO HUNDRED  | vunoruoakap                   |           |         |             |            |
 | THOUSAND     | vantausen                     |           |         |             |            |
+| TWO THOUSAND | tutausen                      |           |         |             |            |
 
 ## numerals-leme1238-1 / Lehali (Teqel), Banks Is, Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12133,7 +12867,9 @@
 | EIGHTY       | sangwullebetel          |         |         |         |            |
 | NINETY       | sangwullebebet          |         |         |         |            |
 | HUNDRED      | ngwelndel               |         |         |         |            |
+| TWO HUNDRED  | ngwelndelbajo           |         |         |         |            |
 | THOUSAND     | tej                     |         |         |         |            |
+| TWO THOUSAND | tejbajo                 |         |         |         |            |
 
 ## numerals-leme1238-2 / Lemerig (Pak), Banks Is, Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12176,7 +12912,9 @@
 | EIGHTY       | sangwullibol           |         |         |         |            |
 | NINETY       | sangwullibibe          |         |         |         |            |
 | HUNDRED      | mweltol                |         |         |         |            |
+| TWO HUNDRED  | mweltol                |         |         |         |            |
 | THOUSAND     | ar                     |         |         |         |            |
+| TWO THOUSAND | ar                     |         |         |         |            |
 
 ## numerals-loto1240-1 / Toga, Vanuatu / Fiver:0.07 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -12219,7 +12957,9 @@
 | EIGHTY       | hengwawullabatal               |           |         |              |            |
 | NINETY       | hengwawullibibet               |           |         |              |            |
 | HUNDRED      | wunbagatuwe                    |           |         |              |            |
+| TWO HUNDRED  | wunbagarua                     |           |         |              |            |
 | THOUSAND     | terbagatuwe                    |           |         |              |            |
+| TWO THOUSAND | terbagarua                     |           |         |              |            |
 
 ## numerals-lusi1240-1 / Lusi (Kaliai), Papua New Guinea / Fiver:0.36 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -12262,6 +13002,7 @@
 | EIGHTY       | sangaululimagatolu     |           |         |             |            |
 | NINETY       | sangaululimagapange    |           |         |             |            |
 | HUNDRED      | buno                   |           |         |             |            |
+| TWO HUNDRED  | bunorua                |           |         |             |            |
 
 ## numerals-madi1260-1 / Ma'di, Uganda, South Sudan / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.04
 
@@ -12304,7 +13045,9 @@
 | EIGHTY       | mudriaro             |         |         |         |            |
 | NINETY       | mudridritsalu        |         |         |         |            |
 | HUNDRED      | mia                  |         |         |         |            |
+| TWO HUNDRED  | miaeri               |         |         |         |            |
 | THOUSAND     | elifu                |         |         |         |            |
+| TWO THOUSAND | elifueri             |         |         |         |            |
 
 ## numerals-maee1241-1 / Mae (Tirax), Vanuatu / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -12389,7 +13132,9 @@
 | EIGHTY       | nanauimareriaaiseri     |           |         |             |            |
 | NINETY       | nanauimareriavasi       |           |         |             |            |
 | HUNDRED      | wuwuruana               |           |         |             |            |
+| TWO HUNDRED  | wuwurubuau              |           |         |             |            |
 | THOUSAND     | wuwuruimabuau           |           |         |             |            |
+| TWO THOUSAND | wuwuruimavasi           |           |         |             |            |
 
 ## numerals-mail1248-1 / Mailu (Magi), Papua New Guinea / Fiver:0.22 Tener:0.44 Twentier:0.00 Twoer:0.04
 
@@ -12432,7 +13177,9 @@
 | EIGHTY       | nanauimaliliaaiseri     |           |         |             |            |
 | NINETY       | nanauimaliliatourai     |           |         |             |            |
 | HUNDRED      | wuwuruomu / nanaugabana |           |         |             |            |
+| TWO HUNDRED  | wuwuruava               |           |         |             |            |
 | THOUSAND     | wuwuruimaomu            |           |         |             |            |
+| TWO THOUSAND | wuwuruimaava            |           |         |             |            |
 
 ## numerals-mamb1306-1 / Mambae (Mambai), East Timor / Fiver:0.36 Tener:0.72 Twentier:0.00 Twoer:0.00
 
@@ -12475,7 +13222,9 @@
 | EIGHTY       | sagulhatlimnaintelu        |           |         |             |            |
 | NINETY       | sagulhatlimnainpata        |           |         |             |            |
 | HUNDRED      | atusis                     |           |         |             |            |
+| TWO HUNDRED  | atusrua                    |           |         |             |            |
 | THOUSAND     | rihunid                    |           |         |             |            |
+| TWO THOUSAND | rihunrua                   |           |         |             |            |
 
 ## numerals-mamu1254-1 / Mamusi, Papua New Guinea / Fiver:0.13 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12518,6 +13267,7 @@
 | EIGHTY       | waililotelimoloi     |           |         |             |            |
 | NINETY       | waililotelitul       |           |         |             |            |
 | HUNDRED      | kanapilo             |           |         |             |            |
+| TWO HUNDRED  | kanapiloluo          |           |         |             |            |
 
 ## numerals-mand1423-1 / (ki)Manda, Tanzania / Fiver:0.11 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -12560,7 +13310,9 @@
 | EIGHTY       | makumimuhanunamakumigadatu   |         |         |         |            |
 | NINETY       | makumimuhanunamakumincheche  |         |         |         |            |
 | HUNDRED      | malongokumi / miamoja        |         |         |         |            |
+| TWO HUNDRED  | miambili                     |         |         |         |            |
 | THOUSAND     | elfumoja                     |         |         |         |            |
+| TWO THOUSAND | elfumbili                    |         |         |         |            |
 
 ## numerals-mang1403-1 / Mangseng, Papua New Guinea / Fiver:0.20 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12603,6 +13355,7 @@
 | EIGHTY       | ormulepalime                |          |         |         |            |
 | NINETY       | ormulepalibenel             |          |         |         |            |
 | HUNDRED      | ormulepamule                |          |         |         |            |
+| TWO HUNDRED  | handretoraini               |          |         |         |            |
 
 ## numerals-mari1426-1 / Sungwadia (Marino), Vanuatu / Fiver:0.11 Tener:0.31 Twentier:0.00 Twoer:0.00
 
@@ -12645,7 +13398,9 @@
 | EIGHTY       | sawullafatolu            |           |         |             |            |
 | NINETY       | sawullafati              |           |         |             |            |
 | HUNDRED      | mwendol                  |           |         |             |            |
+| TWO HUNDRED  | mwendolrua               |           |         |             |            |
 | THOUSAND     | tari                     |           |         |             |            |
+| TWO THOUSAND | tarirua                  |           |         |             |            |
 
 ## numerals-mate1258-1 / Matengo, Tanzania / Fiver:0.09 Tener:0.22 Twentier:0.00 Twoer:0.00
 
@@ -12688,50 +13443,54 @@
 | EIGHTY       | makominghanunapalagatatu        |           |         |              |            |
 | NINETY       | makominghanunapalamakominsesi   |           |         |              |            |
 | HUNDRED      | makomikomi / limjanggulimu      |           |         |              |            |
+| TWO HUNDRED  | mamjanggugabeli                 |           |         |              |            |
 | THOUSAND     | elupulimu                       |           |         |              |            |
+| TWO THOUSAND | elupuibeli                      |           |         |              |            |
 
 ## numerals-mbaa1245-1 / Mba, DR of the Congo / Fiver:0.33 Tener:0.44 Twentier:0.00 Twoer:0.12
 
-| Concept      | Forms                       | Fiver    | Twoer   | Tener       | Twentier   |
-|:-------------|:----------------------------|:---------|:--------|:------------|:-----------|
-| ONE          | uma                         | SIXTEEN  | NINE    |             |            |
-| TWO          | bine                        |          |         | TWENTY NINE |            |
-| THREE        | byala                       | EIGHTEEN |         | THIRTY      |            |
-| FOUR         | angbote                     | NINETEEN |         | FORTY       |            |
-| FIVE         | buma                        | NINETEEN |         |             |            |
-| SIX          | bumatele                    |          |         |             |            |
-| SEVEN        | bumatesene                  |          |         |             |            |
-| EIGHT        | bumatebyala                 |          |         |             |            |
-| NINE         | bumateangbote               |          |         |             |            |
-| TEN          | abusa                       |          |         | NINETEEN    |            |
-| ELEVEN       | abusateuma                  |          |         |             |            |
-| TWELVE       | abusatebine                 |          |         |             |            |
-| THIRTEEN     | abusatebyala                |          |         |             |            |
-| FOURTEEN     | abusateangbote              |          |         |             |            |
-| FIFTEEN      | abusatebuma                 | NINETEEN |         |             |            |
-| SIXTEEN      | abusatebumatele             |          |         |             |            |
-| SEVENTEEN    | abusatebumatesene           |          |         |             |            |
-| EIGHTEEN     | abusatebumatebyala          |          |         |             |            |
-| NINETEEN     | abusatebumateangbote        |          |         |             |            |
-| TWENTY       | kamebine                    |          |         |             |            |
-| TWENTY ONE   | kamebineteuma               |          |         |             |            |
-| TWENTY TWO   | kamebinetebine              |          |         |             |            |
-| TWENTY THREE | kamebinetebyala             |          |         |             |            |
-| TWENTY FOUR  | kamebineteangbote           |          |         |             |            |
-| TWENTY FIVE  | kamebinetebuma              |          |         |             |            |
-| TWENTY SIX   | kamebinetebumatele          |          |         |             |            |
-| TWENTY SEVEN | kamebinetebumatesene        |          |         |             |            |
-| TWENTY EIGHT | kamebinetebumatebyala       |          |         |             |            |
-| TWENTY NINE  | kamebinetebumateangbote     |          |         |             |            |
-| THIRTY       | kamebyala                   |          |         |             |            |
-| FORTY        | kameangbote                 |          |         |             |            |
-| FIFTY        | kamebuma                    |          |         |             |            |
-| SIXTY        | kamebumatele                |          |         |             |            |
-| SEVENTY      | kamebumatesene              |          |         |             |            |
-| EIGHTY       | kamebumatebyala             |          |         |             |            |
-| NINETY       | kamebumateangbote           |          |         |             |            |
-| HUNDRED      | myauma / kpongbolokukima    |          |         |             |            |
-| THOUSAND     | elfuuma / kpongbolokugokima |          |         |             |            |
+| Concept      | Forms                              | Fiver    | Twoer   | Tener       | Twentier   |
+|:-------------|:-----------------------------------|:---------|:--------|:------------|:-----------|
+| ONE          | uma                                | SIXTEEN  | NINE    |             |            |
+| TWO          | bine                               |          |         | TWENTY NINE |            |
+| THREE        | byala                              | EIGHTEEN |         | THIRTY      |            |
+| FOUR         | angbote                            | NINETEEN |         | FORTY       |            |
+| FIVE         | buma                               | NINETEEN |         |             |            |
+| SIX          | bumatele                           |          |         |             |            |
+| SEVEN        | bumatesene                         |          |         |             |            |
+| EIGHT        | bumatebyala                        |          |         |             |            |
+| NINE         | bumateangbote                      |          |         |             |            |
+| TEN          | abusa                              |          |         | NINETEEN    |            |
+| ELEVEN       | abusateuma                         |          |         |             |            |
+| TWELVE       | abusatebine                        |          |         |             |            |
+| THIRTEEN     | abusatebyala                       |          |         |             |            |
+| FOURTEEN     | abusateangbote                     |          |         |             |            |
+| FIFTEEN      | abusatebuma                        | NINETEEN |         |             |            |
+| SIXTEEN      | abusatebumatele                    |          |         |             |            |
+| SEVENTEEN    | abusatebumatesene                  |          |         |             |            |
+| EIGHTEEN     | abusatebumatebyala                 |          |         |             |            |
+| NINETEEN     | abusatebumateangbote               |          |         |             |            |
+| TWENTY       | kamebine                           |          |         |             |            |
+| TWENTY ONE   | kamebineteuma                      |          |         |             |            |
+| TWENTY TWO   | kamebinetebine                     |          |         |             |            |
+| TWENTY THREE | kamebinetebyala                    |          |         |             |            |
+| TWENTY FOUR  | kamebineteangbote                  |          |         |             |            |
+| TWENTY FIVE  | kamebinetebuma                     |          |         |             |            |
+| TWENTY SIX   | kamebinetebumatele                 |          |         |             |            |
+| TWENTY SEVEN | kamebinetebumatesene               |          |         |             |            |
+| TWENTY EIGHT | kamebinetebumatebyala              |          |         |             |            |
+| TWENTY NINE  | kamebinetebumateangbote            |          |         |             |            |
+| THIRTY       | kamebyala                          |          |         |             |            |
+| FORTY        | kameangbote                        |          |         |             |            |
+| FIFTY        | kamebuma                           |          |         |             |            |
+| SIXTY        | kamebumatele                       |          |         |             |            |
+| SEVENTY      | kamebumatesene                     |          |         |             |            |
+| EIGHTY       | kamebumatebyala                    |          |         |             |            |
+| NINETY       | kamebumateangbote                  |          |         |             |            |
+| HUNDRED      | myauma / kpongbolokukima           |          |         |             |            |
+| TWO HUNDRED  | myabine / kpongbolokuzebizine      |          |         |             |            |
+| THOUSAND     | elfuuma / kpongbolokugokima        |          |         |             |            |
+| TWO THOUSAND | elfubine / kpongbolokudjidjizibine |          |         |             |            |
 
 ## numerals-merl1237-1 / Merlav (Mwerlap), Vanuatu / Fiver:0.00 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -12774,7 +13533,9 @@
 | EIGHTY       | saengavullevaeatul            |         |         |         |            |
 | NINETY       | saengavulleffet               |         |         |         |            |
 | HUNDRED      | meldol                        |         |         |         |            |
+| TWO HUNDRED  | meldolvagarua                 |         |         |         |            |
 | THOUSAND     | tar                           |         |         |         |            |
+| TWO THOUSAND | tarvagarua                    |         |         |         |            |
 
 ## numerals-mini1251-1 / Minigir, Papua New Guinea / Fiver:0.04 Tener:0.67 Twentier:0.00 Twoer:0.00
 
@@ -12817,7 +13578,9 @@
 | EIGHTY       | alavutulnavinunu     |         |         |              |            |
 | NINETY       | alevuvanavinunu      |         |         |              |            |
 | HUNDRED      | amari                |         |         |              |            |
+| TWO HUNDRED  | aramari              |         |         |              |            |
 | THOUSAND     | arip                 |         |         |              |            |
+| TWO THOUSAND | aurarip              |         |         |              |            |
 
 ## numerals-miuu1237-1 / Miu (Myu), Papua New Guinea / Fiver:0.31 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12860,7 +13623,9 @@
 | EIGHTY       | khummyukmesup                        |           |         |             |            |
 | NINETY       | khummnalmesup                        |           |         |             |            |
 | HUNDRED      | khumepukhumeputukumen                |           |         |             |            |
+| TWO HUNDRED  | handetkahutpunwal                    |           |         |             |            |
 | THOUSAND     | wantausen                            |           |         |             |            |
+| TWO THOUSAND | tausenkahutpunwal                    |           |         |             |            |
 
 ## numerals-moru1253-1 / Moru, South Sudan / Fiver:0.36 Tener:0.75 Twentier:0.00 Twoer:0.12
 
@@ -12903,7 +13668,9 @@
 | EIGHTY       | butendzidrina          |           |         |             |            |
 | NINETY       | butendzidrisu          |           |         |             |            |
 | HUNDRED      | kamaalu                |           |         |             |            |
+| TWO HUNDRED  | miari                  |           |         |             |            |
 | THOUSAND     | kutualu                |           |         |             |            |
+| TWO THOUSAND | kuturi                 |           |         |             |            |
 
 ## numerals-mota1237-1 / Mota, Vanuatu / Fiver:0.02 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12946,7 +13713,9 @@
 | EIGHTY       | sangabullabeatol            |         |         |         |            |
 | NINETY       | sangabullabeabat            |         |         |         |            |
 | HUNDRED      | melnol                      |         |         |         |            |
+| TWO HUNDRED  | melnolbararua               |         |         |         |            |
 | THOUSAND     | tar                         |         |         |         |            |
+| TWO THOUSAND | tarbararua                  |         |         |         |            |
 
 ## numerals-motl1237-1 / Motlav (Mwotlap), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -12989,7 +13758,9 @@
 | EIGHTY       | songwullebetil            |         |         |         |            |
 | NINETY       | songwullebebet            |         |         |         |            |
 | HUNDRED      | mwelndil                  |         |         |         |            |
+| TWO HUNDRED  | mwelndilbagju             |         |         |         |            |
 | THOUSAND     | tej                       |         |         |         |            |
+| TWO THOUSAND | tejbagju                  |         |         |         |            |
 
 ## numerals-mouk1239-1 / Mouk-Aria, Papua New Guinea / Fiver:0.16 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -13032,6 +13803,7 @@
 | EIGHTY       | iselmeisetlu              |          |         |             |            |
 | NINETY       | iselmeisapanal            |          |         |             |            |
 | HUNDRED      | buno                      |          |         |             |            |
+| TWO HUNDRED  | bunooruo                  |          |         |             |            |
 
 ## numerals-mouk1240-1 / Mouk-Aria (Mouk dialect), Papua New Guinea / Fiver:0.09 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13074,6 +13846,7 @@
 | EIGHTY       | iselmeisetli      |          |         |             |            |
 | NINETY       | iselmeisapeinal   |          |         |             |            |
 | HUNDRED      | buno              |          |         |             |            |
+| TWO HUNDRED  | bunooxuo          |          |         |             |            |
 
 ## numerals-nali1244-1 / Nalik, Papua New Guinea / Fiver:0.02 Tener:0.72 Twentier:0.00 Twoer:0.00
 
@@ -13116,6 +13889,7 @@
 | EIGHTY       | kazanafluvaviziktal           |           |         |             |            |
 | NINETY       | kazanafluvavikafaat           |           |         |             |            |
 | HUNDRED      | kazanafluvarazuai             |           |         |             |            |
+| TWO HUNDRED  | kazanafluvarazuaiuru          |           |         |             |            |
 
 ## numerals-nara1263-1 / Narango, Vanuatu / Fiver:0.04 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -13158,7 +13932,9 @@
 | EIGHTY       | monafulraftol          |         |         |          |            |
 | NINETY       | monafulrapat           |         |         |          |            |
 | HUNDRED      | molafulmate            |         |         |          |            |
+| TWO HUNDRED  | molafulmorua           |         |         |          |            |
 | THOUSAND     | taumate                |         |         |          |            |
+| TWO THOUSAND | taumorua               |         |         |          |            |
 
 ## numerals-nden1248-1 / Ndengeleko, Tanzania / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -13201,6 +13977,7 @@
 | EIGHTY       | themanini       |         |         |          |            |
 | NINETY       | tisini          |         |         |          |            |
 | HUNDRED      | mia             |         |         |          |            |
+| TWO HUNDRED  | miaibeele       |         |         |          |            |
 | THOUSAND     | efulu           |         |         |          |            |
 
 ## numerals-ngon1269-1 / Chingoni, Tanzania, Mozambique / Fiver:0.36 Tener:0.47 Twentier:0.33 Twoer:0.00
@@ -13244,7 +14021,9 @@
 | EIGHTY       | makominganunimakomigatatu    |           |         |              |            |
 | NINETY       | makominganunimakomintsetse   |           |         |              |            |
 | HUNDRED      | mia                          |           |         |              |            |
+| TWO HUNDRED  | miapavena                    |           |         |              |            |
 | THOUSAND     | kondu                        |           |         |              |            |
+| TWO THOUSAND | konduivena                   |           |         |              |            |
 
 ## numerals-nume1241-1 / Nume (Gaua), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13287,7 +14066,9 @@
 | EIGHTY       | sangubultelebetul            |         |         |         |            |
 | NINETY       | sangubultelebebet            |         |         |         |            |
 | HUNDRED      | mweldulbagatwal              |         |         |         |            |
+| TWO HUNDRED  | mweldulbaguru                |         |         |         |            |
 | THOUSAND     | tarbagatwal                  |         |         |         |            |
+| TWO THOUSAND | tarbaguru                    |         |         |         |            |
 
 ## numerals-olra1234-1 / Olrat, Vanuatu / Fiver:0.02 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13330,48 +14111,9 @@
 | EIGHTY       | gapralebetil            |         |         |         |            |
 | NINETY       | gapralebebat            |         |         |         |            |
 | HUNDRED      | mwilitsulbatuwa         |         |         |         |            |
+| TWO HUNDRED  | mwilitsulbaru           |         |         |         |            |
 | THOUSAND     | tajbatuwa               |         |         |         |            |
-
-## numerals-omah1247-1 / Omaha-Ponca, USA / Fiver:0.04 Tener:0.75 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms                | Fiver    | Twoer   | Tener       | Twentier   |
-|:-------------|:---------------------|:---------|:--------|:------------|:-----------|
-| ONE          | wiaxti               |          |         |             |            |
-| TWO          | naba                 |          |         | TWENTY NINE |            |
-| THREE        | daabdi               | EIGHTEEN |         | THIRTY      |            |
-| FOUR         | tuuba                |          |         | FORTY       |            |
-| FIVE         | saatta               |          |         |             |            |
-| SIX          | saappe               |          |         |             |            |
-| SEVEN        | ppeedaba             |          |         |             |            |
-| EIGHT        | ppeedaabdi           |          |         |             |            |
-| NINE         | sakka                |          |         |             |            |
-| TEN          | gdeeba               |          |         | FORTY       |            |
-| ELEVEN       | gdeebaagniwiaxti     |          |         |             |            |
-| TWELVE       | gdeebaagninaba       |          |         |             |            |
-| THIRTEEN     | gdeebaagnidaabdi     |          |         |             |            |
-| FOURTEEN     | gdeebaagnituuba      |          |         |             |            |
-| FIFTEEN      | gdeebaagnisaatta     |          |         |             |            |
-| SIXTEEN      | gdeebaagnisaappe     |          |         |             |            |
-| SEVENTEEN    | gdeebaagnippeedaba   |          |         |             |            |
-| EIGHTEEN     | gdeebaagnippeedaabdi |          |         |             |            |
-| NINETEEN     | gdeebaagnisakka      |          |         |             |            |
-| TWENTY       | gdeebanaba           |          |         |             |            |
-| TWENTY ONE   | gdeebanabawiaxti     |          |         |             |            |
-| TWENTY TWO   | gdeebanabanaba       |          |         |             |            |
-| TWENTY THREE | gdeebanabadaabdi     |          |         |             |            |
-| TWENTY FOUR  | gdeebanabatuuba      |          |         |             |            |
-| TWENTY FIVE  | gdeebanabasaatta     |          |         |             |            |
-| TWENTY SIX   | gdeebanabasaappe     |          |         |             |            |
-| TWENTY SEVEN | gdeebanabappeedaba   |          |         |             |            |
-| TWENTY EIGHT | gdeebanabappeedaabdi |          |         |             |            |
-| TWENTY NINE  | gdeebanabasakka      |          |         |             |            |
-| THIRTY       | gdeebadaabdi         |          |         |             |            |
-| FORTY        | gdeebatuuba          |          |         |             |            |
-| FIFTY        | gdeebasaatta         |          |         |             |            |
-| SIXTY        | gdeebasaappe         |          |         |             |            |
-| SEVENTY      | gdeebappeedaba       |          |         |             |            |
-| EIGHTY       | gdeebappeedaabdi     |          |         |             |            |
-| NINETY       | gdeebasakka          |          |         |             |            |
+| TWO THOUSAND | taebagru                |         |         |         |            |
 
 ## numerals-omah1247-2 / Omaha-Ponca, USA / Fiver:0.04 Tener:0.61 Twentier:0.00 Twoer:0.00
 
@@ -13414,6 +14156,7 @@
 | EIGHTY       | gdebappedabdi           |          |         |             |            |
 | NINETY       | gdebasakka              |          |         |             |            |
 | HUNDRED      | gdebahiwi               |          |         |             |            |
+| TWO HUNDRED  | gdebahiwinaba           |          |         |             |            |
 | THOUSAND     | gdebahiwittaga          |          |         |             |            |
 
 ## numerals-osag1243-1 / Osage, USA / Fiver:0.00 Tener:0.75 Twentier:0.00 Twoer:0.04
@@ -13457,7 +14200,9 @@
 | EIGHTY       | lebrakietopa            |         |         |             |            |
 | NINETY       | lebralebracewiike       |         |         |             |            |
 | HUNDRED      | lebrahuzi               |         |         |             |            |
+| TWO HUNDRED  | lebrahuzidoopaa         |         |         |             |            |
 | THOUSAND     | zakoe                   |         |         |             |            |
+| TWO THOUSAND | zakoedoopaa             |         |         |             |            |
 
 ## numerals-otta1242-1 / Ottawa, Canada, USA / Fiver:0.00 Tener:0.39 Twentier:0.00 Twoer:0.00
 
@@ -13500,50 +14245,54 @@
 | EIGHTY       | niswasimitana          |         |         |             |            |
 | NINETY       | sankaswi               |         |         |             |            |
 | HUNDRED      | ninkutwak              |         |         |             |            |
+| TWO HUNDRED  | niswak                 |         |         |             |            |
 | THOUSAND     | mitaswak               |         |         |             |            |
+| TWO THOUSAND | nisitanak              |         |         |             |            |
 
 ## numerals-papa1265-1 / Papapana, Papua New Guinea / Fiver:0.27 Tener:0.31 Twentier:0.00 Twoer:0.20
 
-| Concept      | Forms                      | Fiver        | Twoer   | Tener        | Twentier   |
-|:-------------|:---------------------------|:-------------|:--------|:-------------|:-----------|
-| ONE          | naaria                     |              |         |              |            |
-| TWO          | nuata                      |              |         |              |            |
-| THREE        | tauono / tautonu / tautono |              |         | THIRTY       |            |
-| FOUR         | tauvasi                    |              |         | FORTY        |            |
-| FIVE         | pepeitaunima               |              |         |              |            |
-| SIX          | toatoa                     | TWENTY ONE   | NINE    |              |            |
-| SEVEN        | toatoa                     | TWENTY TWO   | NINE    |              |            |
-| EIGHT        | toatoa                     | TWENTY THREE | NINE    |              |            |
-| NINE         | toatoa                     | TWENTY FOUR  |         |              |            |
-| TEN          | numanoa                    |              |         |              |            |
-| ELEVEN       | toatoa                     |              |         | TWENTY ONE   |            |
-| TWELVE       | toatoa                     |              |         | TWENTY TWO   |            |
-| THIRTEEN     | toatoa                     |              |         | TWENTY THREE |            |
-| FOURTEEN     | toatoa                     |              |         | TWENTY FOUR  |            |
-| FIFTEEN      | toatoa                     | NINETEEN     |         | TWENTY FIVE  |            |
-| SIXTEEN      | toatoa                     |              |         | TWENTY SIX   |            |
-| SEVENTEEN    | toatoa                     |              |         | TWENTY SEVEN |            |
-| EIGHTEEN     | toatoa                     |              |         | TWENTY EIGHT |            |
-| NINETEEN     | toatoa                     |              |         | TWENTY NINE  |            |
-| TWENTY       | nuaumanoa                  |              |         |              |            |
-| TWENTY ONE   | toatoa                     |              |         |              |            |
-| TWENTY TWO   | toatoa                     |              |         |              |            |
-| TWENTY THREE | toatoa                     |              |         |              |            |
-| TWENTY FOUR  | toatoa                     |              |         |              |            |
-| TWENTY FIVE  | toatoa                     |              |         |              |            |
-| TWENTY SIX   | toatoa                     |              |         |              |            |
-| TWENTY SEVEN | toatoa                     |              |         |              |            |
-| TWENTY EIGHT | toatoa                     |              |         |              |            |
-| TWENTY NINE  | toatoa                     |              |         |              |            |
-| THIRTY       | tauonomanoa                |              |         |              |            |
-| FORTY        | tauvasimanoa               |              |         |              |            |
-| FIFTY        | pepeitaunimamanoa          |              |         |              |            |
-| SIXTY        | pepeitaunimanaariamanoa    |              |         |              |            |
-| SEVENTY      | pepeitaunimanuatamanoa     |              |         |              |            |
-| EIGHTY       | pepeitaunimatautonomanoa   |              |         |              |            |
-| NINETY       | pepeitaunimatauvasimanoa   |              |         |              |            |
-| HUNDRED      | nuaupepeitaunimamanoa      |              |         |              |            |
-| THOUSAND     | manomanoana                |              |         |              |            |
+| Concept               | Forms                      | Fiver        | Twoer   | Tener        | Twentier   |
+|:----------------------|:---------------------------|:-------------|:--------|:-------------|:-----------|
+| ONE                   | naaria                     |              |         |              |            |
+| TWO                   | nuata                      |              |         |              |            |
+| THREE                 | tauono / tautonu / tautono |              |         | THIRTY       |            |
+| FOUR                  | tauvasi                    |              |         | FORTY        |            |
+| FIVE                  | pepeitaunima               |              |         |              |            |
+| SIX                   | toatoa                     | TWENTY ONE   | NINE    |              |            |
+| SEVEN                 | toatoa                     | TWENTY TWO   | NINE    |              |            |
+| EIGHT                 | toatoa                     | TWENTY THREE | NINE    |              |            |
+| NINE                  | toatoa                     | TWENTY FOUR  |         |              |            |
+| TEN                   | numanoa                    |              |         |              |            |
+| ELEVEN                | toatoa                     |              |         | TWENTY ONE   |            |
+| TWELVE                | toatoa                     |              |         | TWENTY TWO   |            |
+| THIRTEEN              | toatoa                     |              |         | TWENTY THREE |            |
+| FOURTEEN              | toatoa                     |              |         | TWENTY FOUR  |            |
+| FIFTEEN               | toatoa                     | NINETEEN     |         | TWENTY FIVE  |            |
+| SIXTEEN               | toatoa                     |              |         | TWENTY SIX   |            |
+| SEVENTEEN             | toatoa                     |              |         | TWENTY SEVEN |            |
+| EIGHTEEN              | toatoa                     |              |         | TWENTY EIGHT |            |
+| NINETEEN              | toatoa                     |              |         | TWENTY NINE  |            |
+| TWENTY                | nuaumanoa                  |              |         |              |            |
+| TWENTY ONE            | toatoa                     |              |         |              |            |
+| TWENTY TWO            | toatoa                     |              |         |              |            |
+| TWENTY THREE          | toatoa                     |              |         |              |            |
+| TWENTY FOUR           | toatoa                     |              |         |              |            |
+| TWENTY FIVE           | toatoa                     |              |         |              |            |
+| TWENTY SIX            | toatoa                     |              |         |              |            |
+| TWENTY SEVEN          | toatoa                     |              |         |              |            |
+| TWENTY EIGHT          | toatoa                     |              |         |              |            |
+| TWENTY NINE           | toatoa                     |              |         |              |            |
+| THIRTY                | tauonomanoa                |              |         |              |            |
+| FORTY                 | tauvasimanoa               |              |         |              |            |
+| FIFTY                 | pepeitaunimamanoa          |              |         |              |            |
+| SIXTY                 | pepeitaunimanaariamanoa    |              |         |              |            |
+| SEVENTY               | pepeitaunimanuatamanoa     |              |         |              |            |
+| EIGHTY                | pepeitaunimatautonomanoa   |              |         |              |            |
+| NINETY                | pepeitaunimatauvasimanoa   |              |         |              |            |
+| HUNDRED               | nuaupepeitaunimamanoa      |              |         |              |            |
+| ONE HUNDRED AND FIFTY | tautoipepeitaunimamanoa    |              |         |              |            |
+| THOUSAND              | manomanoana                |              |         |              |            |
+| TWO THOUSAND          | nuatamanomanoana           |              |         |              |            |
 
 ## numerals-pari1256-1 / Päri (Lokoro), South Sudan / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13586,7 +14335,9 @@
 | EIGHTY       | pierabra             |         |         |             |            |
 | NINETY       | pierabungweno        |         |         |             |            |
 | HUNDRED      | miaacelo             |         |         |             |            |
+| TWO HUNDRED  | miaariyo             |         |         |             |            |
 | THOUSAND     | alipacelo            |         |         |             |            |
+| TWO THOUSAND | alipariyo            |         |         |             |            |
 
 ## numerals-poko1263-1 / Pökoot (Suk), Kenya, Uganda / Fiver:0.31 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -13629,7 +14380,9 @@
 | EIGHTY       | tamanutmuutnggosamak            |           |         |             |            |
 | NINETY       | tamanutmuutnggoangwan           |           |         |             |            |
 | HUNDRED      | pokolakoongo                    |           |         |             |            |
+| TWO HUNDRED  | pokologeeng                     |           |         |             |            |
 | THOUSAND     | ngingutianakoongo               |           |         |             |            |
+| TWO THOUSAND | ngingwangogeeng                 |           |         |             |            |
 
 ## numerals-quap1242-1 / Quapaw, USA / Fiver:0.07 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -13672,7 +14425,9 @@
 | EIGHTY       | kdeebnappedaabni     |           |         |             |            |
 | NINETY       | kdeebnasakka         |           |         |             |            |
 | HUNDRED      | kdeebnahii           |           |         |             |            |
+| TWO HUNDRED  | kdeebnahiinaba       |           |         |             |            |
 | THOUSAND     | kdeebnahiittaka      |           |         |             |            |
+| TWO THOUSAND | kdeebnahiinaba       |           |         |             |            |
 
 ## numerals-rere1240-1 / Rerep (Unua), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13715,7 +14470,9 @@
 | EIGHTY       | ngaburmorobtor           |         |         |             |            |
 | NINETY       | ngaburmorobpets          |         |         |             |            |
 | HUNDRED      | ingotbagsoga             |         |         |             |            |
+| TWO HUNDRED  | ingotbaggeru             |         |         |             |            |
 | THOUSAND     | ingotngottserbagsoga     |         |         |             |            |
+| TWO THOUSAND | ingotngottserbaggeru     |         |         |             |            |
 
 ## numerals-saka1289-2 / Sakao, Santo, Vanuatu / Fiver:0.29 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13758,7 +14515,9 @@
 | EIGHTY       | moegoeloneredoel       |           |         |             |            |
 | NINETY       | moegoelonereped        |           |         |             |            |
 | HUNDRED      | meter                  |           |         |             |            |
+| TWO HUNDRED  | meterdaru              |           |         |             |            |
 | THOUSAND     | moen                   |           |         |             |            |
+| TWO THOUSAND | moendaru               |           |         |             |            |
 
 ## numerals-sarr1247-1 / Sar, Flores, Indonesia / Fiver:0.11 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -13801,48 +14560,9 @@
 | EIGHTY       | qarjinatig       |           |         |             |            |
 | NINETY       | qarjinaut        |           |         |             |            |
 | HUNDRED      | ratu             |           |         |             |            |
+| TWO HUNDRED  | raturaq          |           |         |             |            |
 | THOUSAND     | ribunuk          |           |         |             |            |
-
-## numerals-siaw1243-1 / Siawi, Papua New Guinea / Fiver:0.24 Tener:0.31 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms                      | Fiver     | Twoer   | Tener       | Twentier   |
-|:-------------|:---------------------------|:----------|:--------|:------------|:-----------|
-| ONE          | somo                       | SIXTEEN   |         |             |            |
-| TWO          | himolo                     | SEVENTEEN |         | TWENTY NINE |            |
-| THREE        | hluelo                     | EIGHTEEN  |         | THIRTY      |            |
-| FOUR         | katukwiolo                 |           |         | FORTY       |            |
-| FIVE         | katilo                     | NINETEEN  |         |             |            |
-| SIX          | somolokatilo               |           |         |             |            |
-| SEVEN        | himolokatilo               |           |         |             |            |
-| EIGHT        | hluelokatilo               |           |         |             |            |
-| NINE         | katukatilo                 |           |         |             |            |
-| TEN          | okowolo                    |           |         |             |            |
-| ELEVEN       | okowoleisomo               |           |         |             |            |
-| TWELVE       | okowoleihimolo             |           |         |             |            |
-| THIRTEEN     | okowoleihluelo             |           |         |             |            |
-| FOURTEEN     | okowoleikatukwiolo         |           |         |             |            |
-| FIFTEEN      | okowoleikatilo             |           |         |             |            |
-| SIXTEEN      | okowoleisomolokatilo       |           |         |             |            |
-| SEVENTEEN    | okowoleihimolokatilo       |           |         |             |            |
-| EIGHTEEN     | okowoleihluelokatilo       |           |         |             |            |
-| NINETEEN     | okowoleikatukatilo         |           |         |             |            |
-| TWENTY       | okowohimolo                |           |         |             |            |
-| TWENTY ONE   | okowohimololeisomo         |           |         |             |            |
-| TWENTY TWO   | okowohimololeihimolo       |           |         |             |            |
-| TWENTY THREE | okowohimololeihluelo       |           |         |             |            |
-| TWENTY FOUR  | okowohimololeikatukwiolo   |           |         |             |            |
-| TWENTY FIVE  | okowohimololeikatilo       |           |         |             |            |
-| TWENTY SIX   | okowohimololeisomolokatilo |           |         |             |            |
-| TWENTY SEVEN | okowohimololeihimolokatilo |           |         |             |            |
-| TWENTY EIGHT | okowohimololeihluelokatilo |           |         |             |            |
-| TWENTY NINE  | okowohimololeikatukatilo   |           |         |             |            |
-| THIRTY       | okowohluelo                |           |         |             |            |
-| FORTY        | okowokatukwiolo            |           |         |             |            |
-| FIFTY        | okowokatilo                |           |         |             |            |
-| SIXTY        | okowosomolokatilo          |           |         |             |            |
-| SEVENTY      | okowohimolokatilo          |           |         |             |            |
-| EIGHTY       | okowohluelokatilo          |           |         |             |            |
-| NINETY       | okowokatukatilo            |           |         |             |            |
+| TWO THOUSAND | riburaq          |           |         |             |            |
 
 ## numerals-siee1239-1 / Sie, Erromang Island, Vanuatu / Fiver:0.18 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -13885,6 +14605,7 @@
 | EIGHTY       | narwolemsukrimrehel              |           |         |             |            |
 | NINETY       | narwolemsukrimndvat              |           |         |             |            |
 | HUNDRED      | nalem                            |           |         |             |            |
+| TWO HUNDRED  | nalemnalem                       |           |         |             |            |
 | THOUSAND     | nalemnarwolem                    |           |         |             |            |
 
 ## numerals-sima1258-1 / Simaa (Mwenyi), Zambia / Fiver:0.13 Tener:0.17 Twentier:0.00 Twoer:0.00
@@ -13928,6 +14649,7 @@
 | EIGHTY       | makumiamutanunamakumiatu  |           |         |              |            |
 | NINETY       | makumiamutanunamakumine   |           |         |              |            |
 | HUNDRED      | mwanda / mwanja           |           |         |              |            |
+| TWO HUNDRED  | miandaili                 |           |         |              |            |
 | THOUSAND     | miandacalikumi            |           |         |              |            |
 
 ## numerals-solo1258-1 / Solong, Papua New Guinea / Fiver:0.00 Tener:0.50 Twentier:0.00 Twoer:0.00
@@ -13971,7 +14693,9 @@
 | EIGHTY       | sungulelmoyok       |         |         |         |            |
 | NINETY       | sungulelmopeng      |         |         |         |            |
 | HUNDRED      | sungulsungul / wono |         |         |         |            |
+| TWO HUNDRED  | wonokip             |         |         |         |            |
 | THOUSAND     | wonoruwo            |         |         |         |            |
+| TWO THOUSAND | wonoruwokip         |         |         |         |            |
 
 ## numerals-sout2785-3 / Southwest Gbaya, CAR, Cameroon / Fiver:0.36 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -14014,50 +14738,56 @@
 | EIGHTY       | bumoorozangaataar                |           |         |             |            |
 | NINETY       | bumoorozangaanaar                |           |         |             |            |
 | HUNDRED      | gomma                            |           |         |             |            |
+| TWO HUNDRED  | gommayiitoo                      |           |         |             |            |
 | THOUSAND     | saki                             |           |         |             |            |
+| TWO THOUSAND | sakiyiitoo                       |           |         |             |            |
 
 ## numerals-sout2828-1 / Southern Ma'di, Uganda / Fiver:0.02 Tener:0.44 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms             | Fiver     | Twoer   | Tener       | Twentier   |
-|:-------------|:------------------|:----------|:--------|:------------|:-----------|
-| ONE          | alu               |           |         |             |            |
-| TWO          | iri               | SEVENTEEN |         | TWENTY NINE |            |
-| THREE        | na                |           |         | THIRTY      |            |
-| FOUR         | su                |           |         | FORTY       |            |
-| FIVE         | towi              |           |         |             |            |
-| SIX          | azia              |           |         |             |            |
-| SEVEN        | aziiri            |           |         |             |            |
-| EIGHT        | aro               |           |         |             |            |
-| NINE         | oromi             |           |         |             |            |
-| TEN          | mudri             |           |         | NINETEEN    |            |
-| ELEVEN       | mudridriaalu      |           |         |             |            |
-| TWELVE       | mudridriairi      |           |         |             |            |
-| THIRTEEN     | mudridriana       |           |         |             |            |
-| FOURTEEN     | mudridriasu       |           |         |             |            |
-| FIFTEEN      | mudridriatowi     |           |         |             |            |
-| SIXTEEN      | mudridriaazia     |           |         |             |            |
-| SEVENTEEN    | mudridriaaziiri   |           |         |             |            |
-| EIGHTEEN     | mudridriaaro      |           |         |             |            |
-| NINETEEN     | mudridriaoromi    |           |         |             |            |
-| TWENTY       | kaliiri           |           |         |             |            |
-| TWENTY ONE   | kaliiridriaalu    |           |         |             |            |
-| TWENTY TWO   | kaliiridriairi    |           |         |             |            |
-| TWENTY THREE | kaliiridriana     |           |         |             |            |
-| TWENTY FOUR  | kaliiridriasu     |           |         |             |            |
-| TWENTY FIVE  | kaliiridriatowi   |           |         |             |            |
-| TWENTY SIX   | kaliiridriaazia   |           |         |             |            |
-| TWENTY SEVEN | kaliiridriaaziiri |           |         |             |            |
-| TWENTY EIGHT | kaliiridriaaro    |           |         |             |            |
-| TWENTY NINE  | kaliiridriaoromi  |           |         |             |            |
-| THIRTY       | kalina            |           |         |             |            |
-| FORTY        | kalisu            |           |         |             |            |
-| FIFTY        | kalitowi          |           |         |             |            |
-| SIXTY        | kaliazia          |           |         |             |            |
-| SEVENTY      | kaliaziiri        |           |         |             |            |
-| EIGHTY       | kaliaro           |           |         |             |            |
-| NINETY       | kalioromi         |           |         |             |            |
-| HUNDRED      | turuaalu          |           |         |             |            |
-| THOUSAND     | alifualu          |           |         |             |            |
+| Concept       | Forms             | Fiver     | Twoer   | Tener       | Twentier   |
+|:--------------|:------------------|:----------|:--------|:------------|:-----------|
+| ONE           | alu               |           |         |             |            |
+| TWO           | iri               | SEVENTEEN |         | TWENTY NINE |            |
+| THREE         | na                |           |         | THIRTY      |            |
+| FOUR          | su                |           |         | FORTY       |            |
+| FIVE          | towi              |           |         |             |            |
+| SIX           | azia              |           |         |             |            |
+| SEVEN         | aziiri            |           |         |             |            |
+| EIGHT         | aro               |           |         |             |            |
+| NINE          | oromi             |           |         |             |            |
+| TEN           | mudri             |           |         | NINETEEN    |            |
+| ELEVEN        | mudridriaalu      |           |         |             |            |
+| TWELVE        | mudridriairi      |           |         |             |            |
+| THIRTEEN      | mudridriana       |           |         |             |            |
+| FOURTEEN      | mudridriasu       |           |         |             |            |
+| FIFTEEN       | mudridriatowi     |           |         |             |            |
+| SIXTEEN       | mudridriaazia     |           |         |             |            |
+| SEVENTEEN     | mudridriaaziiri   |           |         |             |            |
+| EIGHTEEN      | mudridriaaro      |           |         |             |            |
+| NINETEEN      | mudridriaoromi    |           |         |             |            |
+| TWENTY        | kaliiri           |           |         |             |            |
+| TWENTY ONE    | kaliiridriaalu    |           |         |             |            |
+| TWENTY TWO    | kaliiridriairi    |           |         |             |            |
+| TWENTY THREE  | kaliiridriana     |           |         |             |            |
+| TWENTY FOUR   | kaliiridriasu     |           |         |             |            |
+| TWENTY FIVE   | kaliiridriatowi   |           |         |             |            |
+| TWENTY SIX    | kaliiridriaazia   |           |         |             |            |
+| TWENTY SEVEN  | kaliiridriaaziiri |           |         |             |            |
+| TWENTY EIGHT  | kaliiridriaaro    |           |         |             |            |
+| TWENTY NINE   | kaliiridriaoromi  |           |         |             |            |
+| THIRTY        | kalina            |           |         |             |            |
+| FORTY         | kalisu            |           |         |             |            |
+| FIFTY         | kalitowi          |           |         |             |            |
+| SIXTY         | kaliazia          |           |         |             |            |
+| SEVENTY       | kaliaziiri        |           |         |             |            |
+| EIGHTY        | kaliaro           |           |         |             |            |
+| NINETY        | kalioromi         |           |         |             |            |
+| HUNDRED       | turuaalu          |           |         |             |            |
+| TWO HUNDRED   | turua             |           |         |             |            |
+| FOUR HUNDRED  | turuasu           |           |         |             |            |
+| EIGHT HUNDRED | turuaaro          |           |         |             |            |
+| THOUSAND      | alifualu          |           |         |             |            |
+| TWO THOUSAND  | alifuiri          |           |         |             |            |
 
 ## numerals-taab1238-1 / Taabwa, DR of the Congo, Zambia / Fiver:0.09 Tener:0.19 Twentier:0.00 Twoer:0.00
 
@@ -14100,7 +14830,9 @@
 | EIGHTY       | makumimwanda                   |         |         |          |            |
 | NINETY       | makumifundi                    |         |         |          |            |
 | HUNDRED      | kinunu / mya                   |         |         |          |            |
+| TWO HUNDRED  | binunuabili / myaabili         |         |         |          |            |
 | THOUSAND     | binunulikumi / elufu           |         |         |          |            |
+| TWO THOUSAND | binunumakumiabili / elufuabili |         |         |          |            |
 
 ## numerals-teiw1235-1 / Teiwa, Nusa Tenggara, Indonesia / Fiver:0.07 Tener:0.47 Twentier:0.00 Twoer:0.00
 
@@ -14143,7 +14875,9 @@
 | EIGHTY       | qarjesnerig          |           |         |             |            |
 | NINETY       | qarjesnaut           |           |         |             |            |
 | HUNDRED      | ratu                 |           |         |             |            |
+| TWO HUNDRED  | ratuharaq            |           |         |             |            |
 | THOUSAND     | ribunuk              |           |         |             |            |
+| TWO THOUSAND | riburaq              |           |         |             |            |
 
 ## numerals-teop1238-1 / Teop, Papua New Guinea / Fiver:0.13 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -14186,7 +14920,9 @@
 | EIGHTY       | ku / kantotokasabun    |           |         |             |            |
 | NINETY       | doranatotokasabun      |           |         |             |            |
 | HUNDRED      | pehahandret            |           |         |             |            |
+| TWO HUNDRED  | buakuhandret           |           |         |             |            |
 | THOUSAND     | pehatausen             |           |         |             |            |
+| TWO THOUSAND | buakutausen            |           |         |             |            |
 
 ## numerals-teop1238-2 / Teop, Papua New Guinea / Fiver:0.13 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -14229,7 +14965,9 @@
 | EIGHTY       | kukantotokasavun       |           |         |             |            |
 | NINETY       | doranatotokasavun      |           |         |             |            |
 | HUNDRED      | oanhantat              |           |         |             |            |
+| TWO HUNDRED  | tuhantat               |           |         |             |            |
 | THOUSAND     | tausen                 |           |         |             |            |
+| TWO THOUSAND | tutausen               |           |         |             |            |
 
 ## numerals-teso1249-1 / Teso (Ateso), Uganda, Kenya / Fiver:0.13 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -14272,50 +15010,56 @@
 | EIGHTY       | akaisakanawun       |          |         |          |            |
 | NINETY       | akaisakanawongon    |          |         |          |            |
 | HUNDRED      | akwatat             |          |         |          |            |
+| TWO HUNDRED  | akwatare            |          |         |          |            |
 | THOUSAND     | elukumit            |          |         |          |            |
+| TWO THOUSAND | elukuminiare        |          |         |          |            |
 
 ## numerals-tian1237-1 / Tiang, Papua New Guinea / Fiver:0.36 Tener:0.44 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                        | Fiver     | Twoer   | Tener       | Twentier   |
-|:-------------|:-----------------------------|:----------|:--------|:------------|:-----------|
-| ONE          | saka                         | SIXTEEN   |         |             |            |
-| TWO          | iuai                         | SEVENTEEN |         | TWENTY NINE |            |
-| THREE        | util                         | EIGHTEEN  |         | THIRTY      |            |
-| FOUR         | talat / erong                | NINETEEN  |         | FORTY       |            |
-| FIVE         | patlima                      | NINETEEN  |         |             |            |
-| SIX          | patlimapasaka                |           |         |             |            |
-| SEVEN        | patlimapaiuai                |           |         |             |            |
-| EIGHT        | patlimapautil                |           |         |             |            |
-| NINE         | patlimapatalat               |           |         |             |            |
-| TEN          | sakasangauli                 |           |         | NINETEEN    |            |
-| ELEVEN       | sakasangaulipasaka           |           |         |             |            |
-| TWELVE       | sakasangaulipaiuai           |           |         |             |            |
-| THIRTEEN     | sakasangaulipautil           |           |         |             |            |
-| FOURTEEN     | sakasangaulipatalat          |           |         |             |            |
-| FIFTEEN      | sakasangaulipapatlima        | NINETEEN  |         |             |            |
-| SIXTEEN      | sakasangaulipapatlimapasaka  |           |         |             |            |
-| SEVENTEEN    | sakasangaulipapatlimapaiuai  |           |         |             |            |
-| EIGHTEEN     | sakasangaulipapatlimapautil  |           |         |             |            |
-| NINETEEN     | sakasangaulipapatlimapatalat |           |         |             |            |
-| TWENTY       | iuaisangauli                 |           |         |             |            |
-| TWENTY ONE   | iuaisangaulipasaka           |           |         |             |            |
-| TWENTY TWO   | iuaisangaulipaiuai           |           |         |             |            |
-| TWENTY THREE | iuaisangaulipautil           |           |         |             |            |
-| TWENTY FOUR  | iuaisangaulipatalat          |           |         |             |            |
-| TWENTY FIVE  | iuaisangaulipapatlima        |           |         |             |            |
-| TWENTY SIX   | iuaisangaulipapatlimapasaka  |           |         |             |            |
-| TWENTY SEVEN | iuaisangaulipapatlimapaiuai  |           |         |             |            |
-| TWENTY EIGHT | iuaisangaulipapatlimapautil  |           |         |             |            |
-| TWENTY NINE  | iuaisangaulipapatlimapatalat |           |         |             |            |
-| THIRTY       | utilsangauli                 |           |         |             |            |
-| FORTY        | talatsangauli                |           |         |             |            |
-| FIFTY        | patlimasangauli              |           |         |             |            |
-| SIXTY        | patlimapasakasangauli        |           |         |             |            |
-| SEVENTY      | patlimapaiuaisangauli        |           |         |             |            |
-| EIGHTY       | patlimapautilsangauli        |           |         |             |            |
-| NINETY       | patlimapatalatsangauli       |           |         |             |            |
-| HUNDRED      | sakatiir / sangaulisangauli  |           |         |             |            |
-| THOUSAND     | sangaulitiir                 |           |         |             |            |
+| Concept       | Forms                        | Fiver     | Twoer   | Tener       | Twentier   |
+|:--------------|:-----------------------------|:----------|:--------|:------------|:-----------|
+| ONE           | saka                         | SIXTEEN   |         |             |            |
+| TWO           | iuai                         | SEVENTEEN |         | TWENTY NINE |            |
+| THREE         | util                         | EIGHTEEN  |         | THIRTY      |            |
+| FOUR          | talat / erong                | NINETEEN  |         | FORTY       |            |
+| FIVE          | patlima                      | NINETEEN  |         |             |            |
+| SIX           | patlimapasaka                |           |         |             |            |
+| SEVEN         | patlimapaiuai                |           |         |             |            |
+| EIGHT         | patlimapautil                |           |         |             |            |
+| NINE          | patlimapatalat               |           |         |             |            |
+| TEN           | sakasangauli                 |           |         | NINETEEN    |            |
+| ELEVEN        | sakasangaulipasaka           |           |         |             |            |
+| TWELVE        | sakasangaulipaiuai           |           |         |             |            |
+| THIRTEEN      | sakasangaulipautil           |           |         |             |            |
+| FOURTEEN      | sakasangaulipatalat          |           |         |             |            |
+| FIFTEEN       | sakasangaulipapatlima        | NINETEEN  |         |             |            |
+| SIXTEEN       | sakasangaulipapatlimapasaka  |           |         |             |            |
+| SEVENTEEN     | sakasangaulipapatlimapaiuai  |           |         |             |            |
+| EIGHTEEN      | sakasangaulipapatlimapautil  |           |         |             |            |
+| NINETEEN      | sakasangaulipapatlimapatalat |           |         |             |            |
+| TWENTY        | iuaisangauli                 |           |         |             |            |
+| TWENTY ONE    | iuaisangaulipasaka           |           |         |             |            |
+| TWENTY TWO    | iuaisangaulipaiuai           |           |         |             |            |
+| TWENTY THREE  | iuaisangaulipautil           |           |         |             |            |
+| TWENTY FOUR   | iuaisangaulipatalat          |           |         |             |            |
+| TWENTY FIVE   | iuaisangaulipapatlima        |           |         |             |            |
+| TWENTY SIX    | iuaisangaulipapatlimapasaka  |           |         |             |            |
+| TWENTY SEVEN  | iuaisangaulipapatlimapaiuai  |           |         |             |            |
+| TWENTY EIGHT  | iuaisangaulipapatlimapautil  |           |         |             |            |
+| TWENTY NINE   | iuaisangaulipapatlimapatalat |           |         |             |            |
+| THIRTY        | utilsangauli                 |           |         |             |            |
+| FORTY         | talatsangauli                |           |         |             |            |
+| FIFTY         | patlimasangauli              |           |         |             |            |
+| SIXTY         | patlimapasakasangauli        |           |         |             |            |
+| SEVENTY       | patlimapaiuaisangauli        |           |         |             |            |
+| EIGHTY        | patlimapautilsangauli        |           |         |             |            |
+| NINETY        | patlimapatalatsangauli       |           |         |             |            |
+| HUNDRED       | sakatiir / sangaulisangauli  |           |         |             |            |
+| TWO HUNDRED   | iuaiatiir                    |           |         |             |            |
+| FOUR HUNDRED  | talatatiir                   |           |         |             |            |
+| EIGHT HUNDRED | patlimapautilatiir           |           |         |             |            |
+| THOUSAND      | sangaulitiir                 |           |         |             |            |
+| TWO THOUSAND  | iuaisangaulitiir             |           |         |             |            |
 
 ## numerals-tian1237-2 / Tiang, Papua New Guinea / Fiver:0.36 Tener:0.78 Twentier:0.00 Twoer:0.00
 
@@ -14358,6 +15102,7 @@
 | EIGHTY       | patlimapautilasangiulu        |           |         |              |            |
 | NINETY       | patlimapatalatasangiulu       |           |         |              |            |
 | HUNDRED      | sakatsiir                     |           |         |              |            |
+| TWO HUNDRED  | iwalatsiir                    |           |         |              |            |
 
 ## numerals-tiga1245-1 / Tigak, Papua New Guinea / Fiver:0.36 Tener:1.00 Twentier:0.00 Twoer:0.00
 
@@ -14400,6 +15145,7 @@
 | EIGHTY       | palmitpotulsangaulung       |           |         |              |            |
 | NINETY       | palmitpoiatsangaulung       |           |         |              |            |
 | HUNDRED      | sakaisangsangaulungesuai    |           |         |              |            |
+| TWO HUNDRED  | pouaksangsangaulungesuai    |           |         |              |            |
 
 ## numerals-tung1290-1 / Tungag, Papua New Guinea / Fiver:0.04 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -14442,7 +15188,9 @@
 | EIGHTY       | limaleatsangauli              |         |         |             |            |
 | NINETY       | limaletulsangauli             |         |         |             |            |
 | HUNDRED      | sikeialelensangauli           |         |         |             |            |
+| TWO HUNDRED  | ponguanalelensangauli         |         |         |             |            |
 | THOUSAND     | sikeiatausen                  |         |         |             |            |
+| TWO THOUSAND | ponguanatausen                |         |         |             |            |
 
 ## numerals-tung1290-2 / Tungag, Papua New Guinea / Fiver:0.04 Tener:1.00 Twentier:0.00 Twoer:0.00
 
@@ -14485,48 +15233,9 @@
 | EIGHTY       | limleleatsnguli           |         |         |              |            |
 | NINETY       | limletulsnguli            |         |         |              |            |
 | HUNDRED      | lelensnguli               |         |         |              |            |
+| TWO HUNDRED  | pongunalelensnguli        |         |         |              |            |
 | THOUSAND     | sikeiatusen               |         |         |              |            |
-
-## numerals-uare1241-1 / Uare, Papua New Guinea / Fiver:0.22 Tener:0.75 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms                      | Fiver     | Twoer   | Tener       | Twentier   |
-|:-------------|:---------------------------|:----------|:--------|:------------|:-----------|
-| ONE          | tiba                       |           |         |             |            |
-| TWO          | aheu                       | SEVENTEEN |         | TWENTY NINE |            |
-| THREE        | uuidu                      | EIGHTEEN  |         | THIRTY      |            |
-| FOUR         | uazaua                     | NINETEEN  |         | FORTY       |            |
-| FIVE         | fuo                        | NINETEEN  |         |             |            |
-| SIX          | fuotibefara                |           |         |             |            |
-| SEVEN        | fuoaheufara                |           |         |             |            |
-| EIGHT        | fuouuidufara               |           |         |             |            |
-| NINE         | fuouazauafara              |           |         |             |            |
-| TEN          | gaubanana                  |           |         | FORTY       |            |
-| ELEVEN       | gaubananatibefara          |           |         |             |            |
-| TWELVE       | gaubananaaheufara          |           |         |             |            |
-| THIRTEEN     | gaubananauuidufara         |           |         |             |            |
-| FOURTEEN     | gaubananauazauafara        |           |         |             |            |
-| FIFTEEN      | gaubananafuofara           |           |         |             |            |
-| SIXTEEN      | gaubananafuotibefara       |           |         |             |            |
-| SEVENTEEN    | gaubananafuoaheufara       |           |         |             |            |
-| EIGHTEEN     | gaubananafuouuidufara      |           |         |             |            |
-| NINETEEN     | gaubananafuouazauafara     |           |         |             |            |
-| TWENTY       | gaubananaaheu              |           |         |             |            |
-| TWENTY ONE   | gaubananaaheutibefara      |           |         |             |            |
-| TWENTY TWO   | gaubananaaheuaheufara      |           |         |             |            |
-| TWENTY THREE | gaubananaaheuuuidufara     |           |         |             |            |
-| TWENTY FOUR  | gaubananaaheuuazauafara    |           |         |             |            |
-| TWENTY FIVE  | gaubananaaheufuofara       |           |         |             |            |
-| TWENTY SIX   | gaubananaaheufuotibefara   |           |         |             |            |
-| TWENTY SEVEN | gaubananaaheufuoaheufara   |           |         |             |            |
-| TWENTY EIGHT | gaubananaaheufuouuidufara  |           |         |             |            |
-| TWENTY NINE  | gaubananaaheufuouazauafara |           |         |             |            |
-| THIRTY       | gaubananauuidu             |           |         |             |            |
-| FORTY        | gaubananauazaua            |           |         |             |            |
-| FIFTY        | gaubananafuo               |           |         |             |            |
-| SIXTY        | gaubananafuotibefara       |           |         |             |            |
-| SEVENTY      | gaubananafuoaheufara       |           |         |             |            |
-| EIGHTY       | gaubananafuouuidufara      |           |         |             |            |
-| NINETY       | gaubananafuouazauafara     |           |         |             |            |
+| TWO THOUSAND | pongunatusen              |         |         |              |            |
 
 ## numerals-urav1235-1 / Ura, Erromang Island, Vanuatu / Fiver:0.04 Tener:0.75 Twentier:0.00 Twoer:0.00
 
@@ -14569,49 +15278,9 @@
 | EIGHTY       | luremsinehli               |         |         |             |            |
 | NINETY       | luremsinivat               |         |         |             |            |
 | HUNDRED      | handed                     |         |         |             |            |
+| TWO HUNDRED  | tuhanded                   |         |         |             |            |
 | THOUSAND     | taosen                     |         |         |             |            |
-
-## numerals-vera1241-1 / Vatrata (Vera'a), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms                       | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------------------|:--------|:--------|:--------|:-----------|
-| ONE          | fowal                       |         |         |         |            |
-| TWO          | foruo                       |         |         |         |            |
-| THREE        | fool                        |         |         |         |            |
-| FOUR         | fove                        |         |         |         |            |
-| FIVE         | felime                      |         |         |         |            |
-| SIX          | liviie                      |         |         |         |            |
-| SEVEN        | liviruo                     |         |         |         |            |
-| EIGHT        | liviol                      |         |         |         |            |
-| NINE         | liviva                      |         |         |         |            |
-| TEN          | sangmwul                    |         |         | FORTY   |            |
-| ELEVEN       | sangmwulwaldemenefowal      |         |         |         |            |
-| TWELVE       | sangmwulwaldemeneforuo      |         |         |         |            |
-| THIRTEEN     | sangmwulwaldemenefool       |         |         |         |            |
-| FOURTEEN     | sangmwulwaldemenefove       |         |         |         |            |
-| FIFTEEN      | sangmwulwaldemenefelime     |         |         |         |            |
-| SIXTEEN      | sangmwulwaldemeneliviie     |         |         |         |            |
-| SEVENTEEN    | sangmwulwaldemeneliviruo    |         |         |         |            |
-| EIGHTEEN     | sangmwulwaldemenelivioll    |         |         |         |            |
-| NINETEEN     | sangmwulwaldemeneliviva     |         |         |         |            |
-| TWENTY       | sangmwulruo                 |         |         |         |            |
-| TWENTY ONE   | sangmwulruowaldemenefowal   |         |         |         |            |
-| TWENTY TWO   | sangmwulruowaldemeneforuo   |         |         |         |            |
-| TWENTY THREE | sangmwulruowaldemenefool    |         |         |         |            |
-| TWENTY FOUR  | sangmwulruowaldemenefove    |         |         |         |            |
-| TWENTY FIVE  | sangmwulruowaldemenefelime  |         |         |         |            |
-| TWENTY SIX   | sangmwulruowaldemeneliviie  |         |         |         |            |
-| TWENTY SEVEN | sangmwulruowaldemeneliviruo |         |         |         |            |
-| TWENTY EIGHT | sangmwulruowaldemeneliviol  |         |         |         |            |
-| TWENTY NINE  | sangmwulruowaldemeneliviva  |         |         |         |            |
-| THIRTY       | sangmwulol                  |         |         |         |            |
-| FORTY        | sangmwulfe                  |         |         |         |            |
-| FIFTY        | sangmwulfelime              |         |         |         |            |
-| SIXTY        | sangmwulliviie              |         |         |         |            |
-| SEVENTY      | sangmwulliviruo             |         |         |         |            |
-| EIGHTY       | sangmwulliviol              |         |         |         |            |
-| NINETY       | sangmwulliviva              |         |         |         |            |
-| THOUSAND     | er                          |         |         |         |            |
+| TWO THOUSAND | tutaosen                   |         |         |             |            |
 
 ## numerals-vera1241-2 / Vatrata (Vera'a), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -14654,7 +15323,9 @@
 | EIGHTY       | sangwullibiul             |         |         |         |            |
 | NINETY       | sangwullibiba             |         |         |         |            |
 | HUNDRED      | mwildul                   |         |         |         |            |
+| TWO HUNDRED  | mwildulburuu              |         |         |         |            |
 | THOUSAND     | er                        |         |         |         |            |
+| TWO THOUSAND | erburuu                   |         |         |         |            |
 
 ## numerals-wail1242-1 / Wailapa, Vanuatu / Fiver:0.07 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -14697,7 +15368,9 @@
 | EIGHTY       | monafulraftolu       |         |         |          |            |
 | NINETY       | monafulrambati       |         |         |          |            |
 | HUNDRED      | molabulimoese        |         |         |          |            |
+| TWO HUNDRED  | molabulimorua        |         |         |          |            |
 | THOUSAND     | taumoese             |         |         |          |            |
+| TWO THOUSAND | taumorua             |         |         |          |            |
 
 ## numerals-weta1242-1 / Wetamut (Dorig), Vanuatu / Fiver:0.00 Tener:0.44 Twentier:0.00 Twoer:0.00
 
@@ -14740,7 +15413,9 @@
 | EIGHTY       | sangbulsolbitul          |         |         |         |            |
 | NINETY       | sangbulsolbibat          |         |         |         |            |
 | HUNDRED      | somwlendulbagtuwal       |         |         |         |            |
+| TWO HUNDRED  | somwlendulbagru          |         |         |         |            |
 | THOUSAND     | starbagtuwal             |         |         |         |            |
+| TWO THOUSAND | starbagru                |         |         |         |            |
 
 ## numerals-zemb1238-1 / Zemba (Dhimba), Namibia / Fiver:0.04 Tener:0.31 Twentier:0.00 Twoer:0.00
 
@@ -14783,7 +15458,9 @@
 | EIGHTY       | omilogoepandutatu        |          |         |             |            |
 | NINETY       | omilogoomovi             |          |         |             |            |
 | HUNDRED      | ethele                   |          |         |             |            |
+| TWO HUNDRED  | omatheleavali            |          |         |             |            |
 | THOUSAND     | ejovi                    |          |         |             |            |
+| TWO THOUSAND | omajoviavali             |          |         |             |            |
 
 # vigesimal / Tener
 ## numerals-adyg1241-1 / Adyghe, Russia / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
@@ -14827,7 +15504,9 @@
 | EIGHTY       | twetcipl        |         |         |          |            |
 | NINETY       | twetciplrapsira |         |         |          |            |
 | HUNDRED      | ca              |         |         |          |            |
+| TWO HUNDRED  | citw            |         |         |          |            |
 | THOUSAND     | mijn            |         |         |          |            |
+| TWO THOUSAND | mijnitw         |         |         |          |            |
 
 ## numerals-amba1265-1 / Ambai, Papua, Indonesia / Fiver:0.00 Tener:0.25 Twentier:0.00 Twoer:0.00
 
@@ -14870,7 +15549,9 @@
 | EIGHTY       | piaa                    |         |         |              |            |
 | NINETY       | piaasura                |         |         |              |            |
 | HUNDRED      | piaring                 |         |         |              |            |
+| TWO HUNDRED  | piaringsura             |         |         |              |            |
 | THOUSAND     | piaringwesura           |         |         |              |            |
+| TWO THOUSAND | piaringwesurawesura     |         |         |              |            |
 
 ## numerals-arik1262-1 / Arikara, USA / Fiver:0.00 Tener:0.19 Twentier:0.00 Twoer:0.00
 
@@ -14913,7 +15594,9 @@
 | EIGHTY       | ciitiistaanu             |         |         |         |            |
 | NINETY       | ciitiistaanunanooxini    |         |         |         |            |
 | HUNDRED      | sihuxtaanu               |         |         |         |            |
+| TWO HUNDRED  | pitkuxsihuxtaanu         |         |         |         |            |
 | THOUSAND     | axkunooxinaanu           |         |         |         |            |
+| TWO THOUSAND | pitkuxnooxinaanu         |         |         |         |            |
 
 ## numerals-bago1245-1 / Bago-Kusuntu, Togo / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.04
 
@@ -14956,7 +15639,9 @@
 | EIGHTY       | ninasa                      |         |         |          |            |
 | NINETY       | ninasanasala                |         |         |          |            |
 | HUNDRED      | ngiinu / alfa               |         |         |          |            |
+| TWO HUNDRED  | koronlealfabaale            |         |         |          |            |
 | THOUSAND     | mili                        |         |         |          |            |
+| TWO THOUSAND | miliseseele                 |         |         |          |            |
 
 ## numerals-chau1259-1 / Chaudangsi, India / Fiver:0.02 Tener:0.06 Twentier:0.00 Twoer:0.00
 
@@ -14999,7 +15684,9 @@
 | EIGHTY       | zyadcha        |            |         |         |            |
 | NINETY       | zyacchaci      |            |         |         |            |
 | HUNDRED      | sai            |            |         |         |            |
+| TWO HUNDRED  | nisisai        |            |         |         |            |
 | THOUSAND     | tong / hazar   |            |         |         |            |
+| TWO THOUSAND | dohazar        |            |         |         |            |
 
 ## numerals-chol1282-1 / Chol, Mexico / Fiver:0.02 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15042,7 +15729,9 @@
 | EIGHTY       | cankal          |         |         |          |            |
 | NINETY       | lahunyokal      |         |         |          |            |
 | HUNDRED      | hokal           |         |         |          |            |
+| TWO HUNDRED  | lahunkal        |         |         |          |            |
 | THOUSAND     | lunakalicabahk  |         |         |          |            |
+| TWO THOUSAND | hobahk          |         |         |          |            |
 
 ## numerals-gwan1268-1 / Gwandara, Nigeria / Fiver:0.13 Tener:0.28 Twentier:0.00 Twoer:0.04
 
@@ -15085,6 +15774,7 @@
 | EIGHTY       | tamani / gumesidanitagar      |           |         |              |            |
 | NINETY       | tasayi / gumeboonisida        |           |         |              |            |
 | HUNDRED      | dari / gumetagarnifuru / woda |           |         |              |            |
+| TWO HUNDRED  | daribi / wonigumefurunitagar  |           |         |              |            |
 | THOUSAND     | dubu                          |           |         |              |            |
 
 ## numerals-hueh1236-1 / Huehuetla Tepehua, Mexico / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
@@ -15128,6 +15818,7 @@
 | EIGHTY       | tatipusam       |         |         |          |            |
 | NINETY       | tatipusamkau    |         |         |          |            |
 | HUNDRED      | tamsientos      |         |         |          |            |
+| TWO HUNDRED  | tuisientos      |         |         |          |            |
 | THOUSAND     | tammil          |         |         |          |            |
 
 ## numerals-ifee1241-2 / Ifè, Togo, Benin / Fiver:0.04 Tener:0.14 Twentier:0.00 Twoer:0.00
@@ -15171,7 +15862,9 @@
 | EIGHTY       | ogoore                        |           |         |              |            |
 | NINETY       | maalenogoore                  |           |         |              |            |
 | HUNDRED      | ogooru                        |           |         |              |            |
+| TWO HUNDRED  | igboo                         |           |         |              |            |
 | THOUSAND     | egberu                        |           |         |              |            |
+| TWO THOUSAND | egberumeedzi                  |           |         |              |            |
 
 ## numerals-ingu1240-1 / Ingush, Russia / Fiver:0.00 Tener:0.08 Twentier:0.00 Twoer:0.00
 
@@ -15214,93 +15907,100 @@
 | EIGHTY       | deztqa    |         |         |          |            |
 | NINETY       | deztqeit  |         |         |          |            |
 | HUNDRED      | be        |         |         |          |            |
+| TWO HUNDRED  | sibe      |         |         |          |            |
 | THOUSAND     | ezar      |         |         |          |            |
+| TWO THOUSAND | siezar    |         |         |          |            |
 
 ## numerals-isok1239-1 / Isoko, Nigeria / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver   | Twoer   | Tener    | Twentier   |
-|:-------------|:----------------|:--------|:--------|:---------|:-----------|
-| ONE          | ovu             |         |         |          |            |
-| TWO          | ive             |         |         |          |            |
-| THREE        | isa             |         |         |          |            |
-| FOUR         | ini             |         |         |          |            |
-| FIVE         | isoi            |         |         |          |            |
-| SIX          | iziza           |         |         |          |            |
-| SEVEN        | ihre            |         |         |          |            |
-| EIGHT        | iri             |         |         |          |            |
-| NINE         | izi             |         |         |          |            |
-| TEN          | ikpe            |         |         | NINETEEN |            |
-| ELEVEN       | ikpegbovu       |         |         |          |            |
-| TWELVE       | ikpegbive       |         |         |          |            |
-| THIRTEEN     | ikpegbesa       |         |         |          |            |
-| FOURTEEN     | ikpegbini       |         |         |          |            |
-| FIFTEEN      | ikpegbisoi      |         |         |          |            |
-| SIXTEEN      | ikpegbiziza     |         |         |          |            |
-| SEVENTEEN    | ikpegbihre      |         |         |          |            |
-| EIGHTEEN     | ikpegbiri       |         |         |          |            |
-| NINETEEN     | ikpegbizi       |         |         |          |            |
-| TWENTY       | uje             |         |         |          |            |
-| TWENTY ONE   | ujegbovu        |         |         |          |            |
-| TWENTY TWO   | ujegbive        |         |         |          |            |
-| TWENTY THREE | ujegbisa        |         |         |          |            |
-| TWENTY FOUR  | ujegbini        |         |         |          |            |
-| TWENTY FIVE  | ujegbisoi       |         |         |          |            |
-| TWENTY SIX   | ujegbiziza      |         |         |          |            |
-| TWENTY SEVEN | ujegbihre       |         |         |          |            |
-| TWENTY EIGHT | ujegbiri        |         |         |          |            |
-| TWENTY NINE  | ujegbizi        |         |         |          |            |
-| THIRTY       | ogba            |         |         |          |            |
-| FORTY        | ujuve           |         |         |          |            |
-| FIFTY        | ujuvegbikpe     |         |         |          |            |
-| SIXTY        | ujusa           |         |         |          |            |
-| SEVENTY      | ujusagbikpe     |         |         |          |            |
-| EIGHTY       | ujuni / ujeuni  |         |         |          |            |
-| NINETY       | ujunigbikpe     |         |         |          |            |
-| HUNDRED      | ujunisoi / egba |         |         |          |            |
-| THOUSAND     | odu             |         |         |          |            |
+| Concept       | Forms           | Fiver   | Twoer   | Tener    | Twentier   |
+|:--------------|:----------------|:--------|:--------|:---------|:-----------|
+| ONE           | ovu             |         |         |          |            |
+| TWO           | ive             |         |         |          |            |
+| THREE         | isa             |         |         |          |            |
+| FOUR          | ini             |         |         |          |            |
+| FIVE          | isoi            |         |         |          |            |
+| SIX           | iziza           |         |         |          |            |
+| SEVEN         | ihre            |         |         |          |            |
+| EIGHT         | iri             |         |         |          |            |
+| NINE          | izi             |         |         |          |            |
+| TEN           | ikpe            |         |         | NINETEEN |            |
+| ELEVEN        | ikpegbovu       |         |         |          |            |
+| TWELVE        | ikpegbive       |         |         |          |            |
+| THIRTEEN      | ikpegbesa       |         |         |          |            |
+| FOURTEEN      | ikpegbini       |         |         |          |            |
+| FIFTEEN       | ikpegbisoi      |         |         |          |            |
+| SIXTEEN       | ikpegbiziza     |         |         |          |            |
+| SEVENTEEN     | ikpegbihre      |         |         |          |            |
+| EIGHTEEN      | ikpegbiri       |         |         |          |            |
+| NINETEEN      | ikpegbizi       |         |         |          |            |
+| TWENTY        | uje             |         |         |          |            |
+| TWENTY ONE    | ujegbovu        |         |         |          |            |
+| TWENTY TWO    | ujegbive        |         |         |          |            |
+| TWENTY THREE  | ujegbisa        |         |         |          |            |
+| TWENTY FOUR   | ujegbini        |         |         |          |            |
+| TWENTY FIVE   | ujegbisoi       |         |         |          |            |
+| TWENTY SIX    | ujegbiziza      |         |         |          |            |
+| TWENTY SEVEN  | ujegbihre       |         |         |          |            |
+| TWENTY EIGHT  | ujegbiri        |         |         |          |            |
+| TWENTY NINE   | ujegbizi        |         |         |          |            |
+| THIRTY        | ogba            |         |         |          |            |
+| FORTY         | ujuve           |         |         |          |            |
+| FIFTY         | ujuvegbikpe     |         |         |          |            |
+| SIXTY         | ujusa           |         |         |          |            |
+| SEVENTY       | ujusagbikpe     |         |         |          |            |
+| EIGHTY        | ujuni / ujeuni  |         |         |          |            |
+| NINETY        | ujunigbikpe     |         |         |          |            |
+| HUNDRED       | ujunisoi / egba |         |         |          |            |
+| TWO HUNDRED   | igbaive         |         |         |          |            |
+| THREE HUNDRED | igbaisa         |         |         |          |            |
+| FOUR HUNDRED  | igbaini         |         |         |          |            |
+| THOUSAND      | odu             |         |         |          |            |
 
 ## numerals-kaik1246-1 / Kaike, Nepal / Fiver:0.00 Tener:0.67 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms               | Fiver   | Twoer   | Tener       | Twentier   |
-|:-------------|:--------------------|:--------|:--------|:------------|:-----------|
-| ONE          | ti                  |         |         |             |            |
-| TWO          | nhe                 |         |         | TWENTY NINE |            |
-| THREE        | sum                 |         |         | THIRTY      |            |
-| FOUR         | li                  |         |         |             |            |
-| FIVE         | nga                 |         |         |             |            |
-| SIX          | ru                  |         |         |             |            |
-| SEVEN        | ne                  |         |         |             |            |
-| EIGHT        | ke                  |         |         |             |            |
-| NINE         | ghu                 |         |         |             |            |
-| TEN          | cyu                 |         |         | TWENTY NINE |            |
-| ELEVEN       | cyuti               |         |         |             |            |
-| TWELVE       | cyunghe             |         |         |             |            |
-| THIRTEEN     | cyusum              |         |         |             |            |
-| FOURTEEN     | cyuli               |         |         |             |            |
-| FIFTEEN      | cyunga              |         |         |             |            |
-| SIXTEEN      | cyuru               |         |         |             |            |
-| SEVENTEEN    | cyune               |         |         |             |            |
-| EIGHTEEN     | cyuke               |         |         |             |            |
-| NINETEEN     | cyughu              |         |         |             |            |
-| TWENTY       | nicyu               |         |         |             |            |
-| TWENTY ONE   | nhecyureti          |         |         |             |            |
-| TWENTY TWO   | nhecyurenhe         |         |         |             |            |
-| TWENTY THREE | nhecyuresum         |         |         |             |            |
-| TWENTY FOUR  | nhecyureli          |         |         |             |            |
-| TWENTY FIVE  | nhecyurenga         |         |         |             |            |
-| TWENTY SIX   | nhecyureru          |         |         |             |            |
-| TWENTY SEVEN | nhecyurene          |         |         |             |            |
-| TWENTY EIGHT | nhecyureke          |         |         |             |            |
-| TWENTY NINE  | nhecyureghu         |         |         |             |            |
-| THIRTY       | sumcyu              |         |         |             |            |
-| FORTY        | ngethal             |         |         |             |            |
-| FIFTY        | ngethalrecyu        |         |         |             |            |
-| SIXTY        | sumthal             |         |         |             |            |
-| SEVENTY      | sumthalrecyu        |         |         |             |            |
-| EIGHTY       | lithal              |         |         |             |            |
-| NINETY       | lithalrecyu         |         |         |             |            |
-| HUNDRED      | ngathal             |         |         |             |            |
-| THOUSAND     | kyamacyu / hadzarti |         |         |             |            |
+| Concept      | Forms                           | Fiver   | Twoer   | Tener       | Twentier   |
+|:-------------|:--------------------------------|:--------|:--------|:------------|:-----------|
+| ONE          | ti                              |         |         |             |            |
+| TWO          | nhe                             |         |         | TWENTY NINE |            |
+| THREE        | sum                             |         |         | THIRTY      |            |
+| FOUR         | li                              |         |         |             |            |
+| FIVE         | nga                             |         |         |             |            |
+| SIX          | ru                              |         |         |             |            |
+| SEVEN        | ne                              |         |         |             |            |
+| EIGHT        | ke                              |         |         |             |            |
+| NINE         | ghu                             |         |         |             |            |
+| TEN          | cyu                             |         |         | TWENTY NINE |            |
+| ELEVEN       | cyuti                           |         |         |             |            |
+| TWELVE       | cyunghe                         |         |         |             |            |
+| THIRTEEN     | cyusum                          |         |         |             |            |
+| FOURTEEN     | cyuli                           |         |         |             |            |
+| FIFTEEN      | cyunga                          |         |         |             |            |
+| SIXTEEN      | cyuru                           |         |         |             |            |
+| SEVENTEEN    | cyune                           |         |         |             |            |
+| EIGHTEEN     | cyuke                           |         |         |             |            |
+| NINETEEN     | cyughu                          |         |         |             |            |
+| TWENTY       | nicyu                           |         |         |             |            |
+| TWENTY ONE   | nhecyureti                      |         |         |             |            |
+| TWENTY TWO   | nhecyurenhe                     |         |         |             |            |
+| TWENTY THREE | nhecyuresum                     |         |         |             |            |
+| TWENTY FOUR  | nhecyureli                      |         |         |             |            |
+| TWENTY FIVE  | nhecyurenga                     |         |         |             |            |
+| TWENTY SIX   | nhecyureru                      |         |         |             |            |
+| TWENTY SEVEN | nhecyurene                      |         |         |             |            |
+| TWENTY EIGHT | nhecyureke                      |         |         |             |            |
+| TWENTY NINE  | nhecyureghu                     |         |         |             |            |
+| THIRTY       | sumcyu                          |         |         |             |            |
+| FORTY        | ngethal                         |         |         |             |            |
+| FIFTY        | ngethalrecyu                    |         |         |             |            |
+| SIXTY        | sumthal                         |         |         |             |            |
+| SEVENTY      | sumthalrecyu                    |         |         |             |            |
+| EIGHTY       | lithal                          |         |         |             |            |
+| NINETY       | lithalrecyu                     |         |         |             |            |
+| HUNDRED      | ngathal                         |         |         |             |            |
+| TWO HUNDRED  | kyamange                        |         |         |             |            |
+| THOUSAND     | kyamacyu / hadzarti             |         |         |             |            |
+| TWO THOUSAND | kyamange / hadzarnge / hajarnye |         |         |             |            |
 
 ## numerals-kich1262-1 / K'iche, Guatemala / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15343,91 +16043,54 @@
 | EIGHTY       | kakhkal                            |         |         |          |            |
 | NINETY       | kakhkallakhukh / lakhukhukhokal    |         |         |          |            |
 | HUNDRED      | khokal                             |         |         |          |            |
+| TWO HUNDRED  | lakhukhkal                         |         |         |          |            |
 | THOUSAND     | kaqoblakhukhkal / lakhukhkalrosqob |         |         |          |            |
+| TWO THOUSAND | khoqob                             |         |         |          |            |
 
 ## numerals-koal1240-2 / Koalib, Nuba Mountains, Sudan / Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms             | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------------|:--------|:--------|:--------|:-----------|
-| ONE          | ette              |         |         |         |            |
-| TWO          | iran              |         |         |         |            |
-| THREE        | toorol            |         |         |         |            |
-| FOUR         | twarngan          |         |         |         |            |
-| FIVE         | todne             |         |         |         |            |
-| SIX          | nerlel            |         |         |         |            |
-| SEVEN        | dovokkworon       |         |         |         |            |
-| EIGHT        | dovokkwoppa       |         |         |         |            |
-| NINE         | kwunatturri       |         |         |         |            |
-| TEN          | rui               |         |         | TWENTY  |            |
-| ELEVEN       | ruikwette         |         |         |         |            |
-| TWELVE       | ruikwiran         |         |         |         |            |
-| THIRTEEN     | ruitoorol         |         |         |         |            |
-| FOURTEEN     | ruitwarngan       |         |         |         |            |
-| FIFTEEN      | ruitodne          |         |         |         |            |
-| SIXTEEN      | ruinerlel         |         |         |         |            |
-| SEVENTEEN    | ruidovokkworon    |         |         |         |            |
-| EIGHTEEN     | ruidovokkwoppa    |         |         |         |            |
-| NINETEEN     | ruikwunatturri    |         |         |         |            |
-| TWENTY       | ruituri           |         |         |         |            |
-| TWENTY ONE   | turikwette        |         |         |         |            |
-| TWENTY TWO   | turikwiran        |         |         |         |            |
-| TWENTY THREE | turitoorol        |         |         |         |            |
-| TWENTY FOUR  | turitwarngan      |         |         |         |            |
-| TWENTY FIVE  | turitodne         |         |         |         |            |
-| TWENTY SIX   | turinerlel        |         |         |         |            |
-| TWENTY SEVEN | turidovokkworon   |         |         |         |            |
-| TWENTY EIGHT | turidovokkwoppa   |         |         |         |            |
-| TWENTY NINE  | turikwunatturri   |         |         |         |            |
-| THIRTY       | turinarui         |         |         |         |            |
-| FORTY        | ruririran         |         |         |         |            |
-| FIFTY        | ruririrannarui    |         |         |         |            |
-| SIXTY        | ruritoorol        |         |         |         |            |
-| SEVENTY      | ruritoorolnarui   |         |         |         |            |
-| EIGHTY       | ruritwarngan      |         |         |         |            |
-| NINETY       | ruritwarngannarui |         |         |         |            |
-| HUNDRED      | ruritodne / mia   |         |         |         |            |
-| THOUSAND     | alep              |         |         |         |            |
-
-## numerals-kwaa1262-1 / Kwa (Baa), Adamawa, Nigeria / Fiver:0.00 Tener:0.17 Twentier:0.00 Twoer:0.04
-
-| Concept      | Forms                    | Fiver   | Twoer   | Tener    | Twentier   |
-|:-------------|:-------------------------|:--------|:--------|:---------|:-----------|
-| ONE          | nunko                    |         | NINE    |          |            |
-| TWO          | ninkpe                   |         |         |          |            |
-| THREE        | numwan                   |         |         |          |            |
-| FOUR         | ninats                   |         |         |          |            |
-| FIVE         | ninu                     |         |         |          |            |
-| SIX          | ninwenninku              |         |         |          |            |
-| SEVEN        | ninwakpe                 |         |         |          |            |
-| EIGHT        | nunfwafwats              |         |         |          |            |
-| NINE         | nunkwotslanunko          |         |         |          |            |
-| TEN          | nunkwots                 |         |         | NINETEEN |            |
-| ELEVEN       | nunkwotsalnunko          |         |         |          |            |
-| TWELVE       | nunkwotsalninkpe         |         |         |          |            |
-| THIRTEEN     | nunkwotsalnumwan         |         |         |          |            |
-| FOURTEEN     | nunkwotsalninats         |         |         |          |            |
-| FIFTEEN      | nunkwotsalninu           |         |         |          |            |
-| SIXTEEN      | nunkwotsalninwenninku    |         |         |          |            |
-| SEVENTEEN    | nunkwotsalninwakpe       |         |         |          |            |
-| EIGHTEEN     | nunkwotsalnunfwafwats    |         |         |          |            |
-| NINETEEN     | nunkwotsalnunkwotlanunko |         |         |          |            |
-| TWENTY       | kanuku                   |         |         |          |            |
-| TWENTY ONE   | kaninkualnunko           |         |         |          |            |
-| TWENTY TWO   | kaninkualninkpe          |         |         |          |            |
-| TWENTY THREE | kaninkualnumwan          |         |         |          |            |
-| TWENTY FOUR  | kaninkualninats          |         |         |          |            |
-| TWENTY SEVEN | kaninkualninwakpe        |         |         |          |            |
-| TWENTY EIGHT | kaninkualnunfwafwats     |         |         |          |            |
-| TWENTY NINE  | kaninkualnunkwotlanunko  |         |         |          |            |
-| THIRTY       | kaninkualnunkwots        |         |         |          |            |
-| FORTY        | kankpe                   |         |         |          |            |
-| FIFTY        | kankpealnunkwots         |         |         |          |            |
-| SIXTY        | kamwan                   |         |         |          |            |
-| SEVENTY      | kamwanalnunkwots         |         |         |          |            |
-| EIGHTY       | kanats                   |         |         |          |            |
-| NINETY       | kanatsalnunkwots         |         |         |          |            |
-| HUNDRED      | kanu                     |         |         |          |            |
-| THOUSAND     | kankwotsninu             |         |         |          |            |
+| Concept      | Forms               | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:--------------------|:--------|:--------|:--------|:-----------|
+| ONE          | ette                |         |         |         |            |
+| TWO          | iran                |         |         |         |            |
+| THREE        | toorol              |         |         |         |            |
+| FOUR         | twarngan            |         |         |         |            |
+| FIVE         | todne               |         |         |         |            |
+| SIX          | nerlel              |         |         |         |            |
+| SEVEN        | dovokkworon         |         |         |         |            |
+| EIGHT        | dovokkwoppa         |         |         |         |            |
+| NINE         | kwunatturri         |         |         |         |            |
+| TEN          | rui                 |         |         | TWENTY  |            |
+| ELEVEN       | ruikwette           |         |         |         |            |
+| TWELVE       | ruikwiran           |         |         |         |            |
+| THIRTEEN     | ruitoorol           |         |         |         |            |
+| FOURTEEN     | ruitwarngan         |         |         |         |            |
+| FIFTEEN      | ruitodne            |         |         |         |            |
+| SIXTEEN      | ruinerlel           |         |         |         |            |
+| SEVENTEEN    | ruidovokkworon      |         |         |         |            |
+| EIGHTEEN     | ruidovokkwoppa      |         |         |         |            |
+| NINETEEN     | ruikwunatturri      |         |         |         |            |
+| TWENTY       | ruituri             |         |         |         |            |
+| TWENTY ONE   | turikwette          |         |         |         |            |
+| TWENTY TWO   | turikwiran          |         |         |         |            |
+| TWENTY THREE | turitoorol          |         |         |         |            |
+| TWENTY FOUR  | turitwarngan        |         |         |         |            |
+| TWENTY FIVE  | turitodne           |         |         |         |            |
+| TWENTY SIX   | turinerlel          |         |         |         |            |
+| TWENTY SEVEN | turidovokkworon     |         |         |         |            |
+| TWENTY EIGHT | turidovokkwoppa     |         |         |         |            |
+| TWENTY NINE  | turikwunatturri     |         |         |         |            |
+| THIRTY       | turinarui           |         |         |         |            |
+| FORTY        | ruririran           |         |         |         |            |
+| FIFTY        | ruririrannarui      |         |         |         |            |
+| SIXTY        | ruritoorol          |         |         |         |            |
+| SEVENTY      | ruritoorolnarui     |         |         |         |            |
+| EIGHTY       | ruritwarngan        |         |         |         |            |
+| NINETY       | ruritwarngannarui   |         |         |         |            |
+| HUNDRED      | ruritodne / mia     |         |         |         |            |
+| TWO HUNDRED  | rurirui / miakwiran |         |         |         |            |
+| THOUSAND     | alep                |         |         |         |            |
+| TWO THOUSAND | alepwiran           |         |         |         |            |
 
 ## numerals-nuuc1236-1 / Nootka, Canada / Fiver:0.04 Tener:0.19 Twentier:0.00 Twoer:0.08
 
@@ -15473,88 +16136,50 @@
 
 ## numerals-ogbi1239-1 / Ogbia, Bayelsa state, Nigeria / Fiver:0.00 Tener:0.19 Twentier:0.00 Twoer:0.08
 
-| Concept      | Forms                    | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:-------------------------|:--------|:--------|:-------------|:-----------|
-| ONE          | onin                     |         | NINE    |              |            |
-| TWO          | waali                    |         | EIGHT   | TWENTY EIGHT |            |
-| THREE        | saari                    |         |         |              |            |
-| FOUR         | ina                      |         |         |              |            |
-| FIVE         | owu                      |         |         |              |            |
-| SIX          | odin                     |         |         |              |            |
-| SEVEN        | odual                    |         |         |              |            |
-| EIGHT        | inan / waalibadiob       |         |         |              |            |
-| NINE         | isio / oninbadiob        |         |         |              |            |
-| TEN          | diob                     |         |         | NINETEEN     |            |
-| ELEVEN       | diobnoonin               |         |         |              |            |
-| TWELVE       | diobniwaali              |         |         |              |            |
-| THIRTEEN     | diobnisaari              |         |         |              |            |
-| FOURTEEN     | diobniina                |         |         |              |            |
-| FIFTEEN      | diobnoowu                |         |         |              |            |
-| SIXTEEN      | diobniodin               |         |         |              |            |
-| SEVENTEEN    | diobniodual              |         |         |              |            |
-| EIGHTEEN     | diobniinan / waalibasub  |         |         | TWENTY EIGHT |            |
-| NINETEEN     | diobniisio / oninbasub   |         |         |              |            |
-| TWENTY       | sub                      |         |         |              |            |
-| TWENTY ONE   | subnoonin                |         |         |              |            |
-| TWENTY TWO   | subniwaali               |         |         |              |            |
-| TWENTY THREE | subnisaari               |         |         |              |            |
-| TWENTY FOUR  | subniina                 |         |         |              |            |
-| TWENTY FIVE  | subnoowu                 |         |         |              |            |
-| TWENTY SIX   | subnoodin                |         |         |              |            |
-| TWENTY SEVEN | subnoodual               |         |         |              |            |
-| TWENTY EIGHT | subniinan / waalibasub   |         |         |              |            |
-| TWENTY NINE  | subniisio / oninbaodabar |         |         |              |            |
-| THIRTY       | odabar                   |         |         |              |            |
-| FORTY        | waliipo                  |         |         |              |            |
-| FIFTY        | diabar / waliiponidiob   |         |         |              |            |
-| SIXTY        | saariipo                 |         |         |              |            |
-| SEVENTY      | saariiponidiob           |         |         |              |            |
-| EIGHTY       | inaipo                   |         |         |              |            |
-| NINETY       | inaiponidiob             |         |         |              |            |
-| HUNDRED      | owuipo                   |         |         |              |            |
-| THOUSAND     | ode                      |         |         |              |            |
-
-## numerals-phom1236-1 / Phom Naga, India / Fiver:0.00 Tener:0.15 Twentier:0.00 Twoer:0.00
-
-| Concept      | Forms    | Fiver   | Twoer   | Tener    | Twentier   |
-|:-------------|:---------|:--------|:--------|:---------|:-----------|
-| ONE          | hik      |         |         |          |            |
-| TWO          | ni       |         |         |          |            |
-| THREE        | cm       |         |         |          |            |
-| FOUR         | ali      |         |         |          |            |
-| FIVE         | nga      |         |         |          |            |
-| SIX          | wok      |         |         |          |            |
-| SEVEN        | nt       |         |         |          |            |
-| EIGHT        | st       |         |         |          |            |
-| NINE         | sw       |         |         |          |            |
-| TEN          | n        |         |         | NINETEEN |            |
-| ELEVEN       | npihik   |         |         |          |            |
-| TWELVE       | npini    |         |         |          |            |
-| THIRTEEN     | npicm    |         |         |          |            |
-| FOURTEEN     | npiali   |         |         |          |            |
-| FIFTEEN      | npinga   |         |         |          |            |
-| SIXTEEN      | npiwok   |         |         |          |            |
-| SEVENTEEN    | npink    |         |         |          |            |
-| EIGHTEEN     | npist    |         |         |          |            |
-| NINETEEN     | npisw    |         |         |          |            |
-| TWENTY       | kokha    |         |         |          |            |
-| TWENTY ONE   | hapihik  |         |         |          |            |
-| TWENTY TWO   | hapicm   |         |         |          |            |
-| TWENTY FOUR  | hapiali  |         |         |          |            |
-| TWENTY FIVE  | hapinga  |         |         |          |            |
-| TWENTY SIX   | hapiwok  |         |         |          |            |
-| TWENTY SEVEN | hapint   |         |         |          |            |
-| TWENTY EIGHT | hapist   |         |         |          |            |
-| TWENTY NINE  | hapisw   |         |         |          |            |
-| THIRTY       | hapin    |         |         |          |            |
-| FORTY        | pinw     |         |         |          |            |
-| FIFTY        | pinwpin  |         |         |          |            |
-| SIXTY        | picm     |         |         |          |            |
-| SEVENTY      | picmpin  |         |         |          |            |
-| EIGHTY       | piali    |         |         |          |            |
-| NINETY       | pialipin |         |         |          |            |
-| HUNDRED      | khohik   |         |         |          |            |
-| THOUSAND     | hacahik  |         |         |          |            |
+| Concept       | Forms                    | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:-------------------------|:--------|:--------|:-------------|:-----------|
+| ONE           | onin                     |         | NINE    |              |            |
+| TWO           | waali                    |         | EIGHT   | TWENTY EIGHT |            |
+| THREE         | saari                    |         |         |              |            |
+| FOUR          | ina                      |         |         |              |            |
+| FIVE          | owu                      |         |         |              |            |
+| SIX           | odin                     |         |         |              |            |
+| SEVEN         | odual                    |         |         |              |            |
+| EIGHT         | inan / waalibadiob       |         |         |              |            |
+| NINE          | isio / oninbadiob        |         |         |              |            |
+| TEN           | diob                     |         |         | NINETEEN     |            |
+| ELEVEN        | diobnoonin               |         |         |              |            |
+| TWELVE        | diobniwaali              |         |         |              |            |
+| THIRTEEN      | diobnisaari              |         |         |              |            |
+| FOURTEEN      | diobniina                |         |         |              |            |
+| FIFTEEN       | diobnoowu                |         |         |              |            |
+| SIXTEEN       | diobniodin               |         |         |              |            |
+| SEVENTEEN     | diobniodual              |         |         |              |            |
+| EIGHTEEN      | diobniinan / waalibasub  |         |         | TWENTY EIGHT |            |
+| NINETEEN      | diobniisio / oninbasub   |         |         |              |            |
+| TWENTY        | sub                      |         |         |              |            |
+| TWENTY ONE    | subnoonin                |         |         |              |            |
+| TWENTY TWO    | subniwaali               |         |         |              |            |
+| TWENTY THREE  | subnisaari               |         |         |              |            |
+| TWENTY FOUR   | subniina                 |         |         |              |            |
+| TWENTY FIVE   | subnoowu                 |         |         |              |            |
+| TWENTY SIX    | subnoodin                |         |         |              |            |
+| TWENTY SEVEN  | subnoodual               |         |         |              |            |
+| TWENTY EIGHT  | subniinan / waalibasub   |         |         |              |            |
+| TWENTY NINE   | subniisio / oninbaodabar |         |         |              |            |
+| THIRTY        | odabar                   |         |         |              |            |
+| FORTY         | waliipo                  |         |         |              |            |
+| FIFTY         | diabar / waliiponidiob   |         |         |              |            |
+| SIXTY         | saariipo                 |         |         |              |            |
+| SEVENTY       | saariiponidiob           |         |         |              |            |
+| EIGHTY        | inaipo                   |         |         |              |            |
+| NINETY        | inaiponidiob             |         |         |              |            |
+| HUNDRED       | owuipo                   |         |         |              |            |
+| TWO HUNDRED   | waaliowuipo              |         |         |              |            |
+| FOUR HUNDRED  | inaowuipo                |         |         |              |            |
+| EIGHT HUNDRED | waaliowuipobaode         |         |         |              |            |
+| THOUSAND      | ode                      |         |         |              |            |
+| TWO THOUSAND  | waaliode                 |         |         |              |            |
 
 ## numerals-qanj1241-1 / Q'anjob'al, Guatemala / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15597,7 +16222,9 @@
 | EIGHTY       | kanwinaq        |         |         |          |            |
 | NINETY       | jokal           |         |         |          |            |
 | HUNDRED      | okal            |         |         |          |            |
+| TWO HUNDRED  | lakhonwinq      |         |         |          |            |
 | THOUSAND     | junmil          |         |         |          |            |
+| TWO THOUSAND | kabmil          |         |         |          |            |
 
 ## numerals-rong1264-1 / Byangsi, India / Fiver:0.00 Tener:0.08 Twentier:0.00 Twoer:0.00
 
@@ -15640,7 +16267,9 @@
 | EIGHTY       | dzatsa         |         |         |          |            |
 | NINETY       | jatshaci       |         |         |          |            |
 | HUNDRED      | ra / sai       |         |         |          |            |
+| TWO HUNDRED  | nasara         |         |         |          |            |
 | THOUSAND     | hadzar         |         |         |          |            |
+| TWO THOUSAND | nasahadzar     |         |         |          |            |
 
 ## numerals-rong1264-2 / Rangpo (Rongpo), India / Fiver:0.00 Tener:0.06 Twentier:0.00 Twoer:0.00
 
@@ -15683,7 +16312,9 @@
 | EIGHTY       | dzatsha        |         |         |         |            |
 | NINETY       | jatshaci       |         |         |         |            |
 | HUNDRED      | ra / sai / gya |         |         |         |            |
+| TWO HUNDRED  | nasesai        |         |         |         |            |
 | THOUSAND     | hadzar         |         |         |         |            |
+| TWO THOUSAND | nasehadzar     |         |         |         |            |
 
 ## numerals-siam1242-2 / Seme ( Siamou), Burkina Faso / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15726,50 +16357,56 @@
 | EIGHTY       | kpel1me3          |         |         |          |            |
 | NINETY       | kpel1me3a1mi2fu2  |         |         |          |            |
 | HUNDRED      | kar3kwel3         |         |         |          |            |
+| TWO HUNDRED  | kpe1ning12gur3    |         |         |          |            |
 | THOUSAND     | ble3bie23         |         |         |          |            |
+| TWO THOUSAND | ble3ni23          |         |         |          |            |
 
 ## numerals-sipa1247-2 / Sipakapenese, Guatemala / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver   | Twoer   | Tener    | Twentier   |
-|:-------------|:-------------------|:--------|:--------|:---------|:-----------|
-| ONE          | jun                |         |         |          |            |
-| TWO          | keb                |         |         |          |            |
-| THREE        | uxib               |         |         |          |            |
-| FOUR         | kjib               |         |         |          |            |
-| FIVE         | job                |         |         |          |            |
-| SIX          | waqib              |         |         |          |            |
-| SEVEN        | wuqub              |         |         |          |            |
-| EIGHT        | wajxaqib           |         |         |          |            |
-| NINE         | belejeb            |         |         |          |            |
-| TEN          | lajuj              |         |         | NINETEEN |            |
-| ELEVEN       | junlajuj           |         |         |          |            |
-| TWELVE       | kablajuj           |         |         |          |            |
-| THIRTEEN     | oxlajuj            |         |         |          |            |
-| FOURTEEN     | kejlajuj           |         |         |          |            |
-| FIFTEEN      | waqlajuj           |         |         |          |            |
-| SIXTEEN      | wajxaqlajuj        |         |         |          |            |
-| SEVENTEEN    | wuqlajuj           |         |         |          |            |
-| EIGHTEEN     | wajxaqlajuj        |         |         |          |            |
-| NINETEEN     | belejlajuj         |         |         |          |            |
-| TWENTY       | junwnaq            |         |         |          |            |
-| TWENTY ONE   | junrechkawnaq      |         |         |          |            |
-| TWENTY TWO   | kebrechkawnaq      |         |         |          |            |
-| TWENTY THREE | uxibrechkawnaq     |         |         |          |            |
-| TWENTY FOUR  | kjibrechkawnaq     |         |         |          |            |
-| TWENTY FIVE  | jobrechkawnaq      |         |         |          |            |
-| TWENTY SIX   | waqibrechkawnaq    |         |         |          |            |
-| TWENTY SEVEN | wuqubrechkawnaq    |         |         |          |            |
-| TWENTY EIGHT | wajxaqibrechkawnaq |         |         |          |            |
-| TWENTY NINE  | belejebrechkawnaq  |         |         |          |            |
-| THIRTY       | lajuirechkawnaq    |         |         |          |            |
-| FORTY        | kawnaq             |         |         |          |            |
-| FIFTY        | lajujrechoxkal     |         |         |          |            |
-| SIXTY        | oxkal              |         |         |          |            |
-| SEVENTY      | lajujrechjumuch    |         |         |          |            |
-| EIGHTY       | jumuch             |         |         |          |            |
-| NINETY       | lajujrechjokal     |         |         |          |            |
-| HUNDRED      | jokal              |         |         |          |            |
-| THOUSAND     | lajkalrechoxtok    |         |         |          |            |
+| Concept                  | Forms              | Fiver   | Twoer   | Tener    | Twentier   |
+|:-------------------------|:-------------------|:--------|:--------|:---------|:-----------|
+| ONE                      | jun                |         |         |          |            |
+| TWO                      | keb                |         |         |          |            |
+| THREE                    | uxib               |         |         |          |            |
+| FOUR                     | kjib               |         |         |          |            |
+| FIVE                     | job                |         |         |          |            |
+| SIX                      | waqib              |         |         |          |            |
+| SEVEN                    | wuqub              |         |         |          |            |
+| EIGHT                    | wajxaqib           |         |         |          |            |
+| NINE                     | belejeb            |         |         |          |            |
+| TEN                      | lajuj              |         |         | NINETEEN |            |
+| ELEVEN                   | junlajuj           |         |         |          |            |
+| TWELVE                   | kablajuj           |         |         |          |            |
+| THIRTEEN                 | oxlajuj            |         |         |          |            |
+| FOURTEEN                 | kejlajuj           |         |         |          |            |
+| FIFTEEN                  | waqlajuj           |         |         |          |            |
+| SIXTEEN                  | wajxaqlajuj        |         |         |          |            |
+| SEVENTEEN                | wuqlajuj           |         |         |          |            |
+| EIGHTEEN                 | wajxaqlajuj        |         |         |          |            |
+| NINETEEN                 | belejlajuj         |         |         |          |            |
+| TWENTY                   | junwnaq            |         |         |          |            |
+| TWENTY ONE               | junrechkawnaq      |         |         |          |            |
+| TWENTY TWO               | kebrechkawnaq      |         |         |          |            |
+| TWENTY THREE             | uxibrechkawnaq     |         |         |          |            |
+| TWENTY FOUR              | kjibrechkawnaq     |         |         |          |            |
+| TWENTY FIVE              | jobrechkawnaq      |         |         |          |            |
+| TWENTY SIX               | waqibrechkawnaq    |         |         |          |            |
+| TWENTY SEVEN             | wuqubrechkawnaq    |         |         |          |            |
+| TWENTY EIGHT             | wajxaqibrechkawnaq |         |         |          |            |
+| TWENTY NINE              | belejebrechkawnaq  |         |         |          |            |
+| THIRTY                   | lajuirechkawnaq    |         |         |          |            |
+| FORTY                    | kawnaq             |         |         |          |            |
+| FIFTY                    | lajujrechoxkal     |         |         |          |            |
+| SIXTY                    | oxkal              |         |         |          |            |
+| SEVENTY                  | lajujrechjumuch    |         |         |          |            |
+| EIGHTY                   | jumuch             |         |         |          |            |
+| NINETY                   | lajujrechjokal     |         |         |          |            |
+| HUNDRED                  | jokal              |         |         |          |            |
+| ONE HUNDRED AND SIXTY    | kamuch             |         |         |          |            |
+| TWO HUNDRED              | lajkal             |         |         |          |            |
+| FOUR HUNDRED             | jutok              |         |         |          |            |
+| THOUSAND                 | lajkalrechoxtok    |         |         |          |            |
+| ONE THOUSAND TWO HUNDRED | oxtok              |         |         |          |            |
 
 ## numerals-sunw1242-1 / Sunwar, Nepal / Fiver:0.02 Tener:0.06 Twentier:0.00 Twoer:0.00
 
@@ -15812,7 +16449,9 @@
 | EIGHTY       | yaasum / khallee / sassum        |         |         |         |            |
 | NINETY       | yaasum / yasum                   |         |         |         |            |
 | HUNDRED      | gausum / porka / gigka           |         |         |         |            |
+| TWO HUNDRED  | gauniisi / porni                 |         |         |         |            |
 | THOUSAND     | dakkaa / dakka                   |         |         |         |            |
+| TWO THOUSAND | dakniisi / dakni                 |         |         |         |            |
 
 ## numerals-taju1238-1 / Tajuasohn, Liberia / Fiver:0.07 Tener:0.44 Twentier:0.00 Twoer:0.08
 
@@ -15855,50 +16494,56 @@
 | EIGHTY       | quilarhinin        |           |         |             |            |
 | NINETY       | quilarsierdoe      |           |         |             |            |
 | HUNDRED      | kemanndoe          |           |         |             |            |
+| TWO HUNDRED  | kemannsunn         |           |         |             |            |
 | THOUSAND     | wooluudoe          |           |         |             |            |
+| TWO THOUSAND | wooluusunn         |           |         |             |            |
 
 ## numerals-tsik1238-1 / Tsikimba, Niger state, Nigeria / Fiver:0.02 Tener:0.17 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms              | Fiver     | Twoer   | Tener        | Twentier   |
-|:-------------|:-------------------|:----------|:--------|:-------------|:-----------|
-| ONE          | nna                |           |         |              |            |
-| TWO          | ere                | SEVENTEEN |         | TWENTY SEVEN |            |
-| THREE        | tatsu              |           |         |              |            |
-| FOUR         | nisi               |           |         |              |            |
-| FIVE         | towo               |           |         |              |            |
-| SIX          | tili               |           |         |              |            |
-| SEVEN        | sindere            |           |         |              |            |
-| EIGHT        | kunle              |           |         |              |            |
-| NINE         | kutsitsi           |           |         |              |            |
-| TEN          | kupa               |           |         | NINETEEN     |            |
-| ELEVEN       | kupanuote          |           |         |              |            |
-| TWELVE       | kupanuore          |           |         |              |            |
-| THIRTEEN     | kupanuotatsu       |           |         |              |            |
-| FOURTEEN     | kupanuonisi        |           |         |              |            |
-| FIFTEEN      | kupanuoton         |           |         |              |            |
-| SIXTEEN      | kupanuotili        |           |         |              |            |
-| SEVENTEEN    | kupanuosindere     |           |         |              |            |
-| EIGHTEEN     | kupanuakunle       |           |         |              |            |
-| NINETEEN     | kupanuakutsitsi    |           |         |              |            |
-| TWENTY       | kumanga            |           |         |              |            |
-| TWENTY ONE   | kumanganuote       |           |         |              |            |
-| TWENTY TWO   | kumanganuore       |           |         |              |            |
-| TWENTY THREE | kumanganuotatsu    |           |         |              |            |
-| TWENTY FOUR  | kumanganuonisi     |           |         |              |            |
-| TWENTY FIVE  | kumanganuoton      |           |         |              |            |
-| TWENTY SIX   | kumanganuotili     |           |         |              |            |
-| TWENTY SEVEN | kumanganuosindere  |           |         |              |            |
-| TWENTY EIGHT | kumanganuakunle    |           |         |              |            |
-| TWENTY NINE  | kumanganuakutsitsi |           |         |              |            |
-| THIRTY       | kumangkupa         |           |         |              |            |
-| FORTY        | amangare           |           |         |              |            |
-| FIFTY        | amangarenkupa      |           |         |              |            |
-| SIXTY        | amangatatsu        |           |         |              |            |
-| SEVENTY      | amangatatsunkupa   |           |         |              |            |
-| EIGHTY       | amanganisi         |           |         |              |            |
-| NINETY       | amanganisinkupa    |           |         |              |            |
-| HUNDRED      | amangaton          |           |         |              |            |
-| THOUSAND     | amangatonasukuton  |           |         |              |            |
+| Concept       | Forms              | Fiver     | Twoer   | Tener        | Twentier   |
+|:--------------|:-------------------|:----------|:--------|:-------------|:-----------|
+| ONE           | nna                |           |         |              |            |
+| TWO           | ere                | SEVENTEEN |         | TWENTY SEVEN |            |
+| THREE         | tatsu              |           |         |              |            |
+| FOUR          | nisi               |           |         |              |            |
+| FIVE          | towo               |           |         |              |            |
+| SIX           | tili               |           |         |              |            |
+| SEVEN         | sindere            |           |         |              |            |
+| EIGHT         | kunle              |           |         |              |            |
+| NINE          | kutsitsi           |           |         |              |            |
+| TEN           | kupa               |           |         | NINETEEN     |            |
+| ELEVEN        | kupanuote          |           |         |              |            |
+| TWELVE        | kupanuore          |           |         |              |            |
+| THIRTEEN      | kupanuotatsu       |           |         |              |            |
+| FOURTEEN      | kupanuonisi        |           |         |              |            |
+| FIFTEEN       | kupanuoton         |           |         |              |            |
+| SIXTEEN       | kupanuotili        |           |         |              |            |
+| SEVENTEEN     | kupanuosindere     |           |         |              |            |
+| EIGHTEEN      | kupanuakunle       |           |         |              |            |
+| NINETEEN      | kupanuakutsitsi    |           |         |              |            |
+| TWENTY        | kumanga            |           |         |              |            |
+| TWENTY ONE    | kumanganuote       |           |         |              |            |
+| TWENTY TWO    | kumanganuore       |           |         |              |            |
+| TWENTY THREE  | kumanganuotatsu    |           |         |              |            |
+| TWENTY FOUR   | kumanganuonisi     |           |         |              |            |
+| TWENTY FIVE   | kumanganuoton      |           |         |              |            |
+| TWENTY SIX    | kumanganuotili     |           |         |              |            |
+| TWENTY SEVEN  | kumanganuosindere  |           |         |              |            |
+| TWENTY EIGHT  | kumanganuakunle    |           |         |              |            |
+| TWENTY NINE   | kumanganuakutsitsi |           |         |              |            |
+| THIRTY        | kumangkupa         |           |         |              |            |
+| FORTY         | amangare           |           |         |              |            |
+| FIFTY         | amangarenkupa      |           |         |              |            |
+| SIXTY         | amangatatsu        |           |         |              |            |
+| SEVENTY       | amangatatsunkupa   |           |         |              |            |
+| EIGHTY        | amanganisi         |           |         |              |            |
+| NINETY        | amanganisinkupa    |           |         |              |            |
+| HUNDRED       | amangaton          |           |         |              |            |
+| TWO HUNDRED   | amangatonasukure   |           |         |              |            |
+| FOUR HUNDRED  | amangatonasukinisi |           |         |              |            |
+| EIGHT HUNDRED | amangatonasukunle  |           |         |              |            |
+| THOUSAND      | amangatonasukuton  |           |         |              |            |
+| TWO THOUSAND  | amangatonasukupa   |           |         |              |            |
 
 ## numerals-tzel1254-1 / Bachajon Tzeltal, Mexico / Fiver:0.04 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15941,7 +16586,9 @@
 | EIGHTY       | tsanwinik        |         |         |          |            |
 | NINETY       | jowinik          |         |         |          |            |
 | HUNDRED      | howinik          |         |         |          |            |
+| TWO HUNDRED  | lahunwinik       |         |         |          |            |
 | THOUSAND     | josbahk          |         |         |          |            |
+| TWO THOUSAND | hobahk           |         |         |          |            |
 
 ## numerals-tzot1259-1 / Tzotzil, Mexico / Fiver:0.04 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -15984,7 +16631,9 @@
 | EIGHTY       | canwinik        |         |         |          |            |
 | NINETY       | lahunebyowinik  |         |         |          |            |
 | HUNDRED      | howinik         |         |         |          |            |
+| TWO HUNDRED  | lahunwinik      |         |         |          |            |
 | THOUSAND     | hmil            |         |         |          |            |
+| TWO THOUSAND | camil           |         |         |          |            |
 
 ## numerals-ubyk1235-1 / Ubykh, Turkey / Fiver:0.00 Tener:0.39 Twentier:0.33 Twoer:0.00
 
@@ -16027,50 +16676,54 @@
 | EIGHTY       | plamtcatqwatwa         |         |         |             |            |
 | NINETY       | plamtcatqwatwalazwala  |         |         |             |            |
 | HUNDRED      | swa                    |         |         |             |            |
+| TWO HUNDRED  | tqwaswa                |         |         |             |            |
 | THOUSAND     | min / majn             |         |         |             |            |
+| TWO THOUSAND | tqwamajn               |         |         |             |            |
 
 ## numerals-urho1239-1 / Urhobo, Nigeria / Fiver:0.00 Tener:0.11 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver   | Twoer   | Tener    | Twentier   |
-|:-------------|:----------------|:--------|:--------|:---------|:-----------|
-| ONE          | ovo             |         |         |          |            |
-| TWO          | ive             |         |         |          |            |
-| THREE        | era             |         |         |          |            |
-| FOUR         | ene             |         |         |          |            |
-| FIVE         | ijori           |         |         |          |            |
-| SIX          | esa             |         |         |          |            |
-| SEVEN        | igwre           |         |         |          |            |
-| EIGHT        | erere           |         |         |          |            |
-| NINE         | iriri           |         |         |          |            |
-| TEN          | ixwe            |         |         | NINETEEN |            |
-| ELEVEN       | uxwovo          |         |         |          |            |
-| TWELVE       | ixwive          |         |         |          |            |
-| THIRTEEN     | ixwera          |         |         |          |            |
-| FOURTEEN     | ixwene          |         |         |          |            |
-| FIFTEEN      | ixwjori         |         |         |          |            |
-| SIXTEEN      | ixwegbesa       |         |         |          |            |
-| SEVENTEEN    | ixwegbigwre     |         |         |          |            |
-| EIGHTEEN     | ixwegberere     |         |         |          |            |
-| NINETEEN     | ixwegbiriri     |         |         |          |            |
-| TWENTY       | uze             |         |         |          |            |
-| TWENTY ONE   | uzegbovo        |         |         |          |            |
-| TWENTY TWO   | uzegbive        |         |         |          |            |
-| TWENTY THREE | uzegbera        |         |         |          |            |
-| TWENTY FOUR  | uzegbene        |         |         |          |            |
-| TWENTY FIVE  | uzegbijori      |         |         |          |            |
-| TWENTY SIX   | uzegbesa        |         |         |          |            |
-| TWENTY SEVEN | uzegbigwre      |         |         |          |            |
-| TWENTY EIGHT | uzegberere      |         |         |          |            |
-| TWENTY NINE  | uzegbiriri      |         |         |          |            |
-| THIRTY       | ogba            |         |         |          |            |
-| FORTY        | uzuve           |         |         |          |            |
-| FIFTY        | uzuvegbixwe     |         |         |          |            |
-| SIXTY        | uzora           |         |         |          |            |
-| SEVENTY      | uzoragbixwe     |         |         |          |            |
-| EIGHTY       | uzone           |         |         |          |            |
-| NINETY       | uzonegbixwe     |         |         |          |            |
-| HUNDRED      | uzori           |         |         |          |            |
-| THOUSAND     | urjovo / urjori |         |         |          |            |
+| Concept      | Forms             | Fiver   | Twoer   | Tener    | Twentier   |
+|:-------------|:------------------|:--------|:--------|:---------|:-----------|
+| ONE          | ovo               |         |         |          |            |
+| TWO          | ive               |         |         |          |            |
+| THREE        | era               |         |         |          |            |
+| FOUR         | ene               |         |         |          |            |
+| FIVE         | ijori             |         |         |          |            |
+| SIX          | esa               |         |         |          |            |
+| SEVEN        | igwre             |         |         |          |            |
+| EIGHT        | erere             |         |         |          |            |
+| NINE         | iriri             |         |         |          |            |
+| TEN          | ixwe              |         |         | NINETEEN |            |
+| ELEVEN       | uxwovo            |         |         |          |            |
+| TWELVE       | ixwive            |         |         |          |            |
+| THIRTEEN     | ixwera            |         |         |          |            |
+| FOURTEEN     | ixwene            |         |         |          |            |
+| FIFTEEN      | ixwjori           |         |         |          |            |
+| SIXTEEN      | ixwegbesa         |         |         |          |            |
+| SEVENTEEN    | ixwegbigwre       |         |         |          |            |
+| EIGHTEEN     | ixwegberere       |         |         |          |            |
+| NINETEEN     | ixwegbiriri       |         |         |          |            |
+| TWENTY       | uze               |         |         |          |            |
+| TWENTY ONE   | uzegbovo          |         |         |          |            |
+| TWENTY TWO   | uzegbive          |         |         |          |            |
+| TWENTY THREE | uzegbera          |         |         |          |            |
+| TWENTY FOUR  | uzegbene          |         |         |          |            |
+| TWENTY FIVE  | uzegbijori        |         |         |          |            |
+| TWENTY SIX   | uzegbesa          |         |         |          |            |
+| TWENTY SEVEN | uzegbigwre        |         |         |          |            |
+| TWENTY EIGHT | uzegberere        |         |         |          |            |
+| TWENTY NINE  | uzegbiriri        |         |         |          |            |
+| THIRTY       | ogba              |         |         |          |            |
+| FORTY        | uzuve             |         |         |          |            |
+| FIFTY        | uzuvegbixwe       |         |         |          |            |
+| SIXTY        | uzora             |         |         |          |            |
+| SEVENTY      | uzoragbixwe       |         |         |          |            |
+| EIGHTY       | uzone             |         |         |          |            |
+| NINETY       | uzonegbixwe       |         |         |          |            |
+| HUNDRED      | uzori             |         |         |          |            |
+| TWO HUNDRED  | uzorive / uri     |         |         |          |            |
+| THOUSAND     | urjovo / urjori   |         |         |          |            |
+| TWO THOUSAND | urjive / urjorive |         |         |          |            |
 
 ## numerals-waro1242-1 / Waropen Kai, Papua, Indonesia / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.00
 
@@ -16155,6 +16808,7 @@
 | EIGHTY       | tcirwist     |         |         |          |            |
 | NINETY       | tcirwistules |         |         |          |            |
 | HUNDRED      | cor          |         |         |          |            |
+| TWO HUNDRED  | lohcor       |         |         |          |            |
 | THOUSAND     | hazar        |         |         |          |            |
 
 ## numerals-zaca1242-1 / Zacatepec Chatino, Mexico / Fiver:0.11 Tener:0.17 Twentier:0.00 Twoer:0.00
@@ -16198,6 +16852,7 @@
 | EIGHTY       | ha2kwa3yla3          |             |         |              |            |
 | NINETY       | ha2kwa3yla3ti1       |             |         |              |            |
 | HUNDRED      | ska3sie4ntu4         |             |         |              |            |
+| TWO HUNDRED  | tukwa2sie4ntu4       |             |         |              |            |
 
 ## numerals-zagh1240-1 / Zaghawa (Beria), Chad, Sudan / Fiver:0.00 Tener:0.69 Twentier:0.67 Twoer:0.04
 
@@ -16240,7 +16895,9 @@
 | EIGHTY       | didiisti                     |         |         |             |            |
 | NINETY       | didiistigesogodi             |         |         |             |            |
 | HUNDRED      | daniwee / sogodisogodi / mi  |         |         |             |            |
+| TWO HUNDRED  | misuyi                       |         |         |             |            |
 | THOUSAND     | elif                         |         |         |             |            |
+| TWO THOUSAND | elifsuyi                     |         |         |             |            |
 
 # vigesimal / Fiver
 ## numerals-amat1238-1 / Amatlán Zapotec, Mexico / Fiver:0.09 Tener:0.00 Twentier:0.00 Twoer:0.00
@@ -16284,7 +16941,9 @@
 | EIGHTY       | tapgala       |           |         |         |            |
 | NINETY       | tapgaltsiiya  |           |         |         |            |
 | HUNDRED      | tubgayooy     |           |         |         |            |
+| TWO HUNDRED  | tsopgayooy    |           |         |         |            |
 | THOUSAND     | tubmila       |           |         |         |            |
+| TWO THOUSAND | tsopmila      |           |         |         |            |
 
 ## numerals-bete1262-1 / Bete-Bendi (Bə̀ttə́), Nigeria / Fiver:0.36 Tener:0.17 Twentier:0.33 Twoer:0.00
 
@@ -16327,7 +16986,10 @@
 | EIGHTY       | asiane                   |           |         |              |            |
 | NINETY       | asianelelehwo            |           |         |              |            |
 | HUNDRED      | asiidiong                |           |         |              |            |
+| TWO HUNDRED  | asilehwo                 |           |         |              |            |
+| FOUR HUNDRED | asilisi                  |           |         |              |            |
 | THOUSAND     | asilisiogbaafeleasilehwo |           |         |              |            |
+| TWO THOUSAND | asilisiogbaafeidiong     |           |         |              |            |
 
 ## numerals-bete1262-2 / Bete-Bendi (Bette), Nigeria / Fiver:0.33 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -16370,7 +17032,9 @@
 | EIGHTY       | asiande            |           |         |              |            |
 | NINETY       | asiandelengilihwo  |           |         |              |            |
 | HUNDRED      | asiadjong          |           |         |              |            |
+| TWO HUNDRED  | asilihwo           |           |         |              |            |
 | THOUSAND     | asilisikugbeidjong |           |         |              |            |
+| TWO THOUSAND | asilisikugbelihwo  |           |         |              |            |
 
 ## numerals-boko1266-1 / Boko, Nigeria, Benin / Fiver:0.13 Tener:0.11 Twentier:0.00 Twoer:0.00
 
@@ -16413,7 +17077,9 @@
 | EIGHTY       | basiio         |             |         |              |            |
 | NINETY       | basiiokwi      |             |         |              |            |
 | HUNDRED      | basoo          |             |         |              |            |
+| TWO HUNDRED  | oaa            |             |         |              |            |
 | THOUSAND     | oasoo          |             |         |              |            |
+| TWO THOUSAND | oasosooleepla  |             |         |              |            |
 
 ## numerals-cros1244-2 / Mbembe (Cross River), Nigeria / Fiver:0.07 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -16456,7 +17122,10 @@
 | EIGHTY       | arobana                  |           |         |              |            |
 | NINETY       | arobanaokwumaidzob       |           |         |              |            |
 | HUNDRED      | arobatsen                |           |         |              |            |
+| TWO HUNDRED  | arobidzob                |           |         |              |            |
+| FOUR HUNDRED | enohna                   |           |         |              |            |
 | THOUSAND     | nnohnamfaokwumaarobidzob |           |         |              |            |
+| TWO THOUSAND | nnohnantsen              |           |         |              |            |
 
 ## numerals-jala1237-1 / Jalapa de Diáz Mazatec, Mexico / Fiver:0.20 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -16499,50 +17168,54 @@
 | EIGHTY       | chatekokate   |           |         |              |            |
 | NINETY       | chatekoyachan |           |         |              |            |
 | HUNDRED      | unchan        |           |         |              |            |
+| TWO HUNDRED  | jounchan      |           |         |              |            |
 | THOUSAND     | nkumii        |           |         |              |            |
+| TWO THOUSAND | jomii         |           |         |              |            |
 
 ## numerals-maja1242-1 / Majang, Ethiopia / Fiver:0.36 Tener:0.03 Twentier:0.33 Twoer:0.00
 
-| Concept      | Forms                   | Fiver     | Twoer   | Tener        | Twentier   |
-|:-------------|:------------------------|:----------|:--------|:-------------|:-----------|
-| ONE          | omong / om              | SIXTEEN   |         |              |            |
-| TWO          | peej                    | SEVENTEEN |         | TWENTY SEVEN |            |
-| THREE        | jiit                    | EIGHTEEN  |         |              |            |
-| FOUR         | angan                   | NINETEEN  |         |              |            |
-| FIVE         | tuul                    | NINETEEN  |         |              |            |
-| SIX          | tuulaom                 |           |         |              |            |
-| SEVEN        | tuulapeej               |           |         |              |            |
-| EIGHT        | tuulajiit               |           |         |              |            |
-| NINE         | tuulaangan              |           |         |              |            |
-| TEN          | aarng                   |           |         |              |            |
-| ELEVEN       | aarngaomong             |           |         |              |            |
-| TWELVE       | aarngapeej              |           |         |              |            |
-| THIRTEEN     | aarngajiit              |           |         |              |            |
-| FOURTEEN     | aarngaangan             |           |         |              |            |
-| FIFTEEN      | aarngatuul              | NINETEEN  |         |              |            |
-| SIXTEEN      | aarngatuulaom           |           |         |              |            |
-| SEVENTEEN    | aarngatuulapeej         |           |         |              |            |
-| EIGHTEEN     | aarngatuulajiit         |           |         |              |            |
-| NINETEEN     | aarngatuulaangan        |           |         |              |            |
-| TWENTY       | ruumeridit              |           |         |              | THIRTY     |
-| TWENTY ONE   | ruumeriditaomong        |           |         |              |            |
-| TWENTY TWO   | ruumeriditapeej         |           |         |              |            |
-| TWENTY THREE | ruumeriditajiit         |           |         |              |            |
-| TWENTY FOUR  | ruumeriditaangan        |           |         |              |            |
-| TWENTY FIVE  | ruumeriditatuul         |           |         |              |            |
-| TWENTY SIX   | ruumeriditatuulaom      |           |         |              |            |
-| TWENTY SEVEN | ruumeriditatuulapeej    |           |         |              |            |
-| TWENTY EIGHT | ruumeriditatuulajiit    |           |         |              |            |
-| TWENTY NINE  | ruumeriditatuulaangan   |           |         |              |            |
-| THIRTY       | ruumeriditaaarng        |           |         |              |            |
-| FORTY        | polpolejoopeejk         |           |         |              |            |
-| FIFTY        | polpolejoopeejkaaarng   |           |         |              |            |
-| SIXTY        | polpolejoojiitik        |           |         |              |            |
-| SEVENTY      | polpolejoojiitikaaarng  |           |         |              |            |
-| EIGHTY       | polpolejooangangk       |           |         |              |            |
-| NINETY       | polpolejooangangkaaarng |           |         |              |            |
-| HUNDRED      | dibe / polpolejootuul   |           |         |              |            |
-| THOUSAND     | kume                    |           |         |              |            |
+| Concept      | Forms                       | Fiver     | Twoer   | Tener        | Twentier   |
+|:-------------|:----------------------------|:----------|:--------|:-------------|:-----------|
+| ONE          | omong / om                  | SIXTEEN   |         |              |            |
+| TWO          | peej                        | SEVENTEEN |         | TWENTY SEVEN |            |
+| THREE        | jiit                        | EIGHTEEN  |         |              |            |
+| FOUR         | angan                       | NINETEEN  |         |              |            |
+| FIVE         | tuul                        | NINETEEN  |         |              |            |
+| SIX          | tuulaom                     |           |         |              |            |
+| SEVEN        | tuulapeej                   |           |         |              |            |
+| EIGHT        | tuulajiit                   |           |         |              |            |
+| NINE         | tuulaangan                  |           |         |              |            |
+| TEN          | aarng                       |           |         |              |            |
+| ELEVEN       | aarngaomong                 |           |         |              |            |
+| TWELVE       | aarngapeej                  |           |         |              |            |
+| THIRTEEN     | aarngajiit                  |           |         |              |            |
+| FOURTEEN     | aarngaangan                 |           |         |              |            |
+| FIFTEEN      | aarngatuul                  | NINETEEN  |         |              |            |
+| SIXTEEN      | aarngatuulaom               |           |         |              |            |
+| SEVENTEEN    | aarngatuulapeej             |           |         |              |            |
+| EIGHTEEN     | aarngatuulajiit             |           |         |              |            |
+| NINETEEN     | aarngatuulaangan            |           |         |              |            |
+| TWENTY       | ruumeridit                  |           |         |              | THIRTY     |
+| TWENTY ONE   | ruumeriditaomong            |           |         |              |            |
+| TWENTY TWO   | ruumeriditapeej             |           |         |              |            |
+| TWENTY THREE | ruumeriditajiit             |           |         |              |            |
+| TWENTY FOUR  | ruumeriditaangan            |           |         |              |            |
+| TWENTY FIVE  | ruumeriditatuul             |           |         |              |            |
+| TWENTY SIX   | ruumeriditatuulaom          |           |         |              |            |
+| TWENTY SEVEN | ruumeriditatuulapeej        |           |         |              |            |
+| TWENTY EIGHT | ruumeriditatuulajiit        |           |         |              |            |
+| TWENTY NINE  | ruumeriditatuulaangan       |           |         |              |            |
+| THIRTY       | ruumeriditaaarng            |           |         |              |            |
+| FORTY        | polpolejoopeejk             |           |         |              |            |
+| FIFTY        | polpolejoopeejkaaarng       |           |         |              |            |
+| SIXTY        | polpolejoojiitik            |           |         |              |            |
+| SEVENTY      | polpolejoojiitikaaarng      |           |         |              |            |
+| EIGHTY       | polpolejooangangk           |           |         |              |            |
+| NINETY       | polpolejooangangkaaarng     |           |         |              |            |
+| HUNDRED      | dibe / polpolejootuul       |           |         |              |            |
+| TWO HUNDRED  | dibeepeej / polpolejooaarng |           |         |              |            |
+| THOUSAND     | kume                        |           |         |              |            |
+| TWO THOUSAND | kumepeej                    |           |         |              |            |
 
 ## numerals-nden1250-1 / Nde-Ndele-Nta, Nigeria / Fiver:0.09 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -16585,7 +17258,9 @@
 | EIGHTY       | atanane          |          |         |             |            |
 | NINETY       | atananekawobo    |          |         |             |            |
 | HUNDRED      | atanaron         |          |         |             |            |
+| TWO HUNDRED  | egorr / atanwobo |          |         |             |            |
 | THOUSAND     | egorrberon       |          |         |             |            |
+| TWO THOUSAND | egorrwobo        |          |         |             |            |
 
 ## numerals-quio1241-1 / Quioquitani Zapotec, Mexico / Fiver:0.11 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -16628,7 +17303,9 @@
 | EIGHTY       | tapkal     |              |         |         |            |
 | NINETY       | tapkaltsi  |              |         |         |            |
 | HUNDRED      | tukyow     |              |         |         |            |
+| TWO HUNDRED  | copkyow    |              |         |         |            |
 | THOUSAND     | tumily     |              |         |         |            |
+| TWO THOUSAND | copmily    |              |         |         |            |
 
 ## numerals-sanj1286-1 / Ixcatlán Mazatec, Mexico / Fiver:0.33 Tener:0.00 Twentier:0.33 Twoer:0.04
 
@@ -16671,7 +17348,9 @@
 | EIGHTY       | ichitiekojokantie |             |         |         |            |
 | NINETY       | ichitiekojoyichan |             |         |         |            |
 | HUNDRED      | uchan             |             |         |         |            |
+| TWO HUNDRED  | jouchan           |             |         |         |            |
 | THOUSAND     | ngomi             |             |         |         |            |
+| TWO THOUSAND | jomi              |             |         |         |            |
 
 ## numerals-sanj1286-2 / San Jerónimo Mazatec, Mexico / Fiver:0.20 Tener:0.06 Twentier:0.00 Twoer:0.08
 
@@ -16714,50 +17393,56 @@
 | EIGHTY       | nijonkaan     |           |         |            |            |
 | NINETY       | nijonkaankote |           |         |            |            |
 | HUNDRED      | jngoosindo    |           |         |            |            |
+| TWO HUNDRED  | josindo       |           |         |            |            |
 | THOUSAND     | jngoojmii     |           |         |            |            |
+| TWO THOUSAND | jojmii        |           |         |            |            |
 
 ## numerals-temm1241-1 / Tem, Togo, Benin, Ghana / Fiver:0.16 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                | Fiver    | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------|:---------|:--------|:--------|:-----------|
-| ONE          | kaode                |          |         |         |            |
-| TWO          | siie                 |          |         |         |            |
-| THREE        | toozo                | NINETEEN |         |         |            |
-| FOUR         | naaza                |          |         |         |            |
-| FIVE         | nuuwa                |          |         |         |            |
-| SIX          | lodo                 |          |         |         |            |
-| SEVEN        | lube                 |          |         |         |            |
-| EIGHT        | lutoozo              |          |         |         |            |
-| NINE         | keeniire             |          |         |         |            |
-| TEN          | fuu                  |          |         |         |            |
-| ELEVEN       | fuunanakiri          |          |         |         |            |
-| TWELVE       | fuunanatile          |          |         |         |            |
-| THIRTEEN     | fuunanatudoozo       |          |         |         |            |
-| FOURTEEN     | fuunanatinaaza       |          |         |         |            |
-| FIFTEEN      | akizaaluu            | NINETEEN |         |         |            |
-| SIXTEEN      | akizaaluunanakuru    |          |         |         |            |
-| SEVENTEEN    | akizaaluunanatile    |          |         |         |            |
-| EIGHTEEN     | akizaaluunanatutoozo |          |         |         |            |
-| NINETEEN     | akizaaluunanatutoozo |          |         |         |            |
-| TWENTY       | akoowu               |          |         |         |            |
-| TWENTY ONE   | akoowunanakiri       |          |         |         |            |
-| TWENTY TWO   | akoowunanatile       |          |         |         |            |
-| TWENTY THREE | akoowunanatutoozo    |          |         |         |            |
-| TWENTY FOUR  | akoowunanatinaaza    |          |         |         |            |
-| TWENTY FIVE  | akoowunanatinuuwa    |          |         |         |            |
-| TWENTY SIX   | akoowunalodo         |          |         |         |            |
-| TWENTY SEVEN | akoowunalube         |          |         |         |            |
-| TWENTY EIGHT | akoowunalutoozo      |          |         |         |            |
-| TWENTY NINE  | akoowunakeeniire     |          |         |         |            |
-| THIRTY       | akoosaalaa           |          |         |         |            |
-| FORTY        | neele                |          |         |         |            |
-| FIFTY        | neelesaalaa          |          |         |         |            |
-| SIXTY        | niidoozo             |          |         |         |            |
-| SEVENTY      | niidoozonasaalaa     |          |         |         |            |
-| EIGHTY       | niinaaza             |          |         |         |            |
-| NINETY       | niinaazanasaalaa     |          |         |         |            |
-| HUNDRED      | niinuwa              |          |         |         |            |
-| THOUSAND     | miili                |          |         |         |            |
+| Concept       | Forms                | Fiver    | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------------|:---------|:--------|:--------|:-----------|
+| ONE           | kaode                |          |         |         |            |
+| TWO           | siie                 |          |         |         |            |
+| THREE         | toozo                | NINETEEN |         |         |            |
+| FOUR          | naaza                |          |         |         |            |
+| FIVE          | nuuwa                |          |         |         |            |
+| SIX           | lodo                 |          |         |         |            |
+| SEVEN         | lube                 |          |         |         |            |
+| EIGHT         | lutoozo              |          |         |         |            |
+| NINE          | keeniire             |          |         |         |            |
+| TEN           | fuu                  |          |         |         |            |
+| ELEVEN        | fuunanakiri          |          |         |         |            |
+| TWELVE        | fuunanatile          |          |         |         |            |
+| THIRTEEN      | fuunanatudoozo       |          |         |         |            |
+| FOURTEEN      | fuunanatinaaza       |          |         |         |            |
+| FIFTEEN       | akizaaluu            | NINETEEN |         |         |            |
+| SIXTEEN       | akizaaluunanakuru    |          |         |         |            |
+| SEVENTEEN     | akizaaluunanatile    |          |         |         |            |
+| EIGHTEEN      | akizaaluunanatutoozo |          |         |         |            |
+| NINETEEN      | akizaaluunanatutoozo |          |         |         |            |
+| TWENTY        | akoowu               |          |         |         |            |
+| TWENTY ONE    | akoowunanakiri       |          |         |         |            |
+| TWENTY TWO    | akoowunanatile       |          |         |         |            |
+| TWENTY THREE  | akoowunanatutoozo    |          |         |         |            |
+| TWENTY FOUR   | akoowunanatinaaza    |          |         |         |            |
+| TWENTY FIVE   | akoowunanatinuuwa    |          |         |         |            |
+| TWENTY SIX    | akoowunalodo         |          |         |         |            |
+| TWENTY SEVEN  | akoowunalube         |          |         |         |            |
+| TWENTY EIGHT  | akoowunalutoozo      |          |         |         |            |
+| TWENTY NINE   | akoowunakeeniire     |          |         |         |            |
+| THIRTY        | akoosaalaa           |          |         |         |            |
+| FORTY         | neele                |          |         |         |            |
+| FIFTY         | neelesaalaa          |          |         |         |            |
+| SIXTY         | niidoozo             |          |         |         |            |
+| SEVENTY       | niidoozonasaalaa     |          |         |         |            |
+| EIGHTY        | niinaaza             |          |         |         |            |
+| NINETY        | niinaazanasaalaa     |          |         |         |            |
+| HUNDRED       | niinuwa              |          |         |         |            |
+| TWO HUNDRED   | kakpiizikakpiizi     |          |         |         |            |
+| FOUR HUNDRED  | kakpiizinasile       |          |         |         |            |
+| EIGHT HUNDRED | kakpiizinasinaaza    |          |         |         |            |
+| THOUSAND      | miili                |          |         |         |            |
+| TWO THOUSAND  | miilinatile          |          |         |         |            |
 
 ## numerals-temm1241-2 / Tem, Togo, Benin, Ghana / Fiver:0.11 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -16800,7 +17485,9 @@
 | EIGHTY       | niinaaza              |          |         |         |            |
 | NINETY       | niinaazanasaalaa      |          |         |         |            |
 | HUNDRED      | niinuuwa / yikakodoma |          |         |         |            |
+| TWO HUNDRED  | yisinasiie            |          |         |         |            |
 | THOUSAND     | yisifuu               |          |         |         |            |
+| TWO THOUSAND | yisiakoowu            |          |         |         |            |
 
 ## numerals-zoog1238-1 / Zoogocho Zapotec, Mexico / Fiver:0.13 Tener:0.11 Twentier:0.00 Twoer:0.00
 
@@ -16843,51 +17530,61 @@
 | EIGHTY       | taplalkh   |           |         |          |            |
 | NINETY       | taplalkhsi |           |         |          |            |
 | HUNDRED      | togayoa    |           |         |          |            |
+| TWO HUNDRED  | tsopegayoa |           |         |          |            |
 | THOUSAND     | tomil      |           |         |          |            |
+| TWO THOUSAND | tsopemil   |           |         |          |            |
 
 # decimal / Twentier
 ## numerals-andr1248-1 / Andra-Hus (Ahus dialect), Manus, Papua New Guinea / Fiver:0.00 Tener:0.17 Twentier:0.33 Twoer:0.04
 
-| Concept      | Forms           | Fiver   | Twoer   | Tener        | Twentier   |
-|:-------------|:----------------|:--------|:--------|:-------------|:-----------|
-| ONE          | sih             |         |         |              |            |
-| TWO          | luoh            |         | EIGHT   | TWENTY EIGHT |            |
-| THREE        | taloh           |         |         |              |            |
-| FOUR         | hahu            |         |         |              |            |
-| FIVE         | limeh           |         |         |              |            |
-| SIX          | onoh            |         |         |              |            |
-| SEVEN        | horaloh         |         |         |              |            |
-| EIGHT        | holuoh          |         |         |              |            |
-| NINE         | hosi            |         |         |              |            |
-| TEN          | sengol          |         |         | NINETEEN     |            |
-| ELEVEN       | sengolmesih     |         |         |              |            |
-| TWELVE       | sengolmeluoh    |         |         |              |            |
-| THIRTEEN     | sengolmetaloh   |         |         |              |            |
-| FOURTEEN     | sengolmehahu    |         |         |              |            |
-| FIFTEEN      | sengolmelimeh   |         |         |              |            |
-| SIXTEEN      | sengolmeonoh    |         |         |              |            |
-| SEVENTEEN    | sengolmehoraloh |         |         |              |            |
-| EIGHTEEN     | sengolmeholuoh  |         |         |              |            |
-| NINETEEN     | sengolmehosi    |         |         |              |            |
-| TWENTY       | lunguh          |         |         |              | THIRTY     |
-| TWENTY ONE   | lunguhmesih     |         |         |              |            |
-| TWENTY TWO   | lunguhmeluoh    |         |         |              |            |
-| TWENTY THREE | lunguhmetaloh   |         |         |              |            |
-| TWENTY FOUR  | lunguhmehahu    |         |         |              |            |
-| TWENTY FIVE  | lunguhmelimeh   |         |         |              |            |
-| TWENTY SIX   | lunguhmeonoh    |         |         |              |            |
-| TWENTY SEVEN | lunguhmehoraloh |         |         |              |            |
-| TWENTY EIGHT | lunguhmeholuoh  |         |         |              |            |
-| TWENTY NINE  | lunguhmehosi    |         |         |              |            |
-| THIRTY       | tulunguh        |         |         |              |            |
-| FORTY        | hanguh          |         |         |              |            |
-| FIFTY        | liminguh        |         |         |              |            |
-| SIXTY        | ononguh         |         |         |              |            |
-| SEVENTY      | horalunguh      |         |         |              |            |
-| EIGHTY       | horunguh        |         |         |              |            |
-| NINETY       | hosenguh        |         |         |              |            |
-| HUNDRED      | sangat          |         |         |              |            |
-| THOUSAND     | pwesi           |         |         |              |            |
+| Concept       | Forms           | Fiver   | Twoer   | Tener        | Twentier   |
+|:--------------|:----------------|:--------|:--------|:-------------|:-----------|
+| ONE           | sih             |         |         |              |            |
+| TWO           | luoh            |         | EIGHT   | TWENTY EIGHT |            |
+| THREE         | taloh           |         |         |              |            |
+| FOUR          | hahu            |         |         |              |            |
+| FIVE          | limeh           |         |         |              |            |
+| SIX           | onoh            |         |         |              |            |
+| SEVEN         | horaloh         |         |         |              |            |
+| EIGHT         | holuoh          |         |         |              |            |
+| NINE          | hosi            |         |         |              |            |
+| TEN           | sengol          |         |         | NINETEEN     |            |
+| ELEVEN        | sengolmesih     |         |         |              |            |
+| TWELVE        | sengolmeluoh    |         |         |              |            |
+| THIRTEEN      | sengolmetaloh   |         |         |              |            |
+| FOURTEEN      | sengolmehahu    |         |         |              |            |
+| FIFTEEN       | sengolmelimeh   |         |         |              |            |
+| SIXTEEN       | sengolmeonoh    |         |         |              |            |
+| SEVENTEEN     | sengolmehoraloh |         |         |              |            |
+| EIGHTEEN      | sengolmeholuoh  |         |         |              |            |
+| NINETEEN      | sengolmehosi    |         |         |              |            |
+| TWENTY        | lunguh          |         |         |              | THIRTY     |
+| TWENTY ONE    | lunguhmesih     |         |         |              |            |
+| TWENTY TWO    | lunguhmeluoh    |         |         |              |            |
+| TWENTY THREE  | lunguhmetaloh   |         |         |              |            |
+| TWENTY FOUR   | lunguhmehahu    |         |         |              |            |
+| TWENTY FIVE   | lunguhmelimeh   |         |         |              |            |
+| TWENTY SIX    | lunguhmeonoh    |         |         |              |            |
+| TWENTY SEVEN  | lunguhmehoraloh |         |         |              |            |
+| TWENTY EIGHT  | lunguhmeholuoh  |         |         |              |            |
+| TWENTY NINE   | lunguhmehosi    |         |         |              |            |
+| THIRTY        | tulunguh        |         |         |              |            |
+| FORTY         | hanguh          |         |         |              |            |
+| FIFTY         | liminguh        |         |         |              |            |
+| SIXTY         | ononguh         |         |         |              |            |
+| SEVENTY       | horalunguh      |         |         |              |            |
+| EIGHTY        | horunguh        |         |         |              |            |
+| NINETY        | hosenguh        |         |         |              |            |
+| HUNDRED       | sangat          |         |         |              |            |
+| TWO HUNDRED   | lungat          |         |         |              |            |
+| THREE HUNDRED | tulungat        |         |         |              |            |
+| FOUR HUNDRED  | hangat          |         |         |              |            |
+| FIVE HUNDRED  | limingat        |         |         |              |            |
+| SIX HUNDRED   | onongat         |         |         |              |            |
+| SEVEN HUNDRED | horalulungat    |         |         |              |            |
+| EIGHT HUNDRED | holulungat      |         |         |              |            |
+| NINE HUNDRED  | hosangat        |         |         |              |            |
+| THOUSAND      | pwesi           |         |         |              |            |
 
 ## numerals-andr1248-2 / Andra-Hus, Manus, Papua New Guinea / Fiver:0.02 Tener:0.17 Twentier:0.33 Twoer:0.12
 
@@ -16930,7 +17627,9 @@
 | EIGHTY       | holunguh             |           |         |              |            |
 | NINETY       | hosenguh             |           |         |              |            |
 | HUNDRED      | sangat               |           |         |              |            |
+| TWO HUNDRED  | lungat               |           |         |              |            |
 | THOUSAND     | sabo                 |           |         |              |            |
+| TWO THOUSAND | lubo                 |           |         |              |            |
 
 ## numerals-anyi1245-1 / Anyin, Côte d'Ivoire, Ghana / Fiver:0.04 Tener:0.14 Twentier:0.67 Twoer:0.00
 
@@ -16973,50 +17672,55 @@
 | EIGHTY       | abulaocue      |            |         |          |            |
 | NINETY       | abulahuala     |            |         |          |            |
 | HUNDRED      | ejaku          |            |         |          |            |
+| TWO HUNDRED  | ejannua        |            |         |          |            |
 | THOUSAND     | akpiiku        |            |         |          |            |
+| TWO THOUSAND | akpiinnua      |            |         |          |            |
 
 ## numerals-assi1247-1 / Assiniboine, Canada, USA / Fiver:0.00 Tener:0.06 Twentier:0.67 Twoer:0.00
 
-| Concept      | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------------------|:--------|:--------|:--------|:-----------|
-| ONE          | wagi                   |         |         |         |            |
-| TWO          | nupa                   |         |         |         |            |
-| THREE        | jamni                  |         |         | THIRTY  |            |
-| FOUR         | topa                   |         |         | FORTY   |            |
-| FIVE         | zapta                  |         |         |         |            |
-| SIX          | sakpe                  |         |         |         |            |
-| SEVEN        | ijusna                 |         |         |         |            |
-| EIGHT        | saknooa                |         |         |         |            |
-| NINE         | naptsuwaka             |         |         |         |            |
-| TEN          | wiktsemna              |         |         |         |            |
-| ELEVEN       | akewagi                |         |         |         |            |
-| TWELVE       | akenopa                |         |         |         |            |
-| THIRTEEN     | akejamni               |         |         |         |            |
-| FOURTEEN     | aketopa                |         |         |         |            |
-| FIFTEEN      | akezapta               |         |         |         |            |
-| SIXTEEN      | akesakpe               |         |         |         |            |
-| SEVENTEEN    | akeijusna              |         |         |         |            |
-| EIGHTEEN     | akesaknooa             |         |         |         |            |
-| NINETEEN     | akenaptsuwaka          |         |         |         |            |
-| TWENTY       | witskemna              |         |         |         | FORTY      |
-| TWENTY ONE   | witskemnaakewagi       |         |         |         |            |
-| TWENTY TWO   | witskemnaakenupa       |         |         |         |            |
-| TWENTY THREE | witskemnaakejamni      |         |         |         |            |
-| TWENTY FOUR  | witskemnaaketopa       |         |         |         |            |
-| TWENTY FIVE  | witskemnaakezapta      |         |         |         |            |
-| TWENTY SIX   | witskemnaakesakpe      |         |         |         |            |
-| TWENTY SEVEN | witskemnaakeijusna     |         |         |         |            |
-| TWENTY EIGHT | witskemnaakesaknooa    |         |         |         |            |
-| TWENTY NINE  | witskemnaakenaptsuwaka |         |         |         |            |
-| THIRTY       | witskemnajamni         |         |         |         |            |
-| FORTY        | witskemnatopa          |         |         |         |            |
-| FIFTY        | witskemnazapta         |         |         |         |            |
-| SIXTY        | witskemnasakpe         |         |         |         |            |
-| SEVENTY      | witskemnaijusna        |         |         |         |            |
-| EIGHTY       | witskemnasaknooa       |         |         |         |            |
-| NINETY       | witskemnanaptsuwaka    |         |         |         |            |
-| HUNDRED      | opaweoe                |         |         |         |            |
-| THOUSAND     | koktopaweoe            |         |         |         |            |
+| Concept             | Forms                  | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------------|:-----------------------|:--------|:--------|:--------|:-----------|
+| ONE                 | wagi                   |         |         |         |            |
+| TWO                 | nupa                   |         |         |         |            |
+| THREE               | jamni                  |         |         | THIRTY  |            |
+| FOUR                | topa                   |         |         | FORTY   |            |
+| FIVE                | zapta                  |         |         |         |            |
+| SIX                 | sakpe                  |         |         |         |            |
+| SEVEN               | ijusna                 |         |         |         |            |
+| EIGHT               | saknooa                |         |         |         |            |
+| NINE                | naptsuwaka             |         |         |         |            |
+| TEN                 | wiktsemna              |         |         |         |            |
+| ELEVEN              | akewagi                |         |         |         |            |
+| TWELVE              | akenopa                |         |         |         |            |
+| THIRTEEN            | akejamni               |         |         |         |            |
+| FOURTEEN            | aketopa                |         |         |         |            |
+| FIFTEEN             | akezapta               |         |         |         |            |
+| SIXTEEN             | akesakpe               |         |         |         |            |
+| SEVENTEEN           | akeijusna              |         |         |         |            |
+| EIGHTEEN            | akesaknooa             |         |         |         |            |
+| NINETEEN            | akenaptsuwaka          |         |         |         |            |
+| TWENTY              | witskemna              |         |         |         | FORTY      |
+| TWENTY ONE          | witskemnaakewagi       |         |         |         |            |
+| TWENTY TWO          | witskemnaakenupa       |         |         |         |            |
+| TWENTY THREE        | witskemnaakejamni      |         |         |         |            |
+| TWENTY FOUR         | witskemnaaketopa       |         |         |         |            |
+| TWENTY FIVE         | witskemnaakezapta      |         |         |         |            |
+| TWENTY SIX          | witskemnaakesakpe      |         |         |         |            |
+| TWENTY SEVEN        | witskemnaakeijusna     |         |         |         |            |
+| TWENTY EIGHT        | witskemnaakesaknooa    |         |         |         |            |
+| TWENTY NINE         | witskemnaakenaptsuwaka |         |         |         |            |
+| THIRTY              | witskemnajamni         |         |         |         |            |
+| FORTY               | witskemnatopa          |         |         |         |            |
+| FIFTY               | witskemnazapta         |         |         |         |            |
+| SIXTY               | witskemnasakpe         |         |         |         |            |
+| SEVENTY             | witskemnaijusna        |         |         |         |            |
+| EIGHTY              | witskemnasaknooa       |         |         |         |            |
+| NINETY              | witskemnanaptsuwaka    |         |         |         |            |
+| HUNDRED             | opaweoe                |         |         |         |            |
+| ONE HUNDRED AND ONE | opaweoesamwagi         |         |         |         |            |
+| TWO HUNDRED         | nupaopaweoe            |         |         |         |            |
+| THOUSAND            | koktopaweoe            |         |         |         |            |
+| TWO THOUSAND        | nupakoktopaweoe        |         |         |         |            |
 
 ## numerals-baba1264-1 / Baba1 (Papia), Cameroon / Fiver:0.02 Tener:0.25 Twentier:0.33 Twoer:0.00
 
@@ -17059,7 +17763,9 @@
 | EIGHTY       | fomanggam            |         |         |              |            |
 | NINETY       | siponggam            |         |         |              |            |
 | HUNDRED      | ntiaxngki            |         |         |              |            |
+| TWO HUNDRED  | pangki               |         |         |              |            |
 | THOUSAND     | ntiaxngkam           |         |         |              |            |
+| TWO THOUSAND | pangkam              |         |         |              |            |
 
 ## numerals-bala1301-1 / Balanta-Kentohe, Guinea-Bissau / Fiver:0.29 Tener:0.17 Twentier:0.33 Twoer:0.00
 
@@ -17102,50 +17808,56 @@
 | EIGHTY       | binangbitahli           |           |         |              |            |
 | NINETY       | binangbitahlikaktsimen  |           |         |              |            |
 | HUNDRED      | binangbitsif            |           |         |              |            |
+| TWO HUNDRED  | kemiksibm               |           |         |              |            |
 | THOUSAND     | fkontiksibm             |           |         |              |            |
+| TWO THOUSAND | kontiksibm              |           |         |              |            |
 
 ## numerals-bezh1248-1 / Bezhta, Daghestan, Russia / Fiver:0.02 Tener:0.22 Twentier:0.33 Twoer:0.04
 
-| Concept      | Forms        | Fiver    | Twoer   | Tener       | Twentier   |
-|:-------------|:-------------|:---------|:--------|:------------|:-----------|
-| ONE          | hos          |          |         |             |            |
-| TWO          | qona         | FOURTEEN | FOUR    | TWENTY FOUR | FORTY      |
-| THREE        | lana         |          |         | THIRTY      |            |
-| FOUR         | oqona        |          |         | FORTY       |            |
-| FIVE         | lina         |          |         |             |            |
-| SIX          | ilna         |          |         |             |            |
-| SEVEN        | atlna        |          |         |             |            |
-| EIGHT        | betlna       |          |         |             |            |
-| NINE         | atsena       |          |         |             |            |
-| TEN          | atsona       |          |         | NINETEEN    |            |
-| ELEVEN       | atsonahos    |          |         |             |            |
-| TWELVE       | atsonaqona   |          |         |             |            |
-| THIRTEEN     | atsonalana   |          |         |             |            |
-| FOURTEEN     | atsonaoqona  |          |         |             |            |
-| FIFTEEN      | atsonalina   |          |         |             |            |
-| SIXTEEN      | atsonailna   |          |         |             |            |
-| SEVENTEEN    | atsonaatlna  |          |         |             |            |
-| EIGHTEEN     | atsonabetlna |          |         |             |            |
-| NINETEEN     | atsonaatsena |          |         |             |            |
-| TWENTY       | qona         |          |         |             |            |
-| TWENTY ONE   | qonahos      |          |         |             |            |
-| TWENTY TWO   | qonaqona     |          |         |             |            |
-| TWENTY THREE | qonalana     |          |         |             |            |
-| TWENTY FOUR  | qonaoqona    |          |         |             |            |
-| TWENTY FIVE  | qonalina     |          |         |             |            |
-| TWENTY SIX   | qonailna     |          |         |             |            |
-| TWENTY SEVEN | qonaatlna    |          |         |             |            |
-| TWENTY EIGHT | qonabetlna   |          |         |             |            |
-| TWENTY NINE  | qonaatsena   |          |         |             |            |
-| THIRTY       | lanarig      |          |         |             |            |
-| FORTY        | oqonarig     |          |         |             |            |
-| FIFTY        | linarig      |          |         |             |            |
-| SIXTY        | ilnarig      |          |         |             |            |
-| SEVENTY      | atlnarig     |          |         |             |            |
-| EIGHTY       | betlnarig    |          |         |             |            |
-| NINETY       | atsenarig    |          |         |             |            |
-| HUNDRED      | hostsit      |          |         |             |            |
-| THOUSAND     | hazar        |          |         |             |            |
+| Concept       | Forms        | Fiver    | Twoer   | Tener       | Twentier   |
+|:--------------|:-------------|:---------|:--------|:------------|:-----------|
+| ONE           | hos          |          |         |             |            |
+| TWO           | qona         | FOURTEEN | FOUR    | TWENTY FOUR | FORTY      |
+| THREE         | lana         |          |         | THIRTY      |            |
+| FOUR          | oqona        |          |         | FORTY       |            |
+| FIVE          | lina         |          |         |             |            |
+| SIX           | ilna         |          |         |             |            |
+| SEVEN         | atlna        |          |         |             |            |
+| EIGHT         | betlna       |          |         |             |            |
+| NINE          | atsena       |          |         |             |            |
+| TEN           | atsona       |          |         | NINETEEN    |            |
+| ELEVEN        | atsonahos    |          |         |             |            |
+| TWELVE        | atsonaqona   |          |         |             |            |
+| THIRTEEN      | atsonalana   |          |         |             |            |
+| FOURTEEN      | atsonaoqona  |          |         |             |            |
+| FIFTEEN       | atsonalina   |          |         |             |            |
+| SIXTEEN       | atsonailna   |          |         |             |            |
+| SEVENTEEN     | atsonaatlna  |          |         |             |            |
+| EIGHTEEN      | atsonabetlna |          |         |             |            |
+| NINETEEN      | atsonaatsena |          |         |             |            |
+| TWENTY        | qona         |          |         |             |            |
+| TWENTY ONE    | qonahos      |          |         |             |            |
+| TWENTY TWO    | qonaqona     |          |         |             |            |
+| TWENTY THREE  | qonalana     |          |         |             |            |
+| TWENTY FOUR   | qonaoqona    |          |         |             |            |
+| TWENTY FIVE   | qonalina     |          |         |             |            |
+| TWENTY SIX    | qonailna     |          |         |             |            |
+| TWENTY SEVEN  | qonaatlna    |          |         |             |            |
+| TWENTY EIGHT  | qonabetlna   |          |         |             |            |
+| TWENTY NINE   | qonaatsena   |          |         |             |            |
+| THIRTY        | lanarig      |          |         |             |            |
+| FORTY         | oqonarig     |          |         |             |            |
+| FIFTY         | linarig      |          |         |             |            |
+| SIXTY         | ilnarig      |          |         |             |            |
+| SEVENTY       | atlnarig     |          |         |             |            |
+| EIGHTY        | betlnarig    |          |         |             |            |
+| NINETY        | atsenarig    |          |         |             |            |
+| HUNDRED       | hostsit      |          |         |             |            |
+| TWO HUNDRED   | qonatsit     |          |         |             |            |
+| FOUR HUNDRED  | oqonatsit    |          |         |             |            |
+| EIGHT HUNDRED | betlnatsit   |          |         |             |            |
+| THOUSAND      | hazar        |          |         |             |            |
+| TWO THOUSAND  | qonahazar    |          |         |             |            |
 
 ## numerals-bezh1248-2 / Bezhta, Daghestan, Russia / Fiver:0.02 Tener:0.22 Twentier:0.33 Twoer:0.04
 
@@ -17231,7 +17943,9 @@
 | EIGHTY       | vatitutugu    |         |         |          |            |
 | NINETY       | hiahangavulu  |         |         |          |            |
 | HUNDRED      | sinahadangatu |         |         |          |            |
+| TWO HUNDRED  | ruahadangatu  |         |         |          |            |
 | THOUSAND     | toga          |         |         |          |            |
+| TWO THOUSAND | ruatoga       |         |         |          |            |
 
 ## numerals-diti1235-1 / Nitinat (Ditidaht), Canada / Fiver:0.02 Tener:0.06 Twentier:0.33 Twoer:0.04
 
@@ -17274,6 +17988,7 @@
 | EIGHTY       | alasibiiq             |           |         |              |            |
 | NINETY       | cawaasibiiq           |           |         |              |            |
 | HUNDRED      | ubaaql                |           |         |              |            |
+| TWO HUNDRED  | alxtaakubaaql         |           |         |              |            |
 
 ## numerals-hiju1238-1 / Hijuk, Cameroon / Fiver:0.00 Tener:0.14 Twentier:0.67 Twoer:0.00
 
@@ -17316,7 +18031,9 @@
 | EIGHTY       | mumadzwam     |         |         |          |            |
 | NINETY       | mumakibu      |         |         |          |            |
 | HUNDRED      | mbokul        |         |         |          |            |
+| TWO HUNDRED  | mbokulba      |         |         |          |            |
 | THOUSAND     | ikul          |         |         |          |            |
+| TWO THOUSAND | ikuluba       |         |         |          |            |
 
 ## numerals-igoo1238-1 / Igo (Ahlon), Togo / Fiver:0.00 Tener:0.14 Twentier:0.33 Twoer:0.04
 
@@ -17359,7 +18076,9 @@
 | EIGHTY       | iwotuiblato  |         |         |          |            |
 | NINETY       | iwotuinguedi |         |         |          |            |
 | HUNDRED      | alafaza      |         |         |          |            |
+| TWO HUNDRED  | alafainiwa   |         |         |          |            |
 | THOUSAND     | akpiza       |         |         |          |            |
+| TWO THOUSAND | akpiiniwa    |         |         |          |            |
 
 ## numerals-khan1272-2 / Khandeshi, India / Fiver:0.00 Tener:0.00 Twentier:0.33 Twoer:0.04
 
@@ -17402,7 +18121,9 @@
 | EIGHTY       | aisi          |         |         |         |            |
 | NINETY       | nowad         |         |         |         |            |
 | HUNDRED      | sau / hau     |         |         |         |            |
+| TWO HUNDRED  | adisseu       |         |         |         |            |
 | THOUSAND     | hadzar        |         |         |         |            |
+| TWO THOUSAND | dohadzar      |         |         |         |            |
 
 ## numerals-lavu1241-1 / Lavukaleve, Solomon Islands / Fiver:0.00 Tener:0.11 Twentier:0.67 Twoer:0.04
 
@@ -17445,50 +18166,56 @@
 | EIGHTY       | kanalsevi                          |         |         |            |            |
 | NINETY       | kanalsava                          |         |         |            |            |
 | HUNDRED      | tangalu                            |         |         |            |            |
+| TWO HUNDRED  | tangalulelaol                      |         |         |            |            |
 | THOUSAND     | lamukas                            |         |         |            |            |
+| TWO THOUSAND | lamukaslelagel                     |         |         |            |            |
 
 ## numerals-nort2603-1 / Arvanitika (Northwest), Greece / Fiver:0.00 Tener:0.19 Twentier:0.33 Twoer:0.04
 
-| Concept      | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------|:--------|:--------|:--------|:-----------|
-| ONE          | na                   |         | NINE    |         |            |
-| TWO          | di                   |         |         |         | FORTY      |
-| THREE        | tri                  |         |         | THIRTY  |            |
-| FOUR         | katra                |         |         |         |            |
-| FIVE         | pesa                 |         |         |         |            |
-| SIX          | jasta                |         |         |         |            |
-| SEVEN        | stata                |         |         |         |            |
-| EIGHT        | teta                 |         |         |         |            |
-| NINE         | nanda                |         |         |         |            |
-| TEN          | djeta                |         |         | FORTY   |            |
-| ELEVEN       | nambadjeta           |         |         |         |            |
-| TWELVE       | dimbadjeta           |         |         |         |            |
-| THIRTEEN     | trimbadjeta          |         |         |         |            |
-| FOURTEEN     | katrambadjeta        |         |         |         |            |
-| FIFTEEN      | pesambadjeta         |         |         |         |            |
-| SIXTEEN      | jastambadjeta        |         |         |         |            |
-| SEVENTEEN    | statambadjeta        |         |         |         |            |
-| EIGHTEEN     | tetambadjeta         |         |         |         |            |
-| NINETEEN     | nandambadjeta        |         |         |         |            |
-| TWENTY       | nazet                |         |         |         |            |
-| TWENTY ONE   | nazetena             |         |         |         |            |
-| TWENTY TWO   | nazetedi             |         |         |         |            |
-| TWENTY THREE | nazetetri            |         |         |         |            |
-| TWENTY FOUR  | nazetekatra          |         |         |         |            |
-| TWENTY FIVE  | nazetepesa           |         |         |         |            |
-| TWENTY SIX   | nazetejasta          |         |         |         |            |
-| TWENTY SEVEN | nazetestata          |         |         |         |            |
-| TWENTY EIGHT | nazeteteta           |         |         |         |            |
-| TWENTY NINE  | nazetenanda          |         |         |         |            |
-| THIRTY       | tridjeta             |         |         |         |            |
-| FORTY        | dizet / katradjeta   |         |         |         |            |
-| FIFTY        | pesadjeta            |         |         |         |            |
-| SIXTY        | trizet / jastadjeta  |         |         |         |            |
-| SEVENTY      | statadjeta           |         |         |         |            |
-| EIGHTY       | katrazet / tetadjeta |         |         |         |            |
-| NINETY       | nandadjeta           |         |         |         |            |
-| HUNDRED      | nacint               |         |         |         |            |
-| THOUSAND     | namiya               |         |         |         |            |
+| Concept       | Forms                | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------------|:--------|:--------|:--------|:-----------|
+| ONE           | na                   |         | NINE    |         |            |
+| TWO           | di                   |         |         |         | FORTY      |
+| THREE         | tri                  |         |         | THIRTY  |            |
+| FOUR          | katra                |         |         |         |            |
+| FIVE          | pesa                 |         |         |         |            |
+| SIX           | jasta                |         |         |         |            |
+| SEVEN         | stata                |         |         |         |            |
+| EIGHT         | teta                 |         |         |         |            |
+| NINE          | nanda                |         |         |         |            |
+| TEN           | djeta                |         |         | FORTY   |            |
+| ELEVEN        | nambadjeta           |         |         |         |            |
+| TWELVE        | dimbadjeta           |         |         |         |            |
+| THIRTEEN      | trimbadjeta          |         |         |         |            |
+| FOURTEEN      | katrambadjeta        |         |         |         |            |
+| FIFTEEN       | pesambadjeta         |         |         |         |            |
+| SIXTEEN       | jastambadjeta        |         |         |         |            |
+| SEVENTEEN     | statambadjeta        |         |         |         |            |
+| EIGHTEEN      | tetambadjeta         |         |         |         |            |
+| NINETEEN      | nandambadjeta        |         |         |         |            |
+| TWENTY        | nazet                |         |         |         |            |
+| TWENTY ONE    | nazetena             |         |         |         |            |
+| TWENTY TWO    | nazetedi             |         |         |         |            |
+| TWENTY THREE  | nazetetri            |         |         |         |            |
+| TWENTY FOUR   | nazetekatra          |         |         |         |            |
+| TWENTY FIVE   | nazetepesa           |         |         |         |            |
+| TWENTY SIX    | nazetejasta          |         |         |         |            |
+| TWENTY SEVEN  | nazetestata          |         |         |         |            |
+| TWENTY EIGHT  | nazeteteta           |         |         |         |            |
+| TWENTY NINE   | nazetenanda          |         |         |         |            |
+| THIRTY        | tridjeta             |         |         |         |            |
+| FORTY         | dizet / katradjeta   |         |         |         |            |
+| FIFTY         | pesadjeta            |         |         |         |            |
+| SIXTY         | trizet / jastadjeta  |         |         |         |            |
+| SEVENTY       | statadjeta           |         |         |         |            |
+| EIGHTY        | katrazet / tetadjeta |         |         |         |            |
+| NINETY        | nandadjeta           |         |         |         |            |
+| HUNDRED       | nacint               |         |         |         |            |
+| TWO HUNDRED   | dicint               |         |         |         |            |
+| FOUR HUNDRED  | katracint            |         |         |         |            |
+| EIGHT HUNDRED | tetacint             |         |         |         |            |
+| THOUSAND      | namiya               |         |         |         |            |
+| TWO THOUSAND  | dimiya               |         |         |         |            |
 
 ## numerals-nort2845-1 / North Marquesan, French Polynesia / Fiver:0.00 Tener:0.19 Twentier:0.33 Twoer:0.00
 
@@ -17531,7 +18258,9 @@
 | EIGHTY       | euatouha / evauonohuu                 |         |         |          |            |
 | NINETY       | euatouhamaonohuu / eivaonohuu         |         |         |          |            |
 | HUNDRED      | euatouhametetekau / hanere            |         |         |          |            |
+| TWO HUNDRED  | eimatouha / euahanare                 |         |         |          |            |
 | THOUSAND     | euaaumeteimatouha / tautini / miri    |         |         |          |            |
+| TWO THOUSAND | eimaau / euatautini                   |         |         |          |            |
 
 ## numerals-nort3046-1 / North Mofu, Cameroon / Fiver:0.00 Tener:0.42 Twentier:0.67 Twoer:0.00
 
@@ -17574,7 +18303,9 @@
 | EIGHTY       | kokurutsamakang       |         |         |             |            |
 | NINETY       | kokurutsad            |         |         |             |            |
 | HUNDRED      | temere                |         |         |             |            |
+| TWO HUNDRED  | temeresuho            |         |         |             |            |
 | THOUSAND     | gozam                 |         |         |             |            |
+| TWO THOUSAND | gozamsuho             |         |         |             |            |
 
 ## numerals-otor1240-1 / Otoro, Sudan / Fiver:0.09 Tener:0.19 Twentier:0.67 Twoer:0.04
 
@@ -17617,7 +18348,9 @@
 | EIGHTY       | arreladuba        |           |         |          |            |
 | NINETY       | arrelatodnekorong |           |         |          |            |
 | HUNDRED      | arreladi          |           |         |          |            |
+| TWO HUNDRED  | arreladiuten      |           |         |          |            |
 | THOUSAND     | arreladidieedong  |           |         |          |            |
+| TWO THOUSAND | arreladidiuten    |           |         |          |            |
 
 ## numerals-paci1278-1 / Alutiiq Yupik, USA / Fiver:0.00 Tener:0.06 Twentier:0.67 Twoer:0.00
 
@@ -17660,6 +18393,8 @@
 | EIGHTY       | inglulganqula                       |         |         |         |            |
 | NINETY       | qulngujanqula                       |         |         |         |            |
 | HUNDRED      | talimansuinat                       |         |         |         |            |
+| TWO HUNDRED  | qulasuinat                          |         |         |         |            |
+| FOUR HUNDRED | suinaqsuinat                        |         |         |         |            |
 
 ## numerals-pona1250-1 / Ponam, Papua New Guinea / Fiver:0.02 Tener:0.17 Twentier:0.33 Twoer:0.08
 
@@ -17702,6 +18437,7 @@
 | EIGHTY       | ahaluwonguf      |           |         |              |            |
 | NINETY       | ahasenguf        |           |         |              |            |
 | HUNDRED      | pwensi           |           |         |              |            |
+| TWO HUNDRED  | pwenluwof        |           |         |              |            |
 | THOUSAND     | sapau            |           |         |              |            |
 
 ## numerals-sabu1255-1 / Sabu (Savu /Havu), Indonesia / Fiver:0.00 Tener:0.42 Twentier:0.67 Twoer:0.00
@@ -17745,50 +18481,56 @@
 | EIGHTY       | arunguru     |         |         |             |            |
 | NINETY       | heonguru     |         |         |             |            |
 | HUNDRED      | hengahu      |         |         |             |            |
+| TWO HUNDRED  | duengahu     |         |         |             |            |
 | THOUSAND     | hetaba       |         |         |             |            |
+| TWO THOUSAND | duetaba      |         |         |             |            |
 
 ## numerals-sout2784-1 / Southern Ngbandi, DR of the Congo / Fiver:0.04 Tener:0.42 Twentier:0.67 Twoer:0.00
 
-| Concept      | Forms           | Fiver      | Twoer   | Tener       | Twentier   |
-|:-------------|:----------------|:-----------|:--------|:------------|:-----------|
-| ONE          | okoi            |            |         |             |            |
-| TWO          | ose             |            |         | TWENTY NINE |            |
-| THREE        | ota             |            |         | THIRTY      |            |
-| FOUR         | osio            |            |         | FORTY       |            |
-| FIVE         | oko             | TWENTY ONE |         |             |            |
-| SIX          | omana           |            |         |             |            |
-| SEVEN        | sambo           |            |         |             |            |
-| EIGHT        | mwambe          |            |         |             |            |
-| NINE         | libwa           |            |         |             |            |
-| TEN          | bale            |            |         | NINETEEN    |            |
-| ELEVEN       | balenaokoi      |            |         |             |            |
-| TWELVE       | balenaose       |            |         |             |            |
-| THIRTEEN     | balenaota       |            |         |             |            |
-| FOURTEEN     | balenaosio      |            |         |             |            |
-| FIFTEEN      | balenaoko       |            |         |             |            |
-| SIXTEEN      | balenaomana     |            |         |             |            |
-| SEVENTEEN    | balenasambo     |            |         |             |            |
-| EIGHTEEN     | balenamwambe    |            |         |             |            |
-| NINETEEN     | balenalibwa     |            |         |             |            |
-| TWENTY       | gbam            |            |         |             | FORTY      |
-| TWENTY ONE   | gbamosenaokoi   |            |         |             |            |
-| TWENTY TWO   | gbamosenaose    |            |         |             |            |
-| TWENTY THREE | gbamosenaota    |            |         |             |            |
-| TWENTY FOUR  | gbamosenaosio   |            |         |             |            |
-| TWENTY FIVE  | gbamosenaoko    |            |         |             |            |
-| TWENTY SIX   | gbamosenaomana  |            |         |             |            |
-| TWENTY SEVEN | gbamosenasambo  |            |         |             |            |
-| TWENTY EIGHT | gbamosenamwambe |            |         |             |            |
-| TWENTY NINE  | gbamosenalibwa  |            |         |             |            |
-| THIRTY       | gbamota         |            |         |             |            |
-| FORTY        | gbamosio        |            |         |             |            |
-| FIFTY        | gbamoko         |            |         |             |            |
-| SIXTY        | gbamomana       |            |         |             |            |
-| SEVENTY      | gbamsambo       |            |         |             |            |
-| EIGHTY       | gbammwambe      |            |         |             |            |
-| NINETY       | gbamlibwa       |            |         |             |            |
-| HUNDRED      | kama            |            |         |             |            |
-| THOUSAND     | koto            |            |         |             |            |
+| Concept       | Forms           | Fiver      | Twoer   | Tener       | Twentier   |
+|:--------------|:----------------|:-----------|:--------|:------------|:-----------|
+| ONE           | okoi            |            |         |             |            |
+| TWO           | ose             |            |         | TWENTY NINE |            |
+| THREE         | ota             |            |         | THIRTY      |            |
+| FOUR          | osio            |            |         | FORTY       |            |
+| FIVE          | oko             | TWENTY ONE |         |             |            |
+| SIX           | omana           |            |         |             |            |
+| SEVEN         | sambo           |            |         |             |            |
+| EIGHT         | mwambe          |            |         |             |            |
+| NINE          | libwa           |            |         |             |            |
+| TEN           | bale            |            |         | NINETEEN    |            |
+| ELEVEN        | balenaokoi      |            |         |             |            |
+| TWELVE        | balenaose       |            |         |             |            |
+| THIRTEEN      | balenaota       |            |         |             |            |
+| FOURTEEN      | balenaosio      |            |         |             |            |
+| FIFTEEN       | balenaoko       |            |         |             |            |
+| SIXTEEN       | balenaomana     |            |         |             |            |
+| SEVENTEEN     | balenasambo     |            |         |             |            |
+| EIGHTEEN      | balenamwambe    |            |         |             |            |
+| NINETEEN      | balenalibwa     |            |         |             |            |
+| TWENTY        | gbam            |            |         |             | FORTY      |
+| TWENTY ONE    | gbamosenaokoi   |            |         |             |            |
+| TWENTY TWO    | gbamosenaose    |            |         |             |            |
+| TWENTY THREE  | gbamosenaota    |            |         |             |            |
+| TWENTY FOUR   | gbamosenaosio   |            |         |             |            |
+| TWENTY FIVE   | gbamosenaoko    |            |         |             |            |
+| TWENTY SIX    | gbamosenaomana  |            |         |             |            |
+| TWENTY SEVEN  | gbamosenasambo  |            |         |             |            |
+| TWENTY EIGHT  | gbamosenamwambe |            |         |             |            |
+| TWENTY NINE   | gbamosenalibwa  |            |         |             |            |
+| THIRTY        | gbamota         |            |         |             |            |
+| FORTY         | gbamosio        |            |         |             |            |
+| FIFTY         | gbamoko         |            |         |             |            |
+| SIXTY         | gbamomana       |            |         |             |            |
+| SEVENTY       | gbamsambo       |            |         |             |            |
+| EIGHTY        | gbammwambe      |            |         |             |            |
+| NINETY        | gbamlibwa       |            |         |             |            |
+| HUNDRED       | kama            |            |         |             |            |
+| TWO HUNDRED   | kamaose         |            |         |             |            |
+| FOUR HUNDRED  | kamaosio        |            |         |             |            |
+| EIGHT HUNDRED | kamamwabe       |            |         |             |            |
+| THOUSAND      | koto            |            |         |             |            |
+| TWO THOUSAND  | kotoose         |            |         |             |            |
 
 ## numerals-sout2866-1 / South Marquesan, French Polynesia / Fiver:0.00 Tener:0.19 Twentier:0.33 Twoer:0.00
 
@@ -17831,50 +18573,56 @@
 | EIGHTY       | euatoufa / efatekau / evauonohuu        |         |         |          |            |
 | NINETY       | efatekaumeteonohuu / euatoufameteonohuu |         |         |          |            |
 | HUNDRED      | euatouhametetekau / hanere              |         |         |          |            |
+| TWO HUNDRED  | etahiau / euahanare                     |         |         |          |            |
 | THOUSAND     | eimaau / tautini                        |         |         |          |            |
+| TWO THOUSAND | etahimano / euatautini                  |         |         |          |            |
 
 ## numerals-surg1246-1 / Surgujia, Chhattisgarh State, India / Fiver:0.00 Tener:0.03 Twentier:0.33 Twoer:0.00
 
-| Concept      | Forms            | Fiver   | Twoer   | Tener       | Twentier   |
-|:-------------|:-----------------|:--------|:--------|:------------|:-----------|
-| ONE          | ek               |         |         |             |            |
-| TWO          | dui              |         |         |             | FORTY      |
-| THREE        | tin              |         |         |             |            |
-| FOUR         | tsaer            |         |         |             |            |
-| FIVE         | pats             |         |         |             |            |
-| SIX          | tsau             |         |         |             |            |
-| SEVEN        | sat              |         |         |             |            |
-| EIGHT        | ath              |         |         |             |            |
-| NINE         | nau              |         |         |             |            |
-| TEN          | das              |         |         |             |            |
-| ELEVEN       | gijaara          |         |         |             |            |
-| TWELVE       | barah            |         |         |             |            |
-| THIRTEEN     | terah            |         |         |             |            |
-| FOURTEEN     | tsaudah          |         |         |             |            |
-| FIFTEEN      | pandrah          |         |         |             |            |
-| SIXTEEN      | sorah            |         |         |             |            |
-| SEVENTEEN    | satrah           |         |         |             |            |
-| EIGHTEEN     | atharah          |         |         |             |            |
-| NINETEEN     | unais            |         |         | TWENTY NINE |            |
-| TWENTY       | bis / ekkori     |         |         |             |            |
-| TWENTY ONE   | ikais            |         |         |             |            |
-| TWENTY TWO   | bais             |         |         |             |            |
-| TWENTY THREE | teis             |         |         |             |            |
-| TWENTY FOUR  | tsaubis          |         |         |             |            |
-| TWENTY FIVE  | patsis           |         |         |             |            |
-| TWENTY SIX   | tshabis          |         |         |             |            |
-| TWENTY SEVEN | satais           |         |         |             |            |
-| TWENTY EIGHT | athais           |         |         |             |            |
-| TWENTY NINE  | unais            |         |         |             |            |
-| THIRTY       | tis              |         |         |             |            |
-| FORTY        | tsalis / duikori |         |         |             |            |
-| FIFTY        | patsas           |         |         |             |            |
-| SIXTY        | sath             |         |         |             |            |
-| SEVENTY      | satar            |         |         |             |            |
-| EIGHTY       | assi             |         |         |             |            |
-| NINETY       | nabbe            |         |         |             |            |
-| HUNDRED      | sau / patskori   |         |         |             |            |
-| THOUSAND     | ekhadzar         |         |         |             |            |
+| Concept       | Forms            | Fiver   | Twoer   | Tener       | Twentier   |
+|:--------------|:-----------------|:--------|:--------|:------------|:-----------|
+| ONE           | ek               |         |         |             |            |
+| TWO           | dui              |         |         |             | FORTY      |
+| THREE         | tin              |         |         |             |            |
+| FOUR          | tsaer            |         |         |             |            |
+| FIVE          | pats             |         |         |             |            |
+| SIX           | tsau             |         |         |             |            |
+| SEVEN         | sat              |         |         |             |            |
+| EIGHT         | ath              |         |         |             |            |
+| NINE          | nau              |         |         |             |            |
+| TEN           | das              |         |         |             |            |
+| ELEVEN        | gijaara          |         |         |             |            |
+| TWELVE        | barah            |         |         |             |            |
+| THIRTEEN      | terah            |         |         |             |            |
+| FOURTEEN      | tsaudah          |         |         |             |            |
+| FIFTEEN       | pandrah          |         |         |             |            |
+| SIXTEEN       | sorah            |         |         |             |            |
+| SEVENTEEN     | satrah           |         |         |             |            |
+| EIGHTEEN      | atharah          |         |         |             |            |
+| NINETEEN      | unais            |         |         | TWENTY NINE |            |
+| TWENTY        | bis / ekkori     |         |         |             |            |
+| TWENTY ONE    | ikais            |         |         |             |            |
+| TWENTY TWO    | bais             |         |         |             |            |
+| TWENTY THREE  | teis             |         |         |             |            |
+| TWENTY FOUR   | tsaubis          |         |         |             |            |
+| TWENTY FIVE   | patsis           |         |         |             |            |
+| TWENTY SIX    | tshabis          |         |         |             |            |
+| TWENTY SEVEN  | satais           |         |         |             |            |
+| TWENTY EIGHT  | athais           |         |         |             |            |
+| TWENTY NINE   | unais            |         |         |             |            |
+| THIRTY        | tis              |         |         |             |            |
+| FORTY         | tsalis / duikori |         |         |             |            |
+| FIFTY         | patsas           |         |         |             |            |
+| SIXTY         | sath             |         |         |             |            |
+| SEVENTY       | satar            |         |         |             |            |
+| EIGHTY        | assi             |         |         |             |            |
+| NINETY        | nabbe            |         |         |             |            |
+| HUNDRED       | sau / patskori   |         |         |             |            |
+| TWO HUNDRED   | duisau           |         |         |             |            |
+| FOUR HUNDRED  | tsaersau         |         |         |             |            |
+| EIGHT HUNDRED | athsau           |         |         |             |            |
+| THOUSAND      | ekhadzar         |         |         |             |            |
+| TWO THOUSAND  | duihadzar        |         |         |             |            |
 
 ## numerals-svan1243-1 / Svan, Georgia / Fiver:0.00 Tener:0.00 Twentier:0.67 Twoer:0.04
 
@@ -17917,7 +18665,9 @@
 | EIGHTY       | arasd / wostwinjerwesd        |         |         |         |            |
 | NINETY       | tskhaasd / wostwinjerwesdiesd |         |         |         |            |
 | HUNDRED      | asir                          |         |         |         |            |
+| TWO HUNDRED  | jorasir                       |         |         |         |            |
 | THOUSAND     | jesdasir / atas               |         |         |         |            |
+| TWO THOUSAND | joratas                       |         |         |         |            |
 
 ## numerals-tagi1241-1 / Tagin, India / Fiver:0.02 Tener:0.17 Twentier:0.33 Twoer:0.00
 
@@ -17960,7 +18710,9 @@
 | EIGHTY       | campini        |           |         |              |            |
 | NINETY       | camkia         |           |         |              |            |
 | HUNDRED      | lenggo         |           |         |              |            |
+| TWO HUNDRED  | lengni         |           |         |              |            |
 | THOUSAND     | ejer           |           |         |              |            |
+| TWO THOUSAND | ejerani        |           |         |              |            |
 
 ## numerals-tosk1239-1 / Albanian (Tosk), Albania / Fiver:0.00 Tener:0.17 Twentier:0.33 Twoer:0.04
 
@@ -18003,7 +18755,9 @@
 | EIGHTY       | tetadjeta     |         |         |          |            |
 | NINETY       | nantadjeta    |         |         |          |            |
 | HUNDRED      | nacind        |         |         |          |            |
+| TWO HUNDRED  | dycind        |         |         |          |            |
 | THOUSAND     | namija        |         |         |          |            |
+| TWO THOUSAND | dymija        |         |         |          |            |
 
 ## numerals-umat1237-1 / Umatilla, USA / Fiver:0.04 Tener:0.17 Twentier:0.33 Twoer:0.04
 
@@ -18046,7 +18800,9 @@
 | EIGHTY       | uymitaaptit       |          |         |             |            |
 | NINETY       | kuysaaptit        |          |         |             |            |
 | HUNDRED      | putaaptit         |          |         |             |            |
+| TWO HUNDRED  | naptputaaptit     |          |         |             |            |
 | THOUSAND     | naxstawsin        |          |         |             |            |
+| TWO THOUSAND | napttawsin        |          |         |             |            |
 
 ## numerals-wall1238-1 / Walla Walla, USA / Fiver:0.04 Tener:0.17 Twentier:0.33 Twoer:0.04
 
@@ -18089,7 +18845,9 @@
 | EIGHTY       | uymitaaptit       |          |         |             |            |
 | NINETY       | cmsaaptit         |          |         |             |            |
 | HUNDRED      | putaaptit         |          |         |             |            |
+| TWO HUNDRED  | naptputaaptit     |          |         |             |            |
 | THOUSAND     | naxstawsin        |          |         |             |            |
+| TWO THOUSAND | napttawsin        |          |         |             |            |
 
 ## numerals-yaki1237-1 / Yakama (Yakima), USA / Fiver:0.02 Tener:0.42 Twentier:0.67 Twoer:0.04
 
@@ -18132,7 +18890,9 @@
 | EIGHTY       | pakhatumaataaptit    |          |         |             |            |
 | NINETY       | cmisaaptit           |          |         |             |            |
 | HUNDRED      | nakhsputaaptit       |          |         |             |            |
+| TWO HUNDRED  | niiptputaaptit       |          |         |             |            |
 | THOUSAND     | putimptputaaptit     |          |         |             |            |
+| TWO THOUSAND | niiptitputaaptit     |          |         |             |            |
 
 # vigesimal / Unknown
 ## numerals-anei1239-1 / Aneityum, Vanuatu / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
@@ -18176,136 +18936,149 @@
 | EIGHTY       | eiti                        |         |         |         |            |
 | NINETY       | naenti                      |         |         |         |            |
 | HUNDRED      | handred                     |         |         |         |            |
+| TWO HUNDRED  | tuhandred                   |         |         |         |            |
 | THOUSAND     | taosen                      |         |         |         |            |
+| TWO THOUSAND | tutaosen                    |         |         |         |            |
 
 ## numerals-basq1248-1 / Basque, Spain, France / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                             | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:----------------------------------|:--------|:--------|:--------|:-----------|
-| ONE          | bat                               |         |         |         |            |
-| TWO          | bi                                |         |         |         |            |
-| THREE        | iru                               |         |         |         |            |
-| FOUR         | law                               |         |         |         |            |
-| FIVE         | bost                              |         |         |         |            |
-| SIX          | sej                               |         |         |         |            |
-| SEVEN        | saspi                             |         |         |         |            |
-| EIGHT        | sortsi                            |         |         |         |            |
-| NINE         | bederatsi                         |         |         |         |            |
-| TEN          | amar / amar                       |         |         |         |            |
-| ELEVEN       | amajka                            |         |         |         |            |
-| TWELVE       | amabi                             |         |         |         |            |
-| THIRTEEN     | amajru                            |         |         |         |            |
-| FOURTEEN     | amalaw / amalaw                   |         |         |         |            |
-| FIFTEEN      | amabost / amabost                 |         |         |         |            |
-| SIXTEEN      | amasej / amasej                   |         |         |         |            |
-| SEVENTEEN    | amasaspi / amasaspi               |         |         |         |            |
-| EIGHTEEN     | amasortsi / emesortsi             |         |         |         |            |
-| NINETEEN     | emeretsi                          |         |         |         |            |
-| TWENTY       | ogej                              |         |         |         |            |
-| TWENTY ONE   | ogejtabat / ogejtabat             |         |         |         |            |
-| TWENTY TWO   | ogejtabi / ogejtabi               |         |         |         |            |
-| TWENTY THREE | ogejtairu / ogejtairu             |         |         |         |            |
-| TWENTY FOUR  | ogejtalaw / ogejtalaw             |         |         |         |            |
-| TWENTY FIVE  | ogejtabost / ogejtabost           |         |         |         |            |
-| TWENTY SIX   | ogejtasej / ogejtasej             |         |         |         |            |
-| TWENTY SEVEN | ogejtasaspi / ogejtasaspi         |         |         |         |            |
-| TWENTY EIGHT | ogejtasortsi / ogejtasortsi       |         |         |         |            |
-| TWENTY NINE  | ogejtabederatsi / ogejtabederatsi |         |         |         |            |
-| THIRTY       | ogejtamar                         |         |         |         |            |
-| FORTY        | berogej                           |         |         |         |            |
-| FIFTY        | berogejtamar / berogejtamar       |         |         |         |            |
-| SIXTY        | irurogej                          |         |         |         |            |
-| SEVENTY      | irurogejtamar / irurogejtamar     |         |         |         |            |
-| EIGHTY       | lawrogej                          |         |         |         |            |
-| NINETY       | lawrogejtamar / lawrogejtamar     |         |         |         |            |
-| HUNDRED      | eun                               |         |         |         |            |
-| THOUSAND     | miya                              |         |         |         |            |
+| Concept       | Forms                             | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:----------------------------------|:--------|:--------|:--------|:-----------|
+| ONE           | bat                               |         |         |         |            |
+| TWO           | bi                                |         |         |         |            |
+| THREE         | iru                               |         |         |         |            |
+| FOUR          | law                               |         |         |         |            |
+| FIVE          | bost                              |         |         |         |            |
+| SIX           | sej                               |         |         |         |            |
+| SEVEN         | saspi                             |         |         |         |            |
+| EIGHT         | sortsi                            |         |         |         |            |
+| NINE          | bederatsi                         |         |         |         |            |
+| TEN           | amar / amar                       |         |         |         |            |
+| ELEVEN        | amajka                            |         |         |         |            |
+| TWELVE        | amabi                             |         |         |         |            |
+| THIRTEEN      | amajru                            |         |         |         |            |
+| FOURTEEN      | amalaw / amalaw                   |         |         |         |            |
+| FIFTEEN       | amabost / amabost                 |         |         |         |            |
+| SIXTEEN       | amasej / amasej                   |         |         |         |            |
+| SEVENTEEN     | amasaspi / amasaspi               |         |         |         |            |
+| EIGHTEEN      | amasortsi / emesortsi             |         |         |         |            |
+| NINETEEN      | emeretsi                          |         |         |         |            |
+| TWENTY        | ogej                              |         |         |         |            |
+| TWENTY ONE    | ogejtabat / ogejtabat             |         |         |         |            |
+| TWENTY TWO    | ogejtabi / ogejtabi               |         |         |         |            |
+| TWENTY THREE  | ogejtairu / ogejtairu             |         |         |         |            |
+| TWENTY FOUR   | ogejtalaw / ogejtalaw             |         |         |         |            |
+| TWENTY FIVE   | ogejtabost / ogejtabost           |         |         |         |            |
+| TWENTY SIX    | ogejtasej / ogejtasej             |         |         |         |            |
+| TWENTY SEVEN  | ogejtasaspi / ogejtasaspi         |         |         |         |            |
+| TWENTY EIGHT  | ogejtasortsi / ogejtasortsi       |         |         |         |            |
+| TWENTY NINE   | ogejtabederatsi / ogejtabederatsi |         |         |         |            |
+| THIRTY        | ogejtamar                         |         |         |         |            |
+| FORTY         | berogej                           |         |         |         |            |
+| FIFTY         | berogejtamar / berogejtamar       |         |         |         |            |
+| SIXTY         | irurogej                          |         |         |         |            |
+| SEVENTY       | irurogejtamar / irurogejtamar     |         |         |         |            |
+| EIGHTY        | lawrogej                          |         |         |         |            |
+| NINETY        | lawrogejtamar / lawrogejtamar     |         |         |         |            |
+| HUNDRED       | eun                               |         |         |         |            |
+| TWO HUNDRED   | bereun                            |         |         |         |            |
+| THREE HUNDRED | irureun                           |         |         |         |            |
+| THOUSAND      | miya                              |         |         |         |            |
+| TWO THOUSAND  | bimiya / bimiya                   |         |         |         |            |
 
 ## numerals-bijo1238-1 / Bijori, Jharkhand State, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms      | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:-----------|:--------|:--------|:--------|:-----------|
-| ONE          | mijd       |         |         |         |            |
-| TWO          | brija      |         |         |         |            |
-| THREE        | peja       |         |         |         |            |
-| FOUR         | tsargot    |         |         |         |            |
-| FIVE         | patsgot    |         |         |         |            |
-| SIX          | tshaugot   |         |         |         |            |
-| SEVEN        | satgot     |         |         |         |            |
-| EIGHT        | athgot     |         |         |         |            |
-| NINE         | naugot     |         |         |         |            |
-| TEN          | dasgot     |         |         |         |            |
-| ELEVEN       | garagot    |         |         |         |            |
-| TWELVE       | baragot    |         |         |         |            |
-| THIRTEEN     | teragot    |         |         |         |            |
-| FOURTEEN     | tsaudagot  |         |         |         |            |
-| FIFTEEN      | pandragot  |         |         |         |            |
-| SIXTEEN      | solagot    |         |         |         |            |
-| SEVENTEEN    | stragot    |         |         |         |            |
-| EIGHTEEN     | atharagot  |         |         |         |            |
-| NINETEEN     | unaisgot   |         |         |         |            |
-| TWENTY       | bisgot     |         |         |         |            |
-| TWENTY ONE   | ekaisgot   |         |         |         |            |
-| TWENTY TWO   | baisgot    |         |         |         |            |
-| TWENTY THREE | taisgot    |         |         |         |            |
-| TWENTY FOUR  | tsaubisgot |         |         |         |            |
-| TWENTY FIVE  | patsisgot  |         |         |         |            |
-| TWENTY SIX   | tshabisgot |         |         |         |            |
-| TWENTY SEVEN | sataisgot  |         |         |         |            |
-| TWENTY EIGHT | athaisgot  |         |         |         |            |
-| TWENTY NINE  | untisgot   |         |         |         |            |
-| THIRTY       | tisgot     |         |         |         |            |
-| FORTY        | tsalisgot  |         |         |         |            |
-| FIFTY        | patsasgot  |         |         |         |            |
-| SIXTY        | sathgot    |         |         |         |            |
-| SEVENTY      | satargot   |         |         |         |            |
-| EIGHTY       | sigot      |         |         |         |            |
-| NINETY       | nbegot     |         |         |         |            |
-| HUNDRED      | misau      |         |         |         |            |
-| THOUSAND     | mihdzar    |         |         |         |            |
+| Concept       | Forms      | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:-----------|:--------|:--------|:--------|:-----------|
+| ONE           | mijd       |         |         |         |            |
+| TWO           | brija      |         |         |         |            |
+| THREE         | peja       |         |         |         |            |
+| FOUR          | tsargot    |         |         |         |            |
+| FIVE          | patsgot    |         |         |         |            |
+| SIX           | tshaugot   |         |         |         |            |
+| SEVEN         | satgot     |         |         |         |            |
+| EIGHT         | athgot     |         |         |         |            |
+| NINE          | naugot     |         |         |         |            |
+| TEN           | dasgot     |         |         |         |            |
+| ELEVEN        | garagot    |         |         |         |            |
+| TWELVE        | baragot    |         |         |         |            |
+| THIRTEEN      | teragot    |         |         |         |            |
+| FOURTEEN      | tsaudagot  |         |         |         |            |
+| FIFTEEN       | pandragot  |         |         |         |            |
+| SIXTEEN       | solagot    |         |         |         |            |
+| SEVENTEEN     | stragot    |         |         |         |            |
+| EIGHTEEN      | atharagot  |         |         |         |            |
+| NINETEEN      | unaisgot   |         |         |         |            |
+| TWENTY        | bisgot     |         |         |         |            |
+| TWENTY ONE    | ekaisgot   |         |         |         |            |
+| TWENTY TWO    | baisgot    |         |         |         |            |
+| TWENTY THREE  | taisgot    |         |         |         |            |
+| TWENTY FOUR   | tsaubisgot |         |         |         |            |
+| TWENTY FIVE   | patsisgot  |         |         |         |            |
+| TWENTY SIX    | tshabisgot |         |         |         |            |
+| TWENTY SEVEN  | sataisgot  |         |         |         |            |
+| TWENTY EIGHT  | athaisgot  |         |         |         |            |
+| TWENTY NINE   | untisgot   |         |         |         |            |
+| THIRTY        | tisgot     |         |         |         |            |
+| FORTY         | tsalisgot  |         |         |         |            |
+| FIFTY         | patsasgot  |         |         |         |            |
+| SIXTY         | sathgot    |         |         |         |            |
+| SEVENTY       | satargot   |         |         |         |            |
+| EIGHTY        | sigot      |         |         |         |            |
+| NINETY        | nbegot     |         |         |         |            |
+| HUNDRED       | misau      |         |         |         |            |
+| TWO HUNDRED   | barsau     |         |         |         |            |
+| FOUR HUNDRED  | tsarsau    |         |         |         |            |
+| EIGHT HUNDRED | athsau     |         |         |         |            |
+| THOUSAND      | mihdzar    |         |         |         |            |
+| TWO THOUSAND  | barhdzar   |         |         |         |            |
 
 ## numerals-birh1242-1 / Birhor, Jharkhand State, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms   | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:--------|:--------|:--------|:--------|:-----------|
-| ONE          | mija    |         |         |         |            |
-| TWO          | barija  |         |         |         |            |
-| THREE        | peja    |         |         |         |            |
-| FOUR         | tsair   |         |         |         |            |
-| FIVE         | pats    |         |         |         |            |
-| SIX          | tsho    |         |         |         |            |
-| SEVEN        | sat     |         |         |         |            |
-| EIGHT        | ath     |         |         |         |            |
-| NINE         | nau     |         |         |         |            |
-| TEN          | das     |         |         |         |            |
-| ELEVEN       | garo    |         |         |         |            |
-| TWELVE       | baro    |         |         |         |            |
-| THIRTEEN     | tero    |         |         |         |            |
-| FOURTEEN     | tsaudo  |         |         |         |            |
-| FIFTEEN      | pandro  |         |         |         |            |
-| SIXTEEN      | solo    |         |         |         |            |
-| SEVENTEEN    | sotro   |         |         |         |            |
-| EIGHTEEN     | atharo  |         |         |         |            |
-| NINETEEN     | unais   |         |         |         |            |
-| TWENTY       | bis     |         |         |         |            |
-| TWENTY ONE   | ekais   |         |         |         |            |
-| TWENTY TWO   | bais    |         |         |         |            |
-| TWENTY THREE | tais    |         |         |         |            |
-| TWENTY FOUR  | tsaubis |         |         |         |            |
-| TWENTY FIVE  | patsis  |         |         |         |            |
-| TWENTY SIX   | tshabis |         |         |         |            |
-| TWENTY SEVEN | satais  |         |         |         |            |
-| TWENTY EIGHT | athais  |         |         |         |            |
-| TWENTY NINE  | untis   |         |         |         |            |
-| THIRTY       | tis     |         |         |         |            |
-| FORTY        | tsalis  |         |         |         |            |
-| FIFTY        | patsas  |         |         |         |            |
-| SIXTY        | sath    |         |         |         |            |
-| SEVENTY      | satar   |         |         |         |            |
-| EIGHTY       | si      |         |         |         |            |
-| NINETY       | nbe     |         |         |         |            |
-| HUNDRED      | misau   |         |         |         |            |
-| THOUSAND     | mihdzar |         |         |         |            |
+| Concept       | Forms    | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------|:--------|:--------|:--------|:-----------|
+| ONE           | mija     |         |         |         |            |
+| TWO           | barija   |         |         |         |            |
+| THREE         | peja     |         |         |         |            |
+| FOUR          | tsair    |         |         |         |            |
+| FIVE          | pats     |         |         |         |            |
+| SIX           | tsho     |         |         |         |            |
+| SEVEN         | sat      |         |         |         |            |
+| EIGHT         | ath      |         |         |         |            |
+| NINE          | nau      |         |         |         |            |
+| TEN           | das      |         |         |         |            |
+| ELEVEN        | garo     |         |         |         |            |
+| TWELVE        | baro     |         |         |         |            |
+| THIRTEEN      | tero     |         |         |         |            |
+| FOURTEEN      | tsaudo   |         |         |         |            |
+| FIFTEEN       | pandro   |         |         |         |            |
+| SIXTEEN       | solo     |         |         |         |            |
+| SEVENTEEN     | sotro    |         |         |         |            |
+| EIGHTEEN      | atharo   |         |         |         |            |
+| NINETEEN      | unais    |         |         |         |            |
+| TWENTY        | bis      |         |         |         |            |
+| TWENTY ONE    | ekais    |         |         |         |            |
+| TWENTY TWO    | bais     |         |         |         |            |
+| TWENTY THREE  | tais     |         |         |         |            |
+| TWENTY FOUR   | tsaubis  |         |         |         |            |
+| TWENTY FIVE   | patsis   |         |         |         |            |
+| TWENTY SIX    | tshabis  |         |         |         |            |
+| TWENTY SEVEN  | satais   |         |         |         |            |
+| TWENTY EIGHT  | athais   |         |         |         |            |
+| TWENTY NINE   | untis    |         |         |         |            |
+| THIRTY        | tis      |         |         |         |            |
+| FORTY         | tsalis   |         |         |         |            |
+| FIFTY         | patsas   |         |         |         |            |
+| SIXTY         | sath     |         |         |         |            |
+| SEVENTY       | satar    |         |         |         |            |
+| EIGHTY        | si       |         |         |         |            |
+| NINETY        | nbe      |         |         |         |            |
+| HUNDRED       | misau    |         |         |         |            |
+| TWO HUNDRED   | barsau   |         |         |         |            |
+| FOUR HUNDRED  | tsairsau |         |         |         |            |
+| EIGHT HUNDRED | athsau   |         |         |         |            |
+| THOUSAND      | mihdzar  |         |         |         |            |
+| TWO THOUSAND  | barhdzar |         |         |         |            |
 
 ## numerals-budu1248-1 / Budukh, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18348,7 +19121,10 @@
 | EIGHTY       | yukab         |         |         |         |            |
 | NINETY       | yukanayitsib  |         |         |         |            |
 | HUNDRED      | fuqad         |         |         |         |            |
+| TWO HUNDRED  | qadfuqad      |         |         |         |            |
 | THOUSAND     | hazar         |         |         |         |            |
+| TWO THOUSAND | qadhazar      |         |         |         |            |
+| TEN THOUSAND | yitsibhazar   |         |         |         |            |
 
 ## numerals-budu1248-2 / Budukh, Azerbaijan / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -18391,7 +19167,10 @@
 | EIGHTY       | yukab         |         |         |         |            |
 | NINETY       | yukanayitsib  |         |         |         |            |
 | HUNDRED      | fukad         |         |         |         |            |
+| TWO HUNDRED  | qadfukad      |         |         |         |            |
 | THOUSAND     | hazar         |         |         |         |            |
+| TWO THOUSAND | qadhazar      |         |         |         |            |
+| TEN THOUSAND | yitsibhazar   |         |         |         |            |
 
 ## numerals-budu1248-3 / Budukh, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18477,7 +19256,9 @@
 | EIGHTY       | otsenta      |         |         |         |            |
 | NINETY       | nobenta      |         |         |         |            |
 | HUNDRED      | sien         |         |         |         |            |
+| TWO HUNDRED  | dosientos    |         |         |         |            |
 | THOUSAND     | mil          |         |         |         |            |
+| TWO THOUSAND | dosmil       |         |         |         |            |
 
 ## numerals-chek1238-1 / Maringe, Solomon Islands / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18520,7 +19301,9 @@
 | EIGHTY       | nanaisalei     |         |         |         |            |
 | NINETY       | nevaisalei     |         |         |         |            |
 | HUNDRED      | kaiseigobi     |         |         |         |            |
+| TWO HUNDRED  | pheigobi       |         |         |         |            |
 | THOUSAND     | kaiseithoga    |         |         |         |            |
+| TWO THOUSAND | pheithoga      |         |         |         |            |
 
 ## numerals-coma1246-1 / Comaltepec Chinantec, Mexico / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -18563,7 +19346,9 @@
 | EIGHTY       | ochenta                   |         |         |          |            |
 | NINETY       | noventa                   |         |         |          |            |
 | HUNDRED      | kanyang / cien            |         |         |          |            |
+| TWO HUNDRED  | tu3ciento / dosciento     |         |         |          |            |
 | THOUSAND     | ginyang3 / mil            |         |         |          |            |
+| TWO THOUSAND | dosmil / dosmil           |         |         |          |            |
 
 ## numerals-edec1238-1 / Cabe (Ede Cabe), Benin / Fiver:0.02 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -18606,7 +19391,10 @@
 | EIGHTY       | ogohe        |           |         |              |            |
 | NINETY       | aadohu       |           |         |              |            |
 | HUNDRED      | ogohuke      |           |         |              |            |
+| TWO HUNDRED  | ugba         |           |         |              |            |
+| FOUR HUNDRED | ogohumehe    |           |         |              |            |
 | THOUSAND     | egberu       |           |         |              |            |
+| TWO THOUSAND | egberumedzi  |           |         |              |            |
 
 ## numerals-edei1244-1 / Idaca (Ede Idaca), Benin / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18649,7 +19437,10 @@
 | EIGHTY       | ogori        |           |         |         |            |
 | NINETY       | maalelogori  |           |         |         |            |
 | HUNDRED      | ogoru        |           |         |         |            |
+| TWO HUNDRED  | igboo        |           |         |         |            |
+| FOUR HUNDRED | igboomedzi   |           |         |         |            |
 | THOUSAND     | egberu       |           |         |         |            |
+| TWO THOUSAND | egbaa        |           |         |         |            |
 
 ## numerals-edei1246-1 / Ede Ica (Ica), Benin / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18692,7 +19483,9 @@
 | EIGHTY       | ogumee        |         |         |         |            |
 | NINETY       | miyalelogumee |         |         |         |            |
 | HUNDRED      | ogowu         |         |         |         |            |
+| TWO HUNDRED  | ogowumeji     |         |         |         |            |
 | THOUSAND     | egberu        |         |         |         |            |
+| TWO THOUSAND | egbaa         |         |         |         |            |
 
 ## numerals-filo1235-1 / Filomeno Mata Totonac, Mexico / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18735,49 +19528,52 @@
 | EIGHTY       | tatipusam      |         |         |         |            |
 | NINETY       | tatipusamakaw  |         |         |         |            |
 | HUNDRED      | kitsispusam    |         |         |         |            |
+| TWO HUNDRED  | kawpusam       |         |         |         |            |
 
 ## numerals-gawa1247-1 / Gawar-bati, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms             | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------------|:--------|:--------|:--------|:-----------|
-| ONE          | jekh              |         |         |         |            |
-| TWO          | du                |         |         |         |            |
-| THREE        | le                |         |         |         |            |
-| FOUR         | tsur              |         |         |         |            |
-| FIVE         | pes / pens        |         |         |         |            |
-| SIX          | so                |         |         |         |            |
-| SEVEN        | set               |         |         |         |            |
-| EIGHT        | est               |         |         |         |            |
-| NINE         | nu                |         |         |         |            |
-| TEN          | des               |         |         |         |            |
-| ELEVEN       | dzas              |         |         |         |            |
-| TWELVE       | bas               |         |         |         |            |
-| THIRTEEN     | levens / lovos    |         |         |         |            |
-| FOURTEEN     | tsudes            |         |         |         |            |
-| FIFTEEN      | pentces           |         |         |         |            |
-| SIXTEEN      | soras             |         |         |         |            |
-| SEVENTEEN    | setas             |         |         |         |            |
-| EIGHTEEN     | estas             |         |         |         |            |
-| NINETEEN     | inic              |         |         |         |            |
-| TWENTY       | ici               |         |         |         |            |
-| TWENTY ONE   | icjovekh / iciekh |         |         |         |            |
-| TWENTY TWO   | icjodu            |         |         |         |            |
-| TWENTY THREE | icjole            |         |         |         |            |
-| TWENTY FOUR  | icjosur           |         |         |         |            |
-| TWENTY FIVE  | icjopens          |         |         |         |            |
-| TWENTY SIX   | icjoso            |         |         |         |            |
-| TWENTY SEVEN | icjoset           |         |         |         |            |
-| TWENTY EIGHT | icjast            |         |         |         |            |
-| TWENTY NINE  | icjonu            |         |         |         |            |
-| THIRTY       | icjodes           |         |         |         |            |
-| FORTY        | dujci             |         |         |         |            |
-| FIFTY        | dujcjodes         |         |         |         |            |
-| SIXTY        | leci              |         |         |         |            |
-| SEVENTY      | lecjodes          |         |         |         |            |
-| EIGHTY       | tsurici           |         |         |         |            |
-| NINETY       | tsuricjodes       |         |         |         |            |
-| HUNDRED      | panci             |         |         |         |            |
-| THOUSAND     | zer               |         |         |         |            |
+| Concept      | Forms                    | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:-------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | jekh                     |         |         |         |            |
+| TWO          | du                       |         |         |         |            |
+| THREE        | le                       |         |         |         |            |
+| FOUR         | tsur                     |         |         |         |            |
+| FIVE         | pes / pens               |         |         |         |            |
+| SIX          | so                       |         |         |         |            |
+| SEVEN        | set                      |         |         |         |            |
+| EIGHT        | est                      |         |         |         |            |
+| NINE         | nu                       |         |         |         |            |
+| TEN          | des                      |         |         |         |            |
+| ELEVEN       | dzas                     |         |         |         |            |
+| TWELVE       | bas                      |         |         |         |            |
+| THIRTEEN     | levens / lovos           |         |         |         |            |
+| FOURTEEN     | tsudes                   |         |         |         |            |
+| FIFTEEN      | pentces                  |         |         |         |            |
+| SIXTEEN      | soras                    |         |         |         |            |
+| SEVENTEEN    | setas                    |         |         |         |            |
+| EIGHTEEN     | estas                    |         |         |         |            |
+| NINETEEN     | inic                     |         |         |         |            |
+| TWENTY       | ici                      |         |         |         |            |
+| TWENTY ONE   | icjovekh / iciekh        |         |         |         |            |
+| TWENTY TWO   | icjodu                   |         |         |         |            |
+| TWENTY THREE | icjole                   |         |         |         |            |
+| TWENTY FOUR  | icjosur                  |         |         |         |            |
+| TWENTY FIVE  | icjopens                 |         |         |         |            |
+| TWENTY SIX   | icjoso                   |         |         |         |            |
+| TWENTY SEVEN | icjoset                  |         |         |         |            |
+| TWENTY EIGHT | icjast                   |         |         |         |            |
+| TWENTY NINE  | icjonu                   |         |         |         |            |
+| THIRTY       | icjodes                  |         |         |         |            |
+| FORTY        | dujci                    |         |         |         |            |
+| FIFTY        | dujcjodes                |         |         |         |            |
+| SIXTY        | leci                     |         |         |         |            |
+| SEVENTY      | lecjodes                 |         |         |         |            |
+| EIGHTY       | tsurici                  |         |         |         |            |
+| NINETY       | tsuricjodes              |         |         |         |            |
+| HUNDRED      | panci                    |         |         |         |            |
+| TWO HUNDRED  | dusevo / duseva / desici |         |         |         |            |
+| THOUSAND     | zer                      |         |         |         |            |
+| TWO THOUSAND | duzero                   |         |         |         |            |
 
 ## numerals-hari1246-1 / Harijan Kinnauri, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18820,93 +19616,103 @@
 | EIGHTY       | tsharbis     |         |         |         |            |
 | NINETY       | tsharbisodos |         |         |         |            |
 | HUNDRED      | ra           |         |         |         |            |
+| TWO HUNDRED  | dira         |         |         |         |            |
 | THOUSAND     | hazar        |         |         |         |            |
+| TWO THOUSAND | dihazar      |         |         |         |            |
 
 ## numerals-ifee1241-1 / Ifè, Togo, Benin / Fiver:0.04 Tener:0.03 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms           | Fiver     | Twoer   | Tener        | Twentier   |
-|:-------------|:----------------|:----------|:--------|:-------------|:-----------|
-| ONE          | ene             |           |         |              |            |
-| TWO          | meedzi          |           |         | TWENTY EIGHT |            |
-| THREE        | meeta           | SEVENTEEN |         |              |            |
-| FOUR         | meere           |           |         |              |            |
-| FIVE         | meeru           |           |         |              |            |
-| SIX          | meefa           |           |         |              |            |
-| SEVEN        | meedze          |           |         |              |            |
-| EIGHT        | meedzo          |           |         |              |            |
-| NINE         | mesa            |           |         |              |            |
-| TEN          | maa             |           |         |              |            |
-| ELEVEN       | maawooka        |           |         |              |            |
-| TWELVE       | maameedzi       |           |         |              |            |
-| THIRTEEN     | maameeta        |           |         |              |            |
-| FOURTEEN     | maameere        |           |         |              |            |
-| FIFTEEN      | medogu          | SIXTEEN   |         |              |            |
-| SIXTEEN      | medoguonguoka   |           |         |              |            |
-| SEVENTEEN    | meetadinogu     |           |         |              |            |
-| EIGHTEEN     | meedzidinogu    |           |         |              |            |
-| NINETEEN     | okodinogu       |           |         |              |            |
-| TWENTY       | ogu             |           |         |              |            |
-| TWENTY ONE   | okalenogu       |           |         |              |            |
-| TWENTY TWO   | meedzilenogu    |           |         |              |            |
-| TWENTY THREE | meetalenogu     |           |         |              |            |
-| TWENTY FOUR  | meerelenogu     |           |         |              |            |
-| TWENTY FIVE  | meerulenogu     |           |         |              |            |
-| TWENTY SIX   | meefalenogu     |           |         |              |            |
-| TWENTY SEVEN | meetadinogbawo  |           |         |              |            |
-| TWENTY EIGHT | meedzidinogbawo |           |         |              |            |
-| TWENTY NINE  | okadinogbawo    |           |         |              |            |
-| THIRTY       | ogbawo          |           |         |              |            |
-| FORTY        | ogoodzi         |           |         |              |            |
-| FIFTY        | maalenogoodzi   |           |         |              |            |
-| SIXTY        | ogoota          |           |         |              |            |
-| SEVENTY      | maalenogoota    |           |         |              |            |
-| EIGHTY       | ogoore          |           |         |              |            |
-| NINETY       | maalenogoore    |           |         |              |            |
-| HUNDRED      | ogooru          |           |         |              |            |
-| THOUSAND     | egberu          |           |         |              |            |
+| Concept       | Forms           | Fiver     | Twoer   | Tener        | Twentier   |
+|:--------------|:----------------|:----------|:--------|:-------------|:-----------|
+| ONE           | ene             |           |         |              |            |
+| TWO           | meedzi          |           |         | TWENTY EIGHT |            |
+| THREE         | meeta           | SEVENTEEN |         |              |            |
+| FOUR          | meere           |           |         |              |            |
+| FIVE          | meeru           |           |         |              |            |
+| SIX           | meefa           |           |         |              |            |
+| SEVEN         | meedze          |           |         |              |            |
+| EIGHT         | meedzo          |           |         |              |            |
+| NINE          | mesa            |           |         |              |            |
+| TEN           | maa             |           |         |              |            |
+| ELEVEN        | maawooka        |           |         |              |            |
+| TWELVE        | maameedzi       |           |         |              |            |
+| THIRTEEN      | maameeta        |           |         |              |            |
+| FOURTEEN      | maameere        |           |         |              |            |
+| FIFTEEN       | medogu          | SIXTEEN   |         |              |            |
+| SIXTEEN       | medoguonguoka   |           |         |              |            |
+| SEVENTEEN     | meetadinogu     |           |         |              |            |
+| EIGHTEEN      | meedzidinogu    |           |         |              |            |
+| NINETEEN      | okodinogu       |           |         |              |            |
+| TWENTY        | ogu             |           |         |              |            |
+| TWENTY ONE    | okalenogu       |           |         |              |            |
+| TWENTY TWO    | meedzilenogu    |           |         |              |            |
+| TWENTY THREE  | meetalenogu     |           |         |              |            |
+| TWENTY FOUR   | meerelenogu     |           |         |              |            |
+| TWENTY FIVE   | meerulenogu     |           |         |              |            |
+| TWENTY SIX    | meefalenogu     |           |         |              |            |
+| TWENTY SEVEN  | meetadinogbawo  |           |         |              |            |
+| TWENTY EIGHT  | meedzidinogbawo |           |         |              |            |
+| TWENTY NINE   | okadinogbawo    |           |         |              |            |
+| THIRTY        | ogbawo          |           |         |              |            |
+| FORTY         | ogoodzi         |           |         |              |            |
+| FIFTY         | maalenogoodzi   |           |         |              |            |
+| SIXTY         | ogoota          |           |         |              |            |
+| SEVENTY       | maalenogoota    |           |         |              |            |
+| EIGHTY        | ogoore          |           |         |              |            |
+| NINETY        | maalenogoore    |           |         |              |            |
+| HUNDRED       | ogooru          |           |         |              |            |
+| TWO HUNDRED   | igboo           |           |         |              |            |
+| FOUR HUNDRED  | irewo           |           |         |              |            |
+| EIGHT HUNDRED | egbesa          |           |         |              |            |
+| THOUSAND      | egberu          |           |         |              |            |
+| TWO THOUSAND  | egbaa           |           |         |              |            |
 
 ## numerals-igas1238-1 / Ariɡidi (Iɡasi), Nigeria / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | keene          |         |         |         |            |
-| TWO          | keji           |         |         |         |            |
-| THREE        | keda           |         |         |         |            |
-| FOUR         | kene           |         |         |         |            |
-| FIVE         | kento          |         |         |         |            |
-| SIX          | kefa           |         |         |         |            |
-| SEVEN        | kefi           |         |         |         |            |
-| EIGHT        | kero           |         |         |         |            |
-| NINE         | kenda          |         |         |         |            |
-| TEN          | keje           |         |         |         |            |
-| ELEVEN       | nkarije        |         |         |         |            |
-| TWELVE       | ijirije        |         |         |         |            |
-| THIRTEEN     | idarije        |         |         |         |            |
-| FOURTEEN     | inerije        |         |         |         |            |
-| FIFTEEN      | intotutugboro  |         |         |         |            |
-| SIXTEEN      | inetutugboro   |         |         |         |            |
-| SEVENTEEN    | idatutugboro   |         |         |         |            |
-| EIGHTEEN     | ijitutugboro   |         |         |         |            |
-| NINETEEN     | ikolotutugboro |         |         |         |            |
-| TWENTY       | ugboro         |         |         |         |            |
-| TWENTY ONE   | ugbororekira   |         |         |         |            |
-| TWENTY TWO   | ugbororeji     |         |         |         |            |
-| TWENTY THREE | ugbororeda     |         |         |         |            |
-| TWENTY FOUR  | ugbororene     |         |         |         |            |
-| TWENTY FIVE  | intotsitusogba |         |         |         |            |
-| TWENTY SIX   | inetsitusogba  |         |         |         |            |
-| TWENTY SEVEN | idatsitusogba  |         |         |         |            |
-| TWENTY EIGHT | ogbatsiji      |         |         |         |            |
-| TWENTY NINE  | ogbatsikira    |         |         |         |            |
-| THIRTY       | ogba           |         |         |         |            |
-| FORTY        | oriji          |         |         |         |            |
-| FIFTY        | oridatsiije    |         |         |         |            |
-| SIXTY        | orida          |         |         |         |            |
-| SEVENTY      | orinetsiije    |         |         |         |            |
-| EIGHTY       | orine          |         |         |         |            |
-| NINETY       | oritotsiije    |         |         |         |            |
-| HUNDRED      | orito          |         |         |         |            |
-| THOUSAND     | egberu         |         |         |         |            |
+| Concept       | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
+|:--------------|:---------------|:--------|:--------|:--------|:-----------|
+| ONE           | keene          |         |         |         |            |
+| TWO           | keji           |         |         |         |            |
+| THREE         | keda           |         |         |         |            |
+| FOUR          | kene           |         |         |         |            |
+| FIVE          | kento          |         |         |         |            |
+| SIX           | kefa           |         |         |         |            |
+| SEVEN         | kefi           |         |         |         |            |
+| EIGHT         | kero           |         |         |         |            |
+| NINE          | kenda          |         |         |         |            |
+| TEN           | keje           |         |         |         |            |
+| ELEVEN        | nkarije        |         |         |         |            |
+| TWELVE        | ijirije        |         |         |         |            |
+| THIRTEEN      | idarije        |         |         |         |            |
+| FOURTEEN      | inerije        |         |         |         |            |
+| FIFTEEN       | intotutugboro  |         |         |         |            |
+| SIXTEEN       | inetutugboro   |         |         |         |            |
+| SEVENTEEN     | idatutugboro   |         |         |         |            |
+| EIGHTEEN      | ijitutugboro   |         |         |         |            |
+| NINETEEN      | ikolotutugboro |         |         |         |            |
+| TWENTY        | ugboro         |         |         |         |            |
+| TWENTY ONE    | ugbororekira   |         |         |         |            |
+| TWENTY TWO    | ugbororeji     |         |         |         |            |
+| TWENTY THREE  | ugbororeda     |         |         |         |            |
+| TWENTY FOUR   | ugbororene     |         |         |         |            |
+| TWENTY FIVE   | intotsitusogba |         |         |         |            |
+| TWENTY SIX    | inetsitusogba  |         |         |         |            |
+| TWENTY SEVEN  | idatsitusogba  |         |         |         |            |
+| TWENTY EIGHT  | ogbatsiji      |         |         |         |            |
+| TWENTY NINE   | ogbatsikira    |         |         |         |            |
+| THIRTY        | ogba           |         |         |         |            |
+| FORTY         | oriji          |         |         |         |            |
+| FIFTY         | oridatsiije    |         |         |         |            |
+| SIXTY         | orida          |         |         |         |            |
+| SEVENTY       | orinetsiije    |         |         |         |            |
+| EIGHTY        | orine          |         |         |         |            |
+| NINETY        | oritotsiije    |         |         |         |            |
+| HUNDRED       | orito          |         |         |         |            |
+| TWO HUNDRED   | ijegboro       |         |         |         |            |
+| FOUR HUNDRED  | ijogboro       |         |         |         |            |
+| EIGHT HUNDRED | egberi         |         |         |         |            |
+| THOUSAND      | egberu         |         |         |         |            |
+| TWO THOUSAND  | egbewa         |         |         |         |            |
 
 ## numerals-jowu1238-1 / Jowulu (Jo), Mali / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -18949,7 +19755,9 @@
 | EIGHTY       | yaapsire         |         |         |         |            |
 | NINETY       | yaapsirevabzii   |         |         |         |            |
 | HUNDRED      | yaataa           |         |         |         |            |
+| TWO HUNDRED  | yaabzii          |         |         |         |            |
 | THOUSAND     | kolifulfayaabzii |         |         |         |            |
+| TWO THOUSAND | kolitaa          |         |         |         |            |
 
 ## numerals-kati1270-1 / Kati, Afghanistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -18992,7 +19800,9 @@
 | EIGHTY       | stwawaca           |         |         |         |            |
 | NINETY       | stwawacaduc        |         |         |         |            |
 | HUNDRED      | pucwaca            |         |         |         |            |
+| TWO HUNDRED  | ducwaca            |         |         |         |            |
 | THOUSAND     | aezar              |         |         |         |            |
+| TWO THOUSAND | duaezar            |         |         |         |            |
 
 ## numerals-kohi1248-1 / Kohistani Shina, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19035,7 +19845,9 @@
 | EIGHTY       | tsrbio      |         |         |         |            |
 | NINETY       | tsrbiogadae |         |         |         |            |
 | HUNDRED      | sl          |         |         |         |            |
+| TWO HUNDRED  | dusl        |         |         |         |            |
 | THOUSAND     | zir         |         |         |         |            |
+| TWO THOUSAND | duzir       |         |         |         |            |
 
 ## numerals-koko1269-1 / Kokota, Solomon Islands / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19078,7 +19890,9 @@
 | EIGHTY       | hanasalai        |         |         |         |            |
 | NINETY       | nevasalai        |         |         |         |            |
 | HUNDRED      | kaikegobi        |         |         |         |            |
+| TWO HUNDRED  | palugobi         |         |         |         |            |
 | THOUSAND     | kaiketoga        |         |         |         |            |
+| TWO THOUSAND | palutoga         |         |         |         |            |
 
 ## numerals-kryt1240-1 / Kryts, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19121,7 +19935,9 @@
 | EIGHTY       | jugad                   |         |         |         |            |
 | NINETY       | jugannajitsid           |         |         |         |            |
 | HUNDRED      | fugad                   |         |         |         |            |
+| TWO HUNDRED  | qwadfugar               |         |         |         |            |
 | THOUSAND     | azwr                    |         |         |         |            |
+| TWO THOUSAND | qwadazwr                |         |         |         |            |
 
 ## numerals-lezg1247-1 / Lezgian, Russia, Azerbaijan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19164,7 +19980,9 @@
 | EIGHTY       | qudqad         |         |         |         |            |
 | NINETY       | qudqannitsud   |         |         |         |            |
 | HUNDRED      | wis            |         |         |         |            |
+| TWO HUNDRED  | qwewis         |         |         |         |            |
 | THOUSAND     | arzur          |         |         |         |            |
+| TWO THOUSAND | qwearzur       |         |         |         |            |
 
 ## numerals-nort2959-1 / Northern Tepehuan, Mexico / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -19207,7 +20025,9 @@
 | EIGHTY       | makokobai               |         |         |         |            |
 | NINETY       | makokobaidambaixtama    |         |         |         |            |
 | HUNDRED      | imosiento               |         |         |         |            |
+| TWO HUNDRED  | goosiento               |         |         |         |            |
 | THOUSAND     | imomil                  |         |         |         |            |
+| TWO THOUSAND | goomil                  |         |         |         |            |
 
 ## numerals-pary1242-1 / Parya, Tajikistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19250,7 +20070,9 @@
 | EIGHTY       | tsarbisi          |         |         |         |            |
 | NINETY       | saretsarbisi      |         |         |         |            |
 | HUNDRED      | so / su           |         |         |         |            |
+| TWO HUNDRED  | doso              |         |         |         |            |
 | THOUSAND     | hazor             |         |         |         |            |
+| TWO THOUSAND | dohazor           |         |         |         |            |
 
 ## numerals-phal1254-1 / Phalura, Pakistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19293,7 +20115,9 @@
 | EIGHTY       | tsurbhisa        |         |         |         |            |
 | NINETY       | tsurbhisedas     |         |         |         |            |
 | HUNDRED      | pandzbhisa / aso |         |         |         |            |
+| TWO HUNDRED  | dasbhisa / duso  |         |         |         |            |
 | THOUSAND     | zir              |         |         |         |            |
+| TWO THOUSAND | duzara           |         |         |         |            |
 
 ## numerals-quio1240-1 / Quiotepec Chinantec, Mexico / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -19330,57 +20154,62 @@
 | TWENTY NINE  | dyiah2nu3 / dyaih2nui3     |         |         |         |            |
 | THIRTY       | dya2dya3 / dya2dyaih3      |         |         |         |            |
 | FORTY        | tu3lo32 / tu3lai32         |         |         |         |            |
+| FORTY NINE   | tu3lo32nu2                 |         |         |         |            |
 | FIFTY        | cincuenta                  |         |         |         |            |
 | SIXTY        | sesenta                    |         |         |         |            |
 | SEVENTY      | setenta                    |         |         |         |            |
 | EIGHTY       | ochenta                    |         |         |         |            |
 | NINETY       | noventa                    |         |         |         |            |
 | HUNDRED      | cien                       |         |         |         |            |
+| TWO HUNDRED  | dosciento                  |         |         |         |            |
 | THOUSAND     | mil                        |         |         |         |            |
+| TWO THOUSAND | dosmil                     |         |         |         |            |
 
 ## numerals-sout2672-2 / Southeast Pashayi, Afghanistan / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------|:--------|:--------|:--------|:-----------|
-| ONE          | i           |         |         |         |            |
-| TWO          | da          |         |         |         |            |
-| THREE        | he          |         |         |         |            |
-| FOUR         | tsar        |         |         |         |            |
-| FIVE         | pajndz      |         |         |         |            |
-| SIX          | se          |         |         |         |            |
-| SEVEN        | sat         |         |         |         |            |
-| EIGHT        | ast         |         |         |         |            |
-| NINE         | no          |         |         |         |            |
-| TEN          | de          |         |         |         |            |
-| ELEVEN       | jae         |         |         |         |            |
-| TWELVE       | duwae       |         |         |         |            |
-| THIRTEEN     | hawi        |         |         |         |            |
-| FOURTEEN     | tsade       |         |         |         |            |
-| FIFTEEN      | pandzu      |         |         |         |            |
-| SIXTEEN      | sur         |         |         |         |            |
-| SEVENTEEN    | satu        |         |         |         |            |
-| EIGHTEEN     | astu        |         |         |         |            |
-| NINETEEN     | nahu / nahu |         |         |         |            |
-| TWENTY       | wast        |         |         |         |            |
-| TWENTY ONE   | wasti       |         |         |         |            |
-| TWENTY TWO   | wistdu      |         |         |         |            |
-| TWENTY THREE | wistuhe     |         |         |         |            |
-| TWENTY FOUR  | wistutsar   |         |         |         |            |
-| TWENTY FIVE  | wistupajndz |         |         |         |            |
-| TWENTY SIX   | wistuse     |         |         |         |            |
-| TWENTY SEVEN | wistusat    |         |         |         |            |
-| TWENTY EIGHT | wistuast    |         |         |         |            |
-| TWENTY NINE  | wistuno     |         |         |         |            |
-| THIRTY       | wistude     |         |         |         |            |
-| THIRTY NINE  | wistuhahu   |         |         |         |            |
-| FORTY        | duwija      |         |         |         |            |
-| FIFTY        | duwijade    |         |         |         |            |
-| SIXTY        | tsarwija    |         |         |         |            |
-| SEVENTY      | tsarwijade  |         |         |         |            |
-| EIGHTY       | tsarwija    |         |         |         |            |
-| NINETY       | tsarwijaode |         |         |         |            |
-| HUNDRED      | pajndzuwija |         |         |         |            |
-| THOUSAND     | ihazar      |         |         |         |            |
+| Concept                | Forms       | Fiver   | Twoer   | Tener   | Twentier   |
+|:-----------------------|:------------|:--------|:--------|:--------|:-----------|
+| ONE                    | i           |         |         |         |            |
+| TWO                    | da          |         |         |         |            |
+| THREE                  | he          |         |         |         |            |
+| FOUR                   | tsar        |         |         |         |            |
+| FIVE                   | pajndz      |         |         |         |            |
+| SIX                    | se          |         |         |         |            |
+| SEVEN                  | sat         |         |         |         |            |
+| EIGHT                  | ast         |         |         |         |            |
+| NINE                   | no          |         |         |         |            |
+| TEN                    | de          |         |         |         |            |
+| ELEVEN                 | jae         |         |         |         |            |
+| TWELVE                 | duwae       |         |         |         |            |
+| THIRTEEN               | hawi        |         |         |         |            |
+| FOURTEEN               | tsade       |         |         |         |            |
+| FIFTEEN                | pandzu      |         |         |         |            |
+| SIXTEEN                | sur         |         |         |         |            |
+| SEVENTEEN              | satu        |         |         |         |            |
+| EIGHTEEN               | astu        |         |         |         |            |
+| NINETEEN               | nahu / nahu |         |         |         |            |
+| TWENTY                 | wast        |         |         |         |            |
+| TWENTY ONE             | wasti       |         |         |         |            |
+| TWENTY TWO             | wistdu      |         |         |         |            |
+| TWENTY THREE           | wistuhe     |         |         |         |            |
+| TWENTY FOUR            | wistutsar   |         |         |         |            |
+| TWENTY FIVE            | wistupajndz |         |         |         |            |
+| TWENTY SIX             | wistuse     |         |         |         |            |
+| TWENTY SEVEN           | wistusat    |         |         |         |            |
+| TWENTY EIGHT           | wistuast    |         |         |         |            |
+| TWENTY NINE            | wistuno     |         |         |         |            |
+| THIRTY                 | wistude     |         |         |         |            |
+| THIRTY NINE            | wistuhahu   |         |         |         |            |
+| FORTY                  | duwija      |         |         |         |            |
+| FIFTY                  | duwijade    |         |         |         |            |
+| SIXTY                  | tsarwija    |         |         |         |            |
+| SEVENTY                | tsarwijade  |         |         |         |            |
+| EIGHTY                 | tsarwija    |         |         |         |            |
+| NINETY                 | tsarwijaode |         |         |         |            |
+| HUNDRED                | pajndzuwija |         |         |         |            |
+| ONE HUNDRED AND TWENTY | suwija      |         |         |         |            |
+| TWO HUNDRED            | dasaw       |         |         |         |            |
+| THOUSAND               | ihazar      |         |         |         |            |
 
 ## numerals-toto1302-2 / Toto, India / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.04
 
@@ -19465,7 +20294,9 @@
 | EIGHTY       | tatipusam                     |         |         |         |            |
 | NINETY       | tatipusamakaux                |         |         |         |            |
 | HUNDRED      | atinsientu                    |         |         |         |            |
+| TWO HUNDRED  | atusientu                     |         |         |         |            |
 | THOUSAND     | mil                           |         |         |         |            |
+| TWO THOUSAND | dosmil                        |         |         |         |            |
 
 ## numerals-west2644-1 / Yaitepec Chatino, Mexico / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.00
 
@@ -19508,92 +20339,97 @@
 | EIGHTY       | ha2kwa3yla3          |         |         |              |            |
 | NINETY       | ha2kwa3yla3ti1       |         |         |              |            |
 | HUNDRED      | ska3sie4ntu4         |         |         |              |            |
+| TWO HUNDRED  | tukwa2sie4ntu4       |         |         |              |            |
 
 ## numerals-woii1237-1 / Wooi, Papua, Indonesia / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms             | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:------------------|:--------|:--------|:--------|:-----------|
-| ONE          | korisi            |         |         |         |            |
-| TWO          | koru              |         |         |         |            |
-| THREE        | toru              |         |         |         |            |
-| FOUR         | mwana             |         |         |         |            |
-| FIVE         | ding              |         |         |         |            |
-| SIX          | wonang            |         |         |         |            |
-| SEVEN        | itu               |         |         |         |            |
-| EIGHT        | waru              |         |         |         |            |
-| NINE         | syu               |         |         |         |            |
-| TEN          | hura              |         |         |         |            |
-| ELEVEN       | hurahehakorisi    |         |         |         |            |
-| TWELVE       | hurahehakoru      |         |         |         |            |
-| THIRTEEN     | hurahehatoru      |         |         |         |            |
-| FOURTEEN     | hurahehamwana     |         |         |         |            |
-| FIFTEEN      | hurahehading      |         |         |         |            |
-| SIXTEEN      | hurahehawonang    |         |         |         |            |
-| SEVENTEEN    | hurahehaitu       |         |         |         |            |
-| EIGHTEEN     | hurahehawaru      |         |         |         |            |
-| NINETEEN     | hurahehasyu       |         |         |         |            |
-| TWENTY       | pyarehi           |         |         |         |            |
-| TWENTY ONE   | pyarehihehakorisi |         |         |         |            |
-| TWENTY TWO   | pyarehihehakoru   |         |         |         |            |
-| TWENTY THREE | pyarehihehatoru   |         |         |         |            |
-| TWENTY FOUR  | pyarehihehamwana  |         |         |         |            |
-| TWENTY FIVE  | pyarehihehading   |         |         |         |            |
-| TWENTY SIX   | pyarehihehawonang |         |         |         |            |
-| TWENTY SEVEN | pyarehihehaitu    |         |         |         |            |
-| TWENTY EIGHT | pyarehihehawaru   |         |         |         |            |
-| TWENTY NINE  | pyarehihehasyu    |         |         |         |            |
-| THIRTY       | pyarehihehahura   |         |         |         |            |
-| FORTY        | pyakoru           |         |         |         |            |
-| FIFTY        | pyakoruhehahura   |         |         |         |            |
-| SIXTY        | pyatoru           |         |         |         |            |
-| SEVENTY      | pyakoruhehahura   |         |         |         |            |
-| EIGHTY       | pyamwana          |         |         |         |            |
-| NINETY       | pyamwanahehahura  |         |         |         |            |
-| HUNDRED      | pyading           |         |         |         |            |
-| THOUSAND     | pyadingbehura     |         |         |         |            |
+| Concept      | Forms                        | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:-----------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | korisi                       |         |         |         |            |
+| TWO          | koru                         |         |         |         |            |
+| THREE        | toru                         |         |         |         |            |
+| FOUR         | mwana                        |         |         |         |            |
+| FIVE         | ding                         |         |         |         |            |
+| SIX          | wonang                       |         |         |         |            |
+| SEVEN        | itu                          |         |         |         |            |
+| EIGHT        | waru                         |         |         |         |            |
+| NINE         | syu                          |         |         |         |            |
+| TEN          | hura                         |         |         |         |            |
+| ELEVEN       | hurahehakorisi               |         |         |         |            |
+| TWELVE       | hurahehakoru                 |         |         |         |            |
+| THIRTEEN     | hurahehatoru                 |         |         |         |            |
+| FOURTEEN     | hurahehamwana                |         |         |         |            |
+| FIFTEEN      | hurahehading                 |         |         |         |            |
+| SIXTEEN      | hurahehawonang               |         |         |         |            |
+| SEVENTEEN    | hurahehaitu                  |         |         |         |            |
+| EIGHTEEN     | hurahehawaru                 |         |         |         |            |
+| NINETEEN     | hurahehasyu                  |         |         |         |            |
+| TWENTY       | pyarehi                      |         |         |         |            |
+| TWENTY ONE   | pyarehihehakorisi            |         |         |         |            |
+| TWENTY TWO   | pyarehihehakoru              |         |         |         |            |
+| TWENTY THREE | pyarehihehatoru              |         |         |         |            |
+| TWENTY FOUR  | pyarehihehamwana             |         |         |         |            |
+| TWENTY FIVE  | pyarehihehading              |         |         |         |            |
+| TWENTY SIX   | pyarehihehawonang            |         |         |         |            |
+| TWENTY SEVEN | pyarehihehaitu               |         |         |         |            |
+| TWENTY EIGHT | pyarehihehawaru              |         |         |         |            |
+| TWENTY NINE  | pyarehihehasyu               |         |         |         |            |
+| THIRTY       | pyarehihehahura              |         |         |         |            |
+| FORTY        | pyakoru                      |         |         |         |            |
+| FIFTY        | pyakoruhehahura              |         |         |         |            |
+| SIXTY        | pyatoru                      |         |         |         |            |
+| SEVENTY      | pyakoruhehahura              |         |         |         |            |
+| EIGHTY       | pyamwana                     |         |         |         |            |
+| NINETY       | pyamwanahehahura             |         |         |         |            |
+| HUNDRED      | pyading                      |         |         |         |            |
+| TWO HUNDRED  | pyahura                      |         |         |         |            |
+| THOUSAND     | pyadingbehura                |         |         |         |            |
+| TWO THOUSAND | pyadingbehurapyadinghehakoru |         |         |         |            |
 
 # quinary / Twentier
 ## numerals-axam1237-1 / Axamb (Ahamb), Malekula, Vanuatu / Fiver:0.22 Tener:0.14 Twentier:0.33 Twoer:0.00
 
-| Concept      | Forms                                      | Fiver    | Twoer   | Tener    | Twentier   |
-|:-------------|:-------------------------------------------|:---------|:--------|:---------|:-----------|
-| ONE          | ngatskai / ngaikenene                      |          |         |          |            |
-| TWO          | ngaru                                      |          |         |          | FORTY      |
-| THREE        | ngaryr                                     |          |         |          |            |
-| FOUR         | ngavats                                    |          |         |          |            |
-| FIVE         | ngaram                                     | NINETEEN |         |          |            |
-| SIX          | ngaramratskai                              |          |         |          |            |
-| SEVEN        | ngaramrahru                                |          |         |          |            |
-| EIGHT        | ngaramrahryr                               |          |         |          |            |
-| NINE         | ngaramrahpats                              |          |         |          |            |
-| TEN          | ngasngavur                                 |          |         | NINETEEN |            |
-| ELEVEN       | ngasngavurngatskai / ngasngavurngatskenene |          |         |          |            |
-| TWELVE       | ngasngavurngaru                            |          |         |          |            |
-| THIRTEEN     | ngasngavurngaryr                           |          |         |          |            |
-| FOURTEEN     | ngasngavurngavats                          |          |         |          |            |
-| FIFTEEN      | ngasngavurngaram                           | NINETEEN |         |          |            |
-| SIXTEEN      | ngasngavurngaramratskai                    |          |         |          |            |
-| SEVENTEEN    | ngasngavurngaramrahru                      |          |         |          |            |
-| EIGHTEEN     | ngasngavurngaramrahry                      |          |         |          |            |
-| NINETEEN     | ngasngavurngaramrahpats                    |          |         |          |            |
-| TWENTY       | nrenhavuingatskenene                       |          |         |          |            |
-| TWENTY ONE   | nrenhavuingatskenenengatskai               |          |         |          |            |
-| TWENTY TWO   | nrenhavuingatskenenengaru                  |          |         |          |            |
-| TWENTY THREE | nrenhavuingatskenenengaryr                 |          |         |          |            |
-| TWENTY FOUR  | nrenhavuingatskenenengavats                |          |         |          |            |
-| TWENTY FIVE  | nrenhavuingatskenenengaram                 |          |         |          |            |
-| TWENTY SIX   | nrenhavuingatskenenengaramratskai          |          |         |          |            |
-| TWENTY SEVEN | nrenhavuingatskenenengaramrahru            |          |         |          |            |
-| TWENTY EIGHT | nrenhavuingatskenenengaramrahryr           |          |         |          |            |
-| TWENTY NINE  | nrenhavuingatskenenengaramrahp             |          |         |          |            |
-| THIRTY       | nrenhavuingatskenenesngavur                |          |         |          |            |
-| FORTY        | nrenhavuingaru                             |          |         |          |            |
-| FIFTY        | nrenhavuingarusngavur                      |          |         |          |            |
-| SIXTY        | nrenhavuingaryr                            |          |         |          |            |
-| SEVENTY      | nrenhavuingaryrsngavur                     |          |         |          |            |
-| EIGHTY       | nrenhavuingavats                           |          |         |          |            |
-| NINETY       | nrenhavuingavatssngavur                    |          |         |          |            |
-| HUNDRED      | nrenhavuingaram                            |          |         |          |            |
+| Concept                | Forms                                      | Fiver    | Twoer   | Tener    | Twentier   |
+|:-----------------------|:-------------------------------------------|:---------|:--------|:---------|:-----------|
+| ONE                    | ngatskai / ngaikenene                      |          |         |          |            |
+| TWO                    | ngaru                                      |          |         |          | FORTY      |
+| THREE                  | ngaryr                                     |          |         |          |            |
+| FOUR                   | ngavats                                    |          |         |          |            |
+| FIVE                   | ngaram                                     | NINETEEN |         |          |            |
+| SIX                    | ngaramratskai                              |          |         |          |            |
+| SEVEN                  | ngaramrahru                                |          |         |          |            |
+| EIGHT                  | ngaramrahryr                               |          |         |          |            |
+| NINE                   | ngaramrahpats                              |          |         |          |            |
+| TEN                    | ngasngavur                                 |          |         | NINETEEN |            |
+| ELEVEN                 | ngasngavurngatskai / ngasngavurngatskenene |          |         |          |            |
+| TWELVE                 | ngasngavurngaru                            |          |         |          |            |
+| THIRTEEN               | ngasngavurngaryr                           |          |         |          |            |
+| FOURTEEN               | ngasngavurngavats                          |          |         |          |            |
+| FIFTEEN                | ngasngavurngaram                           | NINETEEN |         |          |            |
+| SIXTEEN                | ngasngavurngaramratskai                    |          |         |          |            |
+| SEVENTEEN              | ngasngavurngaramrahru                      |          |         |          |            |
+| EIGHTEEN               | ngasngavurngaramrahry                      |          |         |          |            |
+| NINETEEN               | ngasngavurngaramrahpats                    |          |         |          |            |
+| TWENTY                 | nrenhavuingatskenene                       |          |         |          |            |
+| TWENTY ONE             | nrenhavuingatskenenengatskai               |          |         |          |            |
+| TWENTY TWO             | nrenhavuingatskenenengaru                  |          |         |          |            |
+| TWENTY THREE           | nrenhavuingatskenenengaryr                 |          |         |          |            |
+| TWENTY FOUR            | nrenhavuingatskenenengavats                |          |         |          |            |
+| TWENTY FIVE            | nrenhavuingatskenenengaram                 |          |         |          |            |
+| TWENTY SIX             | nrenhavuingatskenenengaramratskai          |          |         |          |            |
+| TWENTY SEVEN           | nrenhavuingatskenenengaramrahru            |          |         |          |            |
+| TWENTY EIGHT           | nrenhavuingatskenenengaramrahryr           |          |         |          |            |
+| TWENTY NINE            | nrenhavuingatskenenengaramrahp             |          |         |          |            |
+| THIRTY                 | nrenhavuingatskenenesngavur                |          |         |          |            |
+| FORTY                  | nrenhavuingaru                             |          |         |          |            |
+| FIFTY                  | nrenhavuingarusngavur                      |          |         |          |            |
+| SIXTY                  | nrenhavuingaryr                            |          |         |          |            |
+| SEVENTY                | nrenhavuingaryrsngavur                     |          |         |          |            |
+| EIGHTY                 | nrenhavuingavats                           |          |         |          |            |
+| NINETY                 | nrenhavuingavatssngavur                    |          |         |          |            |
+| HUNDRED                | nrenhavuingaram                            |          |         |          |            |
+| ONE HUNDRED AND TWENTY | nrenhavuingaramratskai                     |          |         |          |            |
+| TWO HUNDRED            | nrenhavuingasngavur                        |          |         |          |            |
 
 ## numerals-beez1238-1 / Beezen (Bɛ̀zɛ̀n), Cameroon / Fiver:0.22 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -19636,7 +20472,9 @@
 | EIGHTY       | akamini                   |           |         |              |            |
 | NINETY       | akaminiogbukuwub          |           |         |              |            |
 | HUNDRED      | katak                     |           |         |              |            |
+| TWO HUNDRED  | katakeen                  |           |         |              |            |
 | THOUSAND     | uran                      |           |         |              |            |
+| TWO THOUSAND | beren                     |           |         |              |            |
 
 ## numerals-buga1250-1 / Bukawac, Papua New Guinea / Fiver:0.33 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -19764,7 +20602,9 @@
 | EIGHTY       | wasaworjobrando         |              |         |              |            |
 | NINETY       | wasaworjobrandonipra    |              |         |              |            |
 | HUNDRED      | wasaworjosiselu         |              |         |              |            |
+| TWO HUNDRED  | wasaworjonipra          |              |         |              |            |
 | THOUSAND     | wasawasaworjonipra      |              |         |              |            |
+| TWO THOUSAND | wasawasaworkasapra      |              |         |              |            |
 
 ## numerals-dehu1237-1 / Dehu, New Caledonia / Fiver:0.00 Tener:0.00 Twentier:0.33 Twoer:0.00
 
@@ -19807,7 +20647,9 @@
 | EIGHTY       | ekat / eite               |         |         |         |            |
 | NINETY       | ekatngeluepi / naite      |         |         |         |            |
 | HUNDRED      | tipioat / haded           |         |         |         |            |
+| TWO HUNDRED  | luehaded                  |         |         |         |            |
 | THOUSAND     | thauzan                   |         |         |         |            |
+| TWO THOUSAND | luethauzan                |         |         |         |            |
 
 ## numerals-dusn1237-1 / Dusner, Papua, Indonesia / Fiver:0.36 Tener:0.17 Twentier:1.00 Twoer:0.00
 
@@ -19850,7 +20692,9 @@
 | EIGHTY       | snontupati       |           |         |              |            |
 | NINETY       | snontupatisur    |           |         |              |            |
 | HUNDRED      | utin             |           |         |              |            |
+| TWO HUNDRED  | utinnuru         |           |         |              |            |
 | THOUSAND     | siaranyoser      |           |         |              |            |
+| TWO THOUSAND | siarannuru       |           |         |              |            |
 
 ## numerals-irar1238-1 / Irahutu, Papua, Indonesia / Fiver:0.38 Tener:0.17 Twentier:1.00 Twoer:0.00
 
@@ -19893,7 +20737,9 @@
 | EIGHTY       | matutnigigiti                |           |         |              |            |
 | NINETY       | matutnigigitifradru          |           |         |              |            |
 | HUNDRED      | ratuesuem / ratueso          |           |         |              |            |
+| TWO HUNDRED  | raturu                       |           |         |              |            |
 | THOUSAND     | rifunuesuem / ribu           |           |         |              |            |
+| TWO THOUSAND | rifunuru                     |           |         |              |            |
 
 ## numerals-kups1238-1 / Kupsabiny (Sebei), Uganda / Fiver:0.18 Tener:0.14 Twentier:0.33 Twoer:0.00
 
@@ -19936,6 +20782,7 @@
 | EIGHTY       | tamanwaagikmuutaksomok         |          |         |          |            |
 | NINETY       | tamanwaagikmuutakangwan        |          |         |          |            |
 | HUNDRED      | bagal                          |          |         |          |            |
+| TWO HUNDRED  | bagalayeeny                    |          |         |          |            |
 
 ## numerals-kuru1305-2 / Kurudu, Papua, Indonesia / Fiver:0.36 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -19981,46 +20828,52 @@
 
 ## numerals-kwam1249-1 / Gwama (Kwama), Ethiopia / Fiver:0.09 Tener:0.03 Twentier:0.67 Twoer:0.00
 
-| Concept      | Forms                 | Fiver     | Twoer   | Tener        | Twentier   |
-|:-------------|:----------------------|:----------|:--------|:-------------|:-----------|
-| ONE          | sondo / sene / seskin |           |         |              |            |
-| TWO          | suja                  | SEVENTEEN |         | TWENTY SEVEN | FORTY      |
-| THREE        | twasen                | EIGHTEEN  |         |              |            |
-| FOUR         | besin                 | NINETEEN  |         |              |            |
-| FIVE         | kumut                 |           |         |              |            |
-| SIX          | kubasen               |           |         |              |            |
-| SEVEN        | kubasuja              |           |         |              |            |
-| EIGHT        | kubatwasen            |           |         |              |            |
-| NINE         | kubbesin              |           |         |              |            |
-| TEN          | kuzi                  |           |         |              |            |
-| ELEVEN       | kuzotsen              |           |         |              |            |
-| TWELVE       | kuzotsuja             |           |         |              |            |
-| THIRTEEN     | kuzottwasen           |           |         |              |            |
-| FOURTEEN     | kuzotbesin            |           |         |              |            |
-| FIFTEEN      | kuzotkumut            |           |         |              |            |
-| SIXTEEN      | kuzotkubasen          |           |         |              |            |
-| SEVENTEEN    | kuzotkubasuja         |           |         |              |            |
-| EIGHTEEN     | kuzotkubatwasen       |           |         |              |            |
-| NINETEEN     | kuzotkubbesin         |           |         |              |            |
-| TWENTY       | jisesen               |           |         |              | THIRTY     |
-| TWENTY ONE   | jisesenotsen          |           |         |              |            |
-| TWENTY TWO   | jisesenotsuja         |           |         |              |            |
-| TWENTY THREE | jisesenottwasen       |           |         |              |            |
-| TWENTY FOUR  | jisesenotbesin        |           |         |              |            |
-| TWENTY FIVE  | jisesenotkumut        |           |         |              |            |
-| TWENTY SIX   | jisesenotkubasen      |           |         |              |            |
-| TWENTY SEVEN | jisesenotkubsuja      |           |         |              |            |
-| TWENTY EIGHT | jisesenotkubatwasen   |           |         |              |            |
-| TWENTY NINE  | jisesenotkubbesin     |           |         |              |            |
-| THIRTY       | jisesengikuzi         |           |         |              |            |
-| FORTY        | sitsuja               |           |         |              |            |
-| FIFTY        | sitsujagikuzi         |           |         |              |            |
-| SIXTY        | sittwasen             |           |         |              |            |
-| SEVENTY      | sittwasengikuzi       |           |         |              |            |
-| EIGHTY       | sitbesin              |           |         |              |            |
-| NINETY       | sitbesingikuzi        |           |         |              |            |
-| HUNDRED      | sitkumut              |           |         |              |            |
-| THOUSAND     | sitkuzi               |           |         |              |            |
+| Concept       | Forms                 | Fiver     | Twoer   | Tener        | Twentier   |
+|:--------------|:----------------------|:----------|:--------|:-------------|:-----------|
+| ONE           | sondo / sene / seskin |           |         |              |            |
+| TWO           | suja                  | SEVENTEEN |         | TWENTY SEVEN | FORTY      |
+| THREE         | twasen                | EIGHTEEN  |         |              |            |
+| FOUR          | besin                 | NINETEEN  |         |              |            |
+| FIVE          | kumut                 |           |         |              |            |
+| SIX           | kubasen               |           |         |              |            |
+| SEVEN         | kubasuja              |           |         |              |            |
+| EIGHT         | kubatwasen            |           |         |              |            |
+| NINE          | kubbesin              |           |         |              |            |
+| TEN           | kuzi                  |           |         |              |            |
+| ELEVEN        | kuzotsen              |           |         |              |            |
+| TWELVE        | kuzotsuja             |           |         |              |            |
+| THIRTEEN      | kuzottwasen           |           |         |              |            |
+| FOURTEEN      | kuzotbesin            |           |         |              |            |
+| FIFTEEN       | kuzotkumut            |           |         |              |            |
+| SIXTEEN       | kuzotkubasen          |           |         |              |            |
+| SEVENTEEN     | kuzotkubasuja         |           |         |              |            |
+| EIGHTEEN      | kuzotkubatwasen       |           |         |              |            |
+| NINETEEN      | kuzotkubbesin         |           |         |              |            |
+| TWENTY        | jisesen               |           |         |              | THIRTY     |
+| TWENTY ONE    | jisesenotsen          |           |         |              |            |
+| TWENTY TWO    | jisesenotsuja         |           |         |              |            |
+| TWENTY THREE  | jisesenottwasen       |           |         |              |            |
+| TWENTY FOUR   | jisesenotbesin        |           |         |              |            |
+| TWENTY FIVE   | jisesenotkumut        |           |         |              |            |
+| TWENTY SIX    | jisesenotkubasen      |           |         |              |            |
+| TWENTY SEVEN  | jisesenotkubsuja      |           |         |              |            |
+| TWENTY EIGHT  | jisesenotkubatwasen   |           |         |              |            |
+| TWENTY NINE   | jisesenotkubbesin     |           |         |              |            |
+| THIRTY        | jisesengikuzi         |           |         |              |            |
+| FORTY         | sitsuja               |           |         |              |            |
+| FIFTY         | sitsujagikuzi         |           |         |              |            |
+| SIXTY         | sittwasen             |           |         |              |            |
+| SEVENTY       | sittwasengikuzi       |           |         |              |            |
+| EIGHTY        | sitbesin              |           |         |              |            |
+| NINETY        | sitbesingikuzi        |           |         |              |            |
+| HUNDRED       | sitkumut              |           |         |              |            |
+| TWO HUNDRED   | sitjisesen            |           |         |              |            |
+| THREE HUNDRED | sitjisesenotkumut     |           |         |              |            |
+| FOUR HUNDRED  | sitsuja               |           |         |              |            |
+| FIVE HUNDRED  | sitsujaotkumut        |           |         |              |            |
+| SIX HUNDRED   | sittwasen             |           |         |              |            |
+| EIGHT HUNDRED | sitbesin              |           |         |              |            |
+| THOUSAND      | sitkuzi               |           |         |              |            |
 
 ## numerals-lote1237-1 / Lote, Papua New Guinea / Fiver:0.36 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20063,6 +20916,7 @@
 | EIGHTY       | ananonkinahenel             |           |         |              |            |
 | NINETY       | ananonkinahenelpeanalox     |           |         |              |            |
 | HUNDRED      | ananonkinalime              |           |         |              |            |
+| TWO HUNDRED  | ananonkinaanalox            |           |         |              |            |
 
 ## numerals-malf1237-1 / Na'ahai (Malfaxal), Vanuatu / Fiver:0.00 Tener:0.14 Twentier:0.67 Twoer:0.00
 
@@ -20105,6 +20959,7 @@
 | EIGHTY       | maratinivas               |         |         |          |            |
 | NINETY       | maratinivasilangabul      |         |         |          |            |
 | HUNDRED      | maratinilim               |         |         |          |            |
+| TWO HUNDRED  | nrenhavuingasngavur       |         |         |          |            |
 
 ## numerals-malf1237-2 / Na'ahai (Malfaxal), Vanuatu / Fiver:0.00 Tener:0.14 Twentier:0.33 Twoer:0.00
 
@@ -20147,6 +21002,7 @@
 | EIGHTY       | namaratinibas                 |         |         |          |            |
 | NINETY       | namaratinibasnooronilangaboel |         |         |          |            |
 | HUNDRED      | namaratinilim                 |         |         |          |            |
+| TWO HUNDRED  | namaratinilangaboel           |         |         |          |            |
 
 ## numerals-mina1269-1 / Kukuya, Papua New Guinea / Fiver:0.42 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20189,6 +21045,7 @@
 | EIGHTY       | onotonanaupunina                              |           |         |              |            |
 | NINETY       | onotonanaupuninakanimapapaniainua             |           |         |              |            |
 | HUNDRED      | onotonimapapanikeana                          |           |         |              |            |
+| TWO HUNDRED  | onotonimapapaniainua                          |           |         |              |            |
 
 ## numerals-mmaa1238-1 / Numaala (Mmaala), Cameroon / Fiver:0.18 Tener:0.08 Twentier:0.33 Twoer:0.08
 
@@ -20231,7 +21088,9 @@
 | EIGHTY       | ethineni                    |           |         |              |            |
 | NINETY       | ethineninabath              |           |         |              |            |
 | HUNDRED      | ethinathan / nugon          |           |         |              |            |
+| TWO HUNDRED  | dugondwande                 |           |         |              |            |
 | THOUSAND     | dugondwath / thosen / nonts |           |         |              |            |
+| TWO THOUSAND | bothosenbande / dontsdwande |           |         |              |            |
 
 ## numerals-moni1261-1 / Moni, Papua, Indonesia / Fiver:0.13 Tener:0.03 Twentier:0.33 Twoer:0.00
 
@@ -20277,46 +21136,47 @@
 
 ## numerals-nari1240-1 / Laarim (Narim), South Sudan / Fiver:0.11 Tener:0.14 Twentier:0.67 Twoer:0.00
 
-| Concept      | Forms             | Fiver    | Twoer   | Tener    | Twentier   |
-|:-------------|:------------------|:---------|:--------|:---------|:-----------|
-| ONE          | odoi / codoi      |          |         |          |            |
-| TWO          | ramma             |          |         |          | FORTY      |
-| THREE        | iyyio             |          |         |          |            |
-| FOUR         | weec              |          |         |          |            |
-| FIVE         | tur               | EIGHTEEN |         |          |            |
-| SIX          | torkonom          |          |         |          |            |
-| SEVEN        | turgerem          |          |         |          |            |
-| EIGHT        | turgi             |          |         |          |            |
-| NINE         | torkowoc          |          |         |          |            |
-| TEN          | ommoto            |          |         | NINETEEN |            |
-| ELEVEN       | ommotokicodi      |          |         |          |            |
-| TWELVE       | ommotokiramma     |          |         |          |            |
-| THIRTEEN     | ommotokiiyyio     |          |         |          |            |
-| FOURTEEN     | ommotokiweec      |          |         |          |            |
-| FIFTEEN      | ommotokitur       | EIGHTEEN |         |          |            |
-| SIXTEEN      | ommotokitorkonom  |          |         |          |            |
-| SEVENTEEN    | ommotokiturgerem  |          |         |          |            |
-| EIGHTEEN     | ommotokiturgi     |          |         |          |            |
-| NINETEEN     | ommotokitorkowoc  |          |         |          |            |
-| TWENTY       | eetimma           |          |         |          | THIRTY     |
-| TWENTY ONE   | eetimmakicodoi    |          |         |          |            |
-| TWENTY TWO   | eetimmakiramma    |          |         |          |            |
-| TWENTY THREE | eetimmakiiyyio    |          |         |          |            |
-| TWENTY FOUR  | eetimmakiweec     |          |         |          |            |
-| TWENTY FIVE  | eetimmakitur      |          |         |          |            |
-| TWENTY SIX   | eetimmakitorkonom |          |         |          |            |
-| TWENTY SEVEN | eetimmakiturgerem |          |         |          |            |
-| TWENTY EIGHT | eetimmakiturgi    |          |         |          |            |
-| TWENTY NINE  | eetimmakitorkowoc |          |         |          |            |
-| THIRTY       | eetimmakomoto     |          |         |          |            |
-| FORTY        | eetramma          |          |         |          |            |
-| FIFTY        | eetrammakomoto    |          |         |          |            |
-| SIXTY        | eetiyyio          |          |         |          |            |
-| SEVENTY      | eetiyyiokomoto    |          |         |          |            |
-| EIGHTY       | eetweec           |          |         |          |            |
-| NINETY       | eetweeckomoto     |          |         |          |            |
-| HUNDRED      | eettur / mia      |          |         |          |            |
-| THOUSAND     | aliv              |          |         |          |            |
+| Concept      | Forms                   | Fiver    | Twoer   | Tener    | Twentier   |
+|:-------------|:------------------------|:---------|:--------|:---------|:-----------|
+| ONE          | odoi / codoi            |          |         |          |            |
+| TWO          | ramma                   |          |         |          | FORTY      |
+| THREE        | iyyio                   |          |         |          |            |
+| FOUR         | weec                    |          |         |          |            |
+| FIVE         | tur                     | EIGHTEEN |         |          |            |
+| SIX          | torkonom                |          |         |          |            |
+| SEVEN        | turgerem                |          |         |          |            |
+| EIGHT        | turgi                   |          |         |          |            |
+| NINE         | torkowoc                |          |         |          |            |
+| TEN          | ommoto                  |          |         | NINETEEN |            |
+| ELEVEN       | ommotokicodi            |          |         |          |            |
+| TWELVE       | ommotokiramma           |          |         |          |            |
+| THIRTEEN     | ommotokiiyyio           |          |         |          |            |
+| FOURTEEN     | ommotokiweec            |          |         |          |            |
+| FIFTEEN      | ommotokitur             | EIGHTEEN |         |          |            |
+| SIXTEEN      | ommotokitorkonom        |          |         |          |            |
+| SEVENTEEN    | ommotokiturgerem        |          |         |          |            |
+| EIGHTEEN     | ommotokiturgi           |          |         |          |            |
+| NINETEEN     | ommotokitorkowoc        |          |         |          |            |
+| TWENTY       | eetimma                 |          |         |          | THIRTY     |
+| TWENTY ONE   | eetimmakicodoi          |          |         |          |            |
+| TWENTY TWO   | eetimmakiramma          |          |         |          |            |
+| TWENTY THREE | eetimmakiiyyio          |          |         |          |            |
+| TWENTY FOUR  | eetimmakiweec           |          |         |          |            |
+| TWENTY FIVE  | eetimmakitur            |          |         |          |            |
+| TWENTY SIX   | eetimmakitorkonom       |          |         |          |            |
+| TWENTY SEVEN | eetimmakiturgerem       |          |         |          |            |
+| TWENTY EIGHT | eetimmakiturgi          |          |         |          |            |
+| TWENTY NINE  | eetimmakitorkowoc       |          |         |          |            |
+| THIRTY       | eetimmakomoto           |          |         |          |            |
+| FORTY        | eetramma                |          |         |          |            |
+| FIFTY        | eetrammakomoto          |          |         |          |            |
+| SIXTY        | eetiyyio                |          |         |          |            |
+| SEVENTY      | eetiyyiokomoto          |          |         |          |            |
+| EIGHTY       | eetweec                 |          |         |          |            |
+| NINETY       | eetweeckomoto           |          |         |          |            |
+| HUNDRED      | eettur / mia            |          |         |          |            |
+| TWO HUNDRED  | eetommoto / mianyaramma |          |         |          |            |
+| THOUSAND     | aliv                    |          |         |          |            |
 
 ## numerals-nugu1242-1 / Nugunu (Yambasa), Cameroon / Fiver:0.22 Tener:0.03 Twentier:0.33 Twoer:0.08
 
@@ -20359,7 +21219,9 @@
 | EIGHTY       | atinoenni                 |           |         |              |            |
 | NINETY       | atinoenninaseodo          |           |         |              |            |
 | HUNDRED      | ntede                     |           |         |              |            |
+| TWO HUNDRED  | mantedemaande             |           |         |              |            |
 | THOUSAND     | toseno                    |           |         |              |            |
+| TWO THOUSAND | tosenoehaande             |           |         |              |            |
 
 ## numerals-numb1247-1 / Numbami, Papua New Guinea / Fiver:0.27 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20486,6 +21348,8 @@
 | EIGHTY       | mudriaro          |           |         |             |            |
 | NINETY       | mudritorome       |           |         |             |            |
 | HUNDRED      | bealu             |           |         |             |            |
+| TWO HUNDRED  | beri              |           |         |             |            |
+| TWO THOUSAND | e                 |           |         |             |            |
 
 ## numerals-paam1238-1 / Paama, Vanuatu / Fiver:0.04 Tener:0.00 Twentier:1.00 Twoer:0.00
 
@@ -20570,7 +21434,9 @@
 | EIGHTY       | anganufekoor               |           |         |              |            |
 | NINETY       | anganufekoorbapif          |           |         |              |            |
 | HUNDRED      | dibba                      |           |         |              |            |
+| TWO HUNDRED  | dibbabap                   |           |         |              |            |
 | THOUSAND     | kumma                      |           |         |              |            |
+| TWO THOUSAND | kummabap                   |           |         |              |            |
 
 ## numerals-sout2857-1 / Nahavaq, Vanuatu / Fiver:0.00 Tener:0.14 Twentier:1.00 Twoer:0.00
 
@@ -20613,6 +21479,7 @@
 | EIGHTY       | nimworlalaibjes                  |         |         |          |            |
 | NINETY       | nimworlalaibjesnoorondilangabjul |         |         |          |            |
 | HUNDRED      | nimworlalailimj                  |         |         |          |            |
+| TWO HUNDRED  | nimworlalailangabjul             |         |         |          |            |
 
 ## numerals-sout2857-3 / Nahavaq (Sinesip), Vanuatu / Fiver:0.00 Tener:0.14 Twentier:1.00 Twoer:0.00
 
@@ -20655,49 +21522,52 @@
 | EIGHTY       | nimworlalaibjes                  |         |         |          |            |
 | NINETY       | nimworlalaibjesnoorondilangabjul |         |         |          |            |
 | HUNDRED      | nimworlalailimj                  |         |         |          |            |
+| TWO HUNDRED  | nimworlalailangabjul             |         |         |          |            |
 
 ## numerals-tami1290-1 / Tami, Papua New Guinea / Fiver:0.53 Tener:0.17 Twentier:1.00 Twoer:0.00
 
-| Concept      | Forms                     | Fiver     | Twoer   | Tener        | Twentier   |
-|:-------------|:--------------------------|:----------|:--------|:-------------|:-----------|
-| ONE          | ti                        | SIXTEEN   |         |              |            |
-| TWO          | lu                        | SEVENTEEN |         | TWENTY SEVEN | FORTY      |
-| THREE        | tol                       | EIGHTEEN  |         |              |            |
-| FOUR         | pat                       | NINETEEN  |         |              |            |
-| FIVE         | lim                       | NINETEEN  |         |              |            |
-| SIX          | limatimong                |           |         |              |            |
-| SEVEN        | limalu                    |           |         |              |            |
-| EIGHT        | limatol                   |           |         |              |            |
-| NINE         | limapat                   |           |         |              |            |
-| TEN          | limandalu                 |           |         | NINETEEN     |            |
-| ELEVEN       | limandalumatimong         |           |         |              |            |
-| TWELVE       | limandalumalu             |           |         |              |            |
-| THIRTEEN     | limandalumatol            |           |         |              |            |
-| FOURTEEN     | limandalumapat            |           |         |              |            |
-| FIFTEEN      | limandalumalima           | NINETEEN  |         |              |            |
-| SIXTEEN      | limandalumalimatimong     |           |         |              |            |
-| SEVENTEEN    | limandalumalimalu         |           |         |              |            |
-| EIGHTEEN     | limandalumalimatol        |           |         |              |            |
-| NINETEEN     | limandalumalimapat        |           |         |              |            |
-| TWENTY       | taumoande                 |           |         |              | FORTY      |
-| TWENTY ONE   | taumoandematimong         |           |         |              |            |
-| TWENTY TWO   | taumoandemalu             |           |         |              |            |
-| TWENTY THREE | taumoandematol            |           |         |              |            |
-| TWENTY FOUR  | taumoandemapat            |           |         |              |            |
-| TWENTY FIVE  | taumoandemalim            |           |         |              |            |
-| TWENTY SIX   | taumoandemalimatimong     |           |         |              |            |
-| TWENTY SEVEN | taumoandemalimalu         |           |         |              |            |
-| TWENTY EIGHT | taumoandemalimatol        |           |         |              |            |
-| TWENTY NINE  | taumoandemalimapat        |           |         |              |            |
-| THIRTY       | taumoandemalimandalu      |           |         |              |            |
-| FORTY        | taumoandelu               |           |         |              |            |
-| FIFTY        | taumoandelumalimandalu    |           |         |              |            |
-| SIXTY        | taumoandematol            |           |         |              |            |
-| SEVENTY      | taumoandematolmalimandalu |           |         |              |            |
-| EIGHTY       | taumoandepat              |           |         |              |            |
-| NINETY       | taumoandepatmalimandalu   |           |         |              |            |
-| HUNDRED      | taumoandelim              |           |         |              |            |
-| THOUSAND     | akanongtautau             |           |         |              |            |
+| Concept      | Forms                          | Fiver     | Twoer   | Tener        | Twentier   |
+|:-------------|:-------------------------------|:----------|:--------|:-------------|:-----------|
+| ONE          | ti                             | SIXTEEN   |         |              |            |
+| TWO          | lu                             | SEVENTEEN |         | TWENTY SEVEN | FORTY      |
+| THREE        | tol                            | EIGHTEEN  |         |              |            |
+| FOUR         | pat                            | NINETEEN  |         |              |            |
+| FIVE         | lim                            | NINETEEN  |         |              |            |
+| SIX          | limatimong                     |           |         |              |            |
+| SEVEN        | limalu                         |           |         |              |            |
+| EIGHT        | limatol                        |           |         |              |            |
+| NINE         | limapat                        |           |         |              |            |
+| TEN          | limandalu                      |           |         | NINETEEN     |            |
+| ELEVEN       | limandalumatimong              |           |         |              |            |
+| TWELVE       | limandalumalu                  |           |         |              |            |
+| THIRTEEN     | limandalumatol                 |           |         |              |            |
+| FOURTEEN     | limandalumapat                 |           |         |              |            |
+| FIFTEEN      | limandalumalima                | NINETEEN  |         |              |            |
+| SIXTEEN      | limandalumalimatimong          |           |         |              |            |
+| SEVENTEEN    | limandalumalimalu              |           |         |              |            |
+| EIGHTEEN     | limandalumalimatol             |           |         |              |            |
+| NINETEEN     | limandalumalimapat             |           |         |              |            |
+| TWENTY       | taumoande                      |           |         |              | FORTY      |
+| TWENTY ONE   | taumoandematimong              |           |         |              |            |
+| TWENTY TWO   | taumoandemalu                  |           |         |              |            |
+| TWENTY THREE | taumoandematol                 |           |         |              |            |
+| TWENTY FOUR  | taumoandemapat                 |           |         |              |            |
+| TWENTY FIVE  | taumoandemalim                 |           |         |              |            |
+| TWENTY SIX   | taumoandemalimatimong          |           |         |              |            |
+| TWENTY SEVEN | taumoandemalimalu              |           |         |              |            |
+| TWENTY EIGHT | taumoandemalimatol             |           |         |              |            |
+| TWENTY NINE  | taumoandemalimapat             |           |         |              |            |
+| THIRTY       | taumoandemalimandalu           |           |         |              |            |
+| FORTY        | taumoandelu                    |           |         |              |            |
+| FIFTY        | taumoandelumalimandalu         |           |         |              |            |
+| SIXTY        | taumoandematol                 |           |         |              |            |
+| SEVENTY      | taumoandematolmalimandalu      |           |         |              |            |
+| EIGHTY       | taumoandepat                   |           |         |              |            |
+| NINETY       | taumoandepatmalimandalu        |           |         |              |            |
+| HUNDRED      | taumoandelim                   |           |         |              |            |
+| TWO HUNDRED  | taumoandelimmataumoandelimpoet |           |         |              |            |
+| THOUSAND     | akanongtautau                  |           |         |              |            |
+| TWO THOUSAND | akanongtautauisan              |           |         |              |            |
 
 ## numerals-tiri1258-1 / Tiri (Tinrin), New Caledonia / Fiver:0.36 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20782,7 +21652,9 @@
 | EIGHTY       | sakoivovotelu         |           |         |             |            |
 | NINETY       | sakoivovopat          |           |         |             |            |
 | HUNDRED      | atusiso               |           |         |             |            |
+| TWO HUNDRED  | atusru                |           |         |             |            |
 | THOUSAND     | ribuiso               |           |         |             |            |
+| TWO THOUSAND | riburu                |           |         |             |            |
 
 ## numerals-ubir1237-1 / Ubir, Papua New Guinea / Fiver:0.31 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20825,6 +21697,7 @@
 | EIGHTY       | orotbat                            |           |         |              |            |
 | NINETY       | orotbatauyotoat                    |           |         |              |            |
 | HUNDRED      | orotnim                            |           |         |              |            |
+| TWO HUNDRED  | orotauyotoat                       |           |         |              |            |
 
 ## numerals-urap1240-1 / Ura, Papua New Guinea / Fiver:0.27 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20867,6 +21740,7 @@
 | EIGHTY       | amarubekamalebaetnara                  |           |         |              |            |
 | NINETY       | amarubekamalebaetnaranaradangarijisem  |           |         |              |            |
 | HUNDRED      | amarubekamangarijetnara                |           |         |              |            |
+| TWO HUNDRED  | amarubekamangarijisemnara              |           |         |              |            |
 
 ## numerals-wand1267-2 / Wandamen, Papua, Indonesia / Fiver:0.36 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -20909,7 +21783,9 @@
 | EIGHTY       | siniontuat             |           |         |              |            |
 | NINETY       | siniontuatsura         |           |         |              |            |
 | HUNDRED      | utinsiri               |           |         |              |            |
+| TWO HUNDRED  | utinmuandu             |           |         |              |            |
 | THOUSAND     | siaransiri             |           |         |              |            |
+| TWO THOUSAND | siaranmuandu           |           |         |              |            |
 
 ## numerals-whit1269-2 / Whitesands, Vanuatu / Fiver:0.56 Tener:0.17 Twentier:0.67 Twoer:0.00
 
@@ -21081,7 +21957,9 @@
 | EIGHTY       | elkediona     |         |         |         |            |
 | NINETY       | lotona        |         |         |         |            |
 | HUNDRED      | ilanona       |         |         |         |            |
+| TWO HUNDRED  | nakeona       |         |         |         |            |
 | THOUSAND     | ilarelimil    |         |         |         |            |
+| TWO THOUSAND | nakelimil     |         |         |         |            |
 
 ## numerals-chip1261-2 / Dene (Chipewyan, Dëne Sų́łıne), Northwest Territories, Canada / Fiver:0.02 Tener:0.03 Twentier:0.00 Twoer:0.08
 
@@ -21124,93 +22002,99 @@
 | EIGHTY       | elkediona             |         |         |         |            |
 | NINETY       | lotona                |         |         |         |            |
 | HUNDRED      | ilanona               |         |         |         |            |
+| TWO HUNDRED  | nakeona               |         |         |         |            |
 | THOUSAND     | ilarelimil            |         |         |         |            |
+| TWO THOUSAND | nakelimil             |         |         |         |            |
 
 ## numerals-erzy1239-1 / Erzya, Russia / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.08
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | ve / vejke     |         | NINE    |         |            |
-| TWO          | kavto          |         |         |         |            |
-| THREE        | kolmo          |         |         |         |            |
-| FOUR         | njilje         |         |         | FORTY   |            |
-| FIVE         | vetje          |         |         |         |            |
-| SIX          | koto           |         |         |         |            |
-| SEVEN        | sjisjem        |         |         |         |            |
-| EIGHT        | kavkso         |         |         |         |            |
-| NINE         | vejkse         |         |         |         |            |
-| TEN          | kemenj         |         |         |         |            |
-| ELEVEN       | kevejkeje      |         |         |         |            |
-| TWELVE       | kemgavtovo     |         |         |         |            |
-| THIRTEEN     | kemgolmovo     |         |         |         |            |
-| FOURTEEN     | kemnjiljeje    |         |         |         |            |
-| FIFTEEN      | kevetjeje      |         |         |         |            |
-| SIXTEEN      | kemgotovo      |         |         |         |            |
-| SEVENTEEN    | kemzjisjemge   |         |         |         |            |
-| EIGHTEEN     | kemgavksovo    |         |         |         |            |
-| NINETEEN     | kevejkseje     |         |         |         |            |
-| TWENTY       | komsj          |         |         |         |            |
-| TWENTY ONE   | komsjvejkeje   |         |         |         |            |
-| TWENTY TWO   | komsjkavtovo   |         |         |         |            |
-| TWENTY THREE | komsjkolmovo   |         |         |         |            |
-| TWENTY FOUR  | komsjnjiljeje  |         |         |         |            |
-| TWENTY FIVE  | komsjvetjeje   |         |         |         |            |
-| TWENTY SIX   | komsjkotovo    |         |         |         |            |
-| TWENTY SEVEN | komsjsjisjemge |         |         |         |            |
-| TWENTY EIGHT | komsjkavksovo  |         |         |         |            |
-| TWENTY NINE  | komsjvejkseje  |         |         |         |            |
-| THIRTY       | kolonjgemenj   |         |         |         |            |
-| FORTY        | njiljenjgemenj |         |         |         |            |
-| FIFTY        | vedjgemenj     |         |         |         |            |
-| SIXTY        | kodgemenj      |         |         |         |            |
-| SEVENTY      | sjizjgemenj    |         |         |         |            |
-| EIGHTY       | kavksonjgemenj |         |         |         |            |
-| NINETY       | vejksenjgemenj |         |         |         |            |
-| HUNDRED      | sjado          |         |         |         |            |
-| THOUSAND     | tjoza / tissja |         |         |         |            |
+| Concept      | Forms                    | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:-------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | ve / vejke               |         | NINE    |         |            |
+| TWO          | kavto                    |         |         |         |            |
+| THREE        | kolmo                    |         |         |         |            |
+| FOUR         | njilje                   |         |         | FORTY   |            |
+| FIVE         | vetje                    |         |         |         |            |
+| SIX          | koto                     |         |         |         |            |
+| SEVEN        | sjisjem                  |         |         |         |            |
+| EIGHT        | kavkso                   |         |         |         |            |
+| NINE         | vejkse                   |         |         |         |            |
+| TEN          | kemenj                   |         |         |         |            |
+| ELEVEN       | kevejkeje                |         |         |         |            |
+| TWELVE       | kemgavtovo               |         |         |         |            |
+| THIRTEEN     | kemgolmovo               |         |         |         |            |
+| FOURTEEN     | kemnjiljeje              |         |         |         |            |
+| FIFTEEN      | kevetjeje                |         |         |         |            |
+| SIXTEEN      | kemgotovo                |         |         |         |            |
+| SEVENTEEN    | kemzjisjemge             |         |         |         |            |
+| EIGHTEEN     | kemgavksovo              |         |         |         |            |
+| NINETEEN     | kevejkseje               |         |         |         |            |
+| TWENTY       | komsj                    |         |         |         |            |
+| TWENTY ONE   | komsjvejkeje             |         |         |         |            |
+| TWENTY TWO   | komsjkavtovo             |         |         |         |            |
+| TWENTY THREE | komsjkolmovo             |         |         |         |            |
+| TWENTY FOUR  | komsjnjiljeje            |         |         |         |            |
+| TWENTY FIVE  | komsjvetjeje             |         |         |         |            |
+| TWENTY SIX   | komsjkotovo              |         |         |         |            |
+| TWENTY SEVEN | komsjsjisjemge           |         |         |         |            |
+| TWENTY EIGHT | komsjkavksovo            |         |         |         |            |
+| TWENTY NINE  | komsjvejkseje            |         |         |         |            |
+| THIRTY       | kolonjgemenj             |         |         |         |            |
+| FORTY        | njiljenjgemenj           |         |         |         |            |
+| FIFTY        | vedjgemenj               |         |         |         |            |
+| SIXTY        | kodgemenj                |         |         |         |            |
+| SEVENTY      | sjizjgemenj              |         |         |         |            |
+| EIGHTY       | kavksonjgemenj           |         |         |         |            |
+| NINETY       | vejksenjgemenj           |         |         |         |            |
+| HUNDRED      | sjado                    |         |         |         |            |
+| TWO HUNDRED  | kavtosjatt               |         |         |         |            |
+| THOUSAND     | tjoza / tissja           |         |         |         |            |
+| TWO THOUSAND | kavtotjoza / kavtotissja |         |         |         |            |
 
 ## numerals-erzy1239-2 / Erzya, Russia / Fiver:0.00 Tener:0.06 Twentier:0.00 Twoer:0.08
 
-| Concept      | Forms          | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------|:--------|:--------|:--------|:-----------|
-| ONE          | ve / vejke     |         | NINE    |         |            |
-| TWO          | kavto          |         |         |         |            |
-| THREE        | kolmo          |         |         | THIRTY  |            |
-| FOUR         | njilje         |         |         | FORTY   |            |
-| FIVE         | vetje          |         |         |         |            |
-| SIX          | koto           |         |         |         |            |
-| SEVEN        | sjizjem        |         |         |         |            |
-| EIGHT        | kavkso         |         |         |         |            |
-| NINE         | vejkse         |         |         |         |            |
-| TEN          | kemenj         |         |         |         |            |
-| ELEVEN       | kevejkeje      |         |         |         |            |
-| TWELVE       | kemgavtovo     |         |         |         |            |
-| THIRTEEN     | kemgolmovo     |         |         |         |            |
-| FOURTEEN     | kemnjiljeje    |         |         |         |            |
-| FIFTEEN      | kemvetjeje     |         |         |         |            |
-| SIXTEEN      | kemgotovo      |         |         |         |            |
-| SEVENTEEN    | kemzjisjemge   |         |         |         |            |
-| EIGHTEEN     | kemgavksovo    |         |         |         |            |
-| NINETEEN     | kevejkseje     |         |         |         |            |
-| TWENTY       | komsj          |         |         |         |            |
-| TWENTY ONE   | komsjvejkeje   |         |         |         |            |
-| TWENTY TWO   | komsjkavtovo   |         |         |         |            |
-| TWENTY THREE | komsjkolmovo   |         |         |         |            |
-| TWENTY FOUR  | komsjnjiljeje  |         |         |         |            |
-| TWENTY FIVE  | komsjvetjeje   |         |         |         |            |
-| TWENTY SIX   | komsjkotovo    |         |         |         |            |
-| TWENTY SEVEN | komsjsjisjemge |         |         |         |            |
-| TWENTY EIGHT | komsjkavksovo  |         |         |         |            |
-| TWENTY NINE  | komsjvejkseje  |         |         |         |            |
-| THIRTY       | kolmonjgemenj  |         |         |         |            |
-| FORTY        | njiljenjgemenj |         |         |         |            |
-| FIFTY        | vedjgemenj     |         |         |         |            |
-| SIXTY        | kodgemenj      |         |         |         |            |
-| SEVENTY      | sjizjgemenj    |         |         |         |            |
-| EIGHTY       | kavksonjgemenj |         |         |         |            |
-| NINETY       | vejksenjgemenj |         |         |         |            |
-| HUNDRED      | sjado          |         |         |         |            |
-| THOUSAND     | tjoza / tissja |         |         |         |            |
+| Concept      | Forms                    | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:-------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | ve / vejke               |         | NINE    |         |            |
+| TWO          | kavto                    |         |         |         |            |
+| THREE        | kolmo                    |         |         | THIRTY  |            |
+| FOUR         | njilje                   |         |         | FORTY   |            |
+| FIVE         | vetje                    |         |         |         |            |
+| SIX          | koto                     |         |         |         |            |
+| SEVEN        | sjizjem                  |         |         |         |            |
+| EIGHT        | kavkso                   |         |         |         |            |
+| NINE         | vejkse                   |         |         |         |            |
+| TEN          | kemenj                   |         |         |         |            |
+| ELEVEN       | kevejkeje                |         |         |         |            |
+| TWELVE       | kemgavtovo               |         |         |         |            |
+| THIRTEEN     | kemgolmovo               |         |         |         |            |
+| FOURTEEN     | kemnjiljeje              |         |         |         |            |
+| FIFTEEN      | kemvetjeje               |         |         |         |            |
+| SIXTEEN      | kemgotovo                |         |         |         |            |
+| SEVENTEEN    | kemzjisjemge             |         |         |         |            |
+| EIGHTEEN     | kemgavksovo              |         |         |         |            |
+| NINETEEN     | kevejkseje               |         |         |         |            |
+| TWENTY       | komsj                    |         |         |         |            |
+| TWENTY ONE   | komsjvejkeje             |         |         |         |            |
+| TWENTY TWO   | komsjkavtovo             |         |         |         |            |
+| TWENTY THREE | komsjkolmovo             |         |         |         |            |
+| TWENTY FOUR  | komsjnjiljeje            |         |         |         |            |
+| TWENTY FIVE  | komsjvetjeje             |         |         |         |            |
+| TWENTY SIX   | komsjkotovo              |         |         |         |            |
+| TWENTY SEVEN | komsjsjisjemge           |         |         |         |            |
+| TWENTY EIGHT | komsjkavksovo            |         |         |         |            |
+| TWENTY NINE  | komsjvejkseje            |         |         |         |            |
+| THIRTY       | kolmonjgemenj            |         |         |         |            |
+| FORTY        | njiljenjgemenj           |         |         |         |            |
+| FIFTY        | vedjgemenj               |         |         |         |            |
+| SIXTY        | kodgemenj                |         |         |         |            |
+| SEVENTY      | sjizjgemenj              |         |         |         |            |
+| EIGHTY       | kavksonjgemenj           |         |         |         |            |
+| NINETY       | vejksenjgemenj           |         |         |         |            |
+| HUNDRED      | sjado                    |         |         |         |            |
+| TWO HUNDRED  | kavtosjatt               |         |         |         |            |
+| THOUSAND     | tjoza / tissja           |         |         |         |            |
+| TWO THOUSAND | kavtotjoza / kavtotissja |         |         |         |            |
 
 ## numerals-kari1303-1 / Karingari, Iran / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.08
 
@@ -21253,7 +22137,9 @@
 | EIGHTY       | pindzoresi    |         |         |         |            |
 | NINETY       | pindzoretsel  |         |         |         |            |
 | HUNDRED      | sa            |         |         |         |            |
+| TWO HUNDRED  | desa          |         |         |         |            |
 | THOUSAND     | haezo         |         |         |         |            |
+| TWO THOUSAND | dehaezo       |         |         |         |            |
 
 ## numerals-mali1279-1 / Malila, Tanzania, Malawi / Fiver:0.02 Tener:0.17 Twentier:0.00 Twoer:0.24
 
@@ -21296,7 +22182,9 @@
 | EIGHTY       | amasuminane                       |          |         |              |            |
 | NINETY       | amasumithisa                      |          |         |              |            |
 | HUNDRED      | imjajekha                         |          |         |              |            |
+| TWO HUNDRED  | imjazibili                        |          |         |              |            |
 | THOUSAND     | ielufujekha                       |          |         |              |            |
+| TWO THOUSAND | ielufuzibili                      |          |         |              |            |
 
 ## numerals-mars1254-1 / Marshallese, Marshall Islands / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.08
 
@@ -21339,7 +22227,9 @@
 | EIGHTY       | ruwalitungngwowlj      |         |         |         |            |
 | NINETY       | ruwatimtsuwnngwowlj    |         |         |         |            |
 | HUNDRED      | tsibukwi               |         |         |         |            |
+| TWO HUNDRED  | rubukwi                |         |         |         |            |
 | THOUSAND     | tserapen / tautsin     |         |         |         |            |
+| TWO THOUSAND | ruwowrapj              |         |         |         |            |
 
 ## numerals-pani1256-1 / Paniyan, India / Fiver:0.04 Tener:0.00 Twentier:0.00 Twoer:0.08
 
@@ -21382,7 +22272,9 @@
 | EIGHTY       | empatu         |              |         |         |            |
 | NINETY       | tonuru         |              |         |         |            |
 | HUNDRED      | nuru           |              |         |         |            |
+| TWO HUNDRED  | irunuru        |              |         |         |            |
 | THOUSAND     | ajiram         |              |         |         |            |
+| TWO THOUSAND | randajiram     |              |         |         |            |
 
 ## numerals-tuki1240-1 / Tuki, Cameroon / Fiver:0.00 Tener:0.14 Twentier:0.00 Twoer:0.16
 
@@ -21425,51 +22317,55 @@
 | EIGHTY       | moomerema                 |         |         |          |            |
 | NINETY       | moomeremanaumwesii        |         |         |          |            |
 | HUNDRED      | itete                     |         |         |          |            |
+| TWO HUNDRED  | motetemowa                |         |         |          |            |
 | THOUSAND     | tosini                    |         |         |          |            |
+| TWO THOUSAND | tosinimowa                |         |         |          |            |
 
 # quinary / Unknown
 ## numerals-chip1261-3 / Dene (Chipewyan, Dëne Sų́łıne), Northwest Territories, Canada / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
-| Concept      | Forms                      | Fiver   | Twoer   | Tener   | Twentier   |
-|:-------------|:---------------------------|:--------|:--------|:--------|:-----------|
-| ONE          | ilare                      |         |         |         |            |
-| TWO          | nake                       |         |         |         |            |
-| THREE        | tare                       | SIXTEEN |         |         |            |
-| FOUR         | diri                       |         |         |         |            |
-| FIVE         | solare                     |         |         |         |            |
-| SIX          | elketare                   |         |         |         |            |
-| SEVEN        | laisdi / tota              |         |         |         |            |
-| EIGHT        | elkedi                     |         |         |         |            |
-| NINE         | elota                      |         |         |         |            |
-| TEN          | honena                     |         |         |         |            |
-| ELEVEN       | ilaretsadal                |         |         |         |            |
-| TWELVE       | naketsadal                 |         |         |         |            |
-| THIRTEEN     | taretsadal                 |         |         |         |            |
-| FOURTEEN     | diritsadal                 |         |         |         |            |
-| FIFTEEN      | solaretsadal               |         |         |         |            |
-| SIXTEEN      | elketaretsadal             |         |         |         |            |
-| SEVENTEEN    | laisditsadal / totatsadal  |         |         |         |            |
-| EIGHTEEN     | elkeditsadal               |         |         |         |            |
-| NINETEEN     | elotatsadal                |         |         |         |            |
-| TWENTY       | nonena                     |         |         |         |            |
-| TWENTY ONE   | nonenatsanlare             |         |         |         |            |
-| TWENTY TWO   | nonenatsannake             |         |         |         |            |
-| TWENTY THREE | nonenatsantare             |         |         |         |            |
-| TWENTY FOUR  | nonenatsandiri             |         |         |         |            |
-| TWENTY FIVE  | nonenatsansolare           |         |         |         |            |
-| TWENTY SIX   | nonenatsanelketare         |         |         |         |            |
-| TWENTY SEVEN | nonenatsanlaisdi / tota    |         |         |         |            |
-| TWENTY EIGHT | nonenatsanelkedi           |         |         |         |            |
-| TWENTY NINE  | nonenatsanelota            |         |         |         |            |
-| THIRTY       | tonena                     |         |         |         |            |
-| FORTY        | donena                     |         |         |         |            |
-| FIFTY        | solonena                   |         |         |         |            |
-| SIXTY        | elketonena                 |         |         |         |            |
-| SEVENTY      | laisdonena                 |         |         |         |            |
-| EIGHTY       | tlasdi                     |         |         |         |            |
-| NINETY       | elotonena                  |         |         |         |            |
-| HUNDRED      | ilarebestsanaze / honenona |         |         |         |            |
-| THOUSAND     | ilaredetsantsor / lamil    |         |         |         |            |
+| Concept      | Forms                         | Fiver   | Twoer   | Tener   | Twentier   |
+|:-------------|:------------------------------|:--------|:--------|:--------|:-----------|
+| ONE          | ilare                         |         |         |         |            |
+| TWO          | nake                          |         |         |         |            |
+| THREE        | tare                          | SIXTEEN |         |         |            |
+| FOUR         | diri                          |         |         |         |            |
+| FIVE         | solare                        |         |         |         |            |
+| SIX          | elketare                      |         |         |         |            |
+| SEVEN        | laisdi / tota                 |         |         |         |            |
+| EIGHT        | elkedi                        |         |         |         |            |
+| NINE         | elota                         |         |         |         |            |
+| TEN          | honena                        |         |         |         |            |
+| ELEVEN       | ilaretsadal                   |         |         |         |            |
+| TWELVE       | naketsadal                    |         |         |         |            |
+| THIRTEEN     | taretsadal                    |         |         |         |            |
+| FOURTEEN     | diritsadal                    |         |         |         |            |
+| FIFTEEN      | solaretsadal                  |         |         |         |            |
+| SIXTEEN      | elketaretsadal                |         |         |         |            |
+| SEVENTEEN    | laisditsadal / totatsadal     |         |         |         |            |
+| EIGHTEEN     | elkeditsadal                  |         |         |         |            |
+| NINETEEN     | elotatsadal                   |         |         |         |            |
+| TWENTY       | nonena                        |         |         |         |            |
+| TWENTY ONE   | nonenatsanlare                |         |         |         |            |
+| TWENTY TWO   | nonenatsannake                |         |         |         |            |
+| TWENTY THREE | nonenatsantare                |         |         |         |            |
+| TWENTY FOUR  | nonenatsandiri                |         |         |         |            |
+| TWENTY FIVE  | nonenatsansolare              |         |         |         |            |
+| TWENTY SIX   | nonenatsanelketare            |         |         |         |            |
+| TWENTY SEVEN | nonenatsanlaisdi / tota       |         |         |         |            |
+| TWENTY EIGHT | nonenatsanelkedi              |         |         |         |            |
+| TWENTY NINE  | nonenatsanelota               |         |         |         |            |
+| THIRTY       | tonena                        |         |         |         |            |
+| FORTY        | donena                        |         |         |         |            |
+| FIFTY        | solonena                      |         |         |         |            |
+| SIXTY        | elketonena                    |         |         |         |            |
+| SEVENTY      | laisdonena                    |         |         |         |            |
+| EIGHTY       | tlasdi                        |         |         |         |            |
+| NINETY       | elotonena                     |         |         |         |            |
+| HUNDRED      | ilarebestsanaze / honenona    |         |         |         |            |
+| TWO HUNDRED  | nakebestsanaze / nakehonenona |         |         |         |            |
+| THOUSAND     | ilaredetsantsor / lamil       |         |         |         |            |
+| TWO THOUSAND | nakedetsantsor / nakelamil    |         |         |         |            |
 
 ## numerals-moli1248-1 / Molima, Papua New Guinea / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -21512,7 +22408,9 @@
 | EIGHTY       | eiti                           |         |         |         |            |
 | NINETY       | nainiti                        |         |         |         |            |
 | HUNDRED      | analedi                        |         |         |         |            |
+| TWO HUNDRED  | tuanaledi                      |         |         |         |            |
 | THOUSAND     | tauseni                        |         |         |         |            |
+| TWO THOUSAND | tutauseni                      |         |         |         |            |
 
 ## numerals-nort2787-2 / Northern Toussian, Burkina Faso / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -21555,7 +22453,9 @@
 | EIGHTY       | sang             |          |         |         |            |
 | NINETY       | sangpabwo        |          |         |         |            |
 | HUNDRED      | tzkpaw           |          |         |         |            |
+| TWO HUNDRED  | tzbwo            |          |         |         |            |
 | THOUSAND     | piynang / nanang |          |         |         |            |
+| TWO THOUSAND | piyning / naning |          |         |         |            |
 
 ## numerals-saaa1241-2 / Sa, Pentcost, Vanuatu / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -21598,6 +22498,7 @@
 | EIGHTY       | nulbelitil                          |         |         |         |            |
 | NINETY       | nulbeliapat                         |         |         |         |            |
 | HUNDRED      | nulsungulsu                         |         |         |         |            |
+| TWO HUNDRED  | nulsungulberu                       |         |         |         |            |
 
 ## numerals-vure1239-1 / Mosina (Vurës), Vanuatu / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -21640,7 +22541,9 @@
 | EIGHTY       | samwyllobotol             |         |         |         |            |
 | NINETY       | samwyllobobet             |         |         |         |            |
 | HUNDRED      | mwolndol                  |         |         |         |            |
+| TWO HUNDRED  | mwolndolbagoro            |         |         |         |            |
 | THOUSAND     | tarbatiwial               |         |         |         |            |
+| TWO THOUSAND | tarbagoro                 |         |         |         |            |
 
 ## numerals-whit1269-1 / Whitesands, Vanuatu / Fiver:0.00 Tener:0.00 Twentier:0.00 Twoer:0.00
 
@@ -21683,7 +22586,9 @@
 | EIGHTY       | eite        |         |         |         |            |
 | NINETY       | naente      |         |         |         |            |
 | HUNDRED      | uanhanret   |         |         |         |            |
+| TWO HUNDRED  | tuhanret    |         |         |         |            |
 | THOUSAND     | uantaosan   |         |         |         |            |
+| TWO THOUSAND | tutaosan    |         |         |         |            |
 
 # binary / Tener
 ## numerals-lend1245-1 / Lendu, DR of the Congo, Uganda / Fiver:0.04 Tener:0.75 Twentier:0.00 Twoer:0.08
@@ -21727,7 +22632,9 @@
 | EIGHTY       | dredrengaaru                 |           |         |             |            |
 | NINETY       | dredrengadredhi              |           |         |             |            |
 | HUNDRED      | miadi                        |           |         |             |            |
+| TWO HUNDRED  | miaaro                       |           |         |             |            |
 | THOUSAND     | lufudi                       |           |         |             |            |
+| TWO THOUSAND | lufuaro                      |           |         |             |            |
 
 # vigesimal / Twoer
 ## numerals-mayo1264-1 / Mayo, Mexico / Fiver:0.02 Tener:0.00 Twentier:0.00 Twoer:0.08
@@ -21771,7 +22678,9 @@
 | EIGHTY       | naykitakawa             |         |         |         |            |
 | NINETY       | naykitakawaamawoxmamni  |         |         |         |            |
 | HUNDRED      | mamnitakawa             |         |         |         |            |
+| TWO HUNDRED  | woxmamnitakawa          |         |         |         |            |
 | THOUSAND     | mil                     |         |         |         |            |
+| TWO THOUSAND | dohmil                  |         |         |         |            |
 
 ## numerals-viem1243-1 / Viemo (Vigye), Burkina Faso / Fiver:0.00 Tener:0.03 Twentier:0.00 Twoer:0.08
 
@@ -21814,5 +22723,7 @@
 | EIGHTY       | dzwutse              |         |         |              |            |
 | NINETY       | dzwutsikpwomu        |         |         |              |            |
 | HUNDRED      | tamo                 |         |         |              |            |
+| TWO HUNDRED  | tamitsinini          |         |         |              |            |
 | THOUSAND     | vjewodwuro           |         |         |              |            |
+| TWO THOUSAND | vjetsunini           |         |         |              |            |
 
