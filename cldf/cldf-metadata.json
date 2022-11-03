@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "27eaf16",
+            "dc:created": "2e85547",
             "dc:title": "Repository"
         },
         {
@@ -68,6 +68,12 @@
             "rdf:type": "prov:Entity",
             "dc:created": "a8001124",
             "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/lexibank/vanuatuvoices",
+            "rdf:type": "prov:Entity",
+            "dc:created": "sndcmp-handover-64-gb8f2661",
+            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -89,7 +95,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 247480,
+            "dc:extent": 181114,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,7 +202,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8120,
+            "dc:extent": 5114,
             "tableSchema": {
                 "columns": [
                     {
@@ -287,7 +293,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 157,
+            "dc:extent": 154,
             "tableSchema": {
                 "columns": [
                     {

@@ -154,6 +154,19 @@ class Dataset(BaseDataset):
             pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
             ])
+
+        # filter languages
+        visited = set()
+        selected_languages = []
+        for language in sorted(
+                wl.languages, 
+                key=lambda x: coverage(x, all_concepts), 
+                reverse=True
+                ):
+            if language.glottocode not in visited:
+                visited.add(language.glottocode)
+                selected_languages += [language]
+            
         
         one_to_forty = [concept["CONCEPTICON_GLOSS"] for concept in
                 self.concepts if concept["TEST"] in ["1", "2"]]
@@ -206,7 +219,7 @@ class Dataset(BaseDataset):
 
         all_scores, mixed_scores = [], []
         errors = defaultdict(list)
-        for language in progressbar(wl.languages):
+        for language in progressbar(selected_languages):
             scores, cov, colexis = find_system(language, relations)
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)

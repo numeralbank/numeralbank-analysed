@@ -15,13 +15,13 @@ Available online at https://numeralbank.clld.org
 ## Statistics
 
 
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 8,120
-- **Concepts:** 157
-- **Lexemes:** 247,480
+- **Varieties:** 5,114
+- **Concepts:** 154
+- **Lexemes:** 181,114
 - **Sources:** 0
 - **Synonymy:** 1.08
 
@@ -32,7 +32,7 @@ Available online at https://numeralbank.clld.org
   - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
 
 
-- Entries missing sources: 247480/247480 (100.00%)
+- Entries missing sources: 181114/181114 (100.00%)
 
 ## CLDF Datasets
 
