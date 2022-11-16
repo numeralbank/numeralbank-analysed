@@ -3180,129 +3180,128 @@ numerals-zulu1248-1	Zulu, South Africa, Lesotho	Atlantic-Congo	zulu1248	decimal	
 	Zia	Greater Binanderean	ziaa1250	binary	binary proper	Russell Barlow	3 = 2 + 1; formation of 4 varies among dialects; 5 = hand one
 	Zimakani	Anim	zima1244	binary	binary proper	Russell Barlow	3 = 2 + 1, 4 = 2 + 2; 5 contains hand
 	Zire	Oceanic	zire1240	quinary	quinary	Russell Barlow	6 to 9 = 5 + n
-	Adnyamathanha	PNy	adny1235	unclear	ternary?	Ezequiel Koile	1, 2, 3
-	Adnyamathanha (Wonoka)	PNy	adny1235	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Arabana (Peake Telegraph Station)	PNy	arab1267	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Arabana (Strangway Springs)	PNy	arab1267	binary	binary other	Ezequiel Koile	1, 2, -, 2:2
-	Arabana (Wangkatyaka)	PNy	arab1267	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Arabana (West of Lake Eyre)	PNy	arab1267	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Arabana-Wangkangurru (Arabana)	PNy	arab1267	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Awabakal	PNy	awab1243	restricted	restricted	Ezequiel Koile	NA
-	Bardi	Nyulnyulan	bard1255	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Birlinarra	PNy	bili1250	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Birrpayi	PNy	birr1241	restricted	restricted	Ezequiel Koile	NA
-	Bularnu	PNy	bula1255	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Bunuba	Bunuban	buna1275	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Darkinyung	PNy	hawk1239	restricted	restricted	Ezequiel Koile	NA
-	Deniliquin	PNy	wemb1241	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Dhangu	PNy	dhan1270	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Dharawal	PNy	thur1254	restricted	restricted	Ezequiel Koile	NA
-	Dhuwal (Djapu)	PNy	nucl1333	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Dhuwala (Gupapuyngu)	PNy	dhuw1250	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Diyari	PNy	dira1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Djinaŋ	PNy	djin1253	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Gamilaraay	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Gamilaraay (Barraba)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Gamilaraay (Bogabrie)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Gamilaraay (Kamilaroi Station)	PNy	gami1243	binary	binary+4	Ezequiel Koile	1, 2, 2:1, 4
-	Gamilaraay (Kamilaroi)	PNy	gami1243	binary	binary+35	Ezequiel Koile	1, 2, 3, 2:2, 5
-	Gamilaraay (Moree)	PNy	gami1243	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Gamilaraay (Namoi)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Gamilaraay (Nundle)	PNy	gami1243	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Garrwa	Garrwan	gara1269	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1, 2:2:2
-	Gooniyandi	Bunuban	goon1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2, 2:2:1
-	Gurindji	PNy	guri1247	binary	binary other	Ezequiel Koile	1, 2, 3, -, 2:2:1
-	Gurindji (Mallee Cliffs Station to Wentworth)	PNy	guri1247	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Jabirr-Jabirr	Nyulnyulan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Jaru	PNy	jaru1254	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Jawi	Nyulnyulan	jawi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Jingulu	Mirndi	djin1251	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Jiwaliny	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2
-	Kajirrabeng	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Karajarri	PNy	kara1476	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Adny	Adnyamathanha	PNy	adny1235	unclear	ternary?	Ezequiel Koile	1, 2, 3
+bowernnumerals-AdnyWono	Adnyamathanha (Wonoka)	PNy	adny1235	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Arab	Arabana-Wangkangurru (Arabana)	PNy	arab1267	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-ArabEyr	Arabana (West of Lake Eyre)	PNy	arab1267	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-ArabPea	Arabana (Peake Telegraph Station)	PNy	arab1267	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
+bowernnumerals-ArabStrang	Arabana (Strangway Springs)	PNy	arab1267	binary	binary other	Ezequiel Koile	1, 2, -, 2:2
+bowernnumerals-ArabWangkat	Arabana (Wangkatyaka)	PNy	arab1267	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Awabak	Awabakal	PNy	awab1243	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-BalNer	Yuwaaliyaay (Balonne, Nerran)	PNy	yuwa1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Bang	Parnkala (Gawler Range)	PNy	bang1339	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
+bowernnumerals-Bardi	Bardi	Nyulnyulan	bard1255	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Barrab	Gamilaraay (Barraba)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Bili	Birlinarra	PNy	bili1250	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Birrp	Birrpayi	PNy	birr1241	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-Bogab	Gamilaraay (Bogabrie)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Bula	Bularnu	PNy	bula1255	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-BullRiv	Wangkumara (Garlali)	PNy	kala1380	restricted	restricted	Ezequiel Koile	1, 2
+bowernnumerals-Bunuba	Bunuba	Bunuban	buna1275	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Dhang	Dhangu	PNy	dhan1270	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Dhuwa	Dhuwal (Djapu)	PNy	nucl1333	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Dhuwala	Dhuwala (Gupapuyngu)	PNy	dhuw1250	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Diya	Diyari	PNy	dira1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Djina	Djinaŋ	PNy	djin1253	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Gamil	Gamilaraay	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Garrwa	Garrwa	Garrwan	gara1269	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1, 2:2:2
+bowernnumerals-Gooni	Gooniyandi	Bunuban	goon1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2, 2:2:1
+bowernnumerals-GuriMall	Gurindji (Mallee Cliffs Station to Wentworth)	PNy	guri1247	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Guri	Gurindji	PNy	guri1247	binary	binary other	Ezequiel Koile	1, 2, 3, -, 2:2:1
+bowernnumerals-Guya	Kuyani	PNy	guya1249	binary	binary proper	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-GuyaTorr	Kuyani (Eastern Shore of Lake Torrens)	PNy	guya1249	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Hawk	Darkinyung	PNy	hawk1239	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-JabJab	Jabirr-Jabirr	Nyulnyulan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Jaru	Jaru	PNy	jaru1254	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
+bowernnumerals-Jawi	Jawi	Nyulnyulan	jawi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Jing	Jingulu	Mirndi	djin1251	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Jiwal	Jiwaliny	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2
+bowernnumerals-Kajir	Kajirrabeng	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Kamil	Gamilaraay (Kamilaroi)	PNy	gami1243	binary	binary+35	Ezequiel Koile	1, 2, 3, 2:2, 5
+bowernnumerals-KamilStat	Gamilaraay (Kamilaroi Station)	PNy	gami1243	binary	binary+4	Ezequiel Koile	1, 2, 2:1, 4
+bowernnumerals-Karad	Karajarri	PNy	kara1476	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-KaurnEngl	Kaurna	PNy	kaur1267	quaternary	quaternary +78	Ezequiel Koile	1, 2, 3, 4, 4:1, 4:2, 7, 8
 	Kaurna	PNy	kaur1267	quaternary	quaternary proper	Ezequiel Koile	1, 2, 3, 4, 4:1, 4:2
-	Kaurna	PNy	kaur1267	quaternary	quaternary +78	Ezequiel Koile	1, 2, 3, 4, 4:1, 4:2, 7, 8
-	Kija	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Kukatja	PNy	kuka1246	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Kungkari	PNy	kuun1236	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Kuyani	PNy	guya1249	binary	binary proper	Ezequiel Koile	1, 2, 3, 2:2
-	Kuyani (Eastern Shore of Lake Torrens)	PNy	guya1249	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Malngin	PNy	maln1239	restricted	restricted	Ezequiel Koile	1, 2,
-	Mangarla	PNy	mang1383	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Martu Wangka	PNy	mart1256	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Miriwoong	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Mithaka	PNy	mith1236	binary	binary other	Ezequiel Koile	1, 2, -, 2:2, 2:2:1
-	Mudburra	PNy	mudb1240	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Mulyara	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Muruwari	PNy	muru1266	binary	binary other	Ezequiel Koile	1, 2, 2:1, 2:?
-	Narangga	PNy	naru1238	binary	binary other	Ezequiel Koile	1, 2, 3, ?:2, ?:2:1
-	Narangga (Yorke's Peninsula)	PNy	naru1238	unclear	restricted?	Ezequiel Koile	1, 2, 3
-	Ngaanyatjarra/Ngaatjatjarra	PNy	ngaa1240	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Ngamini	PNy	ngam1265	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Ngamini (Kopperamana)	PNy	ngam1265	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Ngarinyin	Wororan	ngar1284	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Ngarinyman	PNy	ngar1235	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Ngiyampaa	PNy	wang1291	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Ngulupulu	PNy	NA	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Ngumbarl	Nyulnyulan	ngum1253	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Nhirrpi	PNy	nhir1234	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Nimanburru	Nyulnyulan	nima1246	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Northern Mangarla	PNy	mang1383	binary	binary other	Ezequiel Koile	1, 2, 2:2, 2:2:1
-	Nukunu	PNy	nugu1241	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Nyangumarta	PNy	nyan1301	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Nyikina	Nyulnyulan	nyig1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Nyulnyul	Nyulnyulan	nyul1247	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Parnkala	PNy	bang1339	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Parnkala (Gawler Range)	PNy	bang1339	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Pirriya	PNy	pirr1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Pitjantjatjara/Yankunytjatjara	PNy	pitj1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2, 2:3
-	Pitta-Pitta	PNy	pitt1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Punthamara	PNy	punt1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Ringu Ringu	PNy	NA	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Ritharrngu	PNy	rita1239	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Unggumi	Wororan	ungg1243	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Wakaya	PNy	waga1260	binary	binary other	Ezequiel Koile	1, 2, 3
-	Walmajarri	PNy	walm1241	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Wambaya	Mirndi	nucl1328	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Wangka	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Wangkangurru	PNy	wang1290	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Wangkangurru (Warburton River)	PNy	wang1290	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Wangkayutyuru	PNy	wang1289	binary	binary+45	Ezequiel Koile	1, 2, 2:1, 4, 5
-	Wangkumara	PNy	wong1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wangkumara (Cooper's Creek)	PNy	wong1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wangkumara (Garlali)	PNy	kala1380	restricted	restricted	Ezequiel Koile	1, 2
-	Wangkumara (Nockatoonga)	PNy	wong1246	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Wangkumara (Thargominda)	PNy	wong1246	binary	binary other	Ezequiel Koile	1, 2, 2:?, 2:2
-	Wanyi	Garrwan	wany1247	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wardaman	Yangmanic	ward1246	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Warlmanpa	PNy	warl1255	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Warlpiri	PNy	warl1254	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Warluwarra	PNy	warl1256	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Warnman	PNy	wanm1242	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1
-	Warrwa	Nyulnyulan	warr1258	binary	binary other	Ezequiel Koile	1, 2, 3
-	Warumungu	PNy	waru1265	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Wayilwan (Brewarrina and Barwan River)	PNy	wayi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Wayilwan (Culgoa River)	PNy	wayi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Wiradjuri	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wiradjuri (Carcoar)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wiradjuri (Dubbo)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wiradjuri (Hill End)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wiradjuri (Sources of Bogan River)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Wiradjuri (Wiradhurri)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1
-	Wirangu	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4, 5
-	Wirangu (Streaky Bay)	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
-	Wonnarua	PNy	wona1238	restricted	restricted	Ezequiel Koile	NA
-	Worrorra	Wororan	worr1237	unclear	restricted?	Ezequiel Koile	NA
-	Yan-nhangu	PNy	yann1238	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Yandruwandha	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Yandruwandha (Cooper's Creek)	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Yanyuwa	PNy	yany1243	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
-	Yarluyandi	PNy	yari1238	restricted	restricted	Ezequiel Koile	1, 2
-	Yarluyandi (North Shore of Lake Eyre)	PNy	yari1238	binary	binary other	Ezequiel Koile	1, 2, 2:?, 2:2
-	Yawarrawarrka	PNy	yawa1258	binary	binary proper	Ezequiel Koile	1, 2, 2:1
-	Yawijibaya	Wororan	yawi1239	restricted	restricted	Ezequiel Koile	NA
-	Yawuru	Nyulnyulan	yawu1244	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Yulparija	PNy	yulp1239	restricted	restricted	Ezequiel Koile	1, 2
-	Yuwaalaraay	PNy	yuwa1242	restricted	restricted	Ezequiel Koile	1, 2, 3
-	Yuwaaliyaay (Balonne, Nerran)	PNy	yuwa1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
-	Yuwaaliyaay (Yuwaalayaay)	PNy	yuwa1243	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Kija	Kija	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Kutk	Kukatja	PNy	kuka1246	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Kuung	Kungkari	PNy	kuun1236	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Malng	Malngin	PNy	maln1239	restricted	restricted	Ezequiel Koile	1, 2,
+bowernnumerals-Mang	Mangarla	PNy	mang1383	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Martu	Martu Wangka	PNy	mart1256	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Miriw	Miriwoong	Jarragan	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Mitha	Mithaka	PNy	mith1236	binary	binary other	Ezequiel Koile	1, 2, -, 2:2, 2:2:1
+bowernnumerals-More	Gamilaraay (Moree)	PNy	gami1243	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Mudb	Mudburra	PNy	mudb1240	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Mulya	Mulyara	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
+bowernnumerals-Muruw	Muruwari	PNy	muru1266	binary	binary other	Ezequiel Koile	1, 2, 2:1, 2:?
+bowernnumerals-Namoi	Gamilaraay (Namoi)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Naru	Narangga	PNy	naru1238	binary	binary other	Ezequiel Koile	1, 2, 3, ?:2, ?:2:1
+bowernnumerals-NaruYork	Narangga (Yorke's Peninsula)	PNy	naru1238	unclear	restricted?	Ezequiel Koile	1, 2, 3
+bowernnumerals-Ngaa	Ngaanyatjarra/Ngaatjatjarra	PNy	ngaa1240	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Ngam	Ngamini	PNy	ngam1265	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-NgamKop	Ngamini (Kopperamana)	PNy	ngam1265	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Ngari	Ngarinyman	PNy	ngar1235	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Ngar	Ngarinyin	Wororan	ngar1284	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Ngiya	Ngiyampaa	PNy	wang1291	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Ngulu	Ngulupulu	PNy	NA	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Ngum	Ngumbarl	Nyulnyulan	ngum1253	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Nhirr	Nhirrpi	PNy	nhir1234	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Nima	Nimanburru	Nyulnyulan	nima1246	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-NortMang	Northern Mangarla	PNy	mang1383	binary	binary other	Ezequiel Koile	1, 2, 2:2, 2:2:1
+bowernnumerals-Nugu	Nukunu	PNy	nugu1241	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Nundle	Gamilaraay (Nundle)	PNy	gami1243	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Nyan	Nyangumarta	PNy	nyan1301	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Nyig	Nyikina	Nyulnyulan	nyig1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Nyul	Nyulnyul	Nyulnyulan	nyul1247	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Pirri	Pirriya	PNy	pirr1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Pitj	Pitjantjatjara/Yankunytjatjara	PNy	pitj1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2, 2:3
+bowernnumerals-PitPit	Pitta-Pitta	PNy	pitt1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Punth	Punthamara	PNy	punt1240	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-RinRin	Ringu Ringu	PNy	NA	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Ritarungu	Ritharrngu	PNy	rita1239	restricted	restricted	Ezequiel Koile	1, 2, 3
+	Dharawal	PNy	thur1254	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-Ungg	Unggumi	Wororan	ungg1243	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Waga	Wakaya	PNy	waga1260	binary	binary other	Ezequiel Koile	1, 2, 3
+bowernnumerals-Walmj	Walmajarri	PNy	walm1241	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Wamba	Wambaya	Mirndi	nucl1328	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Wanggam	Wangkayutyuru	PNy	wang1289	binary	binary+45	Ezequiel Koile	1, 2, 2:1, 4, 5
+bowernnumerals-Wanggan	Wangkangurru	PNy	wang1290	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-WangganWarb	Wangkangurru (Warburton River)	PNy	wang1290	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Wang	Wangka	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Wangku	Wangkumara	PNy	wong1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-WangkuCoo	Wangkumara (Cooper's Creek)	PNy	wong1246	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-WangkuNoc	Wangkumara (Nockatoonga)	PNy	wong1246	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-WangkuTha	Wangkumara (Thargominda)	PNy	wong1246	binary	binary other	Ezequiel Koile	1, 2, 2:?, 2:2
+bowernnumerals-Wanm	Warnman	PNy	wanm1242	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1
+bowernnumerals-Wanyi	Wanyi	Garrwan	wany1247	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Ward	Wardaman	Yangmanic	ward1246	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Warlm	Warlmanpa	PNy	warl1255	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Warlp	Warlpiri	PNy	warl1254	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Warl	Warluwarra	PNy	warl1256	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Warrw	Warrwa	Nyulnyulan	warr1258	binary	binary other	Ezequiel Koile	1, 2, 3
+bowernnumerals-Warum	Warumungu	PNy	waru1265	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-BrewBar	Wayilwan (Brewarrina and Barwan River)	PNy	wayi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Culgoa	Wayilwan (Culgoa River)	PNy	wayi1238	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
+bowernnumerals-Wemba	Deniliquin	PNy	wemb1241	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Wiradjuri	Wiradjuri	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Bogan	Wiradjuri (Sources of Bogan River)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Carcoar	Wiradjuri (Carcoar)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Dubbo	Wiradjuri (Dubbo)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-HillEnd	Wiradjuri (Hill End)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Wiradhurri	Wiradjuri (Wiradhurri)	PNy	wira1262	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2, 2:2:1
+bowernnumerals-Wirang	Wirangu	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4, 5
+bowernnumerals-StreBay	Wirangu (Streaky Bay)	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
+bowernnumerals-Wonar	Wonnarua	PNy	wona1238	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-Worr	Worrorra	Wororan	worr1237	unclear	restricted?	Ezequiel Koile	NA
+bowernnumerals-Yandr	Yandruwandha	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-YandrCoo	Yandruwandha (Cooper's Creek)	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Yannhan	Yan-nhangu	PNy	yann1238	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Yany	Yanyuwa	PNy	yany1243	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
+bowernnumerals-Yarl	Yarluyandi	PNy	yari1238	restricted	restricted	Ezequiel Koile	1, 2
+bowernnumerals-YarlEyr	Yarluyandi (North Shore of Lake Eyre)	PNy	yari1238	binary	binary other	Ezequiel Koile	1, 2, 2:?, 2:2
+bowernnumerals-Yawarr	Yawarrawarrka	PNy	yawa1258	binary	binary proper	Ezequiel Koile	1, 2, 2:1
+bowernnumerals-Yawi	Yawijibaya	Wororan	yawi1239	restricted	restricted	Ezequiel Koile	NA
+bowernnumerals-Yawu	Yawuru	Nyulnyulan	yawu1244	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Yulp	Yulparija	PNy	yulp1239	restricted	restricted	Ezequiel Koile	1, 2
+bowernnumerals-Yuwlar	Yuwaalaraay	PNy	yuwa1242	restricted	restricted	Ezequiel Koile	1, 2, 3
+bowernnumerals-Yuwliy	Yuwaaliyaay (Yuwaalayaay)	PNy	yuwa1243	restricted	restricted	Ezequiel Koile	1, 2, 3
