@@ -81,6 +81,9 @@ class CustomLanguage(Language):
     BestBase = attr.ib(default=None)
     Bases = attr.ib(default=None)
     Base = attr.ib(default=None)
+    BaseAnnotation = attr.ib(default=None)
+    BaseAnnotator = attr.ib(default=None)
+    BaseComment = attr.ib(default=None)
     Coverage = attr.ib(
         default=None,
         metadata={
@@ -155,6 +158,17 @@ class Dataset(BaseDataset):
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
             ])
 
+        # get base info from the external document
+        base_info = {}
+        for row in self.etc_dir.read_csv(
+                "bases.tsv", delimiter="\t",
+                dicts=True):
+            if row["Language_ID"]:
+                base_info[row["Language_ID"]] = row
+            else:
+                base_info[row["Glottocode"]] = row
+        args.log.info("loaded base info")
+
         # filter languages
         visited = set()
         selected_languages = []
@@ -219,6 +233,7 @@ class Dataset(BaseDataset):
 
         all_scores, mixed_scores = [], []
         errors = defaultdict(list)
+        base_errors = set()
         for language in progressbar(selected_languages):
             scores, cov, colexis = find_system(language, relations)
             # check for sufficient coverage
@@ -247,50 +262,94 @@ class Dataset(BaseDataset):
             if bestSystem and scores[bestSystem] < 0.05:
                 bestSystem = "Unknown"
 
-            if bestSystem:
-                # check for correctness, can be expanded when more systems available
-                base_in_source = real_base
-                if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov1 >= 0.8:
-                    if real_base == convert[bestSystem]:
-                        all_scores += [1]
-                    else:
-                        all_scores += [0]
-                        errors[real_base, bestSystem] += [[
-                            language,
-                            scoreS,
-                            colexis
-                        ]]
-                    if real_base in mixed_systems:
-                        mixed_scores += [1/len(mixed_systems)]
-                    else:
-                        mixed_scores += [0]
+            # check for correctness, can be expanded when more systems available
+            base_in_source = real_base
+            if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov1 >= 0.8:
+                if real_base == convert[bestSystem]:
+                    all_scores += [1]
                 else:
-                    real_base = "unknown"
-                args.writer.add_language(
-                    ID=language.id,
-                    Name=language.name,
-                    Glottocode=language.glottocode,
-                    Latitude=language.latitude,
-                    Longitude=language.longitude,
-                    Macroarea=language.macroarea,
-                    Bases=scoreS,
-                    BestBase=convert[bestSystem],
-                    Base=real_base,
-                    Coverage=cov_,
-                    OneToThirty=cov2,
-                    BaseInSource=base_in_source
-                )
-                for concept in language.concepts:
-                    if concept.id in all_concepts:
-                        for form in concept.forms:
-                            args.writer.add_form(
-                                    Language_ID=language.id,
-                                    Parameter_ID=slug(concept.id),
-                                    Value=form.value,
-                                    Form=simple_chars(form.form),
-                                    Source="",
-                                    NumberValue=all_concepts[concept.id]
-                                    )
+                    all_scores += [0]
+                    errors[real_base, bestSystem] += [[
+                        language,
+                        scoreS,
+                        colexis
+                    ]]
+                if real_base in mixed_systems:
+                    mixed_scores += [1/len(mixed_systems)]
+                else:
+                    mixed_scores += [0]
+            else:
+                real_base = "unknown"
+
+            # retrieve annotated base
+            if language.id in base_info:
+                annotated_base, annotator, cmt = (
+                        base_info[language.id]["Base"],
+                        base_info[language.id]["Annotator"],
+                        base_info[language.id]["Comment"]
+                        )
+            elif language.glottocode in base_info:
+                annotated_base, annotator, cmt = (
+                        base_info[language.glottocode]["Base"],
+                        base_info[language.glottocode]["Annotator"],
+                        base_info[language.glottocode]["Comment"]
+                        )
+            else:
+                annotated_base = real_base
+                if language.dataset == "numerals" and real_base != "unknown":
+                    annotator = "Eugene Chan"
+                    cmt = ""
+                elif language.dataset == "sand" and real_base != "unknown":
+                    annotator = "Mamta Kumari"
+                    cmt = ""
+                else:
+                    annotated_base, annotator, cmt = "", "", ""
+
+            # check for type
+            if annotated_base and annotated_base not in [
+                    "quaternary",
+                    "quinary",
+                    "decimal",
+                    "senary",
+                    "restricted",
+                    "vigesimal",
+                    "binary",
+                    "decimal",
+                    "duodecimal",
+                    "mixed",
+                    "unknown",
+                    ]:
+                base_errors.add((language.id, annotated_base, annotator))
+
+            args.writer.add_language(
+                ID=language.id,
+                Name=language.name,
+                Glottocode=language.glottocode,
+                Latitude=language.latitude,
+                Longitude=language.longitude,
+                Macroarea=language.macroarea,
+                Bases=scoreS,
+                BestBase=convert[bestSystem],
+                Base=annotated_base if annotated_base in  ["quinary", "binary",
+                    "decimal", "vigesimal"] else real_base,
+                BaseAnnotation=annotated_base,
+                BaseAnnotator=annotator,
+                BaseComment=cmt,
+                Coverage=cov_,
+                OneToThirty=cov2,
+                BaseInSource=base_in_source
+            )
+            for concept in language.concepts:
+                if concept.id in all_concepts:
+                    for form in concept.forms:
+                        args.writer.add_form(
+                                Language_ID=language.id,
+                                Parameter_ID=slug(concept.id),
+                                Value=form.value,
+                                Form=simple_chars(form.form),
+                                Source="",
+                                NumberValue=all_concepts[concept.id]
+                                )
         args.log.info("Tests: {0}".format(len(all_scores)))
         args.log.info("Hits:  {0}".format(all_scores.count(1)))
         args.log.info("Fails: {0}".format(all_scores.count(0)))
@@ -320,3 +379,7 @@ class Dataset(BaseDataset):
                         headers=["Concept", "Forms", "Fiver", "Twoer", "Tener", "Twentier"])+"\n\n"
         with open(self.dir.joinpath("errors.md"), "w") as f:
             f.write(estring)
+        with open(self.dir.joinpath("base_errors.md"), "w") as f:
+            f.write("Language | Annotation | Annotator\n--- | --- | ---\n")
+            for a, b, c in sorted(base_errors):
+                f.write("{0} | {1} | {2}\n".format(a, b, c))

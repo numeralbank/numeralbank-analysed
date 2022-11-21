@@ -10,7 +10,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numeralbank.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/2e85547">numeralbank/numeralbank-analysed 2e85547</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.6.0">Concepticon v2.6.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/3b35405">numeralbank/sand 3b35405</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/ff267d2">numeralbank/bowernnumerals ff267d2</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/2a34d50">numeralbank/barlowpacific v1.2-4-g2a34d50</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/lexibank/vanuatuvoices/tree/b8f2661">lexibank/vanuatuvoices sndcmp-handover-64-gb8f2661</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/56754e0">numeralbank/numeralbank-analysed 56754e0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/3b35405">numeralbank/sand 3b35405</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/ff267d2">numeralbank/bowernnumerals ff267d2</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/2a34d50">numeralbank/barlowpacific v1.2-4-g2a34d50</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/lexibank/vanuatuvoices/tree/b8f2661">lexibank/vanuatuvoices sndcmp-handover-64-gb8f2661</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.2</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -67,6 +67,9 @@ Name/Property | Datatype | Description
 `BestBase` | `string` | 
 `Bases` | `string` | 
 `Base` | `string` | 
+`BaseAnnotation` | `string` | 
+`BaseAnnotator` | `string` | 
+`BaseComment` | `string` | 
 `Coverage` | `float` | Coverage of the language in comparison with our master concept list.
 `OneToThirty` | `float` | 
 `BaseInSource` | `string` | 

@@ -5,7 +5,29 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Ezequiel Koile"
+        },
+        {
+            "name": "Dami\u00e1n Blasi"
+        },
+        {
+            "name": "Russell Barlow"
+        },
+        {
+            "name": "Mamta Kumari"
+        },
+        {
+            "name": "Enock Appiah Tieku"
+        }
+    ],
     "contributors": [],
     "communities": [
         {
