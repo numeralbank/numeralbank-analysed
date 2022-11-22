@@ -221,6 +221,7 @@ class Dataset(BaseDataset):
             if annotated_base and annotated_base not in [
                     "binary",
                     "decimal",
+                    "mixed",
                     "decimal/vigesimal",
                     "duodecimal",
                     "octal",
