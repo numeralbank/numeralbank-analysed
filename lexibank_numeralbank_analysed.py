@@ -21,56 +21,6 @@ def simple_chars(chars):
     return slug(unidecode(chars).replace("@", "a"))
 
 
-def common_substring(seqA, seqB):
-    almA, almB, _ = sw_align(seqA, seqB)
-    alm_a, alm_b = almA[1], almB[1]
-    start = False
-    subs = []
-    for a, b in zip(alm_a, alm_b):
-        if a != b and not start:
-            pass
-        elif a == b and not start:
-            start = True
-        if start and a == b:
-            subs += [a]
-        elif start and a != b:
-            break
-    return len(subs)
-
-
-
-
-def find_system(language, relations):
-    scores = {}
-    coverage = {}
-    colexis = {}
-    for system in relations:
-        score, count = 0, 0
-        coverage[system] = 0
-        colexis[system] = {}
-        for relation, conceptA, conceptB in relations[system]:
-            hit = False
-            if relation == "partial":
-                try:
-                    for formA in language.concepts[conceptA].forms:
-                        for formB in language.concepts[conceptB].forms:
-                            if unidecode(formA.form) in unidecode(formB.form):
-                                hit = True
-                                colexis[system][conceptA] = conceptB
-                                break
-                    if hit:
-                        score += 1
-                    count += 1
-                    coverage[system] += 1
-                except KeyError:
-                    pass
-        if count:
-            scores[system] = score / count
-        else:
-            scores[system] = 0
-    return scores, coverage, colexis
-
-
 @attr.s
 class CustomLexeme(Lexeme):
     NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
@@ -78,9 +28,6 @@ class CustomLexeme(Lexeme):
 
 @attr.s
 class CustomLanguage(Language):
-    BestBase = attr.ib(default=None)
-    Bases = attr.ib(default=None)
-    Base = attr.ib(default=None)
     BaseAnnotation = attr.ib(default=None)
     BaseAnnotator = attr.ib(default=None)
     BaseComment = attr.ib(default=None)
@@ -230,96 +177,64 @@ class Dataset(BaseDataset):
                 "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal"
                 }
         
-
         all_scores, mixed_scores = [], []
-        errors = defaultdict(list)
         base_errors = set()
         for language in progressbar(selected_languages):
-            scores, cov, colexis = find_system(language, relations)
+            
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
             cov1 = coverage(language, one_to_forty)
             cov2 = coverage(language, one_to_thirty)
 
-            # TODO: check for other annotations on numerals
-            if language.dataset == "numerals":
-                real_base = target_bases.get(
-                        language.data["Base"],
-                        "unknown")
-            elif language.dataset == "sand":
-                real_base = target_bases.get(
-                        language.data["Base"], 
-                        "unknown")
-            else:
-                real_base = "unknown"
-            scoreS = " ".join(["{0}:{1:.2f}".format(k, v) for k, v in scores.items()])
-            bestSystems = [k for k, v in sorted(scores.items(), key=lambda x: x[1],
-                    reverse=True)]
-            bestSystem = bestSystems[0]
-            mixed_systems = [convert[k] for k, v in sorted(scores.items(),
-                key=lambda x: x[1], reverse=True) if v > 0.05]
-
-            if bestSystem and scores[bestSystem] < 0.05:
-                bestSystem = "Unknown"
-
-            # check for correctness, can be expanded when more systems available
-            base_in_source = real_base
-            if real_base in ["quinary", "binary", "decimal", "vigesimal"] and cov1 >= 0.8:
-                if real_base == convert[bestSystem]:
-                    all_scores += [1]
-                else:
-                    all_scores += [0]
-                    errors[real_base, bestSystem] += [[
-                        language,
-                        scoreS,
-                        colexis
-                    ]]
-                if real_base in mixed_systems:
-                    mixed_scores += [1/len(mixed_systems)]
-                else:
-                    mixed_scores += [0]
-            else:
-                real_base = "unknown"
-
             # retrieve annotated base
             if language.id in base_info:
                 annotated_base, annotator, cmt = (
-                        base_info[language.id]["Base"],
+                        target_bases.get(
+                            base_info[language.id]["Base"], 
+                            base_info[language.id]["Base"]
+                            ),
                         base_info[language.id]["Annotator"],
                         base_info[language.id]["Comment"]
                         )
             elif language.glottocode in base_info:
                 annotated_base, annotator, cmt = (
-                        base_info[language.glottocode]["Base"],
+                        target_bases.get(
+                            base_info[language.glottocode]["Base"], 
+                            base_info[language.glottocode]["Base"]
+                            ),
                         base_info[language.glottocode]["Annotator"],
                         base_info[language.glottocode]["Comment"]
                         )
             else:
-                annotated_base = real_base
-                if language.dataset == "numerals" and real_base != "unknown":
-                    annotator = "Eugene Chan"
-                    cmt = ""
-                elif language.dataset == "sand" and real_base != "unknown":
-                    annotator = "Mamta Kumari"
-                    cmt = ""
+                if language.dataset == "numerals":
+                    annotated_base = target_bases.get(
+                            language.data["Base"], language.data["Base"])
+                    annotator, cmt = "Eugene Chan", ""
+                elif language.dataset == "sand":
+                    annotated_base = target_bases.get(
+                            language.data["Base"], language.data["Base"])
+                    annotator, cmt = "Mamta Kumari", ""
                 else:
                     annotated_base, annotator, cmt = "", "", ""
 
             # check for type
             if annotated_base and annotated_base not in [
-                    "quaternary",
-                    "quinary",
-                    "decimal",
-                    "senary",
-                    "restricted",
-                    "vigesimal",
                     "binary",
                     "decimal",
+                    "decimal/vigesimal",
                     "duodecimal",
-                    "mixed",
-                    "unknown",
+                    "octal",
+                    "quaternary",
+                    "quinary",
+                    "quinary/decimal",
+                    "quinary/vigesimal",
+                    "restricted",
+                    "senary",
+                    "vigesimal",
                     ]:
-                base_errors.add((language.id, annotated_base, annotator))
+                if annotated_base not in ["Unknown", "unknown"]:
+                    base_errors.add((language.id, annotated_base, annotator))
+                annotated_base, annotator, cmt = "", "", ""
 
             args.writer.add_language(
                 ID=language.id,
@@ -328,16 +243,11 @@ class Dataset(BaseDataset):
                 Latitude=language.latitude,
                 Longitude=language.longitude,
                 Macroarea=language.macroarea,
-                Bases=scoreS,
-                BestBase=convert[bestSystem],
-                Base=annotated_base if annotated_base in  ["quinary", "binary",
-                    "decimal", "vigesimal"] else real_base,
                 BaseAnnotation=annotated_base,
                 BaseAnnotator=annotator,
                 BaseComment=cmt,
                 Coverage=cov_,
                 OneToThirty=cov2,
-                BaseInSource=base_in_source
             )
             for concept in language.concepts:
                 if concept.id in all_concepts:
@@ -350,36 +260,12 @@ class Dataset(BaseDataset):
                                 Source="",
                                 NumberValue=all_concepts[concept.id]
                                 )
-        args.log.info("Tests: {0}".format(len(all_scores)))
-        args.log.info("Hits:  {0}".format(all_scores.count(1)))
-        args.log.info("Fails: {0}".format(all_scores.count(0)))
-        args.log.info("Props: {0:.2f}".format(sum(all_scores)/len(all_scores)))
-
-        args.log.info("Tests: {0}".format(len(mixed_scores)))
-        args.log.info("Hits:  {0}".format(sum(mixed_scores)))
-        args.log.info("Fails: {0}".format(mixed_scores.count(0)))
-        args.log.info("Props: {0:.2f}".format(sum(mixed_scores)/len(mixed_scores)))
-
-
-        estring = ""
-        for (gold, test), results in errors.items():
-            args.log.info("{0:10} / {1:10} : {2}".format(gold, test, len(results)))
-            estring += "# {0} / {1}\n".format(gold, test)
-            for language, scoreS, colexis in results:
-                estring += "## {0} / {1} / {2}\n\n".format(language.id, language.name, scoreS)
-                table = []
-                for concept in language.concepts:
-                    if concept.id in all_concepts:
-                        row = []
-                        for system in ["Fiver", "Twoer", "Tener", "Twentier"]:
-                            row += [colexis[system].get(concept.id, "")]
-                        table += [[concept.id, " / ".join([simple_chars(f.form) for f in concept.forms])]+row]
-                estring += tabulate(
-                        table, tablefmt="pipe", 
-                        headers=["Concept", "Forms", "Fiver", "Twoer", "Tener", "Twentier"])+"\n\n"
-        with open(self.dir.joinpath("errors.md"), "w") as f:
-            f.write(estring)
+        counts = defaultdict(int)
         with open(self.dir.joinpath("base_errors.md"), "w") as f:
             f.write("Language | Annotation | Annotator\n--- | --- | ---\n")
             for a, b, c in sorted(base_errors):
                 f.write("{0} | {1} | {2}\n".format(a, b, c))
+                counts[b, c] += 1
+        for (a, b), c in counts.items():
+            args.log.info("Problematic annotation {0:40} by {1:20} occurs {2} times.".format(
+                a, b, c))

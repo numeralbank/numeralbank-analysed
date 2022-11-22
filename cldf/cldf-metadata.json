@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "56754e0",
+            "dc:created": "c856e3b",
             "dc:title": "Repository"
         },
         {
@@ -258,18 +258,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "BestBase"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Bases"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Base"
                     },
                     {
                         "datatype": "string",
