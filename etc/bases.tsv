@@ -5,7 +5,6 @@ numerals-aran1261-1	Aranadan, Kerala, India	Dravidian	aran1261	decimal		Mamta Ku
 numerals-bada1257-1	Badaga, India	Dravidian	bada1257	decimal		Mamta Kumari	Subtractive morphology (series of 9)
 numerals-bett1235-1	Betta Kurumba, India	Dravidian	bett1235	decimal		Mamta Kumari	Subtractive morphology (series of 9)
 numerals-bett1235-2	Betta Kurumba, India	Dravidian	bett1235	decimal		Mamta Kumari	-
-numerals-brah1256-1	Brahui, Pakistan	Dravidian	brah1256	parallel (decimal and mixed)		Mamta Kumari	30,40, 50 are lexical items (idiosyncratic forms). Borrowed from Iranian numerals. 
 numerals-dand1238-1	Bison-Horn Madiya, India	Dravidian	dand1238	vigesimal		Mamta Kumari	High lexical borrowing from IA, but structure remains of their own. 
 numerals-duru1236-1	Duruwa (Parji), India	Dravidian	duru1236	vigesimal		Mamta Kumari	High lexical borrowing from IA. Very weird mix of IA and Drav lexicon to form complex numerals
 numerals-east2340-1	Eastern Muria, Chhattisgarh, India	Dravidian	east2340	vigesimal		Mamta Kumari	High lexical borrowing from IA, but structure remains of their own. 
@@ -24,8 +23,6 @@ numerals-koda1255-2	Kodagu, India	Dravidian	koda1255	decimal		Mamta Kumari
 numerals-kond1295-1	Konda-Dora, India	Dravidian	kond1295	decimal		Mamta Kumari	After 4, borrowed from Telugu; Subtractive morphology (series of 8 and 9)
 numerals-korr1238-1	Koraga (Korra Koraga), India	Dravidian	korr1238	decimal		Mamta Kumari	
 numerals-kota1263-1	Kota, India	Dravidian	kota1263	decimal		Mamta Kumari	Subtractive morphology (series of 9)
-numerals-koya1251-1	Koya, India	Dravidian	koya1251	parallel (decimal and vigesimal)		Mamta Kumari	Subtractive morphology (series of 8 and 9); parallely for some numerals they use the borrowed IA forms, and also the vigesimal structure.
-numerals-kuii1252-1	Kui, India	Dravidian	kuii1252	parallel (decimal and vigesimal)		Mamta Kumari	After 7, this langauge uses IA borrowed forms. Parallely they use both the systems and sometimes mixed.
 numerals-kuru1302-1	Kurux, India	Dravidian	kuru1302	decimal		Mamta Kumari	After 4, borrowed IA numerals are used but in a mixed way.
 numerals-kuru1302-2	Kurux, India	Dravidian	kuru1302	decimal		Mamta Kumari	
 numerals-kuvi1243-1	Kuvi, Odisha State, India	Dravidian	kuvi1243	vigesimal		Mamta Kumari	Loanwords from IA after 4. Some people use Drav. form till 2, rest are IA with Odia classifier 'go??a'.
@@ -63,7 +60,6 @@ numerals-ural1274-1	Urali, India	Dravidian	ural1274	decimal		Mamta Kumari	Subtra
 numerals-yeru1240-1	Yerukula, India	Dravidian	yeru1240	decimal		Mamta Kumari	Subtractive morphology (series of 9)
 numerals-aheu1239-1	Aheu (Thavung), Thailand, Laos	Austroasiatic	aheu1239	decimal		Mamta Kumari	
 numerals-arem1240-1	Arem, Vietnam	Austroasiatic	arem1240	decimal		Mamta Kumari	
-numerals-asur1254-1	Asuri, Jharkhand State, India	Austroasiatic	asur1254	parallel		Mamta Kumari	Huge lexical borrowing from IA, therefore two systems co-exist, Decimal (borrowed) and vigesimal (traditional)
 numerals-bahn1262-1	Bahnar, Vietnam	Austroasiatic	bahn1262	decimal		Mamta Kumari	
 numerals-bate1262-1	Batek, Malaysia	Austroasiatic	bate1262	decimal		Mamta Kumari	
 numerals-besi1244-1	Mah Meri, Malaya Peninsula	Austroasiatic	besi1244	decimal		Mamta Kumari	
@@ -93,7 +89,6 @@ numerals-cuaa1241-1	Cua, Vietnam	Austroasiatic	cuaa1241	decimal		Mamta Kumari
 numerals-dana1252-1	Danaw, Myanmar	Austroasiatic	dana1252	decimal		Mamta Kumari	
 numerals-east2332-1	Eastern Bru, Laos	Austroasiatic	east2332	decimal		Mamta Kumari	Use of connective particle between atom and base.
 numerals-east2333-1	Eastern Mnong, Vietnam	Austroasiatic	east2333	decimal		Mamta Kumari	Use of connective particle between atom and base.
-numerals-gata1239-1	Gta' (Didey), India	Austroasiatic	gata1239	parallel		Mamta Kumari	Traditional system is Vigesimal, borrowed IA system is Decimal. Both coexists.
 numerals-hala1252-1	Halang, Vietnam	Austroasiatic	hala1252	decimal		Mamta Kumari	
 numerals-hala1252-2	Jeh, Vietnam	Austroasiatic	hala1252	decimal		Mamta Kumari	
 numerals-hooo1248-1	Ho, India	Austroasiatic	hooo1248	vigesimal		Mamta Kumari	
@@ -155,7 +150,6 @@ numerals-paco1243-1	Pacoh, Vietnam	Austroasiatic	paco1243	decimal		Mamta Kumari	
 numerals-para1301-1	Parauk Wa, Myanmar, China	Austroasiatic	para1301	decimal		Mamta Kumari	
 numerals-para1301-2	Parauk Wa (Nam La), China, Myanmar	Austroasiatic	para1301	decimal		Mamta Kumari	
 numerals-para1301-3	Parauk Wa, China	Austroasiatic	para1301	decimal		Mamta Kumari	
-numerals-pare1266-1	Gorum (Parengi), India	Austroasiatic	pare1266	parallel		Mamta Kumari	
 numerals-pear1247-1	Pear, Cambodia	Austroasiatic	pear1247	mixed		Mamta Kumari	This system is mixed with Quinary-Decimal.
 numerals-phai1238-1	Prai, Thailand, Laos	Austroasiatic	phai1238	decimal		Mamta Kumari	
 numerals-pnar1238-1	Pnar (Synteng), Assam, India	Austroasiatic	pnar1238	decimal		Mamta Kumari	
@@ -169,7 +163,6 @@ numerals-ruch1235-1	Pale Palaung (De'ang), China	Austroasiatic	ruch1235	decimal	
 numerals-ruch1235-2	Shwe Palaung (De'ang), China	Austroasiatic	ruch1235	decimal		Mamta Kumari	
 numerals-sabu1253-1	Sabüm, Malaya Peninsula	Austroasiatic	sabu1253	decimal		Mamta Kumari	
 numerals-samt1238-1	Samtao, Myanmar, Thailand	Austroasiatic	samt1238	decimal		Mamta Kumari	
-numerals-sant1410-1	Santali, India	Austroasiatic	sant1410	parallel		Mamta Kumari	Decimal and vigesimal, both co-exists.
 numerals-sapu1248-1	Sapuan, Laos	Austroasiatic	sapu1248	decimal		Mamta Kumari	
 numerals-seda1262-1	Sedang, Vietnam	Austroasiatic	seda1262	decimal		Mamta Kumari	
 numerals-sema1265-1	Semaq Beri, Malaya Peninsula	Austroasiatic	sema1265	decimal		Mamta Kumari	
@@ -205,835 +198,825 @@ numerals-warj1242-3	War (Thangbuli Amwi), India, Bangladesh	Austroasiatic	warj12
 numerals-warj1242-4	War (Kudeng Nongbareh-Nongtalang), Assam, India, Bangladesh	Austroasiatic	warj1242	decimal		Mamta Kumari	
 numerals-west2396-1	Western Lawa, Thailand, China	Austroasiatic	west2396	decimal		Mamta Kumari	
 numerals-yinc1238-1	Yinchia, Myanmar	Austroasiatic	yinc1238	decimal		Mamta Kumari	
-numerals-abar1238-1	Mungbam (Abar), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	NA
-numerals-abar1238-2	Mungbam (Missong), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	NA
-numerals-abar1238-3	Mungbam (Munken), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	NA
-numerals-abar1238-4	Mungbam (Biya), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	NA
-numerals-abee1242-1	Abé (Abbey), Côte d'Ivoire	Atlantic-Congo	abee1242	decimal		Enock Appiah Tieku	NA
-numerals-abid1235-1	Abidji, Côte d'Ivoire	Atlantic-Congo	abid1235	decimal		Enock Appiah Tieku	NA
-numerals-abro1238-1	Abron, Ghana, Côte d'Ivoire	Atlantic-Congo	abro1238	decimal		Enock Appiah Tieku	NA
-numerals-abua1244-1	Abuan, Nigeria	Atlantic-Congo	abua1244	decimal		Enock Appiah Tieku	NA
-numerals-abur1243-1	Abouré (Abure), Côte d'Ivoire	Atlantic-Congo	abur1243	decimal		Enock Appiah Tieku	NA
-numerals-adam1253-1	Adamawa Fulfulde, Cameroon	Atlantic-Congo	adam1253	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-adan1247-1	Dangme, Ghana	Atlantic-Congo	adan1247	decimal		Enock Appiah Tieku	NA
-numerals-adan1248-1	Adangbe, Ghana and Togo	Atlantic-Congo	adan1248	decimal		Enock Appiah Tieku	NA
-numerals-adel1244-1	Adele, Togo, Ghana	Atlantic-Congo	adel1244	vigesimal		Enock Appiah Tieku	NA
-numerals-adio1239-1	Adioukrou, Côte d'Ivoire	Atlantic-Congo	adio1239	vigesimal		Enock Appiah Tieku	NA
-numerals-agat1236-1	Agatu, Nigeria	Atlantic-Congo	agat1236	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-aghe1239-1	Aghem, Cameroon	Atlantic-Congo	aghe1239	decimal		Enock Appiah Tieku	NA
-numerals-agwa1247-1	Agwagwune, Nigeria	Atlantic-Congo	agwa1247	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ahan1243-1	Ahanta, Ghana	Atlantic-Congo	ahan1243	decimal		Enock Appiah Tieku	NA
-numerals-ajab1235-1	Aja-Gbe (Aja), Togo, Benin	Atlantic-Congo	ajab1235	mixed		Enock Appiah Tieku	NA
-numerals-akan1250-1	Akan (Akuapem Twi), Ghana	Atlantic-Congo	akan1250	decimal		Enock Appiah Tieku	NA
-numerals-akan1250-2	Akan, Ghana	Atlantic-Congo	akan1250	decimal		Enock Appiah Tieku	NA
-numerals-akas1242-1	Akaselem, Togo	Atlantic-Congo	akas1242	vigesimal		Enock Appiah Tieku	NA
-numerals-akeb1238-1	Akebu, Togo	Atlantic-Congo	akeb1238	decimal		Enock Appiah Tieku	NA
-numerals-akeb1238-2	Akebu, Togo	Atlantic-Congo	akeb1238	decimal		Enock Appiah Tieku	NA
-numerals-akoo1248-1	Akoose (Bakoose), Cameroon	Atlantic-Congo	akoo1248	decimal		Enock Appiah Tieku	NA
-numerals-akpe1248-1	Akpes, Nigeria	Atlantic-Congo	akpe1248	decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-akum1238-1	Akum, Cameroon	Atlantic-Congo	akum1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-akwa1248-1	Akwa, DR of the Congo	Atlantic-Congo	akwa1248	decimal		Enock Appiah Tieku	NA
-numerals-alag1242-1	Alago, Nigeria	Atlantic-Congo	alag1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-alla1248-1	Alladian, Lagunes, Côte d'Ivoire	Atlantic-Congo	alla1248	vigesimal		Enock Appiah Tieku	NA
-numerals-alum1246-1	Alumu-Tesu, Nasarawa State, Nigeria	Atlantic-Congo	alum1246	decimal		Enock Appiah Tieku	NA
-numerals-amba1263-1	Kwamba (Amba), Uganda, DR of the Congo	Atlantic-Congo	amba1263	vigesimal		Enock Appiah Tieku	NA
-numerals-anaa1238-1	Anaang, Nigeria	Atlantic-Congo	anaa1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-anuf1239-1	Anufo, Ghana, Togo, Benin	Atlantic-Congo	anuf1239	decimal		Enock Appiah Tieku	NA
-numerals-anyi1245-1	Anyin, Côte d'Ivoire, Ghana	Atlantic-Congo	anyi1245	decimal		Enock Appiah Tieku	NA
-numerals-asut1235-1	Asu (Pare), Tanzania	Atlantic-Congo	asut1235	decimal		Enock Appiah Tieku	NA
-numerals-atti1239-1	Attié, Côte d'Ivoire	Atlantic-Congo	atti1239	decimal		Enock Appiah Tieku	NA
-numerals-avat1244-1	Avatime, Ghana	Atlantic-Congo	avat1244	decimal		Enock Appiah Tieku	NA
-numerals-avik1243-1	Avikam, Lagunes, Côte d'Ivoire	Atlantic-Congo	avik1243	vigesimal		Enock Appiah Tieku	NA
-numerals-awak1250-1	Awak, Nigeria	Atlantic-Congo	awak1250	decimal		Enock Appiah Tieku	NA
-numerals-awak1250-2	Awak, Nigeria	Atlantic-Congo	awak1250	decimal		Enock Appiah Tieku	NA
-numerals-awin1248-1	Awing, Cameroon	Atlantic-Congo	awin1248	decimal		Enock Appiah Tieku	NA
-numerals-awin1248-2	Awing, Cameroon	Atlantic-Congo	awin1248	decimal		Enock Appiah Tieku	NA
-numerals-awut1241-1	Awutu (Awutu-Efutu), Ghana	Atlantic-Congo	awut1241	decimal		Enock Appiah Tieku	NA
-numerals-ayer1245-1	Ayere (Úwû), Nigeria	Atlantic-Congo	ayer1245	vigesimal		Enock Appiah Tieku	NA
-numerals-ayuu1242-1	Ayu, Nigeria	Atlantic-Congo	ayuu1242	decimal		Enock Appiah Tieku	NA
-numerals-baat1238-2	Baatonum, Benin, Nigeria	Atlantic-Congo	baat1238	mixed		Enock Appiah Tieku	NA
-numerals-baba1264-1	Baba1 (Papia), Cameroon	Atlantic-Congo	baba1264	decimal		Enock Appiah Tieku	NA
-numerals-baba1264-2	Baba (Papia), Cameroon	Atlantic-Congo	baba1264	decimal		Enock Appiah Tieku	NA
-numerals-baba1266-1	Babanki (Kejom), Cameroon	Atlantic-Congo	baba1266	decimal		Enock Appiah Tieku	NA
-numerals-bada1258-1	Bada, Nigeria	Atlantic-Congo	bada1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-bady1239-1	Badyara, Senegal, Guinea	Atlantic-Congo	bady1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-bafa1249-1	Bafanji, Cameroon	Atlantic-Congo	bafa1249	decimal		Enock Appiah Tieku	NA
-numerals-bafi1243-1	Bafia (Kpa), Cameroon	Atlantic-Congo	bafi1243	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bafu1246-1	Bafut, Cameroon	Atlantic-Congo	bafu1246	decimal		Enock Appiah Tieku	NA
-numerals-bafu1246-2	Bafut, Cameroon	Atlantic-Congo	bafu1246	decimal		Enock Appiah Tieku	NA
-numerals-baga1270-1	Baga Mandori, Guinea	Atlantic-Congo	baga1270	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-baga1272-1	Baga Sitemu, Guinea	Atlantic-Congo	baga1272	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-bago1245-1	Bago-Kusuntu, Togo	Atlantic-Congo	bago1245	vigesimal		Enock Appiah Tieku	NA
-numerals-bain1261-1	Baïnounk Gubëeher, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bain1261-2	Gunyaamolo Banyun, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bain1261-3	Gunyaamolo Banyun, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-baka1272-1	Baka, Cameroon	Atlantic-Congo	baka1272	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-baka1273-1	Bakaka (Mkaa), Cameroon	Atlantic-Congo	baka1273	decimal		Enock Appiah Tieku	NA
-numerals-bako1249-1	Bakoko, Cameroon	Atlantic-Congo	bako1249	decimal		Enock Appiah Tieku	NA
-numerals-bala1301-1	Balanta-Kentohe, Guinea-Bissau	Atlantic-Congo	bala1301	decimal		Enock Appiah Tieku	NA
-numerals-bala1302-1	Balanta-Ganja, Senegal	Atlantic-Congo	bala1302	decimal		Enock Appiah Tieku	NA
-numerals-bali1245-1	Bali (Maya), Nigeria	Atlantic-Congo	bali1245	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bali1274-1	Bali (Kibali), DR of the Congo	Atlantic-Congo	bali1274	decimal		Enock Appiah Tieku	NA
-numerals-bama1251-1	Bamali (Papia), Cameroon	Atlantic-Congo	bama1251	decimal		Enock Appiah Tieku	NA
-numerals-bamb1265-1	Bambalang, Cameroon	Atlantic-Congo	bamb1265	decimal		Enock Appiah Tieku	NA
-numerals-bamb1266-1	Bambili-Bambui, Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	NA
-numerals-bamb1266-2	Bambili-Bambui, Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	NA
-numerals-bamb1266-3	Mbəkum (Mankon), Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	NA
-numerals-bamb1266-4	Ngemba (Mankon), Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	NA
-numerals-bamu1253-1	Bamun (Shupamen), Cameroon	Atlantic-Congo	bamu1253	decimal		Enock Appiah Tieku	NA
-numerals-bamu1253-2	Bamun (Bamum), Cameroon	Atlantic-Congo	bamu1253	decimal		Enock Appiah Tieku	NA
-numerals-bamu1254-1	Bamukumbit, Cameroon	Atlantic-Congo	bamu1254	decimal		Enock Appiah Tieku	NA
-numerals-bamu1256-1	Bamunka, Cameroon	Atlantic-Congo	bamu1256	decimal		Enock Appiah Tieku	NA
-numerals-bamu1256-2	Bamunka, Cameroon	Atlantic-Congo	bamu1256	decimal		Enock Appiah Tieku	NA
-numerals-bamw1238-1	Bamwe (Libóbi), DR of the Congo	Atlantic-Congo	bamw1238	decimal		Enock Appiah Tieku	NA
-numerals-band1340-1	Bandial, Senegal	Atlantic-Congo	band1340	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-band1344-1	Banda-Linda, CAR	Atlantic-Congo	band1344	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-band1344-2	Banda-Linda, CAR	Atlantic-Congo	band1344	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bang1348-2	Bangunji (Bangwinji), Nigeria	Atlantic-Congo	bang1348	decimal		Enock Appiah Tieku	NA
-numerals-bang1350-1	Bangubangu, DR of the Congo	Atlantic-Congo	bang1350	decimal		Enock Appiah Tieku	NA
-numerals-bang1353-1	Bangala, DR of the Congo	Atlantic-Congo	bang1353	vigesimal		Enock Appiah Tieku	NA
-numerals-bang1356-1	Bangolan, Cameroon	Atlantic-Congo	bang1356	decimal		Enock Appiah Tieku	NA
-numerals-bank1256-1	Bankon (Abo), Cameroon	Atlantic-Congo	bank1256	decimal		Enock Appiah Tieku	NA
-numerals-baou1238-1	Baule (Baoulé), Côte d'Ivoire	Atlantic-Congo	baou1238	decimal		Enock Appiah Tieku	NA
-numerals-bara1362-1	Barama (Gibarama), Gabon	Atlantic-Congo	bara1362	decimal		Enock Appiah Tieku	NA
-numerals-baro1252-1	Barombi, Cameroon	Atlantic-Congo	baro1252	decimal		Enock Appiah Tieku	NA
-numerals-basa1284-1	Bassa, Cameroon	Atlantic-Congo	basa1284	decimal		Enock Appiah Tieku	NA
-numerals-bass1258-1	Oniyan (Bassari), Senegal	Atlantic-Congo	bass1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-bata1285-1	Batanga, Cameroon, Equatorial Guinea	Atlantic-Congo	bata1285	decimal		Enock Appiah Tieku	NA
-numerals-bati1251-1	Bati, Cameroon	Atlantic-Congo	bati1251	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bayo1255-1	Bayot, Guinea-Bissau	Atlantic-Congo	bayo1255	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bayo1255-2	Bayot, Senegal	Atlantic-Congo	bayo1255	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bebe1248-1	Bebele (Bə̀mbələ̀), Cameroon	Atlantic-Congo	bebe1248	decimal		Enock Appiah Tieku	NA
-numerals-bebe1250-1	Bebe (Naami), Cameroon	Atlantic-Congo	bebe1250	decimal		Enock Appiah Tieku	NA
-numerals-bebi1242-1	Bebil, Cameroon	Atlantic-Congo	bebi1242	decimal		Enock Appiah Tieku	NA
-numerals-bedi1235-1	Ménik (Budik), Senegal	Atlantic-Congo	bedi1235	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-beem1239-1	Beembe, Congo	Atlantic-Congo	beem1239	decimal		Enock Appiah Tieku	NA
-numerals-beez1238-1	Beezen (Bɛ̀zɛ̀n), Cameroon	Atlantic-Congo	beez1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bekw1241-1	Bekwarra, Nigeria	Atlantic-Congo	bekw1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bekw1242-1	Bekwil, Cameroon, Congo	Atlantic-Congo	bekw1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-bela1255-1	Belanda Viri, Sudan	Atlantic-Congo	bela1255	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bemb1257-1	Bemba, Zambia, DR of the Congo	Atlantic-Congo	bemb1257	? AND decimal		Enock Appiah Tieku	NA
-numerals-bena1262-1	Bena, Tanzania	Atlantic-Congo	bena1262	decimal		Enock Appiah Tieku	NA
-numerals-bena1262-2	Bena, Tanzania	Atlantic-Congo	bena1262	decimal		Enock Appiah Tieku	NA
-numerals-bend1258-1	Bende-Tongwe, Tanzania	Atlantic-Congo	bend1258	decimal		Enock Appiah Tieku	NA
-numerals-bend1258-2	Bende, Tanzania	Atlantic-Congo	bend1258	decimal		Enock Appiah Tieku	NA
-numerals-beng1282-1	Benga, Equatorial Guinea, Gabon	Atlantic-Congo	beng1282	decimal		Enock Appiah Tieku	NA
-numerals-bera1259-2	Bera (Bira), DR of the Congo	Atlantic-Congo	bera1259	decimal		Enock Appiah Tieku	NA
-numerals-bero1242-1	Berom (Birom), Nigeria	Atlantic-Congo	bero1242	duodecimal		Enock Appiah Tieku	NA
-numerals-besm1235-1	Besme, Chad	Atlantic-Congo	besm1235	decimal		Enock Appiah Tieku	NA
-numerals-bete1261-1	Bete, Nigeria	Atlantic-Congo	bete1261	quinary		Enock Appiah Tieku	NA
-numerals-bete1262-1	Bete-Bendi (Bə̀ttə́), Nigeria	Atlantic-Congo	bete1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bete1262-2	Bete-Bendi (Bette), Nigeria	Atlantic-Congo	bete1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-beti1249-1	Beti, Cameroon	Atlantic-Congo	beti1249	decimal		Enock Appiah Tieku	NA
-numerals-bhel1238-1	Bhele (Pere), DR of the Congo	Atlantic-Congo	bhel1238	decimal		Enock Appiah Tieku	NA
-numerals-biaf1240-2	Biafada, Guinea-Bissau	Atlantic-Congo	biaf1240	decimal		Enock Appiah Tieku	NA
-numerals-bial1238-1	Biali, Benin, Burkina Faso	Atlantic-Congo	bial1238	decimal		Enock Appiah Tieku	NA
-numerals-bidy1244-1	Bijago (Bijogo), Guinea-Bissau	Atlantic-Congo	bidy1244	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bila1255-1	Bila, DR of the Congo	Atlantic-Congo	bila1255	decimal		Enock Appiah Tieku	NA
-numerals-binj1249-1	ciBinji, DR of the Congo	Atlantic-Congo	binj1249	decimal		Enock Appiah Tieku	NA
-numerals-birw1238-1	Birwa (Sebirwa), Botswana	Atlantic-Congo	birw1238	decimal		Enock Appiah Tieku	NA
-numerals-boko1261-1	Bokoto, CAR	Atlantic-Congo	boko1261	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-boky1238-1	Bokyi, Cross River State, Nigeria	Atlantic-Congo	boky1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bolo1263-1	Bolondó, DR of the Congo	Atlantic-Congo	bolo1263	decimal		Enock Appiah Tieku	NA
-numerals-bomw1238-1	Bomwali, Cameroon, Congo	Atlantic-Congo	bomw1238	decimal		Enock Appiah Tieku	NA
-numerals-bond1246-1	Kulango, Ghana, Côte d'Ivoire	Atlantic-Congo	bond1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bond1246-2	Kulango, Ghana, Côte d'Ivoire	Atlantic-Congo	bond1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bond1247-1	Bondei, Tanzania	Atlantic-Congo	bond1247	decimal		Enock Appiah Tieku	NA
-numerals-bong1284-2	Bongili, DR of the Congo	Atlantic-Congo	bong1284	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-boun1243-1	Bouna Kulango, Côte d'Ivoire	Atlantic-Congo	boun1243	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-buam1238-1	Buamu, Burkina Faso	Atlantic-Congo	buam1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-budu1250-1	Budu, DR of the Congo	Atlantic-Congo	budu1250	decimal		Enock Appiah Tieku	NA
-numerals-budz1238-1	Budza (Mbuza), DR of the Congo	Atlantic-Congo	budz1238	decimal		Enock Appiah Tieku	NA
-numerals-buli1254-1	Buli, Ghana	Atlantic-Congo	buli1254	decimal		Enock Appiah Tieku	NA
-numerals-bull1247-1	Bullom So( Mani), Sierra Leone	Atlantic-Congo	bull1247	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-bumm1238-1	Bum, Cameroon	Atlantic-Congo	bumm1238	decimal		Enock Appiah Tieku	NA
-numerals-bura1271-1	Burak, Nigeria	Atlantic-Congo	bura1271	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-bush1247-1	Bushong, DR of the Congo	Atlantic-Congo	bush1247	decimal		Enock Appiah Tieku	NA
-numerals-buuu1244-1	Bu, Nassarawa state, Nigeria	Atlantic-Congo	buuu1244	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-byep1241-1	Byep, Cameroon	Atlantic-Congo	byep1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-came1252-1	Cameroon Mambila, Cameroon	Atlantic-Congo	came1252	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ceba1235-1	Cebaara Senoufo, Côte d'Ivoire	Atlantic-Congo	ceba1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-cent2018-1	CE Niger Fulfulde, Niger	Atlantic-Congo	cent2018	quinary AND ?		Enock Appiah Tieku	NA
-numerals-cent2018-2	Eastern Niger Fulfulde, Niger	Atlantic-Congo	cent2018	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-cerm1238-1	Cerma (Kirma), Burkina Faso	Atlantic-Congo	cerm1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-chak1271-1	Chakali, Ghana	Atlantic-Congo	chak1271	vigesimal		Enock Appiah Tieku	NA
-numerals-chee1238-1	Rukuba (Che), Nigeria	Atlantic-Congo	chee1238	quinary AND duodecimal		Enock Appiah Tieku	NA
-numerals-cher1271-1	Cherepon, Ghana	Atlantic-Congo	cher1271	decimal		Enock Appiah Tieku	NA
-numerals-chig1238-1	Chiga, Uganda	Atlantic-Congo	chig1238	decimal		Enock Appiah Tieku	NA
-numerals-chok1245-1	Chokwe, Angola, Zambia	Atlantic-Congo	chok1245	? AND decimal		Enock Appiah Tieku	NA
-numerals-chop1243-1	Chopi, Mozambique	Atlantic-Congo	chop1243	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-chop1243-2	Chopi, Mozambique	Atlantic-Congo	chop1243	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-chuk1274-1	Chuka (Gichuka), Kenya	Atlantic-Congo	chuk1274	? AND decimal		Enock Appiah Tieku	NA
-numerals-chum1261-1	Chumburung, Ghana	Atlantic-Congo	chum1261	? AND decimal		Enock Appiah Tieku	NA
-numerals-chuw1238-1	Chuwabu, Mozambique	Atlantic-Congo	chuw1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-cici1237-1	Western Acipa (Cicipu), Nigeria	Atlantic-Congo	cici1237	? AND decimal		Enock Appiah Tieku	NA
-numerals-cind1241-1	Cinda (Kamuku), Nigeria	Atlantic-Congo	cind1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-clel1238-1	C'lela, Nigeria	Atlantic-Congo	clel1238	vigesimal		Enock Appiah Tieku	NA
-numerals-como1258-1	Karimjo (Khiyu), Nigeria	Atlantic-Congo	como1258	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-cros1244-1	Leggbo, Nigeria	Atlantic-Congo	cros1244	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-cros1244-2	Mbembe (Cross River), Nigeria	Atlantic-Congo	cros1244	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-cung1238-1	Cung (Mbuk), Cameroon	Atlantic-Congo	cung1238	decimal		Enock Appiah Tieku	NA
-numerals-cung1238-2	Cung (Chung), Cameroon	Atlantic-Congo	cung1238	decimal		Enock Appiah Tieku	NA
-numerals-cwib1235-1	Cwi Bwamu, Burkina Faso	Atlantic-Congo	cwib1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-dadi1249-1	Dadiya, Nigeria	Atlantic-Congo	dadi1249	decimal		Enock Appiah Tieku	NA
-numerals-dagb1246-1	Dagbani (Dagomba), Ghana	Atlantic-Congo	dagb1246	decimal		Enock Appiah Tieku	NA
-numerals-dayy1236-1	Day (Buna dialect), Chad	Atlantic-Congo	dayy1236	decimal		Enock Appiah Tieku	NA
-numerals-dege1246-1	Degema, Nigeria	Atlantic-Congo	dege1246	vigesimal		Enock Appiah Tieku	NA
-numerals-degg1238-1	Deg (Degha), Ghana	Atlantic-Congo	degg1238	decimal		Enock Appiah Tieku	NA
-numerals-delo1240-1	Delo, Ghana, Togo	Atlantic-Congo	delo1240	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-deng1250-1	Ndengese, DR of the Congo	Atlantic-Congo	deng1250	decimal		Enock Appiah Tieku	NA
-numerals-deny1238-1	Denya, Cameroon	Atlantic-Congo	deny1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-diji1241-1	Dijim-Bwilim, Nigeria	Atlantic-Congo	diji1241	decimal		Enock Appiah Tieku	NA
-numerals-ding1239-1	Ding, DR of the Congo	Atlantic-Congo	ding1239	decimal		Enock Appiah Tieku	NA
-numerals-diri1252-1	Diriku (RuGciriku), Namibia	Atlantic-Congo	diri1252	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-dita1238-1	Ditammari, Benin, Togo	Atlantic-Congo	dita1238	decimal		Enock Appiah Tieku	NA
-numerals-dita1238-2	Ditammari, Benin, Togo	Atlantic-Congo	dita1238	decimal		Enock Appiah Tieku	NA
-numerals-djim1235-1	Djimini Senoufo, Côte d'Ivoire	Atlantic-Congo	djim1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-dogo1295-1	Dogosé, Burkina Faso	Atlantic-Congo	dogo1295	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-domp1238-1	Dompo, Bono Region, Ghana	Atlantic-Congo	domp1238	vigesimal		Enock Appiah Tieku	NA
-numerals-dong1290-1	Dongo, DR of the Congo	Atlantic-Congo	dong1290	decimal		Enock Appiah Tieku	NA
-numerals-doon1238-1	Doondo, DR of the Congo	Atlantic-Congo	doon1238	decimal		Enock Appiah Tieku	NA
-numerals-doya1240-1	Doyayo, Cameroon	Atlantic-Congo	doya1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-dual1243-1	Duala, Cameroon	Atlantic-Congo	dual1243	decimal		Enock Appiah Tieku	NA
-numerals-dugu1248-1	Dugun, Cameroon	Atlantic-Congo	dugu1248	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-duma1253-1	Duma, Gabon	Atlantic-Congo	duma1253	? AND decimal		Enock Appiah Tieku	NA
-numerals-duru1249-1	Duruma, Kenya	Atlantic-Congo	duru1249	? AND decimal		Enock Appiah Tieku	NA
-numerals-duup1238-1	Duupa (Papé), Cameroon	Atlantic-Congo	duup1238	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-dwan1238-1	Dwang (Bekye), Ghana	Atlantic-Congo	dwan1238	decimal		Enock Appiah Tieku	NA
-numerals-dyan1251-1	Dyan, Burkina Faso	Atlantic-Congo	dyan1251	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-dyan1251-2	Dyan, Burkina Faso	Atlantic-Congo	dyan1251	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-dzaa1238-1	Jenjo (Dza), Nigeria	Atlantic-Congo	dzaa1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-east2387-1	East Limba, Sierra Leone, Guinea	Atlantic-Congo	east2387	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-east2398-1	Eastern Karaboro, Burkina Faso	Atlantic-Congo	east2398	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-east2398-2	Eastern Karaboro, Burkina Faso	Atlantic-Congo	east2398	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-ebir1243-1	Ebira, Nigeria	Atlantic-Congo	ebir1243	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ebug1241-1	Ebughu, Nigeria	Atlantic-Congo	ebug1241	quinary		Enock Appiah Tieku	NA
-numerals-edec1238-1	Cabe (Ede Cabe), Benin	Atlantic-Congo	edec1238	mixed		Enock Appiah Tieku	NA
-numerals-edei1244-1	Idaca (Ede Idaca), Benin	Atlantic-Congo	edei1244	decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-edei1246-1	Ede Ica (Ica), Benin	Atlantic-Congo	edei1246	decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-efai1241-1	Efai, Nigeria	Atlantic-Congo	efai1241	mixed		Enock Appiah Tieku	NA
-numerals-efik1245-1	Efik, Nigeria	Atlantic-Congo	efik1245	mixed		Enock Appiah Tieku	NA
-numerals-eggo1239-1	Eggon, Nigeria	Atlantic-Congo	eggo1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-eggo1239-2	Eggon, Nigeria	Atlantic-Congo	eggo1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ejag1239-1	Ejagham, Cameroon	Atlantic-Congo	ejag1239	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ekaj1238-1	Ekajuk, Nigeria	Atlantic-Congo	ekaj1238	vigesimal		Enock Appiah Tieku	NA
-numerals-ekpe1253-1	Ekpeye, Nigeria	Atlantic-Congo	ekpe1253	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-elem1253-1	Eleme, Nigeria	Atlantic-Congo	elem1253	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-elip1238-1	Nulibie (Elip), Cameroon	Atlantic-Congo	elip1238	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-eloy1241-1	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-eloy1241-2	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	decimal		Enock Appiah Tieku	NA
-numerals-eloy1241-3	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	decimal		Enock Appiah Tieku	NA
-numerals-emai1241-1	Emai (Emai-luleha-Ora ), Nigeria	Atlantic-Congo	emai1241	vigesimal		Enock Appiah Tieku	NA
-numerals-embu1241-1	Embu, Kenya	Atlantic-Congo	embu1241	decimal		Enock Appiah Tieku	NA
-numerals-enge1239-1	Engenni, Nigeria	Atlantic-Congo	enge1239	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-esan1238-1	Esan, Nigeria	Atlantic-Congo	esan1238	decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-esim1238-1	Esimbi, Cameroon, Nigeria	Atlantic-Congo	esim1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-esim1238-2	Esimbi, Cameroon, Nigeria	Atlantic-Congo	esim1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-eten1239-1	Aten (Eten), Nigeria	Atlantic-Congo	eten1239	duodecimal		Enock Appiah Tieku	NA
-numerals-eton1253-1	Eton, Cameroon	Atlantic-Congo	eton1253	decimal		Enock Appiah Tieku	NA
-numerals-etul1245-1	Etulo, Nigeria	Atlantic-Congo	etul1245	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ewee1241-1	Éwé, Togo, Ghana	Atlantic-Congo	ewee1241	decimal		Enock Appiah Tieku	NA
-numerals-ewon1239-1	Ewondo, Cameroon	Atlantic-Congo	ewon1239	decimal		Enock Appiah Tieku	NA
-numerals-fali1264-1	South Fali (Fali-Tinguelin), Cameroon	Atlantic-Congo	fali1264	? AND decimal		Enock Appiah Tieku	NA
-numerals-fali1264-2	South Fali, Cameroon	Atlantic-Congo	fali1264	decimal		Enock Appiah Tieku	NA
-numerals-fang1246-1	Fang, Gabon, Cameroon, Equatorial Guinea	Atlantic-Congo	fang1246	decimal		Enock Appiah Tieku	NA
-numerals-fang1246-2	Fang, Gabon, Cameroon, Equatorial Guinea	Atlantic-Congo	fang1246	decimal		Enock Appiah Tieku	NA
-numerals-fare1241-1	Farefare, Burkina Faso, Ghana	Atlantic-Congo	fare1241	decimal		Enock Appiah Tieku	NA
-numerals-fonn1241-1	Fon-Gbe (Fon), Togo, Benin	Atlantic-Congo	fonn1241	quinary AND quadragesimal		Enock Appiah Tieku	NA
-numerals-food1238-1	Foodo, Benin	Atlantic-Congo	food1238	vigesimal		Enock Appiah Tieku	NA
-numerals-fuli1240-1	Fuliiru, DR of the Congo	Atlantic-Congo	fuli1240	decimal		Enock Appiah Tieku	NA
-numerals-fung1245-1	Fungwa (Cifungwa), Nigeria	Atlantic-Congo	fung1245	decimal		Enock Appiah Tieku	NA
-numerals-fyam1238-1	Fyam (Pyem), Nigeria	Atlantic-Congo	fyam1238	decimal		Enock Appiah Tieku	NA
-numerals-gaaa1244-1	Ga, Ghana	Atlantic-Congo	gaaa1244	decimal		Enock Appiah Tieku	NA
-numerals-gban1258-1	Gbanzili, CAR, DR of the Congo	Atlantic-Congo	gban1258	decimal		Enock Appiah Tieku	NA
-numerals-gban1260-1	Gbanu, CAR	Atlantic-Congo	gban1260	decimal		Enock Appiah Tieku	NA
-numerals-gbar1246-1	Gbari, Nigeria	Atlantic-Congo	gbar1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-gbay1281-1	Gbaya Mbodomo, Cameroon	Atlantic-Congo	gbay1281	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-gbay1287-1	Bossangoa Gbaya, CAR	Atlantic-Congo	gbay1287	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-gbir1241-1	Gure (Gbiri-Niraɡu), Kaduna, Nigeria	Atlantic-Congo	gbir1241	duodecimal		Enock Appiah Tieku	NA
-numerals-genn1243-1	Gen-Gbe (Gen), Togo, Benin	Atlantic-Congo	genn1243	mixed		Enock Appiah Tieku	NA
-numerals-ghom1247-1	Ghomala, Cameroon	Atlantic-Congo	ghom1247	decimal		Enock Appiah Tieku	NA
-numerals-ghot1243-1	Ghotuo, Nigeria	Atlantic-Congo	ghot1243	vigesimal		Enock Appiah Tieku	NA
-numerals-gimm1241-1	Gimme (Gəmme), Cameroon	Atlantic-Congo	gimm1241	vigesimal		Enock Appiah Tieku	NA
-numerals-gimm1241-2	Gimme (Kampara), Cameroon	Atlantic-Congo	gimm1241	decimal		Enock Appiah Tieku	NA
-numerals-giny1241-1	Ginyanga, Togo	Atlantic-Congo	giny1241	vigesimal		Enock Appiah Tieku	NA
-numerals-giry1241-1	Giryama, Kenya	Atlantic-Congo	giry1241	decimal		Enock Appiah Tieku	NA
-numerals-gito1238-1	Gitonga, Mozambique	Atlantic-Congo	gito1238	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-gito1238-2	Gitonga, Mozambique	Atlantic-Congo	gito1238	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-gogo1263-1	Gogo (Kigogo), Tanzania	Atlantic-Congo	gogo1263	decimal		Enock Appiah Tieku	NA
-numerals-goka1239-1	Gokana, Nigeria	Atlantic-Congo	goka1239	vigesimal		Enock Appiah Tieku	NA
-numerals-gola1255-1	Gola, Liberia, Sierra Leone	Atlantic-Congo	gola1255	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-gonj1241-1	Gonja, Ghana	Atlantic-Congo	gonj1241	decimal		Enock Appiah Tieku	NA
-numerals-gour1243-1	Gurma, Burkina Faso, Benin	Atlantic-Congo	gour1243	decimal		Enock Appiah Tieku	NA
-numerals-guaa1238-1	Gua, Ghana	Atlantic-Congo	guaa1238	decimal		Enock Appiah Tieku	NA
-numerals-gusi1246-1	Gusilay, Senegal	Atlantic-Congo	gusi1246	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-gusi1247-1	Gusii (Kisii), Kenya	Atlantic-Congo	gusi1247	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-gwen1239-1	Gweno, Tanzania	Atlantic-Congo	gwen1239	decimal		Enock Appiah Tieku	NA
-numerals-gwer1238-1	Gwere (Lugwere), Uganda	Atlantic-Congo	gwer1238	decimal		Enock Appiah Tieku	NA
-numerals-gyel1242-1	Gyele (Gyeli / Bakola), Cameroon	Atlantic-Congo	gyel1242	decimal		Enock Appiah Tieku	NA
-numerals-gyel1242-2	Gyele (Bakola), Cameroon	Atlantic-Congo	gyel1242	decimal		Enock Appiah Tieku	NA
-numerals-haaa1252-1	Ha (Kiha), Tanzania	Atlantic-Congo	haaa1252	decimal		Enock Appiah Tieku	NA
-numerals-hang1258-1	Hanga, Ghana	Atlantic-Congo	hang1258	decimal		Enock Appiah Tieku	NA
-numerals-haya1250-1	Haya, Tanzania	Atlantic-Congo	haya1250	decimal		Enock Appiah Tieku	NA
-numerals-hehe1240-1	Hehe, Tanzania	Atlantic-Congo	hehe1240	decimal		Enock Appiah Tieku	NA
-numerals-here1253-1	Otjiherero, Namibia, Botswana	Atlantic-Congo	here1253	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-here1253-2	Herero, Namibia, Botswana	Atlantic-Congo	here1253	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-hiju1238-1	Hijuk, Cameroon	Atlantic-Congo	hiju1238	decimal		Enock Appiah Tieku	NA
-numerals-hung1276-1	Hungworo (Cahungwarya), Niger state, Nigeria	Atlantic-Congo	hung1276	decimal		Enock Appiah Tieku	NA
-numerals-hung1276-2	Hungworo (Cahungwarya), Niger state, Nigeria	Atlantic-Congo	hung1276	decimal		Enock Appiah Tieku	NA
-numerals-hung1278-1	Hungana, DR of the Congo	Atlantic-Congo	hung1278	decimal		Enock Appiah Tieku	NA
-numerals-huns1239-1	Hun-Saare(Duka), Nigeria	Atlantic-Congo	huns1239	vigesimal		Enock Appiah Tieku	NA
-numerals-hyam1245-1	Hyam (Jabba), Nigeria	Atlantic-Congo	hyam1245	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ibib1240-1	Ibibio, Nigeria	Atlantic-Congo	ibib1240	mixed		Enock Appiah Tieku	NA
-numerals-idak1243-1	Idakho-Isukha-Tiriki, Kenya	Atlantic-Congo	idak1243	decimal		Enock Appiah Tieku	NA
-numerals-idom1241-1	Idoma, Nigeria	Atlantic-Congo	idom1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ifee1241-1	Ifè, Togo, Benin	Atlantic-Congo	ifee1241	vigesimal		Enock Appiah Tieku	NA
-numerals-ifee1241-2	Ifè, Togo, Benin	Atlantic-Congo	ifee1241	vigesimal		Enock Appiah Tieku	NA
-numerals-igal1242-1	Igala, Nigeria	Atlantic-Congo	igal1242	vigesimal		Enock Appiah Tieku	NA
-numerals-igal1242-2	Igala, Nigeria	Atlantic-Congo	igal1242	vigesimal		Enock Appiah Tieku	NA
-numerals-igas1238-1	Ariɡidi (Iɡasi), Nigeria	Atlantic-Congo	igas1238	vigesimal		Enock Appiah Tieku	NA
-numerals-iged1239-1	Igede, Nigeria	Atlantic-Congo	iged1239	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-igut1238-1	Anaguta (Iguta), Nigeria	Atlantic-Congo	igut1238	duodecimal		Enock Appiah Tieku	NA
-numerals-ikom1245-1	Ikoma-Nata-Isenye, Tanzania	Atlantic-Congo	ikom1245	decimal		Enock Appiah Tieku	NA
-numerals-ikul1238-1	Ikulu (Kulu), Nigeria	Atlantic-Congo	ikul1238	decimal		Enock Appiah Tieku	NA
-numerals-ikwe1242-1	Ikwere, Nigeria	Atlantic-Congo	ikwe1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ilwa1237-1	Malakote (Ilwana), Kenya	Atlantic-Congo	ilwa1237	decimal		Enock Appiah Tieku	NA
-numerals-ipul1238-1	Ipulo, Cameroon	Atlantic-Congo	ipul1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-irig1241-1	Irigwe (Rigwe), Nigeria	Atlantic-Congo	irig1241	decimal		Enock Appiah Tieku	NA
-numerals-isok1239-1	Isoko, Nigeria	Atlantic-Congo	isok1239	vigesimal		Enock Appiah Tieku	NA
-numerals-isok1239-2	Isoko, Nigeria	Atlantic-Congo	isok1239	vigesimal		Enock Appiah Tieku	NA
-numerals-isum1240-1	Isu, Cameroon	Atlantic-Congo	isum1240	decimal		Enock Appiah Tieku	NA
-numerals-ivbi1241-2	Ivbie-North-Okphele-Arhe, Nigeria	Atlantic-Congo	ivbi1241	vigesimal		Enock Appiah Tieku	NA
-numerals-iyiv1238-1	Iyive, Cameroon, Nigeria	Atlantic-Congo	iyiv1238	vigesimal		Enock Appiah Tieku	NA
-numerals-izer1241-1	Izere, Nigeria	Atlantic-Congo	izer1241	decimal		Enock Appiah Tieku	NA
-numerals-izie1238-1	Izi-Ezaa-Ikwo-Mgbo, Nigeria	Atlantic-Congo	izie1238	vigesimal		Enock Appiah Tieku	NA
-numerals-jara1263-1	Jarawa (Bankala), Nigeria	Atlantic-Congo	jara1263	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-jara1263-2	Labir (Jaku), Nigeria	Atlantic-Congo	jara1263	decimal		Enock Appiah Tieku	NA
-numerals-jiba1237-1	Jiba (Jibe / Kona), Nigeria	Atlantic-Congo	jiba1237	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-jibu1239-1	Jibu, Nigeria	Atlantic-Congo	jibu1239	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-jita1239-1	Jita, Tanzania	Atlantic-Congo	jita1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-jita1239-2	Jita, Tanzania	Atlantic-Congo	jita1239	decimal		Enock Appiah Tieku	NA
-numerals-jjuu1238-1	Kaje (Jju), Nigeria	Atlantic-Congo	jjuu1238	decimal		Enock Appiah Tieku	NA
-numerals-jola1262-1	Jola-Kaasa, Senegal	Atlantic-Congo	jola1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-jola1263-1	Jola-Fonyi (Dyola), Senegal	Atlantic-Congo	jola1263	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-jola1263-2	Jola-Fonyi (Dyola), Senegal	Atlantic-Congo	jola1263	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-jwir1241-1	Jwira-Pepesa, Ghana	Atlantic-Congo	jwir1241	decimal		Enock Appiah Tieku	NA
-numerals-kaan1246-1	Kaansá (Kaansé), Burkina Faso	Atlantic-Congo	kaan1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kaan1247-1	Kaan (Libo), Nigeria	Atlantic-Congo	kaan1247	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kabi1261-1	Kabiyé, Togo, Benin, Ghana	Atlantic-Congo	kabi1261	decimal		Enock Appiah Tieku	NA
-numerals-kabw1241-1	Kabwa, Tanzania	Atlantic-Congo	kabw1241	decimal		Enock Appiah Tieku	NA
-numerals-kagf1238-1	ut-Ma'in, Nigeria	Atlantic-Congo	kagf1238	vigesimal		Enock Appiah Tieku	NA
-numerals-kagu1239-1	Kagulu, Tanzania	Atlantic-Congo	kagu1239	decimal		Enock Appiah Tieku	NA
-numerals-kaka1264-1	Kakanda, Nigeria	Atlantic-Congo	kaka1264	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kako1242-1	Kako, Cameroon, CAR, Congo	Atlantic-Congo	kako1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kala1384-1	Kalanga, Botswana, Zimbabwe	Atlantic-Congo	kala1384	decimal		Enock Appiah Tieku	NA
-numerals-kama1357-1	Kamara, Ghana, Côte d'Ivoire	Atlantic-Congo	kama1357	decimal		Enock Appiah Tieku	NA
-numerals-kamb1297-1	Kikamba, Kenya	Atlantic-Congo	kamb1297	decimal		Enock Appiah Tieku	NA
-numerals-kamm1249-1	Kam, Taraba State, Nigeria	Atlantic-Congo	kamm1249	vigesimal		Enock Appiah Tieku	NA
-numerals-kani1279-1	Kaningi, Gabon	Atlantic-Congo	kani1279	decimal		Enock Appiah Tieku	NA
-numerals-kant1249-1	Kantosi, Ghana, Burkina Faso	Atlantic-Congo	kant1249	decimal		Enock Appiah Tieku	NA
-numerals-kany1247-1	Kanyok, DR of the Congo	Atlantic-Congo	kany1247	decimal		Enock Appiah Tieku	NA
-numerals-kany1247-2	Kanyok, DR of the Congo	Atlantic-Congo	kany1247	decimal		Enock Appiah Tieku	NA
-numerals-kapy1238-1	Kapya, Nigeria	Atlantic-Congo	kapy1238	quinary		Enock Appiah Tieku	NA
-numerals-kara1478-1	Karang, Cameroon	Atlantic-Congo	kara1478	decimal		Enock Appiah Tieku	NA
-numerals-kara1481-1	Kara (Regi), Tanzania	Atlantic-Congo	kara1481	decimal		Enock Appiah Tieku	NA
-numerals-karo1294-1	Karon, Senegal	Atlantic-Congo	karo1294	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kasa1248-1	Kasanga (Cassanga), Guinea-Bissau	Atlantic-Congo	kasa1248	quinary AND decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-kase1253-1	Kassem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	NA
-numerals-kase1253-2	Kasem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	NA
-numerals-kase1253-3	Kasem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	NA
-numerals-kele1257-1	Bungom-Koya, Gabon	Atlantic-Congo	kele1257	quaternary		Enock Appiah Tieku	NA
-numerals-kele1257-2	Ntumbede, Gabon	Atlantic-Congo	kele1257	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-kele1257-3	Samaye, Gabon	Atlantic-Congo	kele1257	decimal		Enock Appiah Tieku	NA
-numerals-kele1257-4	Kélé (diKélé), Gabon	Atlantic-Congo	kele1257	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kele1257-5	Kélé (diKélé), Gabon	Atlantic-Congo	kele1257	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-keme1240-1	Kemedzung, Cameroon	Atlantic-Congo	keme1240	decimal		Enock Appiah Tieku	NA
-numerals-keme1240-2	Kemedzung, Cameroon	Atlantic-Congo	keme1240	decimal		Enock Appiah Tieku	NA
-numerals-kemp1234-1	Kimpe, DR of the Congo	Atlantic-Congo	kemp1234	decimal		Enock Appiah Tieku	NA
-numerals-keny1279-1	Kenyang, Cameroon	Atlantic-Congo	keny1279	vigesimal		Enock Appiah Tieku	NA
-numerals-kere1283-1	Kerewe (Kerebe), Tanzania	Atlantic-Congo	kere1283	decimal		Enock Appiah Tieku	NA
-numerals-kere1283-2	Kerewe (Kerebe), Tanzania	Atlantic-Congo	kere1283	decimal		Enock Appiah Tieku	NA
-numerals-kgal1244-1	Kgalagadi (Shekgalagari), Botswana	Atlantic-Congo	kgal1244	decimal		Enock Appiah Tieku	NA
-numerals-khan1278-1	Khana (Kana), Nigeria	Atlantic-Congo	khan1278	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-khis1238-1	Khisa (Komono), Burkina Faso	Atlantic-Congo	khis1238	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-kiku1240-1	Gikuyu, Kenya	Atlantic-Congo	kiku1240	decimal		Enock Appiah Tieku	NA
-numerals-kiku1240-2	Gikuyu, Kenya	Atlantic-Congo	kiku1240	decimal		Enock Appiah Tieku	NA
-numerals-kimb1241-1	Kimbundu (Mbundu), Angola	Atlantic-Congo	kimb1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-kimb1241-2	Kimbundu (Mbundu), Angola	Atlantic-Congo	kimb1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-kimm1246-1	Kim, Chad	Atlantic-Congo	kimm1246	? AND decimal		Enock Appiah Tieku	NA
-numerals-kiny1244-1	Rwanda, Rwanda, Uganda	Atlantic-Congo	kiny1244	decimal		Enock Appiah Tieku	NA
-numerals-kobi1241-1	Kobiana, Guinea-Bissau, Senegal	Atlantic-Congo	kobi1241	mixed		Enock Appiah Tieku	NA
-numerals-kobi1241-2	Kobiana, Guinea-Bissau, Senegal	Atlantic-Congo	kobi1241	decimal		Enock Appiah Tieku	NA
-numerals-kolb1240-1	Kolbila (Zurá), Cameroon	Atlantic-Congo	kolb1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kolc1235-1	Kol, Cameroon	Atlantic-Congo	kolc1235	decimal		Enock Appiah Tieku	NA
-numerals-koma1266-1	Gə́mnə́m (Beiya), Nigeria, Cameroon	Atlantic-Congo	koma1266	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-komc1235-1	Kom, Cameroon	Atlantic-Congo	komc1235	decimal		Enock Appiah Tieku	NA
-numerals-komo1260-1	Komo, DR of the Congo	Atlantic-Congo	komo1260	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-konk1269-1	Konkomba, Ghana, Togo	Atlantic-Congo	konk1269	decimal		Enock Appiah Tieku	NA
-numerals-konn1242-1	Konni, Ghana	Atlantic-Congo	konn1242	decimal		Enock Appiah Tieku	NA
-numerals-kono1265-1	Konongo, Tanzania	Atlantic-Congo	kono1265	decimal		Enock Appiah Tieku	NA
-numerals-koon1244-1	Kikongo (Iwoyo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	NA
-numerals-koon1244-2	Kikongo ( Koongo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	NA
-numerals-koon1244-3	Kikongo ( Koongo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	NA
-numerals-koon1245-1	Koonzime, Cameroon	Atlantic-Congo	koon1245	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-koro1298-1	Koromfé, Burkina Faso	Atlantic-Congo	koro1298	decimal		Enock Appiah Tieku	NA
-numerals-koro1304-1	Korop, Nigeria	Atlantic-Congo	koro1304	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kota1274-1	Kota, Gabon, Congo	Atlantic-Congo	kota1274	decimal		Enock Appiah Tieku	NA
-numerals-kota1274-2	Kota, Gabon, Congo	Atlantic-Congo	kota1274	decimal		Enock Appiah Tieku	NA
-numerals-koyo1242-1	Koyo, DR of the Congo	Atlantic-Congo	koyo1242	decimal		Enock Appiah Tieku	NA
-numerals-kpas1242-1	Nyesam (Kpasham), Nigeria	Atlantic-Congo	kpas1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kpla1238-1	Kplang (Prang), Ghana	Atlantic-Congo	kpla1238	decimal		Enock Appiah Tieku	NA
-numerals-krac1238-1	Krache (Kaakyi), Ghana	Atlantic-Congo	krac1238	decimal		Enock Appiah Tieku	NA
-numerals-krim1238-1	Krim (Kim), Sierra Leone	Atlantic-Congo	krim1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kuan1247-1	Kwanyama, Angola, Namibia	Atlantic-Congo	kuan1247	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kuke1242-1	Kukele, Nigeria	Atlantic-Congo	kuke1242	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-kukk1239-1	Kuk, Cameroon	Atlantic-Congo	kukk1239	decimal		Enock Appiah Tieku	NA
-numerals-kund1255-1	Kunda, Zambia, Zimbabwe	Atlantic-Congo	kund1255	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kung1260-1	Kung, Cameroon	Atlantic-Congo	kung1260	decimal		Enock Appiah Tieku	NA
-numerals-kura1249-1	Kurama (Akurmi), Kaduna, Nigeria	Atlantic-Congo	kura1249	decimal		Enock Appiah Tieku	NA
-numerals-kuri1259-1	Kuria, Tanzania, Kenya	Atlantic-Congo	kuri1259	? AND decimal		Enock Appiah Tieku	NA
-numerals-kusa1250-1	Kusaal, Ghana, Burkina Faso	Atlantic-Congo	kusa1250	decimal		Enock Appiah Tieku	NA
-numerals-kute1248-1	Kuteb (Kutev), Nigeria	Atlantic-Congo	kute1248	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kute1248-2	Kuteb (Kutev), Nigeria	Atlantic-Congo	kute1248	quinary AND decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-kuwa1246-1	Kwatay (Kwaataay), Senegal	Atlantic-Congo	kuwa1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kwaa1262-1	Kwa (Baa), Adamawa, Nigeria	Atlantic-Congo	kwaa1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kwaa1262-2	Kwa (Baa), Adamawa, Nigeria	Atlantic-Congo	kwaa1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-kwak1266-1	Kwakum, Cameroon	Atlantic-Congo	kwak1266	decimal		Enock Appiah Tieku	NA
-numerals-kwan1273-1	Kwangali, Namibia, Angola	Atlantic-Congo	kwan1273	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-kwan1276-1	Kwanja (Konja), Cameroon	Atlantic-Congo	kwan1276	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-kwas1243-1	Ngumba, Cameroon	Atlantic-Congo	kwas1243	decimal		Enock Appiah Tieku	NA
-numerals-kway1241-1	Kwaya, Tanzania	Atlantic-Congo	kway1241	decimal		Enock Appiah Tieku	NA
-numerals-laal1241-1	Láá Láá Bwamu, Burkina Faso	Atlantic-Congo	laal1241	mixed		Enock Appiah Tieku	NA
-numerals-laar1238-1	Laari, Congo, Angola	Atlantic-Congo	laar1238	decimal		Enock Appiah Tieku	NA
-numerals-laim1240-1	Laimbue, Cameroon	Atlantic-Congo	laim1240	decimal		Enock Appiah Tieku	NA
-numerals-lala1264-1	Lala-Bisa, Zambia	Atlantic-Congo	lala1264	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-lala1265-1	Lala-Bisa (Lala), Zambia	Atlantic-Congo	lala1265	? AND decimal		Enock Appiah Tieku	NA
-numerals-lama1275-1	Lama (Lamba), Togo, Ghana	Atlantic-Congo	lama1275	? AND decimal		Enock Appiah Tieku	NA
-numerals-lamn1239-1	Lamnso', Cameroon	Atlantic-Congo	lamn1239	decimal		Enock Appiah Tieku	NA
-numerals-land1256-1	Landoma, Guinea	Atlantic-Congo	land1256	quaternary AND decimal		Enock Appiah Tieku	NA
-numerals-lang1318-1	Langbasi (Langbashe), CAR	Atlantic-Congo	lang1318	quaternary AND vigesimal 		Enock Appiah Tieku	NA
-numerals-lang1320-1	Rangi (Langi), Tanzania	Atlantic-Congo	lang1320	? AND decimal		Enock Appiah Tieku	NA
-numerals-lang1320-2	Rangi (Langi), Tanzania	Atlantic-Congo	lang1320	decimal		Enock Appiah Tieku	NA
-numerals-lart1238-1	Larteh, Ghana	Atlantic-Congo	lart1238	decimal		Enock Appiah Tieku	NA
-numerals-lart1238-2	Larteh, Ghana	Atlantic-Congo	lart1238	decimal		Enock Appiah Tieku	NA
-numerals-lefa1242-1	Lefa, Cameroon	Atlantic-Congo	lefa1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-lega1249-1	Lega-Shabunda, DR of the Congo	Atlantic-Congo	lega1249	decimal		Enock Appiah Tieku	NA
-numerals-lega1250-1	Lega-Mwenga, DR of the Congo	Atlantic-Congo	lega1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-lega1250-2	Lega-Mwenga, DR of the Congo	Atlantic-Congo	lega1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-leha1242-1	Laalaa (Lehar), Senegal	Atlantic-Congo	leha1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-lele1264-1	Lelemi, Ghana	Atlantic-Congo	lele1264	decimal AND quinquagesimal		Enock Appiah Tieku	NA
-numerals-lele1265-1	Lele (shiLele), DR of the Congo	Atlantic-Congo	lele1265	decimal		Enock Appiah Tieku	NA
-numerals-leng1258-1	Lengola, DR of the Congo	Atlantic-Congo	leng1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-lenj1248-1	Lenje, Zambia	Atlantic-Congo	lenj1248	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-liji1238-1	Lijili, Nasarawa State, Nigeria	Atlantic-Congo	liji1238	decimal		Enock Appiah Tieku	NA
-numerals-lika1243-1	Lika, DR of the Congo	Atlantic-Congo	lika1243	? AND decimal		Enock Appiah Tieku	NA
-numerals-likw1239-1	Likwala, DR of the Congo	Atlantic-Congo	likw1239	decimal		Enock Appiah Tieku	NA
-numerals-lima1246-1	Limassa, Congo, CAR	Atlantic-Congo	lima1246	vigesimal		Enock Appiah Tieku	NA
-numerals-limb1268-1	Limbum, Cameroon	Atlantic-Congo	limb1268	decimal		Enock Appiah Tieku	NA
-numerals-limb1268-2	Limbum, Cameroon	Atlantic-Congo	limb1268	decimal		Enock Appiah Tieku	NA
-numerals-ling1263-1	Lingala (Ngala), DR of the Congo	Atlantic-Congo	ling1263	decimal		Enock Appiah Tieku	NA
-numerals-loba1239-1	Lobala, DR of the Congo, Congo	Atlantic-Congo	loba1239	decimal		Enock Appiah Tieku	NA
-numerals-lobi1245-1	Lobi, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	lobi1245	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-logb1245-1	Logba, Ghana	Atlantic-Congo	logb1245	decimal		Enock Appiah Tieku	NA
-numerals-logb1245-2	Logba, Ghana	Atlantic-Congo	logb1245	decimal		Enock Appiah Tieku	NA
-numerals-logo1258-1	Logooli, Kenya	Atlantic-Congo	logo1258	decimal		Enock Appiah Tieku	NA
-numerals-loka1252-1	Lokaa, Nigeria	Atlantic-Congo	loka1252	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-long1389-1	Longuda, Nigeria	Atlantic-Congo	long1389	decimal		Enock Appiah Tieku	NA
-numerals-long1389-2	Longuda, Nigeria	Atlantic-Congo	long1389	decimal		Enock Appiah Tieku	NA
-numerals-lozi1239-1	Lozi (Silozi), Zambia, Zimbabwe	Atlantic-Congo	lozi1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-luba1249-1	Ciluba (Luba-Kasai), DR of the Congo	Atlantic-Congo	luba1249	? AND decimal		Enock Appiah Tieku	NA
-numerals-luba1250-1	Luba-Katanga, DR of the Congo	Atlantic-Congo	luba1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-luch1239-1	Luchazi, Angola, Zambia	Atlantic-Congo	luch1239	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-lufu1237-1	Lufu, Nigeria	Atlantic-Congo	lufu1237	quinary		Enock Appiah Tieku	NA
-numerals-lukp1238-1	Lukpa, Togo, Benin	Atlantic-Congo	lukp1238	vigesimal		Enock Appiah Tieku	NA
-numerals-lumb1249-1	Lumbu ( Yilumbu), Gabon	Atlantic-Congo	lumb1249	decimal		Enock Appiah Tieku	NA
-numerals-lund1266-1	Lunda, Zambia, Angola	Atlantic-Congo	lund1266	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-lyel1241-1	Lyélé, Burkina Faso	Atlantic-Congo	lyel1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mach1266-1	Machame (Kisiha), Tanzania	Atlantic-Congo	mach1266	? AND decimal		Enock Appiah Tieku	NA
-numerals-mada1282-1	Mada (Madda), Nigeria	Atlantic-Congo	mada1282	duodecimal AND decimal		Enock Appiah Tieku	NA
-numerals-maho1248-2	Mahongwe, Gabon	Atlantic-Congo	maho1248	? AND decimal		Enock Appiah Tieku	NA
-numerals-maka1304-1	Makaa, Cameroon	Atlantic-Congo	maka1304	decimal		Enock Appiah Tieku	NA
-numerals-makh1261-1	Makhuwa-Meetto, Mozambique	Atlantic-Congo	makh1261	decimal		Enock Appiah Tieku	NA
-numerals-makh1262-1	Makhuwa-Marrevone, Mozambique	Atlantic-Congo	makh1262	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mako1251-1	Makonde, Mozambique, Tanzania	Atlantic-Congo	mako1251	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-malb1235-1	Malba Birifor, Burkina Faso	Atlantic-Congo	malb1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-mali1279-1	Malila, Tanzania, Malawi	Atlantic-Congo	mali1279	senary AND decimal		Enock Appiah Tieku	NA
-numerals-mama1271-1	Mamara Senoufo (Minyanka), Mali	Atlantic-Congo	mama1271	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-mamb1294-1	Mambay, Chad, Cameroon	Atlantic-Congo	mamb1294	? AND decimal		Enock Appiah Tieku	NA
-numerals-mamb1296-1	Cilungu, Zambia, Tanzania	Atlantic-Congo	mamb1296	? AND decimal		Enock Appiah Tieku	NA
-numerals-mamb1296-2	Mambwe-Lungu, Zambia, Tanzania	Atlantic-Congo	mamb1296	? AND decimal		Enock Appiah Tieku	NA
-numerals-mamp1244-1	Mampruli, Ghana	Atlantic-Congo	mamp1244	decimal		Enock Appiah Tieku	NA
-numerals-mand1423-1	(ki)Manda, Tanzania	Atlantic-Congo	mand1423	decimal		Enock Appiah Tieku	NA
-numerals-mank1251-1	Mankanya, Guinea-Bissau	Atlantic-Congo	mank1251	quinary AND ?		Enock Appiah Tieku	NA
-numerals-mans1259-1	Mansoanka (Sua), Guinea-Bissau	Atlantic-Congo	mans1259	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-masa1299-1	Masaba ( N. Dialect), Uganda	Atlantic-Congo	masa1299	decimal		Enock Appiah Tieku	NA
-numerals-masa1299-2	Masaba ( S. Dialect), Uganda	Atlantic-Congo	masa1299	decimal		Enock Appiah Tieku	NA
-numerals-mate1258-1	Matengo, Tanzania	Atlantic-Congo	mate1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-maxi1236-1	Maxi-Gbe, Togo, Benin	Atlantic-Congo	maxi1236	quinary AND vigesimal AND quadragesimal 		Enock Appiah Tieku	NA
-numerals-mayo1261-1	Mayogo, DR of the Congo	Atlantic-Congo	mayo1261	? AND decimal		Enock Appiah Tieku	NA
-numerals-mbaa1245-1	Mba, DR of the Congo	Atlantic-Congo	mbaa1245	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mbal1257-1	Mbala, DR of the Congo	Atlantic-Congo	mbal1257	? AND decimal		Enock Appiah Tieku	NA
-numerals-mbal1257-2	Yaka, DR of the Congo	Atlantic-Congo	mbal1257	? AND decimal		Enock Appiah Tieku	NA
-numerals-mban1263-1	Mbanza (Mabandja), DR of the Congo	Atlantic-Congo	mban1263	? AND decimal		Enock Appiah Tieku	NA
-numerals-mban1268-1	Mbangwe, Gabon, Congo	Atlantic-Congo	mban1268	? AND decimal		Enock Appiah Tieku	NA
-numerals-mbee1249-1	Mbe, Nigeria	Atlantic-Congo	mbee1249	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-mbel1240-1	Mbelime, Benin	Atlantic-Congo	mbel1240	decimal		Enock Appiah Tieku	NA
-numerals-mber1257-1	Mbere (Mbete), Gabon, Congo	Atlantic-Congo	mber1257	? AND decimal		Enock Appiah Tieku	NA
-numerals-mbok1243-1	Mboko (Ngare), Congo	Atlantic-Congo	mbok1243	decimal		Enock Appiah Tieku	NA
-numerals-mbos1242-1	Mbosi (Bonji dialect), Congo	Atlantic-Congo	mbos1242	decimal		Enock Appiah Tieku	NA
-numerals-mbow1246-1	Mbowe, Zambia	Atlantic-Congo	mbow1246	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mbug1242-1	Mbugwe, Tanzania	Atlantic-Congo	mbug1242	decimal		Enock Appiah Tieku	NA
-numerals-mbuk1240-1	Mbukushu, Namibia, Botswana	Atlantic-Congo	mbuk1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mbul1258-1	Mbulungish (Baga-Foré), Guinea	Atlantic-Congo	mbul1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mbul1260-1	Mbula-Bwazaa, Nigeria	Atlantic-Congo	mbul1260	quinary AND decimal AND trigesimal		Enock Appiah Tieku	NA
-numerals-mbul1262-1	Mbule (Dumbule), Cameroon	Atlantic-Congo	mbul1262	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-mbum1254-1	Mbum, Cameroon, CAR	Atlantic-Congo	mbum1254	decimal		Enock Appiah Tieku	NA
-numerals-mbun1249-1	Mbunda, Zambia, Angola	Atlantic-Congo	mbun1249	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mbuu1238-1	Ajumbu, Cameroon	Atlantic-Congo	mbuu1238	decimal		Enock Appiah Tieku	NA
-numerals-medu1238-1	Medumba, Cameroon	Atlantic-Congo	medu1238	decimal		Enock Appiah Tieku	NA
-numerals-medu1238-2	Medumba, Cameroon	Atlantic-Congo	medu1238	decimal		Enock Appiah Tieku	NA
-numerals-mend1261-1	Mendankwe-Nkwen, Cameroon	Atlantic-Congo	mend1261	decimal		Enock Appiah Tieku	NA
-numerals-meng1263-1	Mengisa, Cameroon	Atlantic-Congo	meng1263	? AND decimal		Enock Appiah Tieku	NA
-numerals-meng1264-1	Mengaka (Megaka), Cameroon	Atlantic-Congo	meng1264	decimal		Enock Appiah Tieku	NA
-numerals-meru1245-1	Meru (Kimeru), Kenya	Atlantic-Congo	meru1245	? AND decimal		Enock Appiah Tieku	NA
-numerals-meru1245-2	Meru (Kimeru), Kenya	Atlantic-Congo	meru1245	? AND decimal		Enock Appiah Tieku	NA
-numerals-mfum1238-1	Mfumte (Koffa), Cameroon	Atlantic-Congo	mfum1238	decimal		Enock Appiah Tieku	NA
-numerals-miyo1238-1	Miyobe (Sola), Benin, Togo	Atlantic-Congo	miyo1238	decimal AND quinquagesimal		Enock Appiah Tieku	NA
-numerals-mmaa1238-1	Numaala (Mmaala), Cameroon	Atlantic-Congo	mmaa1238	vigesimal		Enock Appiah Tieku	NA
-numerals-mmen1238-1	Mmen, Cameroon	Atlantic-Congo	mmen1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-moba1244-1	Moba, Togo, Burkina Faso	Atlantic-Congo	moba1244	decimal		Enock Appiah Tieku	NA
-numerals-moch1256-1	Mochi (Kimochi), Tanzania	Atlantic-Congo	moch1256	? AND decimal		Enock Appiah Tieku	NA
-numerals-mogh1246-1	Moghamo, Cameroon	Atlantic-Congo	mogh1246	decimal		Enock Appiah Tieku	NA
-numerals-momj1237-1	Mom Jango, Nigeria, Cameroon	Atlantic-Congo	momj1237	vigesimal		Enock Appiah Tieku	NA
-numerals-mong1338-1	Mongo-Nkundu, DR of the Congo	Atlantic-Congo	mong1338	decimal		Enock Appiah Tieku	NA
-numerals-mono1270-1	Mono, DR of the Congo	Atlantic-Congo	mono1270	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-mono1270-2	Mono, DR of the Congo	Atlantic-Congo	mono1270	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-monz1249-1	Monzombo, CAR, Congo	Atlantic-Congo	monz1249	decimal		Enock Appiah Tieku	NA
-numerals-moss1236-1	Mòoré, Burkina Faso, Togo, Mali	Atlantic-Congo	moss1236	decimal		Enock Appiah Tieku	NA
-numerals-mpie1238-1	Mpyemo, CAR, Cameroon	Atlantic-Congo	mpie1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mpie1238-2	Mpyemo, CAR, Cameroon	Atlantic-Congo	mpie1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mpon1254-1	Mpumpong, Cameroon	Atlantic-Congo	mpon1254	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-mpuo1241-2	Mbuun, DR of the Congo	Atlantic-Congo	mpuo1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-mund1325-1	Mundang, Chad, Cameroon	Atlantic-Congo	mund1325	decimal		Enock Appiah Tieku	NA
-numerals-mund1325-2	Mundang, Chad, Cameroon	Atlantic-Congo	mund1325	decimal		Enock Appiah Tieku	NA
-numerals-mund1326-1	Mündü, Sudan	Atlantic-Congo	mund1326	decimal		Enock Appiah Tieku	NA
-numerals-mund1327-1	Mundani, Cameroon	Atlantic-Congo	mund1327	decimal		Enock Appiah Tieku	NA
-numerals-mund1328-1	Mundabli, Cameroon	Atlantic-Congo	mund1328	decimal		Enock Appiah Tieku	NA
-numerals-mung1266-1	Mungaka (Bali), Cameroon	Atlantic-Congo	mung1266	decimal		Enock Appiah Tieku	NA
-numerals-mush1238-1	Mushunguli, Somalia	Atlantic-Congo	mush1238	decimal?		Enock Appiah Tieku	NA
-numerals-myen1241-1	Myene (òɾúŋɡú), Gabon	Atlantic-Congo	myen1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-myen1241-2	Myene (Mpongwe), Gabon	Atlantic-Congo	myen1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-nafa1258-1	Nafaanra Senoufo, Ghana	Atlantic-Congo	nafa1258	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-naki1238-1	Naki, Cameroon	Atlantic-Congo	naki1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-nalu1240-1	Nalu, Guinea	Atlantic-Congo	nalu1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nalu1240-2	Nalu, Guinea	Atlantic-Congo	nalu1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nand1264-1	(ki)Nande, DR of the Congo	Atlantic-Congo	nand1264	decimal		Enock Appiah Tieku	NA
-numerals-nate1242-1	Nateni, Benin	Atlantic-Congo	nate1242	decimal		Enock Appiah Tieku	NA
-numerals-nate1242-2	Nateni, Benin	Atlantic-Congo	nate1242	decimal		Enock Appiah Tieku	NA
-numerals-nawd1238-1	Nawdm, Togo, Ghana	Atlantic-Congo	nawd1238	decimal		Enock Appiah Tieku	NA
-numerals-nawu1242-1	Nawuri, Ghana	Atlantic-Congo	nawu1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-ndal1241-1	Ndali, Malawi, Tanzania	Atlantic-Congo	ndal1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ndam1239-1	Ndamba (Chindamba), Tanzania	Atlantic-Congo	ndam1239	decimal?		Enock Appiah Tieku	NA
-numerals-ndan1241-1	Nda'nda', Cameroon	Atlantic-Congo	ndan1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-ndas1238-1	Ndasa, Congo, Gabon	Atlantic-Congo	ndas1238	decimal		Enock Appiah Tieku	NA
-numerals-ndem1249-1	Ndemli, Cameroon	Atlantic-Congo	ndem1249	decimal		Enock Appiah Tieku	NA
-numerals-nden1249-1	Ndendeule, Tanzania	Atlantic-Congo	nden1249	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nden1250-1	Nde-Ndele-Nta, Nigeria	Atlantic-Congo	nden1250	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ndog1248-1	Ndogo, Sudan	Atlantic-Congo	ndog1248	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ndoo1241-1	Ndoola (Doori), Nigeria, Cameroon	Atlantic-Congo	ndoo1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ndoo1241-2	Ndoola (Doori), Nigeria, Cameroon	Atlantic-Congo	ndoo1241	quinary AND ?		Enock Appiah Tieku	NA
-numerals-ndum1239-1	Ndumu, Gabon	Atlantic-Congo	ndum1239	decimal		Enock Appiah Tieku	NA
-numerals-ndut1239-1	Ndut, Senegal	Atlantic-Congo	ndut1239	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ngam1267-1	Ngamambo, Cameroon	Atlantic-Congo	ngam1267	decimal		Enock Appiah Tieku	NA
-numerals-ngam1267-2	Ngamambo, Cameroon	Atlantic-Congo	ngam1267	decimal		Enock Appiah Tieku	NA
-numerals-ngan1299-1	Ngangam, Togo, Benin	Atlantic-Congo	ngan1299	decimal		Enock Appiah Tieku	NA
-numerals-ngan1299-2	Ngangam, Togo, Benin	Atlantic-Congo	ngan1299	decimal		Enock Appiah Tieku	NA
-numerals-ngaz1238-1	Ngazidja Comorian, Comoros	Atlantic-Congo	ngaz1238	decimal		Enock Appiah Tieku	NA
-numerals-ngba1284-1	Ngabaka Ma'bo, CAR, Congo	Atlantic-Congo	ngba1284	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngba1285-1	Ngabaka, Congo, DR of the Congo	Atlantic-Congo	ngba1285	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngel1238-1	Ngelima, Tshopo Province, Basoko Territory, DR of the Congo	Atlantic-Congo	ngel1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ngie1241-1	Ngiemboon, Cameroon	Atlantic-Congo	ngie1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngie1242-1	Ngie, Cameroon	Atlantic-Congo	ngie1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngie1242-2	Ngie, Cameroon	Atlantic-Congo	ngie1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngom1270-1	Ngom, Gabon, Congo	Atlantic-Congo	ngom1270	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-ngom1271-1	Ngombale, Cameroon	Atlantic-Congo	ngom1271	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngom1272-1	Ngomba, Cameroon	Atlantic-Congo	ngom1272	decimal		Enock Appiah Tieku	NA
-numerals-ngon1267-1	Nɡonɡo, DR of the Congo	Atlantic-Congo	ngon1267	? AND decimal		Enock Appiah Tieku	NA
-numerals-ngon1269-1	Chingoni, Tanzania, Mozambique	Atlantic-Congo	ngon1269	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ngon1269-2	Chingoni, Tanzania, Mozambique	Atlantic-Congo	ngon1269	quinary AND ?		Enock Appiah Tieku	NA
-numerals-ngul1247-1	Ngwi, Kwilu Prov., DR of the Congo	Atlantic-Congo	ngul1247	decimal		Enock Appiah Tieku	NA
-numerals-ngul1247-2	Ngul, Kwilu, DR of the Congo	Atlantic-Congo	ngul1247	decimal		Enock Appiah Tieku	NA
-numerals-ngun1272-1	Ngungwel, Congo	Atlantic-Congo	ngun1272	decimal		Enock Appiah Tieku	NA
-numerals-ngun1272-2	Ngungwel, Congo	Atlantic-Congo	ngun1272	decimal		Enock Appiah Tieku	NA
-numerals-ngur1263-1	Ngoreme (Ngurimi), Tanzania	Atlantic-Congo	ngur1263	decimal		Enock Appiah Tieku	NA
-numerals-ngwe1238-1	Ngwe, Cameroon	Atlantic-Congo	ngwe1238	vigesimal		Enock Appiah Tieku	NA
-numerals-nige1255-1	Len Mambila, Tabara State, Nigeria	Atlantic-Congo	nige1255	decimal		Enock Appiah Tieku	NA
-numerals-nige1255-2	Nigerian Mambila, Nigeria	Atlantic-Congo	nige1255	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-nila1242-1	Nilamba, Tanzania	Atlantic-Congo	nila1242	decimal		Enock Appiah Tieku	NA
-numerals-ninz1246-1	Ninzo, Kaduna State, Nigeria	Atlantic-Congo	ninz1246	decimal		Enock Appiah Tieku	NA
-numerals-njeb1242-1	Njebi (Njabi), Gabon, Congo	Atlantic-Congo	njeb1242	decimal		Enock Appiah Tieku	NA
-numerals-nkem1242-1	Nkem-Nkum (Nkim), Nigeria	Atlantic-Congo	nkem1242	vigesimal		Enock Appiah Tieku	NA
-numerals-nkhu1238-1	Nkumbi, Angola	Atlantic-Congo	nkhu1238	decimal		Enock Appiah Tieku	NA
-numerals-nkon1248-1	Nkonya, Ghana	Atlantic-Congo	nkon1248	decimal		Enock Appiah Tieku	NA
-numerals-nkoy1244-1	Nkoya, Zambia	Atlantic-Congo	nkoy1244	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-noma1260-1	Nomaande, Cameroon	Atlantic-Congo	noma1260	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-noon1242-1	Noon, Senegal	Atlantic-Congo	noon1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-noon1243-1	Noone (Noni), Cameroon	Atlantic-Congo	noon1243	? AND decimal		Enock Appiah Tieku	NA
-numerals-nort2770-1	North Fali, Cameroon	Atlantic-Congo	nort2770	? AND decimal		Enock Appiah Tieku	NA
-numerals-nort2774-1	Northern Ngbandi, DR of the Congo	Atlantic-Congo	nort2774	? AND decimal		Enock Appiah Tieku	NA
-numerals-nort2775-1	Northwest Gbaya, Cameroon, CAR	Atlantic-Congo	nort2775	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nort2780-1	Northern Dagaara, Burkina Faso	Atlantic-Congo	nort2780	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-nort2784-1	Northern Nuni, Burkina Faso	Atlantic-Congo	nort2784	decimal		Enock Appiah Tieku	NA
-numerals-nort2787-2	Northern Toussian, Burkina Faso	Atlantic-Congo	nort2787	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-notr1240-1	Notre, Benin	Atlantic-Congo	notr1240	decimal		Enock Appiah Tieku	NA
-numerals-nsen1242-1	Nsenga, Malawi, Zambia	Atlantic-Congo	nsen1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-ntch1242-1	Ntcham, Togo, Ghana	Atlantic-Congo	ntch1242	mixed		Enock Appiah Tieku	NA
-numerals-nuba1241-1	Nubaca (Baca), Cameroon	Atlantic-Congo	nuba1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-nucl1240-1	Mumuye, Nigeria	Atlantic-Congo	nucl1240	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-nucl1347-1	Wolof, Senegal	Atlantic-Congo	nucl1347	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nucl1379-1	Kinga, Njombe region, Tanzania	Atlantic-Congo	nucl1379	? AND decimal		Enock Appiah Tieku	NA
-numerals-nucl1410-1	Befang, Cameroon	Atlantic-Congo	nucl1410	? AND decimal		Enock Appiah Tieku	NA
-numerals-nucl1417-1	Igbo, Nigeria	Atlantic-Congo	nucl1417	? AND decimal		Enock Appiah Tieku	NA
-numerals-nucl1417-2	Échiè Igbo, Nigeria	Atlantic-Congo	nucl1417	vigesimal		Enock Appiah Tieku	NA
-numerals-nucl1417-3	Igbo, Nigeria	Atlantic-Congo	nucl1417	decimal		Enock Appiah Tieku	NA
-numerals-nugu1242-1	Nugunu (Yambasa), Cameroon	Atlantic-Congo	nugu1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-nupe1254-1	Nupe, Nigeria	Atlantic-Congo	nupe1254	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-nyak1260-1	Nyakyusa, Tanzania, Malawi	Atlantic-Congo	nyak1260	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyal1250-1	Nyali, DR of the Congo	Atlantic-Congo	nyal1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyam1275-1	Nyamwanga, Zambia, Tanzania	Atlantic-Congo	nyam1275	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyam1276-1	Nyamwezi, Tanzania	Atlantic-Congo	nyam1276	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyam1277-1	Nyambo (Runyambo), Tanzania	Atlantic-Congo	nyam1277	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyan1302-1	Nyangbo, Ghana	Atlantic-Congo	nyan1302	decimal		Enock Appiah Tieku	NA
-numerals-nyan1302-2	Nyangbo, Ghana	Atlantic-Congo	nyan1302	decimal		Enock Appiah Tieku	NA
-numerals-nyan1305-1	Nyaneka, Angola	Atlantic-Congo	nyan1305	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyan1307-1	Nyankole (Nyankore), Uganda	Atlantic-Congo	nyan1307	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyan1307-2	Nyankole, Uganda	Atlantic-Congo	nyan1307	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyan1308-1	Nyanja (Chichewa), Malawi, Zambia	Atlantic-Congo	nyan1308	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nyar1245-1	Nyarafolo Senoufo, Côte d'Ivoire	Atlantic-Congo	nyar1245	decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-nyat1246-1	Nyaturu (Rimi), Tanzania	Atlantic-Congo	nyat1246	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyem1238-1	Nyemba (Nganela), Angola	Atlantic-Congo	nyem1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyol1238-1	Nyole (Lunyole), Uganda	Atlantic-Congo	nyol1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nyor1244-1	Nyore, Kenya	Atlantic-Congo	nyor1244	? AND decimal		Enock Appiah Tieku	NA
-numerals-nyor1246-1	Nyoro, Uganda	Atlantic-Congo	nyor1246	decimal		Enock Appiah Tieku	NA
-numerals-nyun1248-1	Nyungwe, Mozambique	Atlantic-Congo	nyun1248	? AND decimal		Enock Appiah Tieku	NA
-numerals-nzak1246-1	Nzakambay, Cameroon, Chad	Atlantic-Congo	nzak1246	decimal		Enock Appiah Tieku	NA
-numerals-nzak1247-1	Nzakara, CAR, DR of the Congo	Atlantic-Congo	nzak1247	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nzak1247-2	Nzakara, CAR, DR of the Congo	Atlantic-Congo	nzak1247	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-nzim1238-1	Nzema, Côte d'Ivoire, Ghana	Atlantic-Congo	nzim1238	decimal		Enock Appiah Tieku	NA
-numerals-obol1243-1	Obolo, Nigeria	Atlantic-Congo	obol1243	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-odua1238-1	Odual, Nigeria	Atlantic-Congo	odua1238	vigesimal AND quadragesimal		Enock Appiah Tieku	NA
-numerals-ogbi1239-2	Ogbia, Bayelsa state, Nigeria	Atlantic-Congo	ogbi1239	vigesimal		Enock Appiah Tieku	NA
-numerals-ogbr1243-1	Ogbronuagum (Bukuma), Nigeria	Atlantic-Congo	ogbr1243	vigesimal		Enock Appiah Tieku	NA
-numerals-ogee1238-1	Òɡè, Àkókó, Ondo State, Nigeria	Atlantic-Congo	ogee1238	mixed		Enock Appiah Tieku	NA
-numerals-okoe1238-1	Oko (Oko-Eni-Osayen), Nigeria	Atlantic-Congo	okoe1238	mixed		Enock Appiah Tieku	NA
-numerals-okpa1238-1	Okpamheri, Nigeria	Atlantic-Congo	okpa1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-omba1241-1	Ombamba (Lembaama), Gabon	Atlantic-Congo	omba1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-orin1239-1	Utɔnkɔn (Oring), Nigeria	Atlantic-Congo	orin1239	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-orin1239-2	Koring (Oring), Nigeria	Atlantic-Congo	orin1239	mixed		Enock Appiah Tieku	NA
-numerals-orok1266-1	Oroko, Cameroon	Atlantic-Congo	orok1266	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-oroo1241-1	Oro, Nigeria	Atlantic-Congo	oroo1241	quinary AND vigesimal?		Enock Appiah Tieku	NA
-numerals-osos1238-1	Ososo, Edo State, Nigeria	Atlantic-Congo	osos1238	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-paas1238-1	Paasaal (Passale), Ghana	Atlantic-Congo	paas1238	vigesimal		Enock Appiah Tieku	NA
-numerals-pagi1243-3	Paɡibete, DR of the Congo	Atlantic-Congo	pagi1243	decimal		Enock Appiah Tieku	NA
-numerals-pala1342-1	Palaka Senoufo, Côte d'Ivoire	Atlantic-Congo	pala1342	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-palo1243-1	Palor (Falor), Senegal	Atlantic-Congo	palo1243	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-pana1293-1	Pana, Cameroon, Chad, CAR	Atlantic-Congo	pana1293	decimal?		Enock Appiah Tieku	NA
-numerals-pape1239-1	Papel, Guinea-Bissau, Senegal	Atlantic-Congo	pape1239	? AND decimal		Enock Appiah Tieku	NA
-numerals-pedi1238-1	Northern Sotho, South Africa	Atlantic-Congo	pedi1238	decimal		Enock Appiah Tieku	NA
-numerals-peer1241-1	Peere (Kutin), Cameroon	Atlantic-Congo	peer1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-phen1239-1	Phende, DR of the Congo	Atlantic-Congo	phen1239	? AND decimal		Enock Appiah Tieku	NA
-numerals-phen1239-2	Phende, DR of the Congo	Atlantic-Congo	phen1239	? AND decimal		Enock Appiah Tieku	NA
-numerals-phui1238-1	Phuie (Puguli), Burkina Faso	Atlantic-Congo	phui1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-pimb1238-1	Gongwe, Tanzania	Atlantic-Congo	pimb1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-pimb1238-2	Pimbwe, Tanzania	Atlantic-Congo	pimb1238	decimal		Enock Appiah Tieku	NA
-numerals-pinj1243-1	Pinji (Apindji), Gabon	Atlantic-Congo	pinj1243	decimal		Enock Appiah Tieku	NA
-numerals-piny1238-1	Pinyin, Cameroon	Atlantic-Congo	piny1238	decimal		Enock Appiah Tieku	NA
-numerals-pomo1271-1	Pol (Pomo), Cameroon, Congo	Atlantic-Congo	pomo1271	decimal		Enock Appiah Tieku	NA
-numerals-pong1250-1	Pongu (Pangu), Nigeria	Atlantic-Congo	pong1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-pula1262-1	Pular, Guinea, Senegal, Mali	Atlantic-Congo	pula1262	quinary AND decimal?		Enock Appiah Tieku	NA
-numerals-pula1263-1	Pulaar, Senegal, Mauritania	Atlantic-Congo	pula1263	quinary AND decimal?		Enock Appiah Tieku	NA
-numerals-punu1239-1	Punu (Ipunu), Gabon, Congo	Atlantic-Congo	punu1239	? AND decimal		Enock Appiah Tieku	NA
-numerals-putu1241-1	Utugwang-Irungene-Afrike, Nigeria	Atlantic-Congo	putu1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-resh1242-1	Reshe (Tsureshe), Nigeria	Atlantic-Congo	resh1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-rund1242-1	Rundi, Burundi, Uganda	Atlantic-Congo	rund1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-rwaa1238-1	Rwa (Kirwa), Tanzania	Atlantic-Congo	rwaa1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-saaf1238-1	Saafi-Saafi (Safen), Senegal	Atlantic-Congo	saaf1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-saam1283-1	Saamia (Luyia), Kenya, Uganda	Atlantic-Congo	saam1283	decimal		Enock Appiah Tieku	NA
-numerals-saam1283-2	Saamia (Luyia), Kenya, Uganda	Atlantic-Congo	saam1283	decimal		Enock Appiah Tieku	NA
-numerals-safa1243-1	Safaliba, Ghana	Atlantic-Congo	safa1243	vigesimal		Enock Appiah Tieku	NA
-numerals-saka1287-1	Sakata, DR of the Congo, Congo	Atlantic-Congo	saka1287	decimal		Enock Appiah Tieku	NA
-numerals-sake1247-1	Sake, Gabon	Atlantic-Congo	sake1247	? AND decimal		Enock Appiah Tieku	NA
-numerals-sake1247-2	Sake, Gabon	Atlantic-Congo	sake1247	? AND decimal		Enock Appiah Tieku	NA
-numerals-samb1305-1	Samba Leko, Cameroon, Nigeria	Atlantic-Congo	samb1305	vigesimal		Enock Appiah Tieku	NA
-numerals-samb1311-1	Chamba-Daka, Adawama, Nigeria	Atlantic-Congo	samb1311	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-samb1311-2	Chamba-Daka, Adawama, Nigeria	Atlantic-Congo	samb1311	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-sang1331-1	Kisanga, DR of the Congo	Atlantic-Congo	sang1331	decimal		Enock Appiah Tieku	NA
-numerals-sang1333-1	Sangu (Isangu), Gabon	Atlantic-Congo	sang1333	decimal		Enock Appiah Tieku	NA
-numerals-saxw1241-1	Saxwe-Gbe, Benin	Atlantic-Congo	saxw1241	quinary AND quadragesimal		Enock Appiah Tieku	NA
-numerals-sehw1238-1	Sehwi, Ghana	Atlantic-Congo	sehw1238	decimal		Enock Appiah Tieku	NA
-numerals-seki1238-1	Seki, Gabon, Equatorial Guinea	Atlantic-Congo	seki1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sekp1241-1	Sekpele, Ghana	Atlantic-Congo	sekp1241	decimal		Enock Appiah Tieku	NA
-numerals-sekp1241-2	Sekpele, Ghana	Atlantic-Congo	sekp1241	? AND decimal		Enock Appiah Tieku	NA
-numerals-sele1249-1	Selee (Santrokofi), Ghana	Atlantic-Congo	sele1249	decimal		Enock Appiah Tieku	NA
-numerals-sere1260-1	Sereer-Sine, Senegal, Gambia	Atlantic-Congo	sere1260	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sere1260-2	Serer-Sine, Senegal, Gambia	Atlantic-Congo	sere1260	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sham1280-1	Shambala, Tanzania	Atlantic-Congo	sham1280	decimal		Enock Appiah Tieku	NA
-numerals-shem1239-1	Shempire Senoufo (Fourou), Mali	Atlantic-Congo	shem1239	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-shem1239-2	Shempire Senoufo (Tengrela), Côte d'Ivoire	Atlantic-Congo	shem1239	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-sher1258-1	Sherbro, Sierra Leone	Atlantic-Congo	sher1258	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-shii1238-1	Shi (Mashi), DR of the Congo	Atlantic-Congo	shii1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-shon1251-1	Shona, Zimbabwe, Botswana	Atlantic-Congo	shon1251	? AND decimal		Enock Appiah Tieku	NA
-numerals-sici1249-1	Sìcìté Senoufo, Mali, Burkina Faso	Atlantic-Congo	sici1249	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-sigh1238-1	Sighu (Siwu), Gabon	Atlantic-Congo	sigh1238	decimal		Enock Appiah Tieku	NA
-numerals-sigh1238-2	Sighu, Gabon	Atlantic-Congo	sigh1238	decimal		Enock Appiah Tieku	NA
-numerals-sima1258-1	Simaa (Mwenyi), Zambia	Atlantic-Congo	sima1258	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sira1266-1	Sira (Gisira), Gabon	Atlantic-Congo	sira1266	? AND decimal		Enock Appiah Tieku	NA
-numerals-siss1242-1	Sissala, Burkina Faso	Atlantic-Congo	siss1242	vigesimal		Enock Appiah Tieku	NA
-numerals-siwu1238-1	Siwu (Akpafu ), Ghana	Atlantic-Congo	siwu1238	decimal		Enock Appiah Tieku	NA
-numerals-siza1240-1	Sizaki, Tanzania	Atlantic-Congo	siza1240	decimal		Enock Appiah Tieku	NA
-numerals-siza1240-2	Sizaki, Tanzania	Atlantic-Congo	siza1240	decimal		Enock Appiah Tieku	NA
-numerals-soga1242-1	Soga, Uganda	Atlantic-Congo	soga1242	decimal		Enock Appiah Tieku	NA
-numerals-somy1238-1	Somyev (Kila Yang), Nigeria	Atlantic-Congo	somy1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-song1299-1	Nsong, DR of the Congo	Atlantic-Congo	song1299	decimal		Enock Appiah Tieku	NA
-numerals-song1299-2	Songo, DR of the Congo	Atlantic-Congo	song1299	? AND decimal		Enock Appiah Tieku	NA
-numerals-song1303-1	Songye, DR of the Congo	Atlantic-Congo	song1303	? AND decimal		Enock Appiah Tieku	NA
-numerals-sout2778-1	Southern Kissi, Sierra Leone	Atlantic-Congo	sout2778	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sout2784-1	Southern Ngbandi, DR of the Congo	Atlantic-Congo	sout2784	decimal		Enock Appiah Tieku	NA
-numerals-sout2785-1	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sout2785-2	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sout2785-3	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-sout2787-1	Ngbugu, CAR, DR of the Congo	Atlantic-Congo	sout2787	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-sout2787-2	Ngbugu, CAR, DR of the Congo	Atlantic-Congo	sout2787	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-sout2789-1	Southern Dagaare, Ghana	Atlantic-Congo	sout2789	vigesimal		Enock Appiah Tieku	NA
-numerals-sout2790-1	Southern Birifor, Ghana	Atlantic-Congo	sout2790	vigesimal		Enock Appiah Tieku	NA
-numerals-sout2795-1	Southern Nuni, Burkina Faso	Atlantic-Congo	sout2795	quinary AND decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-sout2797-1	Southern Toussian, Burkina Faso	Atlantic-Congo	sout2797	quinary AND decimal AND vigesimal		Enock Appiah Tieku	NA
-numerals-sout2807-1	Southern Sotho, Lesotho	Atlantic-Congo	sout2807	? AND decimal		Enock Appiah Tieku	NA
-numerals-sout2808-1	Southern Ndebele, South Africa	Atlantic-Congo	sout2808	? AND decimal		Enock Appiah Tieku	NA
-numerals-suba1238-1	Suba, Kenya, Tanzania	Atlantic-Congo	suba1238	decimal		Enock Appiah Tieku	NA
-numerals-suba1252-1	Simbiti, Tanzania	Atlantic-Congo	suba1252	decimal		Enock Appiah Tieku	NA
-numerals-subi1246-1	Subiya, Namibia, Botswana, Zambia	Atlantic-Congo	subi1246	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-subi1246-2	Subiya, Namibia, Botswana, Zambia	Atlantic-Congo	subi1246	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-suga1248-1	Suga (Nizaa), Cameroon	Atlantic-Congo	suga1248	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-suku1259-1	KiSuku, DR of the Congo	Atlantic-Congo	suku1259	decimal		Enock Appiah Tieku	NA
-numerals-suku1259-2	Suku, DR of the Congo	Atlantic-Congo	suku1259	? AND decimal		Enock Appiah Tieku	NA
-numerals-suku1261-1	Sukuma, Tanzania	Atlantic-Congo	suku1261	decimal		Enock Appiah Tieku	NA
-numerals-supy1237-1	Supyire Senoufo, Mali	Atlantic-Congo	supy1237	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-swat1243-1	Swati, Swaziland, South Africa	Atlantic-Congo	swat1243	decimal		Enock Appiah Tieku	NA
-numerals-taab1238-1	Taabwa, DR of the Congo, Zambia	Atlantic-Congo	taab1238	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tafi1243-1	Tafi, Ghana	Atlantic-Congo	tafi1243	decimal		Enock Appiah Tieku	NA
-numerals-tafi1243-2	Tafi, Ghana	Atlantic-Congo	tafi1243	decimal		Enock Appiah Tieku	NA
-numerals-tagw1240-1	Tagwana Senoufo, Côte d'Ivoire	Atlantic-Congo	tagw1240	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tait1250-1	Daw'ida (Taita), Kenya	Atlantic-Congo	tait1250	decimal		Enock Appiah Tieku	NA
-numerals-tali1258-1	Lubwisi, Uganda, DR of the Congo	Atlantic-Congo	tali1258	decimal		Enock Appiah Tieku	NA
-numerals-tamp1252-1	Tampulma, Ghana	Atlantic-Congo	tamp1252	decimal		Enock Appiah Tieku	NA
-numerals-taro1263-1	Tarok (Yergam), Nigeria	Atlantic-Congo	taro1263	? AND decimal		Enock Appiah Tieku	NA
-numerals-teen1242-1	Téén, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	teen1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-teen1242-2	Téén, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	teen1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-teke1275-1	Teke-Tege, Gabon, Congo	Atlantic-Congo	teke1275	decimal		Enock Appiah Tieku	NA
-numerals-teke1275-2	Tege (Teke Kali), Gabon, Congo	Atlantic-Congo	teke1275	decimal		Enock Appiah Tieku	NA
-numerals-teke1276-1	Teke-Tyee, Congo	Atlantic-Congo	teke1276	decimal		Enock Appiah Tieku	NA
-numerals-teke1278-1	Teke-Nzikou, Congo	Atlantic-Congo	teke1278	decimal		Enock Appiah Tieku	NA
-numerals-teke1280-1	Teke-Kukuya, Congo	Atlantic-Congo	teke1280	decimal		Enock Appiah Tieku	NA
-numerals-temb1270-1	(chi)Tembo, Eastern DR of the Congo	Atlantic-Congo	temb1270	decimal		Enock Appiah Tieku	NA
-numerals-temi1247-1	GiTemi, Tanzania	Atlantic-Congo	temi1247	decimal		Enock Appiah Tieku	NA
-numerals-temi1247-2	Sonjo (Temi), Tanzania	Atlantic-Congo	temi1247	decimal		Enock Appiah Tieku	NA
-numerals-temm1241-1	Tem, Togo, Benin, Ghana	Atlantic-Congo	temm1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-temm1241-2	Tem, Togo, Benin, Ghana	Atlantic-Congo	temm1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tete1250-1	Tetela, DR of the Congo	Atlantic-Congo	tete1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-tete1250-2	Tetela, DR of the Congo	Atlantic-Congo	tete1250	? AND decimal		Enock Appiah Tieku	NA
-numerals-thar1283-1	Tharaka, Kenya	Atlantic-Congo	thar1283	decimal		Enock Appiah Tieku	NA
-numerals-tief1242-1	Tiéfo, Burkina Faso	Atlantic-Congo	tief1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tief1242-2	Tiéfo, Burkina Faso	Atlantic-Congo	tief1242	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tigo1236-1	Tigon Mbembe, Cameroon	Atlantic-Congo	tigo1236	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tika1246-1	Tikar, Cameroon	Atlantic-Congo	tika1246	decimal		Enock Appiah Tieku	NA
-numerals-timn1235-1	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-timn1235-2	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-timn1235-3	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tivv1240-1	Tiv, Nigeria, Cameroon	Atlantic-Congo	tivv1240	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tong1318-1	ChiTonga, Zambia, Zimbabwe	Atlantic-Congo	tong1318	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tong1321-1	CiTonga (KiTonga), Malawi	Atlantic-Congo	tong1321	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tsik1238-1	Tsikimba, Niger state, Nigeria	Atlantic-Congo	tsik1238	vigesimal		Enock Appiah Tieku	NA
-numerals-tsis1238-1	Tsishingini (Kambari), Nigeria	Atlantic-Congo	tsis1238	decimal		Enock Appiah Tieku	NA
-numerals-tsog1243-1	Tsogo, Gabon	Atlantic-Congo	tsog1243	decimal		Enock Appiah Tieku	NA
-numerals-tson1249-1	Tsonga, Mozambique	Atlantic-Congo	tson1249	decimal		Enock Appiah Tieku	NA
-numerals-tson1249-2	Tsonga, Mozambique	Atlantic-Congo	tson1249	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tson1249-3	Tsonga, Mozambique	Atlantic-Congo	tson1249	decimal		Enock Appiah Tieku	NA
-numerals-tswa1253-1	Tswana (Setswana), Botswana	Atlantic-Congo	tswa1253	decimal		Enock Appiah Tieku	NA
-numerals-tswa1255-1	Tswa, Mozambique, South Africa	Atlantic-Congo	tswa1255	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tuki1240-1	Tuki, Cameroon	Atlantic-Congo	tuki1240	decimal		Enock Appiah Tieku	NA
-numerals-tula1252-1	Tula (Kɨtule), Nigeria	Atlantic-Congo	tula1252	? AND decimal		Enock Appiah Tieku	NA
-numerals-tumb1250-1	Tumbuka, Malawi, Zambia	Atlantic-Congo	tumb1250	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tumu1242-1	Sisaala Tumulung, Ghana	Atlantic-Congo	tumu1242	vigesimal		Enock Appiah Tieku	NA
-numerals-tune1261-1	Tunen, Cameroon	Atlantic-Congo	tune1261	decimal		Enock Appiah Tieku	NA
-numerals-tuni1251-1	Tunya (Tunia), Chad	Atlantic-Congo	tuni1251	decimal		Enock Appiah Tieku	NA
-numerals-tuot1238-1	Tuotomb, Cameroon	Atlantic-Congo	tuot1238	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tupu1244-1	Tupari, Chad, Cameroon	Atlantic-Congo	tupu1244	decimal		Enock Appiah Tieku	NA
-numerals-turk1306-1	Turka, Burkina Faso	Atlantic-Congo	turk1306	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-tuwu1238-1	Tuwuri (Bowiri), Ghana	Atlantic-Congo	tuwu1238	decimal		Enock Appiah Tieku	NA
-numerals-twen1242-1	Twendi (Cambap), Cameroon	Atlantic-Congo	twen1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-tyap1238-1	Tyap (Kataf), Nigeria	Atlantic-Congo	tyap1238	decimal		Enock Appiah Tieku	NA
-numerals-udaa1238-1	Uda, Nigeria	Atlantic-Congo	udaa1238	mixed		Enock Appiah Tieku	NA
-numerals-ukaa1243-1	Ukaan (Ikaan dialect), Nigeria	Atlantic-Congo	ukaa1243	vigesimal		Enock Appiah Tieku	NA
-numerals-ukhw1241-1	Ukhwejo, CAR, Cameroon	Atlantic-Congo	ukhw1241	decimal		Enock Appiah Tieku	NA
-numerals-ukwa1238-1	Ukwa, Nigeria	Atlantic-Congo	ukwa1238	mixed		Enock Appiah Tieku	NA
-numerals-umbu1257-1	Umbundu, Angola	Atlantic-Congo	umbu1257	decimal		Enock Appiah Tieku	NA
-numerals-urho1239-1	Urhobo, Nigeria	Atlantic-Congo	urho1239	vigesimal		Enock Appiah Tieku	NA
-numerals-usag1244-1	Usakade, Nigeria	Atlantic-Congo	usag1244	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-vagl1239-1	Vagla, Ghana	Atlantic-Congo	vagl1239	vigesimal		Enock Appiah Tieku	NA
-numerals-vend1245-1	(tshi)Venda, South Africa, Zimbabwe	Atlantic-Congo	vend1245	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-vidu1238-1	Vidunda, Tanzania	Atlantic-Congo	vidu1238	decimal		Enock Appiah Tieku	NA
-numerals-vili1238-1	Vili (Civili), Congo, Gabon	Atlantic-Congo	vili1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-vunj1238-1	Vunjo, Tanzania	Atlantic-Congo	vunj1238	decimal		Enock Appiah Tieku	NA
-numerals-vute1244-1	Vute, Cameroon	Atlantic-Congo	vute1244	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-vute1244-2	Vute, Cameroon	Atlantic-Congo	vute1244	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-vwan1235-1	Wanji (Vwanji), Tanzania	Atlantic-Congo	vwan1235	? AND decimal		Enock Appiah Tieku	NA
-numerals-waam1244-1	Waama, Benin	Atlantic-Congo	waam1244	decimal		Enock Appiah Tieku	NA
-numerals-waci1239-1	Waci-Gbe (Gen-Gbe), Togo, Benin	Atlantic-Congo	waci1239	decimal		Enock Appiah Tieku	NA
-numerals-waja1259-1	Waja (nyan wɩyáʋ̀), Nigeria	Atlantic-Congo	waja1259	decimal		Enock Appiah Tieku	NA
-numerals-wame1240-1	Wamey (Konyagi), Senegal	Atlantic-Congo	wame1240	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-wapa1235-1	Wapan Jukun, Nigeria	Atlantic-Congo	wapa1235	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-wara1292-1	Wara, Burkina Faso	Atlantic-Congo	wara1292	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-wawa1246-1	Wawa, Cameroon	Atlantic-Congo	wawa1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-wawa1246-2	Wawa, Cameroon	Atlantic-Congo	wawa1246	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-wehh1238-1	Weh, Cameroon	Atlantic-Congo	wehh1238	decimal		Enock Appiah Tieku	NA
-numerals-west2450-1	West-Central Limba, Sierra Leone	Atlantic-Congo	west2450	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-west2454-1	Western Niger Fulfulde, Niger	Atlantic-Congo	west2454	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-west2456-1	Western Xwla-Gbe, Benin, Togo	Atlantic-Congo	west2456	quinary AND quadrasegimal		Enock Appiah Tieku	NA
-numerals-west2458-1	Banda-Tangbago, Sudan	Atlantic-Congo	west2458	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-west2465-1	Western Sisaala, Ghana	Atlantic-Congo	west2465	vigesimal		Enock Appiah Tieku	NA
-numerals-west2466-1	Western Karaboro, Burkina Faso	Atlantic-Congo	west2466	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-wong1247-1	Wongo, DR of the Congo	Atlantic-Congo	wong1247	decimal		Enock Appiah Tieku	NA
-numerals-wumb1242-1	Wumbvu (Wumvu), Gabon	Atlantic-Congo	wumb1242	? AND decimal		Enock Appiah Tieku	NA
-numerals-wumb1242-2	Wumbvu (Wumvu), Gabon	Atlantic-Congo	wumb1242	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-wush1238-1	Wushi, Cameroon	Atlantic-Congo	wush1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-xhos1239-1	Xhosa, South Africa, Lesotho	Atlantic-Congo	xhos1239	decimal		Enock Appiah Tieku	NA
-numerals-xwel1235-1	Xwla-Gbe, Benin	Atlantic-Congo	xwel1235	quinary AND quadrasegimal		Enock Appiah Tieku	NA
-numerals-yaka1272-1	Yaka, CAR	Atlantic-Congo	yaka1272	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-yako1252-1	Yakoma, CAR, DR of the Congo	Atlantic-Congo	yako1252	decimal		Enock Appiah Tieku	NA
-numerals-yala1263-1	Yala, Cross River State, Nigeria	Atlantic-Congo	yala1263	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-yamb1251-1	Yamba, Cameroon	Atlantic-Congo	yamb1251	decimal		Enock Appiah Tieku	NA
-numerals-yamb1252-1	Yambeta, Cameroon	Atlantic-Congo	yamb1252	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-yang1293-1	Yangben (Nuasue), Cameroon	Atlantic-Congo	yang1293	mixed		Enock Appiah Tieku	NA
-numerals-yans1239-1	Yansi (Ngong), DR of the Congo	Atlantic-Congo	yans1239	decimal		Enock Appiah Tieku	NA
-numerals-yaoo1241-1	Yao, Mozambique, Malawi, Tanzania	Atlantic-Congo	yaoo1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-yaoo1241-2	Yao, Mozambique, Malawi, Tanzania	Atlantic-Congo	yaoo1241	quinary AND decimal		Enock Appiah Tieku	NA
-numerals-yekh1238-1	Etsako (Yekhee), Nigeria	Atlantic-Congo	yekh1238	vigesimal		Enock Appiah Tieku	NA
-numerals-yemb1246-1	Yemba (Dschang), Cameroon	Atlantic-Congo	yemb1246	decimal		Enock Appiah Tieku	NA
-numerals-yend1241-1	Yendang (Nyandang), Nigeria	Atlantic-Congo	yend1241	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-yeyi1239-1	Yeyi (Shiyeyi), Botswana, Namibia	Atlantic-Congo	yeyi1239	decimal		Enock Appiah Tieku	NA
-numerals-yomb1244-1	Yombe (Kiyoombi), DR of the Congo	Atlantic-Congo	yomb1244	decimal		Enock Appiah Tieku	NA
-numerals-yomm1242-1	Yom ( Pila), Benin	Atlantic-Congo	yomm1242	? AND vigesimal		Enock Appiah Tieku	NA
-numerals-yoru1245-1	Yoruba, Nigeria, Benin	Atlantic-Congo	yoru1245	mixed		Enock Appiah Tieku	NA
-numerals-yuku1243-1	Yukuben, Nigeria, Cameroon	Atlantic-Congo	yuku1243	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-zana1238-1	Zanaki, Tanzania	Atlantic-Congo	zana1238	? AND decimal		Enock Appiah Tieku	NA
-numerals-zand1248-1	Zande, CAR, DR of the Congo	Atlantic-Congo	zand1248	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-zang1249-1	Zan Gula, Chad	Atlantic-Congo	zang1249	quinary AND vigesimal		Enock Appiah Tieku	NA
-numerals-zigu1244-1	Zigula (Zigua), Tanzania	Atlantic-Congo	zigu1244	decimal		Enock Appiah Tieku	NA
-numerals-zigu1244-2	Zigula (Zigua), Tanzania	Atlantic-Congo	zigu1244	decimal		Enock Appiah Tieku	NA
-numerals-zimb1251-1	Zimba, DR of the Congo	Atlantic-Congo	zimb1251	decimal		Enock Appiah Tieku	NA
-numerals-zinz1238-1	Zinza, Tanzania	Atlantic-Congo	zinz1238	decimal		Enock Appiah Tieku	NA
-numerals-zulu1248-1	Zulu, South Africa, Lesotho	Atlantic-Congo	zulu1248	decimal		Enock Appiah Tieku	NA
+numerals-abar1238-1	Mungbam (Abar), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	senary - six is derived from three, 7-9 appear as compounds
+numerals-abar1238-2	Mungbam (Missong), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	senary - six is derived from three, 7-9 appear as compounds
+numerals-abar1238-3	Mungbam (Munken), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	senary - six is derived from three, 7-9 appear as compounds
+numerals-abar1238-4	Mungbam (Biya), Cameroon	Atlantic-Congo	abar1238	decimal		Enock Appiah Tieku	senary - six is derived from three, 7-9 appear as compounds
+numerals-abee1242-1	Abé (Abbey), Côte d'Ivoire	Atlantic-Congo	abee1242	decimal		Enock Appiah Tieku	
+numerals-abid1235-1	Abidji, Côte d'Ivoire	Atlantic-Congo	abid1235	decimal		Enock Appiah Tieku	
+numerals-abro1238-1	Abron, Ghana, Côte d'Ivoire	Atlantic-Congo	abro1238	decimal		Enock Appiah Tieku	
+numerals-abua1244-1	Abuan, Nigeria	Atlantic-Congo	abua1244	decimal		Enock Appiah Tieku	
+numerals-abur1243-1	Abouré (Abure), Côte d'Ivoire	Atlantic-Congo	abur1243	decimal		Enock Appiah Tieku	quadragesimal
+numerals-adam1253-1	Adamawa Fulfulde, Cameroon	Atlantic-Congo	adam1253	quinary AND decimal		Enock Appiah Tieku	
+numerals-adan1247-1	Dangme, Ghana	Atlantic-Congo	adan1247	decimal		Enock Appiah Tieku	senary
+numerals-adan1248-1	Adangbe, Ghana and Togo	Atlantic-Congo	adan1248	decimal		Enock Appiah Tieku	senary
+numerals-adel1244-1	Adele, Togo, Ghana	Atlantic-Congo	adel1244	vigesimal		Enock Appiah Tieku	senary
+numerals-adio1239-1	Adioukrou, Côte d'Ivoire	Atlantic-Congo	adio1239	vigesimal		Enock Appiah Tieku	
+numerals-agat1236-1	Agatu, Nigeria	Atlantic-Congo	agat1236	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-aghe1239-1	Aghem, Cameroon	Atlantic-Congo	aghe1239	decimal		Enock Appiah Tieku	quinary 7=5*2. 6, 8, 9 are compounds whose forms are not discernible
+numerals-agwa1247-1	Agwagwune, Nigeria	Atlantic-Congo	agwa1247	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ahan1243-1	Ahanta, Ghana	Atlantic-Congo	ahan1243	decimal		Enock Appiah Tieku	
+numerals-ajab1235-1	Aja-Gbe (Aja), Togo, Benin	Atlantic-Congo	ajab1235	mixed		Enock Appiah Tieku	the traditional number system of Ajagbe is quite complicated. It is primarily base-40, although it shows some characteristics of base-10 and base-20 systems as well. As a rough overview, the system behaves as if it were base-10 up through 49. From 50 until 1000, it acts as a hybrid base-40/base-20/base-10 system
+numerals-akan1250-1	Akan (Akuapem Twi), Ghana	Atlantic-Congo	akan1250	decimal		Enock Appiah Tieku	
+numerals-akan1250-2	Akan, Ghana	Atlantic-Congo	akan1250	decimal		Enock Appiah Tieku	
+numerals-akas1242-1	Akaselem, Togo	Atlantic-Congo	akas1242	vigesimal		Enock Appiah Tieku	decimal
+numerals-akeb1238-1	Akebu, Togo	Atlantic-Congo	akeb1238	decimal		Enock Appiah Tieku	20 is an atom
+numerals-akeb1238-2	Akebu, Togo	Atlantic-Congo	akeb1238	decimal		Enock Appiah Tieku	20 is an atom
+numerals-akoo1248-1	Akoose (Bakoose), Cameroon	Atlantic-Congo	akoo1248	decimal		Enock Appiah Tieku	
+numerals-akpe1248-1	Akpes, Nigeria	Atlantic-Congo	akpe1248	decimal AND vigesimal		Enock Appiah Tieku	
+numerals-akum1238-1	Akum, Cameroon	Atlantic-Congo	akum1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-akwa1248-1	Akwa, DR of the Congo	Atlantic-Congo	akwa1248	decimal		Enock Appiah Tieku	
+numerals-alag1242-1	Alago, Nigeria	Atlantic-Congo	alag1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-alla1248-1	Alladian, Lagunes, Côte d'Ivoire	Atlantic-Congo	alla1248	vigesimal		Enock Appiah Tieku	
+numerals-alum1246-1	Alumu-Tesu, Nasarawa State, Nigeria	Atlantic-Congo	alum1246	decimal		Enock Appiah Tieku	evidence of senary and octal - 7 = 6+1, 
+numerals-amba1263-1	Kwamba (Amba), Uganda, DR of the Congo	Atlantic-Congo	amba1263	vigesimal		Enock Appiah Tieku	
+numerals-anaa1238-1	Anaang, Nigeria	Atlantic-Congo	anaa1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-anuf1239-1	Anufo, Ghana, Togo, Benin	Atlantic-Congo	anuf1239	decimal		Enock Appiah Tieku	
+numerals-anyi1245-1	Anyin, Côte d'Ivoire, Ghana	Atlantic-Congo	anyi1245	decimal		Enock Appiah Tieku	
+numerals-asut1235-1	Asu (Pare), Tanzania	Atlantic-Congo	asut1235	decimal		Enock Appiah Tieku	
+numerals-atti1239-1	Attié, Côte d'Ivoire	Atlantic-Congo	atti1239	decimal		Enock Appiah Tieku	
+numerals-avat1244-1	Avatime, Ghana	Atlantic-Congo	avat1244	decimal		Enock Appiah Tieku	
+numerals-avik1243-1	Avikam, Lagunes, Côte d'Ivoire	Atlantic-Congo	avik1243	vigesimal		Enock Appiah Tieku	
+numerals-awak1250-1	Awak, Nigeria	Atlantic-Congo	awak1250	decimal		Enock Appiah Tieku	
+numerals-awak1250-2	Awak, Nigeria	Atlantic-Congo	awak1250	decimal		Enock Appiah Tieku	
+numerals-awin1248-1	Awing, Cameroon	Atlantic-Congo	awin1248	decimal		Enock Appiah Tieku	Senary - 7-9 have a form unknown
+numerals-awin1248-2	Awing, Cameroon	Atlantic-Congo	awin1248	decimal		Enock Appiah Tieku	
+numerals-awut1241-1	Awutu (Awutu-Efutu), Ghana	Atlantic-Congo	awut1241	decimal		Enock Appiah Tieku	
+numerals-ayer1245-1	Ayere (Úwû), Nigeria	Atlantic-Congo	ayer1245	vigesimal		Enock Appiah Tieku	
+numerals-ayuu1242-1	Ayu, Nigeria	Atlantic-Congo	ayuu1242	decimal		Enock Appiah Tieku	ternary 6-8 appears as compounds formed from 3 
+numerals-baat1238-2	Baatonum, Benin, Nigeria	Atlantic-Congo	baat1238	mixed		Enock Appiah Tieku	
+numerals-baba1264-1	Baba1 (Papia), Cameroon	Atlantic-Congo	baba1264	decimal		Enock Appiah Tieku	
+numerals-baba1264-2	Baba (Papia), Cameroon	Atlantic-Congo	baba1264	decimal		Enock Appiah Tieku	quaternary 7=4+3
+numerals-baba1266-1	Babanki (Kejom), Cameroon	Atlantic-Congo	baba1266	decimal		Enock Appiah Tieku	6-9 are compounds whose derivation arent discernible
+numerals-bada1258-1	Bada, Nigeria	Atlantic-Congo	bada1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-bady1239-1	Badyara, Senegal, Guinea	Atlantic-Congo	bady1239	quinary AND decimal		Enock Appiah Tieku	
+numerals-bafa1249-1	Bafanji, Cameroon	Atlantic-Congo	bafa1249	decimal		Enock Appiah Tieku	
+numerals-bafi1243-1	Bafia (Kpa), Cameroon	Atlantic-Congo	bafi1243	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bafu1246-1	Bafut, Cameroon	Atlantic-Congo	bafu1246	decimal		Enock Appiah Tieku	possible that 7-9 are compounds
+numerals-bafu1246-2	Bafut, Cameroon	Atlantic-Congo	bafu1246	decimal		Enock Appiah Tieku	possible that 7-9 are compounds
+numerals-baga1270-1	Baga Mandori, Guinea	Atlantic-Congo	baga1270	quinary AND decimal		Enock Appiah Tieku	
+numerals-baga1272-1	Baga Sitemu, Guinea	Atlantic-Congo	baga1272	quinary AND decimal		Enock Appiah Tieku	
+numerals-bago1245-1	Bago-Kusuntu, Togo	Atlantic-Congo	bago1245	vigesimal		Enock Appiah Tieku	30 = 30; 9 = 1-10
+numerals-bain1261-1	Baïnounk Gubëeher, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bain1261-2	Gunyaamolo Banyun, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bain1261-3	Gunyaamolo Banyun, Senegal	Atlantic-Congo	bain1261	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-baka1272-1	Baka, Cameroon	Atlantic-Congo	baka1272	quinary AND decimal		Enock Appiah Tieku	
+numerals-baka1273-1	Bakaka (Mkaa), Cameroon	Atlantic-Congo	baka1273	decimal		Enock Appiah Tieku	
+numerals-bako1249-1	Bakoko, Cameroon	Atlantic-Congo	bako1249	decimal		Enock Appiah Tieku	
+numerals-bala1301-1	Balanta-Kentohe, Guinea-Bissau	Atlantic-Congo	bala1301	decimal		Enock Appiah Tieku	
+numerals-bala1302-1	Balanta-Ganja, Senegal	Atlantic-Congo	bala1302	decimal		Enock Appiah Tieku	
+numerals-bali1245-1	Bali (Maya), Nigeria	Atlantic-Congo	bali1245	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bali1274-1	Bali (Kibali), DR of the Congo	Atlantic-Congo	bali1274	decimal		Enock Appiah Tieku	
+numerals-bama1251-1	Bamali (Papia), Cameroon	Atlantic-Congo	bama1251	decimal		Enock Appiah Tieku	
+numerals-bamb1265-1	Bambalang, Cameroon	Atlantic-Congo	bamb1265	decimal		Enock Appiah Tieku	
+numerals-bamb1266-1	Bambili-Bambui, Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	
+numerals-bamb1266-2	Bambili-Bambui, Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	
+numerals-bamb1266-3	Mbəkum (Mankon), Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	
+numerals-bamb1266-4	Ngemba (Mankon), Cameroon	Atlantic-Congo	bamb1266	decimal		Enock Appiah Tieku	
+numerals-bamu1253-1	Bamun (Shupamen), Cameroon	Atlantic-Congo	bamu1253	decimal		Enock Appiah Tieku	
+numerals-bamu1253-2	Bamun (Bamum), Cameroon	Atlantic-Congo	bamu1253	decimal		Enock Appiah Tieku	
+numerals-bamu1254-1	Bamukumbit, Cameroon	Atlantic-Congo	bamu1254	decimal		Enock Appiah Tieku	
+numerals-bamu1256-1	Bamunka, Cameroon	Atlantic-Congo	bamu1256	decimal		Enock Appiah Tieku	
+numerals-bamu1256-2	Bamunka, Cameroon	Atlantic-Congo	bamu1256	decimal		Enock Appiah Tieku	
+numerals-bamw1238-1	Bamwe (Libóbi), DR of the Congo	Atlantic-Congo	bamw1238	decimal		Enock Appiah Tieku	
+numerals-band1340-1	Bandial, Senegal	Atlantic-Congo	band1340	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-band1344-1	Banda-Linda, CAR	Atlantic-Congo	band1344	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-band1344-2	Banda-Linda, CAR	Atlantic-Congo	band1344	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bang1348-2	Bangunji (Bangwinji), Nigeria	Atlantic-Congo	bang1348	decimal		Enock Appiah Tieku	
+numerals-bang1350-1	Bangubangu, DR of the Congo	Atlantic-Congo	bang1350	decimal		Enock Appiah Tieku	
+numerals-bang1353-1	Bangala, DR of the Congo	Atlantic-Congo	bang1353	vigesimal		Enock Appiah Tieku	
+numerals-bang1356-1	Bangolan, Cameroon	Atlantic-Congo	bang1356	decimal		Enock Appiah Tieku	
+numerals-bank1256-1	Bankon (Abo), Cameroon	Atlantic-Congo	bank1256	decimal		Enock Appiah Tieku	
+numerals-baou1238-1	Baule (Baoulé), Côte d'Ivoire	Atlantic-Congo	baou1238	decimal		Enock Appiah Tieku	
+numerals-bara1362-1	Barama (Gibarama), Gabon	Atlantic-Congo	bara1362	decimal		Enock Appiah Tieku	
+numerals-baro1252-1	Barombi, Cameroon	Atlantic-Congo	baro1252	decimal		Enock Appiah Tieku	
+numerals-basa1284-1	Bassa, Cameroon	Atlantic-Congo	basa1284	decimal		Enock Appiah Tieku	
+numerals-bass1258-1	Oniyan (Bassari), Senegal	Atlantic-Congo	bass1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-bata1285-1	Batanga, Cameroon, Equatorial Guinea	Atlantic-Congo	bata1285	decimal		Enock Appiah Tieku	
+numerals-bati1251-1	Bati, Cameroon	Atlantic-Congo	bati1251	quinary AND vigesimal		Enock Appiah Tieku	quaternary 8-9
+numerals-bayo1255-1	Bayot, Guinea-Bissau	Atlantic-Congo	bayo1255	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bayo1255-2	Bayot, Senegal	Atlantic-Congo	bayo1255	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bebe1248-1	Bebele (Bə̀mbələ̀), Cameroon	Atlantic-Congo	bebe1248	decimal		Enock Appiah Tieku	
+numerals-bebe1250-1	Bebe (Naami), Cameroon	Atlantic-Congo	bebe1250	decimal		Enock Appiah Tieku	
+numerals-bebi1242-1	Bebil, Cameroon	Atlantic-Congo	bebi1242	decimal		Enock Appiah Tieku	
+numerals-bedi1235-1	Ménik (Budik), Senegal	Atlantic-Congo	bedi1235	quinary AND decimal		Enock Appiah Tieku	
+numerals-beem1239-1	Beembe, Congo	Atlantic-Congo	beem1239	decimal		Enock Appiah Tieku	
+numerals-beez1238-1	Beezen (Bɛ̀zɛ̀n), Cameroon	Atlantic-Congo	beez1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bekw1241-1	Bekwarra, Nigeria	Atlantic-Congo	bekw1241	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bekw1242-1	Bekwil, Cameroon, Congo	Atlantic-Congo	bekw1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-bela1255-1	Belanda Viri, Sudan	Atlantic-Congo	bela1255	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bemb1257-1	Bemba, Zambia, DR of the Congo	Atlantic-Congo	bemb1257	decimal		Enock Appiah Tieku	quaternary - 7=4*? 8=4*?
+numerals-bena1262-1	Bena, Tanzania	Atlantic-Congo	bena1262	decimal		Enock Appiah Tieku	
+numerals-bena1262-2	Bena, Tanzania	Atlantic-Congo	bena1262	decimal		Enock Appiah Tieku	
+numerals-bend1258-1	Bende-Tongwe, Tanzania	Atlantic-Congo	bend1258	decimal		Enock Appiah Tieku	
+numerals-bend1258-2	Bende, Tanzania	Atlantic-Congo	bend1258	decimal		Enock Appiah Tieku	
+numerals-beng1282-1	Benga, Equatorial Guinea, Gabon	Atlantic-Congo	beng1282	decimal		Enock Appiah Tieku	
+numerals-bera1259-2	Bera (Bira), DR of the Congo	Atlantic-Congo	bera1259	decimal		Enock Appiah Tieku	
+numerals-bero1242-1	Berom (Birom), Nigeria	Atlantic-Congo	bero1242	duodecimal		Enock Appiah Tieku	
+numerals-besm1235-1	Besme, Chad	Atlantic-Congo	besm1235	decimal		Enock Appiah Tieku	
+numerals-bete1261-1	Bete, Nigeria	Atlantic-Congo	bete1261	quinary		Enock Appiah Tieku	numerals end at 10
+numerals-bete1262-1	Bete-Bendi (Bə̀ttə́), Nigeria	Atlantic-Congo	bete1262	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bete1262-2	Bete-Bendi (Bette), Nigeria	Atlantic-Congo	bete1262	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-beti1249-1	Beti, Cameroon	Atlantic-Congo	beti1249	decimal		Enock Appiah Tieku	
+numerals-bhel1238-1	Bhele (Pere), DR of the Congo	Atlantic-Congo	bhel1238	decimal		Enock Appiah Tieku	
+numerals-biaf1240-2	Biafada, Guinea-Bissau	Atlantic-Congo	biaf1240	decimal		Enock Appiah Tieku	senary - 7=6+1
+numerals-bial1238-1	Biali, Benin, Burkina Faso	Atlantic-Congo	bial1238	decimal		Enock Appiah Tieku	
+numerals-bidy1244-1	Bijago (Bijogo), Guinea-Bissau	Atlantic-Congo	bidy1244	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bila1255-1	Bila, DR of the Congo	Atlantic-Congo	bila1255	decimal		Enock Appiah Tieku	octal 8 = 1 - 8 
+numerals-binj1249-1	ciBinji, DR of the Congo	Atlantic-Congo	binj1249	decimal		Enock Appiah Tieku	6 - 9 appears as compound whose constituents are not discernible
+numerals-birw1238-1	Birwa (Sebirwa), Botswana	Atlantic-Congo	birw1238	decimal		Enock Appiah Tieku	6 - 9 appears as compound whose constituents are not discernible
+numerals-boko1261-1	Bokoto, CAR	Atlantic-Congo	boko1261	quinary AND decimal		Enock Appiah Tieku	
+numerals-boky1238-1	Bokyi, Cross River State, Nigeria	Atlantic-Congo	boky1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bolo1263-1	Bolondó, DR of the Congo	Atlantic-Congo	bolo1263	decimal		Enock Appiah Tieku	
+numerals-bomw1238-1	Bomwali, Cameroon, Congo	Atlantic-Congo	bomw1238	decimal		Enock Appiah Tieku	quinary 9=5*4
+numerals-bond1246-1	Kulango, Ghana, Côte d'Ivoire	Atlantic-Congo	bond1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bond1246-2	Kulango, Ghana, Côte d'Ivoire	Atlantic-Congo	bond1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bond1247-1	Bondei, Tanzania	Atlantic-Congo	bond1247	decimal		Enock Appiah Tieku	6-9 seems compounds
+numerals-bong1284-2	Bongili, DR of the Congo	Atlantic-Congo	bong1284	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-boun1243-1	Bouna Kulango, Côte d'Ivoire	Atlantic-Congo	boun1243	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-buam1238-1	Buamu, Burkina Faso	Atlantic-Congo	buam1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-budu1250-1	Budu, DR of the Congo	Atlantic-Congo	budu1250	decimal		Enock Appiah Tieku	
+numerals-budz1238-1	Budza (Mbuza), DR of the Congo	Atlantic-Congo	budz1238	decimal		Enock Appiah Tieku	6 - 9 appears as compound with non-transparent constituents
+numerals-buli1254-1	Buli, Ghana	Atlantic-Congo	buli1254	decimal		Enock Appiah Tieku	
+numerals-bull1247-1	Bullom So( Mani), Sierra Leone	Atlantic-Congo	bull1247	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-bumm1238-1	Bum, Cameroon	Atlantic-Congo	bumm1238	decimal		Enock Appiah Tieku	
+numerals-bush1247-1	Bushong, DR of the Congo	Atlantic-Congo	bush1247	decimal		Enock Appiah Tieku	
+numerals-buuu1244-1	Bu, Nassarawa state, Nigeria	Atlantic-Congo	buuu1244	quinary AND decimal		Enock Appiah Tieku	
+numerals-byep1241-1	Byep, Cameroon	Atlantic-Congo	byep1241	decimal		Enock Appiah Tieku	senary - 7=6*?
+numerals-came1252-1	Cameroon Mambila, Cameroon	Atlantic-Congo	came1252	quinary AND decimal		Enock Appiah Tieku	
+numerals-ceba1235-1	Cebaara Senoufo, Côte d'Ivoire	Atlantic-Congo	ceba1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-cent2018-2	Eastern Niger Fulfulde, Niger	Atlantic-Congo	cent2018	quinary AND decimal		Enock Appiah Tieku	
+numerals-cerm1238-1	Cerma (Kirma), Burkina Faso	Atlantic-Congo	cerm1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-chak1271-1	Chakali, Ghana	Atlantic-Congo	chak1271	vigesimal		Enock Appiah Tieku	
+numerals-chee1238-1	Rukuba (Che), Nigeria	Atlantic-Congo	chee1238	mixed		Enock Appiah Tieku	
+numerals-cher1271-1	Cherepon, Ghana	Atlantic-Congo	cher1271	decimal		Enock Appiah Tieku	
+numerals-chig1238-1	Chiga, Uganda	Atlantic-Congo	chig1238	decimal		Enock Appiah Tieku	
+numerals-chok1245-1	Chokwe, Angola, Zambia	Atlantic-Congo	chok1245	decimal		Enock Appiah Tieku	6-7 appear are compounds
+numerals-chop1243-1	Chopi, Mozambique	Atlantic-Congo	chop1243	quinary AND decimal		Enock Appiah Tieku	
+numerals-chop1243-2	Chopi, Mozambique	Atlantic-Congo	chop1243	quinary AND decimal		Enock Appiah Tieku	
+numerals-chuk1274-1	Chuka (Gichuka), Kenya	Atlantic-Congo	chuk1274	decimal		Enock Appiah Tieku	ternary - 6=3*? quaternary 8 has the form of 4, a reduplication
+numerals-chum1261-1	Chumburung, Ghana	Atlantic-Congo	chum1261	decimal		Enock Appiah Tieku	6-9 are compounds with indiscernible constituents.
+numerals-chuw1238-1	Chuwabu, Mozambique	Atlantic-Congo	chuw1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-cici1237-1	Western Acipa (Cicipu), Nigeria	Atlantic-Congo	cici1237	decimal		Enock Appiah Tieku	
+numerals-cind1241-1	Cinda (Kamuku), Nigeria	Atlantic-Congo	cind1241	quinary AND decimal		Enock Appiah Tieku	
+numerals-clel1238-1	C'lela, Nigeria	Atlantic-Congo	clel1238	vigesimal		Enock Appiah Tieku	quinary 7=5*2
+numerals-como1258-1	Karimjo (Khiyu), Nigeria	Atlantic-Congo	como1258	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-cros1244-1	Leggbo, Nigeria	Atlantic-Congo	cros1244	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-cros1244-2	Mbembe (Cross River), Nigeria	Atlantic-Congo	cros1244	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-cung1238-1	Cung (Mbuk), Cameroon	Atlantic-Congo	cung1238	decimal		Enock Appiah Tieku	
+numerals-cung1238-2	Cung (Chung), Cameroon	Atlantic-Congo	cung1238	decimal		Enock Appiah Tieku	
+numerals-cwib1235-1	Cwi Bwamu, Burkina Faso	Atlantic-Congo	cwib1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-dadi1249-1	Dadiya, Nigeria	Atlantic-Congo	dadi1249	decimal		Enock Appiah Tieku	
+numerals-dagb1246-1	Dagbani (Dagomba), Ghana	Atlantic-Congo	dagb1246	decimal		Enock Appiah Tieku	
+numerals-dayy1236-1	Day (Buna dialect), Chad	Atlantic-Congo	dayy1236	decimal		Enock Appiah Tieku	
+numerals-dege1246-1	Degema, Nigeria	Atlantic-Congo	dege1246	vigesimal		Enock Appiah Tieku	
+numerals-degg1238-1	Deg (Degha), Ghana	Atlantic-Congo	degg1238	decimal		Enock Appiah Tieku	
+numerals-delo1240-1	Delo, Ghana, Togo	Atlantic-Congo	delo1240	vigesimal		Enock Appiah Tieku	6-9 are derived from different bases
+numerals-deng1250-1	Ndengese, DR of the Congo	Atlantic-Congo	deng1250	decimal		Enock Appiah Tieku	
+numerals-deny1238-1	Denya, Cameroon	Atlantic-Congo	deny1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-diji1241-1	Dijim-Bwilim, Nigeria	Atlantic-Congo	diji1241	decimal		Enock Appiah Tieku	
+numerals-ding1239-1	Ding, DR of the Congo	Atlantic-Congo	ding1239	decimal		Enock Appiah Tieku	
+numerals-diri1252-1	Diriku (RuGciriku), Namibia	Atlantic-Congo	diri1252	quinary AND decimal		Enock Appiah Tieku	
+numerals-dita1238-1	Ditammari, Benin, Togo	Atlantic-Congo	dita1238	decimal		Enock Appiah Tieku	
+numerals-dita1238-2	Ditammari, Benin, Togo	Atlantic-Congo	dita1238	decimal		Enock Appiah Tieku	
+numerals-djim1235-1	Djimini Senoufo, Côte d'Ivoire	Atlantic-Congo	djim1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-dogo1295-1	Dogosé, Burkina Faso	Atlantic-Congo	dogo1295	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-domp1238-1	Dompo, Bono Region, Ghana	Atlantic-Congo	domp1238	vigesimal		Enock Appiah Tieku	
+numerals-dong1290-1	Dongo, DR of the Congo	Atlantic-Congo	dong1290	decimal		Enock Appiah Tieku	
+numerals-doon1238-1	Doondo, DR of the Congo	Atlantic-Congo	doon1238	decimal		Enock Appiah Tieku	
+numerals-doya1240-1	Doyayo, Cameroon	Atlantic-Congo	doya1240	quinary AND decimal		Enock Appiah Tieku	
+numerals-dual1243-1	Duala, Cameroon	Atlantic-Congo	dual1243	decimal		Enock Appiah Tieku	
+numerals-dugu1248-1	Dugun, Cameroon	Atlantic-Congo	dugu1248	vigesimal		Enock Appiah Tieku	6-9 derived but form is not discernible
+numerals-duma1253-1	Duma, Gabon	Atlantic-Congo	duma1253	decimal		Enock Appiah Tieku	6-9 are compounds
+numerals-duru1249-1	Duruma, Kenya	Atlantic-Congo	duru1249	decimal		Enock Appiah Tieku	quaternary - 7=4*? 8=4*?
+numerals-duup1238-1	Duupa (Papé), Cameroon	Atlantic-Congo	duup1238	vigesimal		Enock Appiah Tieku	quinary - 16=15*1
+numerals-dwan1238-1	Dwang (Bekye), Ghana	Atlantic-Congo	dwan1238	decimal		Enock Appiah Tieku	
+numerals-dyan1251-1	Dyan, Burkina Faso	Atlantic-Congo	dyan1251	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-dyan1251-2	Dyan, Burkina Faso	Atlantic-Congo	dyan1251	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-dzaa1238-1	Jenjo (Dza), Nigeria	Atlantic-Congo	dzaa1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-east2387-1	East Limba, Sierra Leone, Guinea	Atlantic-Congo	east2387	quinary AND decimal		Enock Appiah Tieku	
+numerals-east2398-1	Eastern Karaboro, Burkina Faso	Atlantic-Congo	east2398	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-east2398-2	Eastern Karaboro, Burkina Faso	Atlantic-Congo	east2398	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ebir1243-1	Ebira, Nigeria	Atlantic-Congo	ebir1243	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ebug1241-1	Ebughu, Nigeria	Atlantic-Congo	ebug1241	quinary		Enock Appiah Tieku	quinary, vigesimal, quadragesimal etc
+numerals-edec1238-1	Cabe (Ede Cabe), Benin	Atlantic-Congo	edec1238	mixed		Enock Appiah Tieku	quinary, decimal, vigesimal, quadragesimal
+numerals-edei1244-1	Idaca (Ede Idaca), Benin	Atlantic-Congo	edei1244	decimal AND vigesimal		Enock Appiah Tieku	
+numerals-edei1246-1	Ede Ica (Ica), Benin	Atlantic-Congo	edei1246	decimal AND vigesimal		Enock Appiah Tieku	
+numerals-efai1241-1	Efai, Nigeria	Atlantic-Congo	efai1241	mixed		Enock Appiah Tieku	quinary, binary?, decimal, vigesimal, quadragesimal 
+numerals-efik1245-1	Efik, Nigeria	Atlantic-Congo	efik1245	mixed		Enock Appiah Tieku	Mixed see - Mensah (2010)  https://www.academia.edu/30224909/On_the_system_of_numeration_in_Efik
+numerals-eggo1239-1	Eggon, Nigeria	Atlantic-Congo	eggo1239	quinary AND decimal		Enock Appiah Tieku	it’s not clear if 6 is derived from 5
+numerals-eggo1239-2	Eggon, Nigeria	Atlantic-Congo	eggo1239	quinary AND decimal		Enock Appiah Tieku	it’s not clear if 6 is derived from 5
+numerals-ejag1239-1	Ejagham, Cameroon	Atlantic-Congo	ejag1239	quinary AND vigesimal		Enock Appiah Tieku	5-9 are derived from ternary, quaternary and quinary based. 15 is an atom
+numerals-ekaj1238-1	Ekajuk, Nigeria	Atlantic-Congo	ekaj1238	vigesimal		Enock Appiah Tieku	ternary 6=3*?
+numerals-ekpe1253-1	Ekpeye, Nigeria	Atlantic-Congo	ekpe1253	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-elem1253-1	Eleme, Nigeria	Atlantic-Congo	elem1253	vigesimal		Enock Appiah Tieku	6-9 are compounds whose bases are not discernible
+numerals-eloy1241-1	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	quinary AND decimal		Enock Appiah Tieku	
+numerals-eloy1241-2	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	decimal		Enock Appiah Tieku	
+numerals-eloy1241-3	Eloyi, Nassarawa State, Nigeria	Atlantic-Congo	eloy1241	decimal		Enock Appiah Tieku	
+numerals-emai1241-1	Emai (Emai-luleha-Ora ), Nigeria	Atlantic-Congo	emai1241	vigesimal		Enock Appiah Tieku	
+numerals-embu1241-1	Embu, Kenya	Atlantic-Congo	embu1241	decimal		Enock Appiah Tieku	5-9 are derived forms whose constituents are not discernible 
+numerals-enge1239-1	Engenni, Nigeria	Atlantic-Congo	enge1239	vigesimal		Enock Appiah Tieku	quinary - 7= 5*2
+numerals-esan1238-1	Esan, Nigeria	Atlantic-Congo	esan1238	decimal AND vigesimal		Enock Appiah Tieku	
+numerals-esim1238-1	Esimbi, Cameroon, Nigeria	Atlantic-Congo	esim1238	quinary AND decimal		Enock Appiah Tieku	six is not derived but 7-9 are derived from five
+numerals-esim1238-2	Esimbi, Cameroon, Nigeria	Atlantic-Congo	esim1238	decimal		Enock Appiah Tieku	6=? 7=5*2, 8=4*4
+numerals-eten1239-1	Aten (Eten), Nigeria	Atlantic-Congo	eten1239	duodecimal		Enock Appiah Tieku	
+numerals-eton1253-1	Eton, Cameroon	Atlantic-Congo	eton1253	decimal		Enock Appiah Tieku	
+numerals-etul1245-1	Etulo, Nigeria	Atlantic-Congo	etul1245	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ewee1241-1	Éwé, Togo, Ghana	Atlantic-Congo	ewee1241	decimal		Enock Appiah Tieku	
+numerals-ewon1239-1	Ewondo, Cameroon	Atlantic-Congo	ewon1239	decimal		Enock Appiah Tieku	
+numerals-fali1264-1	South Fali (Fali-Tinguelin), Cameroon	Atlantic-Congo	fali1264	decimal		Enock Appiah Tieku	quaternary 8=4*4, 7-9 different bases
+numerals-fali1264-2	South Fali, Cameroon	Atlantic-Congo	fali1264	decimal		Enock Appiah Tieku	quaternary 8 = 4*4
+numerals-fang1246-1	Fang, Gabon, Cameroon, Equatorial Guinea	Atlantic-Congo	fang1246	decimal		Enock Appiah Tieku	
+numerals-fang1246-2	Fang, Gabon, Cameroon, Equatorial Guinea	Atlantic-Congo	fang1246	decimal		Enock Appiah Tieku	
+numerals-fare1241-1	Farefare, Burkina Faso, Ghana	Atlantic-Congo	fare1241	decimal		Enock Appiah Tieku	
+numerals-fonn1241-1	Fon-Gbe (Fon), Togo, Benin	Atlantic-Congo	fonn1241	mixed		Enock Appiah Tieku	
+numerals-food1238-1	Foodo, Benin	Atlantic-Congo	food1238	vigesimal		Enock Appiah Tieku	
+numerals-fuli1240-1	Fuliiru, DR of the Congo	Atlantic-Congo	fuli1240	decimal		Enock Appiah Tieku	
+numerals-fung1245-1	Fungwa (Cifungwa), Nigeria	Atlantic-Congo	fung1245	decimal		Enock Appiah Tieku	
+numerals-fyam1238-1	Fyam (Pyem), Nigeria	Atlantic-Congo	fyam1238	decimal		Enock Appiah Tieku	
+numerals-gaaa1244-1	Ga, Ghana	Atlantic-Congo	gaaa1244	decimal		Enock Appiah Tieku	senary - 7=6*1, 8=6*2
+numerals-gban1258-1	Gbanzili, CAR, DR of the Congo	Atlantic-Congo	gban1258	decimal		Enock Appiah Tieku	
+numerals-gban1260-1	Gbanu, CAR	Atlantic-Congo	gban1260	decimal		Enock Appiah Tieku	7-9 are compounds whose derived forms are not discernible
+numerals-gbar1246-1	Gbari, Nigeria	Atlantic-Congo	gbar1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-gbay1281-1	Gbaya Mbodomo, Cameroon	Atlantic-Congo	gbay1281	quinary AND decimal		Enock Appiah Tieku	
+numerals-gbay1287-1	Bossangoa Gbaya, CAR	Atlantic-Congo	gbay1287	mixed		Enock Appiah Tieku	
+numerals-gbir1241-1	Gure (Gbiri-Niraɡu), Kaduna, Nigeria	Atlantic-Congo	gbir1241	duodecimal		Enock Appiah Tieku	
+numerals-genn1243-1	Gen-Gbe (Gen), Togo, Benin	Atlantic-Congo	genn1243	mixed		Enock Appiah Tieku	
+numerals-ghom1247-1	Ghomala, Cameroon	Atlantic-Congo	ghom1247	decimal		Enock Appiah Tieku	
+numerals-ghot1243-1	Ghotuo, Nigeria	Atlantic-Congo	ghot1243	vigesimal		Enock Appiah Tieku	
+numerals-gimm1241-1	Gimme (Gəmme), Cameroon	Atlantic-Congo	gimm1241	vigesimal		Enock Appiah Tieku	
+numerals-gimm1241-2	Gimme (Kampara), Cameroon	Atlantic-Congo	gimm1241	decimal		Enock Appiah Tieku	
+numerals-giny1241-1	Ginyanga, Togo	Atlantic-Congo	giny1241	vigesimal		Enock Appiah Tieku	
+numerals-giry1241-1	Giryama, Kenya	Atlantic-Congo	giry1241	decimal		Enock Appiah Tieku	
+numerals-gito1238-1	Gitonga, Mozambique	Atlantic-Congo	gito1238	mixed		Enock Appiah Tieku	
+numerals-gito1238-2	Gitonga, Mozambique	Atlantic-Congo	gito1238	mixed		Enock Appiah Tieku	
+numerals-gogo1263-1	Gogo (Kigogo), Tanzania	Atlantic-Congo	gogo1263	decimal		Enock Appiah Tieku	
+numerals-goka1239-1	Gokana, Nigeria	Atlantic-Congo	goka1239	vigesimal		Enock Appiah Tieku	6-8 reduplication of 1-4
+numerals-gola1255-1	Gola, Liberia, Sierra Leone	Atlantic-Congo	gola1255	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-gonj1241-1	Gonja, Ghana	Atlantic-Congo	gonj1241	decimal		Enock Appiah Tieku	
+numerals-gour1243-1	Gurma, Burkina Faso, Benin	Atlantic-Congo	gour1243	decimal		Enock Appiah Tieku	
+numerals-guaa1238-1	Gua, Ghana	Atlantic-Congo	guaa1238	decimal		Enock Appiah Tieku	
+numerals-gusi1246-1	Gusilay, Senegal	Atlantic-Congo	gusi1246	mixed		Enock Appiah Tieku	
+numerals-gusi1247-1	Gusii (Kisii), Kenya	Atlantic-Congo	gusi1247	quinary AND decimal		Enock Appiah Tieku	
+numerals-gwen1239-1	Gweno, Tanzania	Atlantic-Congo	gwen1239	decimal		Enock Appiah Tieku	
+numerals-gwer1238-1	Gwere (Lugwere), Uganda	Atlantic-Congo	gwer1238	decimal		Enock Appiah Tieku	quaternary 8=4 reduplicated?
+numerals-gyel1242-1	Gyele (Gyeli / Bakola), Cameroon	Atlantic-Congo	gyel1242	decimal		Enock Appiah Tieku	6-9 are compounds composed of different bases 
+numerals-gyel1242-2	Gyele (Bakola), Cameroon	Atlantic-Congo	gyel1242	decimal		Enock Appiah Tieku	
+numerals-haaa1252-1	Ha (Kiha), Tanzania	Atlantic-Congo	haaa1252	decimal		Enock Appiah Tieku	6-9 are compounds composed of different bases 
+numerals-hang1258-1	Hanga, Ghana	Atlantic-Congo	hang1258	decimal		Enock Appiah Tieku	
+numerals-haya1250-1	Haya, Tanzania	Atlantic-Congo	haya1250	decimal		Enock Appiah Tieku	
+numerals-hehe1240-1	Hehe, Tanzania	Atlantic-Congo	hehe1240	decimal		Enock Appiah Tieku	
+numerals-here1253-1	Otjiherero, Namibia, Botswana	Atlantic-Congo	here1253	quinary AND decimal		Enock Appiah Tieku	
+numerals-here1253-2	Herero, Namibia, Botswana	Atlantic-Congo	here1253	quinary AND decimal		Enock Appiah Tieku	
+numerals-hiju1238-1	Hijuk, Cameroon	Atlantic-Congo	hiju1238	decimal		Enock Appiah Tieku	
+numerals-hung1276-1	Hungworo (Cahungwarya), Niger state, Nigeria	Atlantic-Congo	hung1276	decimal		Enock Appiah Tieku	
+numerals-hung1276-2	Hungworo (Cahungwarya), Niger state, Nigeria	Atlantic-Congo	hung1276	decimal		Enock Appiah Tieku	
+numerals-hung1278-1	Hungana, DR of the Congo	Atlantic-Congo	hung1278	decimal		Enock Appiah Tieku	
+numerals-huns1239-1	Hun-Saare(Duka), Nigeria	Atlantic-Congo	huns1239	vigesimal		Enock Appiah Tieku	quinary 7=5*2
+numerals-hyam1245-1	Hyam (Jabba), Nigeria	Atlantic-Congo	hyam1245	quinary AND decimal		Enock Appiah Tieku	
+numerals-ibib1240-1	Ibibio, Nigeria	Atlantic-Congo	ibib1240	mixed		Enock Appiah Tieku	40, 60, 80 are atoms. 30=20+10, 50=40+10, 70=60+10
+numerals-idak1243-1	Idakho-Isukha-Tiriki, Kenya	Atlantic-Congo	idak1243	decimal		Enock Appiah Tieku	ternary 7=3*4, 9=4*5
+numerals-idom1241-1	Idoma, Nigeria	Atlantic-Congo	idom1241	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ifee1241-1	Ifè, Togo, Benin	Atlantic-Congo	ifee1241	vigesimal		Enock Appiah Tieku	
+numerals-ifee1241-2	Ifè, Togo, Benin	Atlantic-Congo	ifee1241	vigesimal		Enock Appiah Tieku	
+numerals-igal1242-1	Igala, Nigeria	Atlantic-Congo	igal1242	vigesimal		Enock Appiah Tieku	
+numerals-igal1242-2	Igala, Nigeria	Atlantic-Congo	igal1242	vigesimal		Enock Appiah Tieku	
+numerals-igas1238-1	Ariɡidi (Iɡasi), Nigeria	Atlantic-Congo	igas1238	vigesimal		Enock Appiah Tieku	
+numerals-iged1239-1	Igede, Nigeria	Atlantic-Congo	iged1239	mixed		Enock Appiah Tieku	
+numerals-igut1238-1	Anaguta (Iguta), Nigeria	Atlantic-Congo	igut1238	duodecimal		Enock Appiah Tieku	
+numerals-ikom1245-1	Ikoma-Nata-Isenye, Tanzania	Atlantic-Congo	ikom1245	decimal		Enock Appiah Tieku	
+numerals-ikul1238-1	Ikulu (Kulu), Nigeria	Atlantic-Congo	ikul1238	decimal		Enock Appiah Tieku	
+numerals-ikwe1242-1	Ikwere, Nigeria	Atlantic-Congo	ikwe1242	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ilwa1237-1	Malakote (Ilwana), Kenya	Atlantic-Congo	ilwa1237	decimal		Enock Appiah Tieku	
+numerals-ipul1238-1	Ipulo, Cameroon	Atlantic-Congo	ipul1238	quinary AND vigesimal		Enock Appiah Tieku	senary - 7=6*1, octal 9=8*1
+numerals-irig1241-1	Irigwe (Rigwe), Nigeria	Atlantic-Congo	irig1241	decimal		Enock Appiah Tieku	
+numerals-isok1239-1	Isoko, Nigeria	Atlantic-Congo	isok1239	vigesimal		Enock Appiah Tieku	30 is an atom
+numerals-isok1239-2	Isoko, Nigeria	Atlantic-Congo	isok1239	vigesimal		Enock Appiah Tieku	30 is an atom
+numerals-isum1240-1	Isu, Cameroon	Atlantic-Congo	isum1240	decimal		Enock Appiah Tieku	
+numerals-ivbi1241-2	Ivbie-North-Okphele-Arhe, Nigeria	Atlantic-Congo	ivbi1241	vigesimal		Enock Appiah Tieku	
+numerals-iyiv1238-1	Iyive, Cameroon, Nigeria	Atlantic-Congo	iyiv1238	vigesimal		Enock Appiah Tieku	senary - 7=6*1, quinary= 9=5*4
+numerals-izer1241-1	Izere, Nigeria	Atlantic-Congo	izer1241	decimal		Enock Appiah Tieku	
+numerals-izie1238-1	Izi-Ezaa-Ikwo-Mgbo, Nigeria	Atlantic-Congo	izie1238	vigesimal		Enock Appiah Tieku	
+numerals-jara1263-1	Jarawa (Bankala), Nigeria	Atlantic-Congo	jara1263	mixed		Enock Appiah Tieku	
+numerals-jara1263-2	Labir (Jaku), Nigeria	Atlantic-Congo	jara1263	decimal		Enock Appiah Tieku	
+numerals-jiba1237-1	Jiba (Jibe / Kona), Nigeria	Atlantic-Congo	jiba1237	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-jibu1239-1	Jibu, Nigeria	Atlantic-Congo	jibu1239	mixed		Enock Appiah Tieku	
+numerals-jita1239-1	Jita, Tanzania	Atlantic-Congo	jita1239	quinary AND decimal		Enock Appiah Tieku	
+numerals-jita1239-2	Jita, Tanzania	Atlantic-Congo	jita1239	decimal		Enock Appiah Tieku	
+numerals-jjuu1238-1	Kaje (Jju), Nigeria	Atlantic-Congo	jjuu1238	decimal		Enock Appiah Tieku	ternary 6=3*3
+numerals-jola1262-1	Jola-Kaasa, Senegal	Atlantic-Congo	jola1262	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-jola1263-1	Jola-Fonyi (Dyola), Senegal	Atlantic-Congo	jola1263	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-jola1263-2	Jola-Fonyi (Dyola), Senegal	Atlantic-Congo	jola1263	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-jwir1241-1	Jwira-Pepesa, Ghana	Atlantic-Congo	jwir1241	decimal		Enock Appiah Tieku	
+numerals-kaan1246-1	Kaansá (Kaansé), Burkina Faso	Atlantic-Congo	kaan1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kaan1247-1	Kaan (Libo), Nigeria	Atlantic-Congo	kaan1247	quinary AND decimal		Enock Appiah Tieku	
+numerals-kabi1261-1	Kabiyé, Togo, Benin, Ghana	Atlantic-Congo	kabi1261	decimal		Enock Appiah Tieku	
+numerals-kabw1241-1	Kabwa, Tanzania	Atlantic-Congo	kabw1241	decimal		Enock Appiah Tieku	
+numerals-kagf1238-1	ut-Ma'in, Nigeria	Atlantic-Congo	kagf1238	vigesimal		Enock Appiah Tieku	
+numerals-kagu1239-1	Kagulu, Tanzania	Atlantic-Congo	kagu1239	decimal		Enock Appiah Tieku	ternary 6=3*3
+numerals-kaka1264-1	Kakanda, Nigeria	Atlantic-Congo	kaka1264	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kako1242-1	Kako, Cameroon, CAR, Congo	Atlantic-Congo	kako1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-kala1384-1	Kalanga, Botswana, Zimbabwe	Atlantic-Congo	kala1384	decimal		Enock Appiah Tieku	ternary 6=3*3
+numerals-kama1357-1	Kamara, Ghana, Côte d'Ivoire	Atlantic-Congo	kama1357	decimal		Enock Appiah Tieku	
+numerals-kamb1297-1	Kikamba, Kenya	Atlantic-Congo	kamb1297	decimal		Enock Appiah Tieku	ternary 6=3*3, quaternary 8 =4*4
+numerals-kamm1249-1	Kam, Taraba State, Nigeria	Atlantic-Congo	kamm1249	vigesimal		Enock Appiah Tieku	
+numerals-kani1279-1	Kaningi, Gabon	Atlantic-Congo	kani1279	decimal		Enock Appiah Tieku	
+numerals-kant1249-1	Kantosi, Ghana, Burkina Faso	Atlantic-Congo	kant1249	decimal		Enock Appiah Tieku	
+numerals-kany1247-1	Kanyok, DR of the Congo	Atlantic-Congo	kany1247	decimal		Enock Appiah Tieku	
+numerals-kany1247-2	Kanyok, DR of the Congo	Atlantic-Congo	kany1247	decimal		Enock Appiah Tieku	
+numerals-kapy1238-1	Kapya, Nigeria	Atlantic-Congo	kapy1238	quinary		Enock Appiah Tieku	
+numerals-kara1478-1	Karang, Cameroon	Atlantic-Congo	kara1478	decimal		Enock Appiah Tieku	finger counting - 6-9
+numerals-kara1481-1	Kara (Regi), Tanzania	Atlantic-Congo	kara1481	decimal		Enock Appiah Tieku	
+numerals-karo1294-1	Karon, Senegal	Atlantic-Congo	karo1294	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kasa1248-1	Kasanga (Cassanga), Guinea-Bissau	Atlantic-Congo	kasa1248	mixed		Enock Appiah Tieku	
+numerals-kase1253-1	Kassem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	
+numerals-kase1253-2	Kasem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	
+numerals-kase1253-3	Kasem, Ghana, Burkina Faso	Atlantic-Congo	kase1253	decimal		Enock Appiah Tieku	
+numerals-kele1257-1	Bungom-Koya, Gabon	Atlantic-Congo	kele1257	quaternary		Enock Appiah Tieku	
+numerals-kele1257-2	Ntumbede, Gabon	Atlantic-Congo	kele1257	mixed		Enock Appiah Tieku	
+numerals-kele1257-3	Samaye, Gabon	Atlantic-Congo	kele1257	decimal		Enock Appiah Tieku	quaternary 7=4+3, quinary 9=5+4
+numerals-kele1257-4	Kélé (diKélé), Gabon	Atlantic-Congo	kele1257	quinary AND decimal		Enock Appiah Tieku	
+numerals-kele1257-5	Kélé (diKélé), Gabon	Atlantic-Congo	kele1257	mixed		Enock Appiah Tieku	
+numerals-keme1240-1	Kemedzung, Cameroon	Atlantic-Congo	keme1240	decimal		Enock Appiah Tieku	
+numerals-keme1240-2	Kemedzung, Cameroon	Atlantic-Congo	keme1240	decimal		Enock Appiah Tieku	
+numerals-kemp1234-1	Kimpe, DR of the Congo	Atlantic-Congo	kemp1234	decimal		Enock Appiah Tieku	
+numerals-keny1279-1	Kenyang, Cameroon	Atlantic-Congo	keny1279	vigesimal		Enock Appiah Tieku	octal 9 = 1 - 8 , senary 7=6+1
+numerals-kere1283-1	Kerewe (Kerebe), Tanzania	Atlantic-Congo	kere1283	decimal		Enock Appiah Tieku	quaternary 8= reduplication of 4?
+numerals-kere1283-2	Kerewe (Kerebe), Tanzania	Atlantic-Congo	kere1283	decimal		Enock Appiah Tieku	
+numerals-kgal1244-1	Kgalagadi (Shekgalagari), Botswana	Atlantic-Congo	kgal1244	decimal		Enock Appiah Tieku	
+numerals-khan1278-1	Khana (Kana), Nigeria	Atlantic-Congo	khan1278	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-khis1238-1	Khisa (Komono), Burkina Faso	Atlantic-Congo	khis1238	mixed		Enock Appiah Tieku	
+numerals-kiku1240-1	Gikuyu, Kenya	Atlantic-Congo	kiku1240	decimal		Enock Appiah Tieku	ternary 6=3*3, quaternary 8 =4*4
+numerals-kiku1240-2	Gikuyu, Kenya	Atlantic-Congo	kiku1240	decimal		Enock Appiah Tieku	ternary 6=3*3, quaternary 8 =4*4
+numerals-kimb1241-1	Kimbundu (Mbundu), Angola	Atlantic-Congo	kimb1241	decimal		Enock Appiah Tieku	
+numerals-kimb1241-2	Kimbundu (Mbundu), Angola	Atlantic-Congo	kimb1241	decimal		Enock Appiah Tieku	
+numerals-kiny1244-1	Rwanda, Rwanda, Uganda	Atlantic-Congo	kiny1244	decimal		Enock Appiah Tieku	
+numerals-kobi1241-1	Kobiana, Guinea-Bissau, Senegal	Atlantic-Congo	kobi1241	mixed		Enock Appiah Tieku	6-7 are quinary base, 8-9 are quaternary base
+numerals-kobi1241-2	Kobiana, Guinea-Bissau, Senegal	Atlantic-Congo	kobi1241	decimal		Enock Appiah Tieku	
+numerals-kolb1240-1	Kolbila (Zurá), Cameroon	Atlantic-Congo	kolb1240	quinary AND decimal		Enock Appiah Tieku	6 is a compound but not derived from 5. 7-9 are quinary
+numerals-kolc1235-1	Kol, Cameroon	Atlantic-Congo	kolc1235	decimal		Enock Appiah Tieku	
+numerals-koma1266-1	Gə́mnə́m (Beiya), Nigeria, Cameroon	Atlantic-Congo	koma1266	mixed		Enock Appiah Tieku	
+numerals-komc1235-1	Kom, Cameroon	Atlantic-Congo	komc1235	decimal		Enock Appiah Tieku	
+numerals-komo1260-1	Komo, DR of the Congo	Atlantic-Congo	komo1260	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-konk1269-1	Konkomba, Ghana, Togo	Atlantic-Congo	konk1269	decimal		Enock Appiah Tieku	
+numerals-konn1242-1	Konni, Ghana	Atlantic-Congo	konn1242	decimal		Enock Appiah Tieku	
+numerals-kono1265-1	Konongo, Tanzania	Atlantic-Congo	kono1265	decimal		Enock Appiah Tieku	
+numerals-koon1244-1	Kikongo (Iwoyo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	
+numerals-koon1244-2	Kikongo ( Koongo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	
+numerals-koon1244-3	Kikongo ( Koongo), DR of the Congo	Atlantic-Congo	koon1244	decimal		Enock Appiah Tieku	
+numerals-koon1245-1	Koonzime, Cameroon	Atlantic-Congo	koon1245	mixed		Enock Appiah Tieku	
+numerals-koro1298-1	Koromfé, Burkina Faso	Atlantic-Congo	koro1298	decimal		Enock Appiah Tieku	
+numerals-koro1304-1	Korop, Nigeria	Atlantic-Congo	koro1304	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kota1274-1	Kota, Gabon, Congo	Atlantic-Congo	kota1274	decimal		Enock Appiah Tieku	quaternary 7=4+3, quinary 9=5+4
+numerals-kota1274-2	Kota, Gabon, Congo	Atlantic-Congo	kota1274	decimal		Enock Appiah Tieku	quaternary 7=4+3, quinary 9=5+4
+numerals-koyo1242-1	Koyo, DR of the Congo	Atlantic-Congo	koyo1242	decimal		Enock Appiah Tieku	
+numerals-kpas1242-1	Nyesam (Kpasham), Nigeria	Atlantic-Congo	kpas1242	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kpla1238-1	Kplang (Prang), Ghana	Atlantic-Congo	kpla1238	decimal		Enock Appiah Tieku	
+numerals-krac1238-1	Krache (Kaakyi), Ghana	Atlantic-Congo	krac1238	decimal		Enock Appiah Tieku	
+numerals-krim1238-1	Krim (Kim), Sierra Leone	Atlantic-Congo	krim1238	quinary AND vigesimal		Enock Appiah Tieku	numerals end at 50
+numerals-kuan1247-1	Kwanyama, Angola, Namibia	Atlantic-Congo	kuan1247	quinary AND decimal		Enock Appiah Tieku	
+numerals-kuke1242-1	Kukele, Nigeria	Atlantic-Congo	kuke1242	mixed		Enock Appiah Tieku	7-8 are base 4
+numerals-kukk1239-1	Kuk, Cameroon	Atlantic-Congo	kukk1239	decimal		Enock Appiah Tieku	
+numerals-kund1255-1	Kunda, Zambia, Zimbabwe	Atlantic-Congo	kund1255	quinary AND decimal		Enock Appiah Tieku	
+numerals-kung1260-1	Kung, Cameroon	Atlantic-Congo	kung1260	decimal		Enock Appiah Tieku	
+numerals-kura1249-1	Kurama (Akurmi), Kaduna, Nigeria	Atlantic-Congo	kura1249	decimal		Enock Appiah Tieku	
+numerals-kuri1259-1	Kuria, Tanzania, Kenya	Atlantic-Congo	kuri1259	decimal		Enock Appiah Tieku	quaternary - 8=4*?, quinary - 6=5*?,  7 and 9 are compounds
+numerals-kusa1250-1	Kusaal, Ghana, Burkina Faso	Atlantic-Congo	kusa1250	decimal		Enock Appiah Tieku	6-7 are compounds
+numerals-kute1248-1	Kuteb (Kutev), Nigeria	Atlantic-Congo	kute1248	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-kute1248-2	Kuteb (Kutev), Nigeria	Atlantic-Congo	kute1248	mixed		Enock Appiah Tieku	30 = 10x3 - decimal
+numerals-kuwa1246-1	Kwatay (Kwaataay), Senegal	Atlantic-Congo	kuwa1246	quinary AND vigesimal		Enock Appiah Tieku	forms of higher crowns seem borrowed
+numerals-kwaa1262-1	Kwa (Baa), Adamawa, Nigeria	Atlantic-Congo	kwaa1262	quinary AND vigesimal		Enock Appiah Tieku	quinary 6=5*1, 7=5+2 8-9?
+numerals-kwaa1262-2	Kwa (Baa), Adamawa, Nigeria	Atlantic-Congo	kwaa1262	quinary AND vigesimal		Enock Appiah Tieku	quinary 6=5*1, 7=5+2 8-9?
+numerals-kwak1266-1	Kwakum, Cameroon	Atlantic-Congo	kwak1266	decimal		Enock Appiah Tieku	
+numerals-kwan1273-1	Kwangali, Namibia, Angola	Atlantic-Congo	kwan1273	mixed		Enock Appiah Tieku	
+numerals-kwan1276-1	Kwanja (Konja), Cameroon	Atlantic-Congo	kwan1276	quinary AND decimal		Enock Appiah Tieku	
+numerals-kwas1243-1	Ngumba, Cameroon	Atlantic-Congo	kwas1243	decimal		Enock Appiah Tieku	7 s a compound
+numerals-kway1241-1	Kwaya, Tanzania	Atlantic-Congo	kway1241	decimal		Enock Appiah Tieku	
+numerals-laal1241-1	Láá Láá Bwamu, Burkina Faso	Atlantic-Congo	laal1241	mixed		Enock Appiah Tieku	6-8 quinary base, 10 is an atom, 30 has a vigesimal base, 40 is an atom, 50=40+10
+numerals-laar1238-1	Laari, Congo, Angola	Atlantic-Congo	laar1238	decimal		Enock Appiah Tieku	
+numerals-laim1240-1	Laimbue, Cameroon	Atlantic-Congo	laim1240	decimal		Enock Appiah Tieku	
+numerals-lala1264-1	Lala-Bisa, Zambia	Atlantic-Congo	lala1264	mixed		Enock Appiah Tieku	
+numerals-lama1275-1	Lama (Lamba), Togo, Ghana	Atlantic-Congo	lama1275	decimal		Enock Appiah Tieku	quaternary - 7=4*? 8=4*?
+numerals-lamn1239-1	Lamnso', Cameroon	Atlantic-Congo	lamn1239	decimal		Enock Appiah Tieku	
+numerals-land1256-1	Landoma, Guinea	Atlantic-Congo	land1256	mixed		Enock Appiah Tieku	
+numerals-lang1318-1	Langbasi (Langbashe), CAR	Atlantic-Congo	lang1318	mixed		Enock Appiah Tieku	
+numerals-lang1320-1	Rangi (Langi), Tanzania	Atlantic-Congo	lang1320	decimal		Enock Appiah Tieku	
+numerals-lang1320-2	Rangi (Langi), Tanzania	Atlantic-Congo	lang1320	decimal		Enock Appiah Tieku	
+numerals-lart1238-1	Larteh, Ghana	Atlantic-Congo	lart1238	decimal		Enock Appiah Tieku	
+numerals-lart1238-2	Larteh, Ghana	Atlantic-Congo	lart1238	decimal		Enock Appiah Tieku	
+numerals-lefa1242-1	Lefa, Cameroon	Atlantic-Congo	lefa1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-lega1249-1	Lega-Shabunda, DR of the Congo	Atlantic-Congo	lega1249	decimal		Enock Appiah Tieku	
+numerals-lega1250-1	Lega-Mwenga, DR of the Congo	Atlantic-Congo	lega1250	decimal		Enock Appiah Tieku	
+numerals-lega1250-2	Lega-Mwenga, DR of the Congo	Atlantic-Congo	lega1250	decimal		Enock Appiah Tieku	
+numerals-leha1242-1	Laalaa (Lehar), Senegal	Atlantic-Congo	leha1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-lele1264-1	Lelemi, Ghana	Atlantic-Congo	lele1264	mixed		Enock Appiah Tieku	quaternary 6-8 are appear derived but their constituents are not discernible 
+numerals-lele1265-1	Lele (shiLele), DR of the Congo	Atlantic-Congo	lele1265	decimal		Enock Appiah Tieku	
+numerals-leng1258-1	Lengola, DR of the Congo	Atlantic-Congo	leng1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-lenj1248-1	Lenje, Zambia	Atlantic-Congo	lenj1248	quinary AND decimal		Enock Appiah Tieku	
+numerals-liji1238-1	Lijili, Nasarawa State, Nigeria	Atlantic-Congo	liji1238	decimal		Enock Appiah Tieku	
+numerals-lika1243-1	Lika, DR of the Congo	Atlantic-Congo	lika1243	decimal		Enock Appiah Tieku	senary 7=6*1
+numerals-likw1239-1	Likwala, DR of the Congo	Atlantic-Congo	likw1239	decimal		Enock Appiah Tieku	the form for 10 in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-lima1246-1	Limassa, Congo, CAR	Atlantic-Congo	lima1246	vigesimal		Enock Appiah Tieku	
+numerals-limb1268-1	Limbum, Cameroon	Atlantic-Congo	limb1268	decimal		Enock Appiah Tieku	
+numerals-limb1268-2	Limbum, Cameroon	Atlantic-Congo	limb1268	decimal		Enock Appiah Tieku	
+numerals-ling1263-1	Lingala (Ngala), DR of the Congo	Atlantic-Congo	ling1263	decimal		Enock Appiah Tieku	
+numerals-loba1239-1	Lobala, DR of the Congo, Congo	Atlantic-Congo	loba1239	decimal		Enock Appiah Tieku	
+numerals-lobi1245-1	Lobi, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	lobi1245	vigesimal		Enock Appiah Tieku	traces of quinary in 6-9
+numerals-logb1245-1	Logba, Ghana	Atlantic-Congo	logb1245	decimal		Enock Appiah Tieku	quinary 7= 5+1
+numerals-logb1245-2	Logba, Ghana	Atlantic-Congo	logb1245	decimal		Enock Appiah Tieku	quinary 7= 5+1
+numerals-logo1258-1	Logooli, Kenya	Atlantic-Congo	logo1258	decimal		Enock Appiah Tieku	6-9 and 50 are borrowed
+numerals-loka1252-1	Lokaa, Nigeria	Atlantic-Congo	loka1252	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-long1389-1	Longuda, Nigeria	Atlantic-Congo	long1389	decimal		Enock Appiah Tieku	quaternary 7=4+3, quinary 9=5+4
+numerals-long1389-2	Longuda, Nigeria	Atlantic-Congo	long1389	decimal		Enock Appiah Tieku	quaternary 7=4+3, quinary 9=5+4
+numerals-lozi1239-1	Lozi (Silozi), Zambia, Zimbabwe	Atlantic-Congo	lozi1239	quinary AND decimal		Enock Appiah Tieku	
+numerals-luba1249-1	Ciluba (Luba-Kasai), DR of the Congo	Atlantic-Congo	luba1249	decimal		Enock Appiah Tieku	7=?*2, 8=?*3
+numerals-luba1250-1	Luba-Katanga, DR of the Congo	Atlantic-Congo	luba1250	decimal		Enock Appiah Tieku	quinary? 6-7
+numerals-luch1239-1	Luchazi, Angola, Zambia	Atlantic-Congo	luch1239	quinary AND decimal		Enock Appiah Tieku	
+numerals-lufu1237-1	Lufu, Nigeria	Atlantic-Congo	lufu1237	quinary		Enock Appiah Tieku	forms limited to 20
+numerals-lukp1238-1	Lukpa, Togo, Benin	Atlantic-Congo	lukp1238	vigesimal		Enock Appiah Tieku	6-9 are compounds without a uniform base
+numerals-lumb1249-1	Lumbu ( Yilumbu), Gabon	Atlantic-Congo	lumb1249	decimal		Enock Appiah Tieku	6-9 are compounds without a uniform base
+numerals-lund1266-1	Lunda, Zambia, Angola	Atlantic-Congo	lund1266	quinary AND decimal		Enock Appiah Tieku	
+numerals-lyel1241-1	Lyélé, Burkina Faso	Atlantic-Congo	lyel1241	quinary AND decimal		Enock Appiah Tieku	6-7 are base five, 8-9?
+numerals-mada1282-1	Mada (Madda), Nigeria	Atlantic-Congo	mada1282	mixed		Enock Appiah Tieku	two systems, two forms
+numerals-maho1248-2	Mahongwe, Gabon	Atlantic-Congo	maho1248	mixed		Enock Appiah Tieku	quaternary - 7=4*3, quinary = 
+numerals-maka1304-1	Makaa, Cameroon	Atlantic-Congo	maka1304	decimal		Enock Appiah Tieku	
+numerals-makh1261-1	Makhuwa-Meetto, Mozambique	Atlantic-Congo	makh1261	decimal		Enock Appiah Tieku	
+numerals-makh1262-1	Makhuwa-Marrevone, Mozambique	Atlantic-Congo	makh1262	quinary AND decimal		Enock Appiah Tieku	
+numerals-mako1251-1	Makonde, Mozambique, Tanzania	Atlantic-Congo	mako1251	quinary AND decimal		Enock Appiah Tieku	20 i s borrowed
+numerals-malb1235-1	Malba Birifor, Burkina Faso	Atlantic-Congo	malb1235	quinary AND vigesimal		Enock Appiah Tieku	7-8 are base 5
+numerals-mali1279-1	Malila, Tanzania, Malawi	Atlantic-Congo	mali1279	mixed		Enock Appiah Tieku	20 is borrowed but the base for 21-29 are from 10
+numerals-mamp1244-1	Mampruli, Ghana	Atlantic-Congo	mamp1244	decimal		Enock Appiah Tieku	
+numerals-mand1423-1	(ki)Manda, Tanzania	Atlantic-Congo	mand1423	decimal		Enock Appiah Tieku	
+numerals-mank1251-1	Mankanya, Guinea-Bissau	Atlantic-Congo	mank1251	quinary AND decimal		Enock Appiah Tieku	
+numerals-mans1259-1	Mansoanka (Sua), Guinea-Bissau	Atlantic-Congo	mans1259	quinary AND decimal		Enock Appiah Tieku	
+numerals-masa1299-1	Masaba ( N. Dialect), Uganda	Atlantic-Congo	masa1299	decimal		Enock Appiah Tieku	
+numerals-masa1299-2	Masaba ( S. Dialect), Uganda	Atlantic-Congo	masa1299	decimal		Enock Appiah Tieku	
+numerals-mate1258-1	Matengo, Tanzania	Atlantic-Congo	mate1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-maxi1236-1	Maxi-Gbe, Togo, Benin	Atlantic-Congo	maxi1236	mixed		Enock Appiah Tieku	
+numerals-mayo1261-1	Mayogo, DR of the Congo	Atlantic-Congo	mayo1261	decimal		Enock Appiah Tieku	
+numerals-mbaa1245-1	Mba, DR of the Congo	Atlantic-Congo	mbaa1245	quinary AND decimal		Enock Appiah Tieku	
+numerals-mbal1257-1	Mbala, DR of the Congo	Atlantic-Congo	mbal1257	decimal		Enock Appiah Tieku	
+numerals-mbal1257-2	Yaka, DR of the Congo	Atlantic-Congo	mbal1257	decimal		Enock Appiah Tieku	
+numerals-mban1263-1	Mbanza (Mabandja), DR of the Congo	Atlantic-Congo	mban1263	decimal		Enock Appiah Tieku	senary - 7=6*1, octal - 9=8*1
+numerals-mban1268-1	Mbangwe, Gabon, Congo	Atlantic-Congo	mban1268	decimal		Enock Appiah Tieku	
+numerals-mbee1249-1	Mbe, Nigeria	Atlantic-Congo	mbee1249	quinary AND vigesimal		Enock Appiah Tieku	different bases for 6-9. 15 is an atom 
+numerals-mbel1240-1	Mbelime, Benin	Atlantic-Congo	mbel1240	decimal		Enock Appiah Tieku	
+numerals-mber1257-1	Mbere (Mbete), Gabon, Congo	Atlantic-Congo	mber1257	decimal		Enock Appiah Tieku	
+numerals-mbok1243-1	Mboko (Ngare), Congo	Atlantic-Congo	mbok1243	decimal		Enock Appiah Tieku	
+numerals-mbos1242-1	Mbosi (Bonji dialect), Congo	Atlantic-Congo	mbos1242	decimal		Enock Appiah Tieku	
+numerals-mbow1246-1	Mbowe, Zambia	Atlantic-Congo	mbow1246	quinary AND decimal		Enock Appiah Tieku	
+numerals-mbug1242-1	Mbugwe, Tanzania	Atlantic-Congo	mbug1242	decimal		Enock Appiah Tieku	6 is derived - has the form of three
+numerals-mbuk1240-1	Mbukushu, Namibia, Botswana	Atlantic-Congo	mbuk1240	quinary AND decimal		Enock Appiah Tieku	
+numerals-mbul1258-1	Mbulungish (Baga-Foré), Guinea	Atlantic-Congo	mbul1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-mbul1260-1	Mbula-Bwazaa, Nigeria	Atlantic-Congo	mbul1260	mixed		Enock Appiah Tieku	
+numerals-mbul1262-1	Mbule (Dumbule), Cameroon	Atlantic-Congo	mbul1262	quinary AND vigesimal		Enock Appiah Tieku	7 and 9 are derived from 6 and 8 but evidence of quinary in forms 11-15 and 15-20
+numerals-mbum1254-1	Mbum, Cameroon, CAR	Atlantic-Congo	mbum1254	decimal		Enock Appiah Tieku	7-10 are derived from 10 - 7=10-3, 8=10-2, 9=10-1
+numerals-mbun1249-1	Mbunda, Zambia, Angola	Atlantic-Congo	mbun1249	quinary AND decimal		Enock Appiah Tieku	
+numerals-mbuu1238-1	Ajumbu, Cameroon	Atlantic-Congo	mbuu1238	decimal		Enock Appiah Tieku	
+numerals-medu1238-1	Medumba, Cameroon	Atlantic-Congo	medu1238	decimal		Enock Appiah Tieku	7 derived from two
+numerals-medu1238-2	Medumba, Cameroon	Atlantic-Congo	medu1238	decimal		Enock Appiah Tieku	7 derived from two
+numerals-mend1261-1	Mendankwe-Nkwen, Cameroon	Atlantic-Congo	mend1261	decimal		Enock Appiah Tieku	
+numerals-meng1263-1	Mengisa, Cameroon	Atlantic-Congo	meng1263	decimal		Enock Appiah Tieku	
+numerals-meng1264-1	Mengaka (Megaka), Cameroon	Atlantic-Congo	meng1264	decimal		Enock Appiah Tieku	
+numerals-meru1245-1	Meru (Kimeru), Kenya	Atlantic-Congo	meru1245	decimal		Enock Appiah Tieku	
+numerals-meru1245-2	Meru (Kimeru), Kenya	Atlantic-Congo	meru1245	decimal		Enock Appiah Tieku	6 and 8 are reduplications of 3 and 4 respectively 
+numerals-mfum1238-1	Mfumte (Koffa), Cameroon	Atlantic-Congo	mfum1238	decimal		Enock Appiah Tieku	
+numerals-miyo1238-1	Miyobe (Sola), Benin, Togo	Atlantic-Congo	miyo1238	mixed		Enock Appiah Tieku	28 = 30-2
+numerals-mmaa1238-1	Numaala (Mmaala), Cameroon	Atlantic-Congo	mmaa1238	vigesimal		Enock Appiah Tieku	quinary 6=5+1, senary 7=6+1, quaternary 8=4*, 9=4*4*1
+numerals-mmen1238-1	Mmen, Cameroon	Atlantic-Congo	mmen1238	decimal		Enock Appiah Tieku	7-9 are compounds whose constituent forms are unknown
+numerals-moba1244-1	Moba, Togo, Burkina Faso	Atlantic-Congo	moba1244	decimal		Enock Appiah Tieku	
+numerals-moch1256-1	Mochi (Kimochi), Tanzania	Atlantic-Congo	moch1256	decimal		Enock Appiah Tieku	
+numerals-mogh1246-1	Moghamo, Cameroon	Atlantic-Congo	mogh1246	decimal		Enock Appiah Tieku	
+numerals-momj1237-1	Mom Jango, Nigeria, Cameroon	Atlantic-Congo	momj1237	vigesimal		Enock Appiah Tieku	
+numerals-mong1338-1	Mongo-Nkundu, DR of the Congo	Atlantic-Congo	mong1338	decimal		Enock Appiah Tieku	
+numerals-mono1270-1	Mono, DR of the Congo	Atlantic-Congo	mono1270	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-mono1270-2	Mono, DR of the Congo	Atlantic-Congo	mono1270	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-monz1249-1	Monzombo, CAR, Congo	Atlantic-Congo	monz1249	decimal		Enock Appiah Tieku	
+numerals-moss1236-1	Mòoré, Burkina Faso, Togo, Mali	Atlantic-Congo	moss1236	decimal		Enock Appiah Tieku	
+numerals-mpie1238-1	Mpyemo, CAR, Cameroon	Atlantic-Congo	mpie1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-mpie1238-2	Mpyemo, CAR, Cameroon	Atlantic-Congo	mpie1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-mpon1254-1	Mpumpong, Cameroon	Atlantic-Congo	mpon1254	quinary AND decimal		Enock Appiah Tieku	
+numerals-mpuo1241-2	Mbuun, DR of the Congo	Atlantic-Congo	mpuo1241	decimal		Enock Appiah Tieku	
+numerals-mund1325-1	Mundang, Chad, Cameroon	Atlantic-Congo	mund1325	decimal		Enock Appiah Tieku	
+numerals-mund1325-2	Mundang, Chad, Cameroon	Atlantic-Congo	mund1325	decimal		Enock Appiah Tieku	
+numerals-mund1326-1	Mündü, Sudan	Atlantic-Congo	mund1326	decimal		Enock Appiah Tieku	
+numerals-mund1327-1	Mundani, Cameroon	Atlantic-Congo	mund1327	decimal		Enock Appiah Tieku	
+numerals-mund1328-1	Mundabli, Cameroon	Atlantic-Congo	mund1328	decimal		Enock Appiah Tieku	
+numerals-mung1266-1	Mungaka (Bali), Cameroon	Atlantic-Congo	mung1266	decimal		Enock Appiah Tieku	
+numerals-mush1238-1	Mushunguli, Somalia	Atlantic-Congo	mush1238	decimal		Enock Appiah Tieku	new forms are introduced after ten
+numerals-myen1241-1	Myene (òɾúŋɡú), Gabon	Atlantic-Congo	myen1241	decimal		Enock Appiah Tieku	
+numerals-myen1241-2	Myene (Mpongwe), Gabon	Atlantic-Congo	myen1241	decimal		Enock Appiah Tieku	
+numerals-nafa1258-1	Nafaanra Senoufo, Ghana	Atlantic-Congo	nafa1258	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-naki1238-1	Naki, Cameroon	Atlantic-Congo	naki1238	decimal		Enock Appiah Tieku	
+numerals-nalu1240-1	Nalu, Guinea	Atlantic-Congo	nalu1240	quinary AND decimal		Enock Appiah Tieku	
+numerals-nalu1240-2	Nalu, Guinea	Atlantic-Congo	nalu1240	quinary AND decimal		Enock Appiah Tieku	
+numerals-nand1264-1	(ki)Nande, DR of the Congo	Atlantic-Congo	nand1264	decimal		Enock Appiah Tieku	
+numerals-nate1242-1	Nateni, Benin	Atlantic-Congo	nate1242	decimal		Enock Appiah Tieku	
+numerals-nate1242-2	Nateni, Benin	Atlantic-Congo	nate1242	decimal		Enock Appiah Tieku	
+numerals-nawd1238-1	Nawdm, Togo, Ghana	Atlantic-Congo	nawd1238	decimal		Enock Appiah Tieku	
+numerals-nawu1242-1	Nawuri, Ghana	Atlantic-Congo	nawu1242	decimal		Enock Appiah Tieku	
+numerals-ndal1241-1	Ndali, Malawi, Tanzania	Atlantic-Congo	ndal1241	quinary AND decimal		Enock Appiah Tieku	
+numerals-ndam1239-1	Ndamba (Chindamba), Tanzania	Atlantic-Congo	ndam1239	decimal		Enock Appiah Tieku	
+numerals-ndan1241-1	Nda'nda', Cameroon	Atlantic-Congo	ndan1241	decimal		Enock Appiah Tieku	
+numerals-ndas1238-1	Ndasa, Congo, Gabon	Atlantic-Congo	ndas1238	decimal		Enock Appiah Tieku	
+numerals-ndem1249-1	Ndemli, Cameroon	Atlantic-Congo	ndem1249	decimal		Enock Appiah Tieku	
+numerals-nden1249-1	Ndendeule, Tanzania	Atlantic-Congo	nden1249	quinary AND decimal		Enock Appiah Tieku	
+numerals-nden1250-1	Nde-Ndele-Nta, Nigeria	Atlantic-Congo	nden1250	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ndog1248-1	Ndogo, Sudan	Atlantic-Congo	ndog1248	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ndoo1241-1	Ndoola (Doori), Nigeria, Cameroon	Atlantic-Congo	ndoo1241	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ndoo1241-2	Ndoola (Doori), Nigeria, Cameroon	Atlantic-Congo	ndoo1241	quinary		Enock Appiah Tieku	
+numerals-ndum1239-1	Ndumu, Gabon	Atlantic-Congo	ndum1239	decimal		Enock Appiah Tieku	
+numerals-ndut1239-1	Ndut, Senegal	Atlantic-Congo	ndut1239	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ngam1267-1	Ngamambo, Cameroon	Atlantic-Congo	ngam1267	decimal		Enock Appiah Tieku	
+numerals-ngam1267-2	Ngamambo, Cameroon	Atlantic-Congo	ngam1267	decimal		Enock Appiah Tieku	
+numerals-ngan1299-1	Ngangam, Togo, Benin	Atlantic-Congo	ngan1299	decimal		Enock Appiah Tieku	
+numerals-ngan1299-2	Ngangam, Togo, Benin	Atlantic-Congo	ngan1299	decimal		Enock Appiah Tieku	
+numerals-ngaz1238-1	Ngazidja Comorian, Comoros	Atlantic-Congo	ngaz1238	decimal		Enock Appiah Tieku	
+numerals-ngba1284-1	Ngabaka Ma'bo, CAR, Congo	Atlantic-Congo	ngba1284	decimal		Enock Appiah Tieku	
+numerals-ngba1285-1	Ngabaka, Congo, DR of the Congo	Atlantic-Congo	ngba1285	decimal		Enock Appiah Tieku	
+numerals-ngel1238-1	Ngelima, Tshopo Province, Basoko Territory, DR of the Congo	Atlantic-Congo	ngel1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-ngie1241-1	Ngiemboon, Cameroon	Atlantic-Congo	ngie1241	decimal		Enock Appiah Tieku	
+numerals-ngie1242-1	Ngie, Cameroon	Atlantic-Congo	ngie1242	decimal		Enock Appiah Tieku	
+numerals-ngie1242-2	Ngie, Cameroon	Atlantic-Congo	ngie1242	decimal		Enock Appiah Tieku	
+numerals-ngom1270-1	Ngom, Gabon, Congo	Atlantic-Congo	ngom1270	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-ngom1271-1	Ngombale, Cameroon	Atlantic-Congo	ngom1271	decimal		Enock Appiah Tieku	
+numerals-ngom1272-1	Ngomba, Cameroon	Atlantic-Congo	ngom1272	decimal		Enock Appiah Tieku	
+numerals-ngon1267-1	Nɡonɡo, DR of the Congo	Atlantic-Congo	ngon1267	decimal		Enock Appiah Tieku	
+numerals-ngon1269-1	Chingoni, Tanzania, Mozambique	Atlantic-Congo	ngon1269	quinary AND decimal		Enock Appiah Tieku	
+numerals-ngon1269-2	Chingoni, Tanzania, Mozambique	Atlantic-Congo	ngon1269	quinary		Enock Appiah Tieku	numerals limited to 19
+numerals-ngul1247-1	Ngwi, Kwilu Prov., DR of the Congo	Atlantic-Congo	ngul1247	decimal		Enock Appiah Tieku	
+numerals-ngul1247-2	Ngul, Kwilu, DR of the Congo	Atlantic-Congo	ngul1247	decimal		Enock Appiah Tieku	numerals limited to 20
+numerals-ngun1272-1	Ngungwel, Congo	Atlantic-Congo	ngun1272	decimal		Enock Appiah Tieku	
+numerals-ngun1272-2	Ngungwel, Congo	Atlantic-Congo	ngun1272	decimal		Enock Appiah Tieku	
+numerals-ngur1263-1	Ngoreme (Ngurimi), Tanzania	Atlantic-Congo	ngur1263	decimal		Enock Appiah Tieku	
+numerals-ngwe1238-1	Ngwe, Cameroon	Atlantic-Congo	ngwe1238	vigesimal		Enock Appiah Tieku	
+numerals-ngwo1241-1	Ngwo, Cameroon	Atlantic-Congo	ngwo1241	vigesimal		Enock Appiah Tieku	
+numerals-nige1255-1	Len Mambila, Tabara State, Nigeria	Atlantic-Congo	nige1255	decimal		Enock Appiah Tieku	
+numerals-nige1255-2	Nigerian Mambila, Nigeria	Atlantic-Congo	nige1255	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-nila1242-1	Nilamba, Tanzania	Atlantic-Congo	nila1242	decimal		Enock Appiah Tieku	
+numerals-ninz1246-1	Ninzo, Kaduna State, Nigeria	Atlantic-Congo	ninz1246	decimal		Enock Appiah Tieku	
+numerals-njeb1242-1	Njebi (Njabi), Gabon, Congo	Atlantic-Congo	njeb1242	decimal		Enock Appiah Tieku	
+numerals-nkem1242-1	Nkem-Nkum (Nkim), Nigeria	Atlantic-Congo	nkem1242	vigesimal		Enock Appiah Tieku	
+numerals-nkhu1238-1	Nkumbi, Angola	Atlantic-Congo	nkhu1238	decimal		Enock Appiah Tieku	
+numerals-nkon1248-1	Nkonya, Ghana	Atlantic-Congo	nkon1248	decimal		Enock Appiah Tieku	
+numerals-nkoy1244-1	Nkoya, Zambia	Atlantic-Congo	nkoy1244	quinary AND decimal		Enock Appiah Tieku	
+numerals-noma1260-1	Nomaande, Cameroon	Atlantic-Congo	noma1260	quinary AND vigesimal		Enock Appiah Tieku	6-9 are compounds formed from different bases. 15 is an atom
+numerals-noon1242-1	Noon, Senegal	Atlantic-Congo	noon1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-noon1243-1	Noone (Noni), Cameroon	Atlantic-Congo	noon1243	decimal		Enock Appiah Tieku	6-9 are compounds formed from different bases
+numerals-nort2770-1	North Fali, Cameroon	Atlantic-Congo	nort2770	decimal		Enock Appiah Tieku	quaternary - 8 = 4*4, 7 and 9 are compounds
+numerals-nort2774-1	Northern Ngbandi, DR of the Congo	Atlantic-Congo	nort2774	decimal		Enock Appiah Tieku	7-9 are compounds
+numerals-nort2775-1	Northwest Gbaya, Cameroon, CAR	Atlantic-Congo	nort2775	quinary AND decimal		Enock Appiah Tieku	
+numerals-nort2780-1	Northern Dagaara, Burkina Faso	Atlantic-Congo	nort2780	vigesimal		Enock Appiah Tieku	
+numerals-nort2784-1	Northern Nuni, Burkina Faso	Atlantic-Congo	nort2784	decimal		Enock Appiah Tieku	
+numerals-nort2787-1	Northern Toussian, Burkina Faso	Atlantic-Congo	nort2787	mixed		Enock Appiah Tieku	there seem to be a lot of borrowings which could affect judgement of bases. 20 is an atom that differs from the form 2 but 21-29 have the form of two as a base, the crowns after 20 - 30, 40, 50, are derived with the same form for two - suggesting a vigesimal system
+numerals-nort2787-2	Northern Toussian, Burkina Faso	Atlantic-Congo	nort2787	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-notr1240-1	Notre, Benin	Atlantic-Congo	notr1240	decimal		Enock Appiah Tieku	
+numerals-nsen1242-1	Nsenga, Malawi, Zambia	Atlantic-Congo	nsen1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-ntch1242-1	Ntcham, Togo, Ghana	Atlantic-Congo	ntch1242	mixed		Enock Appiah Tieku	11, 19, 21, are atoms, 10 seems a compound
+numerals-nuba1241-1	Nubaca (Baca), Cameroon	Atlantic-Congo	nuba1241	quinary AND vigesimal		Enock Appiah Tieku	7 = 6 + 1, 9=8+1. 15 is an atom 
+numerals-nucl1240-1	Mumuye, Nigeria	Atlantic-Congo	nucl1240	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-nucl1347-1	Wolof, Senegal	Atlantic-Congo	nucl1347	quinary AND decimal		Enock Appiah Tieku	
+numerals-nucl1379-1	Kinga, Njombe region, Tanzania	Atlantic-Congo	nucl1379	decimal		Enock Appiah Tieku	6 - 9 seem compounds with non-transparent constituents
+numerals-nucl1410-1	Befang, Cameroon	Atlantic-Congo	nucl1410	decimal		Enock Appiah Tieku	quaternary - 7=4*3, quinary - 9=5*4
+numerals-nucl1417-1	Igbo, Nigeria	Atlantic-Congo	nucl1417	decimal		Enock Appiah Tieku	
+numerals-nucl1417-2	Échiè Igbo, Nigeria	Atlantic-Congo	nucl1417	vigesimal		Enock Appiah Tieku	
+numerals-nucl1417-3	Igbo, Nigeria	Atlantic-Congo	nucl1417	decimal		Enock Appiah Tieku	
+numerals-nugu1242-1	Nugunu (Yambasa), Cameroon	Atlantic-Congo	nugu1242	quinary AND vigesimal		Enock Appiah Tieku	quinary - 6=5+1, 7=5+2). 15 is an atom
+numerals-nupe1254-1	Nupe, Nigeria	Atlantic-Congo	nupe1254	quinary AND vigesimal		Enock Appiah Tieku	28 = 30-2, 29=30-1
+numerals-nyak1260-1	Nyakyusa, Tanzania, Malawi	Atlantic-Congo	nyak1260	decimal		Enock Appiah Tieku	
+numerals-nyal1250-1	Nyali, DR of the Congo	Atlantic-Congo	nyal1250	decimal		Enock Appiah Tieku	
+numerals-nyam1276-1	Nyamwezi, Tanzania	Atlantic-Congo	nyam1276	decimal		Enock Appiah Tieku	
+numerals-nyan1302-1	Nyangbo, Ghana	Atlantic-Congo	nyan1302	decimal		Enock Appiah Tieku	form of 10 that serves as base for higher numerals seems borrowed
+numerals-nyan1302-2	Nyangbo, Ghana	Atlantic-Congo	nyan1302	decimal		Enock Appiah Tieku	9 has a form of three?
+numerals-nyan1307-1	Nyankole (Nyankore), Uganda	Atlantic-Congo	nyan1307	decimal		Enock Appiah Tieku	quaternary - 8 = 4 reduplicated?
+numerals-nyan1307-2	Nyankole, Uganda	Atlantic-Congo	nyan1307	decimal		Enock Appiah Tieku	crowns for 30 up have the forms of 10 deleted
+numerals-nyan1308-1	Nyanja (Chichewa), Malawi, Zambia	Atlantic-Congo	nyan1308	quinary AND decimal		Enock Appiah Tieku	
+numerals-nyar1245-1	Nyarafolo Senoufo, Côte d'Ivoire	Atlantic-Congo	nyar1245	decimal AND vigesimal		Enock Appiah Tieku	
+numerals-nyat1246-1	Nyaturu (Rimi), Tanzania	Atlantic-Congo	nyat1246	decimal		Enock Appiah Tieku	
+numerals-nyol1238-1	Nyole (Lunyole), Uganda	Atlantic-Congo	nyol1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-nyor1244-1	Nyore, Kenya	Atlantic-Congo	nyor1244	decimal		Enock Appiah Tieku	
+numerals-nyor1246-1	Nyoro, Uganda	Atlantic-Congo	nyor1246	decimal		Enock Appiah Tieku	
+numerals-nyun1248-1	Nyungwe, Mozambique	Atlantic-Congo	nyun1248	decimal		Enock Appiah Tieku	
+numerals-nzak1246-1	Nzakambay, Cameroon, Chad	Atlantic-Congo	nzak1246	decimal		Enock Appiah Tieku	7=10-3, 8=10-2, 9=10-1
+numerals-nzak1247-1	Nzakara, CAR, DR of the Congo	Atlantic-Congo	nzak1247	quinary AND decimal		Enock Appiah Tieku	
+numerals-nzak1247-2	Nzakara, CAR, DR of the Congo	Atlantic-Congo	nzak1247	quinary AND decimal		Enock Appiah Tieku	
+numerals-nzim1238-1	Nzema, Côte d'Ivoire, Ghana	Atlantic-Congo	nzim1238	decimal		Enock Appiah Tieku	
+numerals-obol1243-1	Obolo, Nigeria	Atlantic-Congo	obol1243	quinary AND decimal		Enock Appiah Tieku	
+numerals-odua1238-1	Odual, Nigeria	Atlantic-Congo	odua1238	mixed		Enock Appiah Tieku	base 80
+numerals-ogbi1239-1	Ogbia, Bayelsa state, Nigeria	Atlantic-Congo	ogbi1239	mixed		Enock Appiah Tieku	
+numerals-ogbi1239-2	Ogbia, Bayelsa state, Nigeria	Atlantic-Congo	ogbi1239	vigesimal		Enock Appiah Tieku	
+numerals-ogbr1243-1	Ogbronuagum (Bukuma), Nigeria	Atlantic-Congo	ogbr1243	vigesimal		Enock Appiah Tieku	
+numerals-ogee1238-1	Òɡè, Àkókó, Ondo State, Nigeria	Atlantic-Congo	ogee1238	mixed		Enock Appiah Tieku	10, 20, 40, 60, 80 and 100 are atoms. 30=20+10, 50=40+10, 70=60+10, 90=80+10
+numerals-okoe1238-1	Oko (Oko-Eni-Osayen), Nigeria	Atlantic-Congo	okoe1238	mixed		Enock Appiah Tieku	traces of quinary in 6 and 7. 10, 20, 40, 60, 80 and 100 are atoms. 30=20+10, 50=40+10, 70=60+10, 90=80+10
+numerals-okpa1238-1	Okpamheri, Nigeria	Atlantic-Congo	okpa1238	decimal		Enock Appiah Tieku	
+numerals-omba1241-1	Ombamba (Lembaama), Gabon	Atlantic-Congo	omba1241	decimal		Enock Appiah Tieku	
+numerals-orin1239-1	Utɔnkɔn (Oring), Nigeria	Atlantic-Congo	orin1239	vigesimal		Enock Appiah Tieku	7-8 are compounds derived from a base 4
+numerals-orin1239-2	Koring (Oring), Nigeria	Atlantic-Congo	orin1239	mixed		Enock Appiah Tieku	
+numerals-orok1266-1	Oroko, Cameroon	Atlantic-Congo	orok1266	quinary AND vigesimal		Enock Appiah Tieku	15 is an atom. traces of base 5 in 6, 7
+numerals-oroo1241-1	Oro, Nigeria	Atlantic-Congo	oroo1241	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-osos1238-1	Ososo, Edo State, Nigeria	Atlantic-Congo	osos1238	vigesimal		Enock Appiah Tieku	
+numerals-paas1238-1	Paasaal (Passale), Ghana	Atlantic-Congo	paas1238	vigesimal		Enock Appiah Tieku	decimal - 10-20
+numerals-pagi1243-2	Paɡibete, DR of the Congo	Atlantic-Congo	pagi1243	decimal		Enock Appiah Tieku	
+numerals-pagi1243-3	Paɡibete, DR of the Congo	Atlantic-Congo	pagi1243	decimal		Enock Appiah Tieku	
+numerals-pala1342-1	Palaka Senoufo, Côte d'Ivoire	Atlantic-Congo	pala1342	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-palo1243-1	Palor (Falor), Senegal	Atlantic-Congo	palo1243	quinary AND decimal		Enock Appiah Tieku	
+numerals-pana1293-1	Pana, Cameroon, Chad, CAR	Atlantic-Congo	pana1293	decimal		Enock Appiah Tieku	7=10-3, 8=10-2, 9=10-1
+numerals-pape1239-1	Papel, Guinea-Bissau, Senegal	Atlantic-Congo	pape1239	decimal		Enock Appiah Tieku	9=10-1 is a compound
+numerals-pedi1238-1	Northern Sotho, South Africa	Atlantic-Congo	pedi1238	decimal		Enock Appiah Tieku	
+numerals-peer1241-1	Peere (Kutin), Cameroon	Atlantic-Congo	peer1241	decimal		Enock Appiah Tieku	6=5+1, 7-9 borrowed?
+numerals-phen1239-1	Phende, DR of the Congo	Atlantic-Congo	phen1239	decimal		Enock Appiah Tieku	
+numerals-phen1239-2	Phende, DR of the Congo	Atlantic-Congo	phen1239	decimal		Enock Appiah Tieku	
+numerals-phui1238-1	Phuie (Puguli), Burkina Faso	Atlantic-Congo	phui1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-pimb1238-1	Gongwe, Tanzania	Atlantic-Congo	pimb1238	decimal		Enock Appiah Tieku	
+numerals-pimb1238-2	Pimbwe, Tanzania	Atlantic-Congo	pimb1238	decimal		Enock Appiah Tieku	6-9 are borrowed, simple forms
+numerals-pinj1243-1	Pinji (Apindji), Gabon	Atlantic-Congo	pinj1243	decimal		Enock Appiah Tieku	
+numerals-piny1238-1	Pinyin, Cameroon	Atlantic-Congo	piny1238	decimal		Enock Appiah Tieku	
+numerals-pomo1271-1	Pol (Pomo), Cameroon, Congo	Atlantic-Congo	pomo1271	decimal		Enock Appiah Tieku	
+numerals-pong1250-1	Pongu (Pangu), Nigeria	Atlantic-Congo	pong1250	decimal		Enock Appiah Tieku	the form for 10 in the higher crowns differs from the form for 10. 30 = ?*3, 50=?*5
+numerals-pula1262-1	Pular, Guinea, Senegal, Mali	Atlantic-Congo	pula1262	quinary AND decimal		Enock Appiah Tieku	20 seems a compound whose forms are not discernible neither does it form a base for the higher numerals. The form for 10 in the higher crowns differs from the form for 10. 30 = ?*3, 50=?*5
+numerals-pula1263-1	Pulaar, Senegal, Mauritania	Atlantic-Congo	pula1263	quinary AND decimal		Enock Appiah Tieku	20 seems a compound whose forms are not discernible neither does it form a base for the higher numerals. The form for 10 in the higher crowns differs from the form for 10. 30 = ?*3, 50=?*5
+numerals-punu1239-1	Punu (Ipunu), Gabon, Congo	Atlantic-Congo	punu1239	decimal		Enock Appiah Tieku	
+numerals-putu1241-1	Utugwang-Irungene-Afrike, Nigeria	Atlantic-Congo	putu1241	quinary AND vigesimal		Enock Appiah Tieku	10 is an atom
+numerals-resh1242-1	Reshe (Tsureshe), Nigeria	Atlantic-Congo	resh1242	decimal		Enock Appiah Tieku	
+numerals-rund1242-1	Rundi, Burundi, Uganda	Atlantic-Congo	rund1242	decimal		Enock Appiah Tieku	quinary - 6=5*?,  the form of 10 in crowns ff 20 are different from the form of the numeral 10, possibly there was borrowing of 10
+numerals-rwaa1238-1	Rwa (Kirwa), Tanzania	Atlantic-Congo	rwaa1238	decimal		Enock Appiah Tieku	
+numerals-saaf1238-1	Saafi-Saafi (Safen), Senegal	Atlantic-Congo	saaf1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-saam1283-1	Saamia (Luyia), Kenya, Uganda	Atlantic-Congo	saam1283	decimal		Enock Appiah Tieku	
+numerals-saam1283-2	Saamia (Luyia), Kenya, Uganda	Atlantic-Congo	saam1283	decimal		Enock Appiah Tieku	
+numerals-safa1243-1	Safaliba, Ghana	Atlantic-Congo	safa1243	vigesimal		Enock Appiah Tieku	
+numerals-saka1287-1	Sakata, DR of the Congo, Congo	Atlantic-Congo	saka1287	decimal		Enock Appiah Tieku	
+numerals-sake1247-1	Sake, Gabon	Atlantic-Congo	sake1247	decimal		Enock Appiah Tieku	quinary - 7= 5*2
+numerals-sake1247-2	Sake, Gabon	Atlantic-Congo	sake1247	decimal		Enock Appiah Tieku	quinary - 7= 5*2
+numerals-samb1305-1	Samba Leko, Cameroon, Nigeria	Atlantic-Congo	samb1305	vigesimal		Enock Appiah Tieku	decimal - 10-20
+numerals-sang1331-1	Kisanga, DR of the Congo	Atlantic-Congo	sang1331	decimal		Enock Appiah Tieku	
+numerals-sang1333-1	Sangu (Isangu), Gabon	Atlantic-Congo	sang1333	decimal		Enock Appiah Tieku	
+numerals-saxw1241-1	Saxwe-Gbe, Benin	Atlantic-Congo	saxw1241	mixed		Enock Appiah Tieku	15 is an atom
+numerals-sehw1238-1	Sehwi, Ghana	Atlantic-Congo	sehw1238	decimal		Enock Appiah Tieku	
+numerals-seki1238-1	Seki, Gabon, Equatorial Guinea	Atlantic-Congo	seki1238	quinary AND decimal		Enock Appiah Tieku	the form for 10 in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-sekp1241-1	Sekpele, Ghana	Atlantic-Congo	sekp1241	decimal		Enock Appiah Tieku	6 and 7 appear to be compounds
+numerals-sekp1241-2	Sekpele, Ghana	Atlantic-Congo	sekp1241	decimal		Enock Appiah Tieku	
+numerals-sele1249-1	Selee (Santrokofi), Ghana	Atlantic-Congo	sele1249	decimal		Enock Appiah Tieku	
+numerals-seng1278-1	Sengele, DR of the Congo, Congo	Atlantic-Congo	seng1278	decimal		Enock Appiah Tieku	
+numerals-sere1260-1	Sereer-Sine, Senegal, Gambia	Atlantic-Congo	sere1260	quinary AND decimal		Enock Appiah Tieku	the form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-sere1260-2	Serer-Sine, Senegal, Gambia	Atlantic-Congo	sere1260	quinary AND decimal		Enock Appiah Tieku	the form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-sham1280-1	Shambala, Tanzania	Atlantic-Congo	sham1280	decimal		Enock Appiah Tieku	the form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-shem1239-1	Shempire Senoufo (Fourou), Mali	Atlantic-Congo	shem1239	quinary AND vigesimal		Enock Appiah Tieku	decimal - 10-20
+numerals-shem1239-2	Shempire Senoufo (Tengrela), Côte d'Ivoire	Atlantic-Congo	shem1239	quinary AND vigesimal		Enock Appiah Tieku	decimal - 10-20
+numerals-sher1258-1	Sherbro, Sierra Leone	Atlantic-Congo	sher1258	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-shii1238-1	Shi (Mashi), DR of the Congo	Atlantic-Congo	shii1238	decimal		Enock Appiah Tieku	
+numerals-shon1251-1	Shona, Zimbabwe, Botswana	Atlantic-Congo	shon1251	decimal		Enock Appiah Tieku	
+numerals-sici1249-1	Sìcìté Senoufo, Mali, Burkina Faso	Atlantic-Congo	sici1249	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-sigh1238-1	Sighu (Siwu), Gabon	Atlantic-Congo	sigh1238	decimal		Enock Appiah Tieku	
+numerals-sigh1238-2	Sighu, Gabon	Atlantic-Congo	sigh1238	decimal		Enock Appiah Tieku	
+numerals-sima1258-1	Simaa (Mwenyi), Zambia	Atlantic-Congo	sima1258	quinary AND decimal		Enock Appiah Tieku	
+numerals-sira1266-1	Sira (Gisira), Gabon	Atlantic-Congo	sira1266	decimal		Enock Appiah Tieku	quaternary 7=4+3
+numerals-siss1242-1	Sissala, Burkina Faso	Atlantic-Congo	siss1242	vigesimal		Enock Appiah Tieku	
+numerals-siwu1238-1	Siwu (Akpafu ), Ghana	Atlantic-Congo	siwu1238	decimal		Enock Appiah Tieku	the form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-siza1240-1	Sizaki, Tanzania	Atlantic-Congo	siza1240	decimal		Enock Appiah Tieku	quaternary 8= reduplication of 4? The constituents of 6-9 unknown. The form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-siza1240-2	Sizaki, Tanzania	Atlantic-Congo	siza1240	decimal		Enock Appiah Tieku	quaternary 8= reduplication of 4? The constituents of 6-9 unknown. The form for the base, 10, in the higher crowns differs from the form for 10. 20=?*2, 30 = ?*3, 50=?*5
+numerals-soga1242-1	Soga, Uganda	Atlantic-Congo	soga1242	decimal		Enock Appiah Tieku	the base seems optional in the crowns 20=(10)x2, 30=(10)x3, 40=(10)x4, 60=_6
+numerals-somy1238-1	Somyev (Kila Yang), Nigeria	Atlantic-Congo	somy1238	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-song1299-1	Nsong, DR of the Congo	Atlantic-Congo	song1299	decimal		Enock Appiah Tieku	4 and 8, 7 is a compound
+numerals-song1299-2	Songo, DR of the Congo	Atlantic-Congo	song1299	decimal		Enock Appiah Tieku	
+numerals-song1303-1	Songye, DR of the Congo	Atlantic-Congo	song1303	decimal		Enock Appiah Tieku	
+numerals-sout2778-1	Southern Kissi, Sierra Leone	Atlantic-Congo	sout2778	quinary AND decimal		Enock Appiah Tieku	crowns from 30 have the forms of 20 and lower numerals 3, 4, 5, … 
+numerals-sout2784-1	Southern Ngbandi, DR of the Congo	Atlantic-Congo	sout2784	decimal		Enock Appiah Tieku	
+numerals-sout2785-1	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	
+numerals-sout2785-2	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	
+numerals-sout2785-3	Southwest Gbaya, CAR, Cameroon	Atlantic-Congo	sout2785	quinary AND decimal		Enock Appiah Tieku	
+numerals-sout2787-1	Ngbugu, CAR, DR of the Congo	Atlantic-Congo	sout2787	quinary AND vigesimal		Enock Appiah Tieku	20=person but the form for person is replaced ff 40
+numerals-sout2787-2	Ngbugu, CAR, DR of the Congo	Atlantic-Congo	sout2787	quinary AND vigesimal		Enock Appiah Tieku	20=person but the form for person is replaced ff 40
+numerals-sout2789-1	Southern Dagaare, Ghana	Atlantic-Congo	sout2789	vigesimal		Enock Appiah Tieku	decimal - 10-20
+numerals-sout2790-1	Southern Birifor, Ghana	Atlantic-Congo	sout2790	vigesimal		Enock Appiah Tieku	9 = 9-1?
+numerals-sout2795-1	Southern Nuni, Burkina Faso	Atlantic-Congo	sout2795	mixed		Enock Appiah Tieku	30 = 10x3 - decimal, 50 = 10x5 - decimal
+numerals-sout2797-1	Southern Toussian, Burkina Faso	Atlantic-Congo	sout2797	mixed		Enock Appiah Tieku	30 = 10x3 - decimal
+numerals-sout2807-1	Southern Sotho, Lesotho	Atlantic-Congo	sout2807	decimal		Enock Appiah Tieku	
+numerals-sout2808-1	Southern Ndebele, South Africa	Atlantic-Congo	sout2808	decimal		Enock Appiah Tieku	
+numerals-suba1238-1	Suba, Kenya, Tanzania	Atlantic-Congo	suba1238	decimal		Enock Appiah Tieku	quaternary 8 seems to be a compound derived from 4
+numerals-suba1252-1	Simbiti, Tanzania	Atlantic-Congo	suba1252	decimal		Enock Appiah Tieku	quaternary 8 seems to be a compound derived from 4
+numerals-subi1246-1	Subiya, Namibia, Botswana, Zambia	Atlantic-Congo	subi1246	quinary AND decimal		Enock Appiah Tieku	
+numerals-subi1246-2	Subiya, Namibia, Botswana, Zambia	Atlantic-Congo	subi1246	quinary AND decimal		Enock Appiah Tieku	
+numerals-suga1248-1	Suga (Nizaa), Cameroon	Atlantic-Congo	suga1248	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-suku1259-1	KiSuku, DR of the Congo	Atlantic-Congo	suku1259	decimal		Enock Appiah Tieku	6 and 7 are compounds but their constituents are not discernible
+numerals-suku1259-2	Suku, DR of the Congo	Atlantic-Congo	suku1259	decimal		Enock Appiah Tieku	
+numerals-suku1261-1	Sukuma, Tanzania	Atlantic-Congo	suku1261	decimal		Enock Appiah Tieku	6 & 7 seem derived but their constituents is not obvious
+numerals-supy1237-1	Supyire Senoufo, Mali	Atlantic-Congo	supy1237	quinary AND vigesimal		Enock Appiah Tieku	decimal
+numerals-swat1243-1	Swati, Swaziland, South Africa	Atlantic-Congo	swat1243	decimal		Enock Appiah Tieku	while 10 serves as the base for higher numerals, the other constituents of these numerals are different from the base numerals - borrowings perhaps.
+numerals-taab1238-1	Taabwa, DR of the Congo, Zambia	Atlantic-Congo	taab1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-tafi1243-1	Tafi, Ghana	Atlantic-Congo	tafi1243	decimal		Enock Appiah Tieku	
+numerals-tafi1243-2	Tafi, Ghana	Atlantic-Congo	tafi1243	decimal		Enock Appiah Tieku	
+numerals-tagw1240-1	Tagwana Senoufo, Côte d'Ivoire	Atlantic-Congo	tagw1240	quinary AND vigesimal		Enock Appiah Tieku	7-9 are quinary based but not 6
+numerals-tait1250-1	Daw'ida (Taita), Kenya	Atlantic-Congo	tait1250	decimal		Enock Appiah Tieku	ternary - 6=3*? quaternary 8 has the form of 4, a reduplication
+numerals-tali1258-1	Lubwisi, Uganda, DR of the Congo	Atlantic-Congo	tali1258	decimal		Enock Appiah Tieku	quaternary 8 has the form of 4, a reduplication, 6,7 and 9 are compounds whose forms are not discernible
+numerals-tamp1252-1	Tampulma, Ghana	Atlantic-Congo	tamp1252	decimal		Enock Appiah Tieku	ternary - traces of 3 and 8 in 6 and 8 respectively
+numerals-taro1263-1	Tarok (Yergam), Nigeria	Atlantic-Congo	taro1263	decimal		Enock Appiah Tieku	
+numerals-teen1242-1	Téén, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	teen1242	quinary AND vigesimal		Enock Appiah Tieku	9 = 10-1.
+numerals-teen1242-2	Téén, Côte d'Ivoire, Burkina Faso	Atlantic-Congo	teen1242	quinary AND vigesimal		Enock Appiah Tieku	9 = 10-1. The form for 4 which could combine with 5 for 9 is not given. 200 ff have new forms
+numerals-teke1275-1	Teke-Tege, Gabon, Congo	Atlantic-Congo	teke1275	decimal		Enock Appiah Tieku	6-8 are compounds whose composition aren’t discernible
+numerals-teke1275-2	Tege (Teke Kali), Gabon, Congo	Atlantic-Congo	teke1275	decimal		Enock Appiah Tieku	6-8 are compounds whose composition aren’t discernible
+numerals-teke1276-1	Teke-Tyee, Congo	Atlantic-Congo	teke1276	decimal		Enock Appiah Tieku	
+numerals-teke1278-1	Teke-Nzikou, Congo	Atlantic-Congo	teke1278	decimal		Enock Appiah Tieku	
+numerals-teke1280-1	Teke-Kukuya, Congo	Atlantic-Congo	teke1280	decimal		Enock Appiah Tieku	
+numerals-temb1270-1	(chi)Tembo, Eastern DR of the Congo	Atlantic-Congo	temb1270	decimal		Enock Appiah Tieku	
+numerals-temi1247-1	GiTemi, Tanzania	Atlantic-Congo	temi1247	decimal		Enock Appiah Tieku	senary - 6 seems derived from 3
+numerals-temi1247-2	Sonjo (Temi), Tanzania	Atlantic-Congo	temi1247	decimal		Enock Appiah Tieku	senary 6 seems derived from 3
+numerals-temm1241-1	Tem, Togo, Benin, Ghana	Atlantic-Congo	temm1241	quinary AND vigesimal		Enock Appiah Tieku	6 - 9 appears as compound with non-transparent constituents. 15-19 is quinary based
+numerals-temm1241-2	Tem, Togo, Benin, Ghana	Atlantic-Congo	temm1241	quinary AND vigesimal		Enock Appiah Tieku	6 - 9 are compound not clearly derived from a quinary base. 15-19 is quinary based
+numerals-tete1250-1	Tetela, DR of the Congo	Atlantic-Congo	tete1250	decimal		Enock Appiah Tieku	quaternary - 8=4*?
+numerals-tete1250-2	Tetela, DR of the Congo	Atlantic-Congo	tete1250	decimal		Enock Appiah Tieku	quaternary - 8=4*?
+numerals-thar1283-1	Tharaka, Kenya	Atlantic-Congo	thar1283	decimal		Enock Appiah Tieku	
+numerals-tief1242-1	Tiéfo, Burkina Faso	Atlantic-Congo	tief1242	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-tief1242-2	Tiéfo, Burkina Faso	Atlantic-Congo	tief1242	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-tigo1236-1	Tigon Mbembe, Cameroon	Atlantic-Congo	tigo1236	quinary AND vigesimal		Enock Appiah Tieku	6, 7, 9 are quinary based but 8 is a reduplicated form of 4. 1000 are in base 100
+numerals-tika1246-1	Tikar, Cameroon	Atlantic-Congo	tika1246	decimal		Enock Appiah Tieku	quaternary 8 = 4 reduplicated? 6, 7, and 9 are compounds? 100 and thousand are atoms
+numerals-timn1235-1	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-timn1235-2	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-timn1235-3	Temne (Themne), Sierra Leone	Atlantic-Congo	timn1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-tivv1240-1	Tiv, Nigeria, Cameroon	Atlantic-Congo	tivv1240	quinary AND vigesimal		Enock Appiah Tieku	7 and 9 are quinary based but the constituents of 6 and 8 are not discernible.
+numerals-tong1318-1	ChiTonga, Zambia, Zimbabwe	Atlantic-Congo	tong1318	quinary AND vigesimal		Enock Appiah Tieku	7 and 9 are quinary based but the constituents of 6 and 8 are not discernible. 1000 is an atom
+numerals-tong1321-1	CiTonga (KiTonga), Malawi	Atlantic-Congo	tong1321	quinary AND decimal		Enock Appiah Tieku	
+numerals-toor1238-1	Tooro, Uganda	Atlantic-Congo	toor1238	decimal		Enock Appiah Tieku	
+numerals-tote1238-2	Totela, Zambia, Namibia	Atlantic-Congo	tote1238	quinary AND decimal		Enock Appiah Tieku	
+numerals-tsik1238-1	Tsikimba, Niger state, Nigeria	Atlantic-Congo	tsik1238	vigesimal		Enock Appiah Tieku	7 appears as a compound with the form of 2 but the composition is not clear enough.
+numerals-tsis1238-1	Tsishingini (Kambari), Nigeria	Atlantic-Congo	tsis1238	decimal		Enock Appiah Tieku	
+numerals-tsog1243-1	Tsogo, Gabon	Atlantic-Congo	tsog1243	decimal		Enock Appiah Tieku	quinary 9 = 5+4, senary 6=3x2, quaternary 8= reduplication of 4
+numerals-tson1249-1	Tsonga, Mozambique	Atlantic-Congo	tson1249	decimal		Enock Appiah Tieku	
+numerals-tson1249-2	Tsonga, Mozambique	Atlantic-Congo	tson1249	quinary AND decimal		Enock Appiah Tieku	
+numerals-tson1249-3	Tsonga, Mozambique	Atlantic-Congo	tson1249	decimal		Enock Appiah Tieku	there seem to be a lot of borrowings which could affect judgement of bases 
+numerals-tswa1253-1	Tswana (Setswana), Botswana	Atlantic-Congo	tswa1253	decimal		Enock Appiah Tieku	
+numerals-tswa1255-1	Tswa, Mozambique, South Africa	Atlantic-Congo	tswa1255	quinary AND decimal		Enock Appiah Tieku	
+numerals-tuki1240-1	Tuki, Cameroon	Atlantic-Congo	tuki1240	decimal		Enock Appiah Tieku	senary 7 = 6 + 1, octal 9=8+1
+numerals-tula1252-1	Tula (Kɨtule), Nigeria	Atlantic-Congo	tula1252	decimal		Enock Appiah Tieku	
+numerals-tumb1250-1	Tumbuka, Malawi, Zambia	Atlantic-Congo	tumb1250	quinary AND decimal		Enock Appiah Tieku	
+numerals-tumu1242-1	Sisaala Tumulung, Ghana	Atlantic-Congo	tumu1242	vigesimal		Enock Appiah Tieku	
+numerals-tune1261-1	Tunen, Cameroon	Atlantic-Congo	tune1261	decimal		Enock Appiah Tieku	
+numerals-tuni1251-1	Tunya (Tunia), Chad	Atlantic-Congo	tuni1251	decimal		Enock Appiah Tieku	
+numerals-tuot1238-1	Tuotomb, Cameroon	Atlantic-Congo	tuot1238	quinary AND vigesimal		Enock Appiah Tieku	6-9 does not clearly show the quinary base system
+numerals-tupu1244-1	Tupari, Chad, Cameroon	Atlantic-Congo	tupu1244	decimal		Enock Appiah Tieku	
+numerals-turk1306-1	Turka, Burkina Faso	Atlantic-Congo	turk1306	quinary AND vigesimal		Enock Appiah Tieku	6-8 are based 5 but 9 is not
+numerals-tuwu1238-1	Tuwuri (Bowiri), Ghana	Atlantic-Congo	tuwu1238	decimal		Enock Appiah Tieku	
+numerals-twen1242-1	Twendi (Cambap), Cameroon	Atlantic-Congo	twen1242	quinary AND decimal		Enock Appiah Tieku	20 is an atom
+numerals-tyap1238-1	Tyap (Kataf), Nigeria	Atlantic-Congo	tyap1238	decimal		Enock Appiah Tieku	
+numerals-udaa1238-1	Uda, Nigeria	Atlantic-Congo	udaa1238	mixed		Enock Appiah Tieku	quinary. 10, 20, 40, 60, 80 and 100 are atoms. 30=20+10, 50=40+10, 70=60+10, 90=80+10
+numerals-ukaa1243-1	Ukaan (Ikaan dialect), Nigeria	Atlantic-Congo	ukaa1243	vigesimal		Enock Appiah Tieku	15-19 is base 20
+numerals-ukhw1241-1	Ukhwejo, CAR, Cameroon	Atlantic-Congo	ukhw1241	decimal		Enock Appiah Tieku	
+numerals-ukwa1238-1	Ukwa, Nigeria	Atlantic-Congo	ukwa1238	mixed		Enock Appiah Tieku	quinary 6-8 are base five. 15 is an atom. vigesimal, quadragesimal … 20, 40, 60, 80 and 100 are atoms. 30=20+10, 50=40+10, 70=60+10
+numerals-umbu1257-1	Umbundu, Angola	Atlantic-Congo	umbu1257	decimal		Enock Appiah Tieku	6-9 seem derived
+numerals-urho1239-1	Urhobo, Nigeria	Atlantic-Congo	urho1239	vigesimal		Enock Appiah Tieku	
+numerals-usag1244-1	Usakade, Nigeria	Atlantic-Congo	usag1244	quinary AND decimal		Enock Appiah Tieku	
+numerals-vagl1239-1	Vagla, Ghana	Atlantic-Congo	vagl1239	vigesimal		Enock Appiah Tieku	
+numerals-vend1245-1	(tshi)Venda, South Africa, Zimbabwe	Atlantic-Congo	vend1245	quinary AND decimal		Enock Appiah Tieku	
+numerals-vidu1238-1	Vidunda, Tanzania	Atlantic-Congo	vidu1238	decimal		Enock Appiah Tieku	
+numerals-vili1238-1	Vili (Civili), Congo, Gabon	Atlantic-Congo	vili1238	decimal		Enock Appiah Tieku	
+numerals-vunj1238-1	Vunjo, Tanzania	Atlantic-Congo	vunj1238	decimal		Enock Appiah Tieku	
+numerals-vute1244-1	Vute, Cameroon	Atlantic-Congo	vute1244	quinary AND vigesimal		Enock Appiah Tieku	6 and 7 appear as base 5
+numerals-vute1244-2	Vute, Cameroon	Atlantic-Congo	vute1244	quinary AND vigesimal		Enock Appiah Tieku	6 and 7 appear as base 5
+numerals-waam1244-1	Waama, Benin	Atlantic-Congo	waam1244	decimal		Enock Appiah Tieku	
+numerals-waci1239-1	Waci-Gbe (Gen-Gbe), Togo, Benin	Atlantic-Congo	waci1239	decimal		Enock Appiah Tieku	9 is a compound
+numerals-waja1259-1	Waja (nyan wɩyáʋ̀), Nigeria	Atlantic-Congo	waja1259	decimal		Enock Appiah Tieku	ternary 6 = a reduplication of 3?
+numerals-wame1240-1	Wamey (Konyagi), Senegal	Atlantic-Congo	wame1240	quinary AND decimal		Enock Appiah Tieku	
+numerals-wapa1235-1	Wapan Jukun, Nigeria	Atlantic-Congo	wapa1235	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-wara1292-1	Wara, Burkina Faso	Atlantic-Congo	wara1292	vigesimal		Enock Appiah Tieku	quinary - 8=5*3, 9=5*4
+numerals-wawa1246-1	Wawa, Cameroon	Atlantic-Congo	wawa1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-wawa1246-2	Wawa, Cameroon	Atlantic-Congo	wawa1246	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-wehh1238-1	Weh, Cameroon	Atlantic-Congo	wehh1238	decimal		Enock Appiah Tieku	
+numerals-west2450-1	West-Central Limba, Sierra Leone	Atlantic-Congo	west2450	quinary AND decimal		Enock Appiah Tieku	
+numerals-west2454-1	Western Niger Fulfulde, Niger	Atlantic-Congo	west2454	quinary AND decimal		Enock Appiah Tieku	20 is either an atom or a borrowed form - not clear
+numerals-west2456-1	Western Xwla-Gbe, Benin, Togo	Atlantic-Congo	west2456	mixed		Enock Appiah Tieku	10, 20 and 30 are atoms
+numerals-west2458-1	Banda-Tangbago, Sudan	Atlantic-Congo	west2458	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-west2465-1	Western Sisaala, Ghana	Atlantic-Congo	west2465	vigesimal		Enock Appiah Tieku	
+numerals-west2466-1	Western Karaboro, Burkina Faso	Atlantic-Congo	west2466	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-wong1247-1	Wongo, DR of the Congo	Atlantic-Congo	wong1247	decimal		Enock Appiah Tieku	
+numerals-wumb1242-1	Wumbvu (Wumvu), Gabon	Atlantic-Congo	wumb1242	decimal		Enock Appiah Tieku	quinary 9=5 + 4
+numerals-wumb1242-2	Wumbvu (Wumvu), Gabon	Atlantic-Congo	wumb1242	quinary AND decimal		Enock Appiah Tieku	
+numerals-wush1238-1	Wushi, Cameroon	Atlantic-Congo	wush1238	decimal		Enock Appiah Tieku	7-9 are compounds composed of different bases. 7=4*3, 9=?*1
+numerals-xhos1239-1	Xhosa, South Africa, Lesotho	Atlantic-Congo	xhos1239	decimal		Enock Appiah Tieku	6= reduplication of 3? 7-9 compounds
+numerals-xwel1235-1	Xwla-Gbe, Benin	Atlantic-Congo	xwel1235	mixed		Enock Appiah Tieku	10, 20 and 30 are atoms
+numerals-yaka1272-1	Yaka, CAR	Atlantic-Congo	yaka1272	quinary AND decimal		Enock Appiah Tieku	
+numerals-yako1252-1	Yakoma, CAR, DR of the Congo	Atlantic-Congo	yako1252	decimal		Enock Appiah Tieku	
+numerals-yala1263-1	Yala, Cross River State, Nigeria	Atlantic-Congo	yala1263	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-yamb1251-1	Yamba, Cameroon	Atlantic-Congo	yamb1251	decimal		Enock Appiah Tieku	
+numerals-yamb1252-1	Yambeta, Cameroon	Atlantic-Congo	yamb1252	quinary AND vigesimal		Enock Appiah Tieku	15 is an atom
+numerals-yang1293-1	Yangben (Nuasue), Cameroon	Atlantic-Congo	yang1293	mixed		Enock Appiah Tieku	6 - 9 are compounds whose constituents are not discernible
+numerals-yans1239-1	Yansi (Ngong), DR of the Congo	Atlantic-Congo	yans1239	decimal		Enock Appiah Tieku	
+numerals-yaoo1241-1	Yao, Mozambique, Malawi, Tanzania	Atlantic-Congo	yaoo1241	quinary AND decimal		Enock Appiah Tieku	
+numerals-yaoo1241-2	Yao, Mozambique, Malawi, Tanzania	Atlantic-Congo	yaoo1241	quinary AND decimal		Enock Appiah Tieku	
+numerals-yekh1238-1	Etsako (Yekhee), Nigeria	Atlantic-Congo	yekh1238	vigesimal		Enock Appiah Tieku	
+numerals-yemb1246-1	Yemba (Dschang), Cameroon	Atlantic-Congo	yemb1246	decimal		Enock Appiah Tieku	6 - 9 are compounds whose constituents are not discernible
+numerals-yend1241-1	Yendang (Nyandang), Nigeria	Atlantic-Congo	yend1241	quinary AND vigesimal		Enock Appiah Tieku	
+numerals-yeyi1239-1	Yeyi (Shiyeyi), Botswana, Namibia	Atlantic-Congo	yeyi1239	decimal		Enock Appiah Tieku	6-9 are base 10 - 6=10-3
+numerals-yomb1244-1	Yombe (Kiyoombi), DR of the Congo	Atlantic-Congo	yomb1244	decimal		Enock Appiah Tieku	6-9 are compounds with undiscernible constituents.
+numerals-yomm1242-1	Yom ( Pila), Benin	Atlantic-Congo	yomm1242	vigesimal		Enock Appiah Tieku	6-9 derived from different bases
+numerals-yoru1245-1	Yoruba, Nigeria, Benin	Atlantic-Congo	yoru1245	mixed		Enock Appiah Tieku	quinary, decimal, vigesimal, 25 = 30-1 … 28 = 30-2, 29=30-1, 30 is an atom
+numerals-yuku1243-1	Yukuben, Nigeria, Cameroon	Atlantic-Congo	yuku1243	quinary AND vigesimal		Enock Appiah Tieku	100 is an atom
+numerals-zana1238-1	Zanaki, Tanzania	Atlantic-Congo	zana1238	decimal		Enock Appiah Tieku	6-9 are derived from different bases. Form of 10 that serves as base for higher numerals seems borrowed. 100 and 1000 are atoms
+numerals-zand1248-1	Zande, CAR, DR of the Congo	Atlantic-Congo	zand1248	quinary AND vigesimal		Enock Appiah Tieku	15 is an atom. Borrowings in 70 and 90 and 100
+numerals-zang1249-1	Zan Gula, Chad	Atlantic-Congo	zang1249	quinary AND vigesimal		Enock Appiah Tieku	numerals end at 40
+numerals-zigu1244-1	Zigula (Zigua), Tanzania	Atlantic-Congo	zigu1244	decimal		Enock Appiah Tieku	6-9 seems compounds
+numerals-zigu1244-2	Zigula (Zigua), Tanzania	Atlantic-Congo	zigu1244	decimal		Enock Appiah Tieku	6-9 seems compounds
+numerals-zimb1251-1	Zimba, DR of the Congo	Atlantic-Congo	zimb1251	decimal		Enock Appiah Tieku	
+numerals-zinz1238-1	Zinza, Tanzania	Atlantic-Congo	zinz1238	decimal		Enock Appiah Tieku	6-9 are derived forms but the constituents are not discernible
+numerals-zulu1248-1	Zulu, South Africa, Lesotho	Atlantic-Congo	zulu1248	decimal		Enock Appiah Tieku	6-9 are derived forms but the constituents are not discernible
 	Abadi	Oceanic	abad1241	decimal	decimal modified	Russell Barlow	multiplication/addition for 6 ([2] ⋅ 3), 8 ([2] ⋅ 4), 9 ([2] ⋅ 4 + 1); 11 to 19 = 10 + n
 	Abaga	Kainantu-Goroka	abag1245	binary	binary proper	Russell Barlow	3 = 2 + 1, 4 = 2 + 2; 5 = one hand?
 	Abai Sungai	Western Malayo-Polynesian	abai1240	decimal	decimal proper	Russell Barlow	1 through 10 < PAN (although 7 from ‘point’?); numerals above 10 unknown
@@ -3180,7 +3163,7 @@ numerals-zulu1248-1	Zulu, South Africa, Lesotho	Atlantic-Congo	zulu1248	decimal	
 	Zia	Greater Binanderean	ziaa1250	binary	binary proper	Russell Barlow	3 = 2 + 1; formation of 4 varies among dialects; 5 = hand one
 	Zimakani	Anim	zima1244	binary	binary proper	Russell Barlow	3 = 2 + 1, 4 = 2 + 2; 5 contains hand
 	Zire	Oceanic	zire1240	quinary	quinary	Russell Barlow	6 to 9 = 5 + n
-bowernnumerals-Adny	Adnyamathanha	PNy	adny1235	unclear	ternary?	Ezequiel Koile	1, 2, 3
+bowernnumerals-Adny	Adnyamathanha	PNy	adny1235	unknown	ternary?	Ezequiel Koile	1, 2, 3
 bowernnumerals-AdnyWono	Adnyamathanha (Wonoka)	PNy	adny1235	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
 bowernnumerals-Arab	Arabana-Wangkangurru (Arabana)	PNy	arab1267	restricted	restricted	Ezequiel Koile	1, 2, 3
 bowernnumerals-ArabEyr	Arabana (West of Lake Eyre)	PNy	arab1267	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
@@ -3236,7 +3219,7 @@ bowernnumerals-Mulya	Mulyara	PNy	NA	restricted	restricted	Ezequiel Koile	1, 2, 3
 bowernnumerals-Muruw	Muruwari	PNy	muru1266	binary	binary other	Ezequiel Koile	1, 2, 2:1, 2:?
 bowernnumerals-Namoi	Gamilaraay (Namoi)	PNy	gami1243	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
 bowernnumerals-Naru	Narangga	PNy	naru1238	binary	binary other	Ezequiel Koile	1, 2, 3, ?:2, ?:2:1
-bowernnumerals-NaruYork	Narangga (Yorke's Peninsula)	PNy	naru1238	unclear	restricted?	Ezequiel Koile	1, 2, 3
+bowernnumerals-NaruYork	Narangga (Yorke's Peninsula)	PNy	naru1238	unknown	restricted?	Ezequiel Koile	1, 2, 3
 bowernnumerals-Ngaa	Ngaanyatjarra/Ngaatjatjarra	PNy	ngaa1240	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
 bowernnumerals-Ngam	Ngamini	PNy	ngam1265	binary	binary proper	Ezequiel Koile	1, 2, 2:1
 bowernnumerals-NgamKop	Ngamini (Kopperamana)	PNy	ngam1265	binary	binary+3	Ezequiel Koile	1, 2, 3, 2:2
@@ -3292,7 +3275,7 @@ bowernnumerals-Wiradhurri	Wiradjuri (Wiradhurri)	PNy	wira1262	binary	binary prop
 bowernnumerals-Wirang	Wirangu	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4, 5
 bowernnumerals-StreBay	Wirangu (Streaky Bay)	PNy	wira1265	restricted	restricted	Ezequiel Koile	1, 2, 3, 4
 bowernnumerals-Wonar	Wonnarua	PNy	wona1238	restricted	restricted	Ezequiel Koile	NA
-bowernnumerals-Worr	Worrorra	Wororan	worr1237	unclear	restricted?	Ezequiel Koile	NA
+bowernnumerals-Worr	Worrorra	Wororan	worr1237	unknown	restricted?	Ezequiel Koile	NA
 bowernnumerals-Yandr	Yandruwandha	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
 bowernnumerals-YandrCoo	Yandruwandha (Cooper's Creek)	PNy	yand1253	binary	binary proper	Ezequiel Koile	1, 2, 2:1, 2:2
 bowernnumerals-Yannhan	Yan-nhangu	PNy	yann1238	restricted	restricted	Ezequiel Koile	1, 2, 3
