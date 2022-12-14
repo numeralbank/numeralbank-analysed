@@ -6,6 +6,7 @@ from pylexibank import Language, Lexeme
 from cltoolkit import Wordlist
 from pylexibank import progressbar
 from cldfzenodo import oai_lexibank
+from cldfzenodo.record import GithubRepos
 from git import Repo, GitCommandError
 import json
 import attr
@@ -51,18 +52,21 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
 
-
     def cmd_download(self, args):
+
+        self.dataset_meta = {r['ID']: r['SOURCE'] for r in self.etc_dir.read_csv(
+                "datasets.tsv", delimiter="\t", dicts=True)}
+
         github_info = {rec.doi: rec.github_repos for rec in oai_lexibank()}
 
-        for dataset, row in self.dataset_meta.items():
-            ghinfo = github_info[row['Zenodo']]
+        for dataset, src in self.dataset_meta.items():
+            ghinfo = github_info[src] if src in github_info else GithubRepos.from_url(src)
             args.log.info("Checking {}".format(dataset))
             dest = self.raw_dir / dataset
 
             # download data
             if dest.exists():
-                args.log.info("... dataset already exists.  pulling changes.")
+                args.log.info("... dataset already exists, pulling changes")
                 for remote in Repo(str(dest)).remotes:
                     remote.fetch()
             else:
@@ -92,7 +96,6 @@ class Dataset(BaseDataset):
                         args.log.error('found neither main nor master branch')
                 repo.git.merge()
 
-
     def cmd_makecldf(self, args):
 
         all_concepts = {concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts}
@@ -120,19 +123,18 @@ class Dataset(BaseDataset):
         visited = set()
         selected_languages = []
         for language in sorted(
-                wl.languages, 
-                key=lambda x: coverage(x, all_concepts), 
+                wl.languages,
+                key=lambda x: coverage(x, all_concepts),
                 reverse=True
                 ):
             if language.glottocode not in visited:
                 visited.add(language.glottocode)
                 selected_languages += [language]
-            
-        
+
         one_to_forty = [concept["CONCEPTICON_GLOSS"] for concept in
-                self.concepts if concept["TEST"] in ["1", "2"]]
+                        self.concepts if concept["TEST"] in ["1", "2"]]
         one_to_thirty = [concept["CONCEPTICON_GLOSS"] for concept in
-                self.concepts if concept["TEST"] in ["1"]]
+                         self.concepts if concept["TEST"] in ["1"]]
 
         for concept in wl.concepts:
             args.writer.add_concept(
@@ -176,11 +178,11 @@ class Dataset(BaseDataset):
                 "octal AND decimal": "octal",
                 "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal"
                 }
-        
+
         all_scores, mixed_scores = [], []
         base_errors = set()
         for language in progressbar(selected_languages):
-            
+
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
             cov1 = coverage(language, one_to_forty)
@@ -190,7 +192,7 @@ class Dataset(BaseDataset):
             if language.id in base_info:
                 annotated_base, annotator, cmt = (
                         target_bases.get(
-                            base_info[language.id]["Base"], 
+                            base_info[language.id]["Base"],
                             base_info[language.id]["Base"]
                             ),
                         base_info[language.id]["Annotator"],
@@ -199,7 +201,7 @@ class Dataset(BaseDataset):
             elif language.glottocode in base_info:
                 annotated_base, annotator, cmt = (
                         target_bases.get(
-                            base_info[language.glottocode]["Base"], 
+                            base_info[language.glottocode]["Base"],
                             base_info[language.glottocode]["Base"]
                             ),
                         base_info[language.glottocode]["Annotator"],

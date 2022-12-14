@@ -1,7 +1,6 @@
-ID	URL
-vanuatuvoices	https://github.com/lexibank/vanuatuvoices
-bowernnumerals	
-sand	
-numerals	
-barlowpacific	
-googleuninum	
+ID	SOURCE
+barlowpacific	10.5281/zenodo.7097819
+bowernnumerals	https://github.com/numeralbank/bowernnumerals
+sand	https://github.com/numeralbank/sand
+numerals	https://github.com/numeralbank/numerals
+googleuninum	https://github.com/numeralbank/googleuninum
