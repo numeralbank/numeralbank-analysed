@@ -1,4 +1,5 @@
 import pathlib
+import subprocess
 
 import pycldf
 from pylexibank import Dataset as BaseDataset
@@ -44,6 +45,30 @@ class CustomLanguage(Language):
 
 def coverage(language, concepts):
     return len([c.id for c in language.concepts if c.id in concepts]) / len(concepts)
+
+
+def git_last_commit_date(p, git_command='git'):
+    p = pathlib.Path(p)
+    if not p.exists():
+        raise ValueError('cannot read from non-existent directory')
+    p = p.resolve()
+    cmd = [
+        git_command,
+        '--git-dir={0}'.format(p.joinpath('.git')),
+        '--no-pager', 'log', '-1', '--format="%ai"'
+    ]
+    try:
+        p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        stdout, stderr = p.communicate()
+        if p.returncode == 0:
+            res = stdout.strip()  # pragma: no cover
+        else:
+            raise ValueError(stderr)
+    except (ValueError, FileNotFoundError):
+        return ''
+    if not isinstance(res, str):
+        res = res.decode('utf8')
+    return res.replace('"', '')
 
 
 class Dataset(BaseDataset):
@@ -99,10 +124,47 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
 
         all_concepts = {concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts}
-        datasets = [ds["ID"] for ds in self.etc_dir.read_csv(
-            "datasets.tsv",
-            delimiter="\t", dicts=True
-            )]
+        datasets = {r['ID']: r['SOURCE'] for r in self.etc_dir.read_csv(
+                "datasets.tsv", delimiter="\t", dicts=True)}
+
+        args.writer.cldf.add_component(
+            "ContributionTable",
+            {
+                "datatype": "string",
+                "name": "Metadata",
+                "dc:description": "JSON encoded metadata of used datasets",
+            },
+        )
+        for c in ['Description', 'Contributor']:
+            args.writer.cldf.remove_columns('ContributionTable', c)
+
+        for ds, src in datasets.items():
+            cldf_path = self.raw_dir.joinpath(ds, "cldf", "cldf-metadata.json")
+            with open(cldf_path) as f:
+                js = json.load(f)
+            doi = None
+            git_version = None
+            if 'github.com' in src.lower():
+                accessURL = src
+                git_version = git_last_commit_date(cldf_path.parent.parent)
+            else:
+                doi = src
+                accessURL = 'https://doi.org/{0}'.format(doi)
+
+            args.writer.objects['contributions.csv'].append(dict(
+                ID=js['rdf:ID'],
+                Name=js['dc:title'],
+                Citation=js['dc:bibliographicCitation'],
+                Metadata=json.dumps({
+                    'dcat:accessURL': accessURL,
+                    'dc:description': js.get('dc:description', None),
+                    'dc:license': js.get('dc:license', None),
+                    'aboutUrl': js.get('aboutUrl', None),
+                    'doi': doi,
+                    'git_version': git_version,
+                }),
+            ))
+
         wl = Wordlist([
             pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
                 ds, "cldf", "cldf-metadata.json")) for ds in datasets
