@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "b7a46ac",
+            "dc:created": "1e9155a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -28,34 +28,10 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.2.0",
             "dc:title": "CLTS"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/sand",
-            "rdf:type": "prov:Entity",
-            "dc:created": "3b35405",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
-            "rdf:type": "prov:Entity",
-            "dc:created": "ff267d2",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/numerals",
-            "rdf:type": "prov:Entity",
-            "dc:created": "a8001124",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/barlowpacific",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-4-g2a34d50",
-            "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/numeralbank/googleuninum",
@@ -66,13 +42,25 @@
         {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "a8001124",
+            "dc:created": "7b59954a",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/lexibank/vanuatuvoices",
+            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "sndcmp-handover-64-gb8f2661",
+            "dc:created": "4d6b3ce",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.3.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/sand",
+            "rdf:type": "prov:Entity",
+            "dc:created": "3b35405",
             "dc:title": "Repository"
         }
     ],
@@ -83,7 +71,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.2"
+            "dc:description": "3.10.9"
         },
         {
             "dc:title": "python-packages",
@@ -95,7 +83,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 181114,
+            "dc:extent": 172458,
             "tableSchema": {
                 "columns": [
                     {
@@ -202,7 +190,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5114,
+            "dc:extent": 5093,
             "tableSchema": {
                 "columns": [
                     {
@@ -322,6 +310,44 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 5,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "dc:description": "JSON encoded metadata of used datasets",
+                        "datatype": "string",
+                        "name": "Metadata"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
         }
     ]
 }

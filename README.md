@@ -35,20 +35,20 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 5,114
+- **Varieties:** 5,093
 - **Concepts:** 154
-- **Lexemes:** 181,114
+- **Lexemes:** 172,458
 - **Sources:** 0
 - **Synonymy:** 1.08
 
 ## Possible Improvements:
 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
   - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
+  - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
 
 
-- Entries missing sources: 181114/181114 (100.00%)
+- Entries missing sources: 172458/172458 (100.00%)
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
