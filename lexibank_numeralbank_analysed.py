@@ -181,15 +181,25 @@ class Dataset(BaseDataset):
                 base_info[row["Glottocode"]] = row
         args.log.info("loaded base info")
 
-        # filter languages
-        visited = set()
+        # filter languages (only those with glottocodes)
+        #  select first all language which occur only in one dataset
+        #  otherwise select languages having the best coverage excluding googleuninum
+        map_glottocode_nr_of_sources = defaultdict(int)
+        for language in wl.languages:
+            if language.glottocode is not None:
+                map_glottocode_nr_of_sources[language.glottocode] += 1
+
         selected_languages = []
+        visited = set()
+
         for language in sorted(
-                wl.languages,
-                key=lambda x: coverage(x, all_concepts),
-                reverse=True
-                ):
-            if language.glottocode not in visited:
+                    wl.languages,
+                    key=lambda x: coverage(x, all_concepts),
+                    reverse=True
+                    ):
+            if language.glottocode is not None and\
+               (map_glottocode_nr_of_sources[language.glottocode] == 1 or
+                   (language.glottocode not in visited and language.dataset != "googleuninum")):
                 visited.add(language.glottocode)
                 selected_languages += [language]
 
@@ -228,22 +238,52 @@ class Dataset(BaseDataset):
                 "Restricted": "restricted",
                 "vigesimal": "vigesimal",
                 "quinary": "quinary",
-                "quinary AND decimal": "quinary/decimal",
-                "quinary AND vigesimal": "quinary/vigesimal",
+                "quinary AND decimal": "quinary",
+                "quinary AND vigesimal": "quinary",
+                "quinary AND decimal AND vigesimal": "quinary",
                 "binary": "binary",
                 "decimal AND vigesimal": "decimal/vigesimal",
+                "decimal OR vigesimal": "decimal/vigesimal",
                 "duodecimal": "duodecimal",
                 "octal": "octal",
                 "quinary OR decimal": "quinary/decimal",
                 "quinary AND vigesimal OR decimal": "quinary/vigesimal",
                 "quinary AND double decimal": "quinary/decimal",
                 "octal AND decimal": "octal",
-                "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal"
+                "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal",
+                "octogesimal": "octogesimal",
+                "trigesimal": "trigesimal",
+                "quinquagesimal": "quinquagesimal",
+                "pentadecimal OR pentavigesimal": "pentadecimal/pentavigesimal",
+                "pentavigesimal": "pentavigesimal"
                 }
+
+        valid_bases = set([
+            "binary",
+            "decimal",
+            "mixed",
+            "decimal/vigesimal",
+            "duodecimal",
+            "octal",
+            "octogesimal",
+            "pentadecimal/pentavigesimal",
+            "pentavigesimal",
+            "quaternary",
+            "quinary",
+            "quinary/decimal",
+            "quinquagesimal",
+            "restricted",
+            "senary",
+            "trigesimal",
+            "vigesimal",
+        ])
 
         all_scores, mixed_scores = [], []
         base_errors = set()
-        for language in progressbar(selected_languages):
+        for language in progressbar(sorted(
+                    selected_languages,
+                    key=lambda x: x.glottocode),
+                desc="Processing {} selected languages".format(len(selected_languages))):
 
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
@@ -282,22 +322,8 @@ class Dataset(BaseDataset):
                     annotated_base, annotator, cmt = "", "", ""
 
             # check for type
-            if annotated_base and annotated_base not in [
-                    "binary",
-                    "decimal",
-                    "mixed",
-                    "decimal/vigesimal",
-                    "duodecimal",
-                    "octal",
-                    "quaternary",
-                    "quinary",
-                    "quinary/decimal",
-                    "quinary/vigesimal",
-                    "restricted",
-                    "senary",
-                    "vigesimal",
-                    ]:
-                if annotated_base not in ["Unknown", "unknown"]:
+            if annotated_base and annotated_base not in valid_bases:
+                if annotated_base.lower() != "unknown":
                     base_errors.add((language.id, annotated_base, annotator))
                 annotated_base, annotator, cmt = "", "", ""
 
@@ -325,12 +351,14 @@ class Dataset(BaseDataset):
                                 Source="",
                                 NumberValue=all_concepts[concept.id]
                                 )
+
         counts = defaultdict(int)
         with open(self.dir.joinpath("base_errors.md"), "w") as f:
             f.write("Language | Annotation | Annotator\n--- | --- | ---\n")
             for a, b, c in sorted(base_errors):
                 f.write("{0} | {1} | {2}\n".format(a, b, c))
                 counts[b, c] += 1
+
         for (a, b), c in counts.items():
             args.log.info("Problematic annotation {0:40} by {1:20} occurs {2} times.".format(
                 a, b, c))
