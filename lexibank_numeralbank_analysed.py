@@ -1,22 +1,19 @@
+import json
 import pathlib
 import subprocess
+from collections import defaultdict
 
+import attr
 import pycldf
-from pylexibank import Dataset as BaseDataset
-from pylexibank import Language, Lexeme
-from cltoolkit import Wordlist
-from pylexibank import progressbar
 from cldfzenodo import oai_lexibank
 from cldfzenodo.record import GithubRepos
-from git import Repo, GitCommandError
-import json
-import attr
-from lingpy import sw_align
-from collections import defaultdict
-from tabulate import tabulate
-from unidecode import unidecode
-
 from clldutils.misc import slug
+from cltoolkit import Wordlist
+from git import Repo, GitCommandError
+from pylexibank import Dataset as BaseDataset
+from pylexibank import Language, Lexeme
+from pylexibank import progressbar
+from unidecode import unidecode
 
 
 def simple_chars(chars):
