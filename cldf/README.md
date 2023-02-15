@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist Numeralbank Analysed
+# Wordlist CLDF Numeralbank Analysed
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -8,12 +8,13 @@
 
 property | value
  --- | ---
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2023): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[dc:identifier](http://purl.org/dc/terms/identifier) | https://numeralbank.clld.org
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://numerals.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/1111049">numeralbank/numeralbank-analysed 1111049</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.7">Glottolog v4.7</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/f8c9f35">numeralbank/sand f8c9f35</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/5b832f5">numeralbank/bowernnumerals 5b832f5</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/2a34d50">numeralbank/barlowpacific v1.2-4-g2a34d50</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/a8001124">numeralbank/numerals a8001124</a></li><li><a href="https://github.com/lexibank/vanuatuvoices/tree/b8f2661">lexibank/vanuatuvoices sndcmp-handover-64-gb8f2661</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/33b58db">numeralbank/numeralbank-analysed 33b58db</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.7">Glottolog v4.7</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/4bff680">numeralbank/googleuninum 4bff680</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/5b832f5">numeralbank/bowernnumerals 5b832f5</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/v1.3.1">numeralbank/barlowpacific v1.3.1</a></li><li><a href="https://github.com/numeralbank/sand/tree/f8c9f35">numeralbank/sand f8c9f35</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -23,7 +24,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 172228
+[dc:extent](http://purl.org/dc/terms/extent) | 172458
 
 
 ### Columns
@@ -50,7 +51,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 5088
+[dc:extent](http://purl.org/dc/terms/extent) | 5093
 
 
 ### Columns

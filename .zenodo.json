@@ -1,5 +1,5 @@
 {
-    "title": "Numeralbank Analysed",
+    "title": "CLDF Numeralbank Analysed",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -40,5 +40,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2023): Numeralbank. A Collection of Numeral Systems of the World&#x27;s Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>"
 }

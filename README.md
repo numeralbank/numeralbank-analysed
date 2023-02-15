@@ -1,16 +1,18 @@
-# Numeralbank Analysed
+# CLDF Numeralbank Analysed
 
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2023): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://numeralbank.clld.org
+Available online at https://numerals.clld.org
 
 ## Notes
 
@@ -35,9 +37,9 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,088
+- **Varieties:** 5,093
 - **Concepts:** 154
-- **Lexemes:** 172,228
+- **Lexemes:** 172,458
 - **Sources:** 5
 - **Synonymy:** 1.08
 
