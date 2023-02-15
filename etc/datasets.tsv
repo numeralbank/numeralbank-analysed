@@ -1,6 +1,6 @@
-ID	SOURCE
-barlowpacific	10.5281/zenodo.7097819
-bowernnumerals	https://github.com/numeralbank/bowernnumerals
-sand	https://github.com/numeralbank/sand
-numerals	https://github.com/numeralbank/numerals
-googleuninum	https://github.com/numeralbank/googleuninum
+ID	Source	URL
+barlowpacific	Barlow2021	https://github.com/numeralbank/barlowpacific
+bowernnumerals	Bowern2012	https://github.com/numeralbank/bowernnumerals
+sand	Mamta2023	https://github.com/numeralbank/sand
+numerals	Chan2019	https://github.com/numeralbank/numerals
+googleuninum	Ritchie2019	https://github.com/numeralbank/googleuninum

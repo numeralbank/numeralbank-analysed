@@ -79,7 +79,7 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
 
-        self.dataset_meta = {r['ID']: r['SOURCE'] for r in self.etc_dir.read_csv(
+        self.dataset_meta = {r['ID']: r['URL'] for r in self.etc_dir.read_csv(
                 "datasets.tsv", delimiter="\t", dicts=True)}
 
         github_info = {rec.doi: rec.github_repos for rec in oai_lexibank()}
@@ -122,9 +122,10 @@ class Dataset(BaseDataset):
                 repo.git.merge()
 
     def cmd_makecldf(self, args):
-
+        
+        args.writer.add_sources()
         all_concepts = {concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts}
-        datasets = {r['ID']: r['SOURCE'] for r in self.etc_dir.read_csv(
+        datasets = {r['ID']: (r["Source"], r["URL"]) for r in self.etc_dir.read_csv(
                 "datasets.tsv", delimiter="\t", dicts=True)}
 
         args.writer.cldf.add_component(
@@ -138,17 +139,17 @@ class Dataset(BaseDataset):
         for c in ['Description', 'Contributor']:
             args.writer.cldf.remove_columns('ContributionTable', c)
 
-        for ds, src in datasets.items():
+        for ds, (src, url) in datasets.items():
             cldf_path = self.raw_dir.joinpath(ds, "cldf", "cldf-metadata.json")
             with open(cldf_path) as f:
                 js = json.load(f)
             doi = None
             git_version = None
-            if 'github.com' in src.lower():
-                accessURL = src
+            if 'github.com' in url.lower():
+                accessURL = url
                 git_version = git_last_commit_date(cldf_path.parent.parent)
             else:
-                doi = src
+                doi = url
                 accessURL = 'https://doi.org/{0}'.format(doi)
 
             args.writer.objects['contributions.csv'].append(dict(
@@ -348,7 +349,7 @@ class Dataset(BaseDataset):
                                 Parameter_ID=slug(concept.id),
                                 Value=form.value,
                                 Form=simple_chars(form.form),
-                                Source="",
+                                Source=datasets[language.dataset][0],
                                 NumberValue=all_concepts[concept.id]
                                 )
 

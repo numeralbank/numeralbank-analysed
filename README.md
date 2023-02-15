@@ -33,12 +33,12 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,093
+- **Varieties:** 5,088
 - **Concepts:** 154
-- **Lexemes:** 172,458
-- **Sources:** 0
+- **Lexemes:** 172,228
+- **Sources:** 5
 - **Synonymy:** 1.08
 
 ## Possible Improvements:
@@ -48,17 +48,18 @@ Column Base_subsystem was added: extra information present in data coded by Barl
   - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
 
 
-- Entries missing sources: 172458/172458 (100.00%)
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
-Hans-Jörg Bibiko  | @bibiko  | maintainer, code checking, aggregation code | Author
-Johann-Mattis List | @lingulist  | maintainer, aggregation code | Author
+Hans-Jörg Bibiko  | @bibiko  | maintainer, code checking, aggregation code, CLLD application | Author
 Ezequiel Koile | @LEK85 | coder, data aggregation | Author
-Damián Blasi | @blasid | coder | Author
-Russell Barlow | @barlowrussell | data collection, data annotation | Author
-Mamta Kumari | @Mamta-Kum | data collection, data annotation | Author
-Enock Appiah Tieku | @EnockAppiahTieku | data annotation | Author
+Russell Barlow | @barlowrussell | data collection, data annotation, base coding | Author
+Mamta Kumari | @Mamta-Kum | data collection, data annotation, base coding | Author
+Enock Appiah Tieku | @EnockAppiahTieku | data annotation, base coding | Author
+Christoph Rzymski | @chrzyki | maintainer, CLLD application | Author
+Johann-Mattis List | @lingulist  | maintainer, aggregation code | Author
+Russell D. Gray | | funding | Author
+
 
 
 
