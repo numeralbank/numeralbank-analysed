@@ -33,10 +33,11 @@ class CustomLanguage(Language):
     Coverage = attr.ib(
         default=None,
         metadata={
-            'datatype': 'float',
-            'dc:description': 'Coverage of the language in comparison with our master concept list.'}
+            "datatype": "float",
+            "dc:description": "Coverage of the language in comparison with our master concept list.",
+        },
     )
-    OneToThirty = attr.ib(default=None, metadata={"datatype": 'float'})
+    OneToThirty = attr.ib(default=None, metadata={"datatype": "float"})
     BaseInSource = attr.ib(default=None)
 
 
@@ -44,15 +45,18 @@ def coverage(language, concepts):
     return len([c.id for c in language.concepts if c.id in concepts]) / len(concepts)
 
 
-def git_last_commit_date(p, git_command='git'):
+def git_last_commit_date(p, git_command="git"):
     p = pathlib.Path(p)
     if not p.exists():
-        raise ValueError('cannot read from non-existent directory')
+        raise ValueError("cannot read from non-existent directory")
     p = p.resolve()
     cmd = [
         git_command,
-        '--git-dir={0}'.format(p.joinpath('.git')),
-        '--no-pager', 'log', '-1', '--format="%ai"'
+        "--git-dir={0}".format(p.joinpath(".git")),
+        "--no-pager",
+        "log",
+        "-1",
+        '--format="%ai"',
     ]
     try:
         p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -62,10 +66,10 @@ def git_last_commit_date(p, git_command='git'):
         else:
             raise ValueError(stderr)
     except (ValueError, FileNotFoundError):
-        return ''
+        return ""
     if not isinstance(res, str):
-        res = res.decode('utf8')
-    return res.replace('"', '')
+        res = res.decode("utf8")
+    return res.replace('"', "")
 
 
 class Dataset(BaseDataset):
@@ -75,9 +79,10 @@ class Dataset(BaseDataset):
     lexeme_class = CustomLexeme
 
     def cmd_download(self, args):
-
-        self.dataset_meta = {r['ID']: r['URL'] for r in self.etc_dir.read_csv(
-                "datasets.tsv", delimiter="\t", dicts=True)}
+        self.dataset_meta = {
+            r["ID"]: r["URL"]
+            for r in self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)
+        }
 
         github_info = {rec.doi: rec.github_repos for rec in oai_lexibank()}
 
@@ -102,11 +107,11 @@ class Dataset(BaseDataset):
             # check out release (fall back to master branch)
             repo = Repo(str(dest))
             if ghinfo.tag:
-                args.log.info('... checking out tag {}'.format(ghinfo.tag))
+                args.log.info("... checking out tag {}".format(ghinfo.tag))
                 repo.git.checkout(ghinfo.tag)
             else:
-                args.log.warning('... could not determine tag to check out')
-                args.log.info('... checking out master')
+                args.log.warning("... could not determine tag to check out")
+                args.log.info("... checking out master")
                 try:
                     branch = repo.branches.main
                     branch.checkout()
@@ -115,15 +120,18 @@ class Dataset(BaseDataset):
                         branch = repo.branches.master
                         branch.checkout()
                     except AttributeError:
-                        args.log.error('found neither main nor master branch')
+                        args.log.error("found neither main nor master branch")
                 repo.git.merge()
 
     def cmd_makecldf(self, args):
-        
         args.writer.add_sources()
-        all_concepts = {concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts}
-        datasets = {r['ID']: (r["Source"], r["URL"]) for r in self.etc_dir.read_csv(
-                "datasets.tsv", delimiter="\t", dicts=True)}
+        all_concepts = {
+            concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts
+        }
+        datasets = {
+            r["ID"]: (r["Source"], r["URL"])
+            for r in self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)
+        }
 
         args.writer.cldf.add_component(
             "ContributionTable",
@@ -133,8 +141,8 @@ class Dataset(BaseDataset):
                 "dc:description": "JSON encoded metadata of used datasets",
             },
         )
-        for c in ['Description', 'Contributor']:
-            args.writer.cldf.remove_columns('ContributionTable', c)
+        for c in ["Description", "Contributor"]:
+            args.writer.cldf.remove_columns("ContributionTable", c)
 
         for ds, (src, url) in datasets.items():
             cldf_path = self.raw_dir.joinpath(ds, "cldf", "cldf-metadata.json")
@@ -142,37 +150,43 @@ class Dataset(BaseDataset):
                 js = json.load(f)
             doi = None
             git_version = None
-            if 'github.com' in url.lower():
+            if "github.com" in url.lower():
                 accessURL = url
                 git_version = git_last_commit_date(cldf_path.parent.parent)
             else:
                 doi = url
-                accessURL = 'https://doi.org/{0}'.format(doi)
+                accessURL = "https://doi.org/{0}".format(doi)
 
-            args.writer.objects['contributions.csv'].append(dict(
-                ID=js['rdf:ID'],
-                Name=js['dc:title'],
-                Citation=js['dc:bibliographicCitation'],
-                Metadata=json.dumps({
-                    'dcat:accessURL': accessURL,
-                    'dc:description': js.get('dc:description', None),
-                    'dc:license': js.get('dc:license', None),
-                    'aboutUrl': js.get('aboutUrl', None),
-                    'doi': doi,
-                    'git_version': git_version,
-                }),
-            ))
+            args.writer.objects["contributions.csv"].append(
+                dict(
+                    ID=js["rdf:ID"],
+                    Name=js["dc:title"],
+                    Citation=js["dc:bibliographicCitation"],
+                    Metadata=json.dumps(
+                        {
+                            "dcat:accessURL": accessURL,
+                            "dc:description": js.get("dc:description", None),
+                            "dc:license": js.get("dc:license", None),
+                            "aboutUrl": js.get("aboutUrl", None),
+                            "doi": doi,
+                            "git_version": git_version,
+                        }
+                    ),
+                )
+            )
 
-        wl = Wordlist([
-            pycldf.Dataset.from_metadata(self.raw_dir.joinpath(
-                ds, "cldf", "cldf-metadata.json")) for ds in datasets
-            ])
+        wl = Wordlist(
+            [
+                pycldf.Dataset.from_metadata(
+                    self.raw_dir.joinpath(ds, "cldf", "cldf-metadata.json")
+                )
+                for ds in datasets
+            ]
+        )
 
         # get base info from the external document
         base_info = {}
-        for row in self.etc_dir.read_csv(
-                "bases.tsv", delimiter="\t",
-                dicts=True):
+        for row in self.etc_dir.read_csv("bases.tsv", delimiter="\t", dicts=True):
             if row["Language_ID"]:
                 base_info[row["Language_ID"]] = row
             else:
@@ -190,29 +204,30 @@ class Dataset(BaseDataset):
         selected_languages = []
         visited = set()
 
-        for language in sorted(
-                    wl.languages,
-                    key=lambda x: coverage(x, all_concepts),
-                    reverse=True
-                    ):
-            if language.glottocode is not None and\
-               (map_glottocode_nr_of_sources[language.glottocode] == 1 or
-                   (language.glottocode not in visited and language.dataset != "googleuninum")):
+        for language in sorted(wl.languages, key=lambda x: coverage(x, all_concepts), reverse=True):
+            if language.glottocode is not None and (
+                map_glottocode_nr_of_sources[language.glottocode] == 1
+                or (language.glottocode not in visited and language.dataset != "googleuninum")
+            ):
                 visited.add(language.glottocode)
                 selected_languages += [language]
 
-        one_to_forty = [concept["CONCEPTICON_GLOSS"] for concept in
-                        self.concepts if concept["TEST"] in ["1", "2"]]
-        one_to_thirty = [concept["CONCEPTICON_GLOSS"] for concept in
-                         self.concepts if concept["TEST"] in ["1"]]
+        one_to_forty = [
+            concept["CONCEPTICON_GLOSS"]
+            for concept in self.concepts
+            if concept["TEST"] in ["1", "2"]
+        ]
+        one_to_thirty = [
+            concept["CONCEPTICON_GLOSS"] for concept in self.concepts if concept["TEST"] in ["1"]
+        ]
 
         for concept in wl.concepts:
             args.writer.add_concept(
-                    ID=slug(concept.id),
-                    Name=concept.id,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.id
-                    )
+                ID=slug(concept.id),
+                Name=concept.id,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.id,
+            )
 
         with open(self.raw_dir.joinpath("unique_relations.json")) as f:
             relations = json.load(f)
@@ -223,66 +238,66 @@ class Dataset(BaseDataset):
             "Twoer": "binary",
             "Twentier": "vigesimal",
             "Fiver": "quinary",
-            "Unknown": "unknown"
+            "Unknown": "unknown",
         }
 
         # how to represent basic relations in Chan, which are frequent enough
         # in the data
         target_bases = {
-                "Decimal": "decimal",
-                "decimal": "decimal",
-                "Decimal-Vigesimal": "decimal/vigesimal",
-                "Vigesimal": "vigesimal",
-                "Restricted": "restricted",
-                "vigesimal": "vigesimal",
-                "quinary": "quinary",
-                "quinary AND decimal": "quinary",
-                "quinary AND vigesimal": "quinary",
-                "quinary AND decimal AND vigesimal": "quinary",
-                "binary": "binary",
-                "decimal AND vigesimal": "decimal/vigesimal",
-                "decimal OR vigesimal": "decimal/vigesimal",
-                "duodecimal": "duodecimal",
-                "octal": "octal",
-                "quinary OR decimal": "quinary/decimal",
-                "quinary AND vigesimal OR decimal": "quinary/vigesimal",
-                "quinary AND double decimal": "quinary/decimal",
-                "octal AND decimal": "octal",
-                "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal",
-                "octogesimal": "octogesimal",
-                "trigesimal": "trigesimal",
-                "quinquagesimal": "quinquagesimal",
-                "pentadecimal OR pentavigesimal": "pentadecimal/pentavigesimal",
-                "pentavigesimal": "pentavigesimal"
-                }
+            "Decimal": "decimal",
+            "decimal": "decimal",
+            "Decimal-Vigesimal": "decimal/vigesimal",
+            "Vigesimal": "vigesimal",
+            "Restricted": "restricted",
+            "vigesimal": "vigesimal",
+            "quinary": "quinary",
+            "quinary AND decimal": "quinary",
+            "quinary AND vigesimal": "quinary",
+            "quinary AND decimal AND vigesimal": "quinary",
+            "binary": "binary",
+            "decimal AND vigesimal": "decimal/vigesimal",
+            "decimal OR vigesimal": "decimal/vigesimal",
+            "duodecimal": "duodecimal",
+            "octal": "octal",
+            "quinary OR decimal": "quinary/decimal",
+            "quinary AND vigesimal OR decimal": "quinary/vigesimal",
+            "quinary AND double decimal": "quinary/decimal",
+            "octal AND decimal": "octal",
+            "octal AND duodecimal AND hexadecimal AND vigesimal AND tetravigesimal": "octal",
+            "octogesimal": "octogesimal",
+            "trigesimal": "trigesimal",
+            "quinquagesimal": "quinquagesimal",
+            "pentadecimal OR pentavigesimal": "pentadecimal/pentavigesimal",
+            "pentavigesimal": "pentavigesimal",
+        }
 
-        valid_bases = set([
-            "binary",
-            "decimal",
-            "mixed",
-            "decimal/vigesimal",
-            "duodecimal",
-            "octal",
-            "octogesimal",
-            "pentadecimal/pentavigesimal",
-            "pentavigesimal",
-            "quaternary",
-            "quinary",
-            "quinary/decimal",
-            "quinquagesimal",
-            "restricted",
-            "senary",
-            "trigesimal",
-            "vigesimal",
-        ])
+        valid_bases = set(
+            [
+                "binary",
+                "decimal",
+                "mixed",
+                "decimal/vigesimal",
+                "duodecimal",
+                "octal",
+                "octogesimal",
+                "pentadecimal/pentavigesimal",
+                "pentavigesimal",
+                "quaternary",
+                "quinary",
+                "quinary/decimal",
+                "quinquagesimal",
+                "restricted",
+                "senary",
+                "trigesimal",
+                "vigesimal",
+            ]
+        )
 
-        all_scores, mixed_scores = [], []
         base_errors = set()
-        for language in progressbar(sorted(
-                    selected_languages,
-                    key=lambda x: x.glottocode),
-                desc="Processing {} selected languages".format(len(selected_languages))):
-
+        for language in progressbar(
+            sorted(selected_languages, key=lambda x: x.glottocode),
+            desc="Processing {} selected languages".format(len(selected_languages)),
+        ):
             # check for sufficient coverage
             cov_ = coverage(language, all_concepts)
             cov1 = coverage(language, one_to_forty)
@@ -291,30 +306,27 @@ class Dataset(BaseDataset):
             # retrieve annotated base
             if language.id in base_info:
                 annotated_base, annotator, cmt = (
-                        target_bases.get(
-                            base_info[language.id]["Base"],
-                            base_info[language.id]["Base"]
-                            ),
-                        base_info[language.id]["Annotator"],
-                        base_info[language.id]["Comment"]
-                        )
+                    target_bases.get(
+                        base_info[language.id]["Base"], base_info[language.id]["Base"]
+                    ),
+                    base_info[language.id]["Annotator"],
+                    base_info[language.id]["Comment"],
+                )
             elif language.glottocode in base_info:
                 annotated_base, annotator, cmt = (
-                        target_bases.get(
-                            base_info[language.glottocode]["Base"],
-                            base_info[language.glottocode]["Base"]
-                            ),
-                        base_info[language.glottocode]["Annotator"],
-                        base_info[language.glottocode]["Comment"]
-                        )
+                    target_bases.get(
+                        base_info[language.glottocode]["Base"],
+                        base_info[language.glottocode]["Base"],
+                    ),
+                    base_info[language.glottocode]["Annotator"],
+                    base_info[language.glottocode]["Comment"],
+                )
             else:
                 if language.dataset == "numerals":
-                    annotated_base = target_bases.get(
-                            language.data["Base"], language.data["Base"])
+                    annotated_base = target_bases.get(language.data["Base"], language.data["Base"])
                     annotator, cmt = "Eugene Chan", ""
                 elif language.dataset == "sand":
-                    annotated_base = target_bases.get(
-                            language.data["Base"], language.data["Base"])
+                    annotated_base = target_bases.get(language.data["Base"], language.data["Base"])
                     annotator, cmt = "Mamta Kumari", ""
                 else:
                     annotated_base, annotator, cmt = "", "", ""
@@ -342,13 +354,13 @@ class Dataset(BaseDataset):
                 if concept.id in all_concepts:
                     for form in concept.forms:
                         args.writer.add_form(
-                                Language_ID=language.id,
-                                Parameter_ID=slug(concept.id),
-                                Value=form.value,
-                                Form=simple_chars(form.form),
-                                Source=datasets[language.dataset][0],
-                                NumberValue=all_concepts[concept.id]
-                                )
+                            Language_ID=language.id,
+                            Parameter_ID=slug(concept.id),
+                            Value=form.value,
+                            Form=simple_chars(form.form),
+                            Source=datasets[language.dataset][0],
+                            NumberValue=all_concepts[concept.id],
+                        )
 
         counts = defaultdict(int)
         with open(self.dir.joinpath("base_errors.md"), "w") as f:
@@ -358,5 +370,6 @@ class Dataset(BaseDataset):
                 counts[b, c] += 1
 
         for (a, b), c in counts.items():
-            args.log.info("Problematic annotation {0:40} by {1:20} occurs {2} times.".format(
-                a, b, c))
+            args.log.info(
+                "Problematic annotation {0:40} by {1:20} occurs {2} times.".format(a, b, c)
+            )
