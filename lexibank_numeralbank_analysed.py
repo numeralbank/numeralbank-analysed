@@ -358,6 +358,7 @@ class Dataset(BaseDataset):
                             Parameter_ID=slug(concept.id),
                             Value=form.value,
                             Form=simple_chars(form.form),
+                            Loan=form.data["Loan"],
                             Source=datasets[language.dataset][0],
                             NumberValue=all_concepts[concept.id],
                         )
