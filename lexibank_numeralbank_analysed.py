@@ -205,10 +205,11 @@ class Dataset(BaseDataset):
         visited = set()
 
         for language in sorted(wl.languages, key=lambda x: coverage(x, all_concepts), reverse=True):
-            if language.glottocode is not None and (
-                map_glottocode_nr_of_sources[language.glottocode] == 1
-                or (language.glottocode not in visited and language.dataset != "googleuninum")
-            ):
+            #if language.glottocode is not None and (
+            #    map_glottocode_nr_of_sources[language.glottocode] == 1
+            #    or (language.glottocode not in visited and language.dataset != "googleuninum")
+            #):
+            if language.glottocode is not None:
                 visited.add(language.glottocode)
                 selected_languages += [language]
 
