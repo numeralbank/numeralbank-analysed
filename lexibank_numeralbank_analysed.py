@@ -362,6 +362,7 @@ class Dataset(BaseDataset):
                             Loan=form.data["Loan"],
                             Source=datasets[language.dataset][0],
                             NumberValue=all_concepts[concept.id],
+                            Comment=form.data["Comment"].strip() if form.data["Comment"] is not None else None,
                         )
 
         counts = defaultdict(int)
