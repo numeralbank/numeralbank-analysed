@@ -170,6 +170,7 @@ class Dataset(BaseDataset):
                             "aboutUrl": js.get("aboutUrl", None),
                             "doi": doi,
                             "git_version": git_version,
+                            "source": src,
                         }
                     ),
                 )
