@@ -339,6 +339,11 @@ class Dataset(BaseDataset):
                     base_errors.add((language.id, annotated_base, annotator))
                 annotated_base, annotator, cmt = "", "", ""
 
+            if 'Comment' in language.data and language.data['Comment']:
+                if cmt:
+                    cmt += '; '
+                cmt += language.data['Comment']
+
             args.writer.add_language(
                 ID=language.id,
                 Name=language.name,
