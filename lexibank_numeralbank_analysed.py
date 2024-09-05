@@ -188,6 +188,8 @@ class Dataset(BaseDataset):
         # get base info from the external document
         base_info = {}
         for row in self.etc_dir.read_csv("bases.tsv", delimiter="\t", dicts=True):
+            if row["Annotator"] == "Russell Barlow":
+                row["Comment"] = ""
             if row["Language_ID"]:
                 base_info[row["Language_ID"]] = row
             else:
