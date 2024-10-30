@@ -169,26 +169,28 @@ forms %>%
          Alternate_gloss = NA) -> forms_full
 
 
-####
 
-my.languages <- all_languages$ID
-my.families <- unique(all_languages$Family)
+my.languages <- unique_languages$ID
+my.families <- unique(unique_languages$Family)
 
 
 
 for(family in my.families){
   
-  if (!dir.exists("etc/for_glossing/by_source/Chan2019")) { dir.create("etc/for_glossing/by_source/Chan2019") }
+  if (!dir.exists( paste0("etc/for_glossing/by_family/", family) )) { dir.create( paste0("etc/for_glossing/by_family/", family)) }
+  
+  ####
+  
+  unique_languages %>%
+    filter(Family == family) %>%
+    dplyr::select(ID) %>%
+    distinct() -> languages.in.family
   
   
-  forms_full %>%
-    dplyr::filter(Source == source) %>%
-    dplyr::select(Language_ID) %>%
-    distinct()-> languages.in.source
-  for(lang in languages.in.source$Language_ID){
+  for(lang in languages.in.family$ID){
     forms_full %>%
       dplyr::filter(Language_ID == lang) -> this.dataset
-    write.csv(this.dataset, paste0("etc/for_glossing/by_source/",source,"/",lang,".csv"))
+    write.csv(this.dataset, paste0("etc/for_glossing/by_family/",family,"/",lang,".csv"))
   }
 }
   
