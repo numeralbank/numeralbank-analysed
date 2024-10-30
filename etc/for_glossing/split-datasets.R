@@ -82,6 +82,10 @@ unique_languages %>%
 
 table(unique_languages$Macroarea,useNA = "ifany")
 
+unique_languages %>%
+  filter(Macroarea == "Africa") -> this
+
+-sort(-table(this$Family))
 
 #rearrange and add columns
 forms_clean %>%
@@ -119,5 +123,72 @@ for(area in my.macroareas){
 }
 
 
+#Special folders
 
+#sources
+if (!dir.exists("etc/for_glossing/by_source")) { dir.create("etc/for_glossing/by_source") }
+
+forms %>%
+  dplyr::select(ID,Language_ID, Source, Parameter_ID, NumberValue,Value,Form, Comment, Loan) %>%
+  dplyr::rename(Comment_contributor = Comment) %>%
+  mutate(Gloss = NA,
+         Comment_glosser = NA,
+         Alternate_gloss = NA) -> forms_full
+
+my.languages <- all_languages$ID
+my.sources <- unique(forms_full$Source)
+
+if (!dir.exists("etc/for_glossing/by_source/Chan2019")) { dir.create("etc/for_glossing/by_source/Chan2019") }
+if (!dir.exists("etc/for_glossing/by_source/Barlow2024")) { dir.create("etc/for_glossing/by_source/Barlow2024") }
+if (!dir.exists("etc/for_glossing/by_source/Ritchie2019")) { dir.create("etc/for_glossing/by_source/Ritchie2019") }
+if (!dir.exists("etc/for_glossing/by_source/Mamta2023")) { dir.create("etc/for_glossing/by_source/Mamta2023") }
+if (!dir.exists("etc/for_glossing/by_source/Bowern2012")) { dir.create("etc/for_glossing/by_source/Bowern2012") }
+
+
+for(source in my.sources){
+  forms_full %>%
+    dplyr::filter(Source == source) %>%
+    dplyr::select(Language_ID) %>%
+    distinct()-> languages.in.source
+  for(lang in languages.in.source$Language_ID){
+    forms_full %>%
+      dplyr::filter(Language_ID == lang) -> this.dataset
+    write.csv(this.dataset, paste0("etc/for_glossing/by_source/",source,"/",lang,".csv"))
+  }
+}
+
+
+#Families
+if (!dir.exists("etc/for_glossing/by_family")) { dir.create("etc/for_glossing/by_family") }
+
+forms %>%
+  dplyr::select(ID,Language_ID, Source, Parameter_ID, NumberValue,Value,Form, Comment, Loan) %>%
+  dplyr::rename(Comment_contributor = Comment) %>%
+  mutate(Gloss = NA,
+         Comment_glosser = NA,
+         Alternate_gloss = NA) -> forms_full
+
+
+####
+
+my.languages <- all_languages$ID
+my.families <- unique(all_languages$Family)
+
+
+
+for(family in my.families){
+  
+  if (!dir.exists("etc/for_glossing/by_source/Chan2019")) { dir.create("etc/for_glossing/by_source/Chan2019") }
+  
+  
+  forms_full %>%
+    dplyr::filter(Source == source) %>%
+    dplyr::select(Language_ID) %>%
+    distinct()-> languages.in.source
+  for(lang in languages.in.source$Language_ID){
+    forms_full %>%
+      dplyr::filter(Language_ID == lang) -> this.dataset
+    write.csv(this.dataset, paste0("etc/for_glossing/by_source/",source,"/",lang,".csv"))
+  }
+}
   
