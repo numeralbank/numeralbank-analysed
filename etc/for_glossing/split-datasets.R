@@ -193,4 +193,3 @@ for(family in my.families){
     write.csv(this.dataset, paste0("etc/for_glossing/by_family/",family,"/",lang,".csv"))
   }
 }
-  
