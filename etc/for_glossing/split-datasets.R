@@ -193,10 +193,3 @@ for(family in my.families){
     write.csv(this.dataset, paste0("etc/for_glossing/by_family/",family,"/",lang,".csv"))
   }
 }
-  
-
-# ##
-# library(readxl)
-# 
-# # read_excel reads both xls and xlsx files
-# read_excel("etc/glossed/Natalie/numerals-amol1236-1.xlsx") -> try
