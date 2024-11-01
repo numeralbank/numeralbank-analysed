@@ -194,3 +194,9 @@ for(family in my.families){
   }
 }
   
+
+# ##
+# library(readxl)
+# 
+# # read_excel reads both xls and xlsx files
+# read_excel("etc/glossed/Natalie/numerals-amol1236-1.xlsx") -> try
