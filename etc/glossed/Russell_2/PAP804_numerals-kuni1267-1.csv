@@ -6,7 +6,7 @@
 5,numerals-kuni1267-1-five-1,numerals-kuni1267-1,Chan2019,five,5,mar nas,marnas,(litː ''one hand''),FALSE,5[⋅]1′,‘hand one’,
 6,numerals-kuni1267-1-six-1,numerals-kuni1267-1,Chan2019,six,6,mar nasikanan nap,marnasikanannap,( litː ''from one hand one''),FALSE,(5[⋅]1′){from}[+]1,,
 7,numerals-kuni1267-1-seven-1,numerals-kuni1267-1,Chan2019,seven,7,mar nasikanan nanariv,marnasikanannanariv,( litː ''from one hand two''),FALSE,(5[⋅]1′){from}[+]2,,
-8,numerals-kuni1267-1-eight-1,numerals-kuni1267-1,Chan2019,eight,8,mar nasikanannanariv nap,marnasikanannanarivnap,"( litː ''from one hand, two plus one'')",FALSE,(5[⋅]1′){from}[+[2[+]1,,
+8,numerals-kuni1267-1-eight-1,numerals-kuni1267-1,Chan2019,eight,8,mar nasikanannanariv nap,marnasikanannanarivnap,"( litː ''from one hand, two plus one'')",FALSE,(5[⋅]1′){from}[+]2[+]1,,
 9,numerals-kuni1267-1-nine-1,numerals-kuni1267-1,Chan2019,nine,9,mar nasikanannanariv nanariv,marnasikanannanarivnanariv,"( litː ''from one hand, two plus two'')",FALSE,(5[⋅]1′){from}[+]2[+]2,,
 10,numerals-kuni1267-1-ten-1,numerals-kuni1267-1,Chan2019,ten,10,mar nasikarokanan,marnasikarokanan,(litː ''hands two'' ),FALSE,5[⋅]1′[⋅]2′{from},‘hand one two from’ (?),
 11,numerals-kuni1267-1-eleven-1,numerals-kuni1267-1,Chan2019,eleven,11,mar nasikarokanan en nap,marnasikarokananennap,(litː ''from two hands one toe''),FALSE,(5[⋅]1′[⋅]2′{from}){5′}+1,‘hand one two from foot one’ (?),
