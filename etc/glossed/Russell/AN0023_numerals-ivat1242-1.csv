@@ -18,7 +18,7 @@
 17,numerals-ivat1242-1-nine-1,numerals-ivat1242-1,Chan2019,nine,9,siyam,siyam,,FALSE,9,Used in serial counting,
 18,numerals-ivat1242-1-nine-2,numerals-ivat1242-1,Chan2019,nine,9,sasiyam,sasiyam,,FALSE,{9}9,Reduplication: used for counting people,
 19,numerals-ivat1242-1-ten-1,numerals-ivat1242-1,Chan2019,ten,10,saːpoho,sapoho,,FALSE,1[⋅]10,Used in serial counting,
-20,numerals-ivat1242-1-ten-2,numerals-ivat1242-1,Chan2019,ten,10,saʔsaːpoxo,sasapoxo,,FALSE,1[⋅]1[⋅]10,Reduplication: used for counting people,
+20,numerals-ivat1242-1-ten-2,numerals-ivat1242-1,Chan2019,ten,10,saʔsaːpoxo,sasapoxo,,FALSE,{1}1[⋅]10,Reduplication: used for counting people,
 21,numerals-ivat1242-1-eleven-1,numerals-ivat1242-1,Chan2019,eleven,11,aʔsast͡ʃarwa,asastsarwa,,FALSE,[10+]1{OBL}{ORD}{2′},Overcounting: ‘one of the second [ten]’,1{OBL}+{ORD}(2′−[1])[⋅10]
 22,numerals-ivat1242-1-twelve-1,numerals-ivat1242-1,Chan2019,twelve,12,dohast͡ʃarwa,dohastsarwa,,FALSE,[10+]2{OBL}{ORD}{2′},Overcounting,2{OBL}+{ORD}(2′−[1])[⋅10]
 23,numerals-ivat1242-1-thirteen-1,numerals-ivat1242-1,Chan2019,thirteen,13,atlwast͡ʃarwa,atlwastsarwa,,FALSE,[10+]3{OBL}{ORD}{2′},Overcounting,3{OBL}+{ORD}(2′−[1])[⋅10]
@@ -28,7 +28,7 @@
 27,numerals-ivat1242-1-seventeen-1,numerals-ivat1242-1,Chan2019,seventeen,17,pitwast͡ʃarwa,pitwastsarwa,,FALSE,[10+]7{OBL}{ORD}{2′},Overcounting,7{OBL}+{ORD}(2′−[1])[⋅10]
 28,numerals-ivat1242-1-eighteen-1,numerals-ivat1242-1,Chan2019,eighteen,18,waxwast͡ʃarwa,waxwastsarwa,,FALSE,[10+]8{OBL}{ORD}{2′},Overcounting,8{OBL}+{ORD}(2′−[1])[⋅10]
 29,numerals-ivat1242-1-nineteen-1,numerals-ivat1242-1,Chan2019,nineteen,19,(sa)siyamast͡ʃarwa,sasiyamastsarwa,,FALSE,[10+]9{OBL}{ORD}{2′},Overcounting,9{OBL}+{ORD}(2′−[1])[⋅10]
-30,numerals-ivat1242-1-twenty-1,numerals-ivat1242-1,Chan2019,twenty,20,dahaːpoxo poho,dahapoxopoho,,FALSE,,,
+30,numerals-ivat1242-1-twenty-1,numerals-ivat1242-1,Chan2019,twenty,20,dahaːpoxo poho,dahapoxopoho,,FALSE,2[⋅]{10}10,,
 31,numerals-ivat1242-1-twentyone-1,numerals-ivat1242-1,Chan2019,twentyone,21,aʔsast͡ʃatlo,asastsatlo,,FALSE,[10+]1{OBL}{ORD}{3},Overcounting: ‘one of the third [ten]’,1{OBL}+{ORD}(3−[1])[⋅10]
 32,numerals-ivat1242-1-twentyone-2,numerals-ivat1242-1,Chan2019,twentyone,21,dahaːpoxo poho kano aʔsa,dahapoxopohokanoasa,,FALSE,2[⋅]{10}10{and}+1,,
 33,numerals-ivat1242-1-twentytwo-1,numerals-ivat1242-1,Chan2019,twentytwo,22,dohast͡ʃatlo,dohastsatlo,,FALSE,[10+]2{OBL}{ORD}{3},,2{OBL}+{ORD}(3−[1])[⋅10]
