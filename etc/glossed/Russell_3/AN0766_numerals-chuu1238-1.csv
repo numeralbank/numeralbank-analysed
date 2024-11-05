@@ -9,25 +9,25 @@
 8,numerals-chuu1238-1-eight-1,numerals-chuu1238-1,Chan2019,eight,8,wanʉːw,wanuw,,FALSE,8{CLF},,
 9,numerals-chuu1238-1-nine-1,numerals-chuu1238-1,Chan2019,nine,9,tiuːw,tiuw,,FALSE,9{CLF},,
 10,numerals-chuu1238-1-ten-1,numerals-chuu1238-1,Chan2019,ten,10,ɛŋɔːn,engon,,FALSE,1⋅10,,10
-11,numerals-chuu1238-1-eleven-1,numerals-chuu1238-1,Chan2019,eleven,11,ɛŋɔːn mɛ ɛːw,engonmeew,,FALSE,(1⋅10){and}1{CLF},,10{and}1{CLF}
-12,numerals-chuu1238-1-twelve-1,numerals-chuu1238-1,Chan2019,twelve,12,ɛŋɔːn mɛ ruːw,engonmeruw,,FALSE,(1⋅10){and}2{CLF},,10{and}2{CLF}
-13,numerals-chuu1238-1-thirteen-1,numerals-chuu1238-1,Chan2019,thirteen,13,ɛŋɔːn mɛ ʉnʉŋat,engonmeunungat,,FALSE,(1⋅10){and}3{CLF?},,10{and}3{CLF?}
-14,numerals-chuu1238-1-fourteen-1,numerals-chuu1238-1,Chan2019,fourteen,14,ɛŋɔːn mɛ rʉaːnʉ,engonmeruanu,,FALSE,(1⋅10){and}4{CLF?},,10{and}4{CLF?}
-15,numerals-chuu1238-1-fifteen-1,numerals-chuu1238-1,Chan2019,fifteen,15,ɛŋɔːn mɛ nɨmuːw,engonmenimuw,,FALSE,(1⋅10){and}5{CLF},,10{and}5{CLF}
-16,numerals-chuu1238-1-sixteen-1,numerals-chuu1238-1,Chan2019,sixteen,16,ɛŋɔːn mɛ wonuːw,engonmewonuw,,FALSE,(1⋅10){and}6{CLF},,10{and}6{CLF}
-17,numerals-chuu1238-1-seventeen-1,numerals-chuu1238-1,Chan2019,seventeen,17,ɛŋɔːn mɛ fɨsuːw,engonmefisuw,,FALSE,(1⋅10){and}7{CLF},,10{and}7{CLF}
-18,numerals-chuu1238-1-eighteen-1,numerals-chuu1238-1,Chan2019,eighteen,18,ɛŋɔːn mɛ wanʉːw,engonmewanuw,,FALSE,(1⋅10){and}8{CLF},,10{and}8{CLF}
-19,numerals-chuu1238-1-nineteen-1,numerals-chuu1238-1,Chan2019,nineteen,19,ɛŋɔːn mɛ tiuːw,engonmetiuw,,FALSE,(1⋅10){and}9{CLF},,10{and}9{CLF}
+11,numerals-chuu1238-1-eleven-1,numerals-chuu1238-1,Chan2019,eleven,11,ɛŋɔːn mɛ ɛːw,engonmeew,,FALSE,(1⋅10){and}+1{CLF},,10{and}+1{CLF}
+12,numerals-chuu1238-1-twelve-1,numerals-chuu1238-1,Chan2019,twelve,12,ɛŋɔːn mɛ ruːw,engonmeruw,,FALSE,(1⋅10){and}+2{CLF},,10{and}+2{CLF}
+13,numerals-chuu1238-1-thirteen-1,numerals-chuu1238-1,Chan2019,thirteen,13,ɛŋɔːn mɛ ʉnʉŋat,engonmeunungat,,FALSE,(1⋅10){and}+3{CLF?},,10{and}+3{CLF?}
+14,numerals-chuu1238-1-fourteen-1,numerals-chuu1238-1,Chan2019,fourteen,14,ɛŋɔːn mɛ rʉaːnʉ,engonmeruanu,,FALSE,(1⋅10){and}+4{CLF?},,10{and}+4{CLF?}
+15,numerals-chuu1238-1-fifteen-1,numerals-chuu1238-1,Chan2019,fifteen,15,ɛŋɔːn mɛ nɨmuːw,engonmenimuw,,FALSE,(1⋅10){and}+5{CLF},,10{and}+5{CLF}
+16,numerals-chuu1238-1-sixteen-1,numerals-chuu1238-1,Chan2019,sixteen,16,ɛŋɔːn mɛ wonuːw,engonmewonuw,,FALSE,(1⋅10){and}+6{CLF},,10{and}+6{CLF}
+17,numerals-chuu1238-1-seventeen-1,numerals-chuu1238-1,Chan2019,seventeen,17,ɛŋɔːn mɛ fɨsuːw,engonmefisuw,,FALSE,(1⋅10){and}+7{CLF},,10{and}+7{CLF}
+18,numerals-chuu1238-1-eighteen-1,numerals-chuu1238-1,Chan2019,eighteen,18,ɛŋɔːn mɛ wanʉːw,engonmewanuw,,FALSE,(1⋅10){and}+8{CLF},,10{and}+8{CLF}
+19,numerals-chuu1238-1-nineteen-1,numerals-chuu1238-1,Chan2019,nineteen,19,ɛŋɔːn mɛ tiuːw,engonmetiuw,,FALSE,(1⋅10){and}+9{CLF},,10{and}+9{CLF}
 20,numerals-chuu1238-1-twenty-1,numerals-chuu1238-1,Chan2019,twenty,20,rʉwɛ,ruwe,,FALSE,2⋅10′,,
-21,numerals-chuu1238-1-twentyone-1,numerals-chuu1238-1,Chan2019,twentyone,21,rʉwɛ mɛ ɛːw,ruwemeew,,FALSE,(2⋅10′){and}1{CLF},,
-22,numerals-chuu1238-1-twentytwo-1,numerals-chuu1238-1,Chan2019,twentytwo,22,rʉwɛ mɛ ruːw,ruwemeruw,,FALSE,(2⋅10′){and}2{CLF},,
-23,numerals-chuu1238-1-twentythree-1,numerals-chuu1238-1,Chan2019,twentythree,23,rʉwɛ mɛ ʉnʉŋat,ruwemeunungat,,FALSE,(2⋅10′){and}3{CLF?},,
-24,numerals-chuu1238-1-twentyfour-1,numerals-chuu1238-1,Chan2019,twentyfour,24,rʉwɛ mɛ rʉaːnʉ,ruwemeruanu,,FALSE,(2⋅10′){and}4{CLF?},,
-25,numerals-chuu1238-1-twentyfive-1,numerals-chuu1238-1,Chan2019,twentyfive,25,rʉwɛ mɛ nɨmuːw,ruwemenimuw,,FALSE,(2⋅10′){and}5{CLF},,
-26,numerals-chuu1238-1-twentysix-1,numerals-chuu1238-1,Chan2019,twentysix,26,rʉwɛ mɛ wonuːw,ruwemewonuw,,FALSE,(2⋅10′){and}6{CLF},,
-27,numerals-chuu1238-1-twentyseven-1,numerals-chuu1238-1,Chan2019,twentyseven,27,rʉwɛ mɛ fɨsuːw,ruwemefisuw,,FALSE,(2⋅10′){and}7{CLF},,
-28,numerals-chuu1238-1-twentyeight-1,numerals-chuu1238-1,Chan2019,twentyeight,28,rʉwɛ mɛ wanʉːw,ruwemewanuw,,FALSE,(2⋅10′){and}8{CLF},,
-29,numerals-chuu1238-1-twentynine-1,numerals-chuu1238-1,Chan2019,twentynine,29,rʉwɛ mɛ tiuːw,ruwemetiuw,,FALSE,(2⋅10′){and}9{CLF},,
+21,numerals-chuu1238-1-twentyone-1,numerals-chuu1238-1,Chan2019,twentyone,21,rʉwɛ mɛ ɛːw,ruwemeew,,FALSE,(2⋅10′){and}+1{CLF},,
+22,numerals-chuu1238-1-twentytwo-1,numerals-chuu1238-1,Chan2019,twentytwo,22,rʉwɛ mɛ ruːw,ruwemeruw,,FALSE,(2⋅10′){and}+2{CLF},,
+23,numerals-chuu1238-1-twentythree-1,numerals-chuu1238-1,Chan2019,twentythree,23,rʉwɛ mɛ ʉnʉŋat,ruwemeunungat,,FALSE,(2⋅10′){and}+3{CLF?},,
+24,numerals-chuu1238-1-twentyfour-1,numerals-chuu1238-1,Chan2019,twentyfour,24,rʉwɛ mɛ rʉaːnʉ,ruwemeruanu,,FALSE,(2⋅10′){and}+4{CLF?},,
+25,numerals-chuu1238-1-twentyfive-1,numerals-chuu1238-1,Chan2019,twentyfive,25,rʉwɛ mɛ nɨmuːw,ruwemenimuw,,FALSE,(2⋅10′){and}+5{CLF},,
+26,numerals-chuu1238-1-twentysix-1,numerals-chuu1238-1,Chan2019,twentysix,26,rʉwɛ mɛ wonuːw,ruwemewonuw,,FALSE,(2⋅10′){and}+6{CLF},,
+27,numerals-chuu1238-1-twentyseven-1,numerals-chuu1238-1,Chan2019,twentyseven,27,rʉwɛ mɛ fɨsuːw,ruwemefisuw,,FALSE,(2⋅10′){and}+7{CLF},,
+28,numerals-chuu1238-1-twentyeight-1,numerals-chuu1238-1,Chan2019,twentyeight,28,rʉwɛ mɛ wanʉːw,ruwemewanuw,,FALSE,(2⋅10′){and}+8{CLF},,
+29,numerals-chuu1238-1-twentynine-1,numerals-chuu1238-1,Chan2019,twentynine,29,rʉwɛ mɛ tiuːw,ruwemetiuw,,FALSE,(2⋅10′){and}+9{CLF},,
 30,numerals-chuu1238-1-thirty-1,numerals-chuu1238-1,Chan2019,thirty,30,iniːk,inik,,FALSE,3⋅10″,,
 31,numerals-chuu1238-1-forty-1,numerals-chuu1238-1,Chan2019,forty,40,fæjik,faejik,,FALSE,4′⋅10″,,
 32,numerals-chuu1238-1-fifty-1,numerals-chuu1238-1,Chan2019,fifty,50,nɨmɛ,nime,,FALSE,5⋅10′,,

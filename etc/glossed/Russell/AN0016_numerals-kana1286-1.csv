@@ -11,25 +11,25 @@
 10,numerals-kana1286-1-three-3,numerals-kana1286-1,Chan2019,three,3,ta'tulu,tatulu,,FALSE,{HUM}3,,
 11,numerals-kana1286-1-four-1,numerals-kana1286-1,Chan2019,four,4,'sɨ:patɨ,sipati,,FALSE,4,Used in serial counting,
 12,numerals-kana1286-1-four-2,numerals-kana1286-1,Chan2019,four,4,u'sɨ:patɨ,usipati,,FALSE,{NHUM}4,,
-13,numerals-kana1286-1-four-3,numerals-kana1286-1,Chan2019,four,4,sa'sɨ:patɨ,sasipati,,FALSE,{HUM{4}}4,Reduplication (?),
+13,numerals-kana1286-1-four-3,numerals-kana1286-1,Chan2019,four,4,sa'sɨ:patɨ,sasipati,,FALSE,{HUM}{4}4,Reduplication,
 14,numerals-kana1286-1-five-1,numerals-kana1286-1,Chan2019,five,5,'lima,lima,,FALSE,5,Used in serial counting,
 15,numerals-kana1286-1-five-2,numerals-kana1286-1,Chan2019,five,5,u'lima,ulima,,FALSE,{NHUM}5,,
-16,numerals-kana1286-1-five-3,numerals-kana1286-1,Chan2019,five,5,la'lima,lalima,,FALSE,{HUM{5}}5,Reduplication (?),
+16,numerals-kana1286-1-five-3,numerals-kana1286-1,Chan2019,five,5,la'lima,lalima,,FALSE,{HUM}{5}5,Reduplication,
 17,numerals-kana1286-1-six-1,numerals-kana1286-1,Chan2019,six,6,'nɨmɨ,nimi,,FALSE,6,Used in serial counting,
 18,numerals-kana1286-1-six-2,numerals-kana1286-1,Chan2019,six,6,u'nɨmɨ,unimi,,FALSE,{NHUM}6,,
-19,numerals-kana1286-1-six-3,numerals-kana1286-1,Chan2019,six,6,na'nɨmɨ,nanimi,,FALSE,{HUM{6}}6,Reduplication (?),
+19,numerals-kana1286-1-six-3,numerals-kana1286-1,Chan2019,six,6,na'nɨmɨ,nanimi,,FALSE,{HUM}{6}6,Reduplication,
 20,numerals-kana1286-1-seven-1,numerals-kana1286-1,Chan2019,seven,7,'pitu,pitu,,FALSE,7,Used in serial counting,
 21,numerals-kana1286-1-seven-2,numerals-kana1286-1,Chan2019,seven,7,u'pitu,upitu,,FALSE,{NHUM}7,,
-22,numerals-kana1286-1-seven-3,numerals-kana1286-1,Chan2019,seven,7,pa'pitu,papitu,,FALSE,{HUM{7}}7,Reduplication (?),
+22,numerals-kana1286-1-seven-3,numerals-kana1286-1,Chan2019,seven,7,pa'pitu,papitu,,FALSE,{HUM}{7}7,Reduplication,
 23,numerals-kana1286-1-eight-1,numerals-kana1286-1,Chan2019,eight,8,'a:lu,alu,,FALSE,8,Used in serial counting,
 24,numerals-kana1286-1-eight-2,numerals-kana1286-1,Chan2019,eight,8,u:'a:lu,ualu,,FALSE,{NHUM}8,,
-25,numerals-kana1286-1-eight-3,numerals-kana1286-1,Chan2019,eight,8,la'lalu,lalalu,,FALSE,{HUM{8}}8,Reduplication (?),
+25,numerals-kana1286-1-eight-3,numerals-kana1286-1,Chan2019,eight,8,la'lalu,lalalu,,FALSE,{HUM}{8}8,Reduplication,
 26,numerals-kana1286-1-nine-1,numerals-kana1286-1,Chan2019,nine,9,'ɕia,cia,,FALSE,9,Used in serial counting,
 27,numerals-kana1286-1-nine-2,numerals-kana1286-1,Chan2019,nine,9,u'ɕia,ucia,,FALSE,{NHUM}9,,
-28,numerals-kana1286-1-nine-3,numerals-kana1286-1,Chan2019,nine,9,sa'ɕia,sacia,,FALSE,{HUM{9}}9,Reduplication (?),
+28,numerals-kana1286-1-nine-3,numerals-kana1286-1,Chan2019,nine,9,sa'ɕia,sacia,,FALSE,{HUM}{9}9,Reduplication,
 29,numerals-kana1286-1-ten-1,numerals-kana1286-1,Chan2019,ten,10,'manɨ,mani,,FALSE,10{?},,{?}10
 30,numerals-kana1286-1-ten-2,numerals-kana1286-1,Chan2019,ten,10,'maːn,man,,FALSE,10{?},,{?}10
-31,numerals-kana1286-1-ten-3,numerals-kana1286-1,Chan2019,ten,10,ma'maːn,maman,,FALSE,{HUM{10}}10{?},Reduplication (?),{HUM{?}}{?}10
+31,numerals-kana1286-1-ten-3,numerals-kana1286-1,Chan2019,ten,10,ma'maːn,maman,,FALSE,{HUM}{10}10{?},Reduplication,{HUM}{?}{?}10
 32,numerals-kana1286-1-eleven-1,numerals-kana1286-1,Chan2019,eleven,11,'maːn u't͡sani,manutsani,,FALSE,10{?}[+]{NHUM}1,,{?}10[+]{NHUM}1
 33,numerals-kana1286-1-twelve-1,numerals-kana1286-1,Chan2019,twelve,12,'maːn u'ruːt͡sini,manurutsini,,FALSE,10{?}[+]{NHUM}2,,{?}10[+]{NHUM}2
 34,numerals-kana1286-1-twelve-2,numerals-kana1286-1,Chan2019,twelve,12,'maːn u'ruːt͡sin,manurutsin,,FALSE,10{?}[+]{NHUM}2′,,{?}10[+]{NHUM}2′
