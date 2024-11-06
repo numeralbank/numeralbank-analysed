@@ -27,7 +27,7 @@ Column1,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contri
 26,numerals-misk1235-1-twentysix-1,numerals-misk1235-1,Chan2019,twentysix,26,yawanaiska pura matlalkahbi,yawanaiskapuramatlalkahbi,,FALSCH,20+{+}6,NA,NA
 27,numerals-misk1235-1-twentyseven-1,numerals-misk1235-1,Chan2019,twentyseven,27,yawanaiska pura matlalkahbi pura kum,yawanaiskapuramatlalkahbipurakum,,FALSCH,20+{+}6+{+}1,NA,NA
 28,numerals-misk1235-1-twentyeight-1,numerals-misk1235-1,Chan2019,twentyeight,28,yawanaiska pura matlalkahbi pura wal,yawanaiskapuramatlalkahbipurawal,,FALSCH,20+{+}6+{+}2,NA,NA
-29,numerals-misk1235-1-thirty-1,numerals-misk1235-1,Chan2019,thirty,30,yawanaiska pura matawalsip,yawanaiskapuramatawalsip,,FALSCH,20+{+}6+{+}3,NA,NA
+29,numerals-misk1235-1-thirty-1,numerals-misk1235-1,Chan2019,thirty,30,yawanaiska pura matawalsip,yawanaiskapuramatawalsip,,FALSCH,20+{+}10,NA,NA
 30,numerals-misk1235-1-forty-1,numerals-misk1235-1,Chan2019,forty,40,yawanaiska wal,yawanaiskawal,,FALSCH,20⋅2,NA,NA
 31,numerals-misk1235-1-fifty-1,numerals-misk1235-1,Chan2019,fifty,50,yawanaiska wal pura matawalsip,yawanaiskawalpuramatawalsip,,FALSCH,20⋅2+{+}10,NA,NA
 32,numerals-misk1235-1-sixty-1,numerals-misk1235-1,Chan2019,sixty,60,yawanaiska yumhpa,yawanaiskayumhpa,,FALSCH,20⋅3,NA,NA
