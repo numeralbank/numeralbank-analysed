@@ -36,6 +36,6 @@
 35,numerals-bara1375-1-eighty-1,numerals-bara1375-1,Chan2019,eighty,80,'date ewɔ'ɾaɾi,dateeworari,,FALSE,20[∙]4,,
 36,numerals-bara1375-1-ninety-1,numerals-bara1375-1,Chan2019,ninety,90,'date ewɔ'ɾaɾi 'dɛɾa 'date 'motowa 'aota 'apimi,dateeworarideradatemotowaaotaapimi,,FALSE,(20[∙]4){being?}+{20}{other}(5[∙]2),,
 37,numerals-bara1375-1-hundred-1,numerals-bara1375-1,Chan2019,hundred,100,'date 'aota 'pɛte,dateaotapete,,FALSE,20[∙]5{all},,
-38,numerals-bara1375-1-twohundred-1,numerals-bara1375-1,Chan2019,twohundred,200,'date 'aota 'apimi,dateaotaapimi,,FALSE,(20[∙]5{all}){being?}+{20}{other}(5[∙]2),,
+38,numerals-bara1375-1-twohundred-1,numerals-bara1375-1,Chan2019,twohundred,200,'date 'aota 'apimi,dateaotaapimi,,FALSE,20[∙]5[∙]2,,
 39,numerals-bara1375-1-thousand-1,numerals-bara1375-1,Chan2019,thousand,1000,'date te'tari 'date 'apimi 'dɛɾa 'date 'motowa 'aota 'apimi,datetetaridateapimideradatemotowaaotaapimi,,FALSE,20{only}[∙]{20}5{being?}[∙]{20}{other}(5[∙]2),,
 40,numerals-bara1375-1-twothousand-1,numerals-bara1375-1,Chan2019,twothousand,2000,'date te'tari 'date 'aota 'pɛte,datetetaridateaotapete,,FALSE,20{only}[∙]20[∙]5{all},,

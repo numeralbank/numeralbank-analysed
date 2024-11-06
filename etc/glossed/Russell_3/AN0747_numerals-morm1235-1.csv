@@ -1,8 +1,8 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
 1,numerals-morm1235-1-one-1,numerals-morm1235-1,Chan2019,one,1,tatá,tata,,FALSE,1,Reduplication (?),
 2,numerals-morm1235-1-two-1,numerals-morm1235-1,Chan2019,two,2,rúró,ruro,,FALSE,2,Reduplication (?),
-3,numerals-morm1235-1-three-1,numerals-morm1235-1,Chan2019,three,3,óró,oro,,FALSE,4,,
-4,numerals-morm1235-1-four-1,numerals-morm1235-1,Chan2019,four,4,áʔó,ao,,FALSE,5,,
+3,numerals-morm1235-1-three-1,numerals-morm1235-1,Chan2019,three,3,óró,oro,,FALSE,3,,
+4,numerals-morm1235-1-four-1,numerals-morm1235-1,Chan2019,four,4,áʔó,ao,,FALSE,4,,
 5,numerals-morm1235-1-five-1,numerals-morm1235-1,Chan2019,five,5,rímó,rimo,,FALSE,5,,
 6,numerals-morm1235-1-six-1,numerals-morm1235-1,Chan2019,six,6,rímó maʔa tatá,rimomaatata,( 5 + 1),FALSE,5+{+}1,,
 7,numerals-morm1235-1-seven-1,numerals-morm1235-1,Chan2019,seven,7,rímó maʔa rúró,rimomaaruro,( 5 + 2),FALSE,5+{+}2,,
@@ -36,4 +36,4 @@
 35,numerals-morm1235-1-eighty-1,numerals-morm1235-1,Chan2019,eighty,80,naʔu áʔó,nauao,( 20 x 4 ),FALSE,20[⋅]4,,
 36,numerals-morm1235-1-ninety-1,numerals-morm1235-1,Chan2019,ninety,90,naʔu áʔó maʔa tàura,nauaomaataura,,FALSE,(20[⋅]4)+{+}10,,
 37,numerals-morm1235-1-hundred-1,numerals-morm1235-1,Chan2019,hundred,100,naʔu rímó,naurimo,( 20 x 5 ),FALSE,20[⋅]5,,
-38,numerals-morm1235-1-twohundred-1,numerals-morm1235-1,Chan2019,twohundred,200,naʔu tàura,nautaura,( 20 x 10 ),FALSE,(20[⋅]5)+{+}10,,
+38,numerals-morm1235-1-twohundred-1,numerals-morm1235-1,Chan2019,twohundred,200,naʔu tàura,nautaura,( 20 x 10 ),FALSE,20[⋅]10,,

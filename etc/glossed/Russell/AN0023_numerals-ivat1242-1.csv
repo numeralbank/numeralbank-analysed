@@ -11,7 +11,7 @@
 10,numerals-ivat1242-1-five-2,numerals-ivat1242-1,Chan2019,five,5,lalima,lalima,,FALSE,{5}5,Reduplication: used for counting people,
 11,numerals-ivat1242-1-six-1,numerals-ivat1242-1,Chan2019,six,6,aʔnəm,anam,,FALSE,6,Used in serial counting,
 12,numerals-ivat1242-1-six-2,numerals-ivat1242-1,Chan2019,six,6,haʔnəm,hanam,,FALSE,{6}6,Reduplication: used for counting people,
-13,numerals-ivat1242-1-seven-1,numerals-ivat1242-1,Chan2019,seven,7,pito,pito,,FALSE,8,Used in serial counting,
+13,numerals-ivat1242-1-seven-1,numerals-ivat1242-1,Chan2019,seven,7,pito,pito,,FALSE,7,Used in serial counting,
 14,numerals-ivat1242-1-seven-2,numerals-ivat1242-1,Chan2019,seven,7,papito,papito,,FALSE,{7}7,Reduplication: used for counting people,
 15,numerals-ivat1242-1-eight-1,numerals-ivat1242-1,Chan2019,eight,8,waxo,waxo,,FALSE,8,Used in serial counting,
 16,numerals-ivat1242-1-eight-2,numerals-ivat1242-1,Chan2019,eight,8,wawaxo,wawaxo,,FALSE,{8}8,Reduplication: used for counting people,
@@ -29,18 +29,18 @@
 28,numerals-ivat1242-1-eighteen-1,numerals-ivat1242-1,Chan2019,eighteen,18,waxwast͡ʃarwa,waxwastsarwa,,FALSE,[10+]8{OBL}{ORD}{2′},Overcounting,8{OBL}+{ORD}(2′−[1])[⋅10]
 29,numerals-ivat1242-1-nineteen-1,numerals-ivat1242-1,Chan2019,nineteen,19,(sa)siyamast͡ʃarwa,sasiyamastsarwa,,FALSE,[10+]9{OBL}{ORD}{2′},Overcounting,9{OBL}+{ORD}(2′−[1])[⋅10]
 30,numerals-ivat1242-1-twenty-1,numerals-ivat1242-1,Chan2019,twenty,20,dahaːpoxo poho,dahapoxopoho,,FALSE,2[⋅]{10}10,,
-31,numerals-ivat1242-1-twentyone-1,numerals-ivat1242-1,Chan2019,twentyone,21,aʔsast͡ʃatlo,asastsatlo,,FALSE,[10+]1{OBL}{ORD}{3},Overcounting: ‘one of the third [ten]’,1{OBL}+{ORD}(3−[1])[⋅10]
+31,numerals-ivat1242-1-twentyone-1,numerals-ivat1242-1,Chan2019,twentyone,21,aʔsast͡ʃatlo,asastsatlo,,FALSE,[20+]1{OBL}{ORD}{3},Overcounting: ‘one of the third [ten]’,1{OBL}+{ORD}(3−[1])[⋅10]
 32,numerals-ivat1242-1-twentyone-2,numerals-ivat1242-1,Chan2019,twentyone,21,dahaːpoxo poho kano aʔsa,dahapoxopohokanoasa,,FALSE,2[⋅]{10}10{and}+1,,
-33,numerals-ivat1242-1-twentytwo-1,numerals-ivat1242-1,Chan2019,twentytwo,22,dohast͡ʃatlo,dohastsatlo,,FALSE,[10+]2{OBL}{ORD}{3},,2{OBL}+{ORD}(3−[1])[⋅10]
+33,numerals-ivat1242-1-twentytwo-1,numerals-ivat1242-1,Chan2019,twentytwo,22,dohast͡ʃatlo,dohastsatlo,,FALSE,[20+]2{OBL}{ORD}{3},Overcounting,2{OBL}+{ORD}(3−[1])[⋅10]
 34,numerals-ivat1242-1-twentytwo-2,numerals-ivat1242-1,Chan2019,twentytwo,22,dahaːpoxo poho kano doha,dahapoxopohokanodoha,,FALSE,2[⋅]{10}10{and}+2,,
-35,numerals-ivat1242-1-twentythree-1,numerals-ivat1242-1,Chan2019,twentythree,23,atlwast͡ʃatlo,atlwastsatlo,,FALSE,[10+]3{OBL}{ORD}{3},,3{OBL}+{ORD}(3−[1])[⋅10]
+35,numerals-ivat1242-1-twentythree-1,numerals-ivat1242-1,Chan2019,twentythree,23,atlwast͡ʃatlo,atlwastsatlo,,FALSE,[20+]3{OBL}{ORD}{3},Overcounting,3{OBL}+{ORD}(3−[1])[⋅10]
 36,numerals-ivat1242-1-twentythree-2,numerals-ivat1242-1,Chan2019,twentythree,23,dahaːpoxo poho kano atlo,dahapoxopohokanoatlo,,FALSE,2[⋅]{10}10{and}+3,,
-37,numerals-ivat1242-1-twentyfour-1,numerals-ivat1242-1,Chan2019,twentyfour,24,aʔpatast͡ʃatlo,apatastsatlo,,FALSE,[10+]4{OBL}{ORD}{3},,4{OBL}+{ORD}(3−[1])[⋅10]
-38,numerals-ivat1242-1-twentyfive-1,numerals-ivat1242-1,Chan2019,twentyfive,25,limast͡ʃatlo,limastsatlo,,FALSE,[10+]5{OBL}{ORD}{3},,5{OBL}+{ORD}(3−[1])[⋅10]
-39,numerals-ivat1242-1-twentysix-1,numerals-ivat1242-1,Chan2019,twentysix,26,aʔnəmast͡ʃatlo,anamastsatlo,,FALSE,[10+]6{OBL}{ORD}{3},,6{OBL}+{ORD}(3−[1])[⋅10]
-40,numerals-ivat1242-1-twentyseven-1,numerals-ivat1242-1,Chan2019,twentyseven,27,pitwast͡ʃatlo,pitwastsatlo,,FALSE,[10+]7{OBL}{ORD}{3},,7{OBL}+{ORD}(3−[1])[⋅10]
-41,numerals-ivat1242-1-twentyeight-1,numerals-ivat1242-1,Chan2019,twentyeight,28,waxwast͡ʃatlo,waxwastsatlo,,FALSE,[10+]8{OBL}{ORD}{3},,8{OBL}+{ORD}(3−[1])[⋅10]
-42,numerals-ivat1242-1-twentynine-1,numerals-ivat1242-1,Chan2019,twentynine,29,siyamast͡ʃatlo,siyamastsatlo,,FALSE,[10+]9{OBL}{ORD}{3},,9{OBL}+{ORD}(3−[1])[⋅10]
+37,numerals-ivat1242-1-twentyfour-1,numerals-ivat1242-1,Chan2019,twentyfour,24,aʔpatast͡ʃatlo,apatastsatlo,,FALSE,[20+]4{OBL}{ORD}{3},Overcounting,4{OBL}+{ORD}(3−[1])[⋅10]
+38,numerals-ivat1242-1-twentyfive-1,numerals-ivat1242-1,Chan2019,twentyfive,25,limast͡ʃatlo,limastsatlo,,FALSE,[20+]5{OBL}{ORD}{3},Overcounting,5{OBL}+{ORD}(3−[1])[⋅10]
+39,numerals-ivat1242-1-twentysix-1,numerals-ivat1242-1,Chan2019,twentysix,26,aʔnəmast͡ʃatlo,anamastsatlo,,FALSE,[20+]6{OBL}{ORD}{3},Overcounting,6{OBL}+{ORD}(3−[1])[⋅10]
+40,numerals-ivat1242-1-twentyseven-1,numerals-ivat1242-1,Chan2019,twentyseven,27,pitwast͡ʃatlo,pitwastsatlo,,FALSE,[20+]7{OBL}{ORD}{3},Overcounting,7{OBL}+{ORD}(3−[1])[⋅10]
+41,numerals-ivat1242-1-twentyeight-1,numerals-ivat1242-1,Chan2019,twentyeight,28,waxwast͡ʃatlo,waxwastsatlo,,FALSE,[20+]8{OBL}{ORD}{3},Overcounting,8{OBL}+{ORD}(3−[1])[⋅10]
+42,numerals-ivat1242-1-twentynine-1,numerals-ivat1242-1,Chan2019,twentynine,29,siyamast͡ʃatlo,siyamastsatlo,,FALSE,[20+]9{OBL}{ORD}{3},Overcounting,9{OBL}+{ORD}(3−[1])[⋅10]
 43,numerals-ivat1242-1-thirty-1,numerals-ivat1242-1,Chan2019,thirty,30,atlwapoxo,atlwapoxo,,FALSE,3[⋅]10,,
 44,numerals-ivat1242-1-forty-1,numerals-ivat1242-1,Chan2019,forty,40,aʔpatapoxo,apatapoxo,,FALSE,4[⋅]10,,
 45,numerals-ivat1242-1-fifty-1,numerals-ivat1242-1,Chan2019,fifty,50,limaːpoxo,limapoxo,,FALSE,5[⋅]10,,
