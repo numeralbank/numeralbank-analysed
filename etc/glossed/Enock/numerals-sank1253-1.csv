@@ -10,25 +10,25 @@
 9;numerals-sank1253-1-eight-1;numerals-sank1253-1;Chan2019;eight;8;sen;sen;;FALSE;8;;
 10;numerals-sank1253-1-nine-1;numerals-sank1253-1;Chan2019;nine;9;konondo;konondo;;FALSE;9;;[10]-1”
 11;numerals-sank1253-1-ten-1;numerals-sank1253-1;Chan2019;ten;10;tan;tan;;FALSE;10;;
-12;numerals-sank1253-1-eleven-1;numerals-sank1253-1;Chan2019;eleven;11;tan ni kɛlɛn;tannikelen;;FALSE;10+{+}1;;
-13;numerals-sank1253-1-twelve-1;numerals-sank1253-1;Chan2019;twelve;12;tan ni fila;tannifila;;FALSE;10+{+}2;;
-14;numerals-sank1253-1-thirteen-1;numerals-sank1253-1;Chan2019;thirteen;13;tan ni sawa;tannisawa;;FALSE;10+{+}3;;
-15;numerals-sank1253-1-fourteen-1;numerals-sank1253-1;Chan2019;fourteen;14;tan ni naani;tanninaani;;FALSE;10+{+}4;;
-16;numerals-sank1253-1-fifteen-1;numerals-sank1253-1;Chan2019;fifteen;15;tan ni loolu;tanniloolu;;FALSE;10+{+}5';;
-17;numerals-sank1253-1-sixteen-1;numerals-sank1253-1;Chan2019;sixteen;16;tan ni wɔɔrɔn;tanniwooron;;FALSE;"10+{+}5""+[1']";;
-18;numerals-sank1253-1-seventeen-1;numerals-sank1253-1;Chan2019;seventeen;17;tan ni wɔɔrɔnla;tanniwooronla;;FALSE;"10+{+}5""+2""";;
-19;numerals-sank1253-1-eighteen-1;numerals-sank1253-1;Chan2019;eighteen;18;tan ni sen;tannisen;;FALSE;10+{+}8;;
-20;numerals-sank1253-1-nineteen-1;numerals-sank1253-1;Chan2019;nineteen;19;tan ni konondo;tannikonondo;;FALSE;10+{+}9;;"10+{+}[10]-1"""
+12;numerals-sank1253-1-eleven-1;numerals-sank1253-1;Chan2019;eleven;11;tan ni kɛlɛn;tannikelen;;FALSE;10+[+]1;;
+13;numerals-sank1253-1-twelve-1;numerals-sank1253-1;Chan2019;twelve;12;tan ni fila;tannifila;;FALSE;10+[+]2;;
+14;numerals-sank1253-1-thirteen-1;numerals-sank1253-1;Chan2019;thirteen;13;tan ni sawa;tannisawa;;FALSE;10+[+]3;;
+15;numerals-sank1253-1-fourteen-1;numerals-sank1253-1;Chan2019;fourteen;14;tan ni naani;tanninaani;;FALSE;10+[+]4;;
+16;numerals-sank1253-1-fifteen-1;numerals-sank1253-1;Chan2019;fifteen;15;tan ni loolu;tanniloolu;;FALSE;10+[+]5';;
+17;numerals-sank1253-1-sixteen-1;numerals-sank1253-1;Chan2019;sixteen;16;tan ni wɔɔrɔn;tanniwooron;;FALSE;"10+[+]5""+[1']";;
+18;numerals-sank1253-1-seventeen-1;numerals-sank1253-1;Chan2019;seventeen;17;tan ni wɔɔrɔnla;tanniwooronla;;FALSE;"10+[+]5""+2""";;
+19;numerals-sank1253-1-eighteen-1;numerals-sank1253-1;Chan2019;eighteen;18;tan ni sen;tannisen;;FALSE;10+[+]8;;
+20;numerals-sank1253-1-nineteen-1;numerals-sank1253-1;Chan2019;nineteen;19;tan ni konondo;tannikonondo;;FALSE;10+[+]9;;"10+[+][10]-1"""
 21;numerals-sank1253-1-twenty-1;numerals-sank1253-1;Chan2019;twenty;20;muwan;muwan;;FALSE;20;;
-22;numerals-sank1253-1-twentyone-1;numerals-sank1253-1;Chan2019;twentyone;21;muwan ni kɛlɛn;muwannikelen;;FALSE;20+{+}1;;
-23;numerals-sank1253-1-twentytwo-1;numerals-sank1253-1;Chan2019;twentytwo;22;muwan ni fila;muwannifila;;FALSE;20+{+}2;;
-24;numerals-sank1253-1-twentythree-1;numerals-sank1253-1;Chan2019;twentythree;23;muwan ni sawa;muwannisawa;;FALSE;20+{+}3;;
-25;numerals-sank1253-1-twentyfour-1;numerals-sank1253-1;Chan2019;twentyfour;24;muwan ni naani;muwanninaani;;FALSE;20+{+}4;;
-26;numerals-sank1253-1-twentyfive-1;numerals-sank1253-1;Chan2019;twentyfive;25;muwan ni loolu;muwanniloolu;;FALSE;20+{+}5';;
-27;numerals-sank1253-1-twentysix-1;numerals-sank1253-1;Chan2019;twentysix;26;muwan ni wɔɔrɔn;muwanniwooron;;FALSE;20+{+}5”+[1’];;
-28;numerals-sank1253-1-twentyseven-1;numerals-sank1253-1;Chan2019;twentyseven;27;muwan ni wɔɔrɔnla;muwanniwooronla;;FALSE;"20+{+}5""+2""";;
-29;numerals-sank1253-1-twentyeight-1;numerals-sank1253-1;Chan2019;twentyeight;28;muwan ni sen;muwannisen;;FALSE;20+{+}8;;
-30;numerals-sank1253-1-twentynine-1;numerals-sank1253-1;Chan2019;twentynine;29;muwan ni konondo;muwannikonondo;;FALSE;20+{+}9;;20+{+}[10]-1”
+22;numerals-sank1253-1-twentyone-1;numerals-sank1253-1;Chan2019;twentyone;21;muwan ni kɛlɛn;muwannikelen;;FALSE;20+[+]1;;
+23;numerals-sank1253-1-twentytwo-1;numerals-sank1253-1;Chan2019;twentytwo;22;muwan ni fila;muwannifila;;FALSE;20+[+]2;;
+24;numerals-sank1253-1-twentythree-1;numerals-sank1253-1;Chan2019;twentythree;23;muwan ni sawa;muwannisawa;;FALSE;20+[+]3;;
+25;numerals-sank1253-1-twentyfour-1;numerals-sank1253-1;Chan2019;twentyfour;24;muwan ni naani;muwanninaani;;FALSE;20+[+]4;;
+26;numerals-sank1253-1-twentyfive-1;numerals-sank1253-1;Chan2019;twentyfive;25;muwan ni loolu;muwanniloolu;;FALSE;20+[+]5';;
+27;numerals-sank1253-1-twentysix-1;numerals-sank1253-1;Chan2019;twentysix;26;muwan ni wɔɔrɔn;muwanniwooron;;FALSE;20+[+]5”+[1’];;
+28;numerals-sank1253-1-twentyseven-1;numerals-sank1253-1;Chan2019;twentyseven;27;muwan ni wɔɔrɔnla;muwanniwooronla;;FALSE;"20+[+]5""+2""";;
+29;numerals-sank1253-1-twentyeight-1;numerals-sank1253-1;Chan2019;twentyeight;28;muwan ni sen;muwannisen;;FALSE;20+[+]8;;
+30;numerals-sank1253-1-twentynine-1;numerals-sank1253-1;Chan2019;twentynine;29;muwan ni konondo;muwannikonondo;;FALSE;20+[+]9;;20+[+][10]-1”
 31;numerals-sank1253-1-thirty-1;numerals-sank1253-1;Chan2019;thirty;30;bi sawa;bisawa;;FALSE;10'·3';;
 32;numerals-sank1253-1-thirty-2;numerals-sank1253-1;Chan2019;thirty;30;bi saba;bisaba;;FALSE;10'·3;;
 33;numerals-sank1253-1-forty-1;numerals-sank1253-1;Chan2019;forty;40;bi naani;binaani;;FALSE;10’·4;;

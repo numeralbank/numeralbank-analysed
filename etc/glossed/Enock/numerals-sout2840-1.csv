@@ -19,15 +19,15 @@
 18;numerals-sout2840-1-eighteen-1;numerals-sout2840-1;Chan2019;eighteen;18;fʊ̃́ kórósɔ̃̌;fukoroso;;FALSE;10+5'+3';;
 19;numerals-sout2840-1-nineteen-1;numerals-sout2840-1;Chan2019;nineteen;19;fʊ̃́kórónɔ;fukorono;;FALSE;10+5’+4';;
 20;numerals-sout2840-1-twenty-1;numerals-sout2840-1;Chan2019;twenty;20;cɔ́rɔ̀;coro;;FALSE;20;;10·2
-21;numerals-sout2840-1-twentyone-1;numerals-sout2840-1;Chan2019;twentyone;21;cɔ̀rɔ́ nì nɔ̃̀;coronino;;FALSE;20+{+}1;;(10·2)+1
-22;numerals-sout2840-1-twentytwo-1;numerals-sout2840-1;Chan2019;twentytwo;22;cɔ̀rɔ́ nùmá plá;coronumapla;;FALSE;20+{+}2;;(10·2)+2
-23;numerals-sout2840-1-twentythree-1;numerals-sout2840-1;Chan2019;twentythree;23;cɔ̀rɔ́ nùmá sáà;coronumasaa;;FALSE;20+{+}3;;(10·2)+3
-24;numerals-sout2840-1-twentyfour-1;numerals-sout2840-1;Chan2019;twentyfour;24;cɔ̀rɔ́ nùmá náà;coronumanaa;;FALSE;20+{+}4;;(10·2)+4
-25;numerals-sout2840-1-twentyfive-1;numerals-sout2840-1;Chan2019;twentyfive;25;cɔ̀rɔ́ nùmá kóò;coronumakoo;;FALSE;20+{+}5;;(10·2)+5
-26;numerals-sout2840-1-twentysix-1;numerals-sout2840-1;Chan2019;twentysix;26;cɔ̀rɔ́ nùmá kònálá;coronumakonala;;FALSE;20+{+}5'+1';;(10·2)+5’+1’
-27;numerals-sout2840-1-twentyseven-1;numerals-sout2840-1;Chan2019;twentyseven;27;cɔ̀rɔ́ nùmá kòk͡pùra;coronumakokpura;;FALSE;20+{+}5'+2';;(10·2)+5’+2’
-28;numerals-sout2840-1-twentyeight-1;numerals-sout2840-1;Chan2019;twentyeight;28;cɔ̀rɔ́ nùmá kórósɔ̃̌;coronumakoroso;;FALSE;20+{+}5'+3';;(10·2)+5’+3’
-29;numerals-sout2840-1-twentynine-1;numerals-sout2840-1;Chan2019;twentynine;29;cɔ̀rɔ́ nùmá kórónɔ;coronumakorono;;FALSE;20+{+}5’+4';;(10·2)+5’+4’
+21;numerals-sout2840-1-twentyone-1;numerals-sout2840-1;Chan2019;twentyone;21;cɔ̀rɔ́ nì nɔ̃̀;coronino;;FALSE;20+[+]1;;(10·2)+1
+22;numerals-sout2840-1-twentytwo-1;numerals-sout2840-1;Chan2019;twentytwo;22;cɔ̀rɔ́ nùmá plá;coronumapla;;FALSE;20+[+]2;;(10·2)+2
+23;numerals-sout2840-1-twentythree-1;numerals-sout2840-1;Chan2019;twentythree;23;cɔ̀rɔ́ nùmá sáà;coronumasaa;;FALSE;20+[+]3;;(10·2)+3
+24;numerals-sout2840-1-twentyfour-1;numerals-sout2840-1;Chan2019;twentyfour;24;cɔ̀rɔ́ nùmá náà;coronumanaa;;FALSE;20+[+]4;;(10·2)+4
+25;numerals-sout2840-1-twentyfive-1;numerals-sout2840-1;Chan2019;twentyfive;25;cɔ̀rɔ́ nùmá kóò;coronumakoo;;FALSE;20+[+]5;;(10·2)+5
+26;numerals-sout2840-1-twentysix-1;numerals-sout2840-1;Chan2019;twentysix;26;cɔ̀rɔ́ nùmá kònálá;coronumakonala;;FALSE;20+[+]5'+1';;(10·2)+5’+1’
+27;numerals-sout2840-1-twentyseven-1;numerals-sout2840-1;Chan2019;twentyseven;27;cɔ̀rɔ́ nùmá kòk͡pùra;coronumakokpura;;FALSE;20+[+]5'+2';;(10·2)+5’+2’
+28;numerals-sout2840-1-twentyeight-1;numerals-sout2840-1;Chan2019;twentyeight;28;cɔ̀rɔ́ nùmá kórósɔ̃̌;coronumakoroso;;FALSE;20+[+]5'+3';;(10·2)+5’+3’
+29;numerals-sout2840-1-twentynine-1;numerals-sout2840-1;Chan2019;twentynine;29;cɔ̀rɔ́ nùmá kórónɔ;coronumakorono;;FALSE;20+[+]5’+4';;(10·2)+5’+4’
 30;numerals-sout2840-1-thirty-1;numerals-sout2840-1;Chan2019;thirty;30;cě sáà;cesaa;;FALSE;"10""·3";;
 31;numerals-sout2840-1-forty-1;numerals-sout2840-1;Chan2019;forty;40;cě náà;cenaa;;FALSE;10”·4;;
 32;numerals-sout2840-1-fifty-1;numerals-sout2840-1;Chan2019;fifty;50;cě kóò;cekoo;;FALSE;"10""·5";;

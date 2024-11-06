@@ -34,9 +34,9 @@
 33;numerals-dzuu1241-1-forty-1;numerals-dzuu1241-1;Chan2019;forty;40;dzjèː;dzje;;FALSE;40;;
 34;numerals-dzuu1241-1-fifty-1;numerals-dzuu1241-1;Chan2019;fifty;50;dzjèːtsjéù;dzjetsjeu;( 40 + 10 );FALSE;40+10;;
 35;numerals-dzuu1241-1-sixty-1;numerals-dzuu1241-1;Chan2019;sixty;60;mùéí;muei;;FALSE;60;;
-36;numerals-dzuu1241-1-seventy-1;numerals-dzuu1241-1;Chan2019;seventy;70;mùéí kó tsjéù;mueikotsjeu;( 60 + 10 );FALSE;60+{+}10;;
+36;numerals-dzuu1241-1-seventy-1;numerals-dzuu1241-1;Chan2019;seventy;70;mùéí kó tsjéù;mueikotsjeu;( 60 + 10 );FALSE;60+[+]10;;
 37;numerals-dzuu1241-1-eighty-1;numerals-dzuu1241-1;Chan2019;eighty;80;cɛ̃̀ː;ce;;FALSE;80;;
-38;numerals-dzuu1241-1-ninety-1;numerals-dzuu1241-1;Chan2019;ninety;90;cɛ̃̀ː kó tsjéù;cekotsjeu;( 80 + 10 );FALSE;80+{+}10;;
+38;numerals-dzuu1241-1-ninety-1;numerals-dzuu1241-1;Chan2019;ninety;90;cɛ̃̀ː kó tsjéù;cekotsjeu;( 80 + 10 );FALSE;80+[+]10;;
 39;numerals-dzuu1241-1-hundred-1;numerals-dzuu1241-1;Chan2019;hundred;100;cã̀ːmôː;camo;( 80 + 20 );FALSE;80’+20;;
 40;numerals-dzuu1241-1-twohundred-1;numerals-dzuu1241-1;Chan2019;twohundred;200;cã̀fóōdzjêː;cafoodzje;( 80 x 2 + 20 );FALSE;(80’·2”)+40;;
 41;numerals-dzuu1241-1-thousand-1;numerals-dzuu1241-1;Chan2019;thousand;1000;ɡúrúsɔ̃̄ kó cã̀fóōdzjêː;gurusokocafoodzje;;FALSE;?;insufficient data;
