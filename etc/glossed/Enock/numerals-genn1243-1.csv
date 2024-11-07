@@ -31,11 +31,11 @@
 30;numerals-genn1243-1-thirty-1;numerals-genn1243-1;Chan2019;thirty;30;èɡ͡bã̀;egba;;FALSE;30;;
 31;numerals-genn1243-1-forty-1;numerals-genn1243-1;Chan2019;forty;40;èkà;eka;;FALSE;40;;
 32;numerals-genn1243-1-fifty-1;numerals-genn1243-1;Chan2019;fifty;50;kācíwó;kaciwo;( 40 + 10 );FALSE;40+10”;;
-33;numerals-genn1243-1-sixty-1;numerals-genn1243-1;Chan2019;sixty;60;kātǎk͡pó;katakpo;;FALSE;40·2’;60?;
-34;numerals-genn1243-1-seventy-1;numerals-genn1243-1;Chan2019;seventy;70;kātǎk͡pócíwó;katakpociwo;( 60 + 10 );FALSE;(40·2’)+10’);;
+33;numerals-genn1243-1-sixty-1;numerals-genn1243-1;Chan2019;sixty;60;kātǎk͡pó;katakpo;;FALSE;40+20’;60?;
+34;numerals-genn1243-1-seventy-1;numerals-genn1243-1;Chan2019;seventy;70;kātǎk͡pócíwó;katakpociwo;( 60 + 10 );FALSE;40+20’+10’;;
 35;numerals-genn1243-1-eighty-1;numerals-genn1243-1;Chan2019;eighty;80;kàvè;kave;( 40 x 2 );FALSE;40·2;;
 36;numerals-genn1243-1-ninety-1;numerals-genn1243-1;Chan2019;ninety;90;kàvècíwó;kaveciwo;( 40 x 2+ 10 );FALSE;(40·2)+10;;
-37;numerals-genn1243-1-hundred-1;numerals-genn1243-1;Chan2019;hundred;100;kàvètǎk͡pó;kavetakpo;;FALSE;?;insufficient data to determine this - (40·2)+10’·2;
+37;numerals-genn1243-1-hundred-1;numerals-genn1243-1;Chan2019;hundred;100;kàvètǎk͡pó;kavetakpo;;FALSE;(40·2)+20;;
 38;numerals-genn1243-1-twohundred-1;numerals-genn1243-1;Chan2019;twohundred;200;kàtɔ̃́ɔ;katoo;( 5 x 40 );FALSE;40·5;;
 39;numerals-genn1243-1-thousand-1;numerals-genn1243-1;Chan2019;thousand;1000;àk͡péɖeka;akpedeka;( ?);FALSE;1000·1’;;
 40;numerals-genn1243-1-twothousand-1;numerals-genn1243-1;Chan2019;twothousand;2000;àk͡pévè;akpeve;( ?);FALSE;1000·2;;
