@@ -19,23 +19,23 @@
 18,numerals-turo1239-1-seventeen-1,numerals-turo1239-1,Chan2019,seventeen,17,ʃwaħsarˤ,swahsar,,FALSE,7+10,NA,NA
 19,numerals-turo1239-1-eighteen-1,numerals-turo1239-1,Chan2019,eighteen,18,tmonaħsarˤ,tmonahsar,,FALSE,8+10,NA,NA
 20,numerals-turo1239-1-nineteen-1,numerals-turo1239-1,Chan2019,nineteen,19,tʃaħsarˤ,tsahsar,,FALSE,9+10,NA,NA
-21,numerals-turo1239-1-twenty-1,numerals-turo1239-1,Chan2019,twenty,20,ˤəsri,asri,,FALSE,2{PL?}[·10],NA,NA
-22,numerals-turo1239-1-twentyone-1,numerals-turo1239-1,Chan2019,twentyone,21,ħa w ˤəsri,hawasri,,FALSE,1{AND?}+10{PL?}[·2],NA,NA
-23,numerals-turo1239-1-twentytwo-1,numerals-turo1239-1,Chan2019,twentytwo,22,tre w ˤəsri,trewasri,,FALSE,2{AND?}+10{PL?}[·2],NA,NA
-24,numerals-turo1239-1-twentythree-1,numerals-turo1239-1,Chan2019,twentythree,23,tloθo w ˤəsri,tlothowasri,,FALSE,3{AND?}+10{PL?}[·2],NA,NA
-25,numerals-turo1239-1-twentyfour-1,numerals-turo1239-1,Chan2019,twentyfour,24,arˤbˤo w ˤəsri,arbowasri,,FALSE,4{AND?}+10{PL?}[·2],NA,NA
-26,numerals-turo1239-1-twentyfive-1,numerals-turo1239-1,Chan2019,twentyfive,25,ħamʃo w ˤəsri,hamsowasri,,FALSE,5{AND?}+10{PL?}[·2],NA,NA
-27,numerals-turo1239-1-twentysix-1,numerals-turo1239-1,Chan2019,twentysix,26,əʃto w ˤəsri,astowasri,,FALSE,6{AND?}+10{PL?}[·2],NA,NA
-28,numerals-turo1239-1-twentyseven-1,numerals-turo1239-1,Chan2019,twentyseven,27,ʃawˤo w ˤəsri,sawowasri,,FALSE,7{AND?}+10{PL?}[·2],NA,NA
-29,numerals-turo1239-1-twentyeight-1,numerals-turo1239-1,Chan2019,twentyeight,28,tmənyo w ˤəsri,tmanyowasri,,FALSE,8{AND?}+10{PL?}[·2],NA,NA
-30,numerals-turo1239-1-twentynine-1,numerals-turo1239-1,Chan2019,twentynine,29,təʃˤo w ˤəsri,tasowasri,,FALSE,9{AND?}+10{PL?}[·2],NA,NA
-31,numerals-turo1239-1-thirty-1,numerals-turo1239-1,Chan2019,thirty,30,tleθi,tlethi,,FALSE,3{PL?}[·10],NA,NA
-32,numerals-turo1239-1-forty-1,numerals-turo1239-1,Chan2019,forty,40,arbˤi,arbi,,FALSE,4{PL?}[·10],NA,NA
-33,numerals-turo1239-1-fifty-1,numerals-turo1239-1,Chan2019,fifty,50,ħamʃi,hamsi,,FALSE,5{PL?}[·10],NA,NA
-34,numerals-turo1239-1-sixty-1,numerals-turo1239-1,Chan2019,sixty,60,əʃti,asti,,FALSE,6{PL?}[·10],NA,NA
-35,numerals-turo1239-1-seventy-1,numerals-turo1239-1,Chan2019,seventy,70,ʃawˤi,sawi,,FALSE,7{PL?}[·10],NA,NA
-36,numerals-turo1239-1-eighty-1,numerals-turo1239-1,Chan2019,eighty,80,tmoni,tmoni,,FALSE,8{PL?}[·10],NA,NA
-37,numerals-turo1239-1-ninety-1,numerals-turo1239-1,Chan2019,ninety,90,təʃˤi,tasi,,FALSE,9{PL?}[·10],NA,NA
+21,numerals-turo1239-1-twenty-1,numerals-turo1239-1,Chan2019,twenty,20,ˤəsri,asri,,FALSE,10{·10'}[·2],"Possibly plural marker, although acting as a dual",10{PL?}[·2]
+22,numerals-turo1239-1-twentyone-1,numerals-turo1239-1,Chan2019,twentyone,21,ħa w ˤəsri,hawasri,,FALSE,1{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",1{AND?}+10{PL?}[·2]
+23,numerals-turo1239-1-twentytwo-1,numerals-turo1239-1,Chan2019,twentytwo,22,tre w ˤəsri,trewasri,,FALSE,2{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",2{AND?}+10{PL?}[·2]
+24,numerals-turo1239-1-twentythree-1,numerals-turo1239-1,Chan2019,twentythree,23,tloθo w ˤəsri,tlothowasri,,FALSE,3{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",3{AND?}+10{PL?}[·2]
+25,numerals-turo1239-1-twentyfour-1,numerals-turo1239-1,Chan2019,twentyfour,24,arˤbˤo w ˤəsri,arbowasri,,FALSE,4{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",4{AND?}+10{PL?}[·2]
+26,numerals-turo1239-1-twentyfive-1,numerals-turo1239-1,Chan2019,twentyfive,25,ħamʃo w ˤəsri,hamsowasri,,FALSE,5{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",5{AND?}+10{PL?}[·2]
+27,numerals-turo1239-1-twentysix-1,numerals-turo1239-1,Chan2019,twentysix,26,əʃto w ˤəsri,astowasri,,FALSE,6{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",6{AND?}+10{PL?}[·2]
+28,numerals-turo1239-1-twentyseven-1,numerals-turo1239-1,Chan2019,twentyseven,27,ʃawˤo w ˤəsri,sawowasri,,FALSE,7{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",7{AND?}+10{PL?}[·2]
+29,numerals-turo1239-1-twentyeight-1,numerals-turo1239-1,Chan2019,twentyeight,28,tmənyo w ˤəsri,tmanyowasri,,FALSE,8{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",8{AND?}+10{PL?}[·2]
+30,numerals-turo1239-1-twentynine-1,numerals-turo1239-1,Chan2019,twentynine,29,təʃˤo w ˤəsri,tasowasri,,FALSE,9{AND?}+10{·10'}[·2],"Possibly plural marker, although acting as a dual",9{AND?}+10{PL?}[·2]
+31,numerals-turo1239-1-thirty-1,numerals-turo1239-1,Chan2019,thirty,30,tleθi,tlethi,,FALSE,3·10',Possibly plural marker,3{PL?}[·10]
+32,numerals-turo1239-1-forty-1,numerals-turo1239-1,Chan2019,forty,40,arbˤi,arbi,,FALSE,4·10',Possibly plural marker,4{PL?}[·10]
+33,numerals-turo1239-1-fifty-1,numerals-turo1239-1,Chan2019,fifty,50,ħamʃi,hamsi,,FALSE,5·10',Possibly plural marker,5{PL?}[·10]
+34,numerals-turo1239-1-sixty-1,numerals-turo1239-1,Chan2019,sixty,60,əʃti,asti,,FALSE,6·10',Possibly plural marker,6{PL?}[·10]
+35,numerals-turo1239-1-seventy-1,numerals-turo1239-1,Chan2019,seventy,70,ʃawˤi,sawi,,FALSE,7·10',Possibly plural marker,7{PL?}[·10]
+36,numerals-turo1239-1-eighty-1,numerals-turo1239-1,Chan2019,eighty,80,tmoni,tmoni,,FALSE,8·10',Possibly plural marker,8{PL?}[·10]
+37,numerals-turo1239-1-ninety-1,numerals-turo1239-1,Chan2019,ninety,90,təʃˤi,tasi,,FALSE,9·10',Possibly plural marker,9{PL?}[·10]
 38,numerals-turo1239-1-hundred-1,numerals-turo1239-1,Chan2019,hundred,100,mo,mo,,FALSE,100,NA,NA
 39,numerals-turo1239-1-twohundred-1,numerals-turo1239-1,Chan2019,twohundred,200,maθe,mathe,,FALSE,100{?}[·2],NA,NA
 40,numerals-turo1239-1-thousand-1,numerals-turo1239-1,Chan2019,thousand,1000,alfo,alfo,,FALSE,1000,NA,NA
