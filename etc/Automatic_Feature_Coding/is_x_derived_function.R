@@ -68,14 +68,3 @@ is_this_numeral_derived <- function(feature_id, NumberValue, logic_function, dat
   }
 }
 
-# To test the code, kindly put in the function the particular NB function and its corresponding ID, the function to check whether the form is derived, and the data
-is_this_numeral_derived("NB04", 5, is_derived, Codde)
-
-# Example: Checking for derived forms for NumberValue 20
-is_this_numeral_derived("NB20", 20, is_derived, NForms)
-
-# Show the resulting CodedNumeralBankFeatures dataframe
-print(CodedNumeralBankFeatures)
-
-# the results can be saved to a CSV file
-write.csv(CodedNumeralBankFeatures, "CodedNumeralBankFeatures.csv", row.names = FALSE)
