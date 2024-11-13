@@ -42,6 +42,14 @@ is_this_numeral_derived ("is_five_derived?", 5, is_derived, glossed_akan_data)
 
 is_this_numeral_derived ("is_six_derived?", 6, is_derived, glossed_akan_data)
 
+
+# vew resulting CodedNumeralBankFeatures dataframe
+print(CodedNumeralBankFeatures)
+
+# save results to a CSV file
+write.csv(CodedNumeralBankFeatures, "CodedNumeralBankFeatures.csv", row.names = FALSE)
+
+
 # test with glossed numerals of multiple languages 
 
 glossed_15_languages <- read.tsv("glossed_15_languages.tsv")
@@ -61,4 +69,9 @@ is_this_numeral_derived ("NB22", 15, is_derived, glossed_15_languages)
 is_this_numeral_derived ("NB24", 20, is_derived, glossed_15_languages)
 
 
-# to be revised: stop the repetition in coding
+
+# vew resulting CodedNumeralBankFeatures dataframe
+print(CodedNumeralBankFeatures)
+
+# save results to a CSV file
+write.csv(CodedNumeralBankFeatures, "CodedNumeralBankFeatures.csv", row.names = FALSE)
