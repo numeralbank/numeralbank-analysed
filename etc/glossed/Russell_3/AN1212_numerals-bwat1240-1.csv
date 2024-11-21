@@ -6,10 +6,10 @@
 5,numerals-bwat1240-1-four-1,numerals-bwat1240-1,Chan2019,four,4,fae,fae,,FALSE,4,,,,
 6,numerals-bwat1240-1-four-2,numerals-bwat1240-1,Chan2019,four,4,faeː,fae,,FALSE,4,,,,
 7,numerals-bwat1240-1-five-1,numerals-bwat1240-1,Chan2019,five,5,nim,nim,( litː 'hand' ),FALSE,5,,,,
-8,numerals-bwat1240-1-six-1,numerals-bwat1240-1,Chan2019,six,6,nim ᵐbʷa θaːŋ,nimmbwathang,( 5 + 1 ),FALSE,5,,,,
-9,numerals-bwat1240-1-seven-1,numerals-bwat1240-1,Chan2019,seven,7,nim ᵐbʷa ʈalo,nimmbwatalo,( 5 + 2 ),FALSE,5{head?}+1,,,,
-10,numerals-bwat1240-1-eight-1,numerals-bwat1240-1,Chan2019,eight,8,nim ᵐbʷa ʈien,nimmbwatien,( 5 + 3 ),FALSE,5{head?}+2,,,,
-11,numerals-bwat1240-1-nine-1,numerals-bwat1240-1,Chan2019,nine,9,nim ᵐbʷa faeː,nimmbwafae,( 5 + 4 ),FALSE,5{head?}+3,,,,
+8,numerals-bwat1240-1-six-1,numerals-bwat1240-1,Chan2019,six,6,nim ᵐbʷa θaːŋ,nimmbwathang,( 5 + 1 ),FALSE,5{head?}+1,,,,
+9,numerals-bwat1240-1-seven-1,numerals-bwat1240-1,Chan2019,seven,7,nim ᵐbʷa ʈalo,nimmbwatalo,( 5 + 2 ),FALSE,5{head?}+2,,,,
+10,numerals-bwat1240-1-eight-1,numerals-bwat1240-1,Chan2019,eight,8,nim ᵐbʷa ʈien,nimmbwatien,( 5 + 3 ),FALSE,5{head?}+3,,,,
+11,numerals-bwat1240-1-nine-1,numerals-bwat1240-1,Chan2019,nine,9,nim ᵐbʷa faeː,nimmbwafae,( 5 + 4 ),FALSE,5{head?}+4,,,,
 12,numerals-bwat1240-1-ten-1,numerals-bwat1240-1,Chan2019,ten,10,ᶮɟoa-lu-θiː-ᶮɟe,joaluthije,( litː 'completed two hands'),FALSE,{complete}2′[⋅]5′,"‘complete ART.DU hand-1PL.INCL’ (with ‘hand’ from PAn *kuSkuS ‘claw, talon, fingernail’?)",,,
 13,numerals-bwat1240-1-eleven-1,numerals-bwat1240-1,Chan2019,eleven,11,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ,joaluthijekambwathang,,FALSE,({complete}2′[⋅]5′){and}+{head?}1,,,,({complete}2′[⋅]5′)+{head?}1
 14,numerals-bwat1240-1-twelve-1,numerals-bwat1240-1,Chan2019,twelve,12,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo,joaluthijekambwatalo,,FALSE,({complete}2′[⋅]5′){and}+{head?}2,,,,({complete}2′[⋅]5′)+{head?}2
