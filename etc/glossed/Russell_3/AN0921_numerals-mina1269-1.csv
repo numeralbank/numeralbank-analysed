@@ -1,7 +1,7 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-1,numerals-mina1269-1-one-1,numerals-mina1269-1,Chan2019,one,1,aitamoata,aitamoata,,FALSE,1,Prefix ,
-2,numerals-mina1269-1-two-1,numerals-mina1269-1,Chan2019,two,2,ainua,ainua,,FALSE,2,,
-3,numerals-mina1269-1-three-1,numerals-mina1269-1,Chan2019,three,3,aitonu,aitonu,,FALSE,3,,
+1,numerals-mina1269-1-one-1,numerals-mina1269-1,Chan2019,one,1,aitamoata,aitamoata,,FALSE,1,Prefix (?),
+2,numerals-mina1269-1-two-1,numerals-mina1269-1,Chan2019,two,2,ainua,ainua,,FALSE,2,Prefix (?),
+3,numerals-mina1269-1-three-1,numerals-mina1269-1,Chan2019,three,3,aitonu,aitonu,,FALSE,3,Prefix (?),
 4,numerals-mina1269-1-four-1,numerals-mina1269-1,Chan2019,four,4,na nau-punina,nanaupunina,,FALSE,4,"This looks like a morphologically complex form, but its meaning is unclear: ‘with? CAUS? ?’",
 5,numerals-mina1269-1-five-1,numerals-mina1269-1,Chan2019,five,5,nima papani keana,nimapapanikeana,,FALSE,5[⋅]1′,‘hand side only’,
 6,numerals-mina1269-1-six-1,numerals-mina1269-1,Chan2019,six,6,nima papani keana ka aitamoata,nimapapanikeanakaaitamoata,,FALSE,(5[⋅]1′){and}+1,,

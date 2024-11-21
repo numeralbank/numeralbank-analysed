@@ -1,13 +1,13 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
 1,numerals-kand1301-1-one-1,numerals-kand1301-1,Chan2019,one,1,takai,takai,,FALSE,1,,
 2,numerals-kand1301-1-two-1,numerals-kand1301-1,Chan2019,two,2,aru,aru,,FALSE,2,,
-3,numerals-kand1301-1-three-1,numerals-kand1301-1,Chan2019,three,3,utul,utul,,FALSE,3,"(Historical) seqential number word formation (i.e., ‘two three’)",{2}3
-4,numerals-kand1301-1-four-1,numerals-kand1301-1,Chan2019,four,4,luwat,luwat,,FALSE,4,"(Historical) seqential number word formation (i.e., ‘three four’)",{3}4
-5,numerals-kand1301-1-five-1,numerals-kand1301-1,Chan2019,five,5,tilim,tilim,,FALSE,5,"(Historical) seqential number word formation (i.e., ‘four five’)",{4}5
-6,numerals-kand1301-1-six-1,numerals-kand1301-1,Chan2019,six,6,wonom,wonom,,FALSE,6,"(Historical) seqential number word formation (i.e., ‘five six’)",{5}6
-7,numerals-kand1301-1-seven-1,numerals-kand1301-1,Chan2019,seven,7,mawit,mawit,,FALSE,7,"(Historical) seqential number word formation (i.e., ‘six seven’)",{6}7
-8,numerals-kand1301-1-eight-1,numerals-kand1301-1,Chan2019,eight,8,tiwal,tiwal,,FALSE,8,"(Historical) seqential number word formation (i.e., ‘seven eight’)",{7}8
-9,numerals-kand1301-1-nine-1,numerals-kand1301-1,Chan2019,nine,9,lisu,lisu,,FALSE,9,"(Historical) seqential number word formation (i.e., ‘eight nine’)",{8}9
+3,numerals-kand1301-1-three-1,numerals-kand1301-1,Chan2019,three,3,utul,utul,,FALSE,3,"(Historical) sequential number word formation (i.e., ‘two three’)",{2}3
+4,numerals-kand1301-1-four-1,numerals-kand1301-1,Chan2019,four,4,luwat,luwat,,FALSE,4,"(Historical) sequential number word formation (i.e., ‘three four’)",{3}4
+5,numerals-kand1301-1-five-1,numerals-kand1301-1,Chan2019,five,5,tilim,tilim,,FALSE,5,"(Historical) sequential number word formation (i.e., ‘four five’)",{4}5
+6,numerals-kand1301-1-six-1,numerals-kand1301-1,Chan2019,six,6,wonom,wonom,,FALSE,6,"(Historical) sequential number word formation (i.e., ‘five six’)",{5}6
+7,numerals-kand1301-1-seven-1,numerals-kand1301-1,Chan2019,seven,7,mawit,mawit,,FALSE,7,"(Historical) sequential number word formation (i.e., ‘six seven’)",{6}7
+8,numerals-kand1301-1-eight-1,numerals-kand1301-1,Chan2019,eight,8,tiwal,tiwal,,FALSE,8,"(Historical) sequential number word formation (i.e., ‘seven eight’)",{7}8
+9,numerals-kand1301-1-nine-1,numerals-kand1301-1,Chan2019,nine,9,lisu,lisu,,FALSE,9,"(Historical) sequential number word formation (i.e., ‘eight nine’)",{8}9
 10,numerals-kand1301-1-ten-1,numerals-kand1301-1,Chan2019,ten,10,siɡino,sigino,,FALSE,10,Historically 1⋅10 (?),
 11,numerals-kand1301-1-eleven-1,numerals-kand1301-1,Chan2019,eleven,11,noino ma ra,noinomara,( < Ramoaaina  ),TRUE,10′{and}+1′,Borrowed from Ramoaaina,
 12,numerals-kand1301-1-twelve-1,numerals-kand1301-1,Chan2019,twelve,12,noino ma ru,noinomaru,,FALSE,10′{and}+2′,Borrowed from Ramoaaina,

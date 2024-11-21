@@ -8,7 +8,7 @@
 7,numerals-mera1242-1-seven-1,numerals-mera1242-1,Chan2019,seven,7,pandilua,pandilua,( 5 + 2 ),FALSE,[5]+{+?}2,,
 8,numerals-mera1242-1-eight-1,numerals-mera1242-1,Chan2019,eight,8,pantolu,pantolu,( 5 + 3 ),FALSE,[5]+{+?}3,,
 9,numerals-mera1242-1-nine-1,numerals-mera1242-1,Chan2019,nine,9,yalasue,yalasue,,FALSE,9,"Historically formed through sequential number word formation (i.e., < {8}{9}) (?)",
-10,numerals-mera1242-1-ten-1,numerals-mera1242-1,Chan2019,ten,10,savulu,savulu,(tasa),FALSE,10,Historically 1⋅10 (?),
+10,numerals-mera1242-1-ten-1,numerals-mera1242-1,Chan2019,ten,10,savulu (tasa),savulutasa,,FALSE,10[⋅]1,Historically 1⋅10⋅1 (?),10
 11,numerals-mera1242-1-eleven-1,numerals-mera1242-1,Chan2019,eleven,11,savulu tasa timana tasa,savulutasatimanatasa,,FALSE,(10[⋅]1)+{+′?}1,,
 12,numerals-mera1242-1-twelve-1,numerals-mera1242-1,Chan2019,twelve,12,savulu tasa timana lua,savulutasatimanalua,,FALSE,(10[⋅]1)+{+′?}2,,
 13,numerals-mera1242-1-thirteen-1,numerals-mera1242-1,Chan2019,thirteen,13,savulu tasa timana tolu,savulutasatimanatolu,,FALSE,(10[⋅]1)+{+′?}3,,

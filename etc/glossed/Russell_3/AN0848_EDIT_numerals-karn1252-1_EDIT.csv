@@ -35,5 +35,5 @@
 34,numerals-karn1252-1-seventy-1,numerals-karn1252-1,Chan2019,seventy,70,tamot tol saŋul,tamottolsangul,,FALSE,(20[⋅]3){CLF?}+10,,
 35,numerals-karn1252-1-eighty-1,numerals-karn1252-1,Chan2019,eighty,80,tamot paŋ,tamotpang,,FALSE,20[⋅]4,,
 36,numerals-karn1252-1-ninety-1,numerals-karn1252-1,Chan2019,ninety,90,tamot paŋ saŋul,tamotpangsangul,,FALSE,(20[⋅]4){CLF?}+10,,
-37,numerals-karn1252-1-hundred-1,numerals-karn1252-1,Chan2019,hundred,100,diŋdiŋ,dingding,(ta),FALSE,100,,
+37,numerals-karn1252-1-hundred-1,numerals-karn1252-1,Chan2019,hundred,100,diŋdiŋ(ta),dingdingta,,FALSE,100[⋅]1,,100
 38,numerals-karn1252-1-twohundred-1,numerals-karn1252-1,Chan2019,twohundred,200,diŋdiŋ ru,dingdingru,,FALSE,100[⋅]2,,
