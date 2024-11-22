@@ -5,9 +5,9 @@
 4,numerals-furr1244-1-four-1,numerals-furr1244-1,Chan2019,four,4,òŋàl,ongal,,FALSE,4,NA,NA
 5,numerals-furr1244-1-five-1,numerals-furr1244-1,Chan2019,five,5,òòs,oos,,FALSE,5,NA,NA
 6,numerals-furr1244-1-six-1,numerals-furr1244-1,Chan2019,six,6,òsàndík,osandik,( 5 + 1 ),FALSE,5{LIG}+1,NA,NA
-7,numerals-furr1244-1-seven-1,numerals-furr1244-1,Chan2019,seven,7,sààbè,saabe,< Arabic,TRUE,6,NA,NA
-8,numerals-furr1244-1-eight-1,numerals-furr1244-1,Chan2019,eight,8,tàmàn,taman,< Arabic,TRUE,7,NA,NA
-9,numerals-furr1244-1-nine-1,numerals-furr1244-1,Chan2019,nine,9,tììsè,tiise,( < Arabic),TRUE,8,NA,NA
+7,numerals-furr1244-1-seven-1,numerals-furr1244-1,Chan2019,seven,7,sààbè,saabe,< Arabic,TRUE,7,NA,NA
+8,numerals-furr1244-1-eight-1,numerals-furr1244-1,Chan2019,eight,8,tàmàn,taman,< Arabic,TRUE,8,NA,NA
+9,numerals-furr1244-1-nine-1,numerals-furr1244-1,Chan2019,nine,9,tììsè,tiise,( < Arabic),TRUE,9,NA,NA
 10,numerals-furr1244-1-ten-1,numerals-furr1244-1,Chan2019,ten,10,wèyè,weye,,FALSE,10,NA,NA
 11,numerals-furr1244-1-eleven-1,numerals-furr1244-1,Chan2019,eleven,11,wèyè nà díík,weyenadiik,,FALSE,10{LIG}+1,NA,NA
 12,numerals-furr1244-1-twelve-1,numerals-furr1244-1,Chan2019,twelve,12,wèyè nà òù,weyenaou,,FALSE,10{LIG}+2,NA,NA
