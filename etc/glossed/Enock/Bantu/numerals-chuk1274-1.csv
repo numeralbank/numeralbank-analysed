@@ -1,0 +1,49 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"chuk1274-1","chuk1274-1-1-1",1,"îmwe","îmwe","{CL}1","1",NA
+"chuk1274-1","chuk1274-1-2-1",2,"ciîrî","ciîrî","2","2",NA
+"chuk1274-1","chuk1274-1-3-1",3,"ithatû","ithatû","{CL}3","3",NA
+"chuk1274-1","chuk1274-1-4-1",4,"inya","inya","{CL}4","4",NA
+"chuk1274-1","chuk1274-1-5-1",5,"itano","itano","{CL}5","5",NA
+"chuk1274-1","chuk1274-1-5-2",5,"ithano","ithano","{CL}5’","5",NA
+"chuk1274-1","chuk1274-1-6-1",6,"itatatû","itatatû","{CL}3’+3""","{CL}6",NA
+"chuk1274-1","chuk1274-1-6-2",6,"ithathatû","ithathatû","{CL}3”’+3","{CL}6’","( 2 x  3 ) ?"
+"chuk1274-1","chuk1274-1-7-1",7,"mûɡwanja","mûɡwanja","{CL'}7","?",NA
+"chuk1274-1","chuk1274-1-8-1",8,"inyanya","inyanya","{CL}4+4","x4","(2  x 4 ) ?"
+"chuk1274-1","chuk1274-1-9-1",9,"kenda","kenda","9","9?",NA
+"chuk1274-1","chuk1274-1-10-1",10,"îkûmi","îkûmi","{CL}10","10",NA
+"chuk1274-1","chuk1274-1-11-1",11,"îkûmi na îmwe","îkûmi na îmwe","{CL}10+{+}{CL}1","10+1",NA
+"chuk1274-1","chuk1274-1-12-1",12,"îkûmi na ciîrî","îkûmi na ciîrî","{CL}10+{+}2","10+2",NA
+"chuk1274-1","chuk1274-1-13-1",13,"îkûmi na ithatû","îkûmi na ithatû","{CL}10+{+}{CL}3","10+3",NA
+"chuk1274-1","chuk1274-1-14-1",14,"îkûmi na inya","îkûmi na inya","{CL}10+{+}{CL}4","10+4",NA
+"chuk1274-1","chuk1274-1-15-1",15,"îkûmi na itano","îkûmi na itano","{CL}10+{+}{CL}5","10+5",NA
+"chuk1274-1","chuk1274-1-15-2",15,"ithano","ithano","{CL}5’","{CL}5’",NA
+"chuk1274-1","chuk1274-1-16-1",16,"îkûmi na itatatû","îkûmi na itatatû","{CL}10+{+}{CL}3’+3”","{CL}10+{+}{CL}3’+3",NA
+"chuk1274-1","chuk1274-1-16-2",16,"ithathatû","ithathatû","{CL}3'+3","{CL}6’","6 = 2x3?"
+"chuk1274-1","chuk1274-1-17-1",17,"îkûmi na mûɡwanja","îkûmi na mûɡwanja","{CL}10+{+}{CL’}7","10+x",NA
+"chuk1274-1","chuk1274-1-18-1",18,"îkûmi na inyanya","îkûmi na inyanya","{CL}10+{+}{CL’}7","10+(x4)",NA
+"chuk1274-1","chuk1274-1-19-1",19,"îkûmi na kenda","îkûmi na kenda","{CL}10+{+}{CL’}4+4","10+9",NA
+"chuk1274-1","chuk1274-1-20-1",20,"mîronɡo îîrî","mîronɡo îîrî","{CL”}10·2’","10·2",NA
+"chuk1274-1","chuk1274-1-21-1",21,"mîronɡo îîrî na îmwe","mîronɡo îîrî na îmwe","({CL”}10·2’)+{+}{CL}1","(10·2)+1",NA
+"chuk1274-1","chuk1274-1-22-1",22,"mîronɡo îîrî na ciîrî","mîronɡo îîrî na ciîrî","({CL”}10·2’)+{+}2","(10·2)+2",NA
+"chuk1274-1","chuk1274-1-23-1",23,"mîronɡo îîrî na ithatû","mîronɡo îîrî na ithatû","({CL”}10·2’)+{+}{CL}3","(10·2)+3",NA
+"chuk1274-1","chuk1274-1-24-1",24,"mîronɡo îîrî na inya","mîronɡo îîrî na inya","({CL”}10·2’)+{+}{CL}4","(10·2)+4",NA
+"chuk1274-1","chuk1274-1-25-2",25,"ithano","ithano","{CL}5’","{CL}5",NA
+"chuk1274-1","chuk1274-1-25-1",25,"mîronɡo îîrî na itano","mîronɡo îîrî na itano","({CL”}10·2’)+{+}{CL}5","(10·2)+5",NA
+"chuk1274-1","chuk1274-1-26-2",26,"ithathatû","ithathatû","{CL}3'+3","(10·2)+(x3)",NA
+"chuk1274-1","chuk1274-1-26-1",26,"mîronɡo îîrî na itatatû","mîronɡo îîrî na itatatû","({CL”}10·2’)+{+}{CL}3’+3”","({CL”}10·2’)+{+}{CL}3’+3",NA
+"chuk1274-1","chuk1274-1-27-1",27,"mîronɡo îîrî na mûɡwanja","mîronɡo îîrî na mûɡwanja","({CL”}10·2’)+{+}{CL}7","(10·2)+7",NA
+"chuk1274-1","chuk1274-1-28-1",28,"mîronɡo îîrî na inyanya","mîronɡo îîrî na inyanya","({CL”}10·2’)+{+}{CL}4+4","(10·2)+(x4)",NA
+"chuk1274-1","chuk1274-1-29-1",29,"mîronɡo îîrî na kenda","mîronɡo îîrî na kenda","({CL”}10·2’)+{+}9","(10·2)+9",NA
+"chuk1274-1","chuk1274-1-30-1",30,"mĩronɡo ithatû","mĩronɡo ithatû","{CL”}10·{CL}3","10·3",NA
+"chuk1274-1","chuk1274-1-40-1",40,"mĩronɡo inya","mĩronɡo inya","{CL”}10·{CL}4","10·4",NA
+"chuk1274-1","chuk1274-1-50-2",50,"ithano","ithano","{CL}5","5",NA
+"chuk1274-1","chuk1274-1-50-1",50,"mĩronɡo itano","mĩronɡo itano","{CL”}10·{CL}5","10·5",NA
+"chuk1274-1","chuk1274-1-60-2",60,"ithathatû","ithathatû","{CL}3’·3","x3",NA
+"chuk1274-1","chuk1274-1-60-1",60,"mĩronɡo itatatû","mĩronɡo itatatû","{CL”}10·{CL}3’+3”","10·(x3)",NA
+"chuk1274-1","chuk1274-1-70-1",70,"mĩronɡo mûɡwanja","mĩronɡo mûɡwanja","{CL”}10·{CL}7","10·3",NA
+"chuk1274-1","chuk1274-1-80-1",80,"mĩronɡo inyanya","mĩronɡo inyanya","{CL”}10·{CL}4+4","10·(x4)",NA
+"chuk1274-1","chuk1274-1-90-1",90,"mĩronɡo kenda","mĩronɡo kenda","{CL”}10·9","10·9",NA
+"chuk1274-1","chuk1274-1-100-1",100,"îɡana","îɡana","{CL}100","100",NA
+"chuk1274-1","chuk1274-1-200-1",200,"maɡana maîrî","maɡana maîrî","{CL""}100·{CL""}2","100·2",NA
+"chuk1274-1","chuk1274-1-1000-1",1000,"nɡiri","nɡiri","1000","1000",NA
+"chuk1274-1","chuk1274-1-2000-1",2000,"nɡiri ciîrî","nɡiri ciîrî","1000·2","1000·2",NA
