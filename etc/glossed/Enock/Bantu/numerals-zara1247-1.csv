@@ -1,0 +1,49 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"zara1247-1","zara1247-1-1-1",1,"-imwe","-imwe","1","1",NA
+"zara1247-1","zara1247-1-2-1",2,"-bili","-bili","2","2",NA
+"zara1247-1","zara1247-1-3-1",3,"-datu","-datu","3","3",NA
+"zara1247-1","zara1247-1-4-1",4,"-ne","-ne","4","4",NA
+"zara1247-1","zara1247-1-5-1",5,"-tano","-tano","5","5",NA
+"zara1247-1","zara1247-1-6-1",6,"sita","sita","6",NA,"( < Swahili / Arabic ) - borrowed"
+"zara1247-1","zara1247-1-7-1",7,"saba","saba","7","7","“< Kiswahili < Arabic “"
+"zara1247-1","zara1247-1-8-1",8,"-nane","-nane","8","x4",NA
+"zara1247-1","zara1247-1-9-1",9,"kenda","kenda","9","9","“< Kiswahili < Arabic” neither is arabic though"
+"zara1247-1","zara1247-1-10-1",10,"kumi","kumi","10","10",NA
+"zara1247-1","zara1247-1-10-2",10,"loŋo","loŋo","10'","10",NA
+"zara1247-1","zara1247-1-11-1",11,"kumi na modʒa","kumi na modʒa","10+{+}1’",NA,NA
+"zara1247-1","zara1247-1-11-2",11,"loŋo na -imwe","loŋo na -imwe","10’+{+}1","10+1",NA
+"zara1247-1","zara1247-1-12-1",12,"kumi na -bili","kumi na -bili","10+{+}2","10+2",NA
+"zara1247-1","zara1247-1-12-2",12,"loŋo na -bili","loŋo na -bili","10’+{+}2","10+2",NA
+"zara1247-1","zara1247-1-13-1",13,"kumi na -datu","kumi na -datu","10+{+}3","10+3",NA
+"zara1247-1","zara1247-1-13-2",13,"loŋo na -data","loŋo na -data","10’+{+}3","10+3",NA
+"zara1247-1","zara1247-1-14-1",14,"kumi na -nne","kumi na -nne","10+{+}4’","10+4",NA
+"zara1247-1","zara1247-1-14-2",14,"loŋo na -ne","loŋo na -ne","10’+{+}4","10+4",NA
+"zara1247-1","zara1247-1-15-1",15,"kumi na -tano","kumi na -tano","10+{+}5","10+5",NA
+"zara1247-1","zara1247-1-15-2",15,"loŋo na -tano","loŋo na -tano","10’+{+}5","10+5",NA
+"zara1247-1","zara1247-1-16-1",16,"kumi na sita","kumi na sita","10+{+}6","10+6",NA
+"zara1247-1","zara1247-1-16-2",16,"loŋo na sita","loŋo na sita","10’+{+}6","10+6",NA
+"zara1247-1","zara1247-1-17-1",17,"kumi na saba","kumi na saba","10+{+}7","10+7",NA
+"zara1247-1","zara1247-1-17-2",17,"loŋo na mtandatu","loŋo na mtandatu","10’+{+}7","10+7",NA
+"zara1247-1","zara1247-1-18-1",18,"kumi na nane","kumi na nane","10+{+}8","10+(x4)",NA
+"zara1247-1","zara1247-1-19-1",19,"kumi na kenda","kumi na kenda","10+{+}9","10+9",NA
+"zara1247-1","zara1247-1-20-1",20,"iʃirini","iʃirini","2’·10”","2·10","< Kiswahili < Arabic” the source language has ten as the last morpheme"
+"zara1247-1","zara1247-1-21-1",21,"iʃirini na modʒa","iʃirini na modʒa","(2’·10”)+1’","(2·10)+1",NA
+"zara1247-1","zara1247-1-22-1",22,"iʃirini na -bili","iʃirini na -bili","(2’·10”)+2","(2·10)+2",NA
+"zara1247-1","zara1247-1-23-1",23,"iʃirini na -datu","iʃirini na -datu","(2’·10”)+3","(2·10)+3",NA
+"zara1247-1","zara1247-1-24-1",24,"iʃirini na -ne","iʃirini na -ne","(2’·10”)+4","(2·10)+4",NA
+"zara1247-1","zara1247-1-25-1",25,"iʃirini na -tano","iʃirini na -tano","(2’·10”)+5","(2·10)+5",NA
+"zara1247-1","zara1247-1-26-1",26,"iʃirini na sita","iʃirini na sita","(2’·10”)+6","(2·10)+6",NA
+"zara1247-1","zara1247-1-27-1",27,"iʃirini na saba","iʃirini na saba","(2’·10”)+7","(2·10)+7",NA
+"zara1247-1","zara1247-1-28-1",28,"iʃirini na nane","iʃirini na nane","(2’·10”)+8","(2·10)+x4",NA
+"zara1247-1","zara1247-1-29-1",29,"iʃilini na kenda","iʃilini na kenda","(2’·10”)+9","(2·10)+9",NA
+"zara1247-1","zara1247-1-30-1",30,"θelasini","θelasini","3’·10”","3 · 10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-40-1",40,"arobaini","arobaini","4”·10”","4·10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-50-1",50,"hamsini","hamsini","5”·10”","5·10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-60-1",60,"sitini","sitini","6’·10”","6·10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-70-1",70,"sabini","sabini","7’·10”","7·10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-80-1",80,"θemanini","θemanini","8’·10”","4x  · 10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-90-1",90,"tisini","tisini","9’·10”","9·10","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-100-1",100,"mia modʒa","mia modʒa","100·1’","100·1","( < Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-200-1",200,"mia -bili","mia -bili","100·2","100·2",NA
+"zara1247-1","zara1247-1-1000-1",1000,"alfu imweŋa","alfu imweŋa","1000·1”","1000·1","(< Kiswahili < Arabic )"
+"zara1247-1","zara1247-1-2000-1",2000,"alfu mbili","alfu mbili","100’·2”","1000·2",NA
