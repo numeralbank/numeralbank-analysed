@@ -1,10 +1,10 @@
 ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-numerals-sapo1251-1-one-1,numerals-sapo1251-1,Chan2019,one,1,duě,due,,FALSE,1,,
-numerals-sapo1251-1-one-2,numerals-sapo1251-1,Chan2019,one,1,tòò,too,,FALSE,1’,d > t, ue = oo
-numerals-sapo1251-1-two-1,numerals-sapo1251-1,Chan2019,two,2,sɔn,son,,FALSE,2,,
-numerals-sapo1251-1-three-1,numerals-sapo1251-1,Chan2019,three,3,tan,tan,,FALSE,3,,
-numerals-sapo1251-1-four-1,numerals-sapo1251-1,Chan2019,four,4,nyìɛ,nyie,,FALSE,4,,
-numerals-sapo1251-1-five-1,numerals-sapo1251-1,Chan2019,five,5,m̀m̌,mm,,FALSE,5,,
+numerals-sapo1251-1-one-1,numerals-sapo1251-1,Chan2019,one,1,duě,due,1',FALSE,1,,
+numerals-sapo1251-1-one-2,numerals-sapo1251-1,Chan2019,one,1,tòò,too,1',FALSE,1’,d > t, ue = oo
+numerals-sapo1251-1-two-1,numerals-sapo1251-1,Chan2019,two,2,sɔn,son,2,FALSE,2,,
+numerals-sapo1251-1-three-1,numerals-sapo1251-1,Chan2019,three,3,tan,tan,3,FALSE,3,,
+numerals-sapo1251-1-four-1,numerals-sapo1251-1,Chan2019,four,4,nyìɛ,nyie,4,FALSE,4,,
+numerals-sapo1251-1-five-1,numerals-sapo1251-1,Chan2019,five,5,m̀m̌,mm,5,FALSE,5,,
 numerals-sapo1251-1-six-1,numerals-sapo1251-1,Chan2019,six,6,mɛ̀lǒ,melo,( 5 + 1 ),FALSE,5’+1”,5’ = mm > me, 1’ = d/t > l, ue/oo > o,
 numerals-sapo1251-1-seven-1,numerals-sapo1251-1,Chan2019,seven,7,mɛ̀sɔn,meson,( 5 + 2 ),FALSE,5’+2,,
 numerals-sapo1251-1-eight-1,numerals-sapo1251-1,Chan2019,eight,8,mɛ̌tan,metan,( 5 + 3 ),FALSE,5’+3,,
