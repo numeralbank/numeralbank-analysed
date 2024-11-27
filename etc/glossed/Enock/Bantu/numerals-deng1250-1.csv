@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"deng1250-1","deng1250-1-1-1",1,"émo","émo","{CL}1","1",NA
+"deng1250-1","deng1250-1-2-1",2,"ipé","ipé","{CL’}2","2",NA
+"deng1250-1","deng1250-1-3-1",3,"isatu","isatu","{CL’}3","3",NA
+"deng1250-1","deng1250-1-4-1",4,"inej","inej","{CL’}4","4",NA
+"deng1250-1","deng1250-1-5-1",5,"itanu","itanu","{CL’}5","5",NA
+"deng1250-1","deng1250-1-6-1",6,"isamo","isamo","{CL’}5’+1","5 + [1]","a good case for compound six samo"
+"deng1250-1","deng1250-1-7-1",7,"isambé","isambé","{CL’}5’+2’","5+2",NA
+"deng1250-1","deng1250-1-8-1",8,"inaneji","inaneji","{CL’}4’+4","x4",NA
+"deng1250-1","deng1250-1-9-1",9,"bva","bva","9","9?",NA
+"deng1250-1","deng1250-1-10-1",10,"dʒom","dʒom","10","10",NA
+"deng1250-1","deng1250-1-11-1",11,"dʒom lémo","dʒom lémo","10+{?}1","10+1",NA
+"deng1250-1","deng1250-1-12-1",12,"dʒom lipé","dʒom lipé","10+{?}2","10+2",NA
+"deng1250-1","deng1250-1-13-1",13,"dʒom lisatu","dʒom lisatu","10+{?}3","10+3",NA
+"deng1250-1","deng1250-1-14-1",14,"dʒom lineji","dʒom lineji","10+{?}4","10+4",NA
+"deng1250-1","deng1250-1-15-1",15,"dʒom litanu","dʒom litanu","10+{?}5","10+5",NA
+"deng1250-1","deng1250-1-16-1",16,"dʒom lisamo","dʒom lisamo","10+{?}5’+1","10+(5+1)",NA
+"deng1250-1","deng1250-1-17-1",17,"dʒom lisambé","dʒom lisambé","10+{?}5’+2’","10+(5+2)",NA
+"deng1250-1","deng1250-1-18-1",18,"dʒom linaneji","dʒom linaneji","10+{?}4’+4","10+(x4)",NA
+"deng1250-1","deng1250-1-19-1",19,"dʒom labva","dʒom labva","10+{?}9","10+x",NA
+"deng1250-1","deng1250-1-20-1",20,"bopé","bopé","10’·2","{PLU?}2",NA
+"deng1250-1","deng1250-1-21-1",21,"bopé lémo","bopé lémo","(10’·2)+{?}1","{PLU?}2+1",NA
+"deng1250-1","deng1250-1-22-1",22,"bopé lipé","bopé lipé","(10’·2)+{?}2","{PLU?}2+2",NA
+"deng1250-1","deng1250-1-23-1",23,"bopé lisatu","bopé lisatu","(10’·2)+{?}3","{PLU?}2+3",NA
+"deng1250-1","deng1250-1-24-1",24,"bopé lineji","bopé lineji","(10’·2)+{?}4","{PLU?}2+4",NA
+"deng1250-1","deng1250-1-25-1",25,"bopé litanu","bopé litanu","(10’·2)+{?}5","{PLU?}2+5",NA
+"deng1250-1","deng1250-1-26-1",26,"bopé lisamo","bopé lisamo","(10’·2)+{?}5’+1",NA,NA
+"deng1250-1","deng1250-1-27-1",27,"bopé lisambé","bopé lisambé","(10’·2)+{?}5’+2’",NA,NA
+"deng1250-1","deng1250-1-28-1",28,"bopé linaneji","bopé linaneji","(10’·2)+{?}4’+4",NA,NA
+"deng1250-1","deng1250-1-29-1",29,"bopé labva","bopé labva","(10’·2)+{?}9",NA,NA
+"deng1250-1","deng1250-1-30-1",30,"bosatu","bosatu","10'·3","{PLU}3",NA
+"deng1250-1","deng1250-1-40-1",40,"boneji","boneji","10'·4","{PLU}4",NA
+"deng1250-1","deng1250-1-50-1",50,"botanu","botanu","10'·5","{PLU}5",NA
+"deng1250-1","deng1250-1-60-1",60,"bosamo","bosamo","10’·(5’+1)","{PLU}5’+2",NA
+"deng1250-1","deng1250-1-70-1",70,"bosambe","bosambe","10’·(5’+2’)","10·(5+2)",NA
+"deng1250-1","deng1250-1-80-1",80,"bomenaneji","bomenaneji","10’·({CL”}4’+4)","10·(x4)",NA
+"deng1250-1","deng1250-1-90-1",90,"bomebva","bomebva","10’·{CL”}9","10·9",NA
+"deng1250-1","deng1250-1-100-1",100,"ŋkam émo","ŋkam émo","100·{CL}1","100·1",NA
+"deng1250-1","deng1250-1-200-1",200,"ŋkam epé","ŋkam epé","100·{CL}2","100·2",NA
+"deng1250-1","deng1250-1-1000-1",1000,"mil émo","mil émo","1000·{CL}1","1000·1","( mil < French)"
+"deng1250-1","deng1250-1-2000-1",2000,"mil ipé","mil ipé","1000·{CL’}2","1000·2","borrowed 1000"
