@@ -349,7 +349,7 @@ numerals-akum1238-1-six-1	numerals-akum1238-1	Chan2019	six	6	acóŋ jì	acongji	
 numerals-akum1238-1-seven-1	numerals-akum1238-1	Chan2019	seven	7	acóŋ afã̀	acongafa	( 5+ 2 )	FALSE	5+2		
 numerals-akum1238-1-eight-1	numerals-akum1238-1	Chan2019	eight	8	acóŋ ata	acongata	( 5+ 3 )	FALSE	5+3		
 numerals-akum1238-1-nine-1	numerals-akum1238-1	Chan2019	nine	9	acóŋ ɲì	acongni	( 5+ 4 )	FALSE	5+4		
-numerals-akum1238-1-ten-1	numerals-akum1238-1	Chan2019	ten	10	īkùr	ikur	(ù)	FALSE	10		
+numerals-akum1238-1-ten-1	numerals-akum1238-1	Chan2019	ten	10	īkùr	ikur	(ù)	FALSE	10		
 numerals-akum1238-1-eleven-1	numerals-akum1238-1	Chan2019	eleven	11	īkùr ka ájì	ikurkaaji		FALSE	10+{LIG}1		
 numerals-akum1238-1-twelve-1	numerals-akum1238-1	Chan2019	twelve	12	īkùr ka afã̀	ikurkaafa		FALSE	10+{LIG}2		
 numerals-akum1238-1-nineteen-1	numerals-akum1238-1	Chan2019	nineteen	19	īkùr ka acóŋ aɲì	ikurkaacongani		FALSE	10+{LIG}3		
@@ -417,7 +417,7 @@ numerals-anaa1238-1-eleven-1	numerals-anaa1238-1	Chan2019	eleven	11	dùòòkeèd
 numerals-anaa1238-1-twelve-1	numerals-anaa1238-1	Chan2019	twelve	12	duèbà	dueba	( 10+ 2 )	FALSE	10+2		
 numerals-anaa1238-1-thirteen-1	numerals-anaa1238-1	Chan2019	thirteen	13	duètá	dueta	( 10+ 3 )	FALSE	10+3		
 numerals-anaa1238-1-fourteen-1	numerals-anaa1238-1	Chan2019	fourteen	14	duòenaàŋ	duoenaang	( 10+ 4 )	FALSE	10+4		
-numerals-anaa1238-1-fifteen-1	numerals-anaa1238-1	Chan2019	fifteen	15	ùdót ìtiên	udotitien	(èfú)	FALSE	10+5	efu = 15	
+numerals-anaa1238-1-fifteen-1	numerals-anaa1238-1	Chan2019	fifteen	15	ùdót ìtiên	udotitien	(èfú)	FALSE	10+5	efu = 15	
 numerals-anaa1238-1-sixteen-1	numerals-anaa1238-1	Chan2019	sixteen	16	duòbìtiêkeèd	duobitiekeed		FALSE	10+5+1		
 numerals-anaa1238-1-sixteen-2	numerals-anaa1238-1	Chan2019	sixteen	16	èfúròkeèt	efurokeet		FALSE	15+1		
 numerals-anaa1238-1-seventeen-1	numerals-anaa1238-1	Chan2019	seventeen	17	duòb ìtiâbà	duobitiaba		FALSE	10+5+3		
@@ -510,8 +510,8 @@ numerals-awak1250-1-two-1	numerals-awak1250-1	Chan2019	two	2	yɔ́rɔ́b	yorob		
 numerals-awak1250-1-three-1	numerals-awak1250-1	Chan2019	three	3	kunúŋ	kunung		FALSE	3		
 numerals-awak1250-1-four-1	numerals-awak1250-1	Chan2019	four	4	náː	na		FALSE	4		
 numerals-awak1250-1-five-1	numerals-awak1250-1	Chan2019	five	5	fwáːd	fwad		FALSE	5		
-numerals-awak1250-1-six-1	numerals-awak1250-1	Chan2019	six	6	yidíkúún	yidikuun	(kúún)	FALSE	6	{LIG}3	
-numerals-awak1250-1-seven-1	numerals-awak1250-1	Chan2019	seven	7	yidibírr	yidibirr	(bírr)	FALSE	7		
+numerals-awak1250-1-six-1	numerals-awak1250-1	Chan2019	six	6	yidíkúún	yidikuun	(kúún)	FALSE	6	{LIG}3	
+numerals-awak1250-1-seven-1	numerals-awak1250-1	Chan2019	seven	7	yidibírr	yidibirr	(bírr)	FALSE	7		
 numerals-awak1250-1-eight-1	numerals-awak1250-1	Chan2019	eight	8	naríb	narib		FALSE	8		
 numerals-awak1250-1-nine-1	numerals-awak1250-1	Chan2019	nine	9	tuːrkúb	turkub		FALSE	9		
 numerals-awak1250-1-ten-1	numerals-awak1250-1	Chan2019	ten	10	kɔ́b	kob		FALSE	10		
@@ -1082,7 +1082,7 @@ numerals-bago1245-1-eight-1	numerals-bago1245-1	Chan2019	eight	8	ɖìk͡pèèrè
 numerals-bago1245-1-nine-1	numerals-bago1245-1	Chan2019	nine	9	kàkààrè	kakaare		FALSE	9		
 numerals-bago1245-1-nine-2	numerals-bago1245-1	Chan2019	nine	9	ŋʊrʊk͡pák͡pá tá sàlá	ngurukpakpatasala	( 10 -1)	FALSE	1-{LIG}10		
 numerals-bago1245-1-ten-1	numerals-bago1245-1	Chan2019	ten	10	sàlá	sala		FALSE	10		
-numerals-bago1245-1-eleven-1	numerals-bago1245-1	Chan2019	eleven	11	sàláŋʊrʊ	salanguru	(k͡pák͡pá)	FALSE	10+1'		
+numerals-bago1245-1-eleven-1	numerals-bago1245-1	Chan2019	eleven	11	sàláŋʊrʊ	salanguru	(k͡pák͡pá)	FALSE	10+1'		
 numerals-bago1245-1-twelve-1	numerals-bago1245-1	Chan2019	twelve	12	sàlábààlɛ̀	salabaale		FALSE	10+{CL}2		
 numerals-bago1245-1-thirteen-1	numerals-bago1245-1	Chan2019	thirteen	13	sàlábàtòòro	salabatooro		FALSE	10+{CL}3		
 numerals-bago1245-1-fourteen-1	numerals-bago1245-1	Chan2019	fourteen	14	sàlábànásá	salabanasa		FALSE	10+{CL}4		
@@ -1092,7 +1092,7 @@ numerals-bago1245-1-seventeen-1	numerals-bago1245-1	Chan2019	seventeen	17	sàlá
 numerals-bago1245-1-eighteen-1	numerals-bago1245-1	Chan2019	eighteen	18	sàláɖìk͡pèèrè	saladikpeere		FALSE	10+8		
 numerals-bago1245-1-nineteen-1	numerals-bago1245-1	Chan2019	nineteen	19	sàlákàkààrè	salakakaare		FALSE	10+9		
 numerals-bago1245-1-twenty-1	numerals-bago1245-1	Chan2019	twenty	20	akó	ako		FALSE	20		
-numerals-bago1245-1-twentyone-1	numerals-bago1245-1	Chan2019	twentyone	21	akó ŋʊrʊ	akonguru	(k͡pák͡pá)	FALSE	20+1'		
+numerals-bago1245-1-twentyone-1	numerals-bago1245-1	Chan2019	twentyone	21	akó ŋʊrʊ	akonguru	(k͡pák͡pá)	FALSE	20+1'		
 numerals-bago1245-1-twentytwo-1	numerals-bago1245-1	Chan2019	twentytwo	22	akó bààlɛ̀	akobaale		FALSE	20+{CL}2		
 numerals-bago1245-1-twentythree-1	numerals-bago1245-1	Chan2019	twentythree	23	akó bàtòòro	akobatooro		FALSE	20+{CL}3		
 numerals-bago1245-1-twentyfour-1	numerals-bago1245-1	Chan2019	twentyfour	24	akó bànásá	akobanasa		FALSE	20+{CL}4		
@@ -1824,7 +1824,7 @@ numerals-basa1282-1-twentyeight-1	numerals-basa1282-1	Chan2019	twentyeight	28	w�
 numerals-basa1282-1-twentynine-1	numerals-basa1282-1	Chan2019	twentynine	29	wéʃi nìbe̥tʃĩndʒiʃì	wesinibetsindzisi		FALSE	20+{LIG}{CL}5+4		
 numerals-basa1282-1-thirty-1	numerals-basa1282-1	Chan2019	thirty	30	tàtàtʃe	tatatse		FALSE	3·10		
 numerals-basa1282-1-forty-1	numerals-basa1282-1	Chan2019	forty	40	bɔhãnda	bohanda		FALSE	40		
-numerals-basa1282-1-fifty-1	numerals-basa1282-1	Chan2019	fifty	50	dupu	dupu	< dùbù =Hausa loan ) ?	FALSE	50		
+numerals-basa1282-1-fifty-1	numerals-basa1282-1	Chan2019	fifty	50	dupu	dupu	< dùbù =Hausa loan ) ?	FALSE	50		
 numerals-basa1282-1-sixty-1	numerals-basa1282-1	Chan2019	sixty	60	dupu nesè unpwa	dupuneseunpwa	( 50 + 10 )	FALSE	50+{LIG}10		
 numerals-basa1282-1-seventy-1	numerals-basa1282-1	Chan2019	seventy	70	dupu nù weʃi	dupunuwesi	( 50 + 20 )	FALSE	50+{LIG}20		
 numerals-basa1282-1-eighty-1	numerals-basa1282-1	Chan2019	eighty	80	dupu nù tàlàtʃe̥	dupunutalatse	( 50 + 30 )	FALSE	50+{LIG}(3·10)		
@@ -2228,7 +2228,7 @@ numerals-besm1235-1-eighty-1	numerals-besm1235-1	Chan2019	eighty	80	jù ndāsì	
 numerals-besm1235-1-ninety-1	numerals-besm1235-1	Chan2019	ninety	90	jù nòmīnā	junomina		FALSE	10·9		
 numerals-besm1235-1-hundred-1	numerals-besm1235-1	Chan2019	hundred	100	kìs	kis	( < Arabic )	TRUE	100		
 numerals-besm1235-1-twohundred-1	numerals-besm1235-1	Chan2019	twohundred	200	kə̀kìs tʃírí	kakistsiri		true_and_false	100·2		
-numerals-besm1235-1-thousand-1	numerals-besm1235-1	Chan2019	thousand	1000	sák	sak	( sak from French 'sac') (mbírāŋ)	FALSE	1000		
+numerals-besm1235-1-thousand-1	numerals-besm1235-1	Chan2019	thousand	1000	sák	sak	( sak from French 'sac') (mbírāŋ)	FALSE	1000		
 numerals-besm1235-1-twothousand-1	numerals-besm1235-1	Chan2019	twothousand	2000	sák sérè	saksere		FALSE	1000		
 numerals-bete1262-1-one-1	numerals-bete1262-1	Chan2019	one	1	ìkèn	iken		FALSE	{CL}1		
 numerals-bete1262-1-two-1	numerals-bete1262-1	Chan2019	two	2	ìfè	ife		FALSE	{CL}2		
@@ -2347,9 +2347,9 @@ numerals-bhel1238-1-sixty-1	numerals-bhel1238-1	Chan2019	sixty	60	ekómi motóɓ
 numerals-bhel1238-1-seventy-1	numerals-bhel1238-1	Chan2019	seventy	70	ekómi suɓélalɔ	ekomisubelalo		FALSE	{CL}10·({LIG}[1]-8)		
 numerals-bhel1238-1-eighty-1	numerals-bhel1238-1	Chan2019	eighty	80	ekómi lalɔ	ekomilalo		FALSE	{CL}10·8		
 numerals-bhel1238-1-ninety-1	numerals-bhel1238-1	Chan2019	ninety	90	ekómi suɓékómi	ekomisubekomi		FALSE	{CL}10·({LIG}[1]-10)		
-numerals-bhel1238-1-hundred-1	numerals-bhel1238-1	Chan2019	hundred	100	iana	iana	(ímotí)	FALSE	100		
+numerals-bhel1238-1-hundred-1	numerals-bhel1238-1	Chan2019	hundred	100	iana	iana	(ímotí)	FALSE	100		
 numerals-bhel1238-1-twohundred-1	numerals-bhel1238-1	Chan2019	twohundred	200	iana íɓalé	ianaibale		FALSE	100·2		
-numerals-bhel1238-1-thousand-1	numerals-bhel1238-1	Chan2019	thousand	1000	ɛ́lufu	elufu	( ɛ́lufu < Swahili) (ímotí)	TRUE	1000		
+numerals-bhel1238-1-thousand-1	numerals-bhel1238-1	Chan2019	thousand	1000	ɛ́lufu	elufu	( ɛ́lufu < Swahili) (ímotí)	TRUE	1000		
 numerals-bhel1238-1-twothousand-1	numerals-bhel1238-1	Chan2019	twothousand	2000	ɛ́lufu íɓalé	elufuibale		true_and_false	{CL}1000·2		
 numerals-biaf1240-1-one-1	numerals-biaf1240-1	Chan2019	one	1	nəmma	namma		FALSE	1		
 numerals-biaf1240-1-two-1	numerals-biaf1240-1	Chan2019	two	2	bihe	bihe		FALSE	{CL}2		
@@ -2962,7 +2962,7 @@ numerals-budu1250-1-three-1	numerals-budu1250-1	Chan2019	three	3	ɓětù	betu		F
 numerals-budu1250-1-four-1	numerals-budu1250-1	Chan2019	four	4	ɓɔ̀ɡìnà	bogina		FALSE	4		
 numerals-budu1250-1-five-1	numerals-budu1250-1	Chan2019	five	5	ɓɔ̌kʊ̀	boku		FALSE	5		
 numerals-budu1250-1-six-1	numerals-budu1250-1	Chan2019	six	6	mɛ̀ɗìà	media		FALSE	6		
-numerals-budu1250-1-seven-1	numerals-budu1250-1	Chan2019	seven	7	mɛ̀ɗìàníkà	medianika	( lit: níkà "to come" )	FALSE	6+{LIG}[1]		
+numerals-budu1250-1-seven-1	numerals-budu1250-1	Chan2019	seven	7	mɛ̀ɗìàníkà	medianika	( lit: níkà "to come" )	FALSE	6+{LIG}[1]		
 numerals-budu1250-1-eight-1	numerals-budu1250-1	Chan2019	eight	8	ɓɛ̀ɡìnà	begina	( *)	FALSE	8		
 numerals-budu1250-1-nine-1	numerals-budu1250-1	Chan2019	nine	9	ìsàɓɔ̌kʊ̀	isaboku		FALSE	9		
 numerals-budu1250-1-ten-1	numerals-budu1250-1	Chan2019	ten	10	tɛ̀kɛ̀ɓɛ̀	tekebe		FALSE	10		
@@ -2992,9 +2992,9 @@ numerals-budu1250-1-sixty-1	numerals-budu1250-1	Chan2019	sixty	60	tɛ̀kɛ̀ɓɛ
 numerals-budu1250-1-seventy-1	numerals-budu1250-1	Chan2019	seventy	70	tɛ̀kɛ̀ɓɛ̀ mɛ̀ɗìàníkà	tekebemedianika		FALSE	10·7		
 numerals-budu1250-1-eighty-1	numerals-budu1250-1	Chan2019	eighty	80	tɛ̀kɛ̀ɓɛ̀ ɓɛ̀ɡìnà	tekebebegina		FALSE	10·8		
 numerals-budu1250-1-ninety-1	numerals-budu1250-1	Chan2019	ninety	90	tɛ̀kɛ̀ɓɛ̀ ìsàɓɔ̌kʊ̀	tekebeisaboku		FALSE	10·9		
-numerals-budu1250-1-hundred-1	numerals-budu1250-1	Chan2019	hundred	100	míà	mia	( 'míà' from Swahili)	TRUE	100		
+numerals-budu1250-1-hundred-1	numerals-budu1250-1	Chan2019	hundred	100	míà	mia	( 'míà' from Swahili)	TRUE	100		
 numerals-budu1250-1-twohundred-1	numerals-budu1250-1	Chan2019	twohundred	200	míà ɓèpínì	miabepini		FALSE	100·2		
-numerals-budu1250-1-thousand-1	numerals-budu1250-1	Chan2019	thousand	1000	ɛ́lɛ̀fù	elefu	('ɛ́lɛ̀fù' from Swahili)	TRUE	1000		
+numerals-budu1250-1-thousand-1	numerals-budu1250-1	Chan2019	thousand	1000	ɛ́lɛ̀fù	elefu	('ɛ́lɛ̀fù' from Swahili)	TRUE	1000		
 numerals-budu1250-1-twothousand-1	numerals-budu1250-1	Chan2019	twothousand	2000	ɛ́lɛ̀fù ɓèpínì	elefubepini		TRUE	1000·2		
 numerals-budz1238-1-one-1	numerals-budz1238-1	Chan2019	one	1	isisyá	isisya		FALSE	1		
 numerals-budz1238-1-two-1	numerals-budz1238-1	Chan2019	two	2	iwá	iwa		FALSE	2		
@@ -3935,9 +3935,9 @@ numerals-chuk1274-1-sixty-2	numerals-chuk1274-1	Chan2019	sixty	60	mĩronɡo itha
 numerals-chuk1274-1-seventy-1	numerals-chuk1274-1	Chan2019	seventy	70	mĩronɡo mûɡwanja	mirongomugwanja		FALSE	10’·7		
 numerals-chuk1274-1-eighty-1	numerals-chuk1274-1	Chan2019	eighty	80	mĩronɡo inyanya	mirongoinyanya		FALSE	10’·(4+4)		
 numerals-chuk1274-1-ninety-1	numerals-chuk1274-1	Chan2019	ninety	90	mĩronɡo kenda	mirongokenda		FALSE	10’·9		
-numerals-chuk1274-1-hundred-1	numerals-chuk1274-1	Chan2019	hundred	100	îɡana	igana	(rîmwe)	FALSE	100		
+numerals-chuk1274-1-hundred-1	numerals-chuk1274-1	Chan2019	hundred	100	îɡana	igana	(rîmwe)	FALSE	100		
 numerals-chuk1274-1-twohundred-1	numerals-chuk1274-1	Chan2019	twohundred	200	maɡana maîrî	maganamairi		FALSE	100·2		
-numerals-chuk1274-1-thousand-1	numerals-chuk1274-1	Chan2019	thousand	1000	nɡiri	ngiri	(îmwe)	FALSE	1000		
+numerals-chuk1274-1-thousand-1	numerals-chuk1274-1	Chan2019	thousand	1000	nɡiri	ngiri	(îmwe)	FALSE	1000		
 numerals-chuk1274-1-twothousand-1	numerals-chuk1274-1	Chan2019	twothousand	2000	nɡiri ciîrî	ngiriciiri		FALSE	1000·2		
 numerals-chum1261-1-one-1	numerals-chum1261-1	Chan2019	one	1	kɔ́	ko		FALSE	1		
 numerals-chum1261-1-two-1	numerals-chum1261-1	Chan2019	two	2	ɪ̀ɲɔ́	ino		FALSE	2		
@@ -4096,7 +4096,7 @@ numerals-cind1241-1-sixty-1	numerals-cind1241-1	Chan2019	sixty	60	òpɑ́ tə́n
 numerals-cind1241-1-seventy-1	numerals-cind1241-1	Chan2019	seventy	70	òpɑ́ tə́ndə́ɰə̀	opatandawa		FALSE	10·(5+2)		
 numerals-cind1241-1-eighty-1	numerals-cind1241-1	Chan2019	eighty	80	òpɑ́ tə́ntɑ́tɔ̀	opatantato		FALSE	10·(5+3)		
 numerals-cind1241-1-ninety-1	numerals-cind1241-1	Chan2019	ninety	90	òpɑ́ tə́ndə́ʃì	opatandasi		FALSE	10·(5+4)		
-numerals-cind1241-1-hundred-1	numerals-cind1241-1	Chan2019	hundred	100	ɗə̀rí	dari	< Hausa ) or dè òpɑ́	TRUE	100		
+numerals-cind1241-1-hundred-1	numerals-cind1241-1	Chan2019	hundred	100	ɗə̀rí	dari	< Hausa ) or dè òpɑ́	TRUE	100		
 numerals-cind1241-1-twohundred-1	numerals-cind1241-1	Chan2019	twohundred	200	ɗə̀rí íɰə	dariiwa		true_and_false	100·2		
 numerals-cind1241-1-twohundred-2	numerals-cind1241-1	Chan2019	twohundred	200	dʒìkə́	dzika		FALSE	200{?}		
 numerals-cind1241-1-thousand-1	numerals-cind1241-1	Chan2019	thousand	1000	dùbù	dubu	( < Hausa )	TRUE	1000		
@@ -4397,14 +4397,14 @@ numerals-dayy1236-1-thousand-1	numerals-dayy1236-1	Chan2019	thousand	1000	dūbú
 numerals-dayy1236-1-twothousand-1	numerals-dayy1236-1	Chan2019	twothousand	2000	dūbú dīí	dubudii		FALSE	1000·2		
 numerals-dege1246-1-one-1	numerals-dege1246-1	Chan2019	one	1	ɔβʊ́	obu		FALSE	1		
 numerals-dege1246-1-two-1	numerals-dege1246-1	Chan2019	two	2	iβə́	iba		FALSE	2		
-numerals-dege1246-1-three-1	numerals-dege1246-1	Chan2019	three	3	sáj	saj	( ɪsáj)	FALSE	3		
+numerals-dege1246-1-three-1	numerals-dege1246-1	Chan2019	three	3	sáj	saj	( ɪsáj)	FALSE	3		
 numerals-dege1246-1-four-1	numerals-dege1246-1	Chan2019	four	4	iní	ini		FALSE	4		
-numerals-dege1246-1-five-1	numerals-dege1246-1	Chan2019	five	5	súwón	suwon	(ɪsúwón)	FALSE	5		
-numerals-dege1246-1-six-1	numerals-dege1246-1	Chan2019	six	6	jɪ́sa	jisa	(ɪjɪ́ꜜsá)	FALSE	6	3+3	
-numerals-dege1246-1-seven-1	numerals-dege1246-1	Chan2019	seven	7	síjéβə	sijeba	(isíjéꜜβá)	FALSE	5’+2		
-numerals-dege1246-1-eight-1	numerals-dege1246-1	Chan2019	eight	8	anɪ́	ani	(ɪnʊ́mán)	FALSE	[2]·{lig_plu}4		
-numerals-dege1246-1-nine-1	numerals-dege1246-1	Chan2019	nine	9	əsí	asi	( 10 -1 ) (ɔβʊ óte mʊ iɡ͡beɲ)	FALSE	9		
-numerals-dege1246-1-ten-1	numerals-dege1246-1	Chan2019	ten	10	əɡ͡beɲ	agben	(iɡ͡béɲ)	FALSE	10		
+numerals-dege1246-1-five-1	numerals-dege1246-1	Chan2019	five	5	súwón	suwon	(ɪsúwón)	FALSE	5		
+numerals-dege1246-1-six-1	numerals-dege1246-1	Chan2019	six	6	jɪ́sa	jisa	(ɪjɪ́ꜜsá)	FALSE	6	3+3	
+numerals-dege1246-1-seven-1	numerals-dege1246-1	Chan2019	seven	7	síjéβə	sijeba	(isíjéꜜβá)	FALSE	5’+2		
+numerals-dege1246-1-eight-1	numerals-dege1246-1	Chan2019	eight	8	anɪ́	ani	(ɪnʊ́mán)	FALSE	[2]·{lig_plu}4		
+numerals-dege1246-1-nine-1	numerals-dege1246-1	Chan2019	nine	9	əsí	asi	( 10 -1 ) (ɔβʊ óte mʊ iɡ͡beɲ)	FALSE	9		
+numerals-dege1246-1-ten-1	numerals-dege1246-1	Chan2019	ten	10	əɡ͡beɲ	agben	(iɡ͡béɲ)	FALSE	10		
 numerals-dege1246-1-eleven-1	numerals-dege1246-1	Chan2019	eleven	11	əɡ͡beɲ nʊ ɔβʊ́	agbennuobu		FALSE	10+{LIG}1		
 numerals-dege1246-1-twelve-1	numerals-dege1246-1	Chan2019	twelve	12	əɡ͡beɲ nʊ iβə́	agbennuiba		FALSE	10+{LIG}2		
 numerals-dege1246-1-thirteen-1	numerals-dege1246-1	Chan2019	thirteen	13	əɡ͡beɲ nʊ ɪsáj	agbennuisaj		FALSE	10+{LIG}3		
@@ -4414,7 +4414,7 @@ numerals-dege1246-1-sixteen-1	numerals-dege1246-1	Chan2019	sixteen	16	əɡ͡beɲ
 numerals-dege1246-1-seventeen-1	numerals-dege1246-1	Chan2019	seventeen	17	əɡ͡beɲ nʊ isíjéꜜβa	agbennuisijeba		FALSE	10+{LIG}5'+2		
 numerals-dege1246-1-eighteen-1	numerals-dege1246-1	Chan2019	eighteen	18	əɡ͡beɲ nʊ ɪnʊ́mán	agbennuinuman		FALSE	10+{LIG}([2]·{lig_plu}4)		
 numerals-dege1246-1-nineteen-1	numerals-dege1246-1	Chan2019	nineteen	19	ɔβʊ óte mʊ ijów	obuotemuijow	( 20 -1 )	FALSE	1-{LIG}20		
-numerals-dege1246-1-twenty-1	numerals-dege1246-1	Chan2019	twenty	20	ijów	ijow	( ʊ́táɲ ɔ́βʊ)	FALSE	20		
+numerals-dege1246-1-twenty-1	numerals-dege1246-1	Chan2019	twenty	20	ijów	ijow	( ʊ́táɲ ɔ́βʊ)	FALSE	20		
 numerals-dege1246-1-twentyone-1	numerals-dege1246-1	Chan2019	twentyone	21	ijów nʊ ɔβʊ́	ijownuobu		FALSE	20+{LIG}1		
 numerals-dege1246-1-twentytwo-1	numerals-dege1246-1	Chan2019	twentytwo	22	ijów nʊ iβə́	ijownuiba		FALSE	20+{LIG}2		
 numerals-dege1246-1-twentythree-1	numerals-dege1246-1	Chan2019	twentythree	23	ijów nʊ ɪsáj	ijownuisaj		FALSE	20+{LIG}3		
@@ -4425,7 +4425,7 @@ numerals-dege1246-1-twentyseven-1	numerals-dege1246-1	Chan2019	twentyseven	27	ij
 numerals-dege1246-1-twentyeight-1	numerals-dege1246-1	Chan2019	twentyeight	28	ijów nʊ ɪnʊ́mán	ijownuinuman		FALSE	20+{LIG}([2]·{lig_plu}4)		
 numerals-dege1246-1-twentynine-1	numerals-dege1246-1	Chan2019	twentynine	29	ɔβʊ óte mʊ ijów nʊ iɡ͡béɲ	obuotemuijownuigben	( 30 -1 )	FALSE	1-{LIG}20+{LIG}10		
 numerals-dege1246-1-thirty-1	numerals-dege1246-1	Chan2019	thirty	30	ijów nʊ iɡ͡béɲ	ijownuigben		FALSE	20+{LIG}10		
-numerals-dege1246-1-forty-1	numerals-dege1246-1	Chan2019	forty	40	ʊβá	uba	(ɪ́táɲ íβə)	FALSE	[20]·2		
+numerals-dege1246-1-forty-1	numerals-dege1246-1	Chan2019	forty	40	ʊβá	uba	(ɪ́táɲ íβə)	FALSE	[20]·2		
 numerals-dege1246-1-fifty-1	numerals-dege1246-1	Chan2019	fifty	50	ʊβa nʊ iɡ͡béɲ	ubanuigben		FALSE	([20]·2)+{LIG}10		
 numerals-dege1246-1-sixty-1	numerals-dege1246-1	Chan2019	sixty	60	ɪ́táɲ ɪsáj	itanisaj	( 20 x 3 )	FALSE	20'·3		
 numerals-dege1246-1-seventy-1	numerals-dege1246-1	Chan2019	seventy	70	ɪ́táɲ ɪsáj nʊ iɡ͡béɲ	itanisajnuigben	( 20 x 3+ 10 )	FALSE	(20'·3)+10		
@@ -4437,14 +4437,14 @@ numerals-dege1246-1-thousand-1	numerals-dege1246-1	Chan2019	thousand	1000	əsí 
 numerals-dege1246-1-twothousand-1	numerals-dege1246-1	Chan2019	twothousand	2000	əsí ésuwon	asiesuwon		FALSE	400·5{?}		
 numerals-dege1246-1-one-1	numerals-dege1246-1	Chan2019	one	1	ɔβʊ́	obu		FALSE	1		
 numerals-dege1246-1-two-1	numerals-dege1246-1	Chan2019	two	2	iβə́	iba		FALSE	2		
-numerals-dege1246-1-three-1	numerals-dege1246-1	Chan2019	three	3	sáj	saj	( ɪsáj)	FALSE	3		
+numerals-dege1246-1-three-1	numerals-dege1246-1	Chan2019	three	3	sáj	saj	( ɪsáj)	FALSE	3		
 numerals-dege1246-1-four-1	numerals-dege1246-1	Chan2019	four	4	iní	ini		FALSE	4		
-numerals-dege1246-1-five-1	numerals-dege1246-1	Chan2019	five	5	súwón	suwon	(ɪsúwón)	FALSE	5		
-numerals-dege1246-1-six-1	numerals-dege1246-1	Chan2019	six	6	jɪ́sa	jisa	(ɪjɪ́ꜜsá)	FALSE	6	3+3	
-numerals-dege1246-1-seven-1	numerals-dege1246-1	Chan2019	seven	7	síjéβə	sijeba	(isíjéꜜβá)	FALSE	5’+2		
-numerals-dege1246-1-eight-1	numerals-dege1246-1	Chan2019	eight	8	anɪ́	ani	(ɪnʊ́mán)	FALSE	[2]·{lig_plu}4		
-numerals-dege1246-1-nine-1	numerals-dege1246-1	Chan2019	nine	9	əsí	asi	( 10 -1 ) (ɔβʊ óte mʊ iɡ͡beɲ)	FALSE	9		
-numerals-dege1246-1-ten-1	numerals-dege1246-1	Chan2019	ten	10	əɡ͡beɲ	agben	(iɡ͡béɲ)	FALSE	10		
+numerals-dege1246-1-five-1	numerals-dege1246-1	Chan2019	five	5	súwón	suwon	(ɪsúwón)	FALSE	5		
+numerals-dege1246-1-six-1	numerals-dege1246-1	Chan2019	six	6	jɪ́sa	jisa	(ɪjɪ́ꜜsá)	FALSE	6	3+3	
+numerals-dege1246-1-seven-1	numerals-dege1246-1	Chan2019	seven	7	síjéβə	sijeba	(isíjéꜜβá)	FALSE	5’+2		
+numerals-dege1246-1-eight-1	numerals-dege1246-1	Chan2019	eight	8	anɪ́	ani	(ɪnʊ́mán)	FALSE	[2]·{lig_plu}4		
+numerals-dege1246-1-nine-1	numerals-dege1246-1	Chan2019	nine	9	əsí	asi	( 10 -1 ) (ɔβʊ óte mʊ iɡ͡beɲ)	FALSE	9		
+numerals-dege1246-1-ten-1	numerals-dege1246-1	Chan2019	ten	10	əɡ͡beɲ	agben	(iɡ͡béɲ)	FALSE	10		
 numerals-dege1246-1-eleven-1	numerals-dege1246-1	Chan2019	eleven	11	əɡ͡beɲ nʊ ɔβʊ́	agbennuobu		FALSE	10+{LIG}1		
 numerals-dege1246-1-twelve-1	numerals-dege1246-1	Chan2019	twelve	12	əɡ͡beɲ nʊ iβə́	agbennuiba		FALSE	10+{LIG}2		
 numerals-dege1246-1-thirteen-1	numerals-dege1246-1	Chan2019	thirteen	13	əɡ͡beɲ nʊ ɪsáj	agbennuisaj		FALSE	10+{LIG}3		
@@ -4454,7 +4454,7 @@ numerals-dege1246-1-sixteen-1	numerals-dege1246-1	Chan2019	sixteen	16	əɡ͡beɲ
 numerals-dege1246-1-seventeen-1	numerals-dege1246-1	Chan2019	seventeen	17	əɡ͡beɲ nʊ isíjéꜜβa	agbennuisijeba		FALSE	10+{LIG}5'+2		
 numerals-dege1246-1-eighteen-1	numerals-dege1246-1	Chan2019	eighteen	18	əɡ͡beɲ nʊ ɪnʊ́mán	agbennuinuman		FALSE	10+{LIG}([2]·{lig_plu}4)		
 numerals-dege1246-1-nineteen-1	numerals-dege1246-1	Chan2019	nineteen	19	ɔβʊ óte mʊ ijów	obuotemuijow	( 20 -1 )	FALSE	1-{LIG}20		
-numerals-dege1246-1-twenty-1	numerals-dege1246-1	Chan2019	twenty	20	ijów	ijow	( ʊ́táɲ ɔ́βʊ)	FALSE	20		
+numerals-dege1246-1-twenty-1	numerals-dege1246-1	Chan2019	twenty	20	ijów	ijow	( ʊ́táɲ ɔ́βʊ)	FALSE	20		
 numerals-dege1246-1-twentyone-1	numerals-dege1246-1	Chan2019	twentyone	21	ijów nʊ ɔβʊ́	ijownuobu		FALSE	20+{LIG}1		
 numerals-dege1246-1-twentytwo-1	numerals-dege1246-1	Chan2019	twentytwo	22	ijów nʊ iβə́	ijownuiba		FALSE	20+{LIG}2		
 numerals-dege1246-1-twentythree-1	numerals-dege1246-1	Chan2019	twentythree	23	ijów nʊ ɪsáj	ijownuisaj		FALSE	20+{LIG}3		
@@ -4465,7 +4465,7 @@ numerals-dege1246-1-twentyseven-1	numerals-dege1246-1	Chan2019	twentyseven	27	ij
 numerals-dege1246-1-twentyeight-1	numerals-dege1246-1	Chan2019	twentyeight	28	ijów nʊ ɪnʊ́mán	ijownuinuman		FALSE	20+{LIG}([2]·{lig_plu}4)		
 numerals-dege1246-1-twentynine-1	numerals-dege1246-1	Chan2019	twentynine	29	ɔβʊ óte mʊ ijów nʊ iɡ͡béɲ	obuotemuijownuigben	( 30 -1 )	FALSE	1-{LIG}20+{LIG}10		
 numerals-dege1246-1-thirty-1	numerals-dege1246-1	Chan2019	thirty	30	ijów nʊ iɡ͡béɲ	ijownuigben		FALSE	20+{LIG}10		
-numerals-dege1246-1-forty-1	numerals-dege1246-1	Chan2019	forty	40	ʊβá	uba	(ɪ́táɲ íβə)	FALSE	[20]·2		
+numerals-dege1246-1-forty-1	numerals-dege1246-1	Chan2019	forty	40	ʊβá	uba	(ɪ́táɲ íβə)	FALSE	[20]·2		
 numerals-dege1246-1-fifty-1	numerals-dege1246-1	Chan2019	fifty	50	ʊβa nʊ iɡ͡béɲ	ubanuigben		FALSE	([20]·2)+{LIG}10		
 numerals-dege1246-1-sixty-1	numerals-dege1246-1	Chan2019	sixty	60	ɪ́táɲ ɪsáj	itanisaj	( 20 x 3 )	FALSE	20'·3		
 numerals-dege1246-1-seventy-1	numerals-dege1246-1	Chan2019	seventy	70	ɪ́táɲ ɪsáj nʊ iɡ͡béɲ	itanisajnuigben	( 20 x 3+ 10 )	FALSE	(20'·3)+10		
@@ -5754,9 +5754,9 @@ numerals-efik1245-1-two-1	numerals-efik1245-1	Chan2019	two	2	íbá	iba		FALSE	2
 numerals-efik1245-1-three-1	numerals-efik1245-1	Chan2019	three	3	ítá	ita		FALSE	3		
 numerals-efik1245-1-four-1	numerals-efik1245-1	Chan2019	four	4	ínáŋ	inang		FALSE	4		
 numerals-efik1245-1-five-1	numerals-efik1245-1	Chan2019	five	5	ítíón	ition		FALSE	5		
-numerals-efik1245-1-six-1	numerals-efik1245-1	Chan2019	six	6	ítíókíét	itiokiet	< ítíón yé kíét ( 5+ 1 )	FALSE	5+1		
-numerals-efik1245-1-seven-1	numerals-efik1245-1	Chan2019	seven	7	ítíábá	itiaba	< ítíón yé íbá ( 5+ 2 )	FALSE	5+2		
-numerals-efik1245-1-eight-1	numerals-efik1245-1	Chan2019	eight	8	ítíáitá	itiaita	< ítíón yé ítá ( 5+ 3 )	FALSE	5+3		
+numerals-efik1245-1-six-1	numerals-efik1245-1	Chan2019	six	6	ítíókíét	itiokiet	< ítíón yé kíét ( 5+ 1 )	FALSE	5+1		
+numerals-efik1245-1-seven-1	numerals-efik1245-1	Chan2019	seven	7	ítíábá	itiaba	< ítíón yé íbá ( 5+ 2 )	FALSE	5+2		
+numerals-efik1245-1-eight-1	numerals-efik1245-1	Chan2019	eight	8	ítíáitá	itiaita	< ítíón yé ítá ( 5+ 3 )	FALSE	5+3		
 numerals-efik1245-1-nine-1	numerals-efik1245-1	Chan2019	nine	9	úsúk-kíét	usukkiet	(litː ''ten less one'' )	FALSE	[10]-{LIG}1		
 numerals-efik1245-1-ten-1	numerals-efik1245-1	Chan2019	ten	10	dúóp	duop		FALSE	10		
 numerals-efik1245-1-eleven-1	numerals-efik1245-1	Chan2019	eleven	11	dúóp ekíét	duopekiet	( 10+ 1 )	FALSE	10+1		
@@ -5785,7 +5785,7 @@ numerals-efik1245-1-sixty-1	numerals-efik1245-1	Chan2019	sixty	60	àtá	ata	( 3 
 numerals-efik1245-1-seventy-1	numerals-efik1245-1	Chan2019	seventy	70	àtá yé dúóp	atayeduop		FALSE			
 numerals-efik1245-1-eighty-1	numerals-efik1245-1	Chan2019	eighty	80	ànàŋ	anang	( 4 x 2 x 10 )	FALSE	[20]·4		
 numerals-efik1245-1-ninety-1	numerals-efik1245-1	Chan2019	ninety	90	ànàŋ yé dúóp	anangyeduop		FALSE			
-numerals-efik1245-1-hundred-1	numerals-efik1245-1	Chan2019	hundred	100	kíét	kiet	( < íkíé  1 x 10 x 10 )	FALSE	100{?}	same form as one	
+numerals-efik1245-1-hundred-1	numerals-efik1245-1	Chan2019	hundred	100	kíét	kiet	( < íkíé  1 x 10 x 10 )	FALSE	100{?}	same form as one	
 numerals-efik1245-1-twohundred-1	numerals-efik1245-1	Chan2019	twohundred	200	íkíé íbá	ikieiba		FALSE	100·2		
 numerals-efik1245-1-thousand-1	numerals-efik1245-1	Chan2019	thousand	1000	íkíé dúóp	ikieduop	( < English )	TRUE	100·10		
 numerals-efik1245-1-thousand-2	numerals-efik1245-1	Chan2019	thousand	1000	tɔ́sìn	tosin	( < English )	TRUE	1000		
@@ -5992,7 +5992,7 @@ numerals-emai1241-1-seven-1	numerals-emai1241-1	Chan2019	seven	7	ìhíɔ́n	ihio
 numerals-emai1241-1-eight-1	numerals-emai1241-1	Chan2019	eight	8	èɛ́n	een		FALSE	8		
 numerals-emai1241-1-nine-1	numerals-emai1241-1	Chan2019	nine	9	ìsín	isin		FALSE	9		
 numerals-emai1241-1-ten-1	numerals-emai1241-1	Chan2019	ten	10	ìɡ͡bé	igbe		FALSE	10		
-numerals-emai1241-1-eleven-1	numerals-emai1241-1	Chan2019	eleven	11	ìɡ͡bóɔ́	igboo	( < ìɡ͡bé + àó / ɔ̀k͡pá )	FALSE	10+1		
+numerals-emai1241-1-eleven-1	numerals-emai1241-1	Chan2019	eleven	11	ìɡ͡bóɔ́	igboo	( < ìɡ͡bé + àó / ɔ̀k͡pá )	FALSE	10+1		
 numerals-emai1241-1-twelve-1	numerals-emai1241-1	Chan2019	twelve	12	ìɡ͡béèvà	igbeeva		FALSE	10+2		
 numerals-emai1241-1-thirteen-1	numerals-emai1241-1	Chan2019	thirteen	13	ìɡ͡bèéà	igbeea		FALSE	10+3		
 numerals-emai1241-1-fourteen-1	numerals-emai1241-1	Chan2019	fourteen	14	ìɡ͡bèélè	igbeele		FALSE	10+4		
@@ -6012,7 +6012,7 @@ numerals-emai1241-1-twentyseven-1	numerals-emai1241-1	Chan2019	twentyseven	27	ù
 numerals-emai1241-1-twentyeight-1	numerals-emai1241-1	Chan2019	twentyeight	28	ùúè bí èɛ́n	uuebieen		FALSE	20+{LIG}8		
 numerals-emai1241-1-twentynine-1	numerals-emai1241-1	Chan2019	twentynine	29	ùúè bí ìsín	uuebiisin		FALSE	20+{LIG}9		
 numerals-emai1241-1-thirty-1	numerals-emai1241-1	Chan2019	thirty	30	ɔ́ɡ͡bàn	ogban		FALSE	30		
-numerals-emai1241-1-forty-1	numerals-emai1241-1	Chan2019	forty	40	èɡ͡bɔ̀èvá	egboeva	( èɡ͡bɔ̀ɔ- 20/ score  x 2 )	FALSE	20·2		
+numerals-emai1241-1-forty-1	numerals-emai1241-1	Chan2019	forty	40	èɡ͡bɔ̀èvá	egboeva	( èɡ͡bɔ̀ɔ- 20/ score  x 2 )	FALSE	20·2		
 numerals-emai1241-1-fifty-1	numerals-emai1241-1	Chan2019	fifty	50	èɡ͡bɔ̀èvá bí ìɡ͡bé	egboevabiigbe	( 40 + 10 )	FALSE	(20·2)+{LIG}10		
 numerals-emai1241-1-sixty-1	numerals-emai1241-1	Chan2019	sixty	60	èɡ͡bɔ̀èéà	egboeea	( 20 x 3 )	FALSE	20·4		
 numerals-emai1241-1-seventy-1	numerals-emai1241-1	Chan2019	seventy	70	èɡ͡bɔ̀èéà bí ìɡ͡bé	egboeeabiigbe	( 60 + 10 )	FALSE	(20·3)+{LIG}10		
@@ -6065,7 +6065,7 @@ numerals-enah1238-1-eighty-1	numerals-enah1238-1	Chan2019	eighty	80	milɔ́kɔ́
 numerals-enah1238-1-ninety-1	numerals-enah1238-1	Chan2019	ninety	90	milɔ́kɔ́ mitʰanú na ʃɛʃɛ́	milokomithanunasese		FALSE	10·(5+{LIG}4)		
 numerals-enah1238-1-hundred-1	numerals-enah1238-1	Chan2019	hundred	100	emíyá	emiya	('miya' < Swahili / Arabic )	TRUE	100		
 numerals-enah1238-1-twohundred-1	numerals-enah1238-1	Chan2019	twohundred	200	emíyá piːlí	emiyapili		FALSE	100·2		
-numerals-enah1238-1-thousand-1	numerals-enah1238-1	Chan2019	thousand	1000	míːli	mili	( 'míːli from Portuguese )	FALSE	1000		
+numerals-enah1238-1-thousand-1	numerals-enah1238-1	Chan2019	thousand	1000	míːli	mili	( 'míːli from Portuguese )	FALSE	1000		
 numerals-enah1238-1-twothousand-1	numerals-enah1238-1	Chan2019	twothousand	2000	míːli piːlí	milipili		FALSE	1000·2		
 numerals-enge1239-1-one-1	numerals-enge1239-1	Chan2019	one	1	ávʊ̀	avu		FALSE	1		
 numerals-enge1239-1-two-1	numerals-enge1239-1	Chan2019	two	2	ívà	iva		FALSE	2		
@@ -6608,9 +6608,9 @@ numerals-gaaa1244-1-sixty-1	numerals-gaaa1244-1	Chan2019	sixty	60	ɲɔ̀ŋmá -�
 numerals-gaaa1244-1-seventy-1	numerals-gaaa1244-1	Chan2019	seventy	70	ɲɔ̀ŋmá-ǃí k͡pàwo	nongmaikpawo		FALSE	10·(6+1’)		
 numerals-gaaa1244-1-eighty-1	numerals-gaaa1244-1	Chan2019	eighty	80	ɲɔ̀ŋmá -ǃí k͡pàaɲɔ̃	nongmaikpaano		FALSE	10·(6+2)		
 numerals-gaaa1244-1-ninety-1	numerals-gaaa1244-1	Chan2019	ninety	90	ɲɔ̀ŋmá -ǃí nɛ̀ɛhṹ	nongmaineehu		FALSE	10·9		
-numerals-gaaa1244-1-hundred-1	numerals-gaaa1244-1	Chan2019	hundred	100	òhá	oha	pl. -ì	FALSE	100		
+numerals-gaaa1244-1-hundred-1	numerals-gaaa1244-1	Chan2019	hundred	100	òhá	oha	pl. -ì	FALSE	100		
 numerals-gaaa1244-1-twohundred-1	numerals-gaaa1244-1	Chan2019	twohundred	200	òhá-ǃí éɲɔ̀	ohaieno		FALSE	100·2		
-numerals-gaaa1244-1-thousand-1	numerals-gaaa1244-1	Chan2019	thousand	1000	àkpé	akpe	pl. -ì	FALSE	1000		
+numerals-gaaa1244-1-thousand-1	numerals-gaaa1244-1	Chan2019	thousand	1000	àkpé	akpe	pl. -ì	FALSE	1000		
 numerals-gaaa1244-1-twothousand-1	numerals-gaaa1244-1	Chan2019	twothousand	2000	àkpé -ǃí éɲɔ̀	akpeieno		FALSE	1000·2		
 numerals-gaam1241-1-one-1	numerals-gaam1241-1	Chan2019	one	1	t̪āmán	taman		FALSE	1		
 numerals-gaam1241-1-two-1	numerals-gaam1241-1	Chan2019	two	2	d̪áāɡɡ	daagg		FALSE	2		
@@ -6839,7 +6839,7 @@ numerals-ganz1246-2-seventy-1	numerals-ganz1246-2	Chan2019	seventy	70	mámpʰìn
 numerals-ganz1246-2-eighty-1	numerals-ganz1246-2	Chan2019	eighty	80	máꜜs’í ásí ꜜk’jóò	masiasikjoo	(four person-CT body-CT )	FALSE	4·20		
 numerals-ganz1246-2-ninety-1	numerals-ganz1246-2	Chan2019	ninety	90	ʃèlé kónsó-báꜜ	selekonsoba		FALSE	9·10		
 numerals-ganz1246-2-hundred-1	numerals-ganz1246-2	Chan2019	hundred	100	k’wísʼí ásí ꜜk’jóò	kwisiasikjoo	(five person-CT body-CT )	FALSE	5·20		
-numerals-ganz1246-2-onehundredandthirtythree-1	numerals-ganz1246-2	Chan2019	onehundredandthirtythree	133	k’wísʼí ásí ꜜk’jóò kʼwàtʼ ó tʼíꜜzí kónsó-bá	kwisiasikjookwatotizikonsoba	( kʼwàtʼ-ó tʼíꜜzí)	FALSE	(5·20)+3'+20+10		
+numerals-ganz1246-2-onehundredandthirtythree-1	numerals-ganz1246-2	Chan2019	onehundredandthirtythree	133	k’wísʼí ásí ꜜk’jóò kʼwàtʼ ó tʼíꜜzí kónsó-bá	kwisiasikjookwatotizikonsoba	( kʼwàtʼ-ó tʼíꜜzí)	FALSE	(5·20)+3'+20+10		
 numerals-garr1259-1-one-1	numerals-garr1259-1	Chan2019	one	1	kow	kow		FALSE	1		
 numerals-garr1259-1-two-1	numerals-garr1259-1	Chan2019	two	2	lamma	lamma		FALSE	2		
 numerals-garr1259-1-three-1	numerals-garr1259-1	Chan2019	three	3	siddeh	siddeh		FALSE	3		
@@ -7275,7 +7275,7 @@ numerals-ghot1243-1-seventeen-1	numerals-ghot1243-1	Chan2019	seventeen	17	àzē�
 numerals-ghot1243-1-eighteen-1	numerals-ghot1243-1	Chan2019	eighteen	18	àzēꜜvārwūèɣì	azevarwuegi	( 20 - 2 )	FALSE	{LIG}2-{LIG}20		
 numerals-ghot1243-1-nineteen-1	numerals-ghot1243-1	Chan2019	nineteen	19	àzɔ̄ꜜk͡pārwūèɣì	azokparwuegi	( 20 - 1 )	FALSE	{LIG}1-{LIG}20		
 numerals-ghot1243-1-twenty-1	numerals-ghot1243-1	Chan2019	twenty	20	ūèɣì	uegi		FALSE	20		
-numerals-ghot1243-1-twentyone-1	numerals-ghot1243-1	Chan2019	twentyone	21	ūèɣìjàɔ́ꜜk͡pā	uegijaokpa	< ūèɣìjhàhíɔ̀k͡pā	FALSE	20+1		
+numerals-ghot1243-1-twentyone-1	numerals-ghot1243-1	Chan2019	twentyone	21	ūèɣìjàɔ́ꜜk͡pā	uegijaokpa	< ūèɣìjhàhíɔ̀k͡pā	FALSE	20+1		
 numerals-ghot1243-1-twentytwo-1	numerals-ghot1243-1	Chan2019	twentytwo	22	ūèɣìàéꜜvā	uegiaeva		FALSE	20+2		
 numerals-ghot1243-1-twentythree-1	numerals-ghot1243-1	Chan2019	twentythree	23	ūèɣìàéꜜēsà	uegiaeesa		FALSE	20+3		
 numerals-ghot1243-1-twentythree-2	numerals-ghot1243-1	Chan2019	twentythree	23	ūèɣìàésà	uegiaesa		FALSE	20+3		
@@ -7318,7 +7318,7 @@ numerals-gimm1241-2-sixteen-1	numerals-gimm1241-2	Chan2019	sixteen	16	kób bèŋ
 numerals-gimm1241-2-seventeen-1	numerals-gimm1241-2	Chan2019	seventeen	17	kób bèŋ nɔʔidtiɡè	kobbengnoidtige		FALSE	10+{LIG}7		
 numerals-gimm1241-2-eighteen-1	numerals-gimm1241-2	Chan2019	eighteen	18	kób bèŋ dāɡwà	kobbengdagwa		FALSE	10+{LIG}8		
 numerals-gimm1241-2-nineteen-1	numerals-gimm1241-2	Chan2019	nineteen	19	kób bèŋ nɨ́ŋ̀sɨ́nè	kobbengningsine		FALSE	10+{LIG}9		
-numerals-gimm1241-2-twenty-1	numerals-gimm1241-2	Chan2019	twenty	20	ɡbàhsɨ́ wɔnzè	gbahsiwonze	(litː ɡbàhsɨ́ = 'staff ')	FALSE	10’·2'		
+numerals-gimm1241-2-twenty-1	numerals-gimm1241-2	Chan2019	twenty	20	ɡbàhsɨ́ wɔnzè	gbahsiwonze	(litː ɡbàhsɨ́ = 'staff ')	FALSE	10’·2'		
 numerals-gimm1241-2-twentyone-1	numerals-gimm1241-2	Chan2019	twentyone	21	ɡbàhsɨ́ wɔnzè bèŋ wɔɔna	gbahsiwonzebengwoona		FALSE	(10’·2’)+{LIG}1		
 numerals-gimm1241-2-twentytwo-1	numerals-gimm1241-2	Chan2019	twentytwo	22	ɡbàhsɨ́ wɔnzè bèŋ idtiɡè	gbahsiwonzebengidtige		FALSE	(10’·2’)+{LIG}2		
 numerals-gimm1241-2-twentythree-1	numerals-gimm1241-2	Chan2019	twentythree	23	ɡbàhsɨ́ wɔnzè bèŋ taaɡè	gbahsiwonzebengtaage		FALSE	(10’·2’)+{LIG}3		
@@ -7545,7 +7545,7 @@ numerals-guaa1238-1-sixty-1	numerals-guaa1238-1	Chan2019	sixty	60	édwésĩ̀ɛ�
 numerals-guaa1238-1-seventy-1	numerals-guaa1238-1	Chan2019	seventy	70	édwésúnɔ̀	edwesuno		FALSE	10·7		
 numerals-guaa1238-1-eighty-1	numerals-guaa1238-1	Chan2019	eighty	80	édwétwí	edwetwi		FALSE	10·8		
 numerals-guaa1238-1-ninety-1	numerals-guaa1238-1	Chan2019	ninety	90	édwék͡plɔ̃́	edwekplo		FALSE	10·9		
-numerals-guaa1238-1-hundred-1	numerals-guaa1238-1	Chan2019	hundred	100	ɔ́lɔ̀fɛ́	olofe	(ákò)	FALSE	100		
+numerals-guaa1238-1-hundred-1	numerals-guaa1238-1	Chan2019	hundred	100	ɔ́lɔ̀fɛ́	olofe	(ákò)	FALSE	100		
 numerals-guaa1238-1-twohundred-1	numerals-guaa1238-1	Chan2019	twohundred	200	ɔ́lɔ̀fɛ́ nyɔ̃́	olofenyo		FALSE	100·2		
 numerals-guaa1238-1-thousand-1	numerals-guaa1238-1	Chan2019	thousand	1000	ák͡pè	akpe		FALSE	1000		
 numerals-guaa1238-1-twothousand-1	numerals-guaa1238-1	Chan2019	twothousand	2000	ḿk͡pè- nyɔ̃́	mkpenyo		FALSE	1000·2		
@@ -7627,7 +7627,7 @@ numerals-gusi1246-1-eighty-1	numerals-gusi1246-1	Chan2019	eighty	80	uvːi ɡuβ�
 numerals-gusi1246-1-ninety-1	numerals-gusi1246-1	Chan2019	ninety	90	uvːi ɡuβːaɣir nɪ ɡɷɲɛn	uvigubagirnigonen		FALSE	(20·4)+{LIG}10		
 numerals-gusi1246-1-hundred-1	numerals-gusi1246-1	Chan2019	hundred	100	etemel	etemel	( also ɛkːɛmɛ *)	FALSE	100		
 numerals-gusi1246-1-twohundred-1	numerals-gusi1246-1	Chan2019	twohundred	200	sitemel suuβa	sitemelsuuba	( also sɪkːɛmɛ suuβa )	FALSE	100·2		
-numerals-gusi1246-1-thousand-1	numerals-gusi1246-1	Chan2019	thousand	1000	euli	euli	( < Mandinka /Pulaar /jóola ? )	TRUE	1000		
+numerals-gusi1246-1-thousand-1	numerals-gusi1246-1	Chan2019	thousand	1000	euli	euli	( < Mandinka /Pulaar /jóola ? )	TRUE	1000		
 numerals-gusi1246-1-twothousand-1	numerals-gusi1246-1	Chan2019	twothousand	2000	suuli suuβa	suulisuuba		FALSE	1000·2		
 numerals-gwer1238-1-one-1	numerals-gwer1238-1	Chan2019	one	1	mòⁱzɑ́	moiza		FALSE	1		
 numerals-gwer1238-1-two-1	numerals-gwer1238-1	Chan2019	two	2	ìβíɾí	ibiri		FALSE	2		
@@ -8251,7 +8251,7 @@ numerals-ikul1238-1-eighty-1	numerals-ikul1238-1	Chan2019	eighty	80	sɔ̀kíní�
 numerals-ikul1238-1-ninety-1	numerals-ikul1238-1	Chan2019	ninety	90	sɔ̀kútɔ́ɔ̀llāá	sokutoollaa		FALSE	10·(5'·4)		
 numerals-ikul1238-1-hundred-1	numerals-ikul1238-1	Chan2019	hundred	100	tàdɛ́ɛ̄	tadee		FALSE	100		
 numerals-ikul1238-1-twohundred-1	numerals-ikul1238-1	Chan2019	twohundred	200	tàdɛ́ɛ̄ pààlá	tadeepaala		FALSE	100·2		
-numerals-ikul1238-1-thousand-1	numerals-ikul1238-1	Chan2019	thousand	1000	ɛ̄dúbú	edubu	( ɛ̄dúbú < Hausa 'dubu') (ɔ̀zɨ̄ŋ)	TRUE	1000		
+numerals-ikul1238-1-thousand-1	numerals-ikul1238-1	Chan2019	thousand	1000	ɛ̄dúbú	edubu	( ɛ̄dúbú < Hausa 'dubu') (ɔ̀zɨ̄ŋ)	TRUE	1000		
 numerals-ikul1238-1-twothousand-1	numerals-ikul1238-1	Chan2019	twothousand	2000	ɛ̄dúbú ɔ̀pāālá	edubuopaala		FALSE	1000·2		
 numerals-ikwe1242-1-one-1	numerals-ikwe1242-1	Chan2019	one	1	ótù	otu		FALSE	1		
 numerals-ikwe1242-1-two-1	numerals-ikwe1242-1	Chan2019	two	2	ɛ̀bɔ̀	ebo		FALSE	2		
@@ -8379,7 +8379,7 @@ numerals-isok1239-1-threehundred-1	numerals-isok1239-1	Chan2019	threehundred	300
 numerals-isok1239-1-fourhundred-1	numerals-isok1239-1	Chan2019	fourhundred	400	ɪ́ɡba-ɪ́ní	igbaini		FALSE	100·4		
 numerals-isok1239-1-thousand-1	numerals-isok1239-1	Chan2019	thousand	1000	odu	odu		FALSE	1000		
 numerals-isum1240-1-one-1	numerals-isum1240-1	Chan2019	one	1	mɔ̀ʔ	mo		FALSE	1		
-numerals-isum1240-1-two-1	numerals-isum1240-1	Chan2019	two	2	bèː	be	(bè)	FALSE	2		
+numerals-isum1240-1-two-1	numerals-isum1240-1	Chan2019	two	2	bèː	be	(bè)	FALSE	2		
 numerals-isum1240-1-three-1	numerals-isum1240-1	Chan2019	three	3	tsíː	tsi		FALSE	3		
 numerals-isum1240-1-four-1	numerals-isum1240-1	Chan2019	four	4	tʃàʔì	tsai		FALSE	4		
 numerals-isum1240-1-five-1	numerals-isum1240-1	Chan2019	five	5	tàː	ta		FALSE	5		
@@ -9256,7 +9256,7 @@ numerals-kara1478-1-seven-1	numerals-kara1478-1	Chan2019	seven	7	tòŋ ndɔ́k s
 numerals-kara1478-1-eight-1	numerals-kara1478-1	Chan2019	eight	8	tòŋ ndɔ́k séɗè	tongndoksede	[remains (in) hands 2]	FALSE	10-{LIG}2		
 numerals-kara1478-1-nine-1	numerals-kara1478-1	Chan2019	nine	9	tòŋ ndɔ́k mbéw	tongndokmbew	[remains (in hands 1]	FALSE	10-{LIG}1		
 numerals-kara1478-1-ten-1	numerals-kara1478-1	Chan2019	ten	10	bǒh	boh		FALSE	10		
-numerals-kara1478-1-eleven-1	numerals-kara1478-1	Chan2019	eleven	11	bǒh fàlú mbéw	bohfalumbew	(fàl=after, ú=that)	FALSE	10+{LIG}1		
+numerals-kara1478-1-eleven-1	numerals-kara1478-1	Chan2019	eleven	11	bǒh fàlú mbéw	bohfalumbew	(fàl=after, ú=that)	FALSE	10+{LIG}1		
 numerals-kara1478-1-twelve-1	numerals-kara1478-1	Chan2019	twelve	12	bǒh fàlú séɗè	bohfalusede		FALSE	10+{LIG}2		
 numerals-kara1478-1-thirteen-1	numerals-kara1478-1	Chan2019	thirteen	13	bǒh fàlú sāy	bohfalusay		FALSE	10+{LIG}3		
 numerals-kara1478-1-fourteen-1	numerals-kara1478-1	Chan2019	fourteen	14	bǒh fàlú nìŋ	bohfaluning		FALSE	10+{LIG}4		
@@ -9651,7 +9651,7 @@ numerals-kimm1246-1-eighty-1	numerals-kimm1246-1	Chan2019	eighty	80	kís wá ìz
 numerals-kimm1246-1-ninety-1	numerals-kimm1246-1	Chan2019	ninety	90	kís wá ìzíɗú	kiswaizidu	( 100 -  10 )	FALSE	100-(10·1)		
 numerals-kimm1246-1-hundred-1	numerals-kimm1246-1	Chan2019	hundred	100	kís	kis	( < Arabic )	TRUE	100		
 numerals-kimm1246-1-twohundred-1	numerals-kimm1246-1	Chan2019	twohundred	200	kə̀kìs tʃírí	kakistsiri		FALSE	100·2’		
-numerals-kimm1246-1-thousand-1	numerals-kimm1246-1	Chan2019	thousand	1000	dúbú	dubu	( dúbú from Bargimi ) (ɗú)	FALSE	1000		
+numerals-kimm1246-1-thousand-1	numerals-kimm1246-1	Chan2019	thousand	1000	dúbú	dubu	( dúbú from Bargimi ) (ɗú)	FALSE	1000		
 numerals-kimm1246-1-twothousand-1	numerals-kimm1246-1	Chan2019	twothousand	2000	dúbú zí	dubuzi		FALSE	1000·2		
 numerals-kiny1244-1-one-1	numerals-kiny1244-1	Chan2019	one	1	rimŋé	rimnge		FALSE	1		
 numerals-kiny1244-1-two-1	numerals-kiny1244-1	Chan2019	two	2	kaβiri	kabiri		FALSE	2		
@@ -9967,7 +9967,7 @@ numerals-koro1298-1-eighty-1	numerals-koro1298-1	Chan2019	eighty	80	fĩ(n)tɔɔ	
 numerals-koro1298-1-ninety-1	numerals-koro1298-1	Chan2019	ninety	90	fĩfa	fifa		FALSE	10·9		
 numerals-koro1298-1-hundred-1	numerals-koro1298-1	Chan2019	hundred	100	bɛrʊ	beru		FALSE	100		
 numerals-koro1298-1-twohundred-1	numerals-koro1298-1	Chan2019	twohundred	200	bɛrʊma hĩĩ	berumahii		FALSE	100·2		
-numerals-koro1298-1-thousand-1	numerals-koro1298-1	Chan2019	thousand	1000	tʊsrɪ	tusri	< from Mòòré	TRUE	1000		
+numerals-koro1298-1-thousand-1	numerals-koro1298-1	Chan2019	thousand	1000	tʊsrɪ	tusri	< from Mòòré	TRUE	1000		
 numerals-koro1298-1-twothousand-1	numerals-koro1298-1	Chan2019	twothousand	2000	tʊsa hĩĩ	tusahii		T&F	1000·2		
 numerals-koro1304-1-one-1	numerals-koro1304-1	Chan2019	one	1	bú-ní	buni		FALSE	1		
 numerals-koro1304-1-two-1	numerals-koro1304-1	Chan2019	two	2	búwán	buwan		FALSE	2		
@@ -10149,7 +10149,7 @@ numerals-kuke1242-1-five-1	numerals-kuke1242-1	Chan2019	five	5	kubʷɔɔk	kubwoo
 numerals-kuke1242-1-six-1	numerals-kuke1242-1	Chan2019	six	6	bʷɔlaaniŋ	bwolaaning		FALSE	6		
 numerals-kuke1242-1-seven-1	numerals-kuke1242-1	Chan2019	seven	7	inamikʲaat	inamikjaat	( 4 + 3 ?)	FALSE	4+3		
 numerals-kuke1242-1-eight-1	numerals-kuke1242-1	Chan2019	eight	8	inamina	inamina	( 4 + 4 ?)	FALSE	4+4		
-numerals-kuke1242-1-nine-1	numerals-kuke1242-1	Chan2019	nine	9	ɔsɛlɛ zɔɔp	oselezoop	( ? 10 )	FALSE	{LIG)[1]-10		
+numerals-kuke1242-1-nine-1	numerals-kuke1242-1	Chan2019	nine	9	ɔsɛlɛ zɔɔp	oselezoop	( ? 10 )	FALSE	{LIG}[1]-10		
 numerals-kuke1242-1-ten-1	numerals-kuke1242-1	Chan2019	ten	10	zɔɔp	zoop		FALSE	10		
 numerals-kuke1242-1-eleven-1	numerals-kuke1242-1	Chan2019	eleven	11	zɔɔp la vɔn	zooplavon		FALSE	10+{LIG}1		
 numerals-kuke1242-1-twelve-1	numerals-kuke1242-1	Chan2019	twelve	12	zɔɔp la ifa	zooplaifa		FALSE	10+{LIG}2		
@@ -10749,7 +10749,7 @@ numerals-kwan1276-1-sixty-1	numerals-kwan1276-1	Chan2019	sixty	60	bɨfébɨ cán
 numerals-kwan1276-1-seventy-1	numerals-kwan1276-1	Chan2019	seventy	70	bɨfébɨ cɛnfèè	bifebicenfee		FALSE	10·(5+2)		
 numerals-kwan1276-1-eighty-1	numerals-kwan1276-1	Chan2019	eighty	80	bɨfébɨ cɛtar	bifebicetar		FALSE	10·(5+3)		
 numerals-kwan1276-1-ninety-1	numerals-kwan1276-1	Chan2019	ninety	90	bɨfébɨ cɛnàà	bifebicenaa		FALSE	10·(5+4)		
-numerals-kwan1276-1-hundred-1	numerals-kwan1276-1	Chan2019	hundred	100	téméré	temere	(mán)	FALSE	100		
+numerals-kwan1276-1-hundred-1	numerals-kwan1276-1	Chan2019	hundred	100	téméré	temere	(mán)	FALSE	100		
 numerals-kwan1276-1-twohundred-1	numerals-kwan1276-1	Chan2019	twohundred	200	témére fèè	temerefee		FALSE	100·2		
 numerals-kwan1276-1-thousand-1	numerals-kwan1276-1	Chan2019	thousand	1000	booro mán	booroman	( ˈbooro' < Fulani )	TRUE	1000		
 numerals-kwan1276-1-twothousand-1	numerals-kwan1276-1	Chan2019	twothousand	2000	booro fèè	boorofee		FALSE	1000·2		
@@ -11528,7 +11528,7 @@ numerals-lima1246-1-sixteen-1	numerals-lima1246-1	Chan2019	sixteen	16	kpa bo pɛ
 numerals-lima1246-1-seventeen-1	numerals-lima1246-1	Chan2019	seventeen	17	kpa bo pɛ lɛ támbali	kpabopeletambali		FALSE	10+{LIG}7		
 numerals-lima1246-1-eighteen-1	numerals-lima1246-1	Chan2019	eighteen	18	kpa bo pɛ lɛ séna	kpabopelesena		FALSE	10+{LIG}8		
 numerals-lima1246-1-nineteen-1	numerals-lima1246-1	Chan2019	nineteen	19	kpa bo pɛ lɛ vue lɛ bàna	kpabopelevuelebana		FALSE	10+{LIG}5+{LIG}4		
-numerals-lima1246-1-twenty-1	numerals-lima1246-1	Chan2019	twenty	20	bo lɛ kòò	bolekoo	(lit. person with    entirely) (kpóde)	FALSE	20		
+numerals-lima1246-1-twenty-1	numerals-lima1246-1	Chan2019	twenty	20	bo lɛ kòò	bolekoo	(lit. person with    entirely) (kpóde)	FALSE	20		
 numerals-lima1246-1-twentyone-1	numerals-lima1246-1	Chan2019	twentyone	21	bo lɛ kòò (kpóde) lɛ kpóde	bolekookpodelekpode		FALSE	20+{LIG}1		
 numerals-lima1246-1-twentytwo-1	numerals-lima1246-1	Chan2019	twentytwo	22	bo lɛ kòò (kpóde) lɛ bíde	bolekookpodelebide		FALSE	20+{LIG}2		
 numerals-lima1246-1-twentythree-1	numerals-lima1246-1	Chan2019	twentythree	23	bo lɛ kòò (kpóde) lɛ báíde	bolekookpodelebaide		FALSE	20+{LIG}3		
@@ -12141,9 +12141,9 @@ numerals-lumb1249-1-thirty-1	numerals-lumb1249-1	Chan2019	thirty	30	màkú màt�
 numerals-lumb1249-1-forty-1	numerals-lumb1249-1	Chan2019	forty	40	màkú mánə᷆	makumana		FALSE	10·4		
 numerals-lumb1249-1-fifty-1	numerals-lumb1249-1	Chan2019	fifty	50	màkú màráːnù	makumaranu		FALSE	10·5		
 numerals-lumb1249-1-sixty-1	numerals-lumb1249-1	Chan2019	sixty	60	màkú màsámúnù	makumasamunu		FALSE	10·(5’+1)		
-numerals-lumb1249-1-seventy-1	numerals-lumb1249-1	Chan2019	seventy	70	yìsã́mbwáːlì yì mákù	yisambwaliyimaku	(mì)	FALSE	10·(5’+2)		
-numerals-lumb1249-1-eighty-1	numerals-lumb1249-1	Chan2019	eighty	80	yìnáːnə᷆ yì mákù	yinanayimaku	(mì)	FALSE	10·(5’+3)		
-numerals-lumb1249-1-ninety-1	numerals-lumb1249-1	Chan2019	ninety	90	yífù yì mákù	yifuyimaku	(mì)	FALSE	10·(5’+4)		
+numerals-lumb1249-1-seventy-1	numerals-lumb1249-1	Chan2019	seventy	70	yìsã́mbwáːlì yì mákù	yisambwaliyimaku	(mì)	FALSE	10·(5’+2)		
+numerals-lumb1249-1-eighty-1	numerals-lumb1249-1	Chan2019	eighty	80	yìnáːnə᷆ yì mákù	yinanayimaku	(mì)	FALSE	10·(5’+3)		
+numerals-lumb1249-1-ninety-1	numerals-lumb1249-1	Chan2019	ninety	90	yífù yì mákù	yifuyimaku	(mì)	FALSE	10·(5’+4)		
 numerals-lumb1249-1-hundred-1	numerals-lumb1249-1	Chan2019	hundred	100	kámə᷆	kama		FALSE	100		
 numerals-lumb1249-1-twohundred-1	numerals-lumb1249-1	Chan2019	twohundred	200	kámə᷆ wàlì	kamawali		FALSE	100·2		
 numerals-lumb1249-1-thousand-1	numerals-lumb1249-1	Chan2019	thousand	1000	tósínì	tosini	< English 'thousand'	TRUE	1000		
@@ -12365,7 +12365,7 @@ numerals-makh1262-1-sixty-1	numerals-makh1262-1	Chan2019	sixty	60	miˈlóko miˈ
 numerals-makh1262-1-seventy-1	numerals-makh1262-1	Chan2019	seventy	70	miˈlóko miˈtʰánnaˈpílɪ	milokomithannapili		FALSE	10·(5+2)		
 numerals-makh1262-1-eighty-1	numerals-makh1262-1	Chan2019	eighty	80	miˈlóko miˈtʰánnaˈtʰáːɾʊ	milokomithannatharu		FALSE	10·(5+3)		
 numerals-makh1262-1-ninety-1	numerals-makh1262-1	Chan2019	ninety	90	miˈlóko miˈtʰánnaˈsɛsɛ́	milokomithannasese		FALSE	10·(5+4)		
-numerals-makh1262-1-hundred-1	numerals-makh1262-1	Chan2019	hundred	100	eˈmijá	emija	( 'mijá ' < Swahili / Arabic )	TRUE	100		
+numerals-makh1262-1-hundred-1	numerals-makh1262-1	Chan2019	hundred	100	eˈmijá	emija	( 'mijá ' < Swahili / Arabic )	TRUE	100		
 numerals-makh1262-1-twohundred-1	numerals-makh1262-1	Chan2019	twohundred	200	ímijaˌpíli	imijapili		FALSE	100·2		
 numerals-makh1262-1-thousand-1	numerals-makh1262-1	Chan2019	thousand	1000	ɛˈkɔ́n̩tɔ	ekonto		FALSE	1000		
 numerals-makh1262-1-twothousand-1	numerals-makh1262-1	Chan2019	twothousand	2000	iˌkɔ́n̩tˈpílɪ	ikontpili		FALSE	1000·2		
@@ -12409,7 +12409,7 @@ numerals-makw1236-1-hundred-1	numerals-makw1236-1	Chan2019	hundred	100	miíja	mi
 numerals-makw1236-1-twohundred-1	numerals-makw1236-1	Chan2019	twohundred	200	mija ᵐbiíli	mijambiili		FALSE	100·2		
 numerals-makw1236-1-thousand-1	numerals-makw1236-1	Chan2019	thousand	1000	élúufu	eluufu	( < Swahili / Arabic )	TRUE	1000		
 numerals-makw1236-1-twothousand-1	numerals-makw1236-1	Chan2019	twothousand	2000	élúfu ᵐbiíli	elufumbiili		FALSE	1000·2		
-numerals-malb1235-1-one-1	numerals-malb1235-1	Chan2019	one	1	bõ-ƴén	boyen	(bomƴén)	FALSE	1		
+numerals-malb1235-1-one-1	numerals-malb1235-1	Chan2019	one	1	bõ-ƴén	boyen	(bomƴén)	FALSE	1		
 numerals-malb1235-1-two-1	numerals-malb1235-1	Chan2019	two	2	áyi	ayi		FALSE	2		
 numerals-malb1235-1-three-1	numerals-malb1235-1	Chan2019	three	3	ata	ata		FALSE	3		
 numerals-malb1235-1-four-1	numerals-malb1235-1	Chan2019	four	4	ánãan	anaan		FALSE	4		
@@ -12608,7 +12608,7 @@ numerals-mank1251-1-seventy-1	numerals-mank1251-1	Chan2019	seventy	70	iɲɛ̂ŋ 
 numerals-mank1251-1-eighty-1	numerals-mank1251-1	Chan2019	eighty	80	iɲɛ̂ŋ bakɾɛ̂ŋ	inengbakreng		FALSE	10·8		
 numerals-mank1251-1-ninety-1	numerals-mank1251-1	Chan2019	ninety	90	iɲɛ̂ŋ kaɲɛ́ŋkalɔŋ	inengkanengkalong		FALSE	10·9		
 numerals-mank1251-1-hundred-1	numerals-mank1251-1	Chan2019	hundred	100	iɲɛ̂ŋ wéèk	inengweek		FALSE	10·10’		
-numerals-mank1251-1-twohundred-1	numerals-mank1251-1	Chan2019	twohundred	200	iɲɛ̂ŋ week ŋɨ yás ŋɨtɛp	inengweekngiyasngitep		FALSE	10·10’·(LIG}2		
+numerals-mank1251-1-twohundred-1	numerals-mank1251-1	Chan2019	twohundred	200	iɲɛ̂ŋ week ŋɨ yás ŋɨtɛp	inengweekngiyasngitep		FALSE	10·10’·{LIG}2		
 numerals-mank1251-1-thousand-1	numerals-mank1251-1	Chan2019	thousand	1000	oŋkônt	ongkont		FALSE	1000		
 numerals-mank1251-1-twothousand-1	numerals-mank1251-1	Chan2019	twothousand	2000	oŋkônt ŋɨtɛp	ongkontngitep		FALSE	1000·2		
 numerals-mans1259-1-one-1	numerals-mans1259-1	Chan2019	one	1	sɔn	son		FALSE	1		
@@ -13274,8 +13274,8 @@ numerals-miyo1238-1-one-1	numerals-miyo1238-1	Chan2019	one	1	nni	nni	(-sɛ)	FALS
 numerals-miyo1238-1-two-1	numerals-miyo1238-1	Chan2019	two	2	-tɛ́	te		FALSE	2		
 numerals-miyo1238-1-three-1	numerals-miyo1238-1	Chan2019	three	3	tɑɑni	taani	(-tɑɑni)	FALSE	3		
 numerals-miyo1238-1-four-1	numerals-miyo1238-1	Chan2019	four	4	nnɑ	nna	(-nɑ)	FALSE	4		
-numerals-miyo1238-1-five-1	numerals-miyo1238-1	Chan2019	five	5	nnupũ	nnupu	(-nupũ)	FALSE	5		
-numerals-miyo1238-1-six-1	numerals-miyo1238-1	Chan2019	six	6	kouulṹ	kouulu	(-kpuulũ)	FALSE	6		
+numerals-miyo1238-1-five-1	numerals-miyo1238-1	Chan2019	five	5	nnupũ	nnupu	(-nupũ)	FALSE	5		
+numerals-miyo1238-1-six-1	numerals-miyo1238-1	Chan2019	six	6	kouulṹ	kouulu	(-kpuulũ)	FALSE	6		
 numerals-miyo1238-1-seven-1	numerals-miyo1238-1	Chan2019	seven	7	sɛ́ɛ́i	seei	(-sɛɛi)	FALSE	7		
 numerals-miyo1238-1-eight-1	numerals-miyo1238-1	Chan2019	eight	8	kɛpɑhɑ	kepaha	(-pɑhɑ)	FALSE	8		
 numerals-miyo1238-1-eight-2	numerals-miyo1238-1	Chan2019	eight	8	mɛtɛ́ ɑ́mɛ we kɛfi	meteamewekefi		FALSE	2-{LIG}10		
@@ -13517,7 +13517,7 @@ numerals-monz1249-1-sixty-1	numerals-monz1249-1	Chan2019	sixty	60	nʒò ʃítà	
 numerals-monz1249-1-seventy-1	numerals-monz1249-1	Chan2019	seventy	70	nʒò ʃíēnā	nzosiena		FALSE	10·7		
 numerals-monz1249-1-eighty-1	numerals-monz1249-1	Chan2019	eighty	80	nʒò sɛ́nā	nzosena		FALSE	10·8		
 numerals-monz1249-1-ninety-1	numerals-monz1249-1	Chan2019	ninety	90	nʒò ʔi̋vúēnā	nzoivuena		FALSE	10·9		
-numerals-monz1249-1-hundred-1	numerals-monz1249-1	Chan2019	hundred	100	mò̬kāmā	mokama	< Lingala ' mònkámá '	TRUE	100		
+numerals-monz1249-1-hundred-1	numerals-monz1249-1	Chan2019	hundred	100	mò̬kāmā	mokama	< Lingala ' mònkámá '	TRUE	100		
 numerals-moss1236-1-one-1	numerals-moss1236-1	Chan2019	one	1	yé	ye		FALSE	1		
 numerals-moss1236-1-one-2	numerals-moss1236-1	Chan2019	one	1	yémbre	yembre		FALSE	1		
 numerals-moss1236-1-two-1	numerals-moss1236-1	Chan2019	two	2	yì	yi		FALSE	2		
@@ -13790,7 +13790,7 @@ numerals-mund1328-1-eighty-1	numerals-mund1328-1	Chan2019	eighty	80	mbaŋ² jɪ�
 numerals-mund1328-1-ninety-1	numerals-mund1328-1	Chan2019	ninety	90	mbaŋ² jɪ¹kpa²ne¹	mbang2ji1kpa2ne1		FALSE	10’·9		
 numerals-mund1328-1-hundred-1	numerals-mund1328-1	Chan2019	hundred	100	ɡbi²¹ wu¹³mo³	gbi21wu13mo3		FALSE	100·1		
 numerals-mund1328-1-twohundred-1	numerals-mund1328-1	Chan2019	twohundred	200	dzi²¹ jɪ¹³ʃie³²	dzi21ji13sie32		FALSE	100·2		
-numerals-mund1328-1-thousand-1	numerals-mund1328-1	Chan2019	thousand	1000	kam²	kam2	(ki⁴mö³)	FALSE	1000		
+numerals-mund1328-1-thousand-1	numerals-mund1328-1	Chan2019	thousand	1000	kam²	kam2	(ki⁴mö³)	FALSE	1000		
 numerals-mund1328-1-twothousand-1	numerals-mund1328-1	Chan2019	twothousand	2000	kam² bi⁴fie³²	kam2bi4fie32		FALSE	1000·2		
 numerals-mung1267-1-one-1	numerals-mung1267-1	Chan2019	one	1	m⁴ba³ka⁴	m4ba3ka4		FALSE	1		
 numerals-mung1267-1-two-1	numerals-mung1267-1	Chan2019	two	2	fĩ³	fi3		FALSE	2		
@@ -13867,7 +13867,7 @@ numerals-mush1238-1-thousand-1	numerals-mush1238-1	Chan2019	thousand	1000	élfu	
 numerals-mush1238-1-twothousand-1	numerals-mush1238-1	Chan2019	twothousand	2000	elfú mbíri	elfumbiri		FALSE	1000·2		
 numerals-mwes1234-1-one-1	numerals-mwes1234-1	Chan2019	one	1	íwòtò	iwoto		FALSE	1		
 numerals-mwes1234-1-two-1	numerals-mwes1234-1	Chan2019	two	2	bíbá	biba		FALSE	2		
-numerals-mwes1234-1-three-1	numerals-mwes1234-1	Chan2019	three	3	bílál	bilal	(ù)	FALSE	3		
+numerals-mwes1234-1-three-1	numerals-mwes1234-1	Chan2019	three	3	bílál	bilal	(ù)	FALSE	3		
 numerals-mwes1234-1-four-1	numerals-mwes1234-1	Chan2019	four	4	bíná	bina		FALSE	4		
 numerals-mwes1234-1-five-1	numerals-mwes1234-1	Chan2019	five	5	bítà	bita		FALSE	5		
 numerals-mwes1234-1-six-1	numerals-mwes1234-1	Chan2019	six	6	bítánáwòtò	bitanawoto	( 5 + 1 )	FALSE	5+1		
@@ -13955,7 +13955,7 @@ numerals-naki1238-1-seventeen-1	numerals-naki1238-1	Chan2019	seventeen	17	dzónt
 numerals-naki1238-1-eighteen-1	numerals-naki1238-1	Chan2019	eighteen	18	dzóntsǔdʒàŋ	dzontsudzang		FALSE	10+8		
 numerals-naki1238-1-nineteen-1	numerals-naki1238-1	Chan2019	nineteen	19	dzóntsǔfùmádzófú	dzontsufumadzofu		FALSE	10+9		
 numerals-naki1238-1-twenty-1	numerals-naki1238-1	Chan2019	twenty	20	mùtsə́tsə̂	mutsatsa		FALSE	20		
-numerals-naki1238-1-twentyone-1	numerals-naki1238-1	Chan2019	twentyone	21	mùtsə́tsə́ntsúámū	mutsatsantsuamu	( mùtsə́tsə̂(n)tsúámū)	FALSE	20+{LIG}1		
+numerals-naki1238-1-twentyone-1	numerals-naki1238-1	Chan2019	twentyone	21	mùtsə́tsə́ntsúámū	mutsatsantsuamu	( mùtsə́tsə̂(n)tsúámū)	FALSE	20+{LIG}1		
 numerals-naki1238-1-twentytwo-1	numerals-naki1238-1	Chan2019	twentytwo	22	mùtsə́tsə́ntsùfə	mutsatsantsufa		FALSE	20+{LIG}2		
 numerals-naki1238-1-twentythree-1	numerals-naki1238-1	Chan2019	twentythree	23	mùtsə́tsə́ntsùítāt	mutsatsantsuitat		FALSE	20+{LIG}3		
 numerals-naki1238-1-twentyfour-1	numerals-naki1238-1	Chan2019	twentyfour	24	mùtsə́tsə́ntsùína᷇ː	mutsatsantsuina		FALSE	20+{LIG}4		
@@ -13971,7 +13971,7 @@ numerals-naki1238-1-sixty-1	numerals-naki1238-1	Chan2019	sixty	60	ùdzófúːsi	
 numerals-naki1238-1-seventy-1	numerals-naki1238-1	Chan2019	seventy	70	ùdzófú fùmádʒâŋ	udzofufumadzang		FALSE	10·7		
 numerals-naki1238-1-eighty-1	numerals-naki1238-1	Chan2019	eighty	80	ùdzófú dʒàŋ	udzofudzang		FALSE	10·8		
 numerals-naki1238-1-ninety-1	numerals-naki1238-1	Chan2019	ninety	90	ùdzófú fùmádzófú	udzofufumadzofu		FALSE	10·9		
-numerals-naki1238-1-hundred-1	numerals-naki1238-1	Chan2019	hundred	100	ǹsɔ̀ˠ	nsog	(ǹsɔ̀k )	FALSE	100		
+numerals-naki1238-1-hundred-1	numerals-naki1238-1	Chan2019	hundred	100	ǹsɔ̀ˠ	nsog	(ǹsɔ̀k )	FALSE	100		
 numerals-naki1238-1-twohundred-1	numerals-naki1238-1	Chan2019	twohundred	200	ǹsɔ̀ˠófə́	nsogofa		FALSE	100·2		
 numerals-naki1238-1-thousand-1	numerals-naki1238-1	Chan2019	thousand	1000	ǹtáʔ	nta		FALSE	1000		
 numerals-naki1238-1-twothousand-1	numerals-naki1238-1	Chan2019	twothousand	2000	ǹtáʔófə́	ntaofa		FALSE	1000·2		
@@ -14625,10 +14625,10 @@ numerals-ngie1242-1-eighty-1	numerals-ngie1242-1	Chan2019	eighty	80	ìwùmì fɨ
 numerals-ngie1242-1-ninety-1	numerals-ngie1242-1	Chan2019	ninety	90	ìwùmə bəw	iwumabaw		FALSE	10·9		
 numerals-ngie1242-1-hundred-1	numerals-ngie1242-1	Chan2019	hundred	100	ùkɨ	uki		FALSE	100		
 numerals-ngie1242-1-twohundred-1	numerals-ngie1242-1	Chan2019	twohundred	200	àkɨ bǐɡə	akibiga		FALSE	100·2		
-numerals-ngie1242-1-thousand-1	numerals-ngie1242-1	Chan2019	thousand	1000	tɔ̀	to	( < English 'thousand') (fìŋ)	TRUE	1000		
+numerals-ngie1242-1-thousand-1	numerals-ngie1242-1	Chan2019	thousand	1000	tɔ̀	to	( < English 'thousand') (fìŋ)	TRUE	1000		
 numerals-ngie1242-1-twothousand-1	numerals-ngie1242-1	Chan2019	twothousand	2000	tɔ̀ bǐɡə	tobiga		FALSE	1000·2		
 numerals-ngom1268-1-one-1	numerals-ngom1268-1	Chan2019	one	1	emɔtí	emoti		FALSE	1		
-numerals-ngom1268-1-two-1	numerals-ngom1268-1	Chan2019	two	2	íɓa	iba	(é)	FALSE	2		
+numerals-ngom1268-1-two-1	numerals-ngom1268-1	Chan2019	two	2	íɓa	iba	(é)	FALSE	2		
 numerals-ngom1268-1-three-1	numerals-ngom1268-1	Chan2019	three	3	ísátó	isato		FALSE	3		
 numerals-ngom1268-1-four-1	numerals-ngom1268-1	Chan2019	four	4	ínɛ(i)	inei		FALSE	4		
 numerals-ngom1268-1-five-1	numerals-ngom1268-1	Chan2019	five	5	ítáno	itano		FALSE	5		
@@ -14646,27 +14646,27 @@ numerals-ngom1268-1-sixteen-1	numerals-ngom1268-1	Chan2019	sixteen	16	ɗǒmi n(a
 numerals-ngom1268-1-seventeen-1	numerals-ngom1268-1	Chan2019	seventeen	17	ɗǒmi n(a) sambo	dominasambo		FALSE	10+{LIG}5’+2’		
 numerals-ngom1268-1-eighteen-1	numerals-ngom1268-1	Chan2019	eighteen	18	ɗǒmi n(a) ɓómwambe	dominabomwambe		FALSE	10+{LIG}8		
 numerals-ngom1268-1-nineteen-1	numerals-ngom1268-1	Chan2019	nineteen	19	ɗǒmi n(a) iɓuá	dominaibua		FALSE	10+{LIG}9		
-numerals-ngom1268-1-twenty-1	numerals-ngom1268-1	Chan2019	twenty	20	túkú (j)íɓa	tukujiba	(é)	FALSE	10’·2		
+numerals-ngom1268-1-twenty-1	numerals-ngom1268-1	Chan2019	twenty	20	túkú (j)íɓa	tukujiba	(é)	FALSE	10’·2		
 numerals-ngom1268-1-twentyone-1	numerals-ngom1268-1	Chan2019	twentyone	21	túkú (j)íɓa(é) n(a) emɔtí	tukujibaenaemoti		FALSE	(10'·2)+{LIG}1		
-numerals-ngom1268-1-twentytwo-1	numerals-ngom1268-1	Chan2019	twentytwo	22	túkú (j)íɓa(é) n(a) íɓa	tukujibaenaiba	(é)	FALSE	(10'·2)+{LIG}2		
+numerals-ngom1268-1-twentytwo-1	numerals-ngom1268-1	Chan2019	twentytwo	22	túkú (j)íɓa(é) n(a) íɓa	tukujibaenaiba	(é)	FALSE	(10'·2)+{LIG}2		
 numerals-ngom1268-1-twentythree-1	numerals-ngom1268-1	Chan2019	twentythree	23	túkú (j)íɓa(é) n(a) ísátó	tukujibaenaisato		FALSE	(10'·2)+{LIG}3		
-numerals-ngom1268-1-twentyfour-1	numerals-ngom1268-1	Chan2019	twentyfour	24	túkú	tuku	(j)íɓa(é) n(a) ínɛ(i)	FALSE	(10'·2)+{LIG}4		
+numerals-ngom1268-1-twentyfour-1	numerals-ngom1268-1	Chan2019	twentyfour	24	túkú	tuku	(j)íɓa(é) n(a) ínɛ(i)	FALSE	(10'·2)+{LIG}4		
 numerals-ngom1268-1-twentyfive-1	numerals-ngom1268-1	Chan2019	twentyfive	25	túkú (j)íɓa(é) n(a) ítáno	tukujibaenaitano		FALSE	(10'·2)+{LIG}5		
 numerals-ngom1268-1-twentysix-1	numerals-ngom1268-1	Chan2019	twentysix	26	túkú (j)íɓa(é) n(a) ísamano	tukujibaenaisamano		FALSE	(10'·2)+{LIG}5’+1’		
 numerals-ngom1268-1-twentyseven-1	numerals-ngom1268-1	Chan2019	twentyseven	27	túkú (j)íɓa(é) n(a) sambo	tukujibaenasambo		FALSE	(10'·2)+{LIG}5’+2’		
 numerals-ngom1268-1-twentyeight-1	numerals-ngom1268-1	Chan2019	twentyeight	28	túkú (j)íɓa(é) n(a) ɓómwambe	tukujibaenabomwambe		FALSE	(10'·2)+{LIG}8		
 numerals-ngom1268-1-twentynine-1	numerals-ngom1268-1	Chan2019	twentynine	29	túkú (j)íɓa(é) n(a) iɓuá	tukujibaenaibua		FALSE	(10'·2)+{LIG}9		
 numerals-ngom1268-1-thirty-1	numerals-ngom1268-1	Chan2019	thirty	30	túkú (j)ísátó	tukujisato		FALSE	10’·3		
-numerals-ngom1268-1-forty-1	numerals-ngom1268-1	Chan2019	forty	40	túkú	tuku	(j)ínɛ(i)	FALSE	10’·[4]		
+numerals-ngom1268-1-forty-1	numerals-ngom1268-1	Chan2019	forty	40	túkú	tuku	(j)ínɛ(i)	FALSE	10’·[4]		
 numerals-ngom1268-1-fifty-1	numerals-ngom1268-1	Chan2019	fifty	50	túkú (j)ítáno	tukujitano		FALSE	10’·5		
 numerals-ngom1268-1-sixty-1	numerals-ngom1268-1	Chan2019	sixty	60	túkú (j)ísamo	tukujisamo		FALSE	10’·(5’+1’)		
 numerals-ngom1268-1-seventy-1	numerals-ngom1268-1	Chan2019	seventy	70	túkú sambo	tukusambo		FALSE	10’·(5’+2’)		
 numerals-ngom1268-1-eighty-1	numerals-ngom1268-1	Chan2019	eighty	80	túkú ɓómwambe	tukubomwambe		FALSE	10’·8		
 numerals-ngom1268-1-ninety-1	numerals-ngom1268-1	Chan2019	ninety	90	túkú iɓuá	tukuibua		FALSE	10’·9		
 numerals-ngom1268-1-hundred-1	numerals-ngom1268-1	Chan2019	hundred	100	mokámá	mokama		FALSE	100		
-numerals-ngom1268-1-twohundred-1	numerals-ngom1268-1	Chan2019	twohundred	200	mikámá míɓa	mikamamiba	(é)	FALSE	100·2		
+numerals-ngom1268-1-twohundred-1	numerals-ngom1268-1	Chan2019	twohundred	200	mikámá míɓa	mikamamiba	(é)	FALSE	100·2		
 numerals-ngom1268-1-thousand-1	numerals-ngom1268-1	Chan2019	thousand	1000	kóto	koto		FALSE	1000		
-numerals-ngom1268-1-twothousand-1	numerals-ngom1268-1	Chan2019	twothousand	2000	kóto (j)íɓa	kotojiba	(é)	FALSE	1000·2		
+numerals-ngom1268-1-twothousand-1	numerals-ngom1268-1	Chan2019	twothousand	2000	kóto (j)íɓa	kotojiba	(é)	FALSE	1000·2		
 numerals-ngom1271-1-one-1	numerals-ngom1271-1	Chan2019	one	1	tá	ta		FALSE	1		
 numerals-ngom1271-1-two-1	numerals-ngom1271-1	Chan2019	two	2	pwó	pwo		FALSE	2		
 numerals-ngom1271-1-three-1	numerals-ngom1271-1	Chan2019	three	3	tárə	tara		FALSE	3		
@@ -14710,8 +14710,8 @@ numerals-ngom1271-1-twothousand-1	numerals-ngom1271-1	Chan2019	twothousand	2000	
 numerals-ngun1272-1-one-1	numerals-ngun1272-1	Chan2019	one	1	emɔ̃	emo	(-mɔ̃)	FALSE	1		
 numerals-ngun1272-1-two-1	numerals-ngun1272-1	Chan2019	two	2	bviaal	bviaal	(-aal)	FALSE	2		
 numerals-ngun1272-1-three-1	numerals-ngun1272-1	Chan2019	three	3	etyel	etyel	(-tyel)	FALSE	3		
-numerals-ngun1272-1-four-1	numerals-ngun1272-1	Chan2019	four	4	enã	ena	(-nã)	FALSE	4		
-numerals-ngun1272-1-five-1	numerals-ngun1272-1	Chan2019	five	5	etããn	etaan	(-tããn)	FALSE	5		
+numerals-ngun1272-1-four-1	numerals-ngun1272-1	Chan2019	four	4	enã	ena	(-nã)	FALSE	4		
+numerals-ngun1272-1-five-1	numerals-ngun1272-1	Chan2019	five	5	etããn	etaan	(-tããn)	FALSE	5		
 numerals-ngun1272-1-six-1	numerals-ngun1272-1	Chan2019	six	6	esɛ̃ɛ̃n	eseen	(-sɛ̃ɛ̃n)	FALSE	6		
 numerals-ngun1272-1-seven-1	numerals-ngun1272-1	Chan2019	seven	7	nsiããn	nsiaan		FALSE	7		
 numerals-ngun1272-1-eight-1	numerals-ngun1272-1	Chan2019	eight	8	mpuɔ̃	mpuo		FALSE	8		
@@ -15065,7 +15065,7 @@ numerals-noon1243-1-four-1	numerals-noon1243-1	Chan2019	four	4	nɛ᷆	ne		FALSE	
 numerals-noon1243-1-five-1	numerals-noon1243-1	Chan2019	five	5	tin	tin		FALSE	5		
 numerals-noon1243-1-six-1	numerals-noon1243-1	Chan2019	six	6	sɔɔtʃàn	sootsan	( c = [tʃ])	FALSE	5’+1		
 numerals-noon1243-1-seven-1	numerals-noon1243-1	Chan2019	seven	7	sɔɔʃwî	sooswi	( sh = [ʃ])	FALSE	5’+2’		
-numerals-noon1243-1-eight-1	numerals-noon1243-1	Chan2019	eight	8	ɲàŋ	nang	( ñ= [ɲ])	FALSE	8	4+4	
+numerals-noon1243-1-eight-1	numerals-noon1243-1	Chan2019	eight	8	ɲàŋ	nang	( ñ= [ɲ])	FALSE	8	4+4	
 numerals-noon1243-1-nine-1	numerals-noon1243-1	Chan2019	nine	9	bvùùkɛ	bvuuke		FALSE	9	5”+4’	
 numerals-noon1243-1-ten-1	numerals-noon1243-1	Chan2019	ten	10	joofè	joofe	( y = [j])	FALSE	10		
 numerals-noon1243-1-eleven-1	numerals-noon1243-1	Chan2019	eleven	11	ntʃɔ̀w mwàŋ	ntsowmwang		FALSE	10+1		
@@ -15523,7 +15523,7 @@ numerals-ntch1242-1-eighty-1	numerals-ntch1242-1	Chan2019	eighty	80	ì-mùŋ̀k�
 numerals-ntch1242-1-ninety-1	numerals-ntch1242-1	Chan2019	ninety	90	ì-mùŋ̀kú ì-nàà nì sààláá	imungkuinaanisaalaa		FALSE	(20·4)+{LIG}10		
 numerals-ntch1242-1-hundred-1	numerals-ntch1242-1	Chan2019	hundred	100	di-làátàà-l	dilaataal		FALSE	100		
 numerals-ntch1242-1-twohundred-1	numerals-ntch1242-1	Chan2019	twohundred	200	kú-làáfaa-u	kulaafaau	( from Kwa language )	FALSE	2’·100		
-numerals-ntch1242-1-thousand-1	numerals-ntch1242-1	Chan2019	thousand	1000	kùtùkú	kutuku	( '' kùtùkú-'' = '' sack " )	FALSE	1000		
+numerals-ntch1242-1-thousand-1	numerals-ntch1242-1	Chan2019	thousand	1000	kùtùkú	kutuku	( '' kùtùkú-'' = '' sack " )	FALSE	1000		
 numerals-ntch1242-1-twothousand-1	numerals-ntch1242-1	Chan2019	twothousand	2000	kùtùkú-bì bì-lí	kutukubibili		FALSE	1000·2		
 numerals-nuba1241-1-one-1	numerals-nuba1241-1	Chan2019	one	1	pòmóhò	pomoho		FALSE	1		
 numerals-nuba1241-1-two-1	numerals-nuba1241-1	Chan2019	two	2	mʷǎntʃì	mwantsi		FALSE	2		
@@ -15648,7 +15648,7 @@ numerals-nucl1379-1-twothousand-1	numerals-nucl1379-1	Chan2019	twothousand	2000	
 numerals-nucl1410-1-one-1	numerals-nucl1410-1	Chan2019	one	1	móʔ	mo	(~mʊ́ʔ)	FALSE	1		
 numerals-nucl1410-1-two-1	numerals-nucl1410-1	Chan2019	two	2	fe᷇	fe		FALSE	2		
 numerals-nucl1410-1-three-1	numerals-nucl1410-1	Chan2019	three	3	táí	tai		FALSE	3		
-numerals-nucl1410-1-four-1	numerals-nucl1410-1	Chan2019	four	4	ɪ̀kᶣà	ika	( ɪ̀kɥà )	FALSE	4		
+numerals-nucl1410-1-four-1	numerals-nucl1410-1	Chan2019	four	4	ɪ̀kᶣà	ika	( ɪ̀kɥà )	FALSE	4		
 numerals-nucl1410-1-five-1	numerals-nucl1410-1	Chan2019	five	5	ɪ̀tʲə̂n	itjan		FALSE	5		
 numerals-nucl1410-1-six-1	numerals-nucl1410-1	Chan2019	six	6	ⁿdʊ̀fú	ndufu		FALSE	6		
 numerals-nucl1410-1-seven-1	numerals-nucl1410-1	Chan2019	seven	7	èkᶣànátáí	ekanatai	( 4 and 3 ) i.e. ( 4+ 3 )	FALSE	4+{LIG}3		
@@ -16155,8 +16155,8 @@ numerals-obol1243-1-sixteen-1	numerals-obol1243-1	Chan2019	sixteen	16	àkɔ̀p̚
 numerals-obol1243-1-seventeen-1	numerals-obol1243-1	Chan2019	seventeen	17	àkɔ̀p̚ mè d͡ʒààba	akopmedzaaba		FALSE	10+{LIG}5’+2		
 numerals-obol1243-1-eighteen-1	numerals-obol1243-1	Chan2019	eighteen	18	àkɔ̀p̚ mè d͡ʒèètá	akopmedzeeta		FALSE	10+{LIG}5’+3		
 numerals-obol1243-1-nineteen-1	numerals-obol1243-1	Chan2019	nineteen	19	àkɔ̀p̚ mè ónáánɡê	akopmeonaange		FALSE	10+{LIG}({LIG}[10]-1)		
-numerals-obol1243-1-twenty-1	numerals-obol1243-1	Chan2019	twenty	20	àkɔ̀p̚ íbà	akopiba	(étîp̚)	FALSE	10·2		
-numerals-obol1243-1-twenty-1	numerals-obol1243-2	Chan2019	twenty	20	étîp̚	étîp̚		?	20		
+numerals-obol1243-1-twenty-1	numerals-obol1243-1	Chan2019	twenty	20	àkɔ̀p̚ íbà	akopiba	(étîp̚)	FALSE	10·2		
+numerals-obol1243-1-twenty-1	numerals-obol1243-2	Chan2019	twenty	20	étîp̚	étîp̚		?	20		
 numerals-obol1243-1-twentyone-1	numerals-obol1243-1	Chan2019	twentyone	21	àkɔ̀p̚ íbà mè ɡê	akopibamege		FALSE	(10·2)+{LIG}1		
 numerals-obol1243-1-twentytwo-1	numerals-obol1243-1	Chan2019	twentytwo	22	àkɔ̀p̚ íbà mè íbà	akopibameiba		FALSE	(10·2)+{LIG}2		
 numerals-obol1243-1-twentythree-1	numerals-obol1243-1	Chan2019	twentythree	23	àkɔ̀p̚ íbà mè ítá	akopibameita		FALSE	(10·2)+{LIG}3		
@@ -16583,7 +16583,7 @@ numerals-west2465-1-seven-2	numerals-west2465-1	Chan2019	seven	7	pɛ́	pe		FALSE
 numerals-west2465-1-eight-1	numerals-west2465-1	Chan2019	eight	8	tʃòrí	tsori		FALSE	8		
 numerals-west2465-1-nine-1	numerals-west2465-1	Chan2019	nine	9	nɛ̀mɛ́	neme		FALSE	9		
 numerals-west2465-1-ten-1	numerals-west2465-1	Chan2019	ten	10	fíí	fii		FALSE	10		
-numerals-west2465-1-eleven-1	numerals-west2465-1	Chan2019	eleven	11	fíí árɪ́ bálá	fiiaribala	(òró)	FALSE	10+{LIG}{CL}1		
+numerals-west2465-1-eleven-1	numerals-west2465-1	Chan2019	eleven	11	fíí árɪ́ bálá	fiiaribala	(òró)	FALSE	10+{LIG}{CL}1		
 numerals-west2465-1-twelve-1	numerals-west2465-1	Chan2019	twelve	12	fíí árɪ́ bɛ́llɛ́	fiiaribelle		FALSE	10+{LIG}{CL}2		
 numerals-west2465-1-thirteen-1	numerals-west2465-1	Chan2019	thirteen	13	fíí árɪ́ bàtòró	fiiaribatoro		FALSE	10+{LIG}{CL}3		
 numerals-west2465-1-fourteen-1	numerals-west2465-1	Chan2019	fourteen	14	fíí árɪ́ bànáá	fiiaribanaa		FALSE	10+{LIG}{CL}4		
@@ -17037,7 +17037,7 @@ numerals-yomm1242-1-sixty-1	numerals-yomm1242-1	Chan2019	sixty	60	ɡàsə̀ta	ga
 numerals-yomm1242-1-seventy-1	numerals-yomm1242-1	Chan2019	seventy	70	ɡàsə̀tan (waa)fɛ̀ɣa	gasatanwaafega		FALSE	20’·3+{LIG}10		
 numerals-yomm1242-1-eighty-1	numerals-yomm1242-1	Chan2019	eighty	80	ɡàsə̀nɛ̀ɛ̀sè	gasaneese		FALSE	20’·4		
 numerals-yomm1242-1-ninety-1	numerals-yomm1242-1	Chan2019	ninety	90	ɡàsə̀nɛ̀ɛ̀sè (waa)fɛ̀ɣa	gasaneesewaafega		FALSE	(20’·4)+{LIG}10		
-numerals-yomm1242-1-hundred-1	numerals-yomm1242-1	Chan2019	hundred	100	wʊrɣʊ̀	wurgu	pl. wʊrìi	FALSE	100		
+numerals-yomm1242-1-hundred-1	numerals-yomm1242-1	Chan2019	hundred	100	wʊrɣʊ̀	wurgu	pl. wʊrìi	FALSE	100		
 numerals-yomm1242-1-twohundred-1	numerals-yomm1242-1	Chan2019	twohundred	200	wʊrìi ìli	wuriiili		FALSE	100’·{CL}2		
 numerals-yomm1242-1-twohundred-2	numerals-yomm1242-1	Chan2019	twohundred	200	wətəri	watari		FALSE	200{?}		
 numerals-yomm1242-1-thousand-1	numerals-yomm1242-1	Chan2019	thousand	1000	wʊrɣʊ wʊrɣʊ nɔr fɛ̀ɣa	wurguwurgunorfega		FALSE	(100·100)/10		
@@ -17119,7 +17119,7 @@ numerals-yuku1243-1-sixty-1	numerals-yuku1243-1	Chan2019	sixty	60	akəm atà	aka
 numerals-yuku1243-1-seventy-1	numerals-yuku1243-1	Chan2019	seventy	70	akəm atà (é)rúŋ kùr	akamataerungkur		FALSE	(20’·3)+{LIG}10		
 numerals-yuku1243-1-eighty-1	numerals-yuku1243-1	Chan2019	eighty	80	akəm enzì	akamenzi	( 20 x 4 )	FALSE	(20’·4)+{LIG}10		
 numerals-yuku1243-1-ninety-1	numerals-yuku1243-1	Chan2019	ninety	90	akəm enzì (é)rúŋ kùr	akamenzierungkur		FALSE	20’·4)+{LIG|		
-numerals-yuku1243-1-hundred-1	numerals-yuku1243-1	Chan2019	hundred	100	dìri	diri	< Hausa ɗàɽí ??	TRUE	100		
+numerals-yuku1243-1-hundred-1	numerals-yuku1243-1	Chan2019	hundred	100	dìri	diri	< Hausa ɗàɽí ??	TRUE	100		
 numerals-zand1248-1-one-1	numerals-zand1248-1	Chan2019	one	1	sá	sa		FALSE	1		
 numerals-zand1248-1-two-1	numerals-zand1248-1	Chan2019	two	2	úé	ue		FALSE	2		
 numerals-zand1248-1-three-1	numerals-zand1248-1	Chan2019	three	3	bíátá	biata		FALSE	3		
