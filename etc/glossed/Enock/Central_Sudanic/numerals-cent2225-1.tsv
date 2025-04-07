@@ -1,0 +1,1365 @@
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-avok1242-1-one-1	numerals-avok1242-1	Chan2019	one	1	àlō	alo		FALSE	1		
+numerals-avok1242-1-two-1	numerals-avok1242-1	Chan2019	two	2	rì	ri		FALSE	2		
+numerals-avok1242-1-three-1	numerals-avok1242-1	Chan2019	three	3	nā	na		FALSE	3		
+numerals-avok1242-1-four-1	numerals-avok1242-1	Chan2019	four	4	sū	su		FALSE	4		
+numerals-avok1242-1-five-1	numerals-avok1242-1	Chan2019	five	5	njī	nji		FALSE	5		
+numerals-avok1242-1-six-1	numerals-avok1242-1	Chan2019	six	6	njī-kázíyá	njikaziya		FALSE	5+1’		
+numerals-avok1242-1-seven-1	numerals-avok1242-1	Chan2019	seven	7	njī-drì-là-rì	njidrilari	( 5 + 2 )	FALSE	5+{LIG}2		
+numerals-avok1242-1-eight-1	numerals-avok1242-1	Chan2019	eight	8	njī-drì-là-nā	njidrilana	( 5 + 3 )	FALSE	5+{LIG}3		
+numerals-avok1242-1-nine-1	numerals-avok1242-1	Chan2019	nine	9	njī-drì-là-sū	njidrilasu	( 5 + 4 )	FALSE	5+{LIG}4		
+numerals-avok1242-1-ten-1	numerals-avok1242-1	Chan2019	ten	10	mūdrí	mudri	( hands joined )	FALSE	10		
+numerals-avok1242-1-eleven-1	numerals-avok1242-1	Chan2019	eleven	11	mūdri-drì-lā-nɡā-àlō	mudridrilangaalo		FALSE	10+{LIG}1'		
+numerals-avok1242-1-twelve-1	numerals-avok1242-1	Chan2019	twelve	12	mūdri-drì-lā-nɡā-rì	mudridrilangari		FALSE	10+{LIG}2		
+numerals-avok1242-1-thirteen-1	numerals-avok1242-1	Chan2019	thirteen	13	mūdri-drì-lā-nɡā-nā	mudridrilangana		FALSE	10+{LIG}3		
+numerals-avok1242-1-fourteen-1	numerals-avok1242-1	Chan2019	fourteen	14	mūdri-drì-lā-nɡā-sū	mudridrilangasu		FALSE	10+{LIG}4		
+numerals-avok1242-1-fifteen-1	numerals-avok1242-1	Chan2019	fifteen	15	mūdri-drì-lā-nɡā-njī	mudridrilanganji		FALSE	10+{LIG}5		
+numerals-avok1242-1-sixteen-1	numerals-avok1242-1	Chan2019	sixteen	16	mūdri-drì-lā-nɡā-njī-kázíyá	mudridrilanganjikaziya		FALSE	10+{LIG}5+1'		
+numerals-avok1242-1-seventeen-1	numerals-avok1242-1	Chan2019	seventeen	17	mūdri-drì-lā-nɡā-njī-drì-là-rì	mudridrilanganjidrilari		FALSE	10+{LIG}5+{LIG}2		
+numerals-avok1242-1-eighteen-1	numerals-avok1242-1	Chan2019	eighteen	18	mūdri-drì-lā-nɡā-njī-drì-là-nā	mudridrilanganjidrilana		FALSE	10+{LIG}5+{LIG}3		
+numerals-avok1242-1-nineteen-1	numerals-avok1242-1	Chan2019	nineteen	19	mūdri-drì-lā-nɡā-njī-drì-là-sū	mudridrilanganjidrilasu		FALSE	10+{LIG}5+{LIG}4		
+numerals-avok1242-1-twenty-1	numerals-avok1242-1	Chan2019	twenty	20	nyāʔdī-trá	nyaditra		FALSE	20		
+numerals-avok1242-1-twentyone-1	numerals-avok1242-1	Chan2019	twentyone	21	nyāʔdī-trá-drì-lā-nɡā-àlō	nyaditradrilangaalo		FALSE	20+{LIG}1		
+numerals-avok1242-1-twentytwo-1	numerals-avok1242-1	Chan2019	twentytwo	22	nyāʔdī-trá-drì-lā-nɡā-rì	nyaditradrilangari		FALSE	20+{LIG}2		
+numerals-avok1242-1-twentythree-1	numerals-avok1242-1	Chan2019	twentythree	23	nyāʔdī-trá-drì-lā-nɡā-nā	nyaditradrilangana		FALSE	20+{LIG}3		
+numerals-avok1242-1-twentyfour-1	numerals-avok1242-1	Chan2019	twentyfour	24	nyāʔdī-trá-drì-lā-nɡā-sū	nyaditradrilangasu		FALSE	20+{LIG}4		
+numerals-avok1242-1-twentyfive-1	numerals-avok1242-1	Chan2019	twentyfive	25	nyāʔdī-trá-drì-lā-nɡā-njī	nyaditradrilanganji		FALSE	20+{LIG}5		
+numerals-avok1242-1-twentysix-1	numerals-avok1242-1	Chan2019	twentysix	26	nyāʔdī-trá-drì-lā-nɡā-njī-kázíyá	nyaditradrilanganjikaziya		FALSE	20+{LIG}5+1'		
+numerals-avok1242-1-twentyseven-1	numerals-avok1242-1	Chan2019	twentyseven	27	nyāʔdī-trá-drì-lā-nɡā-njī-drì-là-rì	nyaditradrilanganjidrilari		FALSE	20+{LIG}5+2		
+numerals-avok1242-1-twentyeight-1	numerals-avok1242-1	Chan2019	twentyeight	28	nyāʔdī-trá-drì-lā-nɡā-njī-drì-là-nā	nyaditradrilanganjidrilana		FALSE	20+{LIG}5+3		
+numerals-avok1242-1-twentynine-1	numerals-avok1242-1	Chan2019	twentynine	29	nyāʔdī-trá-drì-lā-nɡā-njī-drì-là-sū	nyaditradrilanganjidrilasu		FALSE	20+{LIG}5+4		
+numerals-avok1242-1-thirty-1	numerals-avok1242-1	Chan2019	thirty	30	nyāʔdī-trá-drì-lā-nɡā-mūdri	nyaditradrilangamudri		FALSE	20+{LIG}10		
+numerals-avok1242-1-forty-1	numerals-avok1242-1	Chan2019	forty	40	nyāʔdī-rì	nyadiri	( 20 x 2 )	FALSE	20·2		
+numerals-avok1242-1-fifty-1	numerals-avok1242-1	Chan2019	fifty	50	nyāʔdī-rì-drì-lā-nɡā-mūdri	nyadiridrilangamudri		FALSE	(20·2)+{LIG’}10		
+numerals-avok1242-1-sixty-1	numerals-avok1242-1	Chan2019	sixty	60	nyāʔdī-nā	nyadina	( 20 x 3 )	FALSE	20·3		
+numerals-avok1242-1-seventy-1	numerals-avok1242-1	Chan2019	seventy	70	nyāʔdī-nā-drì-lā-nɡā-mūdri	nyadinadrilangamudri		FALSE	(20·3)+{LIG'}10		
+numerals-avok1242-1-eighty-1	numerals-avok1242-1	Chan2019	eighty	80	nyāʔdī-sū	nyadisu	( 20 x 4 )	FALSE	20·4		
+numerals-avok1242-1-ninety-1	numerals-avok1242-1	Chan2019	ninety	90	nyāʔdī-su-drì-lā-nɡā-mūdri	nyadisudrilangamudri		FALSE	(20·4)+{LIG'}10		
+numerals-avok1242-1-hundred-1	numerals-avok1242-1	Chan2019	hundred	100	kámá-àlō	kamaalo		FALSE	100·1		
+numerals-avok1242-1-twohundred-1	numerals-avok1242-1	Chan2019	twohundred	200	kámá-rì	kamari		FALSE	100·2		
+numerals-avok1242-1-thousand-1	numerals-avok1242-1	Chan2019	thousand	1000	kútù-àlō	kutualo		FALSE	1000·1		
+numerals-avok1242-1-twothousand-1	numerals-avok1242-1	Chan2019	twothousand	2000	kútù-rì	kuturi		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-bagi1246-1-one-1	numerals-bagi1246-1	Chan2019	one	1	kɛ́ɗɛ̀	kede		FALSE	1		
+numerals-bagi1246-1-two-1	numerals-bagi1246-1	Chan2019	two	2	sapi	sapi		FALSE	2		
+numerals-bagi1246-1-three-1	numerals-bagi1246-1	Chan2019	three	3	mtá	mta		FALSE	3		
+numerals-bagi1246-1-four-1	numerals-bagi1246-1	Chan2019	four	4	só	so		FALSE	4		
+numerals-bagi1246-1-five-1	numerals-bagi1246-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-bagi1246-1-six-1	numerals-bagi1246-1	Chan2019	six	6	mìká	mika		FALSE	5+1’		
+numerals-bagi1246-1-seven-1	numerals-bagi1246-1	Chan2019	seven	7	tʃílí	tsili		FALSE	7		
+numerals-bagi1246-1-eight-1	numerals-bagi1246-1	Chan2019	eight	8	marta	marta		FALSE	5’+2		
+numerals-bagi1246-1-nine-1	numerals-bagi1246-1	Chan2019	nine	9	doso	doso		FALSE	9		
+numerals-bagi1246-1-ten-1	numerals-bagi1246-1	Chan2019	ten	10	dòk kemɛ́	dokkeme		FALSE	10		
+numerals-bagi1246-1-eleven-1	numerals-bagi1246-1	Chan2019	eleven	11	dòk kemɛ́ kàr kɛ́ɗɛ̀	dokkemekarkede		FALSE	10+{LIG}1		
+numerals-bagi1246-1-twelve-1	numerals-bagi1246-1	Chan2019	twelve	12	dòk kemɛ́ kàr sap	dokkemekarsap		FALSE	10+{LIG}2		
+numerals-bagi1246-1-thirteen-1	numerals-bagi1246-1	Chan2019	thirteen	13	dòk kemɛ́ kàr mtá	dokkemekarmta		FALSE	10+{LIG}3		
+numerals-bagi1246-1-fourteen-1	numerals-bagi1246-1	Chan2019	fourteen	14	dòk kemɛ́ kàr só	dokkemekarso		FALSE	10+{LIG}4		
+numerals-bagi1246-1-fifteen-1	numerals-bagi1246-1	Chan2019	fifteen	15	dòk kemɛ́ kàr mí	dokkemekarmi		FALSE	10+{LIG}5		
+numerals-bagi1246-1-sixteen-1	numerals-bagi1246-1	Chan2019	sixteen	16	dòk kemɛ́ kàr mìká	dokkemekarmika		FALSE	10+{LIG}5+1'		
+numerals-bagi1246-1-seventeen-1	numerals-bagi1246-1	Chan2019	seventeen	17	dòk kemɛ́ kàr tʃí̄lí	dokkemekartsili		FALSE	10+{LIG}7		
+numerals-bagi1246-1-eighteen-1	numerals-bagi1246-1	Chan2019	eighteen	18	dòk kemɛ́ kàr marta	dokkemekarmarta		FALSE	10+{LIG}5'+2		
+numerals-bagi1246-1-nineteen-1	numerals-bagi1246-1	Chan2019	nineteen	19	dòk kemɛ́ kàr doso	dokkemekardoso		FALSE	10+{LIG}9		
+numerals-bagi1246-1-twenty-1	numerals-bagi1246-1	Chan2019	twenty	20	dùɡ sap	dugsap		FALSE	10·2		
+numerals-bagi1246-1-twentyone-1	numerals-bagi1246-1	Chan2019	twentyone	21	dùɡ sap kàr kɛ́ɗɛ̀	dugsapkarkede		FALSE	(10·2)+{LIG}1		
+numerals-bagi1246-1-twentytwo-1	numerals-bagi1246-1	Chan2019	twentytwo	22	dùɡ sap kàr sap	dugsapkarsap		FALSE	(10·2)+{LIG}2		
+numerals-bagi1246-1-twentythree-1	numerals-bagi1246-1	Chan2019	twentythree	23	dùɡ sap kàr mtá	dugsapkarmta		FALSE	(10·2)+{LIG}3		
+numerals-bagi1246-1-twentyfour-1	numerals-bagi1246-1	Chan2019	twentyfour	24	dùɡ sap kàr só	dugsapkarso		FALSE	(10·2)+{LIG}4		
+numerals-bagi1246-1-twentyfive-1	numerals-bagi1246-1	Chan2019	twentyfive	25	dùɡ sap kàr mí	dugsapkarmi		FALSE	(10·2)+{LIG}5		
+numerals-bagi1246-1-twentysix-1	numerals-bagi1246-1	Chan2019	twentysix	26	dùɡ sap kàr mìká	dugsapkarmika		FALSE	(10·2)+{LIG}5+1'		
+numerals-bagi1246-1-twentyseven-1	numerals-bagi1246-1	Chan2019	twentyseven	27	dùɡ sap kàr tʃílí	dugsapkartsili		FALSE	(10·2)+{LIG}7		
+numerals-bagi1246-1-twentyeight-1	numerals-bagi1246-1	Chan2019	twentyeight	28	dùɡ sap kàr marta	dugsapkarmarta		FALSE	(10·2)+{LIG}5’+2		
+numerals-bagi1246-1-twentynine-1	numerals-bagi1246-1	Chan2019	twentynine	29	dùɡ sap kàr doso	dugsapkardoso		FALSE	(10·2)+{LIG}9		
+numerals-bagi1246-1-thirty-1	numerals-bagi1246-1	Chan2019	thirty	30	dùɡ mtá	dugmta		FALSE	10·3		
+numerals-bagi1246-1-forty-1	numerals-bagi1246-1	Chan2019	forty	40	dùɡ só	dugso		FALSE	10·4		
+numerals-bagi1246-1-fifty-1	numerals-bagi1246-1	Chan2019	fifty	50	dùɡ mí	dugmi		FALSE	10·5		
+numerals-bagi1246-1-sixty-1	numerals-bagi1246-1	Chan2019	sixty	60	dùɡ mìká	dugmika		FALSE	10·5+1'		
+numerals-bagi1246-1-seventy-1	numerals-bagi1246-1	Chan2019	seventy	70	dùɡ tʃí̄lí	dugtsili		FALSE	10·7		
+numerals-bagi1246-1-eighty-1	numerals-bagi1246-1	Chan2019	eighty	80	dùɡ marta	dugmarta		FALSE	10·(5’+3)		
+numerals-bagi1246-1-ninety-1	numerals-bagi1246-1	Chan2019	ninety	90	dùɡ doso	dugdoso		FALSE	10·(5'+4)		
+numerals-bagi1246-1-hundred-1	numerals-bagi1246-1	Chan2019	hundred	100	àrú	aru		FALSE	100		
+numerals-bagi1246-1-twohundred-1	numerals-bagi1246-1	Chan2019	twohundred	200	àrú sap	arusap		FALSE	100·2		
+numerals-bagi1246-1-thousand-1	numerals-bagi1246-1	Chan2019	thousand	1000	dubú	dubu	< Hausa	TRUE	1000		
+numerals-bagi1246-1-twothousand-1	numerals-bagi1246-1	Chan2019	twothousand	2000	dubú sap	dubusap		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-baka1274-1-one-1	numerals-baka1274-1	Chan2019	one	1	ké̘ɗò	kedo		FALSE	1		
+numerals-baka1274-1-two-1	numerals-baka1274-1	Chan2019	two	2	ɡ͡bʀ͡ʙɛ̀	gbrbe		FALSE	2		
+numerals-baka1274-1-three-1	numerals-baka1274-1	Chan2019	three	3	ɔ̀tà	ota		FALSE	3		
+numerals-baka1274-1-four-1	numerals-baka1274-1	Chan2019	four	4	ɛ̀sɔ̀	eso		FALSE	4		
+numerals-baka1274-1-five-1	numerals-baka1274-1	Chan2019	five	5	ìɲì	ini		FALSE	5		
+numerals-baka1274-1-six-1	numerals-baka1274-1	Chan2019	six	6	ìɲidɔ̀à kéɽí	inidoakeri	( 5, on it 1 )	FALSE	5+{LIG}1'		
+numerals-baka1274-1-seven-1	numerals-baka1274-1	Chan2019	seven	7	ìɲidɔ̀à ɡ͡bʀ͡ʙɛ̀	inidoagbrbe	( 5, on it 2 )	FALSE	5+{LIG}2		
+numerals-baka1274-1-eight-1	numerals-baka1274-1	Chan2019	eight	8	ìɲidɔ̀à ɔ̀tà	inidoaota	( 5, on it 3 )	FALSE	5+{LIG}3		
+numerals-baka1274-1-nine-1	numerals-baka1274-1	Chan2019	nine	9	ìɲidɔ̀à ɛ̀sɔ̀	inidoaeso	( 5, on it 4 )	FALSE	5+{LIG}4		
+numerals-baka1274-1-ten-1	numerals-baka1274-1	Chan2019	ten	10	sɔ̀kɔ́	soko		FALSE	10		
+numerals-baka1274-1-eleven-1	numerals-baka1274-1	Chan2019	eleven	11	sɔ̀kɔ́ dɔ̀à kéɽí	sokodoakeri		FALSE	10+{LIG}1'		
+numerals-baka1274-1-twelve-1	numerals-baka1274-1	Chan2019	twelve	12	sɔ̀kɔ́ dɔ̀à ɡ͡bʀ͡ʙɛ̀	sokodoagbrbe		FALSE	10+{LIG}2		
+numerals-baka1274-1-thirteen-1	numerals-baka1274-1	Chan2019	thirteen	13	sɔ̀kɔ́ dɔ̀à ɔ̀tà	sokodoaota		FALSE	10+{LIG}3		
+numerals-baka1274-1-fourteen-1	numerals-baka1274-1	Chan2019	fourteen	14	sɔ̀kɔ́ dɔ̀à ɛ̀sɔ̀	sokodoaeso		FALSE	10+{LIG}4		
+numerals-baka1274-1-fifteen-1	numerals-baka1274-1	Chan2019	fifteen	15	sɔ̀kɔ́ dɔ̀à ìɲi	sokodoaini		FALSE	10+{LIG}5		
+numerals-baka1274-1-sixteen-1	numerals-baka1274-1	Chan2019	sixteen	16	sɔ̀kɔ́ dɔ̀à ìɲidɔ̀à kéɽí	sokodoainidoakeri		FALSE	10		
+numerals-baka1274-1-seventeen-1	numerals-baka1274-1	Chan2019	seventeen	17	sɔ̀kɔ́ dɔ̀à ìɲidɔ̀à ɡ͡bʀ͡ʙɛ̀	sokodoainidoagbrbe		FALSE	10+{LIG}1		
+numerals-baka1274-1-eighteen-1	numerals-baka1274-1	Chan2019	eighteen	18	sɔ̀kɔ́ dɔ̀à ìɲidɔ̀à ɔ̀tà	sokodoainidoaota		FALSE	10+{LIG}2		
+numerals-baka1274-1-nineteen-1	numerals-baka1274-1	Chan2019	nineteen	19	sɔ̀kɔ́ dɔ̀à ìɲidɔ̀à ɛ̀sɔ̀	sokodoainidoaeso		FALSE	10+{LIG}3		
+numerals-baka1274-1-twenty-1	numerals-baka1274-1	Chan2019	twenty	20	cí kéɽíà	cikeria		FALSE	10·2		
+numerals-baka1274-1-twentyone-1	numerals-baka1274-1	Chan2019	twentyone	21	cí kéɽíà dɔ̀à kéɽí	cikeriadoakeri		FALSE	(10·2)+{LIG}1		
+numerals-baka1274-1-twentytwo-1	numerals-baka1274-1	Chan2019	twentytwo	22	cí kéɽíà dɔ̀à ɡ͡bʀ͡ʙɛ̀	cikeriadoagbrbe		FALSE	(10·2)+{LIG}2		
+numerals-baka1274-1-twentythree-1	numerals-baka1274-1	Chan2019	twentythree	23	cí kéɽíà dɔ̀à ɔ̀tà	cikeriadoaota		FALSE	(10·2)+{LIG}3		
+numerals-baka1274-1-twentyfour-1	numerals-baka1274-1	Chan2019	twentyfour	24	cí kéɽíà dɔ̀à ɛ̀sɔ̀	cikeriadoaeso		FALSE	(10·2)+{LIG}4		
+numerals-baka1274-1-twentyfive-1	numerals-baka1274-1	Chan2019	twentyfive	25	cí kéɽíà dɔ̀à ìɲi	cikeriadoaini		FALSE	(10·2)+{LIG}5		
+numerals-baka1274-1-twentysix-1	numerals-baka1274-1	Chan2019	twentysix	26	cí kéɽíà dɔ̀à ìɲi dɔ̀à kéɽí	cikeriadoainidoakeri		FALSE	(10·2)+{LIG}5+{LIG}1		
+numerals-baka1274-1-twentyseven-1	numerals-baka1274-1	Chan2019	twentyseven	27	cí kéɽíà dɔ̀à ìɲi dɔ̀à ɡ͡bʀ͡ʙɛ̀	cikeriadoainidoagbrbe		FALSE	(10·2)+{LIG}5+{LIG}2		
+numerals-baka1274-1-twentyeight-1	numerals-baka1274-1	Chan2019	twentyeight	28	cí kéɽíà dɔ̀à ìɲi dɔ̀à ɔ̀tà	cikeriadoainidoaota		FALSE	(10·2)+{LIG}5+{LIG}3		
+numerals-baka1274-1-twentynine-1	numerals-baka1274-1	Chan2019	twentynine	29	cí kéɽíà dɔ̀à ìɲi dɔ̀à ɛ̀sɔ̀	cikeriadoainidoaeso		FALSE	(10·2)+{LIG}5+{LIG}4		
+numerals-baka1274-1-thirty-1	numerals-baka1274-1	Chan2019	thirty	30	cí kéɽíà dɔ̀à sɔ̀kɔ́	cikeriadoasoko	( 20+10 )	FALSE	20+{LIG}10		
+numerals-baka1274-1-forty-1	numerals-baka1274-1	Chan2019	forty	40	cí ɛ̀ ɡ͡bʀ͡ʙɛ̀	ciegbrbe	( 20 x 2 )	FALSE	20·2		
+numerals-baka1274-1-fifty-1	numerals-baka1274-1	Chan2019	fifty	50	cí ɛ̀ ɡ͡bʀ͡ʙɛ̀ dɔ̀à sɔ̀kɔ́	ciegbrbedoasoko		FALSE	(20·2)+{LIG}10		
+numerals-baka1274-1-sixty-1	numerals-baka1274-1	Chan2019	sixty	60	cí ɛ̀ ɔ̀tà	cieota	( 20 x 3 )	FALSE	20·3		
+numerals-baka1274-1-seventy-1	numerals-baka1274-1	Chan2019	seventy	70	cí ɛ̀ ɔ̀tà dɔ̀à sɔ̀kɔ́	cieotadoasoko		FALSE	(20·3)+{LIG}10		
+numerals-baka1274-1-eighty-1	numerals-baka1274-1	Chan2019	eighty	80	cí ɛ̀ ɛ̀sɔ̀	cieeso	( 20 x 4 )	FALSE	20·4		
+numerals-baka1274-1-ninety-1	numerals-baka1274-1	Chan2019	ninety	90	cí ɛ̀ ɛ̀sɔ̀ dɔ̀à sɔ̀kɔ́	cieesodoasoko		FALSE	(20·4)+{LIG}10		
+numerals-baka1274-1-hundred-1	numerals-baka1274-1	Chan2019	hundred	100	cí ɛ̀ ɛ̀sɔ̀	cieeso	( 20 x 5 )	FALSE	20·5		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-bedj1245-1-one-1	numerals-bedj1245-1	Chan2019	one	1	káre	kare		FALSE	1		
+numerals-bedj1245-1-two-1	numerals-bedj1245-1	Chan2019	two	2	ɟó	jo		FALSE	2		
+numerals-bedj1245-1-three-1	numerals-bedj1245-1	Chan2019	three	3	mɨ̀té	mite		FALSE	3		
+numerals-bedj1245-1-four-1	numerals-bedj1245-1	Chan2019	four	4	sɔ́ː	so		FALSE	4		
+numerals-bedj1245-1-five-1	numerals-bedj1245-1	Chan2019	five	5	mḭ́ː	mi		FALSE	5		
+numerals-bedj1245-1-six-1	numerals-bedj1245-1	Chan2019	six	6	mɛ̰hɛ	mehe		FALSE	6		
+numerals-bedj1245-1-seven-1	numerals-bedj1245-1	Chan2019	seven	7	sɨrí	siri		FALSE	7		
+numerals-bedj1245-1-eight-1	numerals-bedj1245-1	Chan2019	eight	8	ɟiɟó	jijo	( 10 -2)	FALSE	10’-2		
+numerals-bedj1245-1-nine-1	numerals-bedj1245-1	Chan2019	nine	9	ɟikáre	jikare	( 10 -1 )	FALSE	10’-1		
+numerals-bedj1245-1-ten-1	numerals-bedj1245-1	Chan2019	ten	10	dɔ̀ɡɨ	dogi		FALSE	10		
+numerals-bedj1245-1-eleven-1	numerals-bedj1245-1	Chan2019	eleven	11	dɔ̀ɡɨ̀ɡɨ̀dé káre	dogigidekare		FALSE	10+{LIG}1		
+numerals-bedj1245-1-twelve-1	numerals-bedj1245-1	Chan2019	twelve	12	dɔ̀ɡɨ̀ɡɨ̀dé ɟó	dogigidejo		FALSE	10+{LIG}2		
+numerals-bedj1245-1-thirteen-1	numerals-bedj1245-1	Chan2019	thirteen	13	dɔ̀ɡɨ̀ɡɨ̀dé mɨ̀té	dogigidemite		FALSE	10+{LIG}3		
+numerals-bedj1245-1-fourteen-1	numerals-bedj1245-1	Chan2019	fourteen	14	dɔ̀ɡɨ̀ɡɨ̀dé sɔ́ː	dogigideso		FALSE	10+{LIG}4		
+numerals-bedj1245-1-fifteen-1	numerals-bedj1245-1	Chan2019	fifteen	15	dɔ̀ɡɨ̀ɡɨ̀dé mḭ́ː	dogigidemi		FALSE	10+{LIG}5		
+numerals-bedj1245-1-sixteen-1	numerals-bedj1245-1	Chan2019	sixteen	16	dɔ̀ɡɨ̀ɡɨ̀dé mɛ̰hɛ	dogigidemehe		FALSE	10+{LIG}6		
+numerals-bedj1245-1-seventeen-1	numerals-bedj1245-1	Chan2019	seventeen	17	dɔ̀ɡɨ̀ɡɨ̀dé sɨrí	dogigidesiri		FALSE	10+{LIG}7		
+numerals-bedj1245-1-eighteen-1	numerals-bedj1245-1	Chan2019	eighteen	18	dɔ̀ɡɨ̀ɡɨ̀dé ɟiɟó	dogigidejijo		FALSE	10+{LIG}10’-2		
+numerals-bedj1245-1-nineteen-1	numerals-bedj1245-1	Chan2019	nineteen	19	dɔ̀ɡɨ̀ɡɨ̀dé ɟikáre	dogigidejikare		FALSE	10+{LIG}10’-1		
+numerals-bedj1245-1-twenty-1	numerals-bedj1245-1	Chan2019	twenty	20	dɔ̀ɟó	dojo		FALSE	10·2		
+numerals-bedj1245-1-twentyone-1	numerals-bedj1245-1	Chan2019	twentyone	21	dɔ̀ɟó ɡɨ̀dé káre	dojogidekare		FALSE	(10·2)+{LIG}1		
+numerals-bedj1245-1-twentytwo-1	numerals-bedj1245-1	Chan2019	twentytwo	22	dɔ̀ɟó ɡɨ̀dé ɟó	dojogidejo		FALSE	(10·2)+{LIG}2		
+numerals-bedj1245-1-twentythree-1	numerals-bedj1245-1	Chan2019	twentythree	23	dɔ̀ɟó ɡɨ̀dé mɨ̀té	dojogidemite		FALSE	(10·2)+{LIG}3		
+numerals-bedj1245-1-twentyfour-1	numerals-bedj1245-1	Chan2019	twentyfour	24	dɔ̀ɟó ɡɨ̀dé sɔ́ː	dojogideso		FALSE	(10·2)+{LIG}4		
+numerals-bedj1245-1-twentyfive-1	numerals-bedj1245-1	Chan2019	twentyfive	25	dɔ̀ɟó ɡɨ̀dé mḭ́ː	dojogidemi		FALSE	(10·2)+{LIG}5		
+numerals-bedj1245-1-twentysix-1	numerals-bedj1245-1	Chan2019	twentysix	26	dɔ̀ɟó ɡɨ̀dé mɛ̰hɛ	dojogidemehe		FALSE	(10·2)+{LIG}6		
+numerals-bedj1245-1-twentyseven-1	numerals-bedj1245-1	Chan2019	twentyseven	27	dɔ̀ɟó ɡɨ̀dé sɨrí	dojogidesiri		FALSE	(10·2)+{LIG}7		
+numerals-bedj1245-1-twentyeight-1	numerals-bedj1245-1	Chan2019	twentyeight	28	dɔ̀ɟó ɡɨ̀dé ɟiɟó	dojogidejijo		FALSE	(10·2)+{LIG}10’-2		
+numerals-bedj1245-1-twentynine-1	numerals-bedj1245-1	Chan2019	twentynine	29	dɔ̀ɟó ɡɨ̀dé ɟikáre	dojogidejikare		FALSE	(10·2)+{LIG}10’-1		
+numerals-bedj1245-1-thirty-1	numerals-bedj1245-1	Chan2019	thirty	30	dɔ̀mɨté	domite		FALSE	10·3		
+numerals-bedj1245-1-forty-1	numerals-bedj1245-1	Chan2019	forty	40	dɔ̀sɔ́	doso		FALSE	10·4		
+numerals-bedj1245-1-fifty-1	numerals-bedj1245-1	Chan2019	fifty	50	dɔ̀mḭ́	domi		FALSE	10·5		
+numerals-bedj1245-1-sixty-1	numerals-bedj1245-1	Chan2019	sixty	60	dɔ̀mɛ̰hɛ	domehe		FALSE	10·6		
+numerals-bedj1245-1-seventy-1	numerals-bedj1245-1	Chan2019	seventy	70	dɔ̀sɨrí	dosiri		FALSE	10·7		
+numerals-bedj1245-1-eighty-1	numerals-bedj1245-1	Chan2019	eighty	80	dɔ̀ɟiɟó	dojijo		FALSE	10·8		
+numerals-bedj1245-1-ninety-1	numerals-bedj1245-1	Chan2019	ninety	90	dɔ̀ɟikáre	dojikare		FALSE	10·9		
+numerals-bedj1245-1-hundred-1	numerals-bedj1245-1	Chan2019	hundred	100	ɓuː́	bu		FALSE	100		
+numerals-bedj1245-1-twohundred-1	numerals-bedj1245-1	Chan2019	twohundred	200	ɓúɟo	bujo		FALSE	100·2		
+numerals-bedj1245-1-thousand-1	numerals-bedj1245-1	Chan2019	thousand	1000	sàkɨ kárē	sakikare	( sàkɨ < French)	TRUE	1000·1		
+numerals-bedj1245-1-twothousand-1	numerals-bedj1245-1	Chan2019	twothousand	2000	sàkɨ ɟó	sakijo		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-bong1285-1-one-1	numerals-bong1285-1	Chan2019	one	1	kɔ̀tʊ́	kotu		FALSE	1		
+numerals-bong1285-1-two-1	numerals-bong1285-1	Chan2019	two	2	ŋɡɔ̀r	nggor		FALSE	2		
+numerals-bong1285-1-three-1	numerals-bong1285-1	Chan2019	three	3	mʊ̀tːà	muta		FALSE	3		
+numerals-bong1285-1-four-1	numerals-bong1285-1	Chan2019	four	4	ʔɛ́w	ew		FALSE	4		
+numerals-bong1285-1-five-1	numerals-bong1285-1	Chan2019	five	5	múì	mui		FALSE	5		
+numerals-bong1285-1-six-1	numerals-bong1285-1	Chan2019	six	6	dɔ̀kɔtʊ́	dokotu	( 5 + 1 )	FALSE	5'+1		
+numerals-bong1285-1-seven-1	numerals-bong1285-1	Chan2019	seven	7	dɔ́ŋɡɔr	donggor	( 5 + 2 )	FALSE	5'+2		
+numerals-bong1285-1-eight-1	numerals-bong1285-1	Chan2019	eight	8	dɔ̀mʊ́tːà	domuta	( 5 + 3 )	FALSE	5'+3		
+numerals-bong1285-1-nine-1	numerals-bong1285-1	Chan2019	nine	9	dɔ̀mʔɛ́w	domew	( 5 + 4 )	FALSE	5'+4		
+numerals-bong1285-1-ten-1	numerals-bong1285-1	Chan2019	ten	10	kɪ̀ː	ki		FALSE	10		
+numerals-bong1285-1-eleven-1	numerals-bong1285-1	Chan2019	eleven	11	kɪː̀ (dɔ̀ː) kɔ̀tʊ́	kidokotu		FALSE	10+{LIG}1		
+numerals-bong1285-1-twelve-1	numerals-bong1285-1	Chan2019	twelve	12	kɪː̀ (dɔ̀ː) ŋɡɔ̀r	kidonggor		FALSE	10+{LIG}2		
+numerals-bong1285-1-thirteen-1	numerals-bong1285-1	Chan2019	thirteen	13	kɪː̀ (dɔ̀ː) mʊ̀tːà	kidomuta		FALSE	10+{LIG}3		
+numerals-bong1285-1-fourteen-1	numerals-bong1285-1	Chan2019	fourteen	14	kɪː̀ (dɔ̀ː) ʔɛ́w	kidoew		FALSE	10+{LIG}4		
+numerals-bong1285-1-fifteen-1	numerals-bong1285-1	Chan2019	fifteen	15	kɪː̀ (dɔ̀ː) múì	kidomui		FALSE	10+{LIG}5		
+numerals-bong1285-1-sixteen-1	numerals-bong1285-1	Chan2019	sixteen	16	kɪː̀ (dɔ̀ː) dɔ̀kɔtʊ́	kidodokotu		FALSE	10+{LIG}5+{LIG}1		
+numerals-bong1285-1-seventeen-1	numerals-bong1285-1	Chan2019	seventeen	17	kɪː̀ (dɔ̀ː) dɔ́ŋɡɔr	kidodonggor		FALSE	10+{LIG}5+{LIG}2		
+numerals-bong1285-1-eighteen-1	numerals-bong1285-1	Chan2019	eighteen	18	kɪː̀ (dɔ̀ː) dɔ̀mʊ́tːà	kidodomuta		FALSE	10+{LIG}5+{LIG}3		
+numerals-bong1285-1-nineteen-1	numerals-bong1285-1	Chan2019	nineteen	19	kɪː̀ (dɔ̀ː) dɔ̀mʔɛ́w	kidodomew		FALSE	10+{LIG}5+{LIG}4		
+numerals-bong1285-1-twenty-1	numerals-bong1285-1	Chan2019	twenty	20	mbàba kɔ̀tʊ́	mbabakotu		FALSE	20·1		
+numerals-bong1285-1-twentyone-1	numerals-bong1285-1	Chan2019	twentyone	21	mbàba kɔ̀tʊ́ dɔ̀ː kɔ̀tʊ́	mbabakotudokotu		FALSE	(20·1(+{LIG}1		
+numerals-bong1285-1-twentytwo-1	numerals-bong1285-1	Chan2019	twentytwo	22	mbàba kɔ̀tʊ́ dɔ̀ː ŋɡɔ̀r	mbabakotudonggor		FALSE	(20·1(+{LIG}2		
+numerals-bong1285-1-twentythree-1	numerals-bong1285-1	Chan2019	twentythree	23	mbàba kɔ̀tʊ́ dɔ̀ː mʊ̀tːà	mbabakotudomuta		FALSE	(20·1(+{LIG}3		
+numerals-bong1285-1-twentyfour-1	numerals-bong1285-1	Chan2019	twentyfour	24	mbàba kɔ̀tʊ́ dɔ̀ː ʔɛ́w	mbabakotudoew		FALSE	(20·1(+{LIG}4		
+numerals-bong1285-1-twentyfive-1	numerals-bong1285-1	Chan2019	twentyfive	25	mbàba kɔ̀tʊ́ dɔ̀ː múì	mbabakotudomui		FALSE	(20·1(+{LIG}5		
+numerals-bong1285-1-twentysix-1	numerals-bong1285-1	Chan2019	twentysix	26	mbàba kɔ̀tʊ́ dɔ̀ː dɔ̀kɔtʊ́	mbabakotudodokotu		FALSE	(20·1(+{LIG}5+{LIG}1		
+numerals-bong1285-1-twentyseven-1	numerals-bong1285-1	Chan2019	twentyseven	27	mbàba kɔ̀tʊ́ dɔ̀ː dɔ́ŋɡɔr	mbabakotudodonggor		FALSE	(20·1(+{LIG}5+{LIG}2		
+numerals-bong1285-1-twentyeight-1	numerals-bong1285-1	Chan2019	twentyeight	28	mbàba kɔ̀tʊ́ dɔ̀ː dɔ̀mʊ́tːà	mbabakotudodomuta		FALSE	(20·1(+{LIG}5+{LIG}3		
+numerals-bong1285-1-twentynine-1	numerals-bong1285-1	Chan2019	twentynine	29	mbàba kɔ̀tʊ́ dɔ̀ː dɔ̀mʔɛ́w	mbabakotudodomew		FALSE	(20·1(+{LIG}5+{LIG}4		
+numerals-bong1285-1-thirty-1	numerals-bong1285-1	Chan2019	thirty	30	mbàba kɔ̀tʊ́ dɔ̀ː kɪ̀ː	mbabakotudoki		FALSE	(20·1)+{LIG}10		
+numerals-bong1285-1-forty-1	numerals-bong1285-1	Chan2019	forty	40	mbàba ŋɡɔ̀r	mbabanggor	( 20 x 2 )	FALSE	20·2		
+numerals-bong1285-1-fifty-1	numerals-bong1285-1	Chan2019	fifty	50	mbàba ŋɡɔ̀r dɔ̀ː kɪ̀ː	mbabanggordoki		FALSE	(20·2)+{LIG}10		
+numerals-bong1285-1-sixty-1	numerals-bong1285-1	Chan2019	sixty	60	mbàba mʊ̀tːà	mbabamuta	( 20 x 3 )	FALSE	20·3		
+numerals-bong1285-1-seventy-1	numerals-bong1285-1	Chan2019	seventy	70	mbàba mʊ̀tːà dɔ̀ː kɪ̀ː	mbabamutadoki		FALSE	(20·3)+{LIG}10		
+numerals-bong1285-1-eighty-1	numerals-bong1285-1	Chan2019	eighty	80	mbàba ʔɛ́w	mbabaew	( 20 x 4 )	FALSE	20·4		
+numerals-bong1285-1-ninety-1	numerals-bong1285-1	Chan2019	ninety	90	mbàba ʔɛ́w dɔ̀ː kɪ̀ː	mbabaewdoki		FALSE	(20·4)+{LIG}10		
+numerals-bong1285-1-hundred-1	numerals-bong1285-1	Chan2019	hundred	100	mbàla múì	mbalamui	( 20 x 5 )	FALSE	20·5		
+numerals-bong1285-1-twohundred-1	numerals-bong1285-1	Chan2019	twohundred	200	mbàba múì dɔ̀ː múì	mbabamuidomui		FALSE	20·(5+{LIG}5)		
+numerals-bong1285-1-thousand-1	numerals-bong1285-1	Chan2019	thousand	1000	mbuda kɔ̀tʊ́	mbudakotu		FALSE	1000·1		
+numerals-bong1285-1-twothousand-1	numerals-bong1285-1	Chan2019	twothousand	2000	mbuda ŋɡɔ̀r	mbudanggor		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-efee1239-1-one-1	numerals-efee1239-1	Chan2019	one	1	édí	edi		FALSE	1		
+numerals-efee1239-1-two-1	numerals-efee1239-1	Chan2019	two	2	ɛ̀ɡbɛ̄	egbe		FALSE	2		
+numerals-efee1239-1-three-1	numerals-efee1239-1	Chan2019	three	3	tsínà	tsina		FALSE	3		
+numerals-efee1239-1-four-1	numerals-efee1239-1	Chan2019	four	4	tsītɔ̀	tsito		FALSE	4		
+numerals-efee1239-1-five-1	numerals-efee1239-1	Chan2019	five	5	tsībú	tsibu		FALSE	5		
+numerals-efee1239-1-six-1	numerals-efee1239-1	Chan2019	six	6	tsínà tsínà	tsinatsina	( 3 + 3 )	FALSE	3+3		
+numerals-efee1239-1-seven-1	numerals-efee1239-1	Chan2019	seven	7	tsínà tsītɔ̀	tsinatsito	( 3 + 4 )	FALSE	3+4		
+numerals-efee1239-1-eight-1	numerals-efee1239-1	Chan2019	eight	8	tsītɔ̀ tsītɔ̀	tsitotsito	( 4 + 4 )	FALSE	4+4		
+numerals-efee1239-1-nine-1	numerals-efee1239-1	Chan2019	nine	9	tsītɔ̀ tsībú	tsitotsibu	( 4 + 5 )	FALSE	4+5		
+numerals-efee1239-1-ten-1	numerals-efee1239-1	Chan2019	ten	10	ádíbȍsí	adibosi		FALSE	10		
+numerals-efee1239-1-eleven-1	numerals-efee1239-1	Chan2019	eleven	11	ádíbȍsí cù édí	adibosicuedi		FALSE	10+1		
+numerals-efee1239-1-twenty-1	numerals-efee1239-1	Chan2019	twenty	20	mùtòtȍbí	mutotobi		FALSE	20{?}	insufficient data	
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-furu1242-1-one-1	numerals-furu1242-1	Chan2019	one	1	kàlà	kala		FALSE	1		
+numerals-furu1242-1-two-1	numerals-furu1242-1	Chan2019	two	2	zó	zo		FALSE	2		
+numerals-furu1242-1-three-1	numerals-furu1242-1	Chan2019	three	3	mùtuá	mutua		FALSE	3		
+numerals-furu1242-1-four-1	numerals-furu1242-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-furu1242-1-five-1	numerals-furu1242-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-furu1242-1-six-1	numerals-furu1242-1	Chan2019	six	6	mí.ɲàlā.kàlà	minalakala	{five.add.one}	FALSE	5+{LIG}1		
+numerals-furu1242-1-seven-1	numerals-furu1242-1	Chan2019	seven	7	sísì.mùtuá	sisimutua		FALSE	4'+3		
+numerals-furu1242-1-seven-2	numerals-furu1242-1	Chan2019	seven	7	sí.mùtuá	simutua		FALSE	4"+3		
+numerals-furu1242-1-seven-3	numerals-furu1242-1	Chan2019	seven	7	sìnī.mùtuá.sìnī.sɔ́	sinimutuasiniso		FALSE	?		
+numerals-furu1242-1-eight-1	numerals-furu1242-1	Chan2019	eight	8	nɡbèɗē	ngbede		FALSE	8		
+numerals-furu1242-1-nine-1	numerals-furu1242-1	Chan2019	nine	9	tsínì.sɔ́ sî.sɔ́	tsinisosiso		FALSE	4'+4+1		
+numerals-furu1242-1-nine-2	numerals-furu1242-1	Chan2019	nine	9	ɡūmbáyā	gumbaya		FALSE	9		
+numerals-furu1242-1-ten-1	numerals-furu1242-1	Chan2019	ten	10	bàléꜜ bǎꜜ	baleba	< Ngbandi or Sango ?	TRUE	10		
+numerals-furu1242-1-twelve-1	numerals-furu1242-1	Chan2019	twelve	12	bàléꜜ.ná.kálà.zɔ̀.ná.zó	balenakalazonazo		FALSE	10+1+		
+numerals-furu1242-1-twenty-1	numerals-furu1242-1	Chan2019	twenty	20	bàléꜜ.ná.zó	balenazo	{ten.DEFINITE.two}	FALSE	10·2		
+numerals-furu1242-1-hundred-1	numerals-furu1242-1	Chan2019	hundred	100	nɡbànɡbò	ngbangbo	< Ngbandi or Sango ?	TRUE	100		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-gula1268-1-one-1	numerals-gula1268-1	Chan2019	one	1	kérē	kere		FALSE	1		
+numerals-gula1268-1-two-1	numerals-gula1268-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-gula1268-1-three-1	numerals-gula1268-1	Chan2019	three	3	mùtœ́	mutoe		FALSE	3		
+numerals-gula1268-1-four-1	numerals-gula1268-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-gula1268-1-five-1	numerals-gula1268-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-gula1268-1-six-1	numerals-gula1268-1	Chan2019	six	6	mèhé̯	mehe		FALSE	6		
+numerals-gula1268-1-seven-1	numerals-gula1268-1	Chan2019	seven	7	sìrí	siri		FALSE	7		
+numerals-gula1268-1-eight-1	numerals-gula1268-1	Chan2019	eight	8	sɔ́sɔ́	soso	( 4 + 4 )	FALSE	4+4		
+numerals-gula1268-1-nine-1	numerals-gula1268-1	Chan2019	nine	9	jī kérē	jikere	( 10 - 1)	FALSE	10’-1		
+numerals-gula1268-1-ten-1	numerals-gula1268-1	Chan2019	ten	10	dɔ̀ɡə̀	doga		FALSE	10		
+numerals-gula1268-1-ten-2	numerals-gula1268-1	Chan2019	ten	10	kùtə̀	kuta		FALSE	10"		
+numerals-gula1268-1-eleven-1	numerals-gula1268-1	Chan2019	eleven	11	dɔ̀ɡə̀-ɡìdœ̀-kérē	dogagidoekere		FALSE	10+{LIG}1		
+numerals-gula1268-1-twelve-1	numerals-gula1268-1	Chan2019	twelve	12	dɔ̀ɡə̀-ɡìdœ̀-jōó	dogagidoejoo		FALSE	10+{LIG}2		
+numerals-gula1268-1-thirteen-1	numerals-gula1268-1	Chan2019	thirteen	13	dɔ̀ɡə̀-ɡìdœ̀-mùtœ́	dogagidoemutoe		FALSE	10+{LIG}3		
+numerals-gula1268-1-fourteen-1	numerals-gula1268-1	Chan2019	fourteen	14	dɔ̀ɡə̀-ɡìdœ̀-sɔ́	dogagidoeso		FALSE	10+{LIG}4		
+numerals-gula1268-1-fifteen-1	numerals-gula1268-1	Chan2019	fifteen	15	dɔ̀ɡə̀-ɡìdœ̀-mí	dogagidoemi		FALSE	10+{LIG}5		
+numerals-gula1268-1-sixteen-1	numerals-gula1268-1	Chan2019	sixteen	16	dɔ̀ɡə̀-ɡìdœ̀-mèhé̯	dogagidoemehe		FALSE	10+{LIG}6		
+numerals-gula1268-1-seventeen-1	numerals-gula1268-1	Chan2019	seventeen	17	dɔ̀ɡə̀-ɡìdœ̀-sìrí	dogagidoesiri		FALSE	10+{LIG}7		
+numerals-gula1268-1-eighteen-1	numerals-gula1268-1	Chan2019	eighteen	18	dɔ̀ɡə̀-ɡìdœ̀-sɔ́sɔ́	dogagidoesoso		FALSE	10+{LIG}4+4		
+numerals-gula1268-1-nineteen-1	numerals-gula1268-1	Chan2019	nineteen	19	dɔ̀ɡə̀-ɡìdœ̀-jī kérē	dogagidoejikere		FALSE	10+{LIG}10’-1		
+numerals-gula1268-1-twenty-1	numerals-gula1268-1	Chan2019	twenty	20	kùtə̀-jōó	kutajoo		FALSE	10·2		
+numerals-gula1268-1-twentyone-1	numerals-gula1268-1	Chan2019	twentyone	21	kùtə̀-jōó-ɡìdœ̀-kérē	kutajoogidoekere		FALSE	(10·2)+{LIG}1		
+numerals-gula1268-1-twentytwo-1	numerals-gula1268-1	Chan2019	twentytwo	22	kùtə̀-jōó-ɡìdœ̀-jōó	kutajoogidoejoo		FALSE	(10·2)+{LIG}2		
+numerals-gula1268-1-twentythree-1	numerals-gula1268-1	Chan2019	twentythree	23	kùtə̀-jōó-ɡìdœ̀-mùtœ́	kutajoogidoemutoe		FALSE	(10·2)+{LIG}3		
+numerals-gula1268-1-twentyfour-1	numerals-gula1268-1	Chan2019	twentyfour	24	kùtə̀-jōó-ɡìdœ̀-sɔ́	kutajoogidoeso		FALSE	(10·2)+{LIG}4		
+numerals-gula1268-1-twentyfive-1	numerals-gula1268-1	Chan2019	twentyfive	25	kùtə̀-jōó-ɡìdœ̀-mí	kutajoogidoemi		FALSE	(10·2)+{LIG}5		
+numerals-gula1268-1-twentysix-1	numerals-gula1268-1	Chan2019	twentysix	26	kùtə̀-jōó-ɡìdœ̀-mèhé̯	kutajoogidoemehe		FALSE	(10·2)+{LIG}6		
+numerals-gula1268-1-twentyseven-1	numerals-gula1268-1	Chan2019	twentyseven	27	kùtə̀-jōó-ɡìdœ̀-sìrí	kutajoogidoesiri		FALSE	(10·2)+{LIG}7		
+numerals-gula1268-1-twentyeight-1	numerals-gula1268-1	Chan2019	twentyeight	28	kùtə̀-jōó-ɡìdœ̀-sɔ́sɔ́	kutajoogidoesoso		FALSE	(10·2)+{LIG}4+4		
+numerals-gula1268-1-twentynine-1	numerals-gula1268-1	Chan2019	twentynine	29	kùtə̀-jōó-ɡìdœ̀-jī kérē	kutajoogidoejikere		FALSE	(10·2)+{LIG}10’-1		
+numerals-gula1268-1-thirty-1	numerals-gula1268-1	Chan2019	thirty	30	kùtə̀-mùtœ́	kutamutoe		FALSE	10·3		
+numerals-gula1268-1-forty-1	numerals-gula1268-1	Chan2019	forty	40	kùtə̀-sɔ́	kutaso		FALSE	10·4		
+numerals-gula1268-1-fifty-1	numerals-gula1268-1	Chan2019	fifty	50	kùtə̀-mí	kutami		FALSE	10·5		
+numerals-gula1268-1-sixty-1	numerals-gula1268-1	Chan2019	sixty	60	kùtə̀-mèhé̯	kutamehe		FALSE	10·6		
+numerals-gula1268-1-seventy-1	numerals-gula1268-1	Chan2019	seventy	70	kùtə̀-sìrí	kutasiri		FALSE	10·7		
+numerals-gula1268-1-eighty-1	numerals-gula1268-1	Chan2019	eighty	80	kùtə̀-sɔ́sɔ́	kutasoso		FALSE	10·(4+4)		
+numerals-gula1268-1-ninety-1	numerals-gula1268-1	Chan2019	ninety	90	kùtə̀-jī kérē	kutajikere		FALSE	10·(10’-1)		
+numerals-gula1268-1-hundred-1	numerals-gula1268-1	Chan2019	hundred	100	ɓú	bu		FALSE	100		
+numerals-gula1268-1-twohundred-1	numerals-gula1268-1	Chan2019	twohundred	200	ɓú jōó	bujoo		FALSE	100·2		
+numerals-gula1268-1-thousand-1	numerals-gula1268-1	Chan2019	thousand	1000	sák	sak		FALSE	1000		
+numerals-gula1268-1-thousand-2	numerals-gula1268-1	Chan2019	thousand	1000	dūbə́	duba		FALSE	1000’		
+numerals-gula1268-1-twothousand-1	numerals-gula1268-1	Chan2019	twothousand	2000	sák jōó	sakjoo		FALSE	1000·1		
+numerals-gula1268-1-twothousand-2	numerals-gula1268-1	Chan2019	twothousand	2000	dūbə́ jōó	dubajoo		FALSE	1000’·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-jaya1242-1-one-1	numerals-jaya1242-1	Chan2019	one	1	kalaŋ	kalang		FALSE	1		
+numerals-jaya1242-1-two-1	numerals-jaya1242-1	Chan2019	two	2	dio	dio		FALSE	2		
+numerals-jaya1242-1-three-1	numerals-jaya1242-1	Chan2019	three	3	moto	moto		FALSE	3		
+numerals-jaya1242-1-four-1	numerals-jaya1242-1	Chan2019	four	4	so	so		FALSE	4		
+numerals-jaya1242-1-five-1	numerals-jaya1242-1	Chan2019	five	5	mi	mi		FALSE	5		
+numerals-jaya1242-1-six-1	numerals-jaya1242-1	Chan2019	six	6	maʃa	masa		FALSE	6		
+numerals-jaya1242-1-seven-1	numerals-jaya1242-1	Chan2019	seven	7	sili	sili		FALSE	7		
+numerals-jaya1242-1-eight-1	numerals-jaya1242-1	Chan2019	eight	8	rita	rita		FALSE	8		
+numerals-jaya1242-1-nine-1	numerals-jaya1242-1	Chan2019	nine	9	rufu	rufu		FALSE	9		
+numerals-jaya1242-1-ten-1	numerals-jaya1242-1	Chan2019	ten	10	sik	sik		FALSE	10		
+numerals-jaya1242-1-eleven-1	numerals-jaya1242-1	Chan2019	eleven	11	sik-kar-kalaŋ	sikkarkalang		FALSE	10+{LIG}1		
+numerals-jaya1242-1-twelve-1	numerals-jaya1242-1	Chan2019	twelve	12	sik-kar-dio	sikkardio		FALSE	10+{LIG}2		
+numerals-jaya1242-1-thirteen-1	numerals-jaya1242-1	Chan2019	thirteen	13	sik-kar-moto	sikkarmoto		FALSE	10+{LIG}3		
+numerals-jaya1242-1-fourteen-1	numerals-jaya1242-1	Chan2019	fourteen	14	sik-kar-so	sikkarso		FALSE	10+{LIG}4		
+numerals-jaya1242-1-fifteen-1	numerals-jaya1242-1	Chan2019	fifteen	15	sik-kar-mi	sikkarmi		FALSE	10+{LIG}5		
+numerals-jaya1242-1-sixteen-1	numerals-jaya1242-1	Chan2019	sixteen	16	sik-kar-maʃa	sikkarmasa		FALSE	10+{LIG}5+{LIG}1		
+numerals-jaya1242-1-seventeen-1	numerals-jaya1242-1	Chan2019	seventeen	17	sik-kar-sili	sikkarsili		FALSE	10+{LIG}5+{LIG}2		
+numerals-jaya1242-1-eighteen-1	numerals-jaya1242-1	Chan2019	eighteen	18	sik-kar-rita	sikkarrita		FALSE	10+{LIG}5+{LIG}3		
+numerals-jaya1242-1-nineteen-1	numerals-jaya1242-1	Chan2019	nineteen	19	sik-kar-rufu	sikkarrufu		FALSE	10+{LIG}5+{LIG}4		
+numerals-jaya1242-1-twenty-1	numerals-jaya1242-1	Chan2019	twenty	20	sidio	sidio		FALSE	10·2		
+numerals-jaya1242-1-twentyone-1	numerals-jaya1242-1	Chan2019	twentyone	21	sidi-kar-kalaŋ	sidikarkalang		FALSE	(10·2)+1		
+numerals-jaya1242-1-twentytwo-1	numerals-jaya1242-1	Chan2019	twentytwo	22	sidi-kar-dio	sidikardio		FALSE	(10·2)+2		
+numerals-jaya1242-1-twentythree-1	numerals-jaya1242-1	Chan2019	twentythree	23	sidi-kar-moto	sidikarmoto		FALSE	(10·2)+3		
+numerals-jaya1242-1-twentyfour-1	numerals-jaya1242-1	Chan2019	twentyfour	24	sidi-kar-so	sidikarso		FALSE	(10·2)+4		
+numerals-jaya1242-1-twentyfive-1	numerals-jaya1242-1	Chan2019	twentyfive	25	sidi-kar-mi	sidikarmi		FALSE	(10·2)+5		
+numerals-jaya1242-1-twentysix-1	numerals-jaya1242-1	Chan2019	twentysix	26	sidi-kar-maʃa	sidikarmasa		FALSE	(10·2)+6		
+numerals-jaya1242-1-twentyseven-1	numerals-jaya1242-1	Chan2019	twentyseven	27	sidi-kar-sili	sidikarsili		FALSE	(10·2)+7		
+numerals-jaya1242-1-twentyeight-1	numerals-jaya1242-1	Chan2019	twentyeight	28	sidi-kar-rita	sidikarrita		FALSE	(10·2)+8		
+numerals-jaya1242-1-twentynine-1	numerals-jaya1242-1	Chan2019	twentynine	29	sidi-kar-rufu	sidikarrufu		FALSE	(10·2)+9		
+numerals-jaya1242-1-thirty-1	numerals-jaya1242-1	Chan2019	thirty	30	simoto	simoto		FALSE	10·3		
+numerals-jaya1242-1-forty-1	numerals-jaya1242-1	Chan2019	forty	40	siso	siso		FALSE	10·4		
+numerals-jaya1242-1-fifty-1	numerals-jaya1242-1	Chan2019	fifty	50	simi	simi		FALSE	10·5		
+numerals-jaya1242-1-sixty-1	numerals-jaya1242-1	Chan2019	sixty	60	simaʃa	simasa		FALSE	10·6		
+numerals-jaya1242-1-seventy-1	numerals-jaya1242-1	Chan2019	seventy	70	sisili	sisili		FALSE	10·7		
+numerals-jaya1242-1-eighty-1	numerals-jaya1242-1	Chan2019	eighty	80	sirita	sirita		FALSE	10·8		
+numerals-jaya1242-1-ninety-1	numerals-jaya1242-1	Chan2019	ninety	90	sirufu	sirufu		FALSE	10·9		
+numerals-jaya1242-1-hundred-1	numerals-jaya1242-1	Chan2019	hundred	100	karo	karo		FALSE	100		
+numerals-jaya1242-1-twohundred-1	numerals-jaya1242-1	Chan2019	twohundred	200	karun dio	karundio		FALSE	100·2		
+numerals-jaya1242-1-fourhundred-1	numerals-jaya1242-1	Chan2019	fourhundred	400	karun so	karunso		FALSE	100·4		
+numerals-jaya1242-1-eighthundred-1	numerals-jaya1242-1	Chan2019	eighthundred	800	karun rita	karunrita		FALSE	100·8		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-jurm1239-1-one-1	numerals-jurm1239-1	Chan2019	one	1	kɔ̀tɔ́	koto		FALSE	1		
+numerals-jurm1239-1-two-1	numerals-jurm1239-1	Chan2019	two	2	rḯyö́	riyo		FALSE	2		
+numerals-jurm1239-1-three-1	numerals-jurm1239-1	Chan2019	three	3	mòtá	mota		FALSE	3		
+numerals-jurm1239-1-four-1	numerals-jurm1239-1	Chan2019	four	4	sòwɔ́	sowo		FALSE	4		
+numerals-jurm1239-1-five-1	numerals-jurm1239-1	Chan2019	five	5	mùyí̈	muyi		FALSE	5		
+numerals-jurm1239-1-six-1	numerals-jurm1239-1	Chan2019	six	6	mòdɔ́ɔ́kɔ̀tɔ́	modookoto	( 5 + 1 )	FALSE	5'+{LIG}1		
+numerals-jurm1239-1-seven-1	numerals-jurm1239-1	Chan2019	seven	7	mòdɔ́mòrḯyö́	modomoriyo	( 5 + 2 )	FALSE	5'+{LIG}2		
+numerals-jurm1239-1-eight-1	numerals-jurm1239-1	Chan2019	eight	8	mòdɔ́ɔ́mòtá	modoomota	( 5 + 3 )	FALSE	5'+{LIG}3		
+numerals-jurm1239-1-nine-1	numerals-jurm1239-1	Chan2019	nine	9	mòdɔ́mòsòwɔ́	modomosowo	( 5 + 4 )	FALSE	5'+{LIG}4		
+numerals-jurm1239-1-ten-1	numerals-jurm1239-1	Chan2019	ten	10	ɓùtë́	bute		FALSE	10		
+numerals-jurm1239-1-eleven-1	numerals-jurm1239-1	Chan2019	eleven	11	ɓùtë́ dɔ̀ɔ́kɔ̀tɔ́	butedookoto		FALSE	10+1		
+numerals-jurm1239-1-twelve-1	numerals-jurm1239-1	Chan2019	twelve	12	ɓùtë́ dɔ̀mórḯyö́	butedomoriyo		FALSE	10+2		
+numerals-jurm1239-1-thirteen-1	numerals-jurm1239-1	Chan2019	thirteen	13	ɓùtë́ dɔ̀ɔ́mòtá	butedoomota		FALSE	10+3		
+numerals-jurm1239-1-fourteen-1	numerals-jurm1239-1	Chan2019	fourteen	14	ɓùtë́ dɔ̀mósòwɔ́	butedomosowo		FALSE	10+4		
+numerals-jurm1239-1-fifteen-1	numerals-jurm1239-1	Chan2019	fifteen	15	ɓùtë́ dö́ö́mù	butedoomu		FALSE	10+5		
+numerals-jurm1239-1-sixteen-1	numerals-jurm1239-1	Chan2019	sixteen	16	ɓùtë́ dö́ö́mù dɔ̀ɔ́kɔ̀tɔ́	butedoomudookoto		FALSE	10+{LIG}5'+{LIG}1		
+numerals-jurm1239-1-seventeen-1	numerals-jurm1239-1	Chan2019	seventeen	17	ɓùtë́ dö́ö́mù dɔ̀mórḯyö́	butedoomudomoriyo		FALSE	10+{LIG}5'+{LIG}2		
+numerals-jurm1239-1-eighteen-1	numerals-jurm1239-1	Chan2019	eighteen	18	ɓùtë́ dö́ö́mù dɔ̀ɔ́mòtá	butedoomudoomota		FALSE	10+{LIG}5'+{LIG}3		
+numerals-jurm1239-1-nineteen-1	numerals-jurm1239-1	Chan2019	nineteen	19	ɓùtë́ dö́ö́mù dɔ̀mósòwɔ́	butedoomudomosowo		FALSE	10+{LIG}5'+{LIG}4		
+numerals-jurm1239-1-twenty-1	numerals-jurm1239-1	Chan2019	twenty	20	ɓùtë́ rḯyö́	buteriyo		FALSE	10·2		
+numerals-jurm1239-1-twentyone-1	numerals-jurm1239-1	Chan2019	twentyone	21	ɓùtë́ rḯyö́ dɔ̀ɔ́kɔ̀tɔ́	buteriyodookoto		FALSE	(10·2)+{LIG}1		
+numerals-jurm1239-1-twentytwo-1	numerals-jurm1239-1	Chan2019	twentytwo	22	ɓùtë́ rḯyö́ dɔ̀mórḯyö́	buteriyodomoriyo		FALSE	(10·2)+{LIG}2		
+numerals-jurm1239-1-twentythree-1	numerals-jurm1239-1	Chan2019	twentythree	23	ɓùtë́ rḯyö́ dɔ̀ɔ́mòtá	buteriyodoomota		FALSE	(10·2)+{LIG}3		
+numerals-jurm1239-1-twentyfour-1	numerals-jurm1239-1	Chan2019	twentyfour	24	ɓùtë́ rḯyö́ dɔ̀mósòwɔ́	buteriyodomosowo		FALSE	(10·2)+{LIG}4		
+numerals-jurm1239-1-twentyfive-1	numerals-jurm1239-1	Chan2019	twentyfive	25	ɓùtë́ rḯyö́ dö́ö́mù	buteriyodoomu		FALSE	(10·2)+{LIG}5		
+numerals-jurm1239-1-twentysix-1	numerals-jurm1239-1	Chan2019	twentysix	26	ɓùtë́ rḯyö́ dö́ö́mù dɔ̀ɔ́kɔ̀tɔ́	buteriyodoomudookoto		FALSE	(10·2)+{LIG}5’+{LIG}1		
+numerals-jurm1239-1-twentyseven-1	numerals-jurm1239-1	Chan2019	twentyseven	27	ɓùtë́ rḯyö́ dö́ö́mù dɔ̀mórḯyö́	buteriyodoomudomoriyo		FALSE	(10·2)+{LIG}5’+{LIG}2		
+numerals-jurm1239-1-twentyeight-1	numerals-jurm1239-1	Chan2019	twentyeight	28	ɓùtë́ rḯyö́ dö́ö́mù dɔ̀ɔ́mòtá	buteriyodoomudoomota		FALSE	(10·2)+{LIG}5’+{LIG}3		
+numerals-jurm1239-1-twentynine-1	numerals-jurm1239-1	Chan2019	twentynine	29	ɓùtë́ rḯyö́ dö́ö́mù dɔ̀mósòwɔ́	buteriyodoomudomosowo		FALSE	(10·2)+{LIG}5’+{LIG}4		
+numerals-jurm1239-1-thirty-1	numerals-jurm1239-1	Chan2019	thirty	30	ɓùtë́ mòtá	butemota	( 10 x 3 )	FALSE	10·3		
+numerals-jurm1239-1-forty-1	numerals-jurm1239-1	Chan2019	forty	40	ɓùtë́ sòwɔ́	butesowo	( 10 x 4 )	FALSE	10·4		
+numerals-jurm1239-1-fifty-1	numerals-jurm1239-1	Chan2019	fifty	50	kùlùkú	kuluku		FALSE	50		
+numerals-jurm1239-1-sixty-1	numerals-jurm1239-1	Chan2019	sixty	60	kùlùkú kɔtɔ kɔdɔ dɔ̀mó ɓùtë́	kulukukotokododomobute	( 50+10 )	FALSE	50+{LIG’}10		
+numerals-jurm1239-1-seventy-1	numerals-jurm1239-1	Chan2019	seventy	70	kùlùkú kɔtɔ kɔdɔ dɔ̀mó ɓùtë́ rḯyö́	kulukukotokododomobuteriyo		FALSE	50+{LIG’}(10·2)		
+numerals-jurm1239-1-eighty-1	numerals-jurm1239-1	Chan2019	eighty	80	kùlùkú kɔtɔ kɔdɔ dɔ̀mó ɓùtë́ mòtá	kulukukotokododomobutemota		FALSE	50+{LIG’}(10·3)		
+numerals-jurm1239-1-ninety-1	numerals-jurm1239-1	Chan2019	ninety	90	kùlùkú kɔtɔ kɔdɔ dɔ̀mó ɓùtë́ sòwɔ́	kulukukotokododomobutesowo		FALSE	50+{LIG’}(10·4)		
+numerals-jurm1239-1-hundred-1	numerals-jurm1239-1	Chan2019	hundred	100	kùlùkú rḯyö́	kulukuriyo	( 50 x 2 )	FALSE	50·2		
+numerals-jurm1239-1-twohundred-1	numerals-jurm1239-1	Chan2019	twohundred	200	kùlùkú sòwɔ́	kulukusowo	( 50 x 4 )	FALSE	50·4		
+numerals-jurm1239-1-thousand-1	numerals-jurm1239-1	Chan2019	thousand	1000	kùlùkú ɓùtë́ rḯyö́	kulukubuteriyo	( 50 x 20 )	FALSE	50·10·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-kaba1281-1-one-1	numerals-kaba1281-1	Chan2019	one	1	kaára	kaara		FALSE	1		
+numerals-kaba1281-1-two-1	numerals-kaba1281-1	Chan2019	two	2	jooà	jooa		FALSE	2		
+numerals-kaba1281-1-three-1	numerals-kaba1281-1	Chan2019	three	3	moètaà	moetaa		FALSE	3		
+numerals-kaba1281-1-four-1	numerals-kaba1281-1	Chan2019	four	4	sóà	soa		FALSE	4		
+numerals-kaba1281-1-five-1	numerals-kaba1281-1	Chan2019	five	5	mïù	miu		FALSE	5		
+numerals-kaba1281-1-six-1	numerals-kaba1281-1	Chan2019	six	6	mïìsaàn	miisaan		FALSE	6		
+numerals-kaba1281-1-seven-1	numerals-kaba1281-1	Chan2019	seven	7	sirïù	siriu		FALSE	7		
+numerals-kaba1281-1-eight-1	numerals-kaba1281-1	Chan2019	eight	8	jijooà	jijooa	( 4 + 4 )	FALSE	4’+4		
+numerals-kaba1281-1-nine-1	numerals-kaba1281-1	Chan2019	nine	9	jikaàra	jikaara	( 10 - 1)	FALSE	10’-1		
+numerals-kaba1281-1-ten-1	numerals-kaba1281-1	Chan2019	ten	10	dóèkuè	doekue		FALSE	10		
+numerals-kaba1281-1-eleven-1	numerals-kaba1281-1	Chan2019	eleven	11	dóèkuè ɡeèreà kaára	doekuegeereakaara		FALSE	10+{LIG}1		
+numerals-kaba1281-1-twelve-1	numerals-kaba1281-1	Chan2019	twelve	12	dóèkuè ɡeèreà jooà	doekuegeereajooa		FALSE	10+{LIG}2		
+numerals-kaba1281-1-thirteen-1	numerals-kaba1281-1	Chan2019	thirteen	13	dóèkuè ɡeèreà moètaà	doekuegeereamoetaa		FALSE	10+{LIG}3		
+numerals-kaba1281-1-fourteen-1	numerals-kaba1281-1	Chan2019	fourteen	14	dóèkuè ɡeèreà sóà	doekuegeereasoa		FALSE	10+{LIG}4		
+numerals-kaba1281-1-fifteen-1	numerals-kaba1281-1	Chan2019	fifteen	15	dóèkuè ɡeèreà mïù	doekuegeereamiu		FALSE	10+{LIG}5		
+numerals-kaba1281-1-sixteen-1	numerals-kaba1281-1	Chan2019	sixteen	16	dóèkuè ɡeèreà mïìsaàn	doekuegeereamiisaan		FALSE	10+{LIG}6		
+numerals-kaba1281-1-seventeen-1	numerals-kaba1281-1	Chan2019	seventeen	17	dóèkuè ɡeèreà sirïù	doekuegeereasiriu		FALSE	10+{LIG}7		
+numerals-kaba1281-1-eighteen-1	numerals-kaba1281-1	Chan2019	eighteen	18	dóèkuè ɡeèreà jijooà	doekuegeereajijooa		FALSE	10+{LIG}4'+4		
+numerals-kaba1281-1-nineteen-1	numerals-kaba1281-1	Chan2019	nineteen	19	dóèkuè ɡeèreà jikaàra	doekuegeereajikaara		FALSE	10+{LIG}10’-1		
+numerals-kaba1281-1-twenty-1	numerals-kaba1281-1	Chan2019	twenty	20	dóèjooà	doejooa		FALSE	10·2		
+numerals-kaba1281-1-twentyone-1	numerals-kaba1281-1	Chan2019	twentyone	21	dóèjooà ɡeèreà kaára	doejooageereakaara		FALSE	(10·2)+{LIG}1		
+numerals-kaba1281-1-twentytwo-1	numerals-kaba1281-1	Chan2019	twentytwo	22	dóèjooà ɡeèreà jooà	doejooageereajooa		FALSE	(10·2)+{LIG}2		
+numerals-kaba1281-1-twentythree-1	numerals-kaba1281-1	Chan2019	twentythree	23	dóèjooà ɡeèreà moètaà	doejooageereamoetaa		FALSE	(10·2)+{LIG}3		
+numerals-kaba1281-1-twentyfour-1	numerals-kaba1281-1	Chan2019	twentyfour	24	dóèjooà ɡeèreà sóà	doejooageereasoa		FALSE	(10·2)+{LIG}4		
+numerals-kaba1281-1-twentyfive-1	numerals-kaba1281-1	Chan2019	twentyfive	25	dóèjooà ɡeèreà mïù	doejooageereamiu		FALSE	(10·2)+{LIG}5		
+numerals-kaba1281-1-twentysix-1	numerals-kaba1281-1	Chan2019	twentysix	26	dóèjooà ɡeèreà mïìsaàn	doejooageereamiisaan		FALSE	(10·2)+{LIG}6		
+numerals-kaba1281-1-twentyseven-1	numerals-kaba1281-1	Chan2019	twentyseven	27	dóèjooà ɡeèreà sirïù	doejooageereasiriu		FALSE	(10·2)+{LIG}7		
+numerals-kaba1281-1-twentyeight-1	numerals-kaba1281-1	Chan2019	twentyeight	28	dóèjooà ɡeèreà jijooà	doejooageereajijooa		FALSE	(10·2)+{LIG}4'+4		
+numerals-kaba1281-1-twentynine-1	numerals-kaba1281-1	Chan2019	twentynine	29	dóèjooà ɡeèreà jikaàra	doejooageereajikaara		FALSE	(10·2)+{LIG}10’-1		
+numerals-kaba1281-1-thirty-1	numerals-kaba1281-1	Chan2019	thirty	30	dóèmoètaà	doemoetaa		FALSE	10·3		
+numerals-kaba1281-1-forty-1	numerals-kaba1281-1	Chan2019	forty	40	dóèsóà	doesoa		FALSE	10·4		
+numerals-kaba1281-1-fifty-1	numerals-kaba1281-1	Chan2019	fifty	50	dóèmïù	doemiu		FALSE	10·5		
+numerals-kaba1281-1-sixty-1	numerals-kaba1281-1	Chan2019	sixty	60	dóèmïìsaàn	doemiisaan		FALSE	10·6		
+numerals-kaba1281-1-seventy-1	numerals-kaba1281-1	Chan2019	seventy	70	dóèsirïù	doesiriu		FALSE	10·7		
+numerals-kaba1281-1-eighty-1	numerals-kaba1281-1	Chan2019	eighty	80	dóèjijooà	doejijooa		FALSE	10·8		
+numerals-kaba1281-1-ninety-1	numerals-kaba1281-1	Chan2019	ninety	90	dóèjikaàra	doejikaara		FALSE	10·9		
+numerals-kaba1281-1-hundred-1	numerals-kaba1281-1	Chan2019	hundred	100	dóèdóekuè	doedoekue	( 10 x 10 )	FALSE	10·10		
+numerals-kaba1281-1-hundred-2	numerals-kaba1281-1	Chan2019	hundred	100	tól	tol		FALSE	100		
+numerals-kaba1281-1-twohundred-1	numerals-kaba1281-1	Chan2019	twohundred	200	dóèdóejooà	doedoejooa		FALSE	10·10·2		
+numerals-kaba1281-1-thousand-1	numerals-kaba1281-1	Chan2019	thousand	1000	saàkïì kaàra	saakiikaara		FALSE	1000·1		
+numerals-kaba1281-1-twothousand-1	numerals-kaba1281-1	Chan2019	twothousand	2000	saàkïi jooà	saakiijooa		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-kara1482-1-one-1	numerals-kara1482-1	Chan2019	one	1	kàl	kal		FALSE	1		
+numerals-kara1482-1-two-1	numerals-kara1482-1	Chan2019	two	2	vȁɖ ́	vad		FALSE	2		
+numerals-kara1482-1-three-1	numerals-kara1482-1	Chan2019	three	3	wìtà	wita		FALSE	3		
+numerals-kara1482-1-four-1	numerals-kara1482-1	Chan2019	four	4	sɔ̀	so		FALSE	4		
+numerals-kara1482-1-five-1	numerals-kara1482-1	Chan2019	five	5	mì	mi		FALSE	5		
+numerals-kara1482-1-six-1	numerals-kara1482-1	Chan2019	six	6	sítè	site	( < Arabic)	TRUE	6		
+numerals-kara1482-1-seven-1	numerals-kara1482-1	Chan2019	seven	7	sábà	saba	( < Arabic)	TRUE	7		
+numerals-kara1482-1-eight-1	numerals-kara1482-1	Chan2019	eight	8	tàmáɲnà	tamanna	< Arabic	TRUE	8		
+numerals-kara1482-1-nine-1	numerals-kara1482-1	Chan2019	nine	9	tísà	tisa	( < Arabic)	TRUE	9		
+numerals-kara1482-1-ten-1	numerals-kara1482-1	Chan2019	ten	10	dɔ̀ɡ ̏	dog		FALSE	10		
+numerals-kara1482-1-eleven-1	numerals-kara1482-1	Chan2019	eleven	11	dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl	dogskoskal	{ten.(?.)?.one}	FALSE	10+{LIG}1		
+numerals-kara1482-1-twelve-1	numerals-kara1482-1	Chan2019	twelve	12	dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́	dogskosvad	{ten.(?.)?.two}	FALSE	10+{LIG}2		
+numerals-kara1482-1-twenty-1	numerals-kara1482-1	Chan2019	twenty	20	dɔ̀ɡ ̏.vȁɖ	dogvad	( ten. two )	FALSE	10+{LIG}3		
+numerals-kara1482-1-hundred-1	numerals-kara1482-1	Chan2019	hundred	100	dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏	dogskosdog	{ten.(?.) ?. ten}	FALSE	10+{LIG}4		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-kara1482-1-one-1	numerals-kara1482-1	Chan2019	one	1	kàl	kal		FALSE	1		
+numerals-kara1482-1-two-1	numerals-kara1482-1	Chan2019	two	2	vȁɖ ́	vad		FALSE	2		
+numerals-kara1482-1-three-1	numerals-kara1482-1	Chan2019	three	3	wìtà	wita		FALSE	3		
+numerals-kara1482-1-four-1	numerals-kara1482-1	Chan2019	four	4	sɔ̀	so		FALSE	4		
+numerals-kara1482-1-five-1	numerals-kara1482-1	Chan2019	five	5	mì	mi		FALSE	5		
+numerals-kara1482-1-six-1	numerals-kara1482-1	Chan2019	six	6	sítè	site	( < Arabic)	TRUE	6		
+numerals-kara1482-1-seven-1	numerals-kara1482-1	Chan2019	seven	7	sábà	saba	( < Arabic)	TRUE	7		
+numerals-kara1482-1-eight-1	numerals-kara1482-1	Chan2019	eight	8	tàmáɲnà	tamanna	< Arabic	TRUE	8		
+numerals-kara1482-1-nine-1	numerals-kara1482-1	Chan2019	nine	9	tísà	tisa	( < Arabic)	TRUE	9		
+numerals-kara1482-1-ten-1	numerals-kara1482-1	Chan2019	ten	10	dɔ̀ɡ ̏	dog		FALSE	10		
+numerals-kara1482-1-eleven-1	numerals-kara1482-1	Chan2019	eleven	11	dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl	dogskoskal	{ten.(?.)?.one}	FALSE	10+{LIG}1		
+numerals-kara1482-1-twelve-1	numerals-kara1482-1	Chan2019	twelve	12	dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́	dogskosvad	{ten.(?.)?.two}	FALSE	10+{LIG}2		
+numerals-kara1482-1-twenty-1	numerals-kara1482-1	Chan2019	twenty	20	dɔ̀ɡ ̏.vȁɖ	dogvad	( ten. two )	FALSE	10+{LIG}3		
+numerals-kara1482-1-hundred-1	numerals-kara1482-1	Chan2019	hundred	100	dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏	dogskosdog	{ten.(?.) ?. ten}	FALSE	10+{LIG}4		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-keng1240-1-one-1	numerals-keng1240-1	Chan2019	one	1	kàlāŋ	kalang		FALSE	1		
+numerals-keng1240-1-two-1	numerals-keng1240-1	Chan2019	two	2	dìó	dio		FALSE	2		
+numerals-keng1240-1-three-1	numerals-keng1240-1	Chan2019	three	3	mɔ̀tɔ́	moto		FALSE	3		
+numerals-keng1240-1-four-1	numerals-keng1240-1	Chan2019	four	4	sɔ̄ː	so		FALSE	4		
+numerals-keng1240-1-five-1	numerals-keng1240-1	Chan2019	five	5	mīː	mi		FALSE	5		
+numerals-keng1240-1-six-1	numerals-keng1240-1	Chan2019	six	6	mɛ̀cɛ́	mece		FALSE	6		
+numerals-keng1240-1-seven-1	numerals-keng1240-1	Chan2019	seven	7	cīlí	cili		FALSE	7		
+numerals-keng1240-1-eight-1	numerals-keng1240-1	Chan2019	eight	8	mārtá	marta		FALSE	8		
+numerals-keng1240-1-nine-1	numerals-keng1240-1	Chan2019	nine	9	jɛ́rnàŋ	jernang		FALSE	9		
+numerals-keng1240-1-ten-1	numerals-keng1240-1	Chan2019	ten	10	sīk	sik		FALSE	10		
+numerals-keng1240-1-eleven-1	numerals-keng1240-1	Chan2019	eleven	11	sīk kàrà kàlāŋ	sikkarakalang		FALSE	10+{LIG}1		
+numerals-keng1240-1-twelve-1	numerals-keng1240-1	Chan2019	twelve	12	sīk kàrà dìó	sikkaradio		FALSE	10+{LIG}2		
+numerals-keng1240-1-thirteen-1	numerals-keng1240-1	Chan2019	thirteen	13	sīk kàrà mɔ̀tɔ́	sikkaramoto		FALSE	10+{LIG}3		
+numerals-keng1240-1-fourteen-1	numerals-keng1240-1	Chan2019	fourteen	14	sīk kàrà sɔ̄ː	sikkaraso		FALSE	10+{LIG}4		
+numerals-keng1240-1-fifteen-1	numerals-keng1240-1	Chan2019	fifteen	15	sīk kàrà mīː	sikkarami		FALSE	10+{LIG}5		
+numerals-keng1240-1-sixteen-1	numerals-keng1240-1	Chan2019	sixteen	16	sīk kàrà mɛ̀cɛ́	sikkaramece		FALSE	10+{LIG}6		
+numerals-keng1240-1-seventeen-1	numerals-keng1240-1	Chan2019	seventeen	17	sīk kàrà cīlí	sikkaracili		FALSE	10+{LIG}7		
+numerals-keng1240-1-eighteen-1	numerals-keng1240-1	Chan2019	eighteen	18	sīk kàrà mārtá	sikkaramarta		FALSE	10+{LIG}8		
+numerals-keng1240-1-nineteen-1	numerals-keng1240-1	Chan2019	nineteen	19	sīk kàrà jɛ́rnàŋ	sikkarajernang		FALSE	10+{LIG}9		
+numerals-keng1240-1-twenty-1	numerals-keng1240-1	Chan2019	twenty	20	sīk dìó	sikdio		FALSE	10·2		
+numerals-keng1240-1-twentyone-1	numerals-keng1240-1	Chan2019	twentyone	21	sī dìó kàrà kàlāŋ	sidiokarakalang		FALSE	(10·2)+{LIG}1		
+numerals-keng1240-1-twentytwo-1	numerals-keng1240-1	Chan2019	twentytwo	22	sī dìó kàrà dìó	sidiokaradio		FALSE	(10·2)+{LIG}2		
+numerals-keng1240-1-twentythree-1	numerals-keng1240-1	Chan2019	twentythree	23	sī dìó kàrà mɔ̀tɔ́	sidiokaramoto		FALSE	(10·2)+{LIG}3		
+numerals-keng1240-1-twentyfour-1	numerals-keng1240-1	Chan2019	twentyfour	24	sī dìó kàrà sɔ̄ː	sidiokaraso		FALSE	(10·2)+{LIG}4		
+numerals-keng1240-1-twentyfive-1	numerals-keng1240-1	Chan2019	twentyfive	25	sī dìó kàrà mīː	sidiokarami		FALSE	(10·2)+{LIG}5		
+numerals-keng1240-1-twentysix-1	numerals-keng1240-1	Chan2019	twentysix	26	sī dìó kàrà mɛ̀cɛ́	sidiokaramece		FALSE	(10·2)+{LIG}6		
+numerals-keng1240-1-twentyseven-1	numerals-keng1240-1	Chan2019	twentyseven	27	sī dìó kàrà cīlí	sidiokaracili		FALSE	(10·2)+{LIG}7		
+numerals-keng1240-1-twentyeight-1	numerals-keng1240-1	Chan2019	twentyeight	28	sī dìó kàrà mārtá	sidiokaramarta		FALSE	(10·2)+{LIG}8		
+numerals-keng1240-1-twentynine-1	numerals-keng1240-1	Chan2019	twentynine	29	sī dìó kàrà jɛ́rnàŋ	sidiokarajernang		FALSE	(10·2)+{LIG}9		
+numerals-keng1240-1-thirty-1	numerals-keng1240-1	Chan2019	thirty	30	sī mɔ̀tɔ́	simoto		FALSE	10·3		
+numerals-keng1240-1-forty-1	numerals-keng1240-1	Chan2019	forty	40	sī sɔ̄ː	siso		FALSE	10·4		
+numerals-keng1240-1-fifty-1	numerals-keng1240-1	Chan2019	fifty	50	sī mīː	simi		FALSE	10·5		
+numerals-keng1240-1-sixty-1	numerals-keng1240-1	Chan2019	sixty	60	sī mɛ̀cɛ́	simece		FALSE	10·6		
+numerals-keng1240-1-seventy-1	numerals-keng1240-1	Chan2019	seventy	70	sī cīlí	sicili		FALSE	10·7		
+numerals-keng1240-1-eighty-1	numerals-keng1240-1	Chan2019	eighty	80	sī mārtá	simarta		FALSE	10·8		
+numerals-keng1240-1-ninety-1	numerals-keng1240-1	Chan2019	ninety	90	sī jɛ́rnàŋ	sijernang		FALSE	10·9		
+numerals-keng1240-1-hundred-1	numerals-keng1240-1	Chan2019	hundred	100	káːrù	karu		FALSE	100		
+numerals-keng1240-1-twohundred-1	numerals-keng1240-1	Chan2019	twohundred	200	káːrù dìó	karudio		FALSE	100·2		
+numerals-keng1240-1-thousand-1	numerals-keng1240-1	Chan2019	thousand	1000	dūpú	dupu		FALSE	1000		
+numerals-keng1240-1-twothousand-1	numerals-keng1240-1	Chan2019	twothousand	2000	dūpú dìó	dupudio		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-logo1259-1-one-1	numerals-logo1259-1	Chan2019	one	1	àlo	alo		FALSE	1		
+numerals-logo1259-1-two-1	numerals-logo1259-1	Chan2019	two	2	rì	ri		FALSE	2		
+numerals-logo1259-1-three-1	numerals-logo1259-1	Chan2019	three	3	na	na		FALSE	3		
+numerals-logo1259-1-four-1	numerals-logo1259-1	Chan2019	four	4	su	su		FALSE	4		
+numerals-logo1259-1-five-1	numerals-logo1259-1	Chan2019	five	5	nzi	nzi		FALSE	5		
+numerals-logo1259-1-six-1	numerals-logo1259-1	Chan2019	six	6	kází	kazi		FALSE	6	1+5	
+numerals-logo1259-1-seven-1	numerals-logo1259-1	Chan2019	seven	7	nzi-drì-rì	nzidriri	( 5 + 2 )	FALSE	5+{LIG}2		
+numerals-logo1259-1-eight-1	numerals-logo1259-1	Chan2019	eight	8	nzi-drì-na	nzidrina	( 5 + 3 )	FALSE	5+{LIG}3		
+numerals-logo1259-1-nine-1	numerals-logo1259-1	Chan2019	nine	9	nzi-drì-su	nzidrisu	( 5 + 4 )	FALSE	5+{LIG}4		
+numerals-logo1259-1-ten-1	numerals-logo1259-1	Chan2019	ten	10	mudrí	mudri	( hands joined )	FALSE	10		
+numerals-logo1259-1-eleven-1	numerals-logo1259-1	Chan2019	eleven	11	mudrí-drì-àlo	mudridrialo		FALSE	10+{LIG}1		
+numerals-logo1259-1-twelve-1	numerals-logo1259-1	Chan2019	twelve	12	mudrí-drì-rì	mudridriri		FALSE	10+{LIG}2		
+numerals-logo1259-1-thirteen-1	numerals-logo1259-1	Chan2019	thirteen	13	mudri-drì-na	mudridrina		FALSE	10+{LIG}3		
+numerals-logo1259-1-fourteen-1	numerals-logo1259-1	Chan2019	fourteen	14	mudri-drì-su	mudridrisu		FALSE	10+{LIG}4		
+numerals-logo1259-1-fifteen-1	numerals-logo1259-1	Chan2019	fifteen	15	mudri-drì-nzi	mudridrinzi		FALSE	10+{LIG}5		
+numerals-logo1259-1-sixteen-1	numerals-logo1259-1	Chan2019	sixteen	16	mudri-drì-kází	mudridrikazi		FALSE	10+{LIG}6		
+numerals-logo1259-1-seventeen-1	numerals-logo1259-1	Chan2019	seventeen	17	mudri-drì-nzi-drì-rì	mudridrinzidriri		FALSE	10+{LIG}5+2		
+numerals-logo1259-1-eighteen-1	numerals-logo1259-1	Chan2019	eighteen	18	mudri-drì-nzi-drì-na	mudridrinzidrina		FALSE	10+{LIG}5+3		
+numerals-logo1259-1-nineteen-1	numerals-logo1259-1	Chan2019	nineteen	19	mudri-drì-nzi-drì-su	mudridrinzidrisu		FALSE	10+{LIG}5+4		
+numerals-logo1259-1-twenty-1	numerals-logo1259-1	Chan2019	twenty	20	nyadhɨ-àlo	nyadhialo		FALSE	10·2		
+numerals-logo1259-1-twentyone-1	numerals-logo1259-1	Chan2019	twentyone	21	nyadhɨ-àlo-drì-àlo	nyadhialodrialo		FALSE	20+{LIG}1		
+numerals-logo1259-1-twentytwo-1	numerals-logo1259-1	Chan2019	twentytwo	22	nyadhɨ-àlo-drì-rì	nyadhialodriri		FALSE	20+{LIG}2		
+numerals-logo1259-1-twentythree-1	numerals-logo1259-1	Chan2019	twentythree	23	nyadhɨ-àlo-drì-na	nyadhialodrina		FALSE	20+{LIG}3		
+numerals-logo1259-1-twentyfour-1	numerals-logo1259-1	Chan2019	twentyfour	24	nyadhɨ-àlo-drì-su	nyadhialodrisu		FALSE	20+{LIG}4		
+numerals-logo1259-1-twentyfive-1	numerals-logo1259-1	Chan2019	twentyfive	25	nyadhɨ-àlo-drì-nzi	nyadhialodrinzi		FALSE	20+{LIG}5		
+numerals-logo1259-1-twentysix-1	numerals-logo1259-1	Chan2019	twentysix	26	nyadhɨ-àlo-drì-kází	nyadhialodrikazi		FALSE	20+{LIG}6		
+numerals-logo1259-1-twentyseven-1	numerals-logo1259-1	Chan2019	twentyseven	27	nyadhɨ-àlo-drì-nzi-drì-rì	nyadhialodrinzidriri		FALSE	20+{LIG}5+2		
+numerals-logo1259-1-twentyeight-1	numerals-logo1259-1	Chan2019	twentyeight	28	nyadhɨ-àlo-drì-nzi-drì-na	nyadhialodrinzidrina		FALSE	20+{LIG}5+3		
+numerals-logo1259-1-twentynine-1	numerals-logo1259-1	Chan2019	twentynine	29	nyadhɨ-àlo-drì-nzi-drì-su	nyadhialodrinzidrisu		FALSE	20+{LIG}5+4		
+numerals-logo1259-1-thirty-1	numerals-logo1259-1	Chan2019	thirty	30	nyadhɨ-àlo-drì-mudrì	nyadhialodrimudri		FALSE	20+{LIG}10		
+numerals-logo1259-1-forty-1	numerals-logo1259-1	Chan2019	forty	40	nyadhɨ-rì	nyadhiri	( 20 x 2 )	FALSE	20·2		
+numerals-logo1259-1-fifty-1	numerals-logo1259-1	Chan2019	fifty	50	nyadhɨ-rì-drì-drì-mudrì	nyadhiridridrimudri		FALSE	(20·2)+10		
+numerals-logo1259-1-sixty-1	numerals-logo1259-1	Chan2019	sixty	60	nyadhɨ-na	nyadhina	( 20 x 3 )	FALSE	20·3		
+numerals-logo1259-1-seventy-1	numerals-logo1259-1	Chan2019	seventy	70	nyadhɨ-na-drì-drì-mudrì	nyadhinadridrimudri		FALSE	(20·3)+10		
+numerals-logo1259-1-eighty-1	numerals-logo1259-1	Chan2019	eighty	80	nyadhɨ-su	nyadhisu	( 20 x 4 )	FALSE	20·4		
+numerals-logo1259-1-ninety-1	numerals-logo1259-1	Chan2019	ninety	90	nyadhɨ-su-drì-drì-mudrì	nyadhisudridrimudri		FALSE	(20·4)+10		
+numerals-logo1259-1-hundred-1	numerals-logo1259-1	Chan2019	hundred	100	nyadhɨnzi	nyadhinzi		FALSE	20·5		
+numerals-logo1259-1-hundred-2	numerals-logo1259-1	Chan2019	hundred	100	kámá-àlō	kamaalo		FALSE	100		
+numerals-logo1259-1-twohundred-1	numerals-logo1259-1	Chan2019	twohundred	200	nyadhɨ mudrí	nyadhimudri		FALSE	20·10		
+numerals-logo1259-1-twohundred-2	numerals-logo1259-1	Chan2019	twohundred	200	kámá-rì	kamari		FALSE	100·2		
+numerals-logo1259-1-thousand-1	numerals-logo1259-1	Chan2019	thousand	1000	nɡulu-àlo	ngulualo		FALSE	1000·1		
+numerals-logo1259-1-twothousand-1	numerals-logo1259-1	Chan2019	twothousand	2000	nɡulu-rì	nguluri		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-lugb1240-1-one-1	numerals-lugb1240-1	Chan2019	one	1	àlʊ̄	alu		FALSE	1		
+numerals-lugb1240-1-two-1	numerals-lugb1240-1	Chan2019	two	2	ìrɪ̀	iri		FALSE	2		
+numerals-lugb1240-1-three-1	numerals-lugb1240-1	Chan2019	three	3	nā	na		FALSE	3		
+numerals-lugb1240-1-four-1	numerals-lugb1240-1	Chan2019	four	4	sū	su		FALSE	4		
+numerals-lugb1240-1-five-1	numerals-lugb1240-1	Chan2019	five	5	tòwɪ́	towi		FALSE	5		
+numerals-lugb1240-1-six-1	numerals-lugb1240-1	Chan2019	six	6	ázɪ́á	azia		FALSE	5’+1'		
+numerals-lugb1240-1-seven-1	numerals-lugb1240-1	Chan2019	seven	7	ázɪ́ìrɪ̀	aziiri		FALSE	5'+2		
+numerals-lugb1240-1-eight-1	numerals-lugb1240-1	Chan2019	eight	8	àrò	aro		FALSE	8		
+numerals-lugb1240-1-nine-1	numerals-lugb1240-1	Chan2019	nine	9	óròmɪ̀	oromi		FALSE	9		
+numerals-lugb1240-1-ten-1	numerals-lugb1240-1	Chan2019	ten	10	mōdrɪ́	modri		FALSE	10		
+numerals-lugb1240-1-eleven-1	numerals-lugb1240-1	Chan2019	eleven	11	mōdrɪ́ drɪ̀ nɪ̄ àlʊ̄	modridrinialu		FALSE	10+{LIG}1		
+numerals-lugb1240-1-twelve-1	numerals-lugb1240-1	Chan2019	twelve	12	mōdrɪ́ drɪ̀ nɪ̄ ìrì	modridriniiri		FALSE	10+{LIG}2		
+numerals-lugb1240-1-thirteen-1	numerals-lugb1240-1	Chan2019	thirteen	13	mōdrɪ́ drɪ̀ nɪ̄ nā	modridrinina		FALSE	10+{LIG}3		
+numerals-lugb1240-1-fourteen-1	numerals-lugb1240-1	Chan2019	fourteen	14	mōdrɪ́ drɪ̀ nɪ̄ sū	modridrinisu		FALSE	10+{LIG}4		
+numerals-lugb1240-1-fifteen-1	numerals-lugb1240-1	Chan2019	fifteen	15	mōdrɪ́ drɪ̀ nɪ̄ tòwɪ́	modridrinitowi		FALSE	10+{LIG}5		
+numerals-lugb1240-1-sixteen-1	numerals-lugb1240-1	Chan2019	sixteen	16	mōdrɪ́ drɪ̀ nɪ̄ ázɪ́á	modridriniazia		FALSE	10+{LIG}5'+1'		
+numerals-lugb1240-1-seventeen-1	numerals-lugb1240-1	Chan2019	seventeen	17	mōdrɪ́ drɪ̀ nɪ̄ ázɪ́ìrɪ̀	modridriniaziiri		FALSE	10+{LIG}5'+2		
+numerals-lugb1240-1-eighteen-1	numerals-lugb1240-1	Chan2019	eighteen	18	mōdrɪ́ drɪ̀ nɪ̄ àrò	modridriniaro		FALSE	10+{LIG}8		
+numerals-lugb1240-1-nineteen-1	numerals-lugb1240-1	Chan2019	nineteen	19	mōdrɪ́ drɪ̀ nɪ̄ órōmì	modridrinioromi		FALSE	10+{LIG}9		
+numerals-lugb1240-1-twenty-1	numerals-lugb1240-1	Chan2019	twenty	20	kàlɪ́ɪ̀rɪ̀	kaliiri		FALSE	10·2		
+numerals-lugb1240-1-twentyone-1	numerals-lugb1240-1	Chan2019	twentyone	21	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ àlʊ̄	kaliiridrinialu		FALSE	(10·2)+{LIG}1		
+numerals-lugb1240-1-twentytwo-1	numerals-lugb1240-1	Chan2019	twentytwo	22	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ ìrɪ̀	kaliiridriniiri		FALSE	(10·2)+{LIG}2		
+numerals-lugb1240-1-twentythree-1	numerals-lugb1240-1	Chan2019	twentythree	23	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ nā	kaliiridrinina		FALSE	(10·2)+{LIG}3		
+numerals-lugb1240-1-twentyfour-1	numerals-lugb1240-1	Chan2019	twentyfour	24	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ sū	kaliiridrinisu		FALSE	(10·2)+{LIG}4		
+numerals-lugb1240-1-twentyfive-1	numerals-lugb1240-1	Chan2019	twentyfive	25	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ tòwɪ́	kaliiridrinitowi		FALSE	(10·2)+{LIG}5		
+numerals-lugb1240-1-twentysix-1	numerals-lugb1240-1	Chan2019	twentysix	26	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ ázɪ́á	kaliiridriniazia		FALSE	(10·2)+{LIG}5'+1'		
+numerals-lugb1240-1-twentyseven-1	numerals-lugb1240-1	Chan2019	twentyseven	27	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ ázɪ́ìrɪ̀	kaliiridriniaziiri		FALSE	(10·2)+{LIG}5’+2		
+numerals-lugb1240-1-twentyeight-1	numerals-lugb1240-1	Chan2019	twentyeight	28	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ àrò	kaliiridriniaro		FALSE	(10·2)+{LIG}8		
+numerals-lugb1240-1-twentynine-1	numerals-lugb1240-1	Chan2019	twentynine	29	kàlɪ́ɪ̀rɪ̀ drɪ̀ nɪ̄ óròmɪ̀	kaliiridrinioromi		FALSE	(10·2)+{LIG}9		
+numerals-lugb1240-1-thirty-1	numerals-lugb1240-1	Chan2019	thirty	30	kàlɪ́nā	kalina		FALSE	10·3		
+numerals-lugb1240-1-forty-1	numerals-lugb1240-1	Chan2019	forty	40	kàlɪ́sū	kalisu		FALSE	10·4		
+numerals-lugb1240-1-fifty-1	numerals-lugb1240-1	Chan2019	fifty	50	kàlɪ́tòwɪ́	kalitowi		FALSE	10·5		
+numerals-lugb1240-1-sixty-1	numerals-lugb1240-1	Chan2019	sixty	60	kàlɪ́ázíá	kaliazia		FALSE	10·(5’+1’)		
+numerals-lugb1240-1-seventy-1	numerals-lugb1240-1	Chan2019	seventy	70	kàlɪ́ázɪ́ìrɪ̀	kaliaziiri		FALSE	10·(5’+2)		
+numerals-lugb1240-1-eighty-1	numerals-lugb1240-1	Chan2019	eighty	80	kàlɪ́àrò	kaliaro		FALSE	10·8		
+numerals-lugb1240-1-ninety-1	numerals-lugb1240-1	Chan2019	ninety	90	kàlɪ́órōmɪ̀	kalioromi		FALSE	10·9		
+numerals-lugb1240-1-hundred-1	numerals-lugb1240-1	Chan2019	hundred	100	tʊ́rʊ́ àlʊ̄	turualu		FALSE	100·1		
+numerals-lugb1240-1-twohundred-1	numerals-lugb1240-1	Chan2019	twohundred	200	tʊ́rʊ́ ìrɪ̀	turuiri		FALSE	100·2		
+numerals-lugb1240-1-thousand-1	numerals-lugb1240-1	Chan2019	thousand	1000	élɪ̀fù àlʊ̄	elifualu	( élɪ̀fù  < Swahili / Arabic )	TRUE	1000·1		
+numerals-lugb1240-1-twothousand-1	numerals-lugb1240-1	Chan2019	twothousand	2000	élɪ̀fù ìrɪ̀	elifuiri		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-luto1241-1-one-1	numerals-luto1241-1	Chan2019	one	1	ɗóí	doi		FALSE	1		
+numerals-luto1241-1-two-1	numerals-luto1241-1	Chan2019	two	2	zíò	zio		FALSE	2		
+numerals-luto1241-1-three-1	numerals-luto1241-1	Chan2019	three	3	mútà	muta		FALSE	3		
+numerals-luto1241-1-four-1	numerals-luto1241-1	Chan2019	four	4	só	so		FALSE	4		
+numerals-luto1241-1-five-1	numerals-luto1241-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-luto1241-1-six-1	numerals-luto1241-1	Chan2019	six	6	mí zò ɗóí	mizodoi	( 5 + 1)	FALSE	5+{LIG}1		
+numerals-luto1241-1-seven-1	numerals-luto1241-1	Chan2019	seven	7	kál m͡bákàɗɛ̀	kalmbakade	( 8 -  1)	FALSE	1’-8		
+numerals-luto1241-1-eight-1	numerals-luto1241-1	Chan2019	eight	8	m͡bákàɗɛ́	mbakade		FALSE	8		
+numerals-luto1241-1-nine-1	numerals-luto1241-1	Chan2019	nine	9	kál ɓú	kalbu	( 10 - 1)	FALSE	1’-10		
+numerals-luto1241-1-ten-1	numerals-luto1241-1	Chan2019	ten	10	ɓú	bu		FALSE	10		
+numerals-luto1241-1-eleven-1	numerals-luto1241-1	Chan2019	eleven	11	ɓú zò ɗóí	buzodoi		FALSE	10+{LIG}1		
+numerals-luto1241-1-twelve-1	numerals-luto1241-1	Chan2019	twelve	12	ɓú zò zíò	buzozio		FALSE	10+{LIG}2		
+numerals-luto1241-1-thirteen-1	numerals-luto1241-1	Chan2019	thirteen	13	ɓú zò mútà	buzomuta		FALSE	10+{LIG}3		
+numerals-luto1241-1-fourteen-1	numerals-luto1241-1	Chan2019	fourteen	14	ɓú zò só	buzoso		FALSE	10+{LIG}4		
+numerals-luto1241-1-fifteen-1	numerals-luto1241-1	Chan2019	fifteen	15	ɓú zò mí	buzomi		FALSE	10+{LIG}5		
+numerals-luto1241-1-sixteen-1	numerals-luto1241-1	Chan2019	sixteen	16	ɓú zò mí zò ɗóí	buzomizodoi		FALSE	10+{LIG}5+{LIG}1		
+numerals-luto1241-1-seventeen-1	numerals-luto1241-1	Chan2019	seventeen	17	ɓú zò mí kál m͡bákàɗɛ̀	buzomikalmbakade		FALSE	10+{LIG}1’-8		
+numerals-luto1241-1-eighteen-1	numerals-luto1241-1	Chan2019	eighteen	18	ɓú m͡bákàɗɛ́	bumbakade		FALSE	10+{LIG}8		
+numerals-luto1241-1-nineteen-1	numerals-luto1241-1	Chan2019	nineteen	19	ɓú zò kál ɓú	buzokalbu		FALSE	10+{LIG}1'-10		
+numerals-luto1241-1-twenty-1	numerals-luto1241-1	Chan2019	twenty	20	úndà ɗóí	undadoi		FALSE	20·1		
+numerals-luto1241-1-twentyone-1	numerals-luto1241-1	Chan2019	twentyone	21	úndà ɗóí zò ɗóí	undadoizodoi		FALSE	(20·1)+{LIG}1		
+numerals-luto1241-1-twentytwo-1	numerals-luto1241-1	Chan2019	twentytwo	22	úndà ɗóí zò zíò	undadoizozio		FALSE	(20·1)+{LIG}2		
+numerals-luto1241-1-twentythree-1	numerals-luto1241-1	Chan2019	twentythree	23	úndà ɗóí zò mútà	undadoizomuta		FALSE	(20·1)+{LIG}3		
+numerals-luto1241-1-twentyfour-1	numerals-luto1241-1	Chan2019	twentyfour	24	úndà ɗóí zò só	undadoizoso		FALSE	(20·1)+{LIG}4		
+numerals-luto1241-1-twentyfive-1	numerals-luto1241-1	Chan2019	twentyfive	25	úndà ɗóí zò mí	undadoizomi		FALSE	(20·1)+{LIG}5		
+numerals-luto1241-1-twentysix-1	numerals-luto1241-1	Chan2019	twentysix	26	úndà ɗóí zò mí zò ɗóí	undadoizomizodoi		FALSE	(20·1)+{LIG}5+{LIG}1		
+numerals-luto1241-1-twentyseven-1	numerals-luto1241-1	Chan2019	twentyseven	27	úndà ɗóí zò kál m͡bákàɗɛ̀	undadoizokalmbakade		FALSE	(20·1)+{LIG}1’-8		
+numerals-luto1241-1-twentyeight-1	numerals-luto1241-1	Chan2019	twentyeight	28	úndà ɗóí zò m͡bákàɗɛ́	undadoizombakade		FALSE	(20·1)+{LIG}8		
+numerals-luto1241-1-twentynine-1	numerals-luto1241-1	Chan2019	twentynine	29	úndà ɗóí zò kál ɓú	undadoizokalbu		FALSE	(20·1)+{LIG}1’-10		
+numerals-luto1241-1-thirty-1	numerals-luto1241-1	Chan2019	thirty	30	úndà ɗóí zò ɓú	undadoizobu		FALSE	(20·1)+{LIG}10		
+numerals-luto1241-1-forty-1	numerals-luto1241-1	Chan2019	forty	40	úndà zíò	undazio	( 20 x 2 )	FALSE	20·2		
+numerals-luto1241-1-fifty-1	numerals-luto1241-1	Chan2019	fifty	50	úndà zíò zò ɓú	undaziozobu		FALSE	(20·2)+10		
+numerals-luto1241-1-sixty-1	numerals-luto1241-1	Chan2019	sixty	60	úndà mútà	undamuta	( 20 x 3 )	FALSE	20·3		
+numerals-luto1241-1-seventy-1	numerals-luto1241-1	Chan2019	seventy	70	úndà mútà zò ɓú	undamutazobu		FALSE	(20·3)+10		
+numerals-luto1241-1-eighty-1	numerals-luto1241-1	Chan2019	eighty	80	úndà só	undaso	( 20 x 4 )	FALSE	20·4		
+numerals-luto1241-1-ninety-1	numerals-luto1241-1	Chan2019	ninety	90	úndà só zò ɓú	undasozobu		FALSE	(20·4)+10		
+numerals-luto1241-1-hundred-1	numerals-luto1241-1	Chan2019	hundred	100	m͡bámbò ɗóí	mbambodoi		FALSE	100·1		
+numerals-luto1241-1-twohundred-1	numerals-luto1241-1	Chan2019	twohundred	200	m͡bámbò zíò	mbambozio		FALSE	100·2		
+numerals-luto1241-1-thousand-1	numerals-luto1241-1	Chan2019	thousand	1000	sákì ɗóí	sakidoi		FALSE	1000·1		
+numerals-luto1241-1-twothousand-1	numerals-luto1241-1	Chan2019	twothousand	2000	sákì zíò	sakizio		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-madi1260-1-one-1	numerals-madi1260-1	Chan2019	one	1	àlʊ̄	alu		FALSE	1		
+numerals-madi1260-1-two-1	numerals-madi1260-1	Chan2019	two	2	(è)rì	eri		FALSE	2		
+numerals-madi1260-1-three-1	numerals-madi1260-1	Chan2019	three	3	(ī)nā	ina		FALSE	3		
+numerals-madi1260-1-four-1	numerals-madi1260-1	Chan2019	four	4	(ī)sū	isu		FALSE	4		
+numerals-madi1260-1-five-1	numerals-madi1260-1	Chan2019	five	5	tòú	tou		FALSE	5		
+numerals-madi1260-1-six-1	numerals-madi1260-1	Chan2019	six	6	ázɨ́á	azia		FALSE	6		
+numerals-madi1260-1-seven-1	numerals-madi1260-1	Chan2019	seven	7	tûdērì	tuderi		FALSE	5+2		
+numerals-madi1260-1-eight-1	numerals-madi1260-1	Chan2019	eight	8	àrɔ̀	aro		FALSE	8		
+numerals-madi1260-1-nine-1	numerals-madi1260-1	Chan2019	nine	9	drítʃàlʊ̄	dritsalu		FALSE	9		
+numerals-madi1260-1-ten-1	numerals-madi1260-1	Chan2019	ten	10	mūdrí	mudri		FALSE	10		
+numerals-madi1260-1-eleven-1	numerals-madi1260-1	Chan2019	eleven	11	mūdrí límbí àlʊ̄	mudrilimbialu		FALSE	10+{LIG}1		
+numerals-madi1260-1-twelve-1	numerals-madi1260-1	Chan2019	twelve	12	mūdrí límbí èrì	mudrilimbieri		FALSE	10+{LIG}2		
+numerals-madi1260-1-thirteen-1	numerals-madi1260-1	Chan2019	thirteen	13	mūdrí límbí nā	mudrilimbina		FALSE	10+{LIG}3		
+numerals-madi1260-1-fourteen-1	numerals-madi1260-1	Chan2019	fourteen	14	mūdrí límbí sū	mudrilimbisu		FALSE	10+{LIG}4		
+numerals-madi1260-1-fifteen-1	numerals-madi1260-1	Chan2019	fifteen	15	mūdrí límbí tòú	mudrilimbitou		FALSE	10+{LIG}5		
+numerals-madi1260-1-sixteen-1	numerals-madi1260-1	Chan2019	sixteen	16	mūdrí límbí ázɨ́á	mudrilimbiazia		FALSE	10+{LIG}6		
+numerals-madi1260-1-seventeen-1	numerals-madi1260-1	Chan2019	seventeen	17	mūdrí límbí tûdērì	mudrilimbituderi		FALSE	10+{LIG}5+2		
+numerals-madi1260-1-eighteen-1	numerals-madi1260-1	Chan2019	eighteen	18	mūdrí límbí àrɔ̀	mudrilimbiaro		FALSE	10+{LIG}8		
+numerals-madi1260-1-nineteen-1	numerals-madi1260-1	Chan2019	nineteen	19	mūdrí límbí drítʃàlʊ̄	mudrilimbidritsalu		FALSE	10+{LIG}9		
+numerals-madi1260-1-twenty-1	numerals-madi1260-1	Chan2019	twenty	20	mùdrī rì	mudriri		FALSE	10·2		
+numerals-madi1260-1-twentyone-1	numerals-madi1260-1	Chan2019	twentyone	21	mùdrī rì límbí àlʊ̄	mudririlimbialu		FALSE	(10·2)+{LIG}1		
+numerals-madi1260-1-twentytwo-1	numerals-madi1260-1	Chan2019	twentytwo	22	mùdrī rì límbí rì	mudririlimbiri		FALSE	(10·2)+{LIG}2		
+numerals-madi1260-1-twentythree-1	numerals-madi1260-1	Chan2019	twentythree	23	mùdrī rì límbí nā	mudririlimbina		FALSE	(10·2)+{LIG}3		
+numerals-madi1260-1-twentyfour-1	numerals-madi1260-1	Chan2019	twentyfour	24	mùdrī rì límbí sū	mudririlimbisu		FALSE	(10·2)+{LIG}4		
+numerals-madi1260-1-twentyfive-1	numerals-madi1260-1	Chan2019	twentyfive	25	mùdrī rì límbí tòú	mudririlimbitou		FALSE	(10·2)+{LIG}5		
+numerals-madi1260-1-twentysix-1	numerals-madi1260-1	Chan2019	twentysix	26	mùdrī rì límbí ázɨ́á	mudririlimbiazia		FALSE	(10·2)+{LIG}6		
+numerals-madi1260-1-twentyseven-1	numerals-madi1260-1	Chan2019	twentyseven	27	mùdrī rì límbí tûdērì	mudririlimbituderi		FALSE	(10·2)+{LIG}5+2		
+numerals-madi1260-1-twentyeight-1	numerals-madi1260-1	Chan2019	twentyeight	28	mùdrī rì límbí àrɔ̀	mudririlimbiaro		FALSE	(10·2)+{LIG}8		
+numerals-madi1260-1-twentynine-1	numerals-madi1260-1	Chan2019	twentynine	29	mùdrī rì límbí drítʃàlʊ̄	mudririlimbidritsalu		FALSE	(10·2)+{LIG}9		
+numerals-madi1260-1-thirty-1	numerals-madi1260-1	Chan2019	thirty	30	mùdrī nā	mudrina		FALSE	10·3		
+numerals-madi1260-1-forty-1	numerals-madi1260-1	Chan2019	forty	40	mùdrī sū	mudrisu		FALSE	10·4		
+numerals-madi1260-1-fifty-1	numerals-madi1260-1	Chan2019	fifty	50	mùdrī tòú	mudritou		FALSE	10·5		
+numerals-madi1260-1-sixty-1	numerals-madi1260-1	Chan2019	sixty	60	mùdrī ázɨ́á	mudriazia		FALSE	10·6		
+numerals-madi1260-1-seventy-1	numerals-madi1260-1	Chan2019	seventy	70	mùdrī tûdērì	mudrituderi		FALSE	10·(5+2)		
+numerals-madi1260-1-eighty-1	numerals-madi1260-1	Chan2019	eighty	80	mùdrī àrɔ̀	mudriaro		FALSE	10·8		
+numerals-madi1260-1-ninety-1	numerals-madi1260-1	Chan2019	ninety	90	mùdrī drítʃàlʊ̄	mudridritsalu		FALSE	10·9		
+numerals-madi1260-1-hundred-1	numerals-madi1260-1	Chan2019	hundred	100	míà	mia	( < Arabic)	TRUE	100		
+numerals-madi1260-1-twohundred-1	numerals-madi1260-1	Chan2019	twohundred	200	míà èrì	miaeri		true_and_FALSE	100·2		
+numerals-madi1260-1-thousand-1	numerals-madi1260-1	Chan2019	thousand	1000	ɛ́līfʊ̀	elifu	(< Arabic)	TRUE	1000		
+numerals-madi1260-1-twothousand-1	numerals-madi1260-1	Chan2019	twothousand	2000	ɛ́līfʊ̀ èrì	elifueri		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-mang1394-1-one-1	numerals-mang1394-1	Chan2019	one	1	kana	kana		FALSE	1		
+numerals-mang1394-1-two-1	numerals-mang1394-1	Chan2019	two	2	sóóndrwé	soondrwe		FALSE	2		
+numerals-mang1394-1-two-2	numerals-mang1394-1	Chan2019	two	2	sóóndrú	soondru		FALSE	2'		
+numerals-mang1394-1-three-1	numerals-mang1394-1	Chan2019	three	3	sɔ́ta	sota		FALSE	3		
+numerals-mang1394-1-four-1	numerals-mang1394-1	Chan2019	four	4	sɔ́sʉa	sosua		FALSE	4		
+numerals-mang1394-1-five-1	numerals-mang1394-1	Chan2019	five	5	tɔ́zɛrɛna	tozerena		FALSE	5		
+numerals-mang1394-1-five-2	numerals-mang1394-1	Chan2019	five	5	sɔ́zɛrɛna	sozerena		FALSE	5’		
+numerals-mang1394-1-six-1	numerals-mang1394-1	Chan2019	six	6	tɛ́nɡwɛkana	tengwekana		FALSE	5"+1		
+numerals-mang1394-1-six-2	numerals-mang1394-1	Chan2019	six	6	ɛ́tɛana	eteana		FALSE	6		
+numerals-mang1394-1-seven-1	numerals-mang1394-1	Chan2019	seven	7	tónórwe	tonorwe		FALSE	5"'+2		
+numerals-mang1394-1-seven-2	numerals-mang1394-1	Chan2019	seven	7	tónóru	tonoru		FALSE	5"'+2'		
+numerals-mang1394-1-eight-1	numerals-mang1394-1	Chan2019	eight	8	bɔɡɨna	bogina		FALSE	8		
+numerals-mang1394-1-nine-1	numerals-mang1394-1	Chan2019	nine	9	téndeléɡí	tendelegi		FALSE	9		
+numerals-mang1394-1-ten-1	numerals-mang1394-1	Chan2019	ten	10	tɛ́ɛ́vhɛ́	teevhe		FALSE	10		
+numerals-mang1394-1-eleven-1	numerals-mang1394-1	Chan2019	eleven	11	tɛ́ɛ́vhɛ (án)eɡí kana	teevheanegikana		FALSE	10+{LIG}1		
+numerals-mang1394-1-twelve-1	numerals-mang1394-1	Chan2019	twelve	12	tɛ́ɛ́vhɛ (án)eɡí sóóndrwé	teevheanegisoondrwe		FALSE	10+{LIG}2		
+numerals-mang1394-1-thirteen-1	numerals-mang1394-1	Chan2019	thirteen	13	tɛ́ɛ́vhɛ (án)eɡí sɔ́ta	teevheanegisota		FALSE	10+{LIG}3		
+numerals-mang1394-1-fourteen-1	numerals-mang1394-1	Chan2019	fourteen	14	tɛ́ɛ́vhɛ (án)eɡí sɔ́sʉa	teevheanegisosua		FALSE	10+{LIG}4		
+numerals-mang1394-1-fifteen-1	numerals-mang1394-1	Chan2019	fifteen	15	tɛ́ɛ́vhɛ (án)eɡí tɔ́zɛrɛna	teevheanegitozerena		FALSE	10+{LIG}5		
+numerals-mang1394-1-sixteen-1	numerals-mang1394-1	Chan2019	sixteen	16	tɛ́ɛ́vhɛ (án)eɡí tɛ́nɡwɛkana	teevheanegitengwekana		FALSE	10+{LIG}5"+1		
+numerals-mang1394-1-seventeen-1	numerals-mang1394-1	Chan2019	seventeen	17	tɛ́ɛ́vhɛ (án)eɡí tónórwe	teevheanegitonorwe		FALSE	10+{LIG}5'"+2		
+numerals-mang1394-1-eighteen-1	numerals-mang1394-1	Chan2019	eighteen	18	tɛ́ɛ́vhɛ (án)eɡí bɔɡɨna	teevheanegibogina		FALSE	10+{LIG}8		
+numerals-mang1394-1-nineteen-1	numerals-mang1394-1	Chan2019	nineteen	19	tɛ́ɛ́vhɛ (án)eɡí téndeléɡí	teevheanegitendelegi		FALSE	10+{LIG}9		
+numerals-mang1394-1-twenty-1	numerals-mang1394-1	Chan2019	twenty	20	ɛtɛ́ɛ́vhɛ sóóndrwé	eteevhesoondrwe		FALSE	10·2		
+numerals-mang1394-1-twentyone-1	numerals-mang1394-1	Chan2019	twentyone	21	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí kana	eteevhesoondrweanegikana		FALSE	(10·2)+{LIG}1		
+numerals-mang1394-1-twentytwo-1	numerals-mang1394-1	Chan2019	twentytwo	22	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí sóóndrwé	eteevhesoondrweanegisoondrwe		FALSE	(10·2)+{LIG}2		
+numerals-mang1394-1-twentythree-1	numerals-mang1394-1	Chan2019	twentythree	23	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí sɔ́ta	eteevhesoondrweanegisota		FALSE	(10·2)+{LIG}3		
+numerals-mang1394-1-twentyfour-1	numerals-mang1394-1	Chan2019	twentyfour	24	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí sɔ́sʉa	eteevhesoondrweanegisosua		FALSE	(10·2)+{LIG}4		
+numerals-mang1394-1-twentyfive-1	numerals-mang1394-1	Chan2019	twentyfive	25	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí tɔ́zɛrɛna	eteevhesoondrweanegitozerena		FALSE	(10·2)+{LIG}5		
+numerals-mang1394-1-twentysix-1	numerals-mang1394-1	Chan2019	twentysix	26	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí tɛ́nɡwɛkana	eteevhesoondrweanegitengwekana		FALSE	(10·2)+{LIG}5”+1		
+numerals-mang1394-1-twentyseven-1	numerals-mang1394-1	Chan2019	twentyseven	27	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí tónórwe	eteevhesoondrweanegitonorwe		FALSE	(10·2)+{LIG}5”'+2'		
+numerals-mang1394-1-twentyeight-1	numerals-mang1394-1	Chan2019	twentyeight	28	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí bɔɡɨna	eteevhesoondrweanegibogina		FALSE	(10·2)+{LIG}8		
+numerals-mang1394-1-twentynine-1	numerals-mang1394-1	Chan2019	twentynine	29	ɛtɛ́ɛ́vhɛ sóóndrwé (án)eɡí téndeléɡí	eteevhesoondrweanegitendelegi		FALSE	(10·2)+{LIG}9		
+numerals-mang1394-1-thirty-1	numerals-mang1394-1	Chan2019	thirty	30	ɛtɛ́ɛ́vhɛ sɔ́ta	eteevhesota		FALSE	10·3		
+numerals-mang1394-1-forty-1	numerals-mang1394-1	Chan2019	forty	40	ɛtɛ́ɛ́vhɛ sɔ́sʉa	eteevhesosua		FALSE	10·4		
+numerals-mang1394-1-fifty-1	numerals-mang1394-1	Chan2019	fifty	50	ɛtɛ́ɛ́vhɛ tɔ́zɛrɛna	eteevhetozerena		FALSE	10·5		
+numerals-mang1394-1-sixty-1	numerals-mang1394-1	Chan2019	sixty	60	ɛtɛ́ɛ́vhɛ tɛ́nɡwɛkana	eteevhetengwekana		FALSE	10·(5’+1)		
+numerals-mang1394-1-seventy-1	numerals-mang1394-1	Chan2019	seventy	70	ɛtɛ́ɛ́vhɛ tónórwe	eteevhetonorwe		FALSE	10·(5"’+2)		
+numerals-mang1394-1-eighty-1	numerals-mang1394-1	Chan2019	eighty	80	ɛtɛ́ɛ́vhɛ bɔɡɨna	eteevhebogina		FALSE	10·8		
+numerals-mang1394-1-ninety-1	numerals-mang1394-1	Chan2019	ninety	90	ɛtɛ́ɛ́vhɛ téndeléɡí	eteevhetendelegi		FALSE	10·9		
+numerals-mang1394-1-hundred-1	numerals-mang1394-1	Chan2019	hundred	100	nɛ́kámá kana	nekamakana		FALSE	100·1		
+numerals-mang1394-1-twohundred-1	numerals-mang1394-1	Chan2019	twohundred	200	ɛ́káma sóóndrwé	ekamasoondrwe		FALSE	100·2		
+numerals-mang1394-1-thousand-1	numerals-mang1394-1	Chan2019	thousand	1000	nɛ́kútu kana	nekutukana		FALSE	1000·1		
+numerals-mang1394-1-twothousand-1	numerals-mang1394-1	Chan2019	twothousand	2000	ɛ́kútu sóóndrwé	ekutusoondrwe		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-mang1398-1-one-1	numerals-mang1398-1	Chan2019	one	1	kárē	kare		FALSE	1		
+numerals-mang1398-1-two-1	numerals-mang1398-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-mang1398-1-three-1	numerals-mang1398-1	Chan2019	three	3	mɨ̀tə́	mita		FALSE	3		
+numerals-mang1398-1-four-1	numerals-mang1398-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-mang1398-1-five-1	numerals-mang1398-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-mang1398-1-six-1	numerals-mang1398-1	Chan2019	six	6	mèhẽ́	mehe		FALSE	6	5+1’	
+numerals-mang1398-1-seven-1	numerals-mang1398-1	Chan2019	seven	7	sīrí	siri		FALSE	7		
+numerals-mang1398-1-eight-1	numerals-mang1398-1	Chan2019	eight	8	jī̄-nàɲ-jōó	jinanjoo	( 10 - 2 )	FALSE	10-{LIG}2		
+numerals-mang1398-1-nine-1	numerals-mang1398-1	Chan2019	nine	9	jī̄-nàɲ-kárē	jinankare	( 10 - 1 )	FALSE	10-{LIG}1		
+numerals-mang1398-1-ten-1	numerals-mang1398-1	Chan2019	ten	10	dɔ̀ɡɨ̀	dogi		FALSE	10		
+numerals-mang1398-1-eleven-1	numerals-mang1398-1	Chan2019	eleven	11	dɔ̀ɡɨ̀-dé-kárē	dogidekare		FALSE	10+{LIG}1		
+numerals-mang1398-1-twelve-1	numerals-mang1398-1	Chan2019	twelve	12	dɔ̀ɡɨ̀-dé-jōó	dogidejoo		FALSE	10+{LIG}2		
+numerals-mang1398-1-thirteen-1	numerals-mang1398-1	Chan2019	thirteen	13	dɔ̀ɡɨ̀-dé-mɨ̀tə́	dogidemita		FALSE	10+{LIG}3		
+numerals-mang1398-1-fourteen-1	numerals-mang1398-1	Chan2019	fourteen	14	dɔ̀ɡɨ̀-dé-sɔ́	dogideso		FALSE	10+{LIG}4		
+numerals-mang1398-1-fifteen-1	numerals-mang1398-1	Chan2019	fifteen	15	dɔ̀ɡɨ̀-dé-mí	dogidemi		FALSE	10+{LIG}5		
+numerals-mang1398-1-sixteen-1	numerals-mang1398-1	Chan2019	sixteen	16	dɔ̀ɡɨ̀-dé-mèhẽ́	dogidemehe		FALSE	10+{LIG}6		
+numerals-mang1398-1-seventeen-1	numerals-mang1398-1	Chan2019	seventeen	17	dɔ̀ɡɨ̀-dé-sīrí	dogidesiri		FALSE	10+{LIG}7		
+numerals-mang1398-1-eighteen-1	numerals-mang1398-1	Chan2019	eighteen	18	dɔ̀ɡɨ̀-dé-jī̄-nàɲ-jōó	dogidejinanjoo		FALSE	10+{LIG}10-{LIG}2		
+numerals-mang1398-1-nineteen-1	numerals-mang1398-1	Chan2019	nineteen	19	dɔ̀ɡɨ̀-dé-jī̄-nàɲ-kárē	dogidejinankare		FALSE	10+{LIG}10-{LIG}1		
+numerals-mang1398-1-twenty-1	numerals-mang1398-1	Chan2019	twenty	20	kɔ̄r-jōó	korjoo		FALSE	10’·2		
+numerals-mang1398-1-twentyone-1	numerals-mang1398-1	Chan2019	twentyone	21	kɔ̄r-jōó-ɡɨ̀dé-kárē	korjoogidekare		FALSE	(10’·2)+{LIG}1		
+numerals-mang1398-1-twentytwo-1	numerals-mang1398-1	Chan2019	twentytwo	22	kɔ̄r-jōó-ɡɨ̀dé-jōó	korjoogidejoo		FALSE	(10’·2)+{LIG}2		
+numerals-mang1398-1-twentythree-1	numerals-mang1398-1	Chan2019	twentythree	23	kɔ̄r-jōó-ɡɨ̀dé-mɨ̀tə́	korjoogidemita		FALSE	(10’·2)+{LIG}3		
+numerals-mang1398-1-twentyfour-1	numerals-mang1398-1	Chan2019	twentyfour	24	kɔ̄r-jōó-ɡɨ̀dé-sɔ́	korjoogideso		FALSE	(10’·2)+{LIG}4		
+numerals-mang1398-1-twentyfive-1	numerals-mang1398-1	Chan2019	twentyfive	25	kɔ̄r-jōó-ɡɨ̀dé-mí	korjoogidemi		FALSE	(10’·2)+{LIG}5		
+numerals-mang1398-1-twentysix-1	numerals-mang1398-1	Chan2019	twentysix	26	kɔ̄r-jōó-ɡɨ̀dé-mèhẽ́	korjoogidemehe		FALSE	(10’·2)+{LIG}6		
+numerals-mang1398-1-twentyseven-1	numerals-mang1398-1	Chan2019	twentyseven	27	kɔ̄r-jōó-ɡɨ̀dé-sīrí	korjoogidesiri		FALSE	(10’·2)+{LIG}7		
+numerals-mang1398-1-twentyeight-1	numerals-mang1398-1	Chan2019	twentyeight	28	kɔ̄r-jōó-ɡɨ̀dé-jī̄-nàɲ-jōó	korjoogidejinanjoo		FALSE	(10’·2)+{LIG}10-{LIG}2		
+numerals-mang1398-1-twentynine-1	numerals-mang1398-1	Chan2019	twentynine	29	kɔ̄r-jōó-ɡɨ̀dé-jī̄-nàɲ-kárē	korjoogidejinankare		FALSE	(10’·2)+{LIG}10-{LIG}1		
+numerals-mang1398-1-thirty-1	numerals-mang1398-1	Chan2019	thirty	30	kɔ̄r-mɨ̀tə́	kormita		FALSE	10·3		
+numerals-mang1398-1-forty-1	numerals-mang1398-1	Chan2019	forty	40	kɔ̄r-sɔ́	korso		FALSE	10·4		
+numerals-mang1398-1-fifty-1	numerals-mang1398-1	Chan2019	fifty	50	kɔ̄r-mí	kormi		FALSE	10·5		
+numerals-mang1398-1-sixty-1	numerals-mang1398-1	Chan2019	sixty	60	kɔ̄r-mèhẽ́	kormehe		FALSE	10·6		
+numerals-mang1398-1-seventy-1	numerals-mang1398-1	Chan2019	seventy	70	kɔ̄r-sīrí	korsiri		FALSE	10·7		
+numerals-mang1398-1-eighty-1	numerals-mang1398-1	Chan2019	eighty	80	kɔ̄r-jī̄-nàɲ-jōó	korjinanjoo		FALSE	10·(10-{LIG}2)		
+numerals-mang1398-1-ninety-1	numerals-mang1398-1	Chan2019	ninety	90	kɔ̄r-jī̄-jī̄-nàɲ-kárē	korjijinankare		FALSE	10·(10-{LIG}1)		
+numerals-mang1398-1-hundred-1	numerals-mang1398-1	Chan2019	hundred	100	ɓú	bu		FALSE	100		
+numerals-mang1398-1-twohundred-1	numerals-mang1398-1	Chan2019	twohundred	200	ɓú-jōó	bujoo		FALSE	100·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-mbay1241-1-one-1	numerals-mbay1241-1	Chan2019	one	1	kə́rā	kara		FALSE	1		
+numerals-mbay1241-1-two-1	numerals-mbay1241-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-mbay1241-1-three-1	numerals-mbay1241-1	Chan2019	three	3	mə̀tá	mata		FALSE	3		
+numerals-mbay1241-1-four-1	numerals-mbay1241-1	Chan2019	four	4	sɔ̄ɔ́	soo		FALSE	4		
+numerals-mbay1241-1-five-1	numerals-mbay1241-1	Chan2019	five	5	mḭ̄́ḭ	mii		FALSE	5		
+numerals-mbay1241-1-six-1	numerals-mbay1241-1	Chan2019	six	6	kə́-bɔ̀y-dètə́	kaboydeta		FALSE	6	check: composite six, insufficient data to determine constituents	
+numerals-mbay1241-1-seven-1	numerals-mbay1241-1	Chan2019	seven	7	tènə̀-mə̀tá	tenamata	( 5 + 1 )	FALSE	4'+3		
+numerals-mbay1241-1-eight-1	numerals-mbay1241-1	Chan2019	eight	8	jī-jōó	jijoo	( 10 - 2 )	FALSE	10—2		
+numerals-mbay1241-1-nine-1	numerals-mbay1241-1	Chan2019	nine	9	jī-kə́rā	jikara	( 10 - 1 )	FALSE	10—1		
+numerals-mbay1241-1-ten-1	numerals-mbay1241-1	Chan2019	ten	10	kə̀lá	kala		FALSE	10		
+numerals-mbay1241-1-eleven-1	numerals-mbay1241-1	Chan2019	eleven	11	kə̀lá-ɡìdə̀-kə̀-kə́rā	kalagidakakara		FALSE	10'+{LIG}1		
+numerals-mbay1241-1-twelve-1	numerals-mbay1241-1	Chan2019	twelve	12	kə̀lá-ɡìdə̀-kə̀-jōó	kalagidakajoo		FALSE	10'+{LIG}2		
+numerals-mbay1241-1-thirteen-1	numerals-mbay1241-1	Chan2019	thirteen	13	kə̀lá-ɡìdə̀-kə̀-mə̀tá	kalagidakamata		FALSE	10'+{LIG}3		
+numerals-mbay1241-1-fourteen-1	numerals-mbay1241-1	Chan2019	fourteen	14	kə̀lá-ɡìdə̀-kə̀-sɔ̄ɔ́	kalagidakasoo		FALSE	10'+{LIG}4		
+numerals-mbay1241-1-fifteen-1	numerals-mbay1241-1	Chan2019	fifteen	15	kə̀lá-ɡìdə̀-kə̀-mḭ̄́ḭ	kalagidakamii		FALSE	10'+{LIG}5		
+numerals-mbay1241-1-sixteen-1	numerals-mbay1241-1	Chan2019	sixteen	16	kə̀lá-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́	kalagidakakaboydeta		FALSE	10'+{LIG}6{?}		
+numerals-mbay1241-1-seventeen-1	numerals-mbay1241-1	Chan2019	seventeen	17	kə̀lá-ɡìdə̀-kə̀-tènə̀-mə̀tá	kalagidakatenamata		FALSE	10'+{LIG}4'+3		
+numerals-mbay1241-1-eighteen-1	numerals-mbay1241-1	Chan2019	eighteen	18	kə̀lá-ɡìdə̀-kə̀-jī-jōó	kalagidakajijoo		FALSE	10'+{LIG}10-2		
+numerals-mbay1241-1-nineteen-1	numerals-mbay1241-1	Chan2019	nineteen	19	kə̀lá-ɡìdə̀-kə̀-jī-kə́rā	kalagidakajikara		FALSE	10'+{LIG}10-1		
+numerals-mbay1241-1-twenty-1	numerals-mbay1241-1	Chan2019	twenty	20	dɔ̀-jōó	dojoo		FALSE	10”·2		
+numerals-mbay1241-1-twentyone-1	numerals-mbay1241-1	Chan2019	twentyone	21	dɔ̀-jōó-ɡìdə̀-kə̀-kə́rā	dojoogidakakara		FALSE	(10”·2)+1		
+numerals-mbay1241-1-twentytwo-1	numerals-mbay1241-1	Chan2019	twentytwo	22	dɔ̀-jōó-ɡìdə̀-kə̀-jōó	dojoogidakajoo		FALSE	(10”·2)+2		
+numerals-mbay1241-1-twentythree-1	numerals-mbay1241-1	Chan2019	twentythree	23	dɔ̀-jōó-ɡìdə̀-kə̀-mə̀tá	dojoogidakamata		FALSE	(10”·2)+3		
+numerals-mbay1241-1-twentyfour-1	numerals-mbay1241-1	Chan2019	twentyfour	24	dɔ̀-jōó-ɡìdə̀-kə̀-sɔ̄ɔ́	dojoogidakasoo		FALSE	(10”·2)+4		
+numerals-mbay1241-1-twentyfive-1	numerals-mbay1241-1	Chan2019	twentyfive	25	dɔ̀-jōó-ɡìdə̀-kə̀-mḭ̄́ḭ	dojoogidakamii		FALSE	(10”·2)+5		
+numerals-mbay1241-1-twentysix-1	numerals-mbay1241-1	Chan2019	twentysix	26	dɔ̀-jōó-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́	dojoogidakakaboydeta		FALSE	(10”·2)+6{?}		
+numerals-mbay1241-1-twentyseven-1	numerals-mbay1241-1	Chan2019	twentyseven	27	dɔ̀-jōó-ɡìdə̀-kə̀-tènə̀-mə̀tá	dojoogidakatenamata		FALSE	(10”·2)+4'+3		
+numerals-mbay1241-1-twentyeight-1	numerals-mbay1241-1	Chan2019	twentyeight	28	dɔ̀-jōó-ɡìdə̀-kə̀-jī-jōó	dojoogidakajijoo		FALSE	(10”·2)+10-2		
+numerals-mbay1241-1-twentynine-1	numerals-mbay1241-1	Chan2019	twentynine	29	dɔ̀-jōó-ɡìdə̀-kə̀-jī-kə́rā	dojoogidakajikara		FALSE	(10”·2)+10-1		
+numerals-mbay1241-1-thirty-1	numerals-mbay1241-1	Chan2019	thirty	30	dɔ̀-mə̀tá	domata		FALSE	10"·3		
+numerals-mbay1241-1-forty-1	numerals-mbay1241-1	Chan2019	forty	40	dɔ̀-sɔ̄ɔ́	dosoo		FALSE	10"·4		
+numerals-mbay1241-1-fifty-1	numerals-mbay1241-1	Chan2019	fifty	50	dɔ̀-mḭ̄́ḭ	domii		FALSE	10"·5		
+numerals-mbay1241-1-sixty-1	numerals-mbay1241-1	Chan2019	sixty	60	dɔ̀-kə́-bɔ̀y-dètə́	dokaboydeta		FALSE	10"·6		
+numerals-mbay1241-1-seventy-1	numerals-mbay1241-1	Chan2019	seventy	70	dɔ̀-tènə̀-mə̀tá	dotenamata		FALSE	10"·(4’+3)		
+numerals-mbay1241-1-eighty-1	numerals-mbay1241-1	Chan2019	eighty	80	dɔ̀-jī-jōó	dojijoo		FALSE	10"·(10-2)		
+numerals-mbay1241-1-ninety-1	numerals-mbay1241-1	Chan2019	ninety	90	dɔ̀-jī-kə́rā	dojikara		FALSE	10"·(10-1)		
+numerals-mbay1241-1-hundred-1	numerals-mbay1241-1	Chan2019	hundred	100	ɓúu	buu		FALSE	100		
+numerals-mbay1241-1-twohundred-1	numerals-mbay1241-1	Chan2019	twohundred	200	ɓúu jōó	buujoo		FALSE	100·2		
+numerals-mbay1241-1-thousand-1	numerals-mbay1241-1	Chan2019	thousand	1000	dūbə́	duba		FALSE	1000		
+numerals-mbay1241-1-twothousand-1	numerals-mbay1241-1	Chan2019	twothousand	2000	dūbə́-djōó	dubadjoo		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-moru1253-1-one-1	numerals-moru1253-1	Chan2019	one	1	àlʊ̄	alu		FALSE	1		
+numerals-moru1253-1-two-1	numerals-moru1253-1	Chan2019	two	2	rì	ri		FALSE	2		
+numerals-moru1253-1-three-1	numerals-moru1253-1	Chan2019	three	3	nā	na		FALSE	3		
+numerals-moru1253-1-four-1	numerals-moru1253-1	Chan2019	four	4	sū	su		FALSE	4		
+numerals-moru1253-1-five-1	numerals-moru1253-1	Chan2019	five	5	nd͡ʒī	ndzi		FALSE	5		
+numerals-moru1253-1-six-1	numerals-moru1253-1	Chan2019	six	6	nd͡ʒī drì àlʊ̄	ndzidrialu	( 5+ 1 )	FALSE	5+{LIG}1		
+numerals-moru1253-1-seven-1	numerals-moru1253-1	Chan2019	seven	7	nd͡ʒī drì rì	ndzidriri	( 5+ 2 )	FALSE	5+{LIG}2		
+numerals-moru1253-1-eight-1	numerals-moru1253-1	Chan2019	eight	8	nd͡ʒī drì nā	ndzidrina	( 5+ 3 )	FALSE	5+{LIG}3		
+numerals-moru1253-1-nine-1	numerals-moru1253-1	Chan2019	nine	9	nd͡ʒī drì sū	ndzidrisu	( 5+ 4 )	FALSE	5+{LIG}4		
+numerals-moru1253-1-ten-1	numerals-moru1253-1	Chan2019	ten	10	ɓùtè	bute		FALSE	10		
+numerals-moru1253-1-eleven-1	numerals-moru1253-1	Chan2019	eleven	11	ɓùtè pá ŋɡā àlʊ̄	butepanggaalu		FALSE	10+{LIG}1		
+numerals-moru1253-1-twelve-1	numerals-moru1253-1	Chan2019	twelve	12	ɓùtè pá ŋɡā rì	butepanggari		FALSE	10+{LIG}2		
+numerals-moru1253-1-thirteen-1	numerals-moru1253-1	Chan2019	thirteen	13	ɓùtè pá ŋɡā nā	butepanggana		FALSE	10+{LIG}3		
+numerals-moru1253-1-fourteen-1	numerals-moru1253-1	Chan2019	fourteen	14	ɓùtè pá ŋɡā sū	butepanggasu		FALSE	10+{LIG}4		
+numerals-moru1253-1-fifteen-1	numerals-moru1253-1	Chan2019	fifteen	15	ɓùtè pá ŋɡā nd͡ʒī	butepanggandzi		FALSE	10+{LIG}5		
+numerals-moru1253-1-sixteen-1	numerals-moru1253-1	Chan2019	sixteen	16	ɓùtè pá ŋɡā nd͡ʒī drì àlʊ̄	butepanggandzidrialu		FALSE	10+{LIG}5+{LIG}1		
+numerals-moru1253-1-seventeen-1	numerals-moru1253-1	Chan2019	seventeen	17	ɓùtè pá ŋɡā nd͡ʒī drì rì	butepanggandzidriri		FALSE	10+{LIG}5+{LIG}2		
+numerals-moru1253-1-eighteen-1	numerals-moru1253-1	Chan2019	eighteen	18	ɓùtè pá ŋɡā nd͡ʒī drì nā	butepanggandzidrina		FALSE	10+{LIG}5+{LIG}3		
+numerals-moru1253-1-nineteen-1	numerals-moru1253-1	Chan2019	nineteen	19	ɓùtè pá ŋɡā nd͡ʒī drì sū	butepanggandzidrisu		FALSE	10+{LIG}5+{LIG}4		
+numerals-moru1253-1-twenty-1	numerals-moru1253-1	Chan2019	twenty	20	ɓùtè rì	buteri		FALSE	10·2		
+numerals-moru1253-1-twentyone-1	numerals-moru1253-1	Chan2019	twentyone	21	ɓùtè ri pá ŋɡā àlʊ̄	buteripanggaalu		FALSE	(10·2)+{LIG}1		
+numerals-moru1253-1-twentytwo-1	numerals-moru1253-1	Chan2019	twentytwo	22	ɓùtè ri pá ŋɡā rì	buteripanggari		FALSE	(10·2)+{LIG}2		
+numerals-moru1253-1-twentythree-1	numerals-moru1253-1	Chan2019	twentythree	23	ɓùtè ri pá ŋɡā nā	buteripanggana		FALSE	(10·2)+{LIG}3		
+numerals-moru1253-1-twentyfour-1	numerals-moru1253-1	Chan2019	twentyfour	24	ɓùtè ri pá ŋɡā sū	buteripanggasu		FALSE	(10·2)+{LIG}4		
+numerals-moru1253-1-twentyfive-1	numerals-moru1253-1	Chan2019	twentyfive	25	ɓùtè ri pá ŋɡā nd͡ʒī	buteripanggandzi		FALSE	(10·2)+{LIG}5		
+numerals-moru1253-1-twentysix-1	numerals-moru1253-1	Chan2019	twentysix	26	ɓùtè ri pá ŋɡā nd͡ʒī drì àlʊ̄	buteripanggandzidrialu		FALSE	(10·2)+{LIG}5+{LIG}1		
+numerals-moru1253-1-twentyseven-1	numerals-moru1253-1	Chan2019	twentyseven	27	ɓùtè ri pá ŋɡā nd͡ʒī drì rì	buteripanggandzidriri		FALSE	(10·2)+{LIG}5+{LIG}2		
+numerals-moru1253-1-twentyeight-1	numerals-moru1253-1	Chan2019	twentyeight	28	ɓùtè ri pá ŋɡā nd͡ʒī drì nā	buteripanggandzidrina		FALSE	(10·2)+{LIG}5+{LIG}3		
+numerals-moru1253-1-twentynine-1	numerals-moru1253-1	Chan2019	twentynine	29	ɓùtè ri pá ŋɡā nd͡ʒī drì sū	buteripanggandzidrisu		FALSE	(10·2)+{LIG}5+{LIG}4		
+numerals-moru1253-1-thirty-1	numerals-moru1253-1	Chan2019	thirty	30	ɓùtè nā	butena		FALSE	10·3		
+numerals-moru1253-1-forty-1	numerals-moru1253-1	Chan2019	forty	40	ɓùtè sū	butesu		FALSE	10·4		
+numerals-moru1253-1-fifty-1	numerals-moru1253-1	Chan2019	fifty	50	ɓùtè nd͡ʒī	butendzi		FALSE	10·5		
+numerals-moru1253-1-sixty-1	numerals-moru1253-1	Chan2019	sixty	60	ɓùtè nd͡ʒī drì àlʊ̄	butendzidrialu		FALSE	10·(5+1)		
+numerals-moru1253-1-seventy-1	numerals-moru1253-1	Chan2019	seventy	70	ɓùtè nd͡ʒī drì rì	butendzidriri		FALSE	10·(5+2)		
+numerals-moru1253-1-eighty-1	numerals-moru1253-1	Chan2019	eighty	80	ɓùtè nd͡ʒī drì nā	butendzidrina		FALSE	10·(5+3)		
+numerals-moru1253-1-ninety-1	numerals-moru1253-1	Chan2019	ninety	90	ɓùtè nd͡ʒī drì sū	butendzidrisu		FALSE	10·(5+4)		
+numerals-moru1253-1-hundred-1	numerals-moru1253-1	Chan2019	hundred	100	kámá àlʊ̄	kamaalu	(kámá < Bangala)	TRUE	100·1		
+numerals-moru1253-1-twohundred-1	numerals-moru1253-1	Chan2019	twohundred	200	míà rì	miari		FALSE	100·2		
+numerals-moru1253-1-thousand-1	numerals-moru1253-1	Chan2019	thousand	1000	kútú àlʊ̄	kutualu	(kútú < Bangala)	TRUE	1000·1		
+numerals-moru1253-1-twothousand-1	numerals-moru1253-1	Chan2019	twothousand	2000	kútú rì	kuturi		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-mvub1239-1-one-1	numerals-mvub1239-1	Chan2019	one	1	eɗì	edi		FALSE	1		
+numerals-mvub1239-1-two-1	numerals-mvub1239-1	Chan2019	two	2	àkpe	akpe		FALSE	2		
+numerals-mvub1239-1-three-1	numerals-mvub1239-1	Chan2019	three	3	ɛ̀tsɪrà	etsira		FALSE	3		
+numerals-mvub1239-1-four-1	numerals-mvub1239-1	Chan2019	four	4	ɛ̀tsɪrɔ̀	etsiro		FALSE	4		
+numerals-mvub1239-1-five-1	numerals-mvub1239-1	Chan2019	five	5	ɛ̀tsɪᵐbú	etsimbu		FALSE	5		
+numerals-mvub1239-1-six-1	numerals-mvub1239-1	Chan2019	six	6	màⁿzà	manza		FALSE	6		
+numerals-mvub1239-1-seven-1	numerals-mvub1239-1	Chan2019	seven	7	làlòɗu	lalodu		FALSE	7		
+numerals-mvub1239-1-eight-1	numerals-mvub1239-1	Chan2019	eight	8	làlɔ̀	lalo		FALSE	8		
+numerals-mvub1239-1-nine-1	numerals-mvub1239-1	Chan2019	nine	9	àᵐbʊ̀tsɪhʊwa	ambutsihuwa		FALSE	10-1’		
+numerals-mvub1239-1-ten-1	numerals-mvub1239-1	Chan2019	ten	10	àᵐʊ̀tsí	amutsi		FALSE	10		
+numerals-mvub1239-1-eleven-1	numerals-mvub1239-1	Chan2019	eleven	11	àᵐʊ̀tsí ìkí eɗì	amutsiikiedi		FALSE	10+{LIG}1		
+numerals-mvub1239-1-twelve-1	numerals-mvub1239-1	Chan2019	twelve	12	àᵐʊ̀tsí ìkí àkpe	amutsiikiakpe		FALSE	10+{LIG}2		
+numerals-mvub1239-1-thirteen-1	numerals-mvub1239-1	Chan2019	thirteen	13	àᵐʊ̀tsí ìkí ɛ̀tsɪrà	amutsiikietsira		FALSE	10+{LIG}3		
+numerals-mvub1239-1-fourteen-1	numerals-mvub1239-1	Chan2019	fourteen	14	àᵐʊ̀tsí ìkí ɛ̀tsɪrɔ̀	amutsiikietsiro		FALSE	10+{LIG}4		
+numerals-mvub1239-1-fifteen-1	numerals-mvub1239-1	Chan2019	fifteen	15	àᵐʊ̀tsí ìkí ɛ̀tsɪᵐbú	amutsiikietsimbu		FALSE	10+{LIG}5		
+numerals-mvub1239-1-sixteen-1	numerals-mvub1239-1	Chan2019	sixteen	16	àᵐʊ̀tsí ìkí màⁿzà	amutsiikimanza		FALSE	10+{LIG}6		
+numerals-mvub1239-1-seventeen-1	numerals-mvub1239-1	Chan2019	seventeen	17	àᵐʊ̀tsí ìkí làlòɗu	amutsiikilalodu		FALSE	10+{LIG}7		
+numerals-mvub1239-1-eighteen-1	numerals-mvub1239-1	Chan2019	eighteen	18	àᵐʊ̀tsí ìkí làlɔ̀	amutsiikilalo		FALSE	10+{LIG}8		
+numerals-mvub1239-1-nineteen-1	numerals-mvub1239-1	Chan2019	nineteen	19	àᵐʊ̀tsí ìkí àᵐbʊ̀tsɪhʊwa	amutsiikiambutsihuwa		FALSE	10+{LIG}10-1’		
+numerals-mvub1239-1-twenty-1	numerals-mvub1239-1	Chan2019	twenty	20	ɓuwa	buwa		FALSE	20		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-naba1253-1-one-1	numerals-naba1253-1	Chan2019	one	1	fèné	fene		FALSE	1		
+numerals-naba1253-1-one-2	numerals-naba1253-1	Chan2019	one	1	pènè	pene		FALSE	1		
+numerals-naba1253-1-two-1	numerals-naba1253-1	Chan2019	two	2	rìyó	riyo		FALSE	2		
+numerals-naba1253-1-three-1	numerals-naba1253-1	Chan2019	three	3	mɔ̀tɔ́	moto		FALSE	3		
+numerals-naba1253-1-three-2	numerals-naba1253-1	Chan2019	three	3	mátà	mata		FALSE	3		
+numerals-naba1253-1-four-1	numerals-naba1253-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-naba1253-1-five-1	numerals-naba1253-1	Chan2019	five	5	móy	moy		FALSE	5		
+numerals-naba1253-1-six-1	numerals-naba1253-1	Chan2019	six	6	míʃà	misa		FALSE	6		
+numerals-naba1253-1-six-2	numerals-naba1253-1	Chan2019	six	6	máʃà	masa		FALSE	6		
+numerals-naba1253-1-seven-1	numerals-naba1253-1	Chan2019	seven	7	sī̄lí	sili		FALSE	7		
+numerals-naba1253-1-eight-1	numerals-naba1253-1	Chan2019	eight	8	rātá	rata		FALSE	8	5’+3	
+numerals-naba1253-1-nine-1	numerals-naba1253-1	Chan2019	nine	9	rɔ̄fó	rofo		FALSE	9	5’+4	
+numerals-naba1253-1-ten-1	numerals-naba1253-1	Chan2019	ten	10	sí	si		FALSE	10		
+numerals-naba1253-1-eleven-1	numerals-naba1253-1	Chan2019	eleven	11	sí kàr fèné	sikarfene		FALSE	10+{LIG}1		
+numerals-naba1253-1-twelve-1	numerals-naba1253-1	Chan2019	twelve	12	sí kàr rìyó	sikarriyo		FALSE	10+{LIG}2		
+numerals-naba1253-1-thirteen-1	numerals-naba1253-1	Chan2019	thirteen	13	sí kàr mɔ̀tɔ́	sikarmoto		FALSE	10+{LIG}3		
+numerals-naba1253-1-fourteen-1	numerals-naba1253-1	Chan2019	fourteen	14	sí kàr sɔ́	sikarso		FALSE	10+{LIG}4		
+numerals-naba1253-1-fifteen-1	numerals-naba1253-1	Chan2019	fifteen	15	sí kàr móy	sikarmoy		FALSE	10+{LIG}5		
+numerals-naba1253-1-sixteen-1	numerals-naba1253-1	Chan2019	sixteen	16	sí kàr míʃà	sikarmisa		FALSE	10+{LIG}6		
+numerals-naba1253-1-seventeen-1	numerals-naba1253-1	Chan2019	seventeen	17	sí kàr sī̄lí	sikarsili		FALSE	10+{LIG}7		
+numerals-naba1253-1-eighteen-1	numerals-naba1253-1	Chan2019	eighteen	18	sí kàr rātá	sikarrata		FALSE	10+{LIG}8		
+numerals-naba1253-1-nineteen-1	numerals-naba1253-1	Chan2019	nineteen	19	sí kàr rɔ̄fó	sikarrofo		FALSE	10+{LIG}9		
+numerals-naba1253-1-twenty-1	numerals-naba1253-1	Chan2019	twenty	20	sí rìyó	siriyo		FALSE	10·2		
+numerals-naba1253-1-twentyone-1	numerals-naba1253-1	Chan2019	twentyone	21	sí rìyó kàr fèné	siriyokarfene		FALSE	(10·2)+{LIG}1		
+numerals-naba1253-1-twentytwo-1	numerals-naba1253-1	Chan2019	twentytwo	22	sí rìyó kàr rìyó	siriyokarriyo		FALSE	(10·2)+{LIG}2		
+numerals-naba1253-1-twentythree-1	numerals-naba1253-1	Chan2019	twentythree	23	sí rìyó kàr mɔ̀tɔ́	siriyokarmoto		FALSE	(10·2)+{LIG}3		
+numerals-naba1253-1-twentyfour-1	numerals-naba1253-1	Chan2019	twentyfour	24	sí rìyó kàr sɔ́	siriyokarso		FALSE	(10·2)+{LIG}4		
+numerals-naba1253-1-twentyfive-1	numerals-naba1253-1	Chan2019	twentyfive	25	sí rìyó kàr móy	siriyokarmoy		FALSE	(10·2)+{LIG}5		
+numerals-naba1253-1-twentysix-1	numerals-naba1253-1	Chan2019	twentysix	26	sí rìyó kàr míʃà	siriyokarmisa		FALSE	(10·2)+{LIG}6		
+numerals-naba1253-1-twentyseven-1	numerals-naba1253-1	Chan2019	twentyseven	27	sí rìyó kàr sī̄lí	siriyokarsili		FALSE	(10·2)+{LIG}7		
+numerals-naba1253-1-twentyeight-1	numerals-naba1253-1	Chan2019	twentyeight	28	sí rìyó kàr rātá	siriyokarrata		FALSE	(10·2)+{LIG}8		
+numerals-naba1253-1-twentynine-1	numerals-naba1253-1	Chan2019	twentynine	29	sí rìyó kàr rɔ̄fó	siriyokarrofo		FALSE	(10·2)+{LIG}9		
+numerals-naba1253-1-thirty-1	numerals-naba1253-1	Chan2019	thirty	30	sí mɔ̀tɔ́	simoto		FALSE	10·3		
+numerals-naba1253-1-forty-1	numerals-naba1253-1	Chan2019	forty	40	sí sɔ́	siso		FALSE	10·4		
+numerals-naba1253-1-fifty-1	numerals-naba1253-1	Chan2019	fifty	50	sí móy	simoy		FALSE	10·5		
+numerals-naba1253-1-sixty-1	numerals-naba1253-1	Chan2019	sixty	60	sí míʃà	simisa		FALSE	10·6		
+numerals-naba1253-1-seventy-1	numerals-naba1253-1	Chan2019	seventy	70	sí sī̄lí	sisili		FALSE	10·7		
+numerals-naba1253-1-eighty-1	numerals-naba1253-1	Chan2019	eighty	80	sí rātá	sirata		FALSE	10·8		
+numerals-naba1253-1-ninety-1	numerals-naba1253-1	Chan2019	ninety	90	sí rɔ̄fó	sirofo		FALSE	10·9		
+numerals-naba1253-1-hundred-1	numerals-naba1253-1	Chan2019	hundred	100	kīrú	kiru		FALSE	100		
+numerals-naba1253-1-hundred-2	numerals-naba1253-1	Chan2019	hundred	100	kūrú	kuru		FALSE	100		
+numerals-naba1253-1-twohundred-1	numerals-naba1253-1	Chan2019	twohundred	200	àrū rìyó	aruriyo		FALSE	100'·2		
+numerals-naba1253-1-twohundred-2	numerals-naba1253-1	Chan2019	twohundred	200	àrū rìyó	aruriyo		FALSE	100'·2		
+numerals-naba1253-1-thousand-1	numerals-naba1253-1	Chan2019	thousand	1000	álif	alif		FALSE	100		
+numerals-naba1253-1-thousand-2	numerals-naba1253-1	Chan2019	thousand	1000	dūbú	dubu		FALSE	1000'		
+numerals-naba1253-1-twothousand-1	numerals-naba1253-1	Chan2019	twothousand	2000	álif rìyó	alifriyo		FALSE	1000·2		
+numerals-naba1253-1-twothousand-2	numerals-naba1253-1	Chan2019	twothousand	2000	dūbú rìyó	duburiyo		FALSE	1000'·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-ndoo1242-1-one-1	numerals-ndoo1242-1	Chan2019	one	1	lebù	lebu		FALSE	1		
+numerals-ndoo1242-1-two-1	numerals-ndoo1242-1	Chan2019	two	2	ɨ̀rɨyà	iriya		FALSE	2		
+numerals-ndoo1242-1-three-1	numerals-ndoo1242-1	Chan2019	three	3	mʉ̀swà	muswa		FALSE	3		
+numerals-ndoo1242-1-four-1	numerals-ndoo1242-1	Chan2019	four	4	ʉtɔ̀	uto		FALSE	4		
+numerals-ndoo1242-1-five-1	numerals-ndoo1242-1	Chan2019	five	5	umù	umu		FALSE	5		
+numerals-ndoo1242-1-six-1	numerals-ndoo1242-1	Chan2019	six	6	kazá	kaza		FALSE	6		
+numerals-ndoo1242-1-seven-1	numerals-ndoo1242-1	Chan2019	seven	7	ébíríyo	ebiriyo		FALSE	7	5+2	
+numerals-ndoo1242-1-eight-1	numerals-ndoo1242-1	Chan2019	eight	8	ɔ́bɔ̀rà	obora		FALSE	8	5+3	
+numerals-ndoo1242-1-nine-1	numerals-ndoo1242-1	Chan2019	nine	9	ɔ́bʉ̀nɡwɛnɨ	obungweni		FALSE	9		
+numerals-ndoo1242-1-ten-1	numerals-ndoo1242-1	Chan2019	ten	10	àparɨ	apari		FALSE	10		
+numerals-ndoo1242-1-eleven-1	numerals-ndoo1242-1	Chan2019	eleven	11	àparɨ drukó lebù	aparidrukolebu		FALSE	10+{LIG}1		
+numerals-ndoo1242-1-twelve-1	numerals-ndoo1242-1	Chan2019	twelve	12	àparɨ drukó ɨ̀rɨyà	aparidrukoiriya		FALSE	10+{LIG}2		
+numerals-ndoo1242-1-thirteen-1	numerals-ndoo1242-1	Chan2019	thirteen	13	àparɨ drukó mʉ̀swà	aparidrukomuswa		FALSE	10+{LIG}3		
+numerals-ndoo1242-1-fourteen-1	numerals-ndoo1242-1	Chan2019	fourteen	14	àparɨ drukó ʉtɔ̀	aparidrukouto		FALSE	10+{LIG}4		
+numerals-ndoo1242-1-fifteen-1	numerals-ndoo1242-1	Chan2019	fifteen	15	àparɨ drukó umù	aparidrukoumu		FALSE	10+{LIG}5		
+numerals-ndoo1242-1-sixteen-1	numerals-ndoo1242-1	Chan2019	sixteen	16	àparɨ drukó kazá	aparidrukokaza		FALSE	10+{LIG}6		
+numerals-ndoo1242-1-seventeen-1	numerals-ndoo1242-1	Chan2019	seventeen	17	àparɨ drukó ébíríyo	aparidrukoebiriyo		FALSE	10+{LIG}7		
+numerals-ndoo1242-1-eighteen-1	numerals-ndoo1242-1	Chan2019	eighteen	18	àparɨ drukó ɔ́bɔ̀rà	aparidrukoobora		FALSE	10+{LIG}8		
+numerals-ndoo1242-1-nineteen-1	numerals-ndoo1242-1	Chan2019	nineteen	19	àparɨ drukó ɔ́bʉ̀nɡwɛnɨ	aparidrukoobungweni		FALSE	10+{LIG}9		
+numerals-ndoo1242-1-twenty-1	numerals-ndoo1242-1	Chan2019	twenty	20	pero ɨ̀rɨyà	peroiriya		FALSE	10·2		
+numerals-ndoo1242-1-twentyone-1	numerals-ndoo1242-1	Chan2019	twentyone	21	pero ɨ̀rɨyà drukó lebù	peroiriyadrukolebu		FALSE	(10·2)+{LIG}1		
+numerals-ndoo1242-1-twentytwo-1	numerals-ndoo1242-1	Chan2019	twentytwo	22	pero ɨ̀rɨyà drukó ɨ̀rɨyà	peroiriyadrukoiriya		FALSE	(10·2)+{LIG}2		
+numerals-ndoo1242-1-twentythree-1	numerals-ndoo1242-1	Chan2019	twentythree	23	pero ɨ̀rɨyà drukó mʉ̀swà	peroiriyadrukomuswa		FALSE	(10·2)+{LIG}3		
+numerals-ndoo1242-1-twentyfour-1	numerals-ndoo1242-1	Chan2019	twentyfour	24	pero ɨ̀rɨyà drukó ʉtɔ̀	peroiriyadrukouto		FALSE	(10·2)+{LIG}4		
+numerals-ndoo1242-1-twentyfive-1	numerals-ndoo1242-1	Chan2019	twentyfive	25	pero ɨ̀rɨyà drukó umù	peroiriyadrukoumu		FALSE	(10·2)+{LIG}5		
+numerals-ndoo1242-1-twentysix-1	numerals-ndoo1242-1	Chan2019	twentysix	26	pero ɨ̀rɨyà drukó kazá	peroiriyadrukokaza		FALSE	(10·2)+{LIG}6		
+numerals-ndoo1242-1-twentyseven-1	numerals-ndoo1242-1	Chan2019	twentyseven	27	pero ɨ̀rɨyà drukó ébíríyo	peroiriyadrukoebiriyo		FALSE	(10·2)+{LIG}7		
+numerals-ndoo1242-1-twentyeight-1	numerals-ndoo1242-1	Chan2019	twentyeight	28	pero ɨ̀rɨyà drukó ɔ́bɔ̀rà	peroiriyadrukoobora		FALSE	(10·2)+{LIG}8		
+numerals-ndoo1242-1-twentynine-1	numerals-ndoo1242-1	Chan2019	twentynine	29	pero ɨ̀rɨyà drukó ɔ́bʉ̀nɡwɛnɨ	peroiriyadrukoobungweni		FALSE	(10·2)+{LIG}9		
+numerals-ndoo1242-1-thirty-1	numerals-ndoo1242-1	Chan2019	thirty	30	pero mʉ̀swà	peromuswa		FALSE	10·3		
+numerals-ndoo1242-1-forty-1	numerals-ndoo1242-1	Chan2019	forty	40	pero ʉtɔ̀	perouto		FALSE	10·4		
+numerals-ndoo1242-1-fifty-1	numerals-ndoo1242-1	Chan2019	fifty	50	pero umù	peroumu		FALSE	10·5		
+numerals-ndoo1242-1-sixty-1	numerals-ndoo1242-1	Chan2019	sixty	60	pero kazá	perokaza		FALSE	10·6		
+numerals-ndoo1242-1-seventy-1	numerals-ndoo1242-1	Chan2019	seventy	70	pero ébíríyo	peroebiriyo		FALSE	10·7		
+numerals-ndoo1242-1-eighty-1	numerals-ndoo1242-1	Chan2019	eighty	80	pero ɔ́bɔ̀rà	peroobora		FALSE	10·8		
+numerals-ndoo1242-1-ninety-1	numerals-ndoo1242-1	Chan2019	ninety	90	pero ɔ́bʉ̀nɡwɛnɨ	peroobungweni		FALSE	10·9		
+numerals-ndoo1242-1-hundred-1	numerals-ndoo1242-1	Chan2019	hundred	100	àbhá lebù	abhalebu		FALSE	100·1		
+numerals-ndoo1242-1-twohundred-1	numerals-ndoo1242-1	Chan2019	twohundred	200	abhá ɨ̀rɨyà	abhairiya		FALSE	100·2		
+numerals-ndoo1242-1-fourhundred-1	numerals-ndoo1242-1	Chan2019	fourhundred	400	àbhá ʉtɔ̀	abhauto		FALSE	100·4		
+numerals-ndoo1242-1-eighthundred-1	numerals-ndoo1242-1	Chan2019	eighthundred	800	àbhá ɔ́bɔ̀rà	abhaobora		FALSE	100·8		
+numerals-ndoo1242-1-thousand-1	numerals-ndoo1242-1	Chan2019	thousand	1000	ɪnɡi lebú	ingilebu		FALSE	1000·1		
+numerals-ndoo1242-1-twothousand-1	numerals-ndoo1242-1	Chan2019	twothousand	2000	ɪnɡi ɨ̀rɨyà	ingiiriya		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-ngam1268-1-one-1	numerals-ngam1268-1	Chan2019	one	1	kàrā	kara		FALSE	1		
+numerals-ngam1268-1-two-1	numerals-ngam1268-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-ngam1268-1-three-1	numerals-ngam1268-1	Chan2019	three	3	mùndá	munda		FALSE	3		
+numerals-ngam1268-1-four-1	numerals-ngam1268-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-ngam1268-1-five-1	numerals-ngam1268-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-ngam1268-1-six-1	numerals-ngam1268-1	Chan2019	six	6	mìsã́	misa		FALSE	5+1’		
+numerals-ngam1268-1-six-2	numerals-ngam1268-1	Chan2019	six	6	màhã́	maha		FALSE	5'+1'		
+numerals-ngam1268-1-seven-1	numerals-ngam1268-1	Chan2019	seven	7	sīrí	siri		FALSE	7		
+numerals-ngam1268-1-eight-1	numerals-ngam1268-1	Chan2019	eight	8	jī̄-này-jōó	jinayjoo	( 10 - 2 )	FALSE	10-{LIG}2		
+numerals-ngam1268-1-nine-1	numerals-ngam1268-1	Chan2019	nine	9	jī̄-này-kárā	jinaykara	( 10 - 1 )	FALSE	10-{LIG}1		
+numerals-ngam1268-1-ten-1	numerals-ngam1268-1	Chan2019	ten	10	dɔ̀ɡə̀	doga		FALSE	10		
+numerals-ngam1268-1-eleven-1	numerals-ngam1268-1	Chan2019	eleven	11	dɔ̀ɡə̀-ɡìré-kàrā	dogagirekara		FALSE	10+{LIG}1		
+numerals-ngam1268-1-twelve-1	numerals-ngam1268-1	Chan2019	twelve	12	dɔ̀ɡə̀-ɡìré-jōó	dogagirejoo		FALSE	10+{LIG}2		
+numerals-ngam1268-1-thirteen-1	numerals-ngam1268-1	Chan2019	thirteen	13	dɔ̀ɡə̀-ɡìré-mùndá	dogagiremunda		FALSE	10+{LIG}3		
+numerals-ngam1268-1-fourteen-1	numerals-ngam1268-1	Chan2019	fourteen	14	dɔ̀ɡə̀-ɡìré-sɔ́	dogagireso		FALSE	10+{LIG}4		
+numerals-ngam1268-1-fifteen-1	numerals-ngam1268-1	Chan2019	fifteen	15	dɔ̀ɡə̀-ɡìré-mí	dogagiremi		FALSE	10+{LIG}5		
+numerals-ngam1268-1-sixteen-1	numerals-ngam1268-1	Chan2019	sixteen	16	dɔ̀ɡə̀-ɡìré-mìsã́	dogagiremisa		FALSE	10+{LIG}5+1'		
+numerals-ngam1268-1-seventeen-1	numerals-ngam1268-1	Chan2019	seventeen	17	dɔ̀ɡə̀-ɡìré-sīrí	dogagiresiri		FALSE	10+{LIG}7		
+numerals-ngam1268-1-eighteen-1	numerals-ngam1268-1	Chan2019	eighteen	18	dɔ̀ɡə̀-ɡìré- jī̄-này-jōó	dogagirejinayjoo		FALSE	10+{LIG}(10-{LIG}2)		
+numerals-ngam1268-1-nineteen-1	numerals-ngam1268-1	Chan2019	nineteen	19	dɔ̀ɡə̀-ɡìré-jī̄-này-kárā	dogagirejinaykara		FALSE	10+{LIG}(10-{LIG}1)		
+numerals-ngam1268-1-twenty-1	numerals-ngam1268-1	Chan2019	twenty	20	ɗɔ̄-jōó	dojoo		FALSE	10·2		
+numerals-ngam1268-1-twentyone-1	numerals-ngam1268-1	Chan2019	twentyone	21	ɗɔ̄-jōó-ɡìré-kàrā	dojoogirekara		FALSE	(10·2)+{LIG}1		
+numerals-ngam1268-1-twentytwo-1	numerals-ngam1268-1	Chan2019	twentytwo	22	ɗɔ̄-jōó-ɡìré-jōó	dojoogirejoo		FALSE	(10·2)+{LIG}2		
+numerals-ngam1268-1-twentythree-1	numerals-ngam1268-1	Chan2019	twentythree	23	ɗɔ̄-jōó-ɡìré-mùndá	dojoogiremunda		FALSE	(10·2)+{LIG}3		
+numerals-ngam1268-1-twentyfour-1	numerals-ngam1268-1	Chan2019	twentyfour	24	ɗɔ̄-jōó-ɡìré-sɔ́	dojoogireso		FALSE	(10·2)+{LIG}4		
+numerals-ngam1268-1-twentyfive-1	numerals-ngam1268-1	Chan2019	twentyfive	25	ɗɔ̄-jōó-ɡìré-mí	dojoogiremi		FALSE	(10·2)+{LIG}5		
+numerals-ngam1268-1-twentysix-1	numerals-ngam1268-1	Chan2019	twentysix	26	ɗɔ̄-jōó-ɡìré-mìsã́	dojoogiremisa		FALSE	(10·2)+{LIG}5+1'		
+numerals-ngam1268-1-twentyseven-1	numerals-ngam1268-1	Chan2019	twentyseven	27	ɗɔ̄-jōó-ɡìré-sīrí	dojoogiresiri		FALSE	(10·2)+{LIG}7		
+numerals-ngam1268-1-twentyeight-1	numerals-ngam1268-1	Chan2019	twentyeight	28	ɗɔ̄-jōó-ɡìré- jī̄-này-jōó	dojoogirejinayjoo		FALSE	(10·2)+{LIG}(10-{LIG}2)		
+numerals-ngam1268-1-twentynine-1	numerals-ngam1268-1	Chan2019	twentynine	29	ɗɔ̄-jōó-ɡìré-jī̄-này-kárā	dojoogirejinaykara		FALSE	(10·2)+{LIG}(10-{LIG}1)		
+numerals-ngam1268-1-thirty-1	numerals-ngam1268-1	Chan2019	thirty	30	ɗɔ̄-mùndá	domunda		FALSE	10·3		
+numerals-ngam1268-1-forty-1	numerals-ngam1268-1	Chan2019	forty	40	ɗɔ̄-sɔ́	doso		FALSE	10·4		
+numerals-ngam1268-1-fifty-1	numerals-ngam1268-1	Chan2019	fifty	50	ɗɔ̄-mí	domi		FALSE	10·5		
+numerals-ngam1268-1-sixty-1	numerals-ngam1268-1	Chan2019	sixty	60	ɗɔ̄-mìsã́	domisa		FALSE	10·6		
+numerals-ngam1268-1-seventy-1	numerals-ngam1268-1	Chan2019	seventy	70	ɗɔ̄-sīrí	dosiri		FALSE	10·7		
+numerals-ngam1268-1-eighty-1	numerals-ngam1268-1	Chan2019	eighty	80	ɗɔ̄-jī̄-này-jōó	dojinayjoo		FALSE	10·8		
+numerals-ngam1268-1-ninety-1	numerals-ngam1268-1	Chan2019	ninety	90	ɗɔ̄-jī̄-này-kárā	dojinaykara		FALSE	10·9		
+numerals-ngam1268-1-hundred-1	numerals-ngam1268-1	Chan2019	hundred	100	tɔ̄l	tol		FALSE	100		
+numerals-ngam1268-1-twohundred-1	numerals-ngam1268-1	Chan2019	twohundred	200	tɔ̄l jōó	toljoo		FALSE	100·2		
+numerals-ngam1268-1-thousand-1	numerals-ngam1268-1	Chan2019	thousand	1000	tɔ̄l-dɔ̀ɡə̀	toldoga		FALSE	100·10		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-ngam1269-1-one-1	numerals-ngam1269-1	Chan2019	one	1	kóɡīí	kogii		FALSE	1		
+numerals-ngam1269-1-two-1	numerals-ngam1269-1	Chan2019	two	2	dīyó	diyo		FALSE	2		
+numerals-ngam1269-1-three-1	numerals-ngam1269-1	Chan2019	three	3	mə̀tá	mata		FALSE	3		
+numerals-ngam1269-1-four-1	numerals-ngam1269-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-ngam1269-1-five-1	numerals-ngam1269-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-ngam1269-1-six-1	numerals-ngam1269-1	Chan2019	six	6	mêhḛ́	mehe		FALSE	6	5’+1'	
+numerals-ngam1269-1-seven-1	numerals-ngam1269-1	Chan2019	seven	7	sīrí	siri		FALSE	7		
+numerals-ngam1269-1-eight-1	numerals-ngam1269-1	Chan2019	eight	8	sɔ́sɔ́	soso	( 4 + 4 )	FALSE	4+4		
+numerals-ngam1269-1-nine-1	numerals-ngam1269-1	Chan2019	nine	9	ndōhó	ndoho		FALSE	9		
+numerals-ngam1269-1-ten-1	numerals-ngam1269-1	Chan2019	ten	10	kùtə̀	kuta		FALSE	10		
+numerals-ngam1269-1-eleven-1	numerals-ngam1269-1	Chan2019	eleven	11	kùtə̀-ɡìdì-kóɡīí	kutagidikogii		FALSE	10+{LIG}1		
+numerals-ngam1269-1-twelve-1	numerals-ngam1269-1	Chan2019	twelve	12	kùtə̀-ɡìdì-dīyó	kutagididiyo		FALSE	10+{LIG}2		
+numerals-ngam1269-1-thirteen-1	numerals-ngam1269-1	Chan2019	thirteen	13	kùtə̀-ɡìdì-mə̀tá	kutagidimata		FALSE	10+{LIG}3		
+numerals-ngam1269-1-fourteen-1	numerals-ngam1269-1	Chan2019	fourteen	14	kùtə̀-ɡìdì-sɔ́	kutagidiso		FALSE	10+{LIG}4		
+numerals-ngam1269-1-fifteen-1	numerals-ngam1269-1	Chan2019	fifteen	15	kùtə̀-ɡìdì-mí	kutagidimi		FALSE	10+{LIG}5		
+numerals-ngam1269-1-sixteen-1	numerals-ngam1269-1	Chan2019	sixteen	16	kùtə̀-ɡìdì-mêhḛ́	kutagidimehe		FALSE	10+{LIG}6		
+numerals-ngam1269-1-seventeen-1	numerals-ngam1269-1	Chan2019	seventeen	17	kùtə̀-ɡìdì-sīrí	kutagidisiri		FALSE	10+{LIG}7		
+numerals-ngam1269-1-eighteen-1	numerals-ngam1269-1	Chan2019	eighteen	18	kùtə̀-ɡìdì-sɔ́sɔ́	kutagidisoso		FALSE	10+{LIG}4+4		
+numerals-ngam1269-1-nineteen-1	numerals-ngam1269-1	Chan2019	nineteen	19	kùtə̀-ɡìdì-ndōhó	kutagidindoho		FALSE	10+{LIG}9		
+numerals-ngam1269-1-twenty-1	numerals-ngam1269-1	Chan2019	twenty	20	kùtə̀-dīyó	kutadiyo		FALSE	10·2		
+numerals-ngam1269-1-twentyone-1	numerals-ngam1269-1	Chan2019	twentyone	21	kùtə̀-dīyó-ɡìdì-kóɡīí	kutadiyogidikogii		FALSE	(10·2)+{LIG}1		
+numerals-ngam1269-1-twentytwo-1	numerals-ngam1269-1	Chan2019	twentytwo	22	kùtə̀-dīyó-ɡìdì-dīyó	kutadiyogididiyo		FALSE	(10·2)+{LIG}2		
+numerals-ngam1269-1-twentythree-1	numerals-ngam1269-1	Chan2019	twentythree	23	kùtə̀-dīyó-ɡìdì-mə̀tá	kutadiyogidimata		FALSE	(10·2)+{LIG}3		
+numerals-ngam1269-1-twentyfour-1	numerals-ngam1269-1	Chan2019	twentyfour	24	kùtə̀-dīyó-ɡìdì-sɔ́	kutadiyogidiso		FALSE	(10·2)+{LIG}4		
+numerals-ngam1269-1-twentyfive-1	numerals-ngam1269-1	Chan2019	twentyfive	25	kùtə̀-dīyó-ɡìdì-mí	kutadiyogidimi		FALSE	(10·2)+{LIG}5		
+numerals-ngam1269-1-twentysix-1	numerals-ngam1269-1	Chan2019	twentysix	26	kùtə̀-dīyó-ɡìdì-mêhḛ́	kutadiyogidimehe		FALSE	(10·2)+{LIG}6		
+numerals-ngam1269-1-twentyseven-1	numerals-ngam1269-1	Chan2019	twentyseven	27	kùtə̀-dīyó-ɡìdì-sīrí	kutadiyogidisiri		FALSE	(10·2)+{LIG}7		
+numerals-ngam1269-1-twentyeight-1	numerals-ngam1269-1	Chan2019	twentyeight	28	kùtə̀-dīyó-ɡìdì-sɔ́sɔ́	kutadiyogidisoso		FALSE	(10·2)+{LIG}4+4		
+numerals-ngam1269-1-twentynine-1	numerals-ngam1269-1	Chan2019	twentynine	29	kùtə̀-dīyó-ɡìdì-ndōhó	kutadiyogidindoho		FALSE	(10·2)+{LIG}9		
+numerals-ngam1269-1-thirty-1	numerals-ngam1269-1	Chan2019	thirty	30	kùtə̀-mə̀tá	kutamata		FALSE	10·3		
+numerals-ngam1269-1-forty-1	numerals-ngam1269-1	Chan2019	forty	40	kùtə̀-sɔ́	kutaso		FALSE	10·4		
+numerals-ngam1269-1-fifty-1	numerals-ngam1269-1	Chan2019	fifty	50	kùtə̀-mí	kutami		FALSE	10·5		
+numerals-ngam1269-1-sixty-1	numerals-ngam1269-1	Chan2019	sixty	60	kùtə̀-mêhḛ́	kutamehe		FALSE	10·6		
+numerals-ngam1269-1-seventy-1	numerals-ngam1269-1	Chan2019	seventy	70	kùtə̀-sīrí	kutasiri		FALSE	10·7		
+numerals-ngam1269-1-eighty-1	numerals-ngam1269-1	Chan2019	eighty	80	kùtə̀-sɔ́sɔ́	kutasoso		FALSE	10·(4+4)		
+numerals-ngam1269-1-ninety-1	numerals-ngam1269-1	Chan2019	ninety	90	kùtə̀-ndōhó	kutandoho		FALSE	10·9		
+numerals-ngam1269-1-hundred-1	numerals-ngam1269-1	Chan2019	hundred	100	ɓú	bu		FALSE	100		
+numerals-ngam1269-1-twohundred-1	numerals-ngam1269-1	Chan2019	twohundred	200	ɓú dīyó	budiyo		FALSE	100·2		
+numerals-ngam1269-1-thousand-1	numerals-ngam1269-1	Chan2019	thousand	1000	dūbú	dubu		FALSE	1000		
+numerals-ngam1269-1-twothousand-1	numerals-ngam1269-1	Chan2019	twothousand	2000	dūbú-dīyó	dubudiyo		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-ngit1239-1-one-1	numerals-ngit1239-1	Chan2019	one	1	aɪdí	aidi		FALSE	1		
+numerals-ngit1239-1-two-1	numerals-ngit1239-1	Chan2019	two	2	ɔyɔ	oyo		FALSE	2		
+numerals-ngit1239-1-three-1	numerals-ngit1239-1	Chan2019	three	3	ɪ̀ɓʊ	ibu		FALSE	3		
+numerals-ngit1239-1-four-1	numerals-ngit1239-1	Chan2019	four	4	ɪ̀fɔ	ifo		FALSE	4		
+numerals-ngit1239-1-five-1	numerals-ngit1239-1	Chan2019	five	5	imbo	imbo		FALSE	5		
+numerals-ngit1239-1-six-1	numerals-ngit1239-1	Chan2019	six	6	aza	aza		FALSE	6		
+numerals-ngit1239-1-seven-1	numerals-ngit1239-1	Chan2019	seven	7	àrʊ̀ɓʊ̀	arubu		FALSE		4'+3	
+numerals-ngit1239-1-eight-1	numerals-ngit1239-1	Chan2019	eight	8	àrʊ̀	aru		FALSE	4"		
+numerals-ngit1239-1-nine-1	numerals-ngit1239-1	Chan2019	nine	9	àrʊ̀ɡyèɪdí	arugyeidi		FALSE			
+numerals-ngit1239-1-ten-1	numerals-ngit1239-1	Chan2019	ten	10	ɪdrɛ	idre		FALSE			
+numerals-ngit1239-1-eleven-1	numerals-ngit1239-1	Chan2019	eleven	11	ɪdrɛ dɔ̀ná aɪdí nà	idredonaaidina		FALSE			
+numerals-ngit1239-1-eleven-2	numerals-ngit1239-1	Chan2019	eleven	11	kumì dɔ̀ná aɪdí nà	kumidonaaidina		FALSE			
+numerals-ngit1239-1-twelve-1	numerals-ngit1239-1	Chan2019	twelve	12	ɪdrɛ dɔ̀ná ɔ́yɔ᷆ nà	idredonaoyona		FALSE			
+numerals-ngit1239-1-twelve-2	numerals-ngit1239-1	Chan2019	twelve	12	kumì dɔ̀ná ɔ́yɔ᷆ nà	kumidonaoyona		FALSE			
+numerals-ngit1239-1-thirteen-1	numerals-ngit1239-1	Chan2019	thirteen	13	ɪdrɛ dɔ̀ná ɪ̀ɓʊ nà	idredonaibuna		FALSE			
+numerals-ngit1239-1-fourteen-1	numerals-ngit1239-1	Chan2019	fourteen	14	ɪdrɛ dɔ̀ná ɪ̀fɔ nà	idredonaifona		FALSE			
+numerals-ngit1239-1-fifteen-1	numerals-ngit1239-1	Chan2019	fifteen	15	ɪdrɛ dɔ̀ná imbò nà	idredonaimbona		FALSE			
+numerals-ngit1239-1-sixteen-1	numerals-ngit1239-1	Chan2019	sixteen	16	ɪdrɛ dɔ̀ná azà nà	idredonaazana		FALSE			
+numerals-ngit1239-1-seventeen-1	numerals-ngit1239-1	Chan2019	seventeen	17	ɪdrɛ dɔ̀ná àrʊ̀ɓʊ̀ nà	idredonaarubuna		FALSE			
+numerals-ngit1239-1-eighteen-1	numerals-ngit1239-1	Chan2019	eighteen	18	ɪdrɛ dɔ̀ná àrʊ̀ nà	idredonaaruna		FALSE			
+numerals-ngit1239-1-nineteen-1	numerals-ngit1239-1	Chan2019	nineteen	19	ɪdrɛ dɔ̀ná àrʊ̀ɡyèɪdí nà	idredonaarugyeidina		FALSE			
+numerals-ngit1239-1-twenty-1	numerals-ngit1239-1	Chan2019	twenty	20	ɔ́yɔ᷆ kumì	oyokumi		FALSE			
+numerals-ngit1239-1-twentyone-1	numerals-ngit1239-1	Chan2019	twentyone	21	ɔ́yɔ᷆ kumì dɔ̀ná aɪdí nà	oyokumidonaaidina		FALSE			
+numerals-ngit1239-1-twentytwo-1	numerals-ngit1239-1	Chan2019	twentytwo	22	ɔ́yɔ᷆ kumì dɔ̀ná ɔ́yɔ᷆ nà	oyokumidonaoyona		FALSE			
+numerals-ngit1239-1-twentythree-1	numerals-ngit1239-1	Chan2019	twentythree	23	ɔ́yɔ᷆ kumì dɔ̀ná ɪ̀ɓʊ nà	oyokumidonaibuna		FALSE			
+numerals-ngit1239-1-twentyfour-1	numerals-ngit1239-1	Chan2019	twentyfour	24	ɔ́yɔ᷆ kumì dɔ̀ná ɪ̀fɔ nà	oyokumidonaifona		FALSE			
+numerals-ngit1239-1-twentyfive-1	numerals-ngit1239-1	Chan2019	twentyfive	25	ɔ́yɔ᷆ kumì dɔ̀ná imbò nà	oyokumidonaimbona		FALSE			
+numerals-ngit1239-1-twentysix-1	numerals-ngit1239-1	Chan2019	twentysix	26	ɔ́yɔ᷆ kumì dɔ̀ná azà nà	oyokumidonaazana		FALSE			
+numerals-ngit1239-1-twentyseven-1	numerals-ngit1239-1	Chan2019	twentyseven	27	ɔ́yɔ᷆ kumì dɔ̀ná àrʊ̀ɓʊ̀ nà	oyokumidonaarubuna		FALSE			
+numerals-ngit1239-1-twentyeight-1	numerals-ngit1239-1	Chan2019	twentyeight	28	ɔ́yɔ᷆ kumì dɔ̀ná àrʊ̀ nà	oyokumidonaaruna		FALSE			
+numerals-ngit1239-1-twentynine-1	numerals-ngit1239-1	Chan2019	twentynine	29	ɔ́yɔ᷆ kumì dɔ̀ná àrʊ̀ɡyèɪdí nà	oyokumidonaarugyeidina		FALSE			
+numerals-ngit1239-1-thirty-1	numerals-ngit1239-1	Chan2019	thirty	30	ɪ̀ɓʊ kumì	ibukumi		FALSE			
+numerals-ngit1239-1-forty-1	numerals-ngit1239-1	Chan2019	forty	40	ɪ̀fɔ kumì	ifokumi		FALSE			
+numerals-ngit1239-1-fifty-1	numerals-ngit1239-1	Chan2019	fifty	50	imbò kumì	imbokumi		FALSE			
+numerals-ngit1239-1-sixty-1	numerals-ngit1239-1	Chan2019	sixty	60	azà kumì	azakumi		FALSE			
+numerals-ngit1239-1-seventy-1	numerals-ngit1239-1	Chan2019	seventy	70	àrʊ̀ɓʊ̀ kumì	arubukumi		FALSE			
+numerals-ngit1239-1-eighty-1	numerals-ngit1239-1	Chan2019	eighty	80	àrʊ̀ kumì	arukumi		FALSE			
+numerals-ngit1239-1-ninety-1	numerals-ngit1239-1	Chan2019	ninety	90	àrʊ̀ɡyèɪdí kumì	arugyeidikumi		FALSE			
+numerals-ngit1239-1-hundred-1	numerals-ngit1239-1	Chan2019	hundred	100	aɪdí mɪyà	aidimiya	( from Arabic 'miya' )	FALSE			
+numerals-ngit1239-1-twohundred-1	numerals-ngit1239-1	Chan2019	twohundred	200	ɔ́yɔ᷆ mɪyà	oyomiya		FALSE			
+numerals-ngit1239-1-thousand-1	numerals-ngit1239-1	Chan2019	thousand	1000	aɪdí lʊfʊ̀	aidilufu	( < Arabic 'alip')	TRUE			
+numerals-ngit1239-1-twothousand-1	numerals-ngit1239-1	Chan2019	twothousand	2000	ɔ́yɔ᷆ lʊfʊ̀	oyolufu		FALSE			
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-olub1238-1-one-1	numerals-olub1238-1	Chan2019	one	1	àlʊ̄	alu		FALSE	1		
+numerals-olub1238-1-two-1	numerals-olub1238-1	Chan2019	two	2	rì	ri		FALSE	2		
+numerals-olub1238-1-three-1	numerals-olub1238-1	Chan2019	three	3	nā	na		FALSE	3		
+numerals-olub1238-1-four-1	numerals-olub1238-1	Chan2019	four	4	sū	su		FALSE	4		
+numerals-olub1238-1-five-1	numerals-olub1238-1	Chan2019	five	5	tòú	tou		FALSE	5		
+numerals-olub1238-1-six-1	numerals-olub1238-1	Chan2019	six	6	ázɨ́á	azia		FALSE	6		
+numerals-olub1238-1-seven-1	numerals-olub1238-1	Chan2019	seven	7	tûdērì	tuderi		FALSE	5'+2		
+numerals-olub1238-1-eight-1	numerals-olub1238-1	Chan2019	eight	8	àrɔ̀	aro		FALSE	8		
+numerals-olub1238-1-nine-1	numerals-olub1238-1	Chan2019	nine	9	tɔ́rɔ̄mɛ̀	torome		FALSE	9		
+numerals-olub1238-1-ten-1	numerals-olub1238-1	Chan2019	ten	10	mūdúrí	muduri		FALSE	10		
+numerals-olub1238-1-eleven-1	numerals-olub1238-1	Chan2019	eleven	11	mūdúrí límbí àlʊ̄	mudurilimbialu		FALSE	10+1		
+numerals-olub1238-1-twelve-1	numerals-olub1238-1	Chan2019	twelve	12	mūdúrí límbí èrì	mudurilimbieri		FALSE	10+2		
+numerals-olub1238-1-thirteen-1	numerals-olub1238-1	Chan2019	thirteen	13	mūdúrí límbí nā	mudurilimbina		FALSE	10+3		
+numerals-olub1238-1-fourteen-1	numerals-olub1238-1	Chan2019	fourteen	14	mūdúrí límbí sū	mudurilimbisu		FALSE	10+4		
+numerals-olub1238-1-fifteen-1	numerals-olub1238-1	Chan2019	fifteen	15	mūdúrí límbí tòú	mudurilimbitou		FALSE	10+5		
+numerals-olub1238-1-sixteen-1	numerals-olub1238-1	Chan2019	sixteen	16	mūdúrí límbí ázɨ́á	mudurilimbiazia		FALSE	10+6		
+numerals-olub1238-1-seventeen-1	numerals-olub1238-1	Chan2019	seventeen	17	mūdúrí límbí tûdērì	mudurilimbituderi		FALSE	10+7		
+numerals-olub1238-1-eighteen-1	numerals-olub1238-1	Chan2019	eighteen	18	mūdúrí límbí àrɔ̀	mudurilimbiaro		FALSE	10+8		
+numerals-olub1238-1-nineteen-1	numerals-olub1238-1	Chan2019	nineteen	19	mūdúrí límbí tɔ́rɔ̄mɛ̀	mudurilimbitorome		FALSE	10+9		
+numerals-olub1238-1-twenty-1	numerals-olub1238-1	Chan2019	twenty	20	mùdrì	mudri		FALSE	10·2		
+numerals-olub1238-1-twentyone-1	numerals-olub1238-1	Chan2019	twentyone	21	mùdrì límbí àlʊ̄	mudrilimbialu		FALSE	(10·2)+{LIG}1		
+numerals-olub1238-1-twentytwo-1	numerals-olub1238-1	Chan2019	twentytwo	22	mùdrì límbí rì	mudrilimbiri		FALSE	(10·2)+{LIG}2		
+numerals-olub1238-1-twentythree-1	numerals-olub1238-1	Chan2019	twentythree	23	mùdrì límbí nā	mudrilimbina		FALSE	(10·2)+{LIG}3		
+numerals-olub1238-1-twentyfour-1	numerals-olub1238-1	Chan2019	twentyfour	24	mùdrì límbí sū	mudrilimbisu		FALSE	(10·2)+{LIG}4		
+numerals-olub1238-1-twentyfive-1	numerals-olub1238-1	Chan2019	twentyfive	25	mùdrì límbí tòú	mudrilimbitou		FALSE	(10·2)+{LIG}5		
+numerals-olub1238-1-twentysix-1	numerals-olub1238-1	Chan2019	twentysix	26	mùdrì límbí ázɨ́á	mudrilimbiazia		FALSE	(10·2)+{LIG}6		
+numerals-olub1238-1-twentyseven-1	numerals-olub1238-1	Chan2019	twentyseven	27	mùdrì límbí tûdērì	mudrilimbituderi		FALSE	(10·2)+{LIG}7		
+numerals-olub1238-1-twentyeight-1	numerals-olub1238-1	Chan2019	twentyeight	28	mùdrì límbí àrɔ̀	mudrilimbiaro		FALSE	(10·2)+{LIG}8		
+numerals-olub1238-1-twentynine-1	numerals-olub1238-1	Chan2019	twentynine	29	mùdrì límbí tɔ́rɔ̄mɛ̀	mudrilimbitorome		FALSE	(10·2)+{LIG}9		
+numerals-olub1238-1-thirty-1	numerals-olub1238-1	Chan2019	thirty	30	mùdrī nā	mudrina		FALSE	10·3		
+numerals-olub1238-1-forty-1	numerals-olub1238-1	Chan2019	forty	40	mùdrī sū	mudrisu		FALSE	10·4		
+numerals-olub1238-1-fifty-1	numerals-olub1238-1	Chan2019	fifty	50	mùdrī tòú	mudritou		FALSE	10·5		
+numerals-olub1238-1-sixty-1	numerals-olub1238-1	Chan2019	sixty	60	mùdrī ázɨ́á	mudriazia		FALSE	10·6		
+numerals-olub1238-1-seventy-1	numerals-olub1238-1	Chan2019	seventy	70	mùdrī tûdērì	mudrituderi		FALSE	10·7		
+numerals-olub1238-1-eighty-1	numerals-olub1238-1	Chan2019	eighty	80	mùdrī àrɔ̀	mudriaro		FALSE	10·8		
+numerals-olub1238-1-ninety-1	numerals-olub1238-1	Chan2019	ninety	90	mùdrī tɔ́rɔ̄mɛ̀	mudritorome		FALSE	10·9		
+numerals-olub1238-1-hundred-1	numerals-olub1238-1	Chan2019	hundred	100	ɓé àlʊ̄	bealu		FALSE	100·1		
+numerals-olub1238-1-twohundred-1	numerals-olub1238-1	Chan2019	twohundred	200	ɓé rì	beri		FALSE	100·2		
+numerals-olub1238-1-twothousand-1	numerals-olub1238-1	Chan2019	twothousand	2000	ɛ	e		FALSE	1000{?}	see form	
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-omii1238-1-one-1	numerals-omii1238-1	Chan2019	one	1	àlō	alo		FALSE	1		
+numerals-omii1238-1-two-1	numerals-omii1238-1	Chan2019	two	2	ìrɪ̀	iri		FALSE	2		
+numerals-omii1238-1-three-1	numerals-omii1238-1	Chan2019	three	3	nā	na		FALSE	3		
+numerals-omii1238-1-four-1	numerals-omii1238-1	Chan2019	four	4	sū	su		FALSE	4		
+numerals-omii1238-1-five-1	numerals-omii1238-1	Chan2019	five	5	tòwú	towu		FALSE	5		
+numerals-omii1238-1-six-1	numerals-omii1238-1	Chan2019	six	6	ázɪ́á	azia		FALSE	5’+1'		
+numerals-omii1238-1-seven-1	numerals-omii1238-1	Chan2019	seven	7	ázɪ́ɪ̀rɪ̀	aziiri		FALSE	5’+2		
+numerals-omii1238-1-eight-1	numerals-omii1238-1	Chan2019	eight	8	àrò	aro		FALSE	8		
+numerals-omii1238-1-nine-1	numerals-omii1238-1	Chan2019	nine	9	órōmɪ̀	oromi		FALSE	8+1"		
+numerals-omii1238-1-ten-1	numerals-omii1238-1	Chan2019	ten	10	mūdrɪ́	mudri		FALSE	10		
+numerals-omii1238-1-eleven-1	numerals-omii1238-1	Chan2019	eleven	11	mūdrɪ́ drɪ̀fà nī àlō	mudridrifanialo		FALSE	10+1		
+numerals-omii1238-1-twelve-1	numerals-omii1238-1	Chan2019	twelve	12	mūdrɪ́ drɪ̀fà nī ìrì	mudridrifaniiri		FALSE	10+2		
+numerals-omii1238-1-thirteen-1	numerals-omii1238-1	Chan2019	thirteen	13	mūdrɪ́ drɪ̀fà nī nā	mudridrifanina		FALSE	10+3		
+numerals-omii1238-1-fourteen-1	numerals-omii1238-1	Chan2019	fourteen	14	mūdrɪ́ drɪ̀fà nī sū	mudridrifanisu		FALSE	10+4		
+numerals-omii1238-1-fifteen-1	numerals-omii1238-1	Chan2019	fifteen	15	mūdrɪ́ drɪ̀fà nī tòwú	mudridrifanitowu		FALSE	10+5		
+numerals-omii1238-1-sixteen-1	numerals-omii1238-1	Chan2019	sixteen	16	mūdrɪ́ drɪ̀fà nī ázɪ́á	mudridrifaniazia		FALSE	10+5'+1'		
+numerals-omii1238-1-seventeen-1	numerals-omii1238-1	Chan2019	seventeen	17	mūdrɪ́ drɪ̀fà nī ázɪ́ɪ̀rɪ̀	mudridrifaniaziiri		FALSE	10+5'+2		
+numerals-omii1238-1-eighteen-1	numerals-omii1238-1	Chan2019	eighteen	18	mūdrɪ́ drɪ̀fà nī àrò	mudridrifaniaro		FALSE	10+8		
+numerals-omii1238-1-nineteen-1	numerals-omii1238-1	Chan2019	nineteen	19	mūdrɪ́ drɪ̀fà nī órōmɪ̀	mudridrifanioromi		FALSE	10+8+1”		
+numerals-omii1238-1-twenty-1	numerals-omii1238-1	Chan2019	twenty	20	kàlɪ́ɪ̀rɪ̀	kaliiri		FALSE	10·2		
+numerals-omii1238-1-twentyone-1	numerals-omii1238-1	Chan2019	twentyone	21	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī àlō	kaliiridrifanialo		FALSE	(10·2)+{LIG}1		
+numerals-omii1238-1-twentytwo-1	numerals-omii1238-1	Chan2019	twentytwo	22	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī ìrɪ̀	kaliiridrifaniiri		FALSE	(10·2)+{LIG}2		
+numerals-omii1238-1-twentythree-1	numerals-omii1238-1	Chan2019	twentythree	23	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī nā	kaliiridrifanina		FALSE	(10·2)+{LIG}3		
+numerals-omii1238-1-twentyfour-1	numerals-omii1238-1	Chan2019	twentyfour	24	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī sū	kaliiridrifanisu		FALSE	(10·2)+{LIG}4		
+numerals-omii1238-1-twentyfive-1	numerals-omii1238-1	Chan2019	twentyfive	25	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī tòwú	kaliiridrifanitowu		FALSE	(10·2)+{LIG}5		
+numerals-omii1238-1-twentysix-1	numerals-omii1238-1	Chan2019	twentysix	26	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī ázɪ́á	kaliiridrifaniazia		FALSE	(10·2)+{LIG}5'+1'		
+numerals-omii1238-1-twentyseven-1	numerals-omii1238-1	Chan2019	twentyseven	27	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī ázɪ́ɪ̀rɪ̀	kaliiridrifaniaziiri		FALSE	(10·2)+{LIG}5’+2		
+numerals-omii1238-1-twentyeight-1	numerals-omii1238-1	Chan2019	twentyeight	28	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī àrò	kaliiridrifaniaro		FALSE	(10·2)+{LIG}8		
+numerals-omii1238-1-twentynine-1	numerals-omii1238-1	Chan2019	twentynine	29	kàlɪ́ɪ̀rɪ̀ drɪ̀fà nī óròmɪ̀	kaliiridrifanioromi		FALSE	(10·2)+{LIG}8+1”		
+numerals-omii1238-1-thirty-1	numerals-omii1238-1	Chan2019	thirty	30	kàlɪ́nā	kalina		FALSE	10·3		
+numerals-omii1238-1-forty-1	numerals-omii1238-1	Chan2019	forty	40	kàlɪ́sū	kalisu		FALSE	10·4		
+numerals-omii1238-1-fifty-1	numerals-omii1238-1	Chan2019	fifty	50	kàlɪ́tòwú	kalitowu		FALSE	10·5		
+numerals-omii1238-1-sixty-1	numerals-omii1238-1	Chan2019	sixty	60	kàlɪ́ázíá	kaliazia		FALSE	10·(5’+1')		
+numerals-omii1238-1-seventy-1	numerals-omii1238-1	Chan2019	seventy	70	kàlɪ́ázɪ́ìrɪ̀	kaliaziiri		FALSE	10·(5’+2)		
+numerals-omii1238-1-eighty-1	numerals-omii1238-1	Chan2019	eighty	80	kàlɪ́àrò	kaliaro		FALSE	10·8		
+numerals-omii1238-1-ninety-1	numerals-omii1238-1	Chan2019	ninety	90	kàlɪ́órōmɪ̀	kalioromi		FALSE	10·9		
+numerals-omii1238-1-hundred-1	numerals-omii1238-1	Chan2019	hundred	100	kámá àlō	kamaalo	( kámá < Bantu language)	TRUE	100·1		
+numerals-omii1238-1-twohundred-1	numerals-omii1238-1	Chan2019	twohundred	200	kámá ìrɪ̀	kamairi		FALSE	100·2		
+numerals-omii1238-1-thousand-1	numerals-omii1238-1	Chan2019	thousand	1000	kútù àlō	kutualo	( kútù < Bantu language)	TRUE	1000·1		
+numerals-omii1238-1-twothousand-1	numerals-omii1238-1	Chan2019	twothousand	2000	kútù ìrɪ̀	kutuiri		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-sara1321-1-one-1	numerals-sara1321-1	Chan2019	one	1	kárē	kare		FALSE	1		
+numerals-sara1321-1-one-2	numerals-sara1321-1	Chan2019	one	1	hàré	hare		FALSE	1		
+numerals-sara1321-1-two-1	numerals-sara1321-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-sara1321-1-three-1	numerals-sara1321-1	Chan2019	three	3	mùtá	muta		FALSE	3		
+numerals-sara1321-1-four-1	numerals-sara1321-1	Chan2019	four	4	sɔ̀ɔ́	soo		FALSE	4		
+numerals-sara1321-1-five-1	numerals-sara1321-1	Chan2019	five	5	mìí	mii		FALSE	5		
+numerals-sara1321-1-six-1	numerals-sara1321-1	Chan2019	six	6	màhá	maha		FALSE	6	5'+1	
+numerals-sara1321-1-seven-1	numerals-sara1321-1	Chan2019	seven	7	mìtə́kə́jə́	mitakaja		FALSE	7		
+numerals-sara1321-1-eight-1	numerals-sara1321-1	Chan2019	eight	8	sàlīnjā	salinja		FALSE	8		
+numerals-sara1321-1-nine-1	numerals-sara1321-1	Chan2019	nine	9	dàhábú	dahabu		FALSE	9		
+numerals-sara1321-1-ten-1	numerals-sara1321-1	Chan2019	ten	10	dɔ̀ɡɔ̀	dogo		FALSE	10		
+numerals-sara1321-1-eleven-1	numerals-sara1321-1	Chan2019	eleven	11	dɔ̀jō kárē	dojokare		FALSE	10+1		
+numerals-sara1321-1-twelve-1	numerals-sara1321-1	Chan2019	twelve	12	dɔ̀jō jōó	dojojoo		FALSE	10+2		
+numerals-sara1321-1-thirteen-1	numerals-sara1321-1	Chan2019	thirteen	13	dɔ̀jō mùtá	dojomuta		FALSE	10+3		
+numerals-sara1321-1-fourteen-1	numerals-sara1321-1	Chan2019	fourteen	14	dɔ̀jō sɔ̀ɔ́	dojosoo		FALSE	10+4		
+numerals-sara1321-1-fifteen-1	numerals-sara1321-1	Chan2019	fifteen	15	dɔ̀jō mìí	dojomii		FALSE	10+5		
+numerals-sara1321-1-sixteen-1	numerals-sara1321-1	Chan2019	sixteen	16	dɔ̀jō màhá	dojomaha		FALSE	10+6		
+numerals-sara1321-1-seventeen-1	numerals-sara1321-1	Chan2019	seventeen	17	dɔ̀jō mìtə́kə́jə́	dojomitakaja		FALSE	10+7		
+numerals-sara1321-1-eighteen-1	numerals-sara1321-1	Chan2019	eighteen	18	dɔ̀jō sàlīnjā	dojosalinja		FALSE	10+8		
+numerals-sara1321-1-nineteen-1	numerals-sara1321-1	Chan2019	nineteen	19	dɔ̀jō dàhábú	dojodahabu		FALSE	10+9		
+numerals-sara1321-1-twenty-1	numerals-sara1321-1	Chan2019	twenty	20	jɔ̀hɛ́ jɔ̄	johejo		FALSE	10·2		
+numerals-sara1321-1-twentyone-1	numerals-sara1321-1	Chan2019	twentyone	21	jɔ̀hɛ́ jɔ̄ hárē	johejohare		FALSE	(10·2)+1		
+numerals-sara1321-1-twentytwo-1	numerals-sara1321-1	Chan2019	twentytwo	22	jɔ̀hɛ́ jɔ̄ jōó	johejojoo		FALSE	(10·2)+2		
+numerals-sara1321-1-twentythree-1	numerals-sara1321-1	Chan2019	twentythree	23	jɔ̀hɛ́ jɔ̄ mùtá	johejomuta		FALSE	(10·2)+3		
+numerals-sara1321-1-twentyfour-1	numerals-sara1321-1	Chan2019	twentyfour	24	jɔ̀hɛ́ jɔ̄ sɔ̀ɔ́	johejosoo		FALSE	(10·2)+4		
+numerals-sara1321-1-twentyfive-1	numerals-sara1321-1	Chan2019	twentyfive	25	jɔ̀hɛ́ jɔ̄ mìí	johejomii		FALSE	(10·2)+5		
+numerals-sara1321-1-twentysix-1	numerals-sara1321-1	Chan2019	twentysix	26	jɔ̀hɛ́ jɔ̄ màhá	johejomaha		FALSE	(10·2)+6		
+numerals-sara1321-1-twentyseven-1	numerals-sara1321-1	Chan2019	twentyseven	27	jɔ̀hɛ́ jɔ̄ mìtə́kə́jə́	johejomitakaja		FALSE	(10·2)+7		
+numerals-sara1321-1-twentyeight-1	numerals-sara1321-1	Chan2019	twentyeight	28	jɔ̀hɛ́ jɔ̄ sàlīnjā	johejosalinja		FALSE	(10·2)+8		
+numerals-sara1321-1-twentynine-1	numerals-sara1321-1	Chan2019	twentynine	29	jɔ̀hɛ́ jɔ̄ dàhábú	johejodahabu		FALSE	(10·2)+9		
+numerals-sara1321-1-thirty-1	numerals-sara1321-1	Chan2019	thirty	30	kóō	koo		FALSE	30		
+numerals-sara1321-1-forty-1	numerals-sara1321-1	Chan2019	forty	40	jɔ̀hɛ́ jōó	johejoo	( 20 x 2 )	FALSE	10·2		
+numerals-sara1321-1-fifty-1	numerals-sara1321-1	Chan2019	fifty	50	kóō bī jɔ̀hɛ́	koobijohe	( 30 + 10)	FALSE	30+20?	30+20=undercounting	
+numerals-sara1321-1-sixty-1	numerals-sara1321-1	Chan2019	sixty	60	kóō jōó	koojoo	( 30 x 2 )	FALSE	30·2		
+numerals-sara1321-1-seventy-1	numerals-sara1321-1	Chan2019	seventy	70	kóō jōó bī dɔ̀ɡɔ̀	koojoobidogo	( 30 x 2 + 10)	FALSE	(30·2)+{LIG}10		
+numerals-sara1321-1-eighty-1	numerals-sara1321-1	Chan2019	eighty	80	kóō jōó bī jɔ̀há	koojoobijoha	( 30 x 2 + 20)	FALSE	(30·2)+{LIG}20		
+numerals-sara1321-1-ninety-1	numerals-sara1321-1	Chan2019	ninety	90	kóō mùtá	koomuta	( 30 x 3 )	FALSE	30·3		
+numerals-sara1321-1-hundred-1	numerals-sara1321-1	Chan2019	hundred	100	míyà	miya	< Arabic	TRUE	100		
+numerals-sara1321-1-twohundred-1	numerals-sara1321-1	Chan2019	twohundred	200	míyà jōó	miyajoo		FALSE	100·2		
+numerals-sara1321-1-thousand-1	numerals-sara1321-1	Chan2019	thousand	1000	álə̀p hàré	alaphare	( ' álə̀p ' < Arabic )	TRUE	1000·1		
+numerals-sara1321-1-twothousand-1	numerals-sara1321-1	Chan2019	twothousand	2000	álə̀p jōó	alapjoo		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-sara1322-1-one-1	numerals-sara1322-1	Chan2019	one	1	ɗíyá	diya		FALSE	1		
+numerals-sara1322-1-two-1	numerals-sara1322-1	Chan2019	two	2	jó	jo		FALSE	2		
+numerals-sara1322-1-three-1	numerals-sara1322-1	Chan2019	three	3	mùtɔ́	muto		FALSE	3		
+numerals-sara1322-1-four-1	numerals-sara1322-1	Chan2019	four	4	sɔ̀ɔ́	soo		FALSE	4		
+numerals-sara1322-1-five-1	numerals-sara1322-1	Chan2019	five	5	mìí	mii		FALSE	5		
+numerals-sara1322-1-six-1	numerals-sara1322-1	Chan2019	six	6	mìi kàlí	miikali	( 5 + 1 )	FALSE	5+1'		
+numerals-sara1322-1-seven-1	numerals-sara1322-1	Chan2019	seven	7	mìí já jó	miijajo	( 5 + 2 )	FALSE	5+2		
+numerals-sara1322-1-eight-1	numerals-sara1322-1	Chan2019	eight	8	sàlānjā	salanja		FALSE	8		
+numerals-sara1322-1-nine-1	numerals-sara1322-1	Chan2019	nine	9	dɔ̀ kám	dokam		FALSE	10-1"		
+numerals-sara1322-1-ten-1	numerals-sara1322-1	Chan2019	ten	10	dɔ̀ɡɔ̀	dogo		FALSE	10		
+numerals-sara1322-1-ten-2	numerals-sara1322-1	Chan2019	ten	10	kùtù	kutu		FALSE	10’		
+numerals-sara1322-1-eleven-1	numerals-sara1322-1	Chan2019	eleven	11	dɔ̀ɡɔ̀-ɡìdì-ɗíyá	dogogididiya		FALSE	10+{LIG}1		
+numerals-sara1322-1-twelve-1	numerals-sara1322-1	Chan2019	twelve	12	dɔ̀ɡɔ̀-ɡìdì-jōó	dogogidijoo		FALSE	10+{LIG}2		
+numerals-sara1322-1-thirteen-1	numerals-sara1322-1	Chan2019	thirteen	13	dɔ̀ɡɔ̀-ɡìdì-mùtɔ́	dogogidimuto		FALSE	10+{LIG}3		
+numerals-sara1322-1-fourteen-1	numerals-sara1322-1	Chan2019	fourteen	14	dɔ̀ɡɔ̀-ɡìdì-sɔ̀ɔ́	dogogidisoo		FALSE	10+{LIG}4		
+numerals-sara1322-1-fifteen-1	numerals-sara1322-1	Chan2019	fifteen	15	dɔ̀ɡɔ̀-ɡìdì-mìí	dogogidimii		FALSE	10+{LIG}5		
+numerals-sara1322-1-sixteen-1	numerals-sara1322-1	Chan2019	sixteen	16	dɔ̀ɡɔ̀-ɡìdì-mìi kàlí	dogogidimiikali		FALSE	10+{LIG}5+1'		
+numerals-sara1322-1-seventeen-1	numerals-sara1322-1	Chan2019	seventeen	17	dɔ̀ɡɔ̀-ɡìdì-mìí já jó	dogogidimiijajo		FALSE	10+{LIG}5+2		
+numerals-sara1322-1-eighteen-1	numerals-sara1322-1	Chan2019	eighteen	18	dɔ̀ɡɔ̀-ɡìdì-sàlānjā	dogogidisalanja		FALSE	10+{LIG}8		
+numerals-sara1322-1-nineteen-1	numerals-sara1322-1	Chan2019	nineteen	19	dɔ̀ɡɔ̀-ɡìdì-dɔ̀ kám	dogogididokam		FALSE	10+{LIG}10-1"		
+numerals-sara1322-1-twenty-1	numerals-sara1322-1	Chan2019	twenty	20	dɔ̀ɡɔ̀-jó	dogojo		FALSE	10·2		
+numerals-sara1322-1-twentyone-1	numerals-sara1322-1	Chan2019	twentyone	21	dɔ̀ɡɔ̀-jó-ɡìdì-	dogojogidi		FALSE	(10·2)+[1]		
+numerals-sara1322-1-twentytwo-1	numerals-sara1322-1	Chan2019	twentytwo	22	dɔ̀ɡɔ̀-jó-ɡìdì-jó	dogojogidijo		FALSE	(10·2)+2		
+numerals-sara1322-1-twentythree-1	numerals-sara1322-1	Chan2019	twentythree	23	dɔ̀ɡɔ̀-jó-ɡìdì-mùtɔ́	dogojogidimuto		FALSE	(10·2)+3		
+numerals-sara1322-1-twentyfour-1	numerals-sara1322-1	Chan2019	twentyfour	24	dɔ̀ɡɔ̀-jó-ɡìdì-sɔ̀ɔ́	dogojogidisoo		FALSE	(10·2)+4		
+numerals-sara1322-1-twentyfive-1	numerals-sara1322-1	Chan2019	twentyfive	25	dɔ̀ɡɔ̀-jó-ɡìdì-mìí	dogojogidimii		FALSE	(10·2)+5		
+numerals-sara1322-1-twentysix-1	numerals-sara1322-1	Chan2019	twentysix	26	dɔ̀ɡɔ̀-jó-ɡìdì-mìí já jó	dogojogidimiijajo		FALSE	(10·2)+5+1'		
+numerals-sara1322-1-twentyseven-1	numerals-sara1322-1	Chan2019	twentyseven	27	dɔ̀ɡɔ̀-jó-ɡìdì-mìi kàlí	dogojogidimiikali		FALSE	(10·2)+5+2		
+numerals-sara1322-1-twentyeight-1	numerals-sara1322-1	Chan2019	twentyeight	28	dɔ̀ɡɔ̀-jó-ɡìdì-sàlānjā	dogojogidisalanja		FALSE	(10·2)+8		
+numerals-sara1322-1-twentynine-1	numerals-sara1322-1	Chan2019	twentynine	29	dɔ̀ɡɔ̀-jó-ɡìdì-dɔ̀ kám	dogojogididokam		FALSE	(10·2)+10-1’		
+numerals-sara1322-1-thirty-1	numerals-sara1322-1	Chan2019	thirty	30	dɔ̀ɡɔ̀-mùtɔ́	dogomuto		FALSE	10·3		
+numerals-sara1322-1-forty-1	numerals-sara1322-1	Chan2019	forty	40	dɔ̀ɡɔ̀-sɔ̀ɔ́	dogosoo		FALSE	10·4		
+numerals-sara1322-1-fifty-1	numerals-sara1322-1	Chan2019	fifty	50	dɔ̀ɡɔ̀-mìí	dogomii		FALSE	10·5		
+numerals-sara1322-1-sixty-1	numerals-sara1322-1	Chan2019	sixty	60	dɔ̀ɡɔ̀-mìi kàlí	dogomiikali		FALSE	10·(5+1’)		
+numerals-sara1322-1-seventy-1	numerals-sara1322-1	Chan2019	seventy	70	dɔ̀ɡɔ̀-mìí já jó	dogomiijajo		FALSE	10·(5+2)		
+numerals-sara1322-1-eighty-1	numerals-sara1322-1	Chan2019	eighty	80	dɔ̀ɡɔ̀-sàlānjā	dogosalanja		FALSE	10·8		
+numerals-sara1322-1-ninety-1	numerals-sara1322-1	Chan2019	ninety	90	dɔ̀ɡɔ̀-dɔ̀ kám	dogodokam		FALSE	10·(10-1’)		
+numerals-sara1322-1-hundred-1	numerals-sara1322-1	Chan2019	hundred	100	lò dèbē ɗiyá	lodebediya		FALSE	100·1		
+numerals-sara1322-1-twohundred-1	numerals-sara1322-1	Chan2019	twohundred	200	lò dèbē jó	lodebejo		FALSE	100·2		
+numerals-sara1322-1-thousand-1	numerals-sara1322-1	Chan2019	thousand	1000	álìf	alif	( < Arabic)	TRUE	1000		
+numerals-sara1322-1-twothousand-1	numerals-sara1322-1	Chan2019	twothousand	2000	álìf jó	alifjo		FALSE	1000·1		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-sarr1246-1-one-1	numerals-sarr1246-1	Chan2019	one	1	kóɡīí	kogii		FALSE	1		
+numerals-sarr1246-1-two-1	numerals-sarr1246-1	Chan2019	two	2	jōó	joo		FALSE	2		
+numerals-sarr1246-1-three-1	numerals-sarr1246-1	Chan2019	three	3	mə̀tá	mata		FALSE	3		
+numerals-sarr1246-1-four-1	numerals-sarr1246-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-sarr1246-1-five-1	numerals-sarr1246-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-sarr1246-1-six-1	numerals-sarr1246-1	Chan2019	six	6	mèhé̯	mehe		FALSE	6	5+1’	
+numerals-sarr1246-1-seven-1	numerals-sarr1246-1	Chan2019	seven	7	sìrí	siri		FALSE	7		
+numerals-sarr1246-1-eight-1	numerals-sarr1246-1	Chan2019	eight	8	sɔ́sɔ́	soso	( 4 + 4 )	FALSE	4+4		
+numerals-sarr1246-1-nine-1	numerals-sarr1246-1	Chan2019	nine	9	ndōkó	ndoko		FALSE	9		
+numerals-sarr1246-1-ten-1	numerals-sarr1246-1	Chan2019	ten	10	kùtə̀	kuta		FALSE	10		
+numerals-sarr1246-1-eleven-1	numerals-sarr1246-1	Chan2019	eleven	11	kùtə̀-ɡìdì-kóɡīí	kutagidikogii		FALSE	10+{LIG}1		
+numerals-sarr1246-1-twelve-1	numerals-sarr1246-1	Chan2019	twelve	12	kùtə̀-ɡìdì-jōó	kutagidijoo		FALSE	10+{LIG}2		
+numerals-sarr1246-1-thirteen-1	numerals-sarr1246-1	Chan2019	thirteen	13	kùtə̀-ɡìdì-mùtœ́	kutagidimutoe		FALSE	10+{LIG}3		
+numerals-sarr1246-1-fourteen-1	numerals-sarr1246-1	Chan2019	fourteen	14	kùtə̀-ɡìdì-sɔ́	kutagidiso		FALSE	10+{LIG}4		
+numerals-sarr1246-1-fifteen-1	numerals-sarr1246-1	Chan2019	fifteen	15	kùtə̀-ɡìdì-mí	kutagidimi		FALSE	10+{LIG}5		
+numerals-sarr1246-1-sixteen-1	numerals-sarr1246-1	Chan2019	sixteen	16	kùtə̀-ɡìdì-mèhé̯	kutagidimehe		FALSE	10+{LIG}6		
+numerals-sarr1246-1-seventeen-1	numerals-sarr1246-1	Chan2019	seventeen	17	kùtə̀-ɡìdì-sìrí	kutagidisiri		FALSE	10+{LIG}7		
+numerals-sarr1246-1-eighteen-1	numerals-sarr1246-1	Chan2019	eighteen	18	kùtə̀-ɡìdì-sɔ́sɔ́	kutagidisoso		FALSE	10+{LIG}4+4		
+numerals-sarr1246-1-nineteen-1	numerals-sarr1246-1	Chan2019	nineteen	19	kùtə̀-ɡìdì-ndōkó	kutagidindoko		FALSE	10+{LIG}9		
+numerals-sarr1246-1-twenty-1	numerals-sarr1246-1	Chan2019	twenty	20	kùtə̀-jōó	kutajoo		FALSE	10·2		
+numerals-sarr1246-1-twentyone-1	numerals-sarr1246-1	Chan2019	twentyone	21	kùtə̀-jōó-ɡìdì-kóɡīí	kutajoogidikogii		FALSE	(10·2)+{LIG}1		
+numerals-sarr1246-1-twentytwo-1	numerals-sarr1246-1	Chan2019	twentytwo	22	kùtə̀-jōó-ɡìdì-jōó	kutajoogidijoo		FALSE	(10·2)+{LIG}2		
+numerals-sarr1246-1-twentythree-1	numerals-sarr1246-1	Chan2019	twentythree	23	kùtə̀-jōó-ɡìdì-mə̀tá	kutajoogidimata		FALSE	(10·2)+{LIG}3		
+numerals-sarr1246-1-twentyfour-1	numerals-sarr1246-1	Chan2019	twentyfour	24	kùtə̀-jōó-ɡìdì-sɔ́	kutajoogidiso		FALSE	(10·2)+{LIG}4		
+numerals-sarr1246-1-twentyfive-1	numerals-sarr1246-1	Chan2019	twentyfive	25	kùtə̀-jōó-ɡìdì-mí	kutajoogidimi		FALSE	(10·2)+{LIG}5		
+numerals-sarr1246-1-twentysix-1	numerals-sarr1246-1	Chan2019	twentysix	26	kùtə̀-jōó-ɡìdì-mèhé̯	kutajoogidimehe		FALSE	(10·2)+{LIG}6		
+numerals-sarr1246-1-twentyseven-1	numerals-sarr1246-1	Chan2019	twentyseven	27	kùtə̀-jōó-ɡìdì-sìrí	kutajoogidisiri		FALSE	(10·2)+{LIG}7		
+numerals-sarr1246-1-twentyeight-1	numerals-sarr1246-1	Chan2019	twentyeight	28	kùtə̀-jōó-ɡìdì-sɔ́sɔ́	kutajoogidisoso		FALSE	(10·2)+{LIG}4+4		
+numerals-sarr1246-1-twentynine-1	numerals-sarr1246-1	Chan2019	twentynine	29	kùtə̀-jōó-ɡìdì-ndōkó	kutajoogidindoko		FALSE	(10·2)+{LIG}9		
+numerals-sarr1246-1-thirty-1	numerals-sarr1246-1	Chan2019	thirty	30	kùtə̀-mə̀tá	kutamata		FALSE	10·3		
+numerals-sarr1246-1-forty-1	numerals-sarr1246-1	Chan2019	forty	40	kùtə̀-sɔ́	kutaso		FALSE	10·4		
+numerals-sarr1246-1-fifty-1	numerals-sarr1246-1	Chan2019	fifty	50	kùtə̀-mí	kutami		FALSE	10·5		
+numerals-sarr1246-1-sixty-1	numerals-sarr1246-1	Chan2019	sixty	60	kùtə̀-mèhé̯	kutamehe		FALSE	10·6		
+numerals-sarr1246-1-seventy-1	numerals-sarr1246-1	Chan2019	seventy	70	kùtə̀-sìrí	kutasiri		FALSE	10·7		
+numerals-sarr1246-1-eighty-1	numerals-sarr1246-1	Chan2019	eighty	80	kùtə̀-sɔ́sɔ́	kutasoso		FALSE	10·(4+4)		
+numerals-sarr1246-1-ninety-1	numerals-sarr1246-1	Chan2019	ninety	90	kùtə̀-ndōkó	kutandoko		FALSE	10·9		
+numerals-sarr1246-1-hundred-1	numerals-sarr1246-1	Chan2019	hundred	100	ɓú	bu		FALSE	100		
+numerals-sarr1246-1-twohundred-1	numerals-sarr1246-1	Chan2019	twohundred	200	ɓú jōó	bujoo		FALSE	100·2		
+numerals-sarr1246-1-thousand-1	numerals-sarr1246-1	Chan2019	thousand	1000	sák	sak		FALSE	1000		
+numerals-sarr1246-1-thousand-2	numerals-sarr1246-1	Chan2019	thousand	1000	dūbú	dubu		FALSE	1000’		
+numerals-sarr1246-1-twothousand-1	numerals-sarr1246-1	Chan2019	twothousand	2000	sák jōó	sakjoo		FALSE	1000·2		
+numerals-sarr1246-1-twothousand-2	numerals-sarr1246-1	Chan2019	twothousand	2000	dūbú jōó	dubujoo		FALSE	1000'·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-siny1243-1-one-1	numerals-siny1243-1	Chan2019	one	1	kàllà	kalla		FALSE	1		
+numerals-siny1243-1-two-1	numerals-siny1243-1	Chan2019	two	2	róò	roo		FALSE	2		
+numerals-siny1243-1-three-1	numerals-siny1243-1	Chan2019	three	3	mùʈʈà	mutta		FALSE	3		
+numerals-siny1243-1-four-1	numerals-siny1243-1	Chan2019	four	4	ùssà	ussa		FALSE	4		
+numerals-siny1243-1-five-1	numerals-siny1243-1	Chan2019	five	5	mòy	moy		FALSE	5		
+numerals-siny1243-1-six-1	numerals-siny1243-1	Chan2019	six	6	mìccà	micca		FALSE	5'+1'{?}		
+numerals-siny1243-1-seven-1	numerals-siny1243-1	Chan2019	seven	7	mòorsò	moorso		FALSE	5+2'{?}		
+numerals-siny1243-1-eight-1	numerals-siny1243-1	Chan2019	eight	8	màartà	maarta		FALSE	5”+3{?}		
+numerals-siny1243-1-nine-1	numerals-siny1243-1	Chan2019	nine	9	mànɖéy	mandey		FALSE	5”'+4{?}		
+numerals-siny1243-1-ten-1	numerals-siny1243-1	Chan2019	ten	10	ʈìyà	tiya		FALSE	10		
+numerals-siny1243-1-twelve-1	numerals-siny1243-1	Chan2019	twelve	12	ʈìyà kásá róò	tiyakasaroo	{ten/?/two}	FALSE	10+{LIG}2		
+numerals-siny1243-1-twenty-1	numerals-siny1243-1	Chan2019	twenty	20	ʈìyà róò	tiyaroo	{ten / two}	FALSE	10·2		
+numerals-siny1243-1-twentytwo-1	numerals-siny1243-1	Chan2019	twentytwo	22	ʈìyà róò wò róò	tiyarooworoo	(wò from Arabic ??)	FALSE	10·2+{LIG}2		
+numerals-siny1243-1-hundred-1	numerals-siny1243-1	Chan2019	hundred	100	ʈìyà-ŋà ʈìyà	tiyangatiya	{ten-PLURAL /ten}	FALSE	10·{LIG}10		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-sout2828-1-one-1	numerals-sout2828-1	Chan2019	one	1	àlʉ	alu		FALSE	1		
+numerals-sout2828-1-two-1	numerals-sout2828-1	Chan2019	two	2	ìrì	iri		FALSE	2		
+numerals-sout2828-1-three-1	numerals-sout2828-1	Chan2019	three	3	na	na		FALSE	3		
+numerals-sout2828-1-four-1	numerals-sout2828-1	Chan2019	four	4	su	su		FALSE	4		
+numerals-sout2828-1-five-1	numerals-sout2828-1	Chan2019	five	5	tòwí	towi		FALSE	5		
+numerals-sout2828-1-six-1	numerals-sout2828-1	Chan2019	six	6	azɨa	azia		FALSE	5’+1'		
+numerals-sout2828-1-seven-1	numerals-sout2828-1	Chan2019	seven	7	aziirì	aziiri		FALSE	5’+2		
+numerals-sout2828-1-eight-1	numerals-sout2828-1	Chan2019	eight	8	àrò	aro		FALSE	8		
+numerals-sout2828-1-nine-1	numerals-sout2828-1	Chan2019	nine	9	óròmɨ̀	oromi		FALSE	8+1'		
+numerals-sout2828-1-ten-1	numerals-sout2828-1	Chan2019	ten	10	mudrí	mudri		FALSE	10		
+numerals-sout2828-1-eleven-1	numerals-sout2828-1	Chan2019	eleven	11	mudrí drìa àlʉ	mudridriaalu		FALSE	10+{LIG}1		
+numerals-sout2828-1-twelve-1	numerals-sout2828-1	Chan2019	twelve	12	mudrí drìa ìrì	mudridriairi		FALSE	10+{LIG}2		
+numerals-sout2828-1-thirteen-1	numerals-sout2828-1	Chan2019	thirteen	13	mudrí drìa na	mudridriana		FALSE	10+{LIG}3		
+numerals-sout2828-1-fourteen-1	numerals-sout2828-1	Chan2019	fourteen	14	mudrí drìa su	mudridriasu		FALSE	10+{LIG}4		
+numerals-sout2828-1-fifteen-1	numerals-sout2828-1	Chan2019	fifteen	15	mudrí drìa tòwí	mudridriatowi		FALSE	10+{LIG}5		
+numerals-sout2828-1-sixteen-1	numerals-sout2828-1	Chan2019	sixteen	16	mudrí drìa azɨa	mudridriaazia		FALSE	10+{LIG}5'+1'		
+numerals-sout2828-1-seventeen-1	numerals-sout2828-1	Chan2019	seventeen	17	mudrí drìa aziirì	mudridriaaziiri		FALSE	10+{LIG}5’+2		
+numerals-sout2828-1-eighteen-1	numerals-sout2828-1	Chan2019	eighteen	18	mudrí drìa àrò	mudridriaaro		FALSE	10+{LIG}8		
+numerals-sout2828-1-nineteen-1	numerals-sout2828-1	Chan2019	nineteen	19	mudrí drìa óròmɨ̀	mudridriaoromi		FALSE	10+{LIG}8+1"		
+numerals-sout2828-1-twenty-1	numerals-sout2828-1	Chan2019	twenty	20	kalí ìrì	kaliiri		FALSE	10·2		
+numerals-sout2828-1-twentyone-1	numerals-sout2828-1	Chan2019	twentyone	21	kalí ìri drìa àlʉ	kaliiridriaalu		FALSE	(10·2)+{LIG}1		
+numerals-sout2828-1-twentytwo-1	numerals-sout2828-1	Chan2019	twentytwo	22	kalí ìri drìa ìrì	kaliiridriairi		FALSE	(10·2)+{LIG}2		
+numerals-sout2828-1-twentythree-1	numerals-sout2828-1	Chan2019	twentythree	23	kalí ìri drìa na	kaliiridriana		FALSE	(10·2)+{LIG}3		
+numerals-sout2828-1-twentyfour-1	numerals-sout2828-1	Chan2019	twentyfour	24	kalí ìri drìa su	kaliiridriasu		FALSE	(10·2)+{LIG}4		
+numerals-sout2828-1-twentyfive-1	numerals-sout2828-1	Chan2019	twentyfive	25	kalí ìri drìa tòwí	kaliiridriatowi		FALSE	(10·2)+{LIG}5		
+numerals-sout2828-1-twentysix-1	numerals-sout2828-1	Chan2019	twentysix	26	kalí ìri drìa azɨa	kaliiridriaazia		FALSE	(10·2)+{LIG}5'+1'		
+numerals-sout2828-1-twentyseven-1	numerals-sout2828-1	Chan2019	twentyseven	27	kalí ìri drìa aziirì	kaliiridriaaziiri		FALSE	(10·2)+{LIG}5'+2		
+numerals-sout2828-1-twentyeight-1	numerals-sout2828-1	Chan2019	twentyeight	28	kalí ìri drìa àrò	kaliiridriaaro		FALSE	(10·2)+{LIG}5'+8		
+numerals-sout2828-1-twentynine-1	numerals-sout2828-1	Chan2019	twentynine	29	kalí ìri drìa óròmɨ̀	kaliiridriaoromi		FALSE	(10·2)+{LIG}5'+8+1"		
+numerals-sout2828-1-thirty-1	numerals-sout2828-1	Chan2019	thirty	30	kalí na	kalina		FALSE	10·3		
+numerals-sout2828-1-forty-1	numerals-sout2828-1	Chan2019	forty	40	kalí su	kalisu		FALSE	10·4		
+numerals-sout2828-1-fifty-1	numerals-sout2828-1	Chan2019	fifty	50	kalí tòwí	kalitowi		FALSE	10·5		
+numerals-sout2828-1-sixty-1	numerals-sout2828-1	Chan2019	sixty	60	kalí azɨa	kaliazia		FALSE	10·(5’·1’)		
+numerals-sout2828-1-seventy-1	numerals-sout2828-1	Chan2019	seventy	70	kalí aziirì	kaliaziiri		FALSE	10·(5’·2)		
+numerals-sout2828-1-eighty-1	numerals-sout2828-1	Chan2019	eighty	80	kalí àrò	kaliaro		FALSE	10·8		
+numerals-sout2828-1-ninety-1	numerals-sout2828-1	Chan2019	ninety	90	kalí óròmɨ̀	kalioromi		FALSE	10·9		
+numerals-sout2828-1-hundred-1	numerals-sout2828-1	Chan2019	hundred	100	tʉrʉa àlʉ	turuaalu		FALSE	100·1		
+numerals-sout2828-1-twohundred-1	numerals-sout2828-1	Chan2019	twohundred	200	tʉrʉa	turua		FALSE	100·2		
+numerals-sout2828-1-fourhundred-1	numerals-sout2828-1	Chan2019	fourhundred	400	tʉrʉa su	turuasu		FALSE	100·4		
+numerals-sout2828-1-eighthundred-1	numerals-sout2828-1	Chan2019	eighthundred	800	tʉrʉa  àrò	turuaaro		FALSE	100·8		
+numerals-sout2828-1-thousand-1	numerals-sout2828-1	Chan2019	thousand	1000	alɨ̀fʉ̀ àlʉ	alifualu	(< Arabic)	TRUE	1000·1		
+numerals-sout2828-1-twothousand-1	numerals-sout2828-1	Chan2019	twothousand	2000	alɨ̀fʉ ìrì	alifuiri		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-vale1250-1-one-1	numerals-vale1250-1	Chan2019	one	1	kīɗá	kida		FALSE	1		
+numerals-vale1250-1-two-1	numerals-vale1250-1	Chan2019	two	2	díyò	diyo		FALSE	2		
+numerals-vale1250-1-three-1	numerals-vale1250-1	Chan2019	three	3	mùtá	muta		FALSE	3		
+numerals-vale1250-1-four-1	numerals-vale1250-1	Chan2019	four	4	sɔ́	so		FALSE	4		
+numerals-vale1250-1-five-1	numerals-vale1250-1	Chan2019	five	5	mí	mi		FALSE	5		
+numerals-vale1250-1-six-1	numerals-vale1250-1	Chan2019	six	6	míkìdí kīɗá	mikidikida	( 5 + 1)	FALSE	5+1		
+numerals-vale1250-1-seven-1	numerals-vale1250-1	Chan2019	seven	7	míkìdí díyò	mikididiyo	( 5 + 1)	FALSE	5+2		
+numerals-vale1250-1-eight-1	numerals-vale1250-1	Chan2019	eight	8	ɗɔ̄ɗɔ̄sɔ́	dodoso	( 2 x 4 ) ??	FALSE	8	4’+4	
+numerals-vale1250-1-nine-1	numerals-vale1250-1	Chan2019	nine	9	kàmnànɡà kīɗá	kamnangakida	( 10 - 1)	FALSE	10’-1		
+numerals-vale1250-1-ten-1	numerals-vale1250-1	Chan2019	ten	10	ɓúfú	bufu		FALSE	10		
+numerals-vale1250-1-eleven-1	numerals-vale1250-1	Chan2019	eleven	11	ɓúfú jòní kīɗá	bufujonikida		FALSE	10+1		
+numerals-vale1250-1-twelve-1	numerals-vale1250-1	Chan2019	twelve	12	ɓúfú jòní díyò	bufujonidiyo		FALSE	10+2		
+numerals-vale1250-1-thirteen-1	numerals-vale1250-1	Chan2019	thirteen	13	ɓúfú jòní mùtá	bufujonimuta		FALSE	10+3		
+numerals-vale1250-1-fourteen-1	numerals-vale1250-1	Chan2019	fourteen	14	ɓúfú jòní sɔ́	bufujoniso		FALSE	10+4		
+numerals-vale1250-1-fifteen-1	numerals-vale1250-1	Chan2019	fifteen	15	ɓúfú jòní mí	bufujonimi		FALSE	10+5		
+numerals-vale1250-1-sixteen-1	numerals-vale1250-1	Chan2019	sixteen	16	ɓúfú jòní míkìdí kīɗá	bufujonimikidikida		FALSE	10+5+1		
+numerals-vale1250-1-seventeen-1	numerals-vale1250-1	Chan2019	seventeen	17	ɓúfú jòní míkìdí díyò	bufujonimikididiyo		FALSE	10+5+2		
+numerals-vale1250-1-eighteen-1	numerals-vale1250-1	Chan2019	eighteen	18	ɓúfú jòní ɗɔ̄ɗɔ̄sɔ́	bufujonidodoso		FALSE	10+8		
+numerals-vale1250-1-nineteen-1	numerals-vale1250-1	Chan2019	nineteen	19	ɓúfú jòní kàmnànɡà kīɗa	bufujonikamnangakida		FALSE	10+10’-1		
+numerals-vale1250-1-twenty-1	numerals-vale1250-1	Chan2019	twenty	20	ùndà kīɗá	undakida		FALSE	20·1		
+numerals-vale1250-1-twentyone-1	numerals-vale1250-1	Chan2019	twentyone	21	ùndà kīɗá sò jòní kīɗá	undakidasojonikida		FALSE	(20·1)+{LIG}1		
+numerals-vale1250-1-twentytwo-1	numerals-vale1250-1	Chan2019	twentytwo	22	ùndà kīɗá sò jòní díyò	undakidasojonidiyo		FALSE	(20·1)+{LIG}2		
+numerals-vale1250-1-twentythree-1	numerals-vale1250-1	Chan2019	twentythree	23	ùndà kīɗá sò jòní mùtá	undakidasojonimuta		FALSE	(20·1)+{LIG}3		
+numerals-vale1250-1-twentyfour-1	numerals-vale1250-1	Chan2019	twentyfour	24	ùndà kīɗá sò jòní sɔ́	undakidasojoniso		FALSE	(20·1)+{LIG}4		
+numerals-vale1250-1-twentyfive-1	numerals-vale1250-1	Chan2019	twentyfive	25	ùndà kīɗá sò jòní mí	undakidasojonimi		FALSE	(20·1)+{LIG}5		
+numerals-vale1250-1-twentysix-1	numerals-vale1250-1	Chan2019	twentysix	26	ùndà kīɗá sò jòní míkìdí kīɗá	undakidasojonimikidikida		FALSE	(20·1)+{LIG}5+1		
+numerals-vale1250-1-twentyseven-1	numerals-vale1250-1	Chan2019	twentyseven	27	ùndà kīɗá sò jòní míkìdí díyò	undakidasojonimikididiyo		FALSE	(20·1)+{LIG}5+2		
+numerals-vale1250-1-twentyeight-1	numerals-vale1250-1	Chan2019	twentyeight	28	ùndà kīɗá sò jòní ɗɔ̄ɗɔ̄sɔ́	undakidasojonidodoso		FALSE	(20·1)+{LIG}8		
+numerals-vale1250-1-twentynine-1	numerals-vale1250-1	Chan2019	twentynine	29	ùndà kīɗá sò jòní kàmnànɡà kīɗa	undakidasojonikamnangakida		FALSE	(20·1)+{LIG}10’-1		
+numerals-vale1250-1-thirty-1	numerals-vale1250-1	Chan2019	thirty	30	ùndà kīɗá sò jòní ɓúfú	undakidasojonibufu		FALSE	(20·1)+{LIG}10		
+numerals-vale1250-1-forty-1	numerals-vale1250-1	Chan2019	forty	40	ùndà díyò	undadiyo	( 20 x 2 )	FALSE	20·2		
+numerals-vale1250-1-fifty-1	numerals-vale1250-1	Chan2019	fifty	50	ùndà díyò sò jòní ɓúfú	undadiyosojonibufu		FALSE			
+numerals-vale1250-1-sixty-1	numerals-vale1250-1	Chan2019	sixty	60	ùndà mùtá	undamuta	( 20 x 3 )	FALSE	20·3		
+numerals-vale1250-1-seventy-1	numerals-vale1250-1	Chan2019	seventy	70	ùndà mùtá sò jòní ɓúfú	undamutasojonibufu		FALSE			
+numerals-vale1250-1-eighty-1	numerals-vale1250-1	Chan2019	eighty	80	ùndà sɔ́	undaso	( 20 x 4 )	FALSE	20·4		
+numerals-vale1250-1-ninety-1	numerals-vale1250-1	Chan2019	ninety	90	ùndà sɔ́ sò jòní ɓúfú	undasosojonibufu		FALSE			
+numerals-vale1250-1-hundred-1	numerals-vale1250-1	Chan2019	hundred	100	mí	mi	( 20 x 5 )	FALSE	100		
+numerals-vale1250-1-twohundred-1	numerals-vale1250-1	Chan2019	twohundred	200	ùnda díyò	undadiyo	( 20 x 10 )	FALSE	20·10		
+numerals-vale1250-1-thousand-1	numerals-vale1250-1	Chan2019	thousand	1000	sák	sak		FALSE	1000		
+numerals-vale1250-1-twothousand-1	numerals-vale1250-1	Chan2019	twothousand	2000	sák díyò	sakdiyo		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-yulu1243-1-one-1	numerals-yulu1243-1	Chan2019	one	1	kȁal	kaal	(ə̏)	FALSE	1		
+numerals-yulu1243-1-two-1	numerals-yulu1243-1	Chan2019	two	2	jōoy	jooy	(ə̄)	FALSE	2		
+numerals-yulu1243-1-three-1	numerals-yulu1243-1	Chan2019	three	3	mȍotȁ	moota		FALSE	3		
+numerals-yulu1243-1-four-1	numerals-yulu1243-1	Chan2019	four	4	ȕsȍ	uso		FALSE	4		
+numerals-yulu1243-1-five-1	numerals-yulu1243-1	Chan2019	five	5	mȕu	muu		FALSE	5		
+numerals-yulu1243-1-six-1	numerals-yulu1243-1	Chan2019	six	6	mȉtə̏ kȁal(ə̏)	mitakaala	{? / one}	FALSE	5'+1		
+numerals-yulu1243-1-seven-1	numerals-yulu1243-1	Chan2019	seven	7	mȉtə̏ jōoy(ə̄)	mitajooya	{? / two}	FALSE	5'+2		
+numerals-yulu1243-1-eight-1	numerals-yulu1243-1	Chan2019	eight	8	mȉtə̏ mȍotȁ	mitamoota	{? / three}	FALSE	5'+3		
+numerals-yulu1243-1-nine-1	numerals-yulu1243-1	Chan2019	nine	9	mȉtə̏ ȕsȍ	mitauso		FALSE	5'+4		
+numerals-yulu1243-1-nine-2	numerals-yulu1243-1	Chan2019	nine	9	mȉȕsȍ	miuso	{? / four}	FALSE	5"+4		
+numerals-yulu1243-1-ten-1	numerals-yulu1243-1	Chan2019	ten	10	kpúu	kpuu		FALSE	10		
+numerals-yulu1243-1-eleven-1	numerals-yulu1243-1	Chan2019	eleven	11	kpúu kálə́	kpuukala		FALSE	10+1		
+numerals-yulu1243-1-twelve-1	numerals-yulu1243-1	Chan2019	twelve	12	kpúu kálə́ jōoy	kpuukalajooy	(ə̄)	FALSE	10+2		
+numerals-yulu1243-1-twenty-1	numerals-yulu1243-1	Chan2019	twenty	20	kpúukpú jōoy(ə̄)	kpuukpujooya	{ten / two}	FALSE	10'·2		
+numerals-yulu1243-1-twentyone-1	numerals-yulu1243-1	Chan2019	twentyone	21	kpúukpú jōoy	kpuukpujooy	(ə̄)	FALSE	?	20=21	
+numerals-yulu1243-1-thirty-1	numerals-yulu1243-1	Chan2019	thirty	30	kpúukpú mȍotȁ	kpuukpumoota	{ ten / three }	FALSE	10'·3		
+numerals-yulu1243-1-hundred-1	numerals-yulu1243-1	Chan2019	hundred	100	kpúukpú kpúu	kpuukpukpuu	{ten /ten}	FALSE	10·10’		
+numerals-yulu1243-1-hundred-2	numerals-yulu1243-1	Chan2019	hundred	100	méy	mey	(ə̏)	FALSE	100		
