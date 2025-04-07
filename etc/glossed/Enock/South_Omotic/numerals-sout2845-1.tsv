@@ -1,0 +1,234 @@
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-karo1297-1-one-1	numerals-karo1297-1	Chan2019	one	1	kala	kala		FALSE	1		
+numerals-karo1297-1-two-1	numerals-karo1297-1	Chan2019	two	2	lama	lama		FALSE	2		
+numerals-karo1297-1-three-1	numerals-karo1297-1	Chan2019	three	3	makkam	makkam		FALSE	3		
+numerals-karo1297-1-four-1	numerals-karo1297-1	Chan2019	four	4	ojidi	ojidi		FALSE	4		
+numerals-karo1297-1-five-1	numerals-karo1297-1	Chan2019	five	5	dɔŋ	dong		FALSE	5		
+numerals-karo1297-1-six-1	numerals-karo1297-1	Chan2019	six	6	la	la		FALSE	6		
+numerals-karo1297-1-seven-1	numerals-karo1297-1	Chan2019	seven	7	tsoɓa	tsoba		FALSE	7		
+numerals-karo1297-1-eight-1	numerals-karo1297-1	Chan2019	eight	8	lɔɔŋkaji	loongkaji		FALSE	8		
+numerals-karo1297-1-nine-1	numerals-karo1297-1	Chan2019	nine	9	sal	sal		FALSE	9		
+numerals-karo1297-1-ten-1	numerals-karo1297-1	Chan2019	ten	10	taɓi	tabi		FALSE	10		
+numerals-karo1297-1-eleven-1	numerals-karo1297-1	Chan2019	eleven	11	taɓkala	tabkala		FALSE	10+1		
+numerals-karo1297-1-twelve-1	numerals-karo1297-1	Chan2019	twelve	12	taɓlama	tablama		FALSE	10+2		
+numerals-karo1297-1-thirteen-1	numerals-karo1297-1	Chan2019	thirteen	13	taɓmakkam	tabmakkam		FALSE	10+3		
+numerals-karo1297-1-fourteen-1	numerals-karo1297-1	Chan2019	fourteen	14	taɓojidi	tabojidi		FALSE	10+4		
+numerals-karo1297-1-fifteen-1	numerals-karo1297-1	Chan2019	fifteen	15	taɓdɔŋ	tabdong		FALSE	10+5		
+numerals-karo1297-1-sixteen-1	numerals-karo1297-1	Chan2019	sixteen	16	taɓla	tabla		FALSE	10+6		
+numerals-karo1297-1-seventeen-1	numerals-karo1297-1	Chan2019	seventeen	17	taɓitsoɓa	tabitsoba		FALSE	10+7		
+numerals-karo1297-1-eighteen-1	numerals-karo1297-1	Chan2019	eighteen	18	taɓloŋkaji	tablongkaji		FALSE	10+8		
+numerals-karo1297-1-nineteen-1	numerals-karo1297-1	Chan2019	nineteen	19	taɓsal	tabsal		FALSE	10+9		
+numerals-karo1297-1-twenty-1	numerals-karo1297-1	Chan2019	twenty	20	lamatam	lamatam		FALSE	2·10'’		
+numerals-karo1297-1-twentyone-1	numerals-karo1297-1	Chan2019	twentyone	21	lamatam kala	lamatamkala		FALSE	(2·10')+1		
+numerals-karo1297-1-twentytwo-1	numerals-karo1297-1	Chan2019	twentytwo	22	lamatam lama	lamatamlama		FALSE	(2·10')+2		
+numerals-karo1297-1-twentythree-1	numerals-karo1297-1	Chan2019	twentythree	23	lamatam makkan	lamatammakkan		FALSE	(2·10')+3		
+numerals-karo1297-1-twentyfour-1	numerals-karo1297-1	Chan2019	twentyfour	24	lamatam ojidi	lamatamojidi		FALSE	(2·10')+4		
+numerals-karo1297-1-twentyfive-1	numerals-karo1297-1	Chan2019	twentyfive	25	lamatam dɔŋ	lamatamdong		FALSE	(2·10')+5		
+numerals-karo1297-1-twentysix-1	numerals-karo1297-1	Chan2019	twentysix	26	lamatam la	lamatamla		FALSE	(2·10')+6		
+numerals-karo1297-1-twentyseven-1	numerals-karo1297-1	Chan2019	twentyseven	27	lamatam tsoɓa	lamatamtsoba		FALSE	(2·10')+7		
+numerals-karo1297-1-twentyeight-1	numerals-karo1297-1	Chan2019	twentyeight	28	lamatam lɔɔŋkaji	lamatamloongkaji		FALSE	(2·10')+8		
+numerals-karo1297-1-twentynine-1	numerals-karo1297-1	Chan2019	twentynine	29	lamatam sal	lamatamsal		FALSE	(2·10')+9		
+numerals-karo1297-1-thirty-1	numerals-karo1297-1	Chan2019	thirty	30	makkantam	makkantam		FALSE	3·10’		
+numerals-karo1297-1-forty-1	numerals-karo1297-1	Chan2019	forty	40	ojiditam	ojiditam		FALSE	4·10’		
+numerals-karo1297-1-fifty-1	numerals-karo1297-1	Chan2019	fifty	50	dɔŋtam	dongtam		FALSE	5·10’		
+numerals-karo1297-1-sixty-1	numerals-karo1297-1	Chan2019	sixty	60	latam	latam		FALSE	6·10’		
+numerals-karo1297-1-seventy-1	numerals-karo1297-1	Chan2019	seventy	70	tsoɓatam	tsobatam		FALSE	7·10’		
+numerals-karo1297-1-eighty-1	numerals-karo1297-1	Chan2019	eighty	80	loŋkajitam	longkajitam		FALSE	8·10		
+numerals-karo1297-1-ninety-1	numerals-karo1297-1	Chan2019	ninety	90	saltam	saltam		FALSE	9·10		
+numerals-karo1297-1-hundred-1	numerals-karo1297-1	Chan2019	hundred	100	ɗɪbkala	dibkala		FALSE	100·1		
+numerals-karo1297-1-twohundred-1	numerals-karo1297-1	Chan2019	twohundred	200	ɗɪblama	diblama		FALSE	100·2		
+numerals-karo1297-1-fivehundred-1	numerals-karo1297-1	Chan2019	fivehundred	500	ɗɪbdɔŋ	dibdong		FALSE	100·5		
+numerals-karo1297-1-thousand-1	numerals-karo1297-1	Chan2019	thousand	1000	ʃii	sii	( ʃi is borrowed from Amharic)	TRUE	1000		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-hame1242-1-one-1	numerals-hame1242-1	Chan2019	one	1	kála	kala		FALSE	1		
+numerals-hame1242-1-two-1	numerals-hame1242-1	Chan2019	two	2	lamá	lama		FALSE	2		
+numerals-hame1242-1-three-1	numerals-hame1242-1	Chan2019	three	3	makkán	makkan		FALSE	3		
+numerals-hame1242-1-four-1	numerals-hame1242-1	Chan2019	four	4	oidí	oidi		FALSE	4		
+numerals-hame1242-1-five-1	numerals-hame1242-1	Chan2019	five	5	dunɡ̥	dung		FALSE	5		
+numerals-hame1242-1-six-1	numerals-hame1242-1	Chan2019	six	6	lax	lax		FALSE	6		
+numerals-hame1242-1-seven-1	numerals-hame1242-1	Chan2019	seven	7	toɓɓá	tobba		FALSE	7		
+numerals-hame1242-1-eight-1	numerals-hame1242-1	Chan2019	eight	8	lankái	lankai		FALSE	8		
+numerals-hame1242-1-nine-1	numerals-hame1242-1	Chan2019	nine	9	sal	sal		FALSE	9		
+numerals-hame1242-1-ten-1	numerals-hame1242-1	Chan2019	ten	10	táɓi	tabi		FALSE	10		
+numerals-hame1242-1-eleven-1	numerals-hame1242-1	Chan2019	eleven	11	táɓi kála	tabikala		FALSE	10+1		
+numerals-hame1242-1-twelve-1	numerals-hame1242-1	Chan2019	twelve	12	táɓi lamá	tabilama		FALSE	10+2		
+numerals-hame1242-1-thirteen-1	numerals-hame1242-1	Chan2019	thirteen	13	táɓi makkán	tabimakkan		FALSE	10+3		
+numerals-hame1242-1-fourteen-1	numerals-hame1242-1	Chan2019	fourteen	14	táɓi oidí	tabioidi		FALSE	10+4		
+numerals-hame1242-1-fifteen-1	numerals-hame1242-1	Chan2019	fifteen	15	táɓi dunɡ̥	tabidung		FALSE	10+5		
+numerals-hame1242-1-sixteen-1	numerals-hame1242-1	Chan2019	sixteen	16	táɓi lax	tabilax		FALSE	10+6		
+numerals-hame1242-1-seventeen-1	numerals-hame1242-1	Chan2019	seventeen	17	táɓi toɓɓá	tabitobba		FALSE	10+7		
+numerals-hame1242-1-eighteen-1	numerals-hame1242-1	Chan2019	eighteen	18	táɓi lankái	tabilankai		FALSE	10+8		
+numerals-hame1242-1-nineteen-1	numerals-hame1242-1	Chan2019	nineteen	19	táɓi sal	tabisal		FALSE	10+9		
+numerals-hame1242-1-twenty-1	numerals-hame1242-1	Chan2019	twenty	20	éedi kála kaisá	eedikalakaisa	( one complete man)	FALSE	20		
+numerals-hame1242-1-twentyone-1	numerals-hame1242-1	Chan2019	twentyone	21	éedi kála kaisá apó kála	eedikalakaisaapokala		FALSE	20+{+}{+}1		
+numerals-hame1242-1-twentytwo-1	numerals-hame1242-1	Chan2019	twentytwo	22	éedi kála kaisá apó lamá	eedikalakaisaapolama		FALSE	20+{+}2		
+numerals-hame1242-1-twentythree-1	numerals-hame1242-1	Chan2019	twentythree	23	éedi kála kaisá apó makkán	eedikalakaisaapomakkan		FALSE	20+{+}3		
+numerals-hame1242-1-twentyfour-1	numerals-hame1242-1	Chan2019	twentyfour	24	éedi kála kaisá apó oidí	eedikalakaisaapooidi		FALSE	20+{+}4		
+numerals-hame1242-1-twentyfive-1	numerals-hame1242-1	Chan2019	twentyfive	25	éedi kála kaisá apó dunɡ̥	eedikalakaisaapodung		FALSE	20+{+}5		
+numerals-hame1242-1-twentysix-1	numerals-hame1242-1	Chan2019	twentysix	26	éedi kála kaisá apó lax	eedikalakaisaapolax		FALSE	20+{+}6		
+numerals-hame1242-1-twentyseven-1	numerals-hame1242-1	Chan2019	twentyseven	27	éedi kála kaisá apó toɓɓá	eedikalakaisaapotobba		FALSE	20+{+}7		
+numerals-hame1242-1-twentyeight-1	numerals-hame1242-1	Chan2019	twentyeight	28	éedi kála kaisá apó lankái	eedikalakaisaapolankai		FALSE	20+{+}8		
+numerals-hame1242-1-twentynine-1	numerals-hame1242-1	Chan2019	twentynine	29	éedi kála kaisá apó sal	eedikalakaisaaposal		FALSE	20+{+}9		
+numerals-hame1242-1-thirty-1	numerals-hame1242-1	Chan2019	thirty	30	éedi kála kaisá apó táɓi	eedikalakaisaapotabi	( 20 + 10 )	FALSE	20+{+}{+}10		
+numerals-hame1242-1-forty-1	numerals-hame1242-1	Chan2019	forty	40	éedi lamá kaisá	eedilamakaisa	( 20 x 2 )	FALSE	2·20		
+numerals-hame1242-1-fifty-1	numerals-hame1242-1	Chan2019	fifty	50	éedi lamá kaisá apó táɓi	eedilamakaisaapotabi		FALSE	(2·20)+10		
+numerals-hame1242-1-sixty-1	numerals-hame1242-1	Chan2019	sixty	60	éedi makkán kaisá	eedimakkankaisa	( 20 x 3 )	FALSE	3·20		
+numerals-hame1242-1-seventy-1	numerals-hame1242-1	Chan2019	seventy	70	éedi makkán kaisá apó táɓi	eedimakkankaisaapotabi		FALSE	(3·20)+10		
+numerals-hame1242-1-eighty-1	numerals-hame1242-1	Chan2019	eighty	80	éedi ʔoʷidi kaisá	eediowidikaisa	( 20 x 4 )	FALSE	4·20		
+numerals-hame1242-1-ninety-1	numerals-hame1242-1	Chan2019	ninety	90	ʔeːdi ʔoʷidi kaisá apó táɓi	ediowidikaisaapotabi		FALSE	(4·20)+10		
+numerals-hame1242-1-hundred-1	numerals-hame1242-1	Chan2019	hundred	100	éedi dunɡ̥ kaisá	eedidungkaisa	( 20 x 5 )	FALSE	5·20		
+numerals-hame1242-1-twohundred-1	numerals-hame1242-1	Chan2019	twohundred	200	éedi táɓi kaisá	eeditabikaisa	( 20 x 10 )	FALSE	10·20		
+numerals-hame1242-1-thousand-1	numerals-hame1242-1	Chan2019	thousand	1000	ʃi kála	sikala	( ʃi is borrowed from Amharic)	FALSE	1000·1		
+numerals-hame1242-1-twothousand-1	numerals-hame1242-1	Chan2019	twothousand	2000	ʃi lamá	silama		FALSE	1000·2		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-gayi1237-1-one-1	numerals-gayi1237-1	Chan2019	one	1	wóliqi	woliqi		FALSE	1		
+numerals-gayi1237-1-two-1	numerals-gayi1237-1	Chan2019	two	2	qastién	qastien		FALSE	2		
+numerals-gayi1237-1-three-1	numerals-gayi1237-1	Chan2019	three	3	makːén	maken		FALSE	3		
+numerals-gayi1237-1-four-1	numerals-gayi1237-1	Chan2019	four	4	ʔoydːí	oydi		FALSE	4		
+numerals-gayi1237-1-five-1	numerals-gayi1237-1	Chan2019	five	5	dónqi	donqi		FALSE	5		
+numerals-gayi1237-1-six-1	numerals-gayi1237-1	Chan2019	six	6	láː	la		FALSE	6		
+numerals-gayi1237-1-seven-1	numerals-gayi1237-1	Chan2019	seven	7	tabizá	tabiza		FALSE	7		
+numerals-gayi1237-1-eight-1	numerals-gayi1237-1	Chan2019	eight	8	sákila	sakila		FALSE	8		
+numerals-gayi1237-1-nine-1	numerals-gayi1237-1	Chan2019	nine	9	lámakay	lamakay		FALSE	9		
+numerals-gayi1237-1-ten-1	numerals-gayi1237-1	Chan2019	ten	10	támːá	tama		FALSE	10		
+numerals-gayi1237-1-eleven-1	numerals-gayi1237-1	Chan2019	eleven	11	támːéke wóliqi	tamekewoliqi		FALSE	10+1		
+numerals-gayi1237-1-twelve-1	numerals-gayi1237-1	Chan2019	twelve	12	támːéke qastién	tamekeqastien		FALSE	10+2		
+numerals-gayi1237-1-thirteen-1	numerals-gayi1237-1	Chan2019	thirteen	13	támːéke makːén	tamekemaken		FALSE	10+3		
+numerals-gayi1237-1-fourteen-1	numerals-gayi1237-1	Chan2019	fourteen	14	támːéke ʔoydːí	tamekeoydi		FALSE	10+4		
+numerals-gayi1237-1-fifteen-1	numerals-gayi1237-1	Chan2019	fifteen	15	támːéke dónqi	tamekedonqi		FALSE	10+5		
+numerals-gayi1237-1-sixteen-1	numerals-gayi1237-1	Chan2019	sixteen	16	támːéke láː	tamekela		FALSE	10+6		
+numerals-gayi1237-1-seventeen-1	numerals-gayi1237-1	Chan2019	seventeen	17	támːéke tabizá	tameketabiza		FALSE	10+7		
+numerals-gayi1237-1-eighteen-1	numerals-gayi1237-1	Chan2019	eighteen	18	támːéke sákila	tamekesakila		FALSE	10+8		
+numerals-gayi1237-1-nineteen-1	numerals-gayi1237-1	Chan2019	nineteen	19	támːéke lámakay	tamekelamakay		FALSE	10+9		
+numerals-gayi1237-1-twenty-1	numerals-gayi1237-1	Chan2019	twenty	20	boːnidá	bonida	(litː ‘one full person’)	FALSE	20		
+numerals-gayi1237-1-twentyone-1	numerals-gayi1237-1	Chan2019	twentyone	21	boːnidéke wóliqi	bonidekewoliqi		FALSE	20+{+}1		
+numerals-gayi1237-1-twentytwo-1	numerals-gayi1237-1	Chan2019	twentytwo	22	boːnidéke qastːén	bonidekeqasten		FALSE	20+{+}2		
+numerals-gayi1237-1-twentythree-1	numerals-gayi1237-1	Chan2019	twentythree	23	boːnidéke makːén	bonidekemaken		FALSE	20+{+}3		
+numerals-gayi1237-1-twentyfour-1	numerals-gayi1237-1	Chan2019	twentyfour	24	boːnidéke ʔoydːí	bonidekeoydi		FALSE	20+{+}4		
+numerals-gayi1237-1-twentyfive-1	numerals-gayi1237-1	Chan2019	twentyfive	25	boːnidéke dónqi	bonidekedonqi		FALSE	20+{+}5		
+numerals-gayi1237-1-twentysix-1	numerals-gayi1237-1	Chan2019	twentysix	26	boːnidéke láː	bonidekela		FALSE	20+{+}6		
+numerals-gayi1237-1-twentyseven-1	numerals-gayi1237-1	Chan2019	twentyseven	27	boːnidéke tabizá	bonideketabiza		FALSE	20+{+}7		
+numerals-gayi1237-1-twentyeight-1	numerals-gayi1237-1	Chan2019	twentyeight	28	boːnidéke sákila	bonidekesakila		FALSE	20+{+}8		
+numerals-gayi1237-1-twentynine-1	numerals-gayi1237-1	Chan2019	twentynine	29	boːnidéke lámakay	bonidekelamakay		FALSE	20+{+}9		
+numerals-gayi1237-1-thirty-1	numerals-gayi1237-1	Chan2019	thirty	30	boːnidéke támːá	bonideketama		FALSE	20+{+}10		
+numerals-gayi1237-1-forty-1	numerals-gayi1237-1	Chan2019	forty	40	qastién boːnidá	qastienbonida	( 20 x 2 )	FALSE	2·20		
+numerals-gayi1237-1-fifty-1	numerals-gayi1237-1	Chan2019	fifty	50	qastién boːnidá támːá	qastienbonidatama		FALSE	(2·20)+10		
+numerals-gayi1237-1-sixty-1	numerals-gayi1237-1	Chan2019	sixty	60	makːén boːnidá	makenbonida	( 20 x 3 )	FALSE	3·20		
+numerals-gayi1237-1-seventy-1	numerals-gayi1237-1	Chan2019	seventy	70	makːén boːnida támːá	makenbonidatama		FALSE	(3·20)+10		
+numerals-gayi1237-1-eighty-1	numerals-gayi1237-1	Chan2019	eighty	80	ʔoydːí boːnidá	oydibonida	( 20 x 4 )	FALSE	4·20		
+numerals-gayi1237-1-ninety-1	numerals-gayi1237-1	Chan2019	ninety	90	ʔoydːí boːnida támːá	oydibonidatama		FALSE	(4·20)+10		
+numerals-gayi1237-1-hundred-1	numerals-gayi1237-1	Chan2019	hundred	100	wóliqi tseta	woliqitseta		FALSE	1·100		
+numerals-gayi1237-1-twohundred-1	numerals-gayi1237-1	Chan2019	twohundred	200	qastién tsesta	qastientsesta		FALSE	2·100		
+numerals-gayi1237-1-fourhundred-1	numerals-gayi1237-1	Chan2019	fourhundred	400	ʔoydːí tseta	oyditseta		FALSE	4·100		
+numerals-gayi1237-1-eighthundred-1	numerals-gayi1237-1	Chan2019	eighthundred	800	sákila tsesta	sakilatsesta		FALSE	8·100		
+numerals-gayi1237-1-thousand-1	numerals-gayi1237-1	Chan2019	thousand	1000	sá'aː	saa	<Amharic	TRUE	1000		
+numerals-gayi1237-1-thousand-2	numerals-gayi1237-1	Chan2019	thousand	1000	wólːáq sá'aː	wolaqsaa		FALSE	1·1000		
+numerals-gayi1237-1-twothousand-1	numerals-gayi1237-1	Chan2019	twothousand	2000	qastːén sá'aː	qastensaa		FALSE	2·1000		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-dime1235-1-one-1	numerals-dime1235-1	Chan2019	one	1	ˈwɔkʰʌl	wokhl		FALSE	1		
+numerals-dime1235-1-one-2	numerals-dime1235-1	Chan2019	one	1	wókkil	wokkil		FALSE	1’		
+numerals-dime1235-1-two-1	numerals-dime1235-1	Chan2019	two	2	ˈkʼʌtʼɨm	ktim		FALSE	2		
+numerals-dime1235-1-two-2	numerals-dime1235-1	Chan2019	two	2	kʼəstin	kastin		FALSE	2’		
+numerals-dime1235-1-three-1	numerals-dime1235-1	Chan2019	three	3	ˈmʌkʰɨm	mkhim		FALSE	3		
+numerals-dime1235-1-three-2	numerals-dime1235-1	Chan2019	three	3	mə́kkim	makkim		FALSE	3’		
+numerals-dime1235-1-four-1	numerals-dime1235-1	Chan2019	four	4	ʔʊdːʊ	udu		FALSE	4		
+numerals-dime1235-1-four-2	numerals-dime1235-1	Chan2019	four	4	ʔúddú	uddu		FALSE	4’		
+numerals-dime1235-1-five-1	numerals-dime1235-1	Chan2019	five	5	ˈʃənːə	sana		FALSE	5		
+numerals-dime1235-1-five-2	numerals-dime1235-1	Chan2019	five	5	ʃinní	sinni		FALSE	5’		
+numerals-dime1235-1-six-1	numerals-dime1235-1	Chan2019	six	6	ˈlahə	laha		FALSE	6		
+numerals-dime1235-1-six-2	numerals-dime1235-1	Chan2019	six	6	ˈlah	lah		FALSE	6’		
+numerals-dime1235-1-six-3	numerals-dime1235-1	Chan2019	six	6	láxi	laxi		FALSE	6”		
+numerals-dime1235-1-seven-1	numerals-dime1235-1	Chan2019	seven	7	ˈtʰʊsːʊm	thusum		FALSE	7		
+numerals-dime1235-1-seven-2	numerals-dime1235-1	Chan2019	seven	7	tússum	tussum		FALSE	7’		
+numerals-dime1235-1-eight-1	numerals-dime1235-1	Chan2019	eight	8	ˈkʼʌʃnaʃ	ksnas		FALSE	8		
+numerals-dime1235-1-eight-2	numerals-dime1235-1	Chan2019	eight	8	kʼaʃnáʃiʃ	kasnasis		FALSE	8’		
+numerals-dime1235-1-nine-1	numerals-dime1235-1	Chan2019	nine	9	ˈwʌklaʃ	wklas		FALSE	9		
+numerals-dime1235-1-nine-2	numerals-dime1235-1	Chan2019	nine	9	wókláʃiʃ	woklasis		FALSE	9’		
+numerals-dime1235-1-ten-1	numerals-dime1235-1	Chan2019	ten	10	ˈtʰamːe	thame		FALSE	10		
+numerals-dime1235-1-ten-2	numerals-dime1235-1	Chan2019	ten	10	təmme	tamme		FALSE	10’		
+numerals-dime1235-1-eleven-1	numerals-dime1235-1	Chan2019	eleven	11	ˈtʰamːe ˈwɔkʰʌl	thamewokhl		FALSE	10+1		
+numerals-dime1235-1-eleven-2	numerals-dime1235-1	Chan2019	eleven	11	təmme (ʔáf-ó) w.	tammeafow		FALSE	10+1”		
+numerals-dime1235-1-twelve-1	numerals-dime1235-1	Chan2019	twelve	12	ˈtʰamːe ˈkʼʌtʼɨm	thamektim		FALSE	10+2		
+numerals-dime1235-1-thirteen-1	numerals-dime1235-1	Chan2019	thirteen	13	ˈtʰamːe ˈmʌkʰɨm	thamemkhim		FALSE	10+3		
+numerals-dime1235-1-fourteen-1	numerals-dime1235-1	Chan2019	fourteen	14	ˈtʰamːe ʔʊdːʊ	thameudu		FALSE	10+4		
+numerals-dime1235-1-fifteen-1	numerals-dime1235-1	Chan2019	fifteen	15	ˈtʰamːe ˈʃənːə	thamesana		FALSE	10+5		
+numerals-dime1235-1-sixteen-1	numerals-dime1235-1	Chan2019	sixteen	16	ˈtʰamːe ˈlah	thamelah		FALSE	10+6’		
+numerals-dime1235-1-seventeen-1	numerals-dime1235-1	Chan2019	seventeen	17	ˈtʰamːe ˈtʰʊsːʊm	thamethusum		FALSE	10+7		
+numerals-dime1235-1-eighteen-1	numerals-dime1235-1	Chan2019	eighteen	18	ˈtʰamːe ˈkʼʌʃnaʃ	thameksnas		FALSE	10+8		
+numerals-dime1235-1-nineteen-1	numerals-dime1235-1	Chan2019	nineteen	19	ˈtʰamːe ˈwʌklaʃ	thamewklas		FALSE	10+9		
+numerals-dime1235-1-twenty-1	numerals-dime1235-1	Chan2019	twenty	20	ˈwajdʊ	wajdu		FALSE	20		
+numerals-dime1235-1-twenty-2	numerals-dime1235-1	Chan2019	twenty	20	woidu	woidu		FALSE	20’		
+numerals-dime1235-1-twentyone-1	numerals-dime1235-1	Chan2019	twentyone	21	ˈwajdʊ ˈwɔkʰʌl	wajduwokhl		FALSE	20+1		
+numerals-dime1235-1-twentyone-2	numerals-dime1235-1	Chan2019	twentyone	21	woídi (ʔáfo-ó) wókkil	woidiafoowokkil		FALSE	20+2=1’		
+numerals-dime1235-1-twentytwo-1	numerals-dime1235-1	Chan2019	twentytwo	22	ˈwajdʊ ˈkʼʌtʼɨm	wajduktim		FALSE	20+2		
+numerals-dime1235-1-twentythree-1	numerals-dime1235-1	Chan2019	twentythree	23	ˈwajdʊ ˈmʌkʰɨm	wajdumkhim		FALSE	20+3		
+numerals-dime1235-1-twentyfour-1	numerals-dime1235-1	Chan2019	twentyfour	24	ˈwajdʊ ʔʊdːʊ	wajduudu		FALSE	20+4		
+numerals-dime1235-1-twentyfive-1	numerals-dime1235-1	Chan2019	twentyfive	25	ˈwajdʊ ˈʃənːə	wajdusana		FALSE	20+5		
+numerals-dime1235-1-twentysix-1	numerals-dime1235-1	Chan2019	twentysix	26	ˈwajdʊ ˈlah	wajdulah		FALSE	20+6’		
+numerals-dime1235-1-twentyseven-1	numerals-dime1235-1	Chan2019	twentyseven	27	ˈwajdʊ ˈtʰʊsːʊm	wajduthusum		FALSE	20+7		
+numerals-dime1235-1-twentyeight-1	numerals-dime1235-1	Chan2019	twentyeight	28	ˈwajdʊ ˈkʼʌʃnaʃ	wajduksnas		FALSE	20+8		
+numerals-dime1235-1-twentynine-1	numerals-dime1235-1	Chan2019	twentynine	29	ˈwajdʊ ˈwʌklaʃ	wajduwklas		FALSE	20+9		
+numerals-dime1235-1-thirty-1	numerals-dime1235-1	Chan2019	thirty	30	tʰamti ˈmʌkʰɨm	thamtimkhim		FALSE	10·3		
+numerals-dime1235-1-thirty-2	numerals-dime1235-1	Chan2019	thirty	30	təmtʼi məkkim	tamtimakkim		FALSE	10·3’		
+numerals-dime1235-1-forty-1	numerals-dime1235-1	Chan2019	forty	40	tʰamt ʔʊdːʊ	thamtudu		FALSE	10·4		
+numerals-dime1235-1-forty-2	numerals-dime1235-1	Chan2019	forty	40	təmtʼi ʔúddú	tamtiuddu		FALSE	10·4’		
+numerals-dime1235-1-fifty-1	numerals-dime1235-1	Chan2019	fifty	50	tʰamta ˈʃənːə	thamtasana		FALSE	10·5		
+numerals-dime1235-1-fifty-2	numerals-dime1235-1	Chan2019	fifty	50	təmtʼi ʃinní	tamtisinni		FALSE	10·5’		
+numerals-dime1235-1-sixty-1	numerals-dime1235-1	Chan2019	sixty	60	tʰamta ˈlah	thamtalah		FALSE	10·6’		
+numerals-dime1235-1-sixty-2	numerals-dime1235-1	Chan2019	sixty	60	təmtʼi láxi	tamtilaxi		FALSE	10·6”		
+numerals-dime1235-1-seventy-1	numerals-dime1235-1	Chan2019	seventy	70	tʰamta ˈtʰʊsːʊm	thamtathusum		FALSE	10·7		
+numerals-dime1235-1-seventy-2	numerals-dime1235-1	Chan2019	seventy	70	təmtʼi tússum	tamtitussum		FALSE	10·7’		
+numerals-dime1235-1-eighty-1	numerals-dime1235-1	Chan2019	eighty	80	tʰamte ˈkʼʌʃnaʃ	thamteksnas		FALSE	10·8		
+numerals-dime1235-1-eighty-2	numerals-dime1235-1	Chan2019	eighty	80	təmtʼi kʼaʃnáʃiʃ	tamtikasnasis		FALSE	10·8’		
+numerals-dime1235-1-ninety-1	numerals-dime1235-1	Chan2019	ninety	90	tʰamta ˈwʌklaʃ	thamtawklas		FALSE	10·9		
+numerals-dime1235-1-ninety-2	numerals-dime1235-1	Chan2019	ninety	90	təmtʼi wókláʃiʃ	tamtiwoklasis		FALSE	10·9’		
+numerals-dime1235-1-hundred-1	numerals-dime1235-1	Chan2019	hundred	100	ˈteʼətʰ	teath		FALSE	100		
+numerals-dime1235-1-hundred-2	numerals-dime1235-1	Chan2019	hundred	100	sʼéét	seet		FALSE	100’		
+numerals-dime1235-1-twohundred-1	numerals-dime1235-1	Chan2019	twohundred	200	sʼéét kʼəstin	seetkastin		FALSE	100·2		
+numerals-dime1235-1-thousand-1	numerals-dime1235-1	Chan2019	thousand	1000	sʼéét təmmi	seettammi	( 100 x 10 )	FALSE	100·10		
+ID	Language_ID	Source	Parameter_ID	NumberValue	Value	Form	Comment_contributor	Loan	Gloss	Comment_glosser	Alternate_gloss
+numerals-aari1239-1-one-1	numerals-aari1239-1	Chan2019	one	1	wólːáq	wolaq		FALSE	1		
+numerals-aari1239-1-two-1	numerals-aari1239-1	Chan2019	two	2	qastːén	qasten		FALSE	2		
+numerals-aari1239-1-three-1	numerals-aari1239-1	Chan2019	three	3	makːén	maken		FALSE	3		
+numerals-aari1239-1-four-1	numerals-aari1239-1	Chan2019	four	4	ʔoydːí	oydi		FALSE	4		
+numerals-aari1239-1-five-1	numerals-aari1239-1	Chan2019	five	5	dónqː	donq		FALSE	5		
+numerals-aari1239-1-six-1	numerals-aari1239-1	Chan2019	six	6	láː	la		FALSE	6		
+numerals-aari1239-1-seven-1	numerals-aari1239-1	Chan2019	seven	7	tabzá	tabza		FALSE	7		
+numerals-aari1239-1-eight-1	numerals-aari1239-1	Chan2019	eight	8	qastːaː́ntámːers	qastantamers	(lit: two less than ten )	FALSE	2-10		
+numerals-aari1239-1-nine-1	numerals-aari1239-1	Chan2019	nine	9	wolqáːntámːers	wolqantamers	(lit:one less than ten )	FALSE	1-10		
+numerals-aari1239-1-ten-1	numerals-aari1239-1	Chan2019	ten	10	támːá	tama		FALSE	10’		
+numerals-aari1239-1-eleven-1	numerals-aari1239-1	Chan2019	eleven	11	támːéke wólːáq	tamekewolaq		FALSE	10’+1		
+numerals-aari1239-1-twelve-1	numerals-aari1239-1	Chan2019	twelve	12	támːéke qastːén	tamekeqasten		FALSE	10’+2		
+numerals-aari1239-1-thirteen-1	numerals-aari1239-1	Chan2019	thirteen	13	támːéke makːén	tamekemaken		FALSE	10’+3		
+numerals-aari1239-1-fourteen-1	numerals-aari1239-1	Chan2019	fourteen	14	támːéke ʔoydːí	tamekeoydi		FALSE	10’+4		
+numerals-aari1239-1-fifteen-1	numerals-aari1239-1	Chan2019	fifteen	15	támːéke dónqː	tamekedonq		FALSE	10’+5		
+numerals-aari1239-1-sixteen-1	numerals-aari1239-1	Chan2019	sixteen	16	támːéke láː	tamekela		FALSE	10’+6		
+numerals-aari1239-1-seventeen-1	numerals-aari1239-1	Chan2019	seventeen	17	támːéke tabzá	tameketabza		FALSE	10’+7		
+numerals-aari1239-1-eighteen-1	numerals-aari1239-1	Chan2019	eighteen	18	támːéke qastːaː́ntámːers	tamekeqastantamers		FALSE	10’+(2-10)		
+numerals-aari1239-1-nineteen-1	numerals-aari1239-1	Chan2019	nineteen	19	támːéke wolqáːntámːers	tamekewolqantamers		FALSE	10’+(1-10)		
+numerals-aari1239-1-twenty-1	numerals-aari1239-1	Chan2019	twenty	20	bondá	bonda		FALSE	20		
+numerals-aari1239-1-twenty-2	numerals-aari1239-1	Chan2019	twenty	20	ʔéwólːáqbab ʔits	ewolaqbabits		FALSE	20’		
+numerals-aari1239-1-twentyone-1	numerals-aari1239-1	Chan2019	twentyone	21	bondéke wólːaq	bondekewolaq		FALSE	20"+1		
+numerals-aari1239-1-twentyone-2	numerals-aari1239-1	Chan2019	twentyone	21	ʔéwólːáqbab ʔits wólːaq	ewolaqbabitswolaq		FALSE	20"+1		
+numerals-aari1239-1-twentytwo-1	numerals-aari1239-1	Chan2019	twentytwo	22	bondéke qastːén	bondekeqasten		FALSE	20"+2		
+numerals-aari1239-1-twentythree-1	numerals-aari1239-1	Chan2019	twentythree	23	bondéke makːén	bondekemaken		FALSE	20"+3		
+numerals-aari1239-1-twentyfour-1	numerals-aari1239-1	Chan2019	twentyfour	24	bondéke ʔoydːí	bondekeoydi		FALSE	20"+4		
+numerals-aari1239-1-twentyfive-1	numerals-aari1239-1	Chan2019	twentyfive	25	bondéke dónqː	bondekedonq		FALSE	20"+5		
+numerals-aari1239-1-twentysix-1	numerals-aari1239-1	Chan2019	twentysix	26	bondéke láː	bondekela		FALSE	20"+6		
+numerals-aari1239-1-twentyseven-1	numerals-aari1239-1	Chan2019	twentyseven	27	bondéke tabzá	bondeketabza		FALSE	20"+7		
+numerals-aari1239-1-twentyeight-1	numerals-aari1239-1	Chan2019	twentyeight	28	bondéke qastːaː́ntámːers	bondekeqastantamers		FALSE	20"+(2-10)		
+numerals-aari1239-1-twentynine-1	numerals-aari1239-1	Chan2019	twentynine	29	bondéke wolqáːntámːers	bondekewolqantamers		FALSE	20"+(1-10)		
+numerals-aari1239-1-thirty-1	numerals-aari1239-1	Chan2019	thirty	30	bondéke támːá	bondeketama		FALSE	20"+10		
+numerals-aari1239-1-thirty-2	numerals-aari1239-1	Chan2019	thirty	30	ʔéwólːáqbab ʔitske támːá	ewolaqbabitsketama		FALSE	20’+10		
+numerals-aari1239-1-forty-1	numerals-aari1239-1	Chan2019	forty	40	ʔéqastːénbaːb ʔits	eqastenbabits	( 20 x 2 )	FALSE	2·20”’		
+numerals-aari1239-1-fifty-1	numerals-aari1239-1	Chan2019	fifty	50	ʔéqastːénbaːb ʔitske	eqastenbabitske		FALSE	(2·20”’)+10		
+numerals-aari1239-1-sixty-1	numerals-aari1239-1	Chan2019	sixty	60	ʔémakːénbaːb ʔits	emakenbabits	( 20 x 3 )	FALSE	3·20”’		
+numerals-aari1239-1-seventy-1	numerals-aari1239-1	Chan2019	seventy	70	ʔémakːénbaːb ʔitske	emakenbabitske		FALSE	(3·20”’)+10		
+numerals-aari1239-1-eighty-1	numerals-aari1239-1	Chan2019	eighty	80	ʔéʔoydːíbaːb ʔits	eoydibabits	( 20 x 4 )	FALSE	4’·20””		
+numerals-aari1239-1-ninety-1	numerals-aari1239-1	Chan2019	ninety	90	ʔéʔoydːíbaːb ʔitske	eoydibabitske		FALSE	(4’·20”’)+10		
+numerals-aari1239-1-hundred-1	numerals-aari1239-1	Chan2019	hundred	100	ʔédónqːbaːb ʔits	edonqbabits		FALSE	5·20”’		
+numerals-aari1239-1-hundred-2	numerals-aari1239-1	Chan2019	hundred	100	máto	mato	< Amharic	TRUE	100		
+numerals-aari1239-1-twohundred-1	numerals-aari1239-1	Chan2019	twohundred	200	ʔétámːábaːb ʔits	etamababits		FALSE	10·20”’		
+numerals-aari1239-1-twohundred-2	numerals-aari1239-1	Chan2019	twohundred	200	qastːén máto	qastenmato		FALSE	2·100		
+numerals-aari1239-1-thousand-1	numerals-aari1239-1	Chan2019	thousand	1000	wólːáq ʃíí	wolaqsii	< Amharic	TRUE	1000		
+numerals-aari1239-1-twothousand-1	numerals-aari1239-1	Chan2019	twothousand	2000	qastːén ʃíí	qastensii		FALSE	2·1000’		
