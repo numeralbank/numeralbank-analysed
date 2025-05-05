@@ -1,0 +1,47 @@
+ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,Glosser,Gloss.clean,Gloss.math
+numerals-koda1254-1-ninety-1,numerals-koda1254-1,Chan2019,ninety,90,nʌbːegoʈaŋ,nbegotang,NA,false,9\⋅10′′′{CL},Borrowed from Indo-Aryan.,NA,KM,9\⋅10′′′,9\⋅10
+numerals-dzal1238-1-fifty-1,numerals-dzal1238-1,Chan2019,fifty,50,kʰé-nœ̀i-(tíŋ)-tʃí,khenoeitingtsi,,false,(20′⋅2)+(LP)10,NA,NA,KM,(20′⋅2)+(LP)10,(20⋅2)+(LP)10
+numerals-dzal1238-1-seventy-1,numerals-dzal1238-1,Chan2019,seventy,70,kʰé-sùm-(tíŋ)-tʃí,khesumtingtsi,,false,(20′⋅3)+(LP)10,NA,NA,KM,(20′⋅3)+(LP)10,(20⋅3)+(LP)10
+numerals-dzal1238-1-ninety-1,numerals-dzal1238-1,Chan2019,ninety,90,kʰé-blì-(tíŋ)-tʃí,kheblitingtsi,,false,(20′⋅4)+(LP)10,NA,NA,KM,(20′⋅4)+(LP)10,(20⋅4)+(LP)10
+numerals-east2352-1-twentyone-1,numerals-east2352-1,Chan2019,twentyone,21,bis (rʌ) kat,bisrkat,,false,20+(LP)1,,NA,KM,20+(LP)1,20+(LP)1
+numerals-east2352-1-twentytwo-1,numerals-east2352-1,Chan2019,twentytwo,22,bis (rʌ) nɦis,bisrnhis,,false,20+(LP)2,,NA,KM,20+(LP)2,20+(LP)2
+numerals-tipp1239-1-eleven-1,numerals-tipp1239-1,Chan2019,eleven,11,(kai̯tʃi) kai̯ʂa,kaitsikaisa,NA,false,(PR10)⋅PR1,PR stands for prefix.,NA,KM,(PR10)⋅PR1,(PR10)⋅PR1
+numerals-tipp1239-1-twelve-1,numerals-tipp1239-1,Chan2019,twelve,12,(kai̯tʃi) kai̯nui̯,kaitsikainui,NA,false,(PR10)⋅PR2,,NA,KM,(PR10)⋅PR2,(PR10)⋅PR2
+bowernnumerals-Nyan-six-1,bowernnumerals-Nyan,Bowern2012,six,6,cikici,cikici,NA,true,BorrowedfromEnglish,NA,NA,RB,BorrowedfromEnglish,BorrowedfromEnglish
+numerals-gbii1242-1,Chan2019,one,1,ɗɔ̀káⁱ,dokai,,FALSE,1’,1′=_kai,NA,NA,EAT,1′=_kai,1=_kai
+numerals-gbii1242-1,Chan2019,twenty,20,k͡páɽáɲɔ,kparano,,FALSE,10’·2’,"10′=b>kp,lossof“puwe″,2′=newforom",NA,NA,EAT,"10′=b>kp,lossof“puwe″,2′=newforom","10=b>kp,lossof“puwe,2=newforom"
+numerals-gbii1242-1,Chan2019,thirty,30,k͡páɽáɲɔ,kparano,( 20 + 10 ),FALSE,20+[10]?,sameformas20?,NA,NA,EAT,sameformas20?,sameformas20?
+bena1262-1-2000-1,bena1262-1,NA,two thousand,2000,ᵐbilíma tsívili,ᵐbilíma tsívili,NA,FALSE,ID,no data for 1000?,1000·{CL’}2,EAT,ID,ID
+buku1249-1-21-2,buku1249-1,NA,twenty-one,21,kámákʰúmí káβíli n. n.,kámákʰúmí káβíli n. n.,NA,FALSE,ID,see 10 above,NA,EAT,ID,ID
+chok1245-1-2000-1,chok1245-1,NA,two thousand,2000,kànùnù muwikha jáali ?,kànùnù muwikha jáali ?,NA,FALSE,{?}10o0⋅{?}2,NA,x·2,EAT,10o0⋅2,10o0⋅2
+diri1252-1-2000-1,diri1252-1,NA,two thousand,2000,mayoví muronɡó,mayoví muronɡó,NA,FALSE,ID,NA,{PLU}1000·10,EAT,ID,ID
+elip1238-1-9-1,elip1238-1,NA,nine,9,bʷánì-màɲì̥ nò òmʷè,bʷánì-màɲì̥ nò òmʷè,NA,FALSE,{CL}4′+{CL′}4″={+}1,8 + 1,x4+1,EAT,4′+4″=1,4+4=1
+elip1238-1-1000-2,elip1238-1,NA,one thousand,1000,òkólòŋ nùkón,òkólòŋ nùkón,NA,FALSE,ID,NA,?,EAT,ID,ID
+kele1257-1-21-1,kele1257-1,NA,twenty-one,21,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,NA,FALSE,ID,NA,?,EAT,ID,ID
+kele1257-2-90-1,kele1257-2,NA,ninety,90,mìkámìmwâmbìnàbìnà ??,mìkámìmwâmbìnàbìnà ??,NA,FALSE,ID,NA,NA,EAT,ID,ID
+kere1283-1-1000-1,kere1283-1,NA,one thousand,1000,ekihuumβi,ekihuumβi,NA,FALSE,ID,NA,NA,EAT,ID,ID
+kere1283-1-2000-1,kere1283-1,NA,two thousand,2000,βihuumbi βiβili,βihuumbi βiβili,NA,FALSE,ID,NA,x10·2,EAT,ID,ID
+nyor1246-1-100-1,nyor1246-1,NA,one hundred,100,kìkúmí,kìkúmí,NA,FALSE,fixthese,NA,NA,EAT,fixthese,fixthese
+tumb1250-1-26-1,tumb1250-1,NA,twenty-six,26,makúmí ɡʰá-ŵîrí na + 6,makúmí ɡʰá-ŵîrí na + 6,NA,FALSE,ID,NA,(10 · 2) + (5 + 1),EAT,ID,ID
+tumb1250-1-27-1,tumb1250-1,NA,twenty-seven,27,makúmí ɡʰá-ŵîrí na + 7,makúmí ɡʰá-ŵîrí na + 7,NA,FALSE,ID,NA,(10 · 2) + (5 + 2),EAT,ID,ID
+tumb1250-1-28-1,tumb1250-1,NA,twenty-eight,28,makúmí ɡʰá-ŵîrí na + 8,makúmí ɡʰá-ŵîrí na + 8,NA,FALSE,ID,NA,(10 · 2) + (5 + 3),EAT,ID,ID
+tumb1250-1-29-1,tumb1250-1,NA,twenty-nine,29,makúmí ɡʰá-ŵîrí na + 9,makúmí ɡʰá-ŵîrí na + 9,NA,FALSE,ID,NA,(10 · 2) + (5 + 4),EAT,ID,ID
+yang1293-1-1000-1,yang1293-1,NA,one thousand,1000,nʊ̀kɔ́n,nʊ̀kɔ́n,NA,FALSE,timer,NA,1000?,EAT,timer,timer
+numerals-yalu1240-1-eleven-1,numerals-yalu1240-1,Chan2019,eleven,11,fù-nù-kèdé,funukede,,FALSE,10+[and]1,,NA,EAT,10+[and]1,10+and1
+numerals-yalu1240-1-twelve-1,numerals-yalu1240-1,Chan2019,twelve,12,fù-nù-fìríŋ,funufiring,,FALSE,10+[and]2,,NA,EAT,10+[and]2,10+and2
+numerals-yalu1240-1-thirteen-1,numerals-yalu1240-1,Chan2019,thirteen,13,fù-nù-sàkáŋ,funusakang,,FALSE,10+[and]3,,NA,EAT,10+[and]3,10+and3
+numerals-yalu1240-1-fourteen-1,numerals-yalu1240-1,Chan2019,fourteen,14,fù-nù-nànì,fununani,,FALSE,10+[and]4,,NA,EAT,10+[and]4,10+and4
+numerals-yalu1240-1-fifteen-1,numerals-yalu1240-1,Chan2019,fifteen,15,fù-nù-sùlù,funusulu,,FALSE,10+[and]5,,NA,EAT,10+[and]5,10+and5
+numerals-yalu1240-1-sixteen-1,numerals-yalu1240-1,Chan2019,sixteen,16,fù-nù-sènì,funuseni,,FALSE,10+[and]6,,NA,EAT,10+[and]6,10+and6
+numerals-yalu1240-1-seventeen-1,numerals-yalu1240-1,Chan2019,seventeen,17,fù-nù-fòlófɛ̀rɛ́,funufolofere,,FALSE,10+[and]5′+2′,,NA,EAT,10+[and]5′+2′,10+and5+2
+numerals-yalu1240-1-eighteen-1,numerals-yalu1240-1,Chan2019,eighteen,18,fù-nù-fòlòmàsàkáŋ,funufolomasakang,,FALSE,10+[and]5′+[+]3,,NA,EAT,10+[and]5′+[+]3,10+and5++3
+numerals-yalu1240-1-nineteen-1,numerals-yalu1240-1,Chan2019,nineteen,19,fù-nù-fòlòmànànì,funufolomanani,,FALSE,10+[and]5′+[+]4,,NA,EAT,10+[and]5′+[+]4,10+and5++4
+numerals-yalu1240-1-twentyone-1,numerals-yalu1240-1,Chan2019,twentyone,21,mɔ̀kɔ̀ŋɛ-nù-kèdé,mokongenukede,,FALSE,20+[and]1,,NA,EAT,20+[and]1,20+and1
+numerals-yalu1240-1-twentytwo-1,numerals-yalu1240-1,Chan2019,twentytwo,22,mɔ̀kɔ̀ŋɛ-nù-fìríŋ,mokongenufiring,,FALSE,20+[and]2,,NA,EAT,20+[and]2,20+and2
+numerals-yalu1240-1-twentythree-1,numerals-yalu1240-1,Chan2019,twentythree,23,mɔ̀kɔ̀ŋɛ-nù-sàkáŋ,mokongenusakang,,FALSE,20+[and]3,,NA,EAT,20+[and]3,20+and3
+numerals-yalu1240-1-twentyfour-1,numerals-yalu1240-1,Chan2019,twentyfour,24,mɔ̀kɔ̀ŋɛ-nù-nànì,mokongenunani,,FALSE,20+[and]4,,NA,EAT,20+[and]4,20+and4
+numerals-yalu1240-1-twentyfive-1,numerals-yalu1240-1,Chan2019,twentyfive,25,mɔ̀kɔ̀ŋɛ-nù-sùlù,mokongenusulu,,FALSE,20+[and]5,,NA,EAT,20+[and]5,20+and5
+numerals-yalu1240-1-twentysix-1,numerals-yalu1240-1,Chan2019,twentysix,26,mɔ̀kɔ̀ŋɛ-nù-sènì,mokongenuseni,,FALSE,20+[and]6,,NA,EAT,20+[and]6,20+and6
+numerals-yalu1240-1-twentyseven-1,numerals-yalu1240-1,Chan2019,twentyseven,27,mɔ̀kɔ̀ŋɛ-nù-fòlófɛ̀rɛ́,mokongenufolofere,,FALSE,20+[and]5′+2′,,NA,EAT,20+[and]5′+2′,20+and5+2
+numerals-yalu1240-1-twentyeight-1,numerals-yalu1240-1,Chan2019,twentyeight,28,mɔ̀kɔ̀ŋɛ-nù-fòlòmàsàkáŋ,mokongenufolomasakang,,FALSE,20+[and]5′+[+]3,,NA,EAT,20+[and]5′+[+]3,20+and5++3
+numerals-yalu1240-1-twentynine-1,numerals-yalu1240-1,Chan2019,twentynine,29,mɔ̀kɔ̀ŋɛ-nù-fòlòmànànì,mokongenufolomanani,,FALSE,20+[and]5′+[+]4,,NA,EAT,20+[and]5′+[+]4,20+and5++4
