@@ -1,0 +1,26 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","Gloss.clean","Gloss.math","Gloss.calc","Math.well.defined"
+"1","numerals-tani1257-1-six-1","numerals-tani1257-1","Chan2019","six","6","ĩʔró-o tẽ́ɟa-ɟú","irootejaju","(litː one-CLS cross -HAB)","false","1{CLF}+{cross−HAB}",NA,NA,"NK","1+","1+","1+",0
+"2","numerals-tani1257-1-seven-1","numerals-tani1257-1","Chan2019","seven","7","í̃ɸo-o tẽ́ɟa-ɟú","ifootejaju","(litː two-CLS cross-HAB)","false","2{CLF}+{cross−HAB}",NA,NA,"NK","2+","2+","2+",0
+"3","numerals-tani1257-1-eight-1","numerals-tani1257-1","Chan2019","eight","8","baéka-ráʔká -ó tẽ́ɟa-ɟú","baekarakaotejaju","(litː three -QUANT-CLS cross- HAB)","false","3{QUANT−CLF}+{cross−HAB}",NA,NA,"NK","3+","3+","3+",0
+"4","numerals-tani1257-1-nine-1","numerals-tani1257-1","Chan2019","nine","9","botá-ráʔká-ó tẽ́ɟa-ɟú","botarakaotejaju","(litː four-QUANT-CLS cross -HAB)","false","4{QUANT−CLF}+{cross−HAB}",NA,NA,"NK","4+","4+","4+",0
+"5","numerals-krun1240-1-ten-1","numerals-krun1240-1","Chan2019","ten","10","(muuy) cit","muuycit",NA,"false","(1⋅)10",NA,NA,"KM","(1⋅)10","(1⋅)10","abs(1*)10",0
+"6","numerals-monn1252-1-hundred-1","numerals-monn1252-1","Chan2019","hundred","100","(mùə) klɔm","muaklom",NA,"false","(1⋅)100",NA,NA,"KM","(1⋅)100","(1⋅)100","abs(1*)100",0
+"7","numerals-nyah1250-1-hundred-1","numerals-nyah1250-1","Chan2019","hundred","100","(mùəy) chòok","muaychook","","false","(1⋅)100",NA,NA,"KM","(1⋅)100","(1⋅)100","abs(1*)100",0
+"8","numerals-nyah1250-1-thousand-1","numerals-nyah1250-1","Chan2019","thousand","1000","(mùəy) chəmuur","muaychamuur","","false","(1⋅)1000",NA,NA,"KM","(1⋅)1000","(1⋅)1000","abs(1*)1000",0
+"9","numerals-sapu1248-1-ten-1","numerals-sapu1248-1","Chan2019","ten","10","(muj) ɟĭt","mujjit","","false","(1⋅)10",NA,NA,"KM","(1⋅)10","(1⋅)10","abs(1*)10",0
+"10","numerals-uuuu1243-1-thousand-1","numerals-uuuu1243-1","Chan2019","thousand","1000","tʂuɑn","tsuan","","false","−",NA,NA,"KM","−","−","-",0
+"11","numerals-uuuu1243-1-thousand-2","numerals-uuuu1243-1","Chan2019","thousand","1000","tsuan","tsuan","< Chinese","true","−",NA,NA,"KM","−","−","-",0
+"12","numerals-saur1249-2-thirty-1","numerals-saur1249-2","Chan2019","thirty","30","ɖeɖ koːɽi","dedkori","( ½ x 20 )","false","1½⋅20","'ɖeɖ’ in Indo-Aryan is ‘one and a  half’",NA,"KM","1½⋅20","1½⋅20","1abs(abs(1/2))*20",0
+"13","numerals-saur1249-2-fifty-1","numerals-saur1249-2","Chan2019","fifty","50","aɽaːy koːɽi","araykori","( 2½  x 20 )","false","2½⋅20","'aɽaːy’ in Indo-Aryan is ‘two and a  half’",NA,"KM","2½⋅20","2½⋅20","2abs(abs(1/2))*20",0
+"14","numerals-pary1242-1-seventy-1","numerals-pary1242-1","Chan2019","seventy","70","saɽetinbisi","saretinbisi","[half of 'twenty' + (3 x 20) ]","false","½[20]+3⋅(2′⋅10″)","",NA,"KM","½[20]+3⋅(2′⋅10″)","½20+3⋅(2⋅10)","abs(abs(1/2))20+3*abs(abs(2*10))",0
+"15","numerals-pary1242-1-ninety-1","numerals-pary1242-1","Chan2019","ninety","90","saɽet͡ʃarbisi","saretsarbisi","[half of 'twenty' +(4 x 20) ]","false","½[20]+4⋅(2′⋅10″)","",NA,"KM","½[20]+4⋅(2′⋅10″)","½20+4⋅(2⋅10)","abs(abs(1/2))20+4*abs(abs(2*10))",0
+"16","numerals-rath1242-1-thirty-1","numerals-rath1242-1","Chan2019","thirty","30","ɖeɖwis","dedwis","( 'one and a half twenty')","false","1½⋅(2′⋅10″)","",NA,"KM","1½⋅(2′⋅10″)","1½⋅(2⋅10)","1abs(abs(1/2))*abs(abs(2*10))",0
+"17","numerals-acha1249-1-sixty-1","numerals-acha1249-1","Chan2019","sixty","60","tɑ31 pjɑ31 suŋ31 luŋ35 tʂʰɿ55","ta31pja31sung31lung35tshr55","","false","{?}⋅10","","","KM","⋅10","⋅10","*10",0
+"18","numerals-acha1249-1-seventy-1","numerals-acha1249-1","Chan2019","seventy","70","pʰɑ31 kɯ55 ȵɑ31 tɕi31 tʂʰɿ55","pha31kw55na31tci31tshr55","","false","{?}⋅10","","","KM","⋅10","⋅10","*10",0
+"19","numerals-acha1249-1-eighty-1","numerals-acha1249-1","Chan2019","eighty","80","tɑ31 pjɑ31 mɛ31 luŋ35 tʂʰɿ55","ta31pja31me31lung35tshr55","","false","{?}⋅10","","","KM","⋅10","⋅10","*10",0
+"20","numerals-shum1243-1-fifty-1","numerals-shum1243-1","Chan2019","fifty","50","ɖai nɪsa","dainisa","* ( 2, 5 x 20)","false","2½(2⋅10)","'ɖai’ is an Indo-aryan form for ‘2½’.","2½(2⋅10)","KM","2½(2⋅10)","2½(2⋅10)","2abs(abs(1/2))abs(abs(2*10))",0
+"21","beng1282-1-22-1","beng1282-1",NA,"twenty-two","22","mabu mabale na bebale","mabu mabale na bebale",NA,"FALSE","{(CL‴}10⋅{CL‴}2)+{+}{CL}2",NA,NA,"EAT","10⋅2)+2","10⋅2)+2","abs(10*2))+2",0
+"22","kani1279-1-23-1","kani1279-1",NA,"twenty-three","23","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}3",NA,NA,"EAT","(10⋅)+3","(10⋅)+3","abs(10*)+3",0
+"23","kani1279-1-24-1","kani1279-1",NA,"twenty-four","24","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}4",NA,NA,"EAT","(10⋅)+4","(10⋅)+4","abs(10*)+4",0
+"24","kani1279-1-25-1","kani1279-1",NA,"twenty-five","25","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}5",NA,NA,"EAT","(10⋅)+5","(10⋅)+5","abs(10*)+5",0
+"25","nyal1250-1-100-1","nyal1250-1",NA,"one hundred","100","emeya inɡono nɡbe","emeya inɡono nɡbe",NA,"FALSE","100+[+]",NA,NA,"EAT","100+[+]","100++","100++",0

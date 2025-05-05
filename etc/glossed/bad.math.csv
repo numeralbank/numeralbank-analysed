@@ -1,0 +1,503 @@
+"","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","Gloss.clean","Gloss.math","Gloss.calc","Math.well.defined","Math.check","Does.math.work"
+"1","numerals-aghu1253-1-twentyone-1","numerals-aghu1253-1","Chan2019","twentyone","21","qːɑnnɑ sɑd","qannasad","","false","10+{+}1",NA,NA,"NK","10+1","10+1","10+1",1,11,FALSE
+"2","numerals-aghu1253-1-twentytwo-1","numerals-aghu1253-1","Chan2019","twentytwo","22","qːɑnnɑ qˤʼud","qannaqud","","false","10+{+}2",NA,NA,"NK","10+2","10+2","10+2",1,12,FALSE
+"3","numerals-aghu1253-1-twentythree-1","numerals-aghu1253-1","Chan2019","twentythree","23","qːɑnnɑ xibud","qannaxibud","","false","10+{+}3",NA,NA,"NK","10+3","10+3","10+3",1,13,FALSE
+"4","numerals-aghu1253-1-twentyfour-1","numerals-aghu1253-1","Chan2019","twentyfour","24","qːɑnnɑ jɑqʼud","qannajaqud","","false","10+{+}4",NA,NA,"NK","10+4","10+4","10+4",1,14,FALSE
+"5","numerals-aghu1253-1-twentyfive-1","numerals-aghu1253-1","Chan2019","twentyfive","25","qːɑnnɑ jyfyd","qannajyfyd","","false","10+{+}5",NA,NA,"NK","10+5","10+5","10+5",1,15,FALSE
+"6","numerals-aghu1253-1-twentysix-1","numerals-aghu1253-1","Chan2019","twentysix","26","qːɑnnɑ jerxid","qannajerxid","","false","10+{+}6",NA,NA,"NK","10+6","10+6","10+6",1,16,FALSE
+"7","numerals-aghu1253-1-twentyseven-1","numerals-aghu1253-1","Chan2019","twentyseven","27","qːɑnnɑ jerid","qannajerid","","false","10+{+}7",NA,NA,"NK","10+7","10+7","10+7",1,17,FALSE
+"8","numerals-aghu1253-1-twentyeight-1","numerals-aghu1253-1","Chan2019","twentyeight","28","qːɑnnɑ mujid","qannamujid","","false","10+{+}8",NA,NA,"NK","10+8","10+8","10+8",1,18,FALSE
+"9","numerals-aghu1253-1-twentynine-1","numerals-aghu1253-1","Chan2019","twentynine","29","qːɑnnɑ jerkʼyd","qannajerkyd","","false","10+{+}9",NA,NA,"NK","10+9","10+9","10+9",1,19,FALSE
+"10","numerals-gavi1246-1-twenty-1","numerals-gavi1246-1","Chan2019","twenty","20","pa-bí sópop","pabisopop","( litː 'all our feet' )","false","{our−foot}5′⋅[2]{all}",NA,NA,"NK","5′⋅[2]","5⋅2","abs(5*2)",1,10,FALSE
+"11","numerals-ikkk1242-1-sixteen-1","numerals-ikkk1242-1","Chan2019","sixteen","16","tomíní ńda ʝɪrɪnɪ túde ńda kɛɗɪ̀ kɔn","tominindajirinitudendakedikon","","false","10+{and−the−remains}+{and−that}1",NA,NA,"NK","10++1","10++1","10++1",1,11,FALSE
+"12","numerals-ikkk1242-1-seventeen-1","numerals-ikkk1242-1","Chan2019","seventeen","17","tomíní ńda ʝɪrɪnɪ túde ńda kɛɗì léɓetsᵉ","tominindajirinitudendakedilebetse","","false","10+{and−the−remains}+{and−that}2",NA,NA,"NK","10++2","10++2","10++2",1,12,FALSE
+"13","numerals-ikkk1242-1-eighteen-1","numerals-ikkk1242-1","Chan2019","eighteen","18","tomíní ńda ʝɪrɪnɪ túde ńda kiɗì aɗᵉ","tominindajirinitudendakidiade","","false","10+{and−the−remains}+{and−those}3",NA,NA,"NK","10++3","10++3","10++3",1,13,FALSE
+"14","numerals-ikkk1242-1-nineteen-1","numerals-ikkk1242-1","Chan2019","nineteen","19","tomíní ńda ʝɪrɪnɪ túde ńda kiɗì ts'aɡús","tominindajirinitudendakiditsagus","","false","10+{and−the−remains}+{and−those}4",NA,NA,"NK","10++4","10++4","10++4",1,14,FALSE
+"15","numerals-ikkk1242-1-twentysix-1","numerals-ikkk1242-1","Chan2019","twentysix","26","tómínékwa leɓétsᵉ ńda ʝɪrɪnɪ túde ńda kɛdɪ̀ kɔn","tominekwalebetsendajirinitudendakedikon","","false","10⋅{eye}2+{and−the−remains}+{and−that}1",NA,NA,"NK","10⋅2++1","10⋅2++1","abs(10*2)++1",1,21,FALSE
+"16","numerals-ikkk1242-1-twentyseven-1","numerals-ikkk1242-1","Chan2019","twentyseven","27","tómínékwa leɓétsᵉ ńda ʝɪrɪnɪ túde ńda kidɪ̀ aɗᵉ","tominekwalebetsendajirinitudendakidiade","","false","10⋅{eye}2+{and−the−remains}+{and−those}2",NA,NA,"NK","10⋅2++2","10⋅2++2","abs(10*2)++2",1,22,FALSE
+"17","numerals-ikkk1242-1-twentyeight-1","numerals-ikkk1242-1","Chan2019","twentyeight","28","tómínékwa leɓétsᵉ ńda ʝɪrɪnɪ túde ńda kidɪ léɓetsᵉ","tominekwalebetsendajirinitudendakidilebetse","","false","10⋅{eye}2+{and−the−remains}+{and−those}3",NA,NA,"NK","10⋅2++3","10⋅2++3","abs(10*2)++3",1,23,FALSE
+"18","numerals-ikkk1242-1-twentynine-1","numerals-ikkk1242-1","Chan2019","twentynine","29","tómínékwa leɓétsᵉ ńda ʝɪrɪnɪ túde ńda kidɪ tsʼaɡús","tominekwalebetsendajirinitudendakiditsagus","","false","10⋅{eye}2+{and−the−remains}+{and−those}4",NA,NA,"NK","10⋅2++4","10⋅2++4","abs(10*2)++4",1,24,FALSE
+"19","numerals-leco1242-1-twentytwo-1","numerals-leco1242-1","Chan2019","twentytwo","22","toi beriki toihote","toiberikitoihote","","false","2⋅1⋅10[+]1{+}",NA,NA,"NK","2⋅1⋅10[+]1","2⋅1⋅10+1","abs(2*1)*10+1",1,21,FALSE
+"20","numerals-waur1244-1-twenty-1","numerals-waur1244-1","Chan2019","twenty","20","pawažɨkũkitsapaikayawi","pawazikukitsapaikayawi",NA,"false","5+10{+}",NA,NA,"NK","5+10","5+10","5+10",1,15,FALSE
+"21","numerals-cent1992-1-twothousand-1","numerals-cent1992-1","Chan2019","twothousand","2000","p̤ar răp̤ăn","parrapan","","false","2⋅100",NA,NA,"KM","2⋅100","2⋅100","abs(2*100)",1,200,FALSE
+"22","numerals-dana1252-1-ten-1","numerals-dana1252-1","Chan2019","ten","10","măkyén4","makyen4",NA,"false","10+{?}1","“naʔ1” might be a linking particle.",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"23","numerals-dana1252-1-eleven-1","numerals-dana1252-1","Chan2019","eleven","11","măkyén4naʔ1 ăkɔt3","makyen4na1akot3",NA,"false","10+2","",NA,"KM","10+2","10+2","10+2",1,12,FALSE
+"24","numerals-dana1252-1-twelve-1","numerals-dana1252-1","Chan2019","twelve","12","măkyén4an4","makyen4an4",NA,"false","10+3","",NA,"KM","10+3","10+3","10+3",1,13,FALSE
+"25","numerals-dana1252-1-thirteen-1","numerals-dana1252-1","Chan2019","thirteen","13","măkyén4ui4","makyen4ui4",NA,"false","10+4","",NA,"KM","10+4","10+4","10+4",1,14,FALSE
+"26","numerals-dana1252-1-fourteen-1","numerals-dana1252-1","Chan2019","fourteen","14","măkyén4pən4","makyen4pan4",NA,"false","10+5","",NA,"KM","10+5","10+5","10+5",1,15,FALSE
+"27","numerals-dana1252-1-fifteen-1","numerals-dana1252-1","Chan2019","fifteen","15","măkyén4θôn4","makyen4thon4",NA,"false","10+6","",NA,"KM","10+6","10+6","10+6",1,16,FALSE
+"28","numerals-dana1252-1-sixteen-1","numerals-dana1252-1","Chan2019","sixteen","16","măkyén4tun1","makyen4tun1",NA,"false","10+7","",NA,"KM","10+7","10+7","10+7",1,17,FALSE
+"29","numerals-dana1252-1-seventeen-1","numerals-dana1252-1","Chan2019","seventeen","17","măkyén4pat4","makyen4pat4",NA,"false","10+8","",NA,"KM","10+8","10+8","10+8",1,18,FALSE
+"30","numerals-dana1252-1-eighteen-1","numerals-dana1252-1","Chan2019","eighteen","18","măkyén4tsan4","makyen4tsan4",NA,"false","10+9","",NA,"KM","10+9","10+9","10+9",1,19,FALSE
+"31","numerals-dana1252-1-nineteen-1","numerals-dana1252-1","Chan2019","nineteen","19","măkyén4tsən4","makyen4tsan4",NA,"false","10+10","",NA,"KM","10+10","10+10","10+10",1,20,FALSE
+"32","numerals-dana1252-1-twentyfive-1","numerals-dana1252-1","Chan2019","twentyfive","25","an4kyén4 θôn4","an4kyen4thon4",NA,"false","(2⋅10)+9","",NA,"KM","(2⋅10)+9","(2⋅10)+9","abs(abs(2*10))+9",1,29,FALSE
+"33","numerals-dana1252-1-twentynine-1","numerals-dana1252-1","Chan2019","twentynine","29","an4kyén4 tsən4","an4kyen4tsan4",NA,"false","(2⋅10)+3","",NA,"KM","(2⋅10)+3","(2⋅10)+3","abs(abs(2*10))+3",1,23,FALSE
+"34","numerals-east2330-1-forty-1","numerals-east2330-1","Chan2019","forty","40","raʔ pa̰ɨŋ","rapaing","","false","{?}4","As ‘raʔ’ has been used as a kind of linking particle in some complex numerals above. The formation of 40 here is difficult to gloss.","10′⋅4","KM","4","4","4",1,4,FALSE
+"35","numerals-east2330-1-fifty-1","numerals-east2330-1","Chan2019","fifty","50","raʔ pʰuan","raphuan","","false","{?}5","As ‘raʔ’ has been used as a kind of linking particle in some complex numerals above. The formation of 50 here is difficult to gloss.","10′⋅5","KM","5","5","5",1,5,FALSE
+"36","numerals-east2330-1-eighty-1","numerals-east2330-1","Chan2019","eighty","80","raʔ taiʔ","ratai","","false","{?}8","As ‘raʔ’ has been used as a kind of linking particle in some complex numerals above. The formation of 80 here is difficult to gloss.","10′⋅8","KM","8","8","8",1,8,FALSE
+"37","numerals-east2330-1-ninety-1","numerals-east2330-1","Chan2019","ninety","90","raʔ taɨɲ","ratain","","false","{?}9","As ‘raʔ’ has been used as a kind of linking particle in some complex numerals above. The formation of 90 here is difficult to gloss.","10′⋅9","KM","9","9","9",1,9,FALSE
+"38","numerals-jahh1242-1-seventeen-2","numerals-jahh1242-1","Chan2019","seventeen","17","tuɟoh bəlas","tujohbalas","","false","9′+10′","",NA,"KM","9′+10′","9+10","9+10",1,19,FALSE
+"39","numerals-kave1238-1-twohundred-1","numerals-kave1238-1","Chan2019","twohundred","200","baar̃ klam","baarklam",NA,"false","2⋅1000",NA,NA,"KM","2⋅1000","2⋅1000","abs(2*1000)",1,2000,FALSE
+"40","numerals-kave1238-1-thousand-1","numerals-kave1238-1","Chan2019","thousand","1000","muuy helik","muuyhelik",NA,"false","1⋅100",NA,NA,"KM","1⋅100","1⋅100","abs(1*100)",1,100,FALSE
+"41","numerals-maha1291-1-fifteen-2","numerals-maha1291-1","Chan2019","fifteen","15","ɡɛl mɔ̃ɽɛ̃","gelmore","","false","10′+6′","",NA,"KM","10′+6′","10+6","10+6",1,16,FALSE
+"42","numerals-mint1239-1-thousand-1","numerals-mint1239-1","Chan2019","thousand","1000","saribu","saribu",NA,"false","1′⋅100",NA,NA,"KM","1′⋅100","1⋅100","abs(1*100)",1,100,FALSE
+"43","numerals-nucl1290-2-sixty-1","numerals-nucl1290-2","Chan2019","sixty","60","gliɯh","gliwh",NA,"false","10′′′⋅5","The extent of the variation of the forms for 10 is too many, therefore from here the same prime symbols have been used.",NA,"KM","10′′′⋅5","10⋅5","abs(10*5)",1,50,FALSE
+"44","numerals-pear1247-1-twelve-1","numerals-pear1247-1","Chan2019","twelve","12","piər̃ tandap","piartandap","","false","2+110′","",NA,"KM","2+110′","2+110","2+110",1,112,FALSE
+"45","numerals-phai1238-1-fifty-1","numerals-phai1238-1","Chan2019","fifty","50","haʔsip","hasip",NA,"false","4⋅10","",NA,"KM","4⋅10","4⋅10","abs(4*10)",1,40,FALSE
+"46","numerals-puoc1238-1-twohundred-1","numerals-puoc1238-1","Chan2019","twohundred","200","sɔŋ lɔi","songloi",NA,"false","2′⋅10","",NA,"KM","2′⋅10","2⋅10","abs(2*10)",1,20,FALSE
+"47","numerals-rian1261-1-twentyfive-1","numerals-rian1261-1","Chan2019","twentyfive","25","ar-kɔl-han-","arkolhan","","false","(2⋅10)+2",NA,NA,"KM","(2⋅10)+2","(2⋅10)+2","abs(abs(2*10))+2",1,22,FALSE
+"48","numerals-todr1244-1-eighty-1","numerals-todr1244-1","Chan2019","eighty","80","tahim ɟă̤t","tahimjat",NA,"false","7⋅10",NA,NA,"KM","7⋅10","7⋅10","abs(7*10)",1,70,FALSE
+"49","numerals-jenn1240-1-thousand-1","numerals-jenn1240-1","Chan2019","thousand","1000","on̪d̪ɨ sɐːʋɾɐ","ondisavra",NA,"false","1⋅100",NA,NA,"KM","1⋅100","1⋅100","abs(1*100)",1,100,FALSE
+"50","numerals-koya1251-1-twentynine-1","numerals-koya1251-1","Chan2019","twentynine","29","iravaːy tommidi","iravaytommidi","","false","(2′′′⋅10′′′)+([2]⋅10′′′)","",NA,"KM","(2′′′⋅10′′′)+([2]⋅10′′′)","(2⋅10)+(2⋅10)","abs(abs(2*10))+abs(abs(2*10))",1,40,FALSE
+"51","numerals-kuvi1243-1-fourhundred-1","numerals-kuvi1243-1","Chan2019","fourhundred","400","saɾi vaɲɟa","sarivanja","","false","5⋅100","",NA,"KM","5⋅100","5⋅100","abs(5*100)",1,500,FALSE
+"52","numerals-mari1414-1-fifty-1","numerals-mari1414-1","Chan2019","fifty","50","ɽenɖ viːsɘŋ d̪ɘʔa","rendvisengdea","( 2 x 20+ 10 )","false","(2′′⋅10′′′)+10","",NA,"KM","(2′′⋅10′′′)+10","(2⋅10)+10","abs(abs(2*10))+10",1,30,FALSE
+"53","numerals-mari1414-1-seventy-1","numerals-mari1414-1","Chan2019","seventy","70","muːɳɖ viːsɘŋ d̪ɘʔa","mundvisengdea","( 3 x 20+ 10 )","false","(3′′⋅10′′′)+10","",NA,"KM","(3′′⋅10′′′)+10","(3⋅10)+10","abs(abs(3*10))+10",1,40,FALSE
+"54","numerals-mari1414-1-ninety-1","numerals-mari1414-1","Chan2019","ninety","90","naːlʊ viːsɘŋ d̪ɘʔa","naluvisengdea","( 4 x 20+ 10 )","false","(4′′⋅10′′′)+10","",NA,"KM","(4′′⋅10′′′)+10","(4⋅10)+10","abs(abs(4*10))+10",1,50,FALSE
+"55","numerals-ural1274-1-onethousandandtwentyseven-1","numerals-ural1274-1","Chan2019","onethousandandtwentyseven","127","aːyiratti iruvattiëːɭɯ","ayirattiiruvattielw","","false","1000+{LP}((2′⋅10′)+7)",NA,NA,"KM","1000+((2′⋅10′)+7)","1000+((2⋅10)+7)","1000+abs(abs(abs(2*10))+7)",1,1027,FALSE
+"56","googleuninum-mwr-tenbillion-1","googleuninum-mwr","Ritchie2019","tenbillion","10000000000","दस अरब, एक हज़ार करोड़","dsarb",NA,NA,"10⋅000000000","",NA,"KM","10⋅000000000","10⋅000000000","abs(10*000000000)",1,0,FALSE
+"57","googleuninum-mwr-tenbillion-2","googleuninum-mwr","Ritchie2019","tenbillion","10000000000","दस अरब, एक हज़ार करोड़","ekhjaarkrodd",NA,NA,"10⋅000000000","",NA,"KM","10⋅000000000","10⋅000000000","abs(10*000000000)",1,0,FALSE
+"58","googleuninum-mwr-onehundredbillion-1","googleuninum-mwr","Ritchie2019","onehundredbillion","100000000000","एक सौ अरब, दस हज़ार करोड़","eksauarb",NA,NA,"100⋅000000000","",NA,"KM","100⋅000000000","100⋅000000000","abs(100*000000000)",1,0,FALSE
+"59","googleuninum-mwr-onehundredbillion-2","googleuninum-mwr","Ritchie2019","onehundredbillion","100000000000","एक सौ अरब, दस हज़ार करोड़","dshjaarkrodd",NA,NA,"100⋅000000000","",NA,"KM","100⋅000000000","100⋅000000000","abs(100*000000000)",1,0,FALSE
+"60","numerals-balk1252-1-fifteen-2","numerals-balk1252-1","Chan2019","fifteen","15","dekapende","dekapende","","false","10′+6","",NA,"KM","10′+6","10+6","10+6",1,16,FALSE
+"61","numerals-balk1252-1-sixteen-1","numerals-balk1252-1","Chan2019","sixteen","16","deʃuʃov","desusov","","false","10′+7","",NA,"KM","10′+7","10+7","10+7",1,17,FALSE
+"62","numerals-balk1252-1-seventeen-1","numerals-balk1252-1","Chan2019","seventeen","17","deʃuefta","desuefta","","false","10′+8","",NA,"KM","10′+8","10+8","10+8",1,18,FALSE
+"63","numerals-balk1252-1-eighteen-1","numerals-balk1252-1","Chan2019","eighteen","18","deʃuoxto","desuoxto","","false","10′+9","",NA,"KM","10′+9","10+9","10+9",1,19,FALSE
+"64","numerals-balk1252-1-nineteen-1","numerals-balk1252-1","Chan2019","nineteen","19","deʃueɲa","desuena","","false","10′+10","",NA,"KM","10′+10","10+10","10+10",1,20,FALSE
+"65","numerals-bhil1251-1-forty-1","numerals-bhil1251-1","Chan2019","forty","40","don ne wis","donnewis","","false","1⋅(2⋅10″)+{LP}10","",NA,"KM","1⋅(2⋅10″)+10","1⋅(2⋅10)+10","1*abs(abs(2*10))+10",1,30,FALSE
+"66","numerals-bodo1266-1-sixty-1","numerals-bodo1266-1","Chan2019","sixty","60","cɔaʈa d̪ɔsʈa","coatadosta","","false","5{CL}⋅10{CL}","",NA,"KM","5⋅10","5⋅10","abs(5*10)",1,50,FALSE
+"67","numerals-burg1246-1-twothousand-1","numerals-burg1246-1","Chan2019","twothousand","2000","d̥uʲezer(i)","dujezeri","","false","1⋅1000","",NA,"KM","1⋅1000","1⋅1000","abs(1*1000)",1,1000,FALSE
+"68","numerals-dame1241-1-twohundred-1","numerals-dame1241-1","Chan2019","twohundred","200","d̪ʊ saʋa","dusava","","false","3⋅100","",NA,"KM","3⋅100","3⋅100","abs(3*100)",1,300,FALSE
+"69","numerals-dang1260-1-twentythree-2","numerals-dang1260-1","Chan2019","twentythree","23","ek ˈbisə o tin","ekbisaotin","","false","1⋅(2′⋅10″)+{LP}2","",NA,"KM","1⋅(2′⋅10″)+2","1⋅(2⋅10)+2","1*abs(abs(2*10))+2",1,22,FALSE
+"70","numerals-gawa1247-1-twohundred-3","numerals-gawa1247-1","Chan2019","twohundred","200","'d̪ɛsɪɕiˑ","desici","","false","2⋅([2′′]⋅10′)",NA,NA,"KM","2⋅([2′′]⋅10′)","2⋅(2⋅10)","2*abs(abs(2*10))",1,40,FALSE
+"71","numerals-lamb1269-1-twentytwo-1","numerals-lamb1269-1","Chan2019","twentytwo","22","wis ən di","wisandi","","false","(2′′⋅10′′)+{LP}1","",NA,"KM","(2′′⋅10′′)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"72","numerals-lamb1269-1-thirty-1","numerals-lamb1269-1","Chan2019","thirty","30","tis","tis","","false","2⋅10′′","",NA,"KM","2⋅10′′","2⋅10","abs(2*10)",1,20,FALSE
+"73","numerals-surg1246-1-thousand-1","numerals-surg1246-1","Chan2019","thousand","1000","ek had͡ʒar","ekhadzar","","false","1⋅100","",NA,"KM","1⋅100","1⋅100","abs(1*100)",1,100,FALSE
+"74","numerals-vedd1240-1-three-1","numerals-vedd1240-1","Chan2019","three","3","tunama","tunama","","false","2","",NA,"KM","2","2","2",1,2,FALSE
+"75","numerals-vedd1240-1-four-1","numerals-vedd1240-1","Chan2019","four","4","hatarama","hatarama","","false","3","",NA,"KM","3","3","3",1,3,FALSE
+"76","numerals-vedd1240-1-five-1","numerals-vedd1240-1","Chan2019","five","5","pahama","pahama","","false","4","",NA,"KM","4","4","4",1,4,FALSE
+"77","numerals-vedd1240-1-six-1","numerals-vedd1240-1","Chan2019","six","6","hayamay","hayamay","","false","5","",NA,"KM","5","5","5",1,5,FALSE
+"78","numerals-acha1249-1-sixteen-1","numerals-acha1249-1","Chan2019","sixteen","16","tɑ31 tʂʰɿ55 tɑ31 pjɑ31 suŋ31 luŋ35","ta31tshr55ta31pja31sung31lung35","","false","(1⋅10){?}","","","KM","(1⋅10)","(1⋅10)","abs(abs(1*10))",1,10,FALSE
+"79","numerals-acha1249-1-seventeen-1","numerals-acha1249-1","Chan2019","seventeen","17","tɑ31 tʂʰɿ55 pʰɑ31 kɯ55 ȵɑ31 tɕi31","ta31tshr55pha31kw55na31tci31","","false","(1⋅10){?}","","","KM","(1⋅10)","(1⋅10)","abs(abs(1*10))",1,10,FALSE
+"80","numerals-acha1249-1-eighteen-1","numerals-acha1249-1","Chan2019","eighteen","18","tɑ31 tʂʰɿ55 tɑ31 pjɑ31 mɛ31 luŋ35","ta31tshr55ta31pja31me31lung35","","false","(1⋅10){?}","","","KM","(1⋅10)","(1⋅10)","abs(abs(1*10))",1,10,FALSE
+"81","numerals-acha1249-1-twentysix-1","numerals-acha1249-1","Chan2019","twentysix","26","sɿ55 tʂʰɿ55 tɑ31 pjɑ31 suŋ31luŋ35","sr55tshr55ta31pja31sung31lung35","","false","(2⋅10){?}","","","KM","(2⋅10)","(2⋅10)","abs(abs(2*10))",1,20,FALSE
+"82","numerals-acha1249-1-twentyseven-1","numerals-acha1249-1","Chan2019","twentyseven","27","sɿ55 tʂʰɿ55 pʰɑ31 kɯ55 ȵɑ31tɕi31","sr55tshr55pha31kw55na31tci31","","false","(2⋅10){?}","","","KM","(2⋅10)","(2⋅10)","abs(abs(2*10))",1,20,FALSE
+"83","numerals-acha1249-1-twentyeight-1","numerals-acha1249-1","Chan2019","twentyeight","28","sɿ55 tʂʰɿ55 tɑ31 pjɑ31 mɛ31luŋ35","sr55tshr55ta31pja31me31lung35","","false","(2⋅10){?}","","","KM","(2⋅10)","(2⋅10)","abs(abs(2*10))",1,20,FALSE
+"84","numerals-anuu1243-1-onehundredandone-1","numerals-anuu1243-1","Chan2019","onehundredandone","101","sʰum.hɑi.kɑi.lɑuʔ","shumhaikailau",NA,"false","100⋅{?}{?}1",NA,NA,"KM","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"85","numerals-aton1241-1-twohundred-1","numerals-aton1241-1","Chan2019","twohundred","200","rad͡ʑani","radzani","","false","100⋅1",NA,NA,"KM","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"86","numerals-brek1238-2-six-1","numerals-brek1238-2","Chan2019","six","6","θú θʊ̄","thuthu","(3 pairs)","false","3{pairs}",NA,NA,"KM","3","3","3",1,3,FALSE
+"87","numerals-brek1238-2-eight-1","numerals-brek1238-2","Chan2019","eight","8","lí θʊ̄","lithu","(4 pairs)","false","4{pairs}",NA,NA,"KM","4","4","4",1,4,FALSE
+"88","numerals-brek1238-2-sixteen-1","numerals-brek1238-2","Chan2019","sixteen","16","ʃí θú θʊ̄","sithuthu","","false","10+3{pairs}",NA,NA,"KM","10+3","10+3","10+3",1,13,FALSE
+"89","numerals-brek1238-2-eighteen-1","numerals-brek1238-2","Chan2019","eighteen","18","ʃí lí θʊ̄","silithu","","false","10+4{pairs}",NA,NA,"KM","10+4","10+4","10+4",1,14,FALSE
+"90","numerals-brek1238-2-twentysix-2","numerals-brek1238-2","Chan2019","twentysix","26","ɡī ʃí ʃú","gisisu","","false","(2⋅10)+3{pairs}",NA,NA,"KM","(2⋅10)+3","(2⋅10)+3","abs(abs(2*10))+3",1,23,FALSE
+"91","numerals-brek1238-2-twentyeight-1","numerals-brek1238-2","Chan2019","twentyeight","28","ɡī ʃí lí θʊ̄","gisilithu","","false","(2⋅10)+4{pairs}",NA,NA,"KM","(2⋅10)+4","(2⋅10)+4","abs(abs(2*10))+4",1,24,FALSE
+"92","numerals-brek1238-2-twothousand-1","numerals-brek1238-2","Chan2019","twothousand","2000","ɡī rī","giri","","false","2⋅100",NA,NA,"KM","2⋅100","2⋅100","abs(2*100)",1,200,FALSE
+"93","numerals-chan1313-1-twentyfour-1","numerals-chan1313-1","Chan2019","twentyfour","24","sàw tɕè tak lɛî","sawtcetaklei","","false","(20⋅1)+{LP}3","","","KM","(20⋅1)+3","(20⋅1)+3","abs(abs(20*1))+3",1,23,FALSE
+"94","numerals-chan1313-1-twentyfive-1","numerals-chan1313-1","Chan2019","twentyfive","25","sàw tɕè tak ŋâw","sawtcetakngaw","","false","(20⋅1)+{LP}4","","","KM","(20⋅1)+4","(20⋅1)+4","abs(abs(20*1))+4",1,24,FALSE
+"95","numerals-chan1313-1-twentysix-1","numerals-chan1313-1","Chan2019","twentysix","26","sàw tɕè tak lɐ̂k","sawtcetaklak","","false","(20⋅1)+{LP}5","","","KM","(20⋅1)+5","(20⋅1)+5","abs(abs(20*1))+5",1,25,FALSE
+"96","numerals-chan1313-1-twentyseven-1","numerals-chan1313-1","Chan2019","twentyseven","27","sàw tɕè tak ɲɛ̂t","sawtcetaknet","","false","(20⋅1)+{LP}6","","","KM","(20⋅1)+6","(20⋅1)+6","abs(abs(20*1))+6",1,26,FALSE
+"97","numerals-chan1313-1-twentyeight-1","numerals-chan1313-1","Chan2019","twentyeight","28","sàw tɕè tak sɤ̂t","sawtcetaksut","","false","(20⋅1)+{LP}7","","","KM","(20⋅1)+7","(20⋅1)+7","abs(abs(20*1))+7",1,27,FALSE
+"98","numerals-chan1313-1-twentynine-1","numerals-chan1313-1","Chan2019","twentynine","29","sàw tɕè tak kɯ̂","sawtcetakkw","","false","(20⋅1)+{LP}8","","","KM","(20⋅1)+8","(20⋅1)+8","abs(abs(20*1))+8",1,28,FALSE
+"99","numerals-chep1245-1-eight-2","numerals-chep1245-1","Chan2019","eight","8","prek","prek","","false","9′","",NA,"KM","9′","9","9",1,9,FALSE
+"100","numerals-chep1245-1-twentynine-1","numerals-chep1245-1","Chan2019","twentynine","29","untis","untis","","false","1′+(2′⋅10″′)","",NA,"KM","1′+(2′⋅10″′)","1+(2⋅10)","1+abs(abs(2*10))",1,21,FALSE
+"101","numerals-dakp1242-1-hundred-1","numerals-dakp1242-1","Chan2019","hundred","100","cʰɛʔ52le31ŋe53","che52le31nge53","( 20 x 5 )","false","20′⋅4",NA,NA,"KM","20′⋅4","20⋅4","abs(20*4)",1,80,FALSE
+"102","numerals-darm1243-1-ninetyone-1","numerals-darm1243-1","Chan2019","ninetyone","91","ɟjɛca cjɛt̪ɛ","jjecacjete","","false","(8⋅10′)+(10+9)","",NA,"KM","(8⋅10′)+(10+9)","(8⋅10)+(10+9)","abs(abs(8*10))+abs(10+9)",1,99,FALSE
+"103","numerals-dima1251-1-twentytwo-1","numerals-dima1251-1","Chan2019","twentytwo","22","kʰonɡɪ̀n","khongin","","false","20+3","",NA,"KM","20+3","20+3","20+3",1,23,FALSE
+"104","numerals-fala1243-1-thirty-1","numerals-fala1243-1","Chan2019","thirty","30","sɔ̂m tʰǔːm","somthum",NA,"false","10′′⋅4","",NA,"KM","10′′⋅4","10⋅4","abs(10*4)",1,40,FALSE
+"105","numerals-fala1243-1-forty-1","numerals-fala1243-1","Chan2019","forty","40","sɔ̂m lǐː","somli",NA,"false","10′′⋅3","",NA,"KM","10′′⋅3","10⋅3","abs(10*3)",1,30,FALSE
+"106","numerals-fala1243-1-fifty-1","numerals-fala1243-1","Chan2019","fifty","50","sɔ̂m ŋǎː","somnga",NA,"false","10′′⋅4","",NA,"KM","10′′⋅4","10⋅4","abs(10*4)",1,40,FALSE
+"107","numerals-fala1243-1-sixty-1","numerals-fala1243-1","Chan2019","sixty","60","sɔ̂m ruk","somruk",NA,"false","10′′⋅5","",NA,"KM","10′′⋅5","10⋅5","abs(10*5)",1,50,FALSE
+"108","numerals-fala1243-1-seventy-1","numerals-fala1243-1","Chan2019","seventy","70","sɔ̂m sariʡ","somsari",NA,"false","10′′⋅6","",NA,"KM","10′′⋅6","10⋅6","abs(10*6)",1,60,FALSE
+"109","numerals-fala1243-1-eighty-1","numerals-fala1243-1","Chan2019","eighty","80","sɔ̂m rǐât","somriat",NA,"false","10′′⋅7","",NA,"KM","10′′⋅7","10⋅7","abs(10*7)",1,70,FALSE
+"110","numerals-fala1243-1-ninety-1","numerals-fala1243-1","Chan2019","ninety","90","sɔ̂m kʷáː","somkwa",NA,"false","10′′⋅8","",NA,"KM","10′′⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"111","numerals-garo1247-1-twentyfour-1","numerals-garo1247-1","Chan2019","twentyfour","24","kol-ɡrik-bri","kolgrikbri","","false","20+{LP}3","",NA,"KM","20+3","20+3","20+3",1,23,FALSE
+"112","numerals-garo1247-1-twentyfive-1","numerals-garo1247-1","Chan2019","twentyfive","25","kol-ɡrik-boŋ-a","kolgrikbonga","","false","20+{LP}4","",NA,"KM","20+4","20+4","20+4",1,24,FALSE
+"113","numerals-garo1247-1-twentysix-1","numerals-garo1247-1","Chan2019","twentysix","26","kol-ɡrik-dok","kolgrikdok","","false","20+{LP}5","",NA,"KM","20+5","20+5","20+5",1,25,FALSE
+"114","numerals-garo1247-1-twentyseven-1","numerals-garo1247-1","Chan2019","twentyseven","27","kol-ɡrik-sin-i","kolgriksini","","false","20+{LP}6","",NA,"KM","20+6","20+6","20+6",1,26,FALSE
+"115","numerals-garo1247-1-twentyeight-1","numerals-garo1247-1","Chan2019","twentyeight","28","kol-ɡrik-chet","kolgrikchet","","false","20+{LP}7","",NA,"KM","20+7","20+7","20+7",1,27,FALSE
+"116","numerals-garo1247-1-twentynine-1","numerals-garo1247-1","Chan2019","twentynine","29","kol-ɡrik-sku","kolgriksku","","false","20+{LP}8","",NA,"KM","20+8","20+8","20+8",1,28,FALSE
+"117","numerals-geba1237-1-seven-1","numerals-geba1237-1","Chan2019","seven","7","θáθʊ̄dɛmɛ́","thathudeme","( 3 x 2 + 1)","false","(2′⋅4)+1",NA,NA,"KM","(2′⋅4)+1","(2⋅4)+1","abs(abs(2*4))+1",1,9,FALSE
+"118","numerals-guru1261-1-twothousand-1","numerals-guru1261-1","Chan2019","twothousand","2000","haãjaar ŋĩ̤","haajaarngi","","false","1000⋅1","","","KM","1000⋅1","1000⋅1","abs(1000*1)",1,1000,FALSE
+"119","numerals-kach1280-1-thousand-1","numerals-kach1280-1","Chan2019","thousand","1000","kĩ˥","ki",NA,"false","100",NA,NA,"KM","100","100","100",1,100,FALSE
+"120","numerals-kado1242-1-twelve-1","numerals-kado1242-1","Chan2019","twelve","12","ʃip⁵nu⁵kəliŋ⁵tin⁵","sip5nu5kaling5tin5",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"121","numerals-kado1242-1-thirteen-1","numerals-kado1242-1","Chan2019","thirteen","13","ʃip⁵nu⁵sʰun⁵tin²","sip5nu5shun5tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"122","numerals-kado1242-1-fourteen-1","numerals-kado1242-1","Chan2019","fourteen","14","ʃip⁵nu⁵pi⁵tin²","sip5nu5pi5tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"123","numerals-kado1242-1-fifteen-1","numerals-kado1242-1","Chan2019","fifteen","15","ʃip⁵nu⁵ha²tin²","sip5nu5ha2tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"124","numerals-kado1242-1-sixteen-1","numerals-kado1242-1","Chan2019","sixteen","16","ʃip⁵nu⁵huk³tin²","sip5nu5huk3tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"125","numerals-kado1242-1-seventeen-1","numerals-kado1242-1","Chan2019","seventeen","17","ʃip⁵nu⁵sip³tin²","sip5nu5sip3tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"126","numerals-kado1242-1-eighteen-1","numerals-kado1242-1","Chan2019","eighteen","18","ʃip⁵nu⁵pɛt²tin²","sip5nu5pet2tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"127","numerals-kado1242-1-nineteen-1","numerals-kado1242-1","Chan2019","nineteen","19","ʃip⁵nu⁵kou²tin²","sip5nu5kou2tin2",NA,"false","{?}10+1{?}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"128","numerals-kado1242-1-twentytwo-1","numerals-kado1242-1","Chan2019","twentytwo","22","sʰɔŋ⁵nu²kəliŋ⁵tin⁵","shong5nu2kaling5tin5",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"129","numerals-kado1242-1-twentythree-1","numerals-kado1242-1","Chan2019","twentythree","23","sʰɔŋ⁵nu²sʰun⁵tin²","shong5nu2shun5tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"130","numerals-kado1242-1-twentyfour-1","numerals-kado1242-1","Chan2019","twentyfour","24","sʰɔŋ⁵nu²pi⁵tin²","shong5nu2pi5tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"131","numerals-kado1242-1-twentyfive-1","numerals-kado1242-1","Chan2019","twentyfive","25","sʰɔŋ⁵nu²ha²tin²","shong5nu2ha2tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"132","numerals-kado1242-1-twentysix-1","numerals-kado1242-1","Chan2019","twentysix","26","sʰɔŋ⁵nu²huk³tin²","shong5nu2huk3tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"133","numerals-kado1242-1-twentyseven-1","numerals-kado1242-1","Chan2019","twentyseven","27","sʰɔŋ⁵nu²sip³tin²","shong5nu2sip3tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"134","numerals-kado1242-1-twentyeight-1","numerals-kado1242-1","Chan2019","twentyeight","28","sʰɔŋ⁵nu²pɛt²tin²","shong5nu2pet2tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"135","numerals-kado1242-1-twentynine-1","numerals-kado1242-1","Chan2019","twentynine","29","sʰɔŋ⁵nu²kou²tin²","shong5nu2kou2tin2",NA,"false","(2′⋅10)+1{?}","",NA,"KM","(2′⋅10)+1","(2⋅10)+1","abs(abs(2*10))+1",1,21,FALSE
+"136","numerals-lagh1245-1-twelve-1","numerals-lagh1245-1","Chan2019","twelve","12","ʔa21 tʰɯ21ni21 ma44","a21thw21ni21ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"137","numerals-lagh1245-1-thirteen-1","numerals-lagh1245-1","Chan2019","thirteen","13","ʔa21 tʰɯ21sɔ33ma44","a21thw21so33ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"138","numerals-lagh1245-1-fourteen-1","numerals-lagh1245-1","Chan2019","fourteen","14","ʔa21 tʰɯ21kʰɿ33ma44","a21thw21khr33ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"139","numerals-lagh1245-1-fifteen-1","numerals-lagh1245-1","Chan2019","fifteen","15","ʔa21 tʰɯ21ŋa44ma44","a21thw21nga44ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"140","numerals-lagh1245-1-sixteen-1","numerals-lagh1245-1","Chan2019","sixteen","16","ʔa21 tʰɯ21kʰu21 ma44","a21thw21khu21ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"141","numerals-lagh1245-1-seventeen-1","numerals-lagh1245-1","Chan2019","seventeen","17","ʔa21 tʰɯ21si21ma44","a21thw21si21ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"142","numerals-lagh1245-1-eighteen-1","numerals-lagh1245-1","Chan2019","eighteen","18","ʔa21 tʰɯ21ʔe̝21 ma44","a21thw21e21ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"143","numerals-lagh1245-1-nineteen-1","numerals-lagh1245-1","Chan2019","nineteen","19","ʔa21 tʰɯ21ku33ma44","a21thw21ku33ma44",NA,"false","{?}10+1{CL}","",NA,"KM","10+1","10+1","10+1",1,11,FALSE
+"144","numerals-lhom1239-1-fourhundred-2","numerals-lhom1239-1","Chan2019","fourhundred","400","ɟeɟʌ","jej",NA,"false","8⋅100","",NA,"KM","8⋅100","8⋅100","abs(8*100)",1,800,FALSE
+"145","numerals-lian1251-1-twentyfour-1","numerals-lian1251-1","Chan2019","twentyfour","24","məkái mədái","makaimadai",NA,"false","20+3",NA,NA,"KM","20+3","20+3","20+3",1,23,FALSE
+"146","numerals-lian1251-1-twentyfive-1","numerals-lian1251-1","Chan2019","twentyfive","25","məkái məŋiú","makaimangiu",NA,"false","20+4",NA,NA,"KM","20+4","20+4","20+4",1,24,FALSE
+"147","numerals-lian1251-1-twentysix-1","numerals-lian1251-1","Chan2019","twentysix","26","məkái tsərūk","makaitsaruk",NA,"false","20+5",NA,NA,"KM","20+5","20+5","20+5",1,25,FALSE
+"148","numerals-lian1251-1-twentyseven-1","numerals-lian1251-1","Chan2019","twentyseven","27","məkái tsəniā","makaitsania",NA,"false","20+6",NA,NA,"KM","20+6","20+6","20+6",1,26,FALSE
+"149","numerals-lian1251-1-twentyeight-1","numerals-lian1251-1","Chan2019","twentyeight","28","məkái tətsát","makaitatsat",NA,"false","20+7",NA,NA,"KM","20+7","20+7","20+7",1,27,FALSE
+"150","numerals-lian1251-1-twentynine-1","numerals-lian1251-1","Chan2019","twentynine","29","məkái tsəkiū","makaitsakiu",NA,"false","20+8",NA,NA,"KM","20+8","20+8","20+8",1,28,FALSE
+"151","numerals-mzie1235-1-thousand-1","numerals-mzie1235-1","Chan2019","thousand","1000","tsang","tsang",NA,"false","100",NA,NA,"KM","100","100","100",1,100,FALSE
+"152","numerals-nusu1239-1-twothousand-1","numerals-nusu1239-1","Chan2019","twothousand","2000","m̩55tu35","m55tu35",NA,"false","1⋅1000",NA,NA,"KM","1⋅1000","1⋅1000","abs(1*1000)",1,1000,FALSE
+"153","numerals-para1302-1-twentyone-1","numerals-para1302-1","Chan2019","twentyone","21","takhisawkhai","takhisawkhai","","false","[10+]1{to.fill.up?}{10′⋅3}",NA,"1+{to.fill.up?}(10′⋅3)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"154","numerals-para1302-1-twentyfive-1","numerals-para1302-1","Chan2019","twentyfive","25","takhisawpainka","takhisawpainka","","false","[10+]5{to.fill.up?}{10′⋅3}",NA,"5+{to.fill.up?}(10′⋅3)[−10] ","KM","[10+]5","10+5","10+5",1,15,FALSE
+"155","numerals-para1302-1-twentynine-1","numerals-para1302-1","Chan2019","twentynine","29","takhisawtaipvui","takhisawtaipvui","","false","[10+]9{to.fill.up?}{10′⋅3}",NA,"9+{to.fill.up?}(10′⋅3)[−10] ","KM","[10+]9","10+9","10+9",1,19,FALSE
+"156","numerals-para1302-1-thirtyone-1","numerals-para1302-1","Chan2019","thirtyone","31","takhipezhaipakhai","takhipezhaipakhai","","false","[10+]1{to.fill.up?}{10′⋅4}",NA,"1+{to.fill.up?}(10′⋅4)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"157","numerals-para1302-1-thirtynine-1","numerals-para1302-1","Chan2019","thirtynine","39","takhipezhaipataipvui","takhipezhaipataipvui","","false","[10+]9{to.fill.up?}{10′⋅4}",NA,"9+{to.fill.up?}(10′⋅4)[−10] ","KM","[10+]9","10+9","10+9",1,19,FALSE
+"158","numerals-para1302-1-fortyone-1","numerals-para1302-1","Chan2019","fortyone","41","takhipainkapakhai","takhipainkapakhai","","false","[10+]1{to.fill.up?}{10′⋅5}",NA,"1+{to.fill.up?}(10′⋅5)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"159","numerals-para1302-1-fiftyone-1","numerals-para1302-1","Chan2019","fiftyone","51","takhitaruipakhai","takhitaruipakhai","","false","[10+]1{to.fill.up?}{10′⋅6}",NA,"1+{to.fill.up?}(10′⋅6)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"160","numerals-para1302-1-sixtyone-1","numerals-para1302-1","Chan2019","sixtyone","61","takhitaynqaipakhai","takhitaynqaipakhai","","false","[10+]1{to.fill.up?}{10′⋅7}",NA,"1+{to.fill.up?}(10′⋅7)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"161","numerals-para1302-1-seventyone-1","numerals-para1302-1","Chan2019","seventyone","71","takhitaishwaipakhai","takhitaishwaipakhai","","false","[10+]1{to.fill.up?}{10′⋅8}",NA,"1+{to.fill.up?}(10′⋅8)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"162","numerals-para1302-1-eightyone-1","numerals-para1302-1","Chan2019","eightyone","81","takhitaipvuipakhai","takhitaipvuipakhai","","false","[10+]1{to.fill.up?}{10′⋅9}",NA,"1+{to.fill.up?}(10′⋅9)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"163","numerals-para1302-1-ninetyone-1","numerals-para1302-1","Chan2019","ninetyone","91","takhitairapakhai","takhitairapakhai","","false","[10+]1{to.fill.up?}{10′⋅10}",NA,"1+{to.fill.up?}(10′⋅10)[−10] ","KM","[10+]1","10+1","10+1",1,11,FALSE
+"164","numerals-rang1267-1-onehundredandten-1","numerals-rang1267-1","Chan2019","onehundredandten","110","razakʰat sōm aŋkʰat","razakhatsomangkhat",NA,"false","(100⋅1)+10+1","",NA,"KM","(100⋅1)+10+1","(100⋅1)+10+1","abs(abs(100*1))+10+1",1,111,FALSE
+"165","numerals-rian1262-1-twentyfour-1","numerals-rian1262-1","Chan2019","twentyfour","24","(kʰrɔk) kʰɔl brɔi̯","khrokkholbroi","","false","20+3",NA,NA,"KM","20+3","20+3","20+3",1,23,FALSE
+"166","numerals-rian1262-1-twentyfive-1","numerals-rian1262-1","Chan2019","twentyfive","25","(kʰrɔk) kʰɔl ba","khrokkholba","","false","20+4",NA,NA,"KM","20+4","20+4","20+4",1,24,FALSE
+"167","numerals-rian1262-1-twentysix-1","numerals-rian1262-1","Chan2019","twentysix","26","(kʰrɔk) kʰɔl dou̯k","khrokkholdouk","","false","20+5",NA,NA,"KM","20+5","20+5","20+5",1,25,FALSE
+"168","numerals-rian1262-1-twentyseven-1","numerals-rian1262-1","Chan2019","twentyseven","27","(kʰrɔk) kʰɔl ʂni","khrokkholsni","","false","20+6",NA,NA,"KM","20+6","20+6","20+6",1,26,FALSE
+"169","numerals-rian1262-1-twentyeight-1","numerals-rian1262-1","Chan2019","twentyeight","28","(kʰrɔk) kʰɔl tʃai̯","khrokkholtsai","","false","20+7",NA,NA,"KM","20+7","20+7","20+7",1,27,FALSE
+"170","numerals-rian1262-1-twentynine-1","numerals-rian1262-1","Chan2019","twentynine","29","(kʰrɔk) kʰɔl ʂkou̯","khrokkholskou","","false","20+8",NA,NA,"KM","20+8","20+8","20+8",1,28,FALSE
+"171","numerals-sout2739-1-twentyseven-2","numerals-sout2739-1","Chan2019","twentyseven","27","ħaɨ35 tɕʰi21","hai35tchi21","","false","{?}7","",NA,"KM","7","7","7",1,7,FALSE
+"172","numerals-sout2739-1-twentyeight-2","numerals-sout2739-1","Chan2019","twentyeight","28","ħaɨ35pa21","hai35pa21","","false","{?}8","",NA,"KM","8","8","8",1,8,FALSE
+"173","numerals-sout2739-1-twentynine-2","numerals-sout2739-1","Chan2019","twentynine","29","ħaɨ35tɕiʉ55","hai35tciu55","","false","{?}9","",NA,"KM","9","9","9",1,9,FALSE
+"174","numerals-tawr1235-1-twohundred-1","numerals-tawr1235-1","Chan2019","twohundred","200","zə niː","zani",NA,"false","100⋅1","",NA,"KM","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"175","numerals-yamp1242-1-eighty-2","numerals-yamp1242-1","Chan2019","eighty","80","cukpoŋnippoŋ","cukpongnippong","( 60 + 20 )","false","(6⋅10)+(3⋅10)","",NA,"KM","(6⋅10)+(3⋅10)","(6⋅10)+(3⋅10)","abs(abs(6*10))+abs(abs(3*10))",1,90,FALSE
+"176","numerals-zang1248-1-twentythree-2","numerals-zang1248-1","Chan2019","twentythree","23","sasum","sasum",NA,"false","[2⋅10]{LP}+2",NA,NA,"KM","[2⋅10]+2","2⋅10+2","abs(2*10)+2",1,22,FALSE
+"177","numerals-zhab1238-1-twohundred-1","numerals-zhab1238-1","Chan2019","twohundred","200","na35dʑa35","na35dza35",NA,"false","1⋅100","",NA,"KM","1⋅100","1⋅100","abs(1*100)",1,100,FALSE
+"178","numerals-zyph1238-1-fourhundred-1","numerals-zyph1238-1","Chan2019","fourhundred","400","zapali","zapali",NA,"false","100⋅2′",NA,NA,"KM","100⋅2′","100⋅2","abs(100*2)",1,200,FALSE
+"179","bowernnumerals-Birrp-five-1","bowernnumerals-Birrp","Bowern2012","five","5","bilabu bilabu wagul","bilabubilabuwagul",NA,"false","2+{+}2{+}1","",NA,"RB","2+21","2+21","2+21",1,23,FALSE
+"180","bowernnumerals-Yuwlar-three-1","bowernnumerals-Yuwlar","Bowern2012","three","3","guliba","guliba",NA,"false","2",NA,NA,"RB","2","2","2",1,2,FALSE
+"181","bowernnumerals-Yuwlar-three-2","bowernnumerals-Yuwlar","Bowern2012","three","3","guliba:","guliba",NA,"false","2",NA,NA,"RB","2","2","2",1,2,FALSE
+"182","bowernnumerals-Yuwlar-three-3","bowernnumerals-Yuwlar","Bowern2012","three","3","kulipa:","kulipa",NA,"false","2",NA,NA,"RB","2","2","2",1,2,FALSE
+"183","bowernnumerals-Yuwlar-three-4","bowernnumerals-Yuwlar","Bowern2012","three","3","pawa","pawa",NA,"false","2′",NA,NA,"RB","2′","2","2",1,2,FALSE
+"184","numerals-bakw1243-1-twentyone-1","numerals-bakw1243-1","Chan2019","twentyone","21","ɡrʊ̀ bɛ̀ de᷅ː","grubede","","FALSE","10+{and}1","",NA,"EAT","10+1","10+1","10+1",1,11,FALSE
+"185","numerals-bakw1243-1-twentytwo-1","numerals-bakw1243-1","Chan2019","twentytwo","22","ɡrʊ̀ bɛ̀ sɔ᷅ː","grubeso","","FALSE","10+{and}2","",NA,"EAT","10+2","10+2","10+2",1,12,FALSE
+"186","numerals-bakw1243-1-twentythree-1","numerals-bakw1243-1","Chan2019","twentythree","23","ɡrʊ̀ bɛ̀ tʌ̄ː","grubet","","FALSE","10+{and}3","",NA,"EAT","10+3","10+3","10+3",1,13,FALSE
+"187","numerals-bakw1243-1-twentyfour-1","numerals-bakw1243-1","Chan2019","twentyfour","24","ɡrʊ̀ bɛ̀ mɾɔ̄ː","grubemro","","FALSE","10+{and}4","",NA,"EAT","10+4","10+4","10+4",1,14,FALSE
+"188","numerals-bakw1243-1-twentyfive-1","numerals-bakw1243-1","Chan2019","twentyfive","25","ɡrʊ̀ bɛ̀ ɡ͡bə̀ə̄","grubegbaa","","FALSE","10+{and}5","",NA,"EAT","10+5","10+5","10+5",1,15,FALSE
+"189","numerals-bakw1243-1-twentysix-1","numerals-bakw1243-1","Chan2019","twentysix","26","ɡrʊ̀ bɛ̀ ŋǔːɗō","grubengudo","","FALSE","10+{and}5′+1","",NA,"EAT","10+5′+1","10+5+1","10+5+1",1,16,FALSE
+"190","numerals-bakw1243-1-twentyseven-1","numerals-bakw1243-1","Chan2019","twentyseven","27","ɡrʊ̀ bɛ̀ ŋǔːsɔ̄","grubenguso","","FALSE","10+{and}5′+2","",NA,"EAT","10+5′+2","10+5+2","10+5+2",1,17,FALSE
+"191","numerals-bakw1243-1-twentyeight-1","numerals-bakw1243-1","Chan2019","twentyeight","28","ɡrʊ̀ bɛ̀ ŋǔːtʌ̄","grubengut","","FALSE","10+{and}5′+3","",NA,"EAT","10+5′+3","10+5+3","10+5+3",1,18,FALSE
+"192","numerals-bakw1243-1-twentynine-1","numerals-bakw1243-1","Chan2019","twentynine","29","ɡrʊ̀ bɛ̀ ŋǔːmɾɔ̄","grubengumro","","FALSE","10+{and}5′+4","",NA,"EAT","10+5′+4","10+5+4","10+5+4",1,19,FALSE
+"193","numerals-gagn1235-1-seventy-1","numerals-gagn1235-1","Chan2019","seventy","70","ɡɵ̯̄ɺō.tɑ̄.yɛ́.kō.ɡ͡bɔ́","gorotayekogbo","","FALSE","(20⋅2)+10","","","EAT","(20⋅2)+10","(20⋅2)+10","abs(abs(20*2))+10",1,50,FALSE
+"194","numerals-gagn1235-1-ninety-1","numerals-gagn1235-1","Chan2019","ninety","90","ɡɵ̯̄ɺō.mɔ̀ɔ̀nɔ̄.yɛ́.kō.ɡ͡bɔ́","goromoonoyekogbo","","FALSE","(20⋅2)+10","","","EAT","(20⋅2)+10","(20⋅2)+10","abs(abs(20*2))+10",1,50,FALSE
+"195","numerals-kuwa1247-1-sixty-1","numerals-kuwa1247-1","Chan2019","sixty","60","kowaa wɔ̀rfɔlɛ̀","kowaaworfole","","FALSE","10⋅5","","(5””·2”)·5’+1’","EAT","10⋅5","10⋅5","abs(10*5)",1,50,FALSE
+"196","numerals-neyo1238-1-twohundred-1","numerals-neyo1238-1","Chan2019","twohundred","200","ɡʊ̄lɪ́ kʊ́ɡ͡bá","gulikugba","","FALSE","(20⋅5)+10","",NA,"EAT","(20⋅5)+10","(20⋅5)+10","abs(abs(20*5))+10",1,110,FALSE
+"197","numerals-nucl1418-1-two-1","numerals-nucl1418-1","Chan2019","two","2","sɔ̃́","so","","FALSE","3","",NA,"EAT","3","3","3",1,3,FALSE
+"198","numerals-nucl1418-1-three-1","numerals-nucl1418-1","Chan2019","three","3","tã","ta","","FALSE","4","",NA,"EAT","4","4","4",1,4,FALSE
+"199","numerals-nucl1418-1-four-1","numerals-nucl1418-1","Chan2019","four","4","hĩinyɛ","hiinye","","FALSE","5","",NA,"EAT","5","5","5",1,5,FALSE
+"200","numerals-nyab1255-1-twothousand-1","numerals-nyab1255-1","Chan2019","twothousand","2000","dui1 mu4u1","dui1mu4u1","( 400 x 5 )","FALSE","400⋅20","",NA,"EAT","400⋅20","400⋅20","abs(400*20)",1,8000,FALSE
+"201","numerals-pyek1235-1-eleven-1","numerals-pyek1235-1","Chan2019","eleven","11","pù tǔ ó dò","putuodo","('ten plus one')","FALSE","10{+}1","",NA,"EAT","101","101","101",1,101,FALSE
+"202","numerals-pyek1235-1-twelve-1","numerals-pyek1235-1","Chan2019","twelve","12","pù tǔ ó hʋɛ̃́","putuohve","('ten plus two')","FALSE","10{+}2","",NA,"EAT","102","102","102",1,102,FALSE
+"203","numerals-pyek1235-1-thirteen-1","numerals-pyek1235-1","Chan2019","thirteen","13","pù tǔ ó tā","putuota","('ten plus three')","FALSE","10{+}3","",NA,"EAT","103","103","103",1,103,FALSE
+"204","numerals-pyek1235-1-fourteen-1","numerals-pyek1235-1","Chan2019","fourteen","14","pù tǔ ó hɛ̃̀","putuohe","('ten plus four')","FALSE","10{+}4","",NA,"EAT","104","104","104",1,104,FALSE
+"205","numerals-pyek1235-1-forty-1","numerals-pyek1235-1","Chan2019","forty","40","wlɩ̀ hʋɛ̃́","wlihve","(litː 'twenties two')","FALSE","20′{PLU?}+2","20’ u > i - vowel raising",NA,"EAT","20′+2","20+2","20+2",1,22,FALSE
+"206","numerals-soub1242-1-seventy-1","numerals-soub1242-1","Chan2019","seventy","70","ɡwlì tá kʊ́ɡ͡ba","gwlitakugba","","FALSE","(20′⋅1)+10","",NA,"EAT","(20′⋅1)+10","(20⋅1)+10","abs(abs(20*1))+10",1,30,FALSE
+"207","numerals-soub1242-1-ninety-1","numerals-soub1242-1","Chan2019","ninety","90","ɡwlì mʊ̄wana kʊ́ɡ͡ba","gwlimuwanakugba","","FALSE","(20⋅1)+10","",NA,"EAT","(20⋅1)+10","(20⋅1)+10","abs(abs(20*1))+10",1,30,FALSE
+"208","numerals-taju1238-1-ninety-1","numerals-taju1238-1","Chan2019","ninety","90","quilar-siɛrdoe","quilarsierdoe","","FALSE","10′⋅{LIG}[10]−1","",NA,"EAT","10′⋅[10]−1","10⋅10−1","abs(10*10)-1",1,99,FALSE
+"209","numerals-tepo1239-1-eight-2","numerals-tepo1239-1","Chan2019","eight","8","yèhɛ̃̀yèhɛ̃̀","yeheyehe","( 2 x 4 )","FALSE","4′⋅4′","4’ = prefix “ye”",NA,"EAT","4′⋅4′","4⋅4","abs(4*4)",1,16,FALSE
+"210","numerals-tepo1239-1-hundred-2","numerals-tepo1239-1","Chan2019","hundred","100","hɔ̀trʊ̄","hotru","","FALSE","(20⋅5)+{+}10","",NA,"EAT","(20⋅5)+10","(20⋅5)+10","abs(abs(20*5))+10",1,110,FALSE
+"211","numerals-yoco1235-1-thousand-1","numerals-yoco1235-1","Chan2019","thousand","1000","ɡólí ɛŋɡ͡bɪ́a tʃɪ́ kóɡ͡ba","golienggbiatsikogba","( 20 x 5 x 10 )","FALSE","(20⋅5)+{and}10","",NA,"EAT","(20⋅5)+10","(20⋅5)+10","abs(abs(20*5))+10",1,110,FALSE
+"212","numerals-yoco1235-1-twothousand-1","numerals-yoco1235-1","Chan2019","twothousand","2000","ɡólí ɛŋɡ͡bɪ́a tʃɪ́ ɡóló","golienggbiatsigolo","( 20 x 5 x 20 )","FALSE","(20⋅5)+{and}20","",NA,"EAT","(20⋅5)+20","(20⋅5)+20","abs(abs(20*5))+20",1,120,FALSE
+"213","aghe1239-1-7-1","aghe1239-1",NA,"seven","7","sə̀ˠàⁿbə̄ˠā","sə̀ˠàⁿbə̄ˠā",NA,"FALSE","3′⋅2{?}","5 = 3?","5 + 2","EAT","3′⋅2","3⋅2","abs(3*2)",1,6,FALSE
+"214","aghe1239-1-70-1","aghe1239-1",NA,"seventy","70","ŋ̩́ɣə́msə̀ɣàⁿbə̄ˠā","ŋ̩́ɣə́msə̀ɣàⁿbə̄ˠā",NA,"FALSE","10⋅(3′⋅2{?})",NA,NA,"EAT","10⋅(3′⋅2)","10⋅(3⋅2)","10*abs(abs(3*2))",1,60,FALSE
+"215","aghe1239-1-2000-1","aghe1239-1",NA,"two thousand","2000","tə́kámtə́bə̀ˠà","tə́kámtə́bə̀ˠà",NA,"FALSE","100⋅2",NA,"1000 · 2","EAT","100⋅2","100⋅2","abs(100*2)",1,200,FALSE
+"216","aghe1239-2-7-1","aghe1239-2",NA,"seven","7","sɨ̀ɣàmbɨ̀ɣà","sɨ̀ɣàmbɨ̀ɣà",NA,"FALSE","3⋅2","5+2","5 + 2","EAT","3⋅2","3⋅2","abs(3*2)",1,6,FALSE
+"217","aghe1239-2-17-1","aghe1239-2",NA,"seventeen","17","é-ʔɣɨ́m àɣɛ̀ zě sɨ̀ɣàmbɨ̀ɣà","é-ʔɣɨ́m àɣɛ̀ zě sɨ̀ɣàmbɨ̀ɣà",NA,"FALSE","10+{+}(3′⋅2{?})",NA,"10 + (x + 2)","EAT","10+(3′⋅2)","10+(3⋅2)","10+abs(abs(3*2))",1,16,FALSE
+"218","aghe1239-2-70-1","aghe1239-2",NA,"seventy","70","ŋ́-ʔɣɨ́m ǹ-sɨ̀ɣàmbɨ̀ɣà","ŋ́-ʔɣɨ́m ǹ-sɨ̀ɣàmbɨ̀ɣà",NA,"FALSE","10′⋅(3′⋅2{?})",NA,NA,"EAT","10′⋅(3′⋅2)","10⋅(3⋅2)","10*abs(abs(3*2))",1,60,FALSE
+"219","asut1235-1-2-1","asut1235-1",NA,"two","2","mbiri","mbiri",NA,"FALSE","3",NA,"3","EAT","3","3","3",1,3,FALSE
+"220","baka1273-1-17-1","baka1273-1",NA,"seventeen","17","dyòòm nɛ̀ sàámbá","dyòòm nɛ̀ sàámbá",NA,"FALSE","5′+2′",NA,"10 + (5 + 2)","EAT","5′+2′","5+2","5+2",1,7,FALSE
+"221","bekw1242-1-20-1","bekw1242-1",NA,"twenty","20","mɛkǎm-mɛmbá","mɛkǎm-mɛmbá",NA,"FALSE","{PLU}10+{+}{PLU}5",NA,"10 · 2","EAT","10+5","10+5","10+5",1,15,FALSE
+"222","bemb1257-1-19-1","bemb1257-1",NA,"nineteen","19","íkúmí nà pààbúlá","íkúmí nà pààbúlá",NA,"FALSE","{CL″}10+{+}0",NA,NA,"EAT","10+0","10+0","10+0",1,10,FALSE
+"223","bemb1257-1-100-1","bemb1257-1",NA,"one hundred","100","ùmwándá ùmò","ùmwándá ùmò",NA,"FALSE","{CL″⁗}1000⋅{CL″⁗}1",NA,NA,"EAT","1000⋅1","1000⋅1","abs(1000*1)",1,1000,FALSE
+"224","bena1262-2-100-1","bena1262-2",NA,"one hundred","100","liɡana limwi","liɡana limwi",NA,"FALSE","{CL″}10⋅{CL″}1",NA,NA,"EAT","10⋅1","10⋅1","abs(10*1)",1,10,FALSE
+"225","bena1262-2-200-1","bena1262-2",NA,"two hundred","200","maɡana ɡavili","maɡana ɡavili",NA,"FALSE","{CL″}10⋅{CL″″}2",NA,NA,"EAT","10⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"226","bend1258-1-80-1","bend1258-1",NA,"eighty","80","makumí munanɛ","makumí munanɛ",NA,"FALSE","{CL‴}10⋅{CL′}4′+4",NA,NA,"EAT","10⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"227","bend1258-1-1000-1","bend1258-1",NA,"one thousand","1000","elufu ɟimʷi","elufu ɟimʷi",NA,"FALSE","100′⋅1′","(elufu < Swahili /Arabic )",NA,"EAT","100′⋅1′","100⋅1","abs(100*1)",1,100,FALSE
+"228","bend1258-2-80-1","bend1258-2",NA,"eighty","80","makumí múnaané","makumí múnaané",NA,"FALSE","{CL‴}10⋅{CL′}4′+4",NA,NA,"EAT","10⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"229","bend1258-3-1000-1","bend1258-3",NA,"one thousand","1000","álfu ɟimwí","álfu ɟimwí",NA,"FALSE","100⋅{CL″″‴}1",NA,NA,"EAT","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"230","bend1258-3-2000-1","bend1258-3",NA,"two thousand","2000","élfu iβílí","élfu iβílí",NA,"FALSE","100⋅{CL″‴}1",NA,NA,"EAT","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"231","bera1259-2-80-1","bera1259-2",NA,"eighty","80","makumi munani","makumi munani",NA,"FALSE","{CL}10⋅{CL}4′+4",NA,NA,"EAT","10⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"232","bolo1263-1-12-1","bolo1263-1",NA,"twelve","12","ɡyomí líɓále","ɡyomí líɓále",NA,"FALSE","10+{CL′?}1","merging of classifier and ligature",NA,"EAT","10+1","10+1","10+1",1,11,FALSE
+"233","bolo1263-1-13-1","bolo1263-1",NA,"thirteen","13","ɡyomí la íyáto","ɡyomí la íyáto",NA,"FALSE","10+{CL′?}2",NA,NA,"EAT","10+2","10+2","10+2",1,12,FALSE
+"234","bolo1263-1-14-1","bolo1263-1",NA,"fourteen","14","ɡyomí linéé","ɡyomí linéé",NA,"FALSE","10+{CL′?}3",NA,NA,"EAT","10+3","10+3","10+3",1,13,FALSE
+"235","bolo1263-1-15-1","bolo1263-1",NA,"fifteen","15","ɡyomí litáno","ɡyomí litáno",NA,"FALSE","10+{CL′?}4",NA,NA,"EAT","10+4","10+4","10+4",1,14,FALSE
+"236","bolo1263-1-16-1","bolo1263-1",NA,"sixteen","16","ɡyomí liyámano","ɡyomí liyámano",NA,"FALSE","10+{CL′?}5",NA,NA,"EAT","10+5","10+5","10+5",1,15,FALSE
+"237","bolo1263-1-17-1","bolo1263-1",NA,"seventeen","17","ɡyomí la sambo","ɡyomí la sambo",NA,"FALSE","10+{+}6",NA,NA,"EAT","10+6","10+6","10+6",1,16,FALSE
+"238","bolo1263-1-18-1","bolo1263-1",NA,"eighteen","18","ɡyomí la monanáé","ɡyomí la monanáé",NA,"FALSE","10+{+}7",NA,NA,"EAT","10+7","10+7","10+7",1,17,FALSE
+"239","bolo1263-1-19-1","bolo1263-1",NA,"nineteen","19","ɡyomí la liɓuá","ɡyomí la liɓuá",NA,"FALSE","10+{+}{CL′?}7",NA,NA,"EAT","10+7","10+7","10+7",1,17,FALSE
+"240","bolo1263-1-22-1","bolo1263-1",NA,"twenty-two","22","makáɓálé líɓale","makáɓálé líɓale",NA,"FALSE","(10′⋅2)+{CL′?}1",NA,NA,"EAT","(10′⋅2)+1","(10⋅2)+1","abs(abs(10*2))+1",1,21,FALSE
+"241","buku1249-1-13-1","buku1249-1",NA,"thirteen","13","kúmi ná táátu","kúmi ná táátu",NA,"FALSE","10+{+}2",NA,NA,"EAT","10+2","10+2","10+2",1,12,FALSE
+"242","buku1249-1-14-1","buku1249-1",NA,"fourteen","14","kúmi ná yine","kúmi ná yine",NA,"FALSE","10+{+}3",NA,NA,"EAT","10+3","10+3","10+3",1,13,FALSE
+"243","buku1249-1-15-1","buku1249-1",NA,"fifteen","15","kúmi ná tááno","kúmi ná tááno",NA,"FALSE","10+{+}4",NA,NA,"EAT","10+4","10+4","10+4",1,14,FALSE
+"244","chig1238-1-20-1","chig1238-1",NA,"twenty","20","(mɑ̀kùmí) ɑ̀ːβìɾí","(mɑ̀kùmí) ɑ̀ːβìɾí",NA,"FALSE","{CL″}10+{+}{PLU}2",NA,"10·2","EAT","10+2","10+2","10+2",1,12,FALSE
+"245","chig1238-1-21-1","chig1238-1",NA,"twenty-one","21","ɑ̀ːβíɾì néːmʷè","ɑ̀ːβíɾì néːmʷè",NA,"FALSE","{PLU}2+{+}1",NA,"(10·2)+1","EAT","2+1","2+1","2+1",1,3,FALSE
+"246","chig1238-1-22-1","chig1238-1",NA,"twenty-two","22","ɑ̀ːβíɾí nèⁱβíɾí","ɑ̀ːβíɾí nèⁱβíɾí",NA,"FALSE","{PLU}2+{+}{CL}2",NA,"(10·2)+2","EAT","2+2","2+2","2+2",1,4,FALSE
+"247","chig1238-1-23-1","chig1238-1",NA,"twenty-three","23","ɑ̀ːβíɾí nèⁱʃɑ̀tù","ɑ̀ːβíɾí nèⁱʃɑ̀tù",NA,"FALSE","{PLU}2+{+}{CL}3",NA,"(10·2)+3","EAT","2+3","2+3","2+3",1,5,FALSE
+"248","chig1238-1-24-1","chig1238-1",NA,"twenty-four","24","ɑ̀ːβíɾí néⁱnɑ́","ɑ̀ːβíɾí néⁱnɑ́",NA,"FALSE","{PLU}2+{+}{CL}4",NA,"(10·2)+4","EAT","2+4","2+4","2+4",1,6,FALSE
+"249","chig1238-1-25-1","chig1238-1",NA,"twenty-five","25","ɑ̀ːβíɾí nèⁱtɑ̀ːnó","ɑ̀ːβíɾí nèⁱtɑ̀ːnó",NA,"FALSE","{PLU}2+{+}{CL}5",NA,"(10·2)+5","EAT","2+5","2+5","2+5",1,7,FALSE
+"250","chig1238-1-26-1","chig1238-1",NA,"twenty-six","26","ɑ̀ːβíɾí nɑ̀mùkɑ̂ːɡɑ̀","ɑ̀ːβíɾí nɑ̀mùkɑ̂ːɡɑ̀",NA,"FALSE","{PLU}2+{+}{CL″}6",NA,"(10·2)+(5+1)","EAT","2+6","2+6","2+6",1,8,FALSE
+"251","chig1238-1-27-1","chig1238-1",NA,"twenty-seven","27","ɑ̀ːβíɾí nɑ̀mùʃɑ́ˑⁿʒú","ɑ̀ːβíɾí nɑ̀mùʃɑ́ˑⁿʒú",NA,"FALSE","{PLU}2+{+}{CL″}7",NA,"(10·2)+(5+2)","EAT","2+7","2+7","2+7",1,9,FALSE
+"252","chig1238-1-28-1","chig1238-1",NA,"twenty-eight","28","ɑ̀ːβíɾí nɑ̀mùnɑ́ːnɑ̀","ɑ̀ːβíɾí nɑ̀mùnɑ́ːnɑ̀",NA,"FALSE","{PLU}2+{+}{CL″}4+4",NA,"(10·2)+(5+3)","EAT","2+4+4","2+4+4","2+4+4",1,10,FALSE
+"253","chig1238-1-29-1","chig1238-1",NA,"twenty-nine","29","ɑ̀ːβíɾí nɑ̀mʷèˑⁿdɑ̀","ɑ̀ːβíɾí nɑ̀mʷèˑⁿdɑ̀",NA,"FALSE","{PLU}2+{+}{CL″}9",NA,"(10·2)+(5+4)","EAT","2+9","2+9","2+9",1,11,FALSE
+"254","chig1238-1-30-1","chig1238-1",NA,"thirty","30","ɑ̀ːʃɑ̀tú","ɑ̀ːʃɑ̀tú",NA,"FALSE","{PLU}3","x likely plural marker and ten is ellided","x3","EAT","3","3","3",1,3,FALSE
+"255","chig1238-1-40-1","chig1238-1",NA,"forty","40","ɑ́ːnɑ̀","ɑ́ːnɑ̀",NA,"FALSE","{PLU}4",NA,"x4","EAT","4","4","4",1,4,FALSE
+"256","chig1238-1-50-1","chig1238-1",NA,"fifty","50","ɑ̀ːtɑ̀ːnó","ɑ̀ːtɑ̀ːnó",NA,"FALSE","{PLU}5",NA,"x5","EAT","5","5","5",1,5,FALSE
+"257","chig1238-1-60-1","chig1238-1",NA,"sixty","60","ŋ̩kɑ̂ːɡɑ̀","ŋ̩kɑ̂ːɡɑ̀",NA,"FALSE","{PLU′}6′",NA,"x·(5+1)","EAT","6′","6","6",1,6,FALSE
+"258","chig1238-1-70-1","chig1238-1",NA,"seventy","70","n̩sɑ̀ˑⁿʒú","n̩sɑ̀ˑⁿʒú",NA,"FALSE","{PLU′}7",NA,"x·(5+2)","EAT","7","7","7",1,7,FALSE
+"259","chig1238-1-80-1","chig1238-1",NA,"eighty","80","kìnɑ̂ːnɑ̀","kìnɑ̂ːnɑ̀",NA,"FALSE","{?}4+4",NA,"x·(5+3)","EAT","4+4","4+4","4+4",1,8,FALSE
+"260","chig1238-1-90-1","chig1238-1",NA,"ninety","90","kʸêˑⁿdɑ̀","kʸêˑⁿdɑ̀",NA,"FALSE","{CL}9",NA,"x·(5+4)","EAT","9","9","9",1,9,FALSE
+"261","chok1245-1-30-1","chok1245-1",NA,"thirty","30","mákumi atátù","mákumi atátù",NA,"FALSE","{PLU}10+{PLU}3",NA,"10·3","EAT","10+3","10+3","10+3",1,13,FALSE
+"262","chok1245-1-40-1","chok1245-1",NA,"forty","40","mákumi àwánà","mákumi àwánà",NA,"FALSE","{PLU}10+{PLU}4",NA,"10·4","EAT","10+4","10+4","10+4",1,14,FALSE
+"263","chok1245-1-50-1","chok1245-1",NA,"fifty","50","mákumi àtànò","mákumi àtànò",NA,"FALSE","{PLU}10+{PLU}5",NA,"10·5","EAT","10+5","10+5","10+5",1,15,FALSE
+"264","chok1245-1-60-1","chok1245-1",NA,"sixty","60","mákumi sàmbàno","mákumi sàmbàno",NA,"FALSE","{PLU}10+6",NA,"10·6","EAT","10+6","10+6","10+6",1,16,FALSE
+"265","chok1245-1-70-1","chok1245-1",NA,"seventy","70","mákumi chimbyàlì","mákumi chimbyàlì",NA,"FALSE","{PLU}10+5′+2′",NA,"10·(5+2)","EAT","10+5′+2′","10+5+2","10+5+2",1,17,FALSE
+"266","chok1245-1-80-1","chok1245-1",NA,"eighty","80","mákumi nàkè","mákumi nàkè",NA,"FALSE","{PLU}10+8",NA,"10·8","EAT","10+8","10+8","10+8",1,18,FALSE
+"267","chok1245-1-90-1","chok1245-1",NA,"ninety","90","mákumi lívwe","mákumi lívwe",NA,"FALSE","{PLU}10+[10]−1′",NA,"10·(x-1)","EAT","10+[10]−1′","10+10−1","10+abs(10-1)",1,19,FALSE
+"268","chuk1274-1-15-2","chuk1274-1",NA,"fifteen","15","ithano","ithano",NA,"FALSE","{CL}5′",NA,"{CL}5’","EAT","5′","5","5",1,5,FALSE
+"269","chuk1274-1-16-2","chuk1274-1",NA,"sixteen","16","ithathatû","ithathatû",NA,"FALSE","{CL}3′+3","6 = 2x3?","{CL}6’","EAT","3′+3","3+3","3+3",1,6,FALSE
+"270","chuk1274-1-18-1","chuk1274-1",NA,"eighteen","18","îkûmi na inyanya","îkûmi na inyanya",NA,"FALSE","{CL}10+{+}{CL′}7",NA,"10+(x4)","EAT","10+7","10+7","10+7",1,17,FALSE
+"271","chuk1274-1-19-1","chuk1274-1",NA,"nineteen","19","îkûmi na kenda","îkûmi na kenda",NA,"FALSE","{CL}10+{+}{CL′}4+4",NA,"10+9","EAT","10+4+4","10+4+4","10+4+4",1,18,FALSE
+"272","chuk1274-1-25-2","chuk1274-1",NA,"twenty-five","25","ithano","ithano",NA,"FALSE","{CL}5′",NA,"{CL}5","EAT","5′","5","5",1,5,FALSE
+"273","chuk1274-1-26-2","chuk1274-1",NA,"twenty-six","26","ithathatû","ithathatû",NA,"FALSE","{CL}3′+3",NA,"(10·2)+(x3)","EAT","3′+3","3+3","3+3",1,6,FALSE
+"274","chuk1274-1-50-2","chuk1274-1",NA,"fifty","50","ithano","ithano",NA,"FALSE","{CL}5",NA,"5","EAT","5","5","5",1,5,FALSE
+"275","chuk1274-1-60-2","chuk1274-1",NA,"sixty","60","ithathatû","ithathatû",NA,"FALSE","{CL}3′⋅3",NA,"x3","EAT","3′⋅3","3⋅3","abs(3*3)",1,9,FALSE
+"276","chuk1274-1-60-1","chuk1274-1",NA,"sixty","60","mĩronɡo itatatû","mĩronɡo itatatû",NA,"FALSE","{CL″}10⋅{CL}3′+3″",NA,"10·(x3)","EAT","10⋅3′+3″","10⋅3+3","abs(10*3)+3",1,33,FALSE
+"277","chuk1274-1-80-1","chuk1274-1",NA,"eighty","80","mĩronɡo inyanya","mĩronɡo inyanya",NA,"FALSE","{CL″}10⋅{CL}4+4",NA,"10·(x4)","EAT","10⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"278","digo1243-1-7-1","digo1243-1",NA,"seven","7","sabaa","sabaa",NA,"FALSE","8","( < Sw.)",NA,"EAT","8","8","8",1,8,FALSE
+"279","digo1243-1-14-1","digo1243-1",NA,"fourteen","14","kumi nanɛ","kumi nanɛ",NA,"FALSE","10+{+}4′+4",NA,"10+4","EAT","10+4′+4","10+4+4","10+4+4",1,18,FALSE
+"280","digo1243-1-19-1","digo1243-1",NA,"nineteen","19","kumi na tisa","kumi na tisa",NA,"FALSE","10+{+}5",NA,"10·9","EAT","10+5","10+5","10+5",1,15,FALSE
+"281","digo1243-1-20-2","digo1243-1",NA,"twenty","20","miɾɔŋɡɔ miiɾi","miɾɔŋɡɔ miiɾi",NA,"FALSE","{CL′}10″+{CL′}2","( old)","20·1","EAT","10″+2","10+2","10+2",1,12,FALSE
+"282","digo1243-1-30-2","digo1243-1",NA,"thirty","30","miɾɔŋɡɔ tãhu","miɾɔŋɡɔ tãhu",NA,"FALSE","{CL′}10″+{CL′}3",NA,"10·3","EAT","10″+3","10+3","10+3",1,13,FALSE
+"283","digo1243-1-40-2","digo1243-1",NA,"forty","40","miɾɔŋɡɔ minɛ","miɾɔŋɡɔ minɛ",NA,"FALSE","{CL′}10″+{CL′}4",NA,"10·4","EAT","10″+4","10+4","10+4",1,14,FALSE
+"284","digo1243-1-50-2","digo1243-1",NA,"fifty","50","miɾɔŋɡɔ mitsanɔ","miɾɔŋɡɔ mitsanɔ",NA,"FALSE","{CL′}10″+{CL′}5",NA,"10·5","EAT","10″+5","10+5","10+5",1,15,FALSE
+"285","digo1243-1-60-2","digo1243-1",NA,"sixty","60","miɾɔŋɡɔ mindahe","miɾɔŋɡɔ mindahe",NA,"FALSE","{CL′}10″+{CL′}6",NA,"10·6","EAT","10″+6","10+6","10+6",1,16,FALSE
+"286","digo1243-1-70-2","digo1243-1",NA,"seventy","70","miɾɔŋɡɔ sabaa","miɾɔŋɡɔ sabaa",NA,"FALSE","{CL′}10″+7",NA,"10·7","EAT","10″+7","10+7","10+7",1,17,FALSE
+"287","digo1243-1-80-2","digo1243-1",NA,"eighty","80","miɾɔŋɡɔ minanɛ","miɾɔŋɡɔ minanɛ",NA,"FALSE","{CL′}10″+{CL′}4′+4",NA,"10·(x4)","EAT","10″+4′+4","10+4+4","10+4+4",1,18,FALSE
+"288","digo1243-1-90-2","digo1243-1",NA,"ninety","90","miɾɔŋɡɔ tisa","miɾɔŋɡɔ tisa",NA,"FALSE","{CL′}10″+9",NA,"10·9","EAT","10″+9","10+9","10+9",1,19,FALSE
+"289","digo1243-1-200-2","digo1243-1",NA,"two hundred","200","maɡana maiɾi","maɡana maiɾi",NA,"FALSE","{PLU}100+{PLU}2",NA,"100·2","EAT","100+2","100+2","100+2",1,102,FALSE
+"290","digo1243-1-200-1","digo1243-1",NA,"two hundred","200","mija mbiɾi","mija mbiɾi",NA,"FALSE","{CL′}100+2′",NA,"100·2","EAT","100+2′","100+2","100+2",1,102,FALSE
+"291","duma1253-1-20-1","duma1253-1",NA,"twenty","20","ma-ku m-ɔɔlɛ","ma-ku m-ɔɔlɛ",NA,"FALSE","{CL″}10′+{+}{CL″}2",NA,NA,"EAT","10′+2","10+2","10+2",1,12,FALSE
+"292","duma1253-1-21-1","duma1253-1",NA,"twenty-one","21","ma-ku m-ɔɔlɛ na -mɔ","ma-ku m-ɔɔlɛ na -mɔ",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}1",NA,NA,"EAT","(10′+2)+1","(10+2)+1","abs(10+2)+1",1,13,FALSE
+"293","duma1253-1-22-1","duma1253-1",NA,"twenty-two","22","ma-ku m-ɔɔlɛ na -ɔɔlɛ","ma-ku m-ɔɔlɛ na -ɔɔlɛ",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}2",NA,NA,"EAT","(10′+2)+2","(10+2)+2","abs(10+2)+2",1,14,FALSE
+"294","duma1253-1-23-1","duma1253-1",NA,"twenty-three","23","ma-ku m-ɔɔlɛ na -tatu","ma-ku m-ɔɔlɛ na -tatu",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}3",NA,NA,"EAT","(10′+2)+3","(10+2)+3","abs(10+2)+3",1,15,FALSE
+"295","duma1253-1-24-1","duma1253-1",NA,"twenty-four","24","ma-ku m-ɔɔlɛ na -na","ma-ku m-ɔɔlɛ na -na",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}4",NA,NA,"EAT","(10′+2)+4","(10+2)+4","abs(10+2)+4",1,16,FALSE
+"296","duma1253-1-25-1","duma1253-1",NA,"twenty-five","25","ma-ku m-ɔɔlɛ na -taanu","ma-ku m-ɔɔlɛ na -taanu",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}5",NA,NA,"EAT","(10′+2)+5","(10+2)+5","abs(10+2)+5",1,17,FALSE
+"297","duma1253-1-26-1","duma1253-1",NA,"twenty-six","26","ma-ku m-ɔɔlɛ na -samunu","ma-ku m-ɔɔlɛ na -samunu",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}6",NA,"({CL”}10’+{+}{CL”}2)+{+}5’+1’","EAT","(10′+2)+6","(10+2)+6","abs(10+2)+6",1,18,FALSE
+"298","duma1253-1-27-1","duma1253-1",NA,"twenty-seven","27","ma-ku m-ɔɔlɛ na t͡saambu","ma-ku m-ɔɔlɛ na t͡saambu",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}7",NA,"({CL”}10’+{+}{CL”}2)+{+}5”+2’","EAT","(10′+2)+7","(10+2)+7","abs(10+2)+7",1,19,FALSE
+"299","duma1253-1-27-1","duma1253-1",NA,"twenty-seven","27","ma-ku m-ɔɔlɛ na t͡saambu","ma-ku m-ɔɔlɛ na t͡saambu",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}7","form for 7 likely derived",NA,"EAT","(10′+2)+7","(10+2)+7","abs(10+2)+7",1,19,FALSE
+"300","duma1253-1-28-1","duma1253-1",NA,"twenty-eight","28","ma-ku m-ɔɔlɛ na pwɔmbɔ","ma-ku m-ɔɔlɛ na pwɔmbɔ",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}8",NA,NA,"EAT","(10′+2)+8","(10+2)+8","abs(10+2)+8",1,20,FALSE
+"301","duma1253-1-29-1","duma1253-1",NA,"twenty-nine","29","ma-ku m-ɔɔlɛ na li-bwa","ma-ku m-ɔɔlɛ na li-bwa",NA,"FALSE","({CL″}10′+{+}{CL″}2)+{+}{CL?}9",NA,NA,"EAT","(10′+2)+9","(10+2)+9","abs(10+2)+9",1,21,FALSE
+"302","duma1253-1-30-1","duma1253-1",NA,"thirty","30","ma-ku ma-saatu","ma-ku ma-saatu",NA,"FALSE","{CL″}10′+{CL″}3",NA,NA,"EAT","10′+3","10+3","10+3",1,13,FALSE
+"303","duma1253-1-40-1","duma1253-1",NA,"forty","40","ma-ku ma-nayi","ma-ku ma-nayi",NA,"FALSE","{CL″}10′+{CL″}4",NA,NA,"EAT","10′+4","10+4","10+4",1,14,FALSE
+"304","duma1253-1-50-1","duma1253-1",NA,"fifty","50","ma-ku ma-taani","ma-ku ma-taani",NA,"FALSE","{CL″}10′+{CL″}5",NA,NA,"EAT","10′+5","10+5","10+5",1,15,FALSE
+"305","duma1253-1-60-1","duma1253-1",NA,"sixty","60","ma-ku ma-samunu","ma-ku ma-samunu",NA,"FALSE","{CL″}10′+{CL″}6",NA,"{CL”}10’+{CL”}5’+1'","EAT","10′+6","10+6","10+6",1,16,FALSE
+"306","duma1253-1-70-1","duma1253-1",NA,"seventy","70","ma-ku t͡saambu","ma-ku t͡saambu",NA,"FALSE","{CL″}10′+7",NA,"{CL”}10’+{CL”}5”+1”","EAT","10′+7","10+7","10+7",1,17,FALSE
+"307","duma1253-1-80-1","duma1253-1",NA,"eighty","80","ma-ku pwɔmbɔ","ma-ku pwɔmbɔ",NA,"FALSE","{CL″}10′+8",NA,NA,"EAT","10′+8","10+8","10+8",1,18,FALSE
+"308","duma1253-1-90-1","duma1253-1",NA,"ninety","90","ma-ku li-bwa","ma-ku li-bwa",NA,"FALSE","{CL″}10′+{CL?}9",NA,NA,"EAT","10′+9","10+9","10+9",1,19,FALSE
+"309","duma1253-1-200-1","duma1253-1",NA,"two hundred","200","mi-kama my-ɔɔlɛ","mi-kama my-ɔɔlɛ",NA,"FALSE","{CL‴}100⋅{CL‴}100",NA,NA,"EAT","100⋅100","100⋅100","abs(100*100)",1,10000,FALSE
+"310","embu1241-1-60-1","embu1241-1",NA,"sixty","60","mironɡo ithathatu","mironɡo ithathatu",NA,"FALSE","{CL″}10′⋅{CL}3′+3",NA,"10·(x3)","EAT","10′⋅3′+3","10⋅3+3","abs(10*3)+3",1,33,FALSE
+"311","embu1241-1-60-1","embu1241-1",NA,"sixty","60","mironɡo ithathatu","mironɡo ithathatu",NA,"FALSE","{CL″}10′⋅{CL}3′+3",NA,"10·(3x)","EAT","10′⋅3′+3","10⋅3+3","abs(10*3)+3",1,33,FALSE
+"312","embu1241-1-80-1","embu1241-1",NA,"eighty","80","mironɡo inyanya","mironɡo inyanya",NA,"FALSE","{CL″}10′⋅{CL}4′+4′",NA,"10·8","EAT","10′⋅4′+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"313","embu1241-1-100-1","embu1241-1",NA,"one hundred","100","iɡana","iɡana",NA,"FALSE","{CL}10",NA,"100","EAT","10","10","10",1,10,FALSE
+"314","embu1241-1-200-1","embu1241-1",NA,"two hundred","200","maɡana meri","maɡana meri",NA,"FALSE","{CL‴}10⋅{CL‴}2′",NA,"100·2","EAT","10⋅2′","10⋅2","abs(10*2)",1,20,FALSE
+"315","eton1253-1-200-1","eton1253-1",NA,"two hundred","200","mì-ntɛ̀d mí-bá","mì-ntɛ̀d mí-bá",NA,"FALSE","{CL⁗}100",NA,"100·2","EAT","100","100","100",1,100,FALSE
+"316","ewon1239-1-1000-1","ewon1239-1",NA,"one thousand","1000","tɔ́ɡsìn","tɔ́ɡsìn",NA,"FALSE","100",NA,"1000","EAT","100","100","100",1,100,FALSE
+"317","gusi1247-1-1000-1","gusi1247-1",NA,"one thousand","1000","eɾiβu ɛjɛmɔ","eɾiβu ɛjɛmɔ",NA,"FALSE","{CL″}100⋅{CL}2","( 'ɾiβu' < Austronesian ?)","1000 · 1","EAT","100⋅2","100⋅2","abs(100*2)",1,200,FALSE
+"318","gusi1247-1-2000-1","gusi1247-1",NA,"two thousand","2000","tʃɾiβu iβeɾe","tʃɾiβu iβeɾe",NA,"FALSE","{CL″″}100⋅{CL′}2",NA,"1000 · 2","EAT","100⋅2","100⋅2","abs(100*2)",1,200,FALSE
+"319","gwer1238-1-10-1","gwer1238-1",NA,"ten","10","íkùmí","íkùmí",NA,"FALSE","{CL}9",NA,NA,"EAT","9","9","9",1,9,FALSE
+"320","haaa1252-1-40-1","haaa1252-1",NA,"forty","40","mirooŋɡo inné","mirooŋɡo inné",NA,"FALSE","{CL″″″}10⋅{CL‴}5",NA,NA,"EAT","10⋅5","10⋅5","abs(10*5)",1,50,FALSE
+"321","here1253-1-1-1","here1253-1",NA,"one","1","-mwe","-mwe",NA,"FALSE","2",NA,"1","EAT","2","2","2",1,2,FALSE
+"322","hung1278-1-60-1","hung1278-1",NA,"sixty","60","mákum másámwán","mákum másámwán",NA,"FALSE","{CL′}10′⋅{CL′}5′+1′",NA,NA,"EAT","10′⋅5′+1′","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"323","hung1278-1-70-1","hung1278-1",NA,"seventy","70","mákum má sámbwár","mákum má sámbwár",NA,"FALSE","{CL′}10′⋅{CL′}5′+2′",NA,NA,"EAT","10′⋅5′+2′","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"324","ikom1245-1-80-1","ikom1245-1",NA,"eighty","80","muɾoᵑɡo enane","muɾoᵑɡo enane",NA,"FALSE","{CL″}10⋅{CL″}4′+4",NA,NA,"EAT","10⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"325","jita1239-2-80-1","jita1239-2",NA,"eighty","80","makumi munana","makumi munana",NA,"FALSE","{CL‴}10⋅{CL′}4+4",NA,NA,"EAT","10⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"326","kagu1239-1-2000-1","kagu1239-1",NA,"two thousand","2000","elfu mbili","elfu mbili",NA,"FALSE","1000′⋅2{CL‴}2","EDITED: “elfu mbili or dole mbili”",NA,"EAT","1000′⋅22","1000⋅22","abs(1000*22)",1,22000,FALSE
+"327","kako1242-1-1000-1","kako1242-1",NA,"one thousand","1000","tɔmay","tɔmay",NA,"FALSE","{CL″}100","(orː mil wɛtɛ)","1000","EAT","100","100","100",1,100,FALSE
+"328","kamb1297-1-80-1","kamb1297-1",NA,"eighty","80","mɪ̃̀rɔnɡɔ́ èɲaɲá","mɪ̃̀rɔnɡɔ́ èɲaɲá",NA,"FALSE","{CL″}10′⋅{CL‴}4+4",NA,NA,"EAT","10′⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"329","kany1247-1-60-1","kany1247-1",NA,"sixty","60","makùmy musamban","makùmy musamban",NA,"FALSE","{CL‴}10⋅{CL′}5′+1′",NA,NA,"EAT","10⋅5′+1′","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"330","kany1247-1-70-1","kany1247-1",NA,"seventy","70","makùmy sàmbwiibìdy","makùmy sàmbwiibìdy",NA,"FALSE","{CL‴}10⋅5″+2",NA,NA,"EAT","10⋅5″+2","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"331","kany1247-1-200-1","kany1247-1",NA,"two hundred","200","nkàm ìbìdy or bitoot bìbìdy","nkàm ìbìdy or bitoot bìbìdy",NA,"FALSE","{CL‴}100⋅100",NA,NA,"EAT","100⋅100","100⋅100","abs(100*100)",1,10000,FALSE
+"332","kele1257-1-9-1","kele1257-1",NA,"nine","9","tánùnàbìnáyì","tánùnàbìnáyì",NA,"FALSE","5′+{+}{CL}3",NA,"5 + 4","EAT","5′+3","5+3","5+3",1,8,FALSE
+"333","kele1257-2-16-1","kele1257-2",NA,"sixteen","16","dyómúnàtâꜜnáꜛwōtō","dyómúnàtâꜜnáꜛwōtō",NA,"FALSE","10+{+}+{+}1",NA,NA,"EAT","10++1","10++1","10++1",1,11,FALSE
+"334","kele1257-2-17-1","kele1257-2",NA,"seventeen","17","dyómúnàbítânàbíbá","dyómúnàbítânàbíbá",NA,"FALSE","10+{+}+{+}2",NA,NA,"EAT","10++2","10++2","10++2",1,12,FALSE
+"335","kele1257-2-18-1","kele1257-2",NA,"eighteen","18","dyómúnàbítânàbílálù","dyómúnàbítânàbílálù",NA,"FALSE","10+{+}+{+}3′",NA,NA,"EAT","10++3′","10++3","10++3",1,13,FALSE
+"336","kele1257-2-19-1","kele1257-2",NA,"nineteen","19","dyómúnàbítânàbínà","dyómúnàbítânàbínà",NA,"FALSE","10+{+}+{+}4",NA,NA,"EAT","10++4","10++4","10++4",1,14,FALSE
+"337","kere1283-1-6-1","kere1283-1",NA,"six","6","mu.kaɡa","mu.kaɡa",NA,"FALSE","{CL}7",NA,NA,"EAT","7","7","7",1,7,FALSE
+"338","kere1283-1-7-1","kere1283-1",NA,"seven","7","mu.saanzu","mu.saanzu",NA,"FALSE","{CL}8",NA,NA,"EAT","8","8","8",1,8,FALSE
+"339","kere1283-1-26-1","kere1283-1",NA,"twenty-six","26","ma.kumi a.βili na mu.kaɡa","ma.kumi a.βili na mu.kaɡa",NA,"FALSE","({CL′}10⋅{?}2)+{+}{CL}5",NA,NA,"EAT","(10⋅2)+5","(10⋅2)+5","abs(abs(10*2))+5",1,25,FALSE
+"340","kere1283-1-27-1","kere1283-1",NA,"twenty-seven","27","ma.kumi a.βili na mu.saanzu","ma.kumi a.βili na mu.saanzu",NA,"FALSE","({CL′}10⋅{?}2)+{+}{CL}6",NA,NA,"EAT","(10⋅2)+6","(10⋅2)+6","abs(abs(10*2))+6",1,26,FALSE
+"341","kere1283-1-80-1","kere1283-1",NA,"eighty","80","ma.kumi mu.nana","ma.kumi mu.nana",NA,"FALSE","{CL′}10⋅{CL}4+4",NA,NA,"EAT","10⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"342","kiku1240-1-60-1","kiku1240-1",NA,"sixty","60","mèrɔnɡɔ́ èðaðató","mèrɔnɡɔ́ èðaðató",NA,"FALSE","{CL″}10⋅{CL}3′+3",NA,"10·(x3)","EAT","10⋅3′+3","10⋅3+3","abs(10*3)+3",1,33,FALSE
+"343","kimb1241-2-9-1","kimb1241-2",NA,"nine","9","divwe","divwe",NA,"FALSE","{CL}1",NA,"9","EAT","1","1","1",1,1,FALSE
+"344","komo1260-1-14-2","komo1260-1",NA,"fourteen","14","nkámá na","nkámá na",NA,"FALSE","10+{+}5",NA,NA,"EAT","10+5","10+5","10+5",1,15,FALSE
+"345","komo1260-1-80-1","komo1260-1",NA,"eighty","80","nkámá monánɛ","nkámá monánɛ",NA,"FALSE","10⋅{CL}4+4′",NA,NA,"EAT","10⋅4+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"346","koon1244-2-2-1","koon1244-2",NA,"two","2","zòólè","zòólè",NA,"FALSE","3",NA,"2","EAT","3","3","3",1,3,FALSE
+"347","kund1255-1-15-1","kund1255-1",NA,"fifteen","15","kʰumi na -sano","kʰumi na -sano",NA,"FALSE","10+{and}4",NA,"10 + 5","EAT","10+4","10+4","10+4",1,14,FALSE
+"348","kuri1259-1-17-1","kuri1259-1",NA,"seventeen","17","ikumi na muhungathe","ikumi na muhungathe",NA,"FALSE","{CL}10+{+}{CL′}6",NA,NA,"EAT","10+6","10+6","10+6",1,16,FALSE
+"349","kwak1266-1-70-1","kwak1266-1",NA,"seventy","70","kàːŋɡ ì tàmbárʲɛ̀","kàːŋɡ ì tàmbárʲɛ̀",NA,"FALSE","10′⋅{CL}5+2′",NA,NA,"EAT","10′⋅5+2′","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"350","kwan1273-1-2000-1","kwan1273-1",NA,"two thousand","2000","mayuvi nomronɡo","mayuvi nomronɡo",NA,"FALSE","{CL‴}100⋅{CL}10",NA,"1000 · 2","EAT","100⋅10","100⋅10","abs(100*10)",1,1000,FALSE
+"351","lang1320-1-80-1","lang1320-1",NA,"eighty","80","makími janâːnɛ","makími janâːnɛ",NA,"FALSE","{CL″}10⋅{CL″″}4′+4",NA,NA,"EAT","10⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"352","lang1320-1-2000-1","lang1320-1",NA,"two thousand","2000","majaːnda javɪɾɪ","majaːnda javɪɾɪ",NA,"FALSE","{CL″}1000⋅{CL‴}1",NA,NA,"EAT","1000⋅1","1000⋅1","abs(1000*1)",1,1000,FALSE
+"353","lang1320-2-70-1","lang1320-2",NA,"seventy","70","makumi mʊfʊŋɡatɛ","makumi mʊfʊŋɡatɛ",NA,"FALSE","{CL″}10⋅{CL′}6",NA,NA,"EAT","10⋅6","10⋅6","abs(10*6)",1,60,FALSE
+"354","lang1320-2-80-1","lang1320-2",NA,"eighty","80","makumi saba","makumi saba",NA,"FALSE","{CL″}10⋅7",NA,NA,"EAT","10⋅7","10⋅7","abs(10*7)",1,70,FALSE
+"355","lang1320-2-90-1","lang1320-2",NA,"ninety","90","makumi kɛnda","makumi kɛnda",NA,"FALSE","{CL″}10⋅8",NA,NA,"EAT","10⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"356","lang1320-2-100-1","lang1320-2",NA,"one hundred","100","makumi ikimi","makumi ikimi",NA,"FALSE","{CL″}10⋅{CL}9",NA,NA,"EAT","10⋅9","10⋅9","abs(10*9)",1,90,FALSE
+"357","meru1245-1-16-1","meru1245-1",NA,"sixteen","16","ekomi na itanðato / iðanðato","ekomi na itanðato",NA,"FALSE","{CL}10+[+]{CL′}5",NA,NA,"EAT","10+[+]5","10++5","10++5",1,15,FALSE
+"358","meru1245-2-80-1","meru1245-2",NA,"eighty","80","mîronɡo înaana","mîronɡo înaana",NA,"FALSE","{CL″}10⋅{CL}4+4",NA,NA,"EAT","10⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"359","meta1238-1-100-1","meta1238-1",NA,"one hundred","100","íkɨ̀","íkɨ̀",NA,"FALSE","{CL}10",NA,NA,"EAT","10","10","10",1,10,FALSE
+"360","meta1238-1-200-1","meta1238-1",NA,"two hundred","200","ákɨ̀ ábē","ákɨ̀ ábē",NA,"FALSE","{CL}10⋅{CL′}2",NA,NA,"EAT","10⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"361","meta1238-1-2000-1","meta1238-1",NA,"two thousand","2000","ákám ábē","ákám ábē",NA,"FALSE","{CL′}1000′⋅12",NA,NA,"EAT","1000′⋅12","1000⋅12","abs(1000*12)",1,12000,FALSE
+"362","meta1238-2-2000-1","meta1238-2",NA,"two thousand","2000","ákám ábē","ákám ábē",NA,"FALSE","{CL′}1000′⋅1′",NA,NA,"EAT","1000′⋅1′","1000⋅1","abs(1000*1)",1,1000,FALSE
+"363","mpie1238-2-60-1","mpie1238-2",NA,"sixty","60","mɛkaa taáni nɛ nɡuatɔ","mɛkaa taáni nɛ nɡuatɔ",NA,"FALSE","({CL′}10⋅5)+{and}1",NA,"10 · (5 + 1)","EAT","(10⋅5)+1","(10⋅5)+1","abs(abs(10*5))+1",1,51,FALSE
+"364","mpie1238-2-70-1","mpie1238-2",NA,"seventy","70","mɛkaa taáni nɛ ɓá","mɛkaa taáni nɛ ɓá",NA,"FALSE","({CL′}10⋅5)+{and}2",NA,"10 · (5 + 2)","EAT","(10⋅5)+2","(10⋅5)+2","abs(abs(10*5))+2",1,52,FALSE
+"365","mpie1238-2-80-1","mpie1238-2",NA,"eighty","80","mɛkaa taáni nɛ laali","mɛkaa taáni nɛ laali",NA,"FALSE","({CL′}10⋅5)+{and}3",NA,"10 · (5 + 3)","EAT","(10⋅5)+3","(10⋅5)+3","abs(abs(10*5))+3",1,53,FALSE
+"366","mpie1238-2-90-1","mpie1238-2",NA,"ninety","90","mɛkaa taáni nɛ nán","mɛkaa taáni nɛ nán",NA,"FALSE","({CL′}10⋅5)+{and}4",NA,"10 · (5 + 4)","EAT","(10⋅5)+4","(10⋅5)+4","abs(abs(10*5))+4",1,54,FALSE
+"367","mpuo1241-1-70-1","mpuo1241-1",NA,"seventy","70","makub nsámwɛ̂ːn","makub nsámwɛ̂ːn",NA,"FALSE","{CL″}10⋅{CL″}6′+1′",NA,NA,"EAT","10⋅6′+1′","10⋅6+1","abs(10*6)+1",1,61,FALSE
+"368","mpuo1241-1-80-1","mpuo1241-1",NA,"eighty","80","makub mánán","makub mánán",NA,"FALSE","{CL″}10⋅{CL″}[4]+4′",NA,NA,"EAT","10⋅[4]+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"369","mpuo1241-2-21-1","mpuo1241-2",NA,"twenty-one","21","akǔm mwɔl ɪ mwɛ́s","akǔm mwɔl ɪ mwɛ́s",NA,"FALSE","{CL′}10+{and}1",NA,NA,"EAT","10+1","10+1","10+1",1,11,FALSE
+"370","mpuo1241-2-70-1","mpuo1241-2",NA,"seventy","70","akǔm nsámwân","akǔm nsámwân",NA,"FALSE","{CL′}10⋅{CL′}6+1′",NA,NA,"EAT","10⋅6+1′","10⋅6+1","abs(10*6)+1",1,61,FALSE
+"371","mpuo1241-2-80-1","mpuo1241-2",NA,"eighty","80","akǔm iɪnǎn","akǔm iɪnǎn",NA,"FALSE","{CL′}10⋅{CL′}[4]+4′",NA,NA,"EAT","10⋅[4]+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"372","mpuo1241-3-21-1","mpuo1241-3",NA,"twenty-one","21","makwǐm mɔːl ɛ mwɛ́s","makwǐm mɔːl ɛ mwɛ́s",NA,"FALSE","{CL′}10+{and}1",NA,NA,"EAT","10+1","10+1","10+1",1,11,FALSE
+"373","mpuo1241-3-70-1","mpuo1241-3",NA,"seventy","70","makwǐm nsámwɛ̂ːn","makwǐm nsámwɛ̂ːn",NA,"FALSE","{CL′}10⋅{CL′}6+1′",NA,NA,"EAT","10⋅6+1′","10⋅6+1","abs(10*6)+1",1,61,FALSE
+"374","mpuo1241-3-80-1","mpuo1241-3",NA,"eighty","80","makwǐm ɛ́nán","makwǐm ɛ́nán",NA,"FALSE","{CL′}10⋅{CL′}[4]+4′",NA,NA,"EAT","10⋅[4]+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"375","mung1266-1-200-1","mung1266-1",NA,"two hundred","200","ŋkʉ̤̀ ibáā","ŋkʉ̤̀ ibáā",NA,"FALSE","100⋅{CL}1",NA,NA,"EAT","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"376","ndas1238-1-90-1","ndas1238-1",NA,"ninety","90","ma-ku i-vwa","ma-ku i-vwa",NA,"FALSE","{CL″}10⋅{CL}8",NA,NA,"EAT","10⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"377","nden1248-1-200-1","nden1248-1",NA,"two hundred","200","mia ibeele","mia ibeele",NA,"FALSE","100⋅{CL}1",NA,NA,"EAT","100⋅1","100⋅1","abs(100*1)",1,100,FALSE
+"378","ngaz1238-1-19-1","ngaz1238-1",NA,"nineteen","19","kume na ʃenɗa","kume na ʃenɗa",NA,"FALSE","10+{and}5",NA,NA,"EAT","10+5","10+5","10+5",1,15,FALSE
+"379","ngaz1238-1-80-1","ngaz1238-1",NA,"eighty","80","meŋɡo minane","meŋɡo minane",NA,"FALSE","{CL}10′⋅{CL}4′+4",NA,NA,"EAT","10′⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"380","nila1242-1-1000-1","nila1242-1",NA,"one thousand","1000","ɡana lya nzoɡu","ɡana lya nzoɡu",NA,"FALSE","100⋅[⋅]10",NA,NA,"EAT","100⋅[⋅]10","100⋅⋅10","100**10",1,100000000000000000000,FALSE
+"381","nila1242-1-2000-1","nila1242-1",NA,"two thousand","2000","maɡana manzoɡu mabeli","maɡana manzoɡu mabeli",NA,"FALSE","{CL‴}100⋅[⋅]{CL″″}10",NA,NA,"EAT","100⋅[⋅]10","100⋅⋅10","100**10",1,100000000000000000000,FALSE
+"382","nkoy1244-1-26-1","nkoy1244-1",NA,"twenty-six","26","makumi abili na mutanu na kamo","makumi abili na mutanu na kamo",NA,"FALSE","({CL‴}10⋅{CL″″}2)+[+]6+{and}1",NA,"(10 · 2) + (5 + 1)","EAT","(10⋅2)+[+]6+1","(10⋅2)++6+1","abs(abs(10*2))++6+1",1,27,FALSE
+"383","nkoy1244-1-27-1","nkoy1244-1",NA,"twenty-seven","27","makumi abili na mutanu na tubili","makumi abili na mutanu na tubili",NA,"FALSE","({CL‴}10⋅{CL″″}2)+[+]6+{and}{CL}2",NA,"(10 · 2) + (5 + 2)","EAT","(10⋅2)+[+]6+2","(10⋅2)++6+2","abs(abs(10*2))++6+2",1,28,FALSE
+"384","nkoy1244-1-28-1","nkoy1244-1",NA,"twenty-eight","28","makumi abili na mutanu na tahatu","makumi abili na mutanu na tahatu",NA,"FALSE","({CL‴}10⋅{CL″″}2)+[+]6+{and}{CL}3",NA,"(10 · 2) + (5 + 3)","EAT","(10⋅2)+[+]6+3","(10⋅2)++6+3","abs(abs(10*2))++6+3",1,29,FALSE
+"385","nkoy1244-1-29-1","nkoy1244-1",NA,"twenty-nine","29","makumi abili na mutanu na tuna","makumi abili na mutanu na tuna",NA,"FALSE","({CL‴}10⋅{CL″″}2)+[+]6+{and}{CL}4",NA,"(10 · 2) + (5 + 4)","EAT","(10⋅2)+[+]6+4","(10⋅2)++6+4","abs(abs(10*2))++6+4",1,30,FALSE
+"386","nugu1242-1-30-1","nugu1242-1",NA,"thirty","30","nitíno na sɛ́ɔdɔ","nitíno na sɛ́ɔdɔ",NA,"FALSE","10+{and}10",NA,NA,"EAT","10+10","10+10","10+10",1,20,FALSE
+"387","nugu1242-1-40-1","nugu1242-1",NA,"forty","40","atíno áhaandɛ","atíno áhaandɛ",NA,"FALSE","{CL′}10⋅{CL′}2","( 'two twenties')",NA,"EAT","10⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"388","nugu1242-1-50-1","nugu1242-1",NA,"fifty","50","atíno áhaandɛ na sɛ́ɔdɔ","atíno áhaandɛ na sɛ́ɔdɔ",NA,"FALSE","({CL′}10⋅{CL′}2)+{and}10",NA,NA,"EAT","(10⋅2)+10","(10⋅2)+10","abs(abs(10*2))+10",1,30,FALSE
+"389","nugu1242-1-60-1","nugu1242-1",NA,"sixty","60","atíno ádadɔ","atíno ádadɔ",NA,"FALSE","{CL′}10⋅{CL′}4","( 'three twenties')",NA,"EAT","10⋅4","10⋅4","abs(10*4)",1,40,FALSE
+"390","nugu1242-1-70-1","nugu1242-1",NA,"seventy","70","atíno ádadɔ na sɛ́ɔdɔ","atíno ádadɔ na sɛ́ɔdɔ",NA,"FALSE","({CL′}10⋅{CL′}4)+{and}10",NA,NA,"EAT","(10⋅4)+10","(10⋅4)+10","abs(abs(10*4))+10",1,50,FALSE
+"391","nugu1242-1-80-1","nugu1242-1",NA,"eighty","80","atíno énni","atíno énni",NA,"FALSE","{CL′}10⋅{CL′}5","( 'four twenties')",NA,"EAT","10⋅5","10⋅5","abs(10*5)",1,50,FALSE
+"392","nugu1242-1-90-1","nugu1242-1",NA,"ninety","90","atíno énni na sɛ́ɔdɔ","atíno énni na sɛ́ɔdɔ",NA,"FALSE","({CL′}10⋅{CL′}5)+{and}10",NA,NA,"EAT","(10⋅5)+10","(10⋅5)+10","abs(abs(10*5))+10",1,60,FALSE
+"393","nyal1250-1-22-1","nyal1250-1",NA,"twenty-two","22","makumi kahili na kahili","makumi kahili na kahili",NA,"FALSE","{CL′}10⋅{CL″}2",NA,NA,"EAT","10⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"394","nyam1276-1-6-1","nyam1276-1",NA,"six","6","handatu","handatu",NA,"FALSE","3′⋅3","elsewhere - tan dat = leave three members","x3","EAT","3′⋅3","3⋅3","abs(3*3)",1,9,FALSE
+"395","nyam1276-1-16-1","nyam1276-1",NA,"sixteen","16","ikumi ni handatu","ikumi ni handatu",NA,"FALSE","{CL}10+{and}(3′⋅3)",NA,"10 + x3","EAT","10+(3′⋅3)","10+(3⋅3)","10+abs(abs(3*3))",1,19,FALSE
+"396","nyam1276-1-26-1","nyam1276-1",NA,"twenty-six","26","makumi abili ni handatu","makumi abili ni handatu",NA,"FALSE","({CL′}10⋅{CL′}2)+{and}(3⋅3)",NA,"(10 · 2) + x3","EAT","(10⋅2)+(3⋅3)","(10⋅2)+(3⋅3)","abs(abs(10*2))+abs(abs(3*3))",1,29,FALSE
+"397","nyam1276-1-60-1","nyam1276-1",NA,"sixty","60","makumi handatu","makumi handatu",NA,"FALSE","{CL′}10⋅{CL′}3′⋅3",NA,"10 · x3","EAT","10⋅3′⋅3","10⋅3⋅3","abs(10*3)*3",1,90,FALSE
+"398","nyan1307-1-80-1","nyan1307-1",NA,"eighty","80","kìnɑ̂ːnɑ̀","kìnɑ̂ːnɑ̀",NA,"FALSE","[10]⋅{CL″″}4′+4",NA,NA,"EAT","[10]⋅4′+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"399","nyan1307-2-80-1","nyan1307-2",NA,"eighty","80","kinaana","kinaana",NA,"FALSE","[10]⋅{CL‴}4+4",NA,NA,"EAT","[10]⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"400","nyat1246-1-80-1","nyat1246-1",NA,"eighty","80","makumi monana","makumi monana",NA,"FALSE","{CL″″}10⋅{CL″}4+4",NA,NA,"EAT","10⋅4+4","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"401","nyat1246-1-2000-1","nyat1246-1",NA,"two thousand","2000","alufu ivere","alufu ivere",NA,"FALSE","{CL″‴}1000⋅{CL′}1",NA,NA,"EAT","1000⋅1","1000⋅1","abs(1000*1)",1,1000,FALSE
+"402","okuu1243-1-23-1","okuu1243-1",NA,"twenty-three","23","ndʒio sə baa m̩baa","ndʒio sə baa m̩baa",NA,"FALSE","1+20",NA,NA,"EAT","1+20","1+20","1+20",1,21,FALSE
+"403","omba1241-1-2-1","omba1241-1",NA,"two","2","d͡ʒʷɛ́lɛ́","d͡ʒʷɛ́lɛ́",NA,"FALSE","3",NA,NA,"EAT","3","3","3",1,3,FALSE
+"404","omba1241-1-3-1","omba1241-1",NA,"three","3","tárí","tárí",NA,"FALSE","4",NA,NA,"EAT","4","4","4",1,4,FALSE
+"405","omba1241-1-4-1","omba1241-1",NA,"four","4","nà","nà",NA,"FALSE","5",NA,NA,"EAT","5","5","5",1,5,FALSE
+"406","omba1241-1-5-1","omba1241-1",NA,"five","5","táání","táání",NA,"FALSE","6",NA,"5","EAT","6","6","6",1,6,FALSE
+"407","orok1266-1-22-1","orok1266-1",NA,"twenty-two","22","ɾó nà béèbɛ́","ɾó nà béèbɛ́",NA,"FALSE","20+{and}{CL′}3",NA,NA,"EAT","20+3","20+3","20+3",1,23,FALSE
+"408","pagi1243-2-40-1","pagi1243-2",NA,"forty","40","ⁿtúkú mínɛ","ⁿtúkú mínɛ",NA,"FALSE","10′⋅{CL″}3",NA,"10·4","EAT","10′⋅3","10⋅3","abs(10*3)",1,30,FALSE
+"409","pagi1243-2-1000-1","pagi1243-2",NA,"one thousand","1000","ᵑkɔ́tɔ jɔ́kɔ́","ᵑkɔ́tɔ jɔ́kɔ́",NA,"FALSE","100⋅1′",NA,"1000","EAT","100⋅1′","100⋅1","abs(100*1)",1,100,FALSE
+"410","pagi1243-2-2000-1","pagi1243-2",NA,"two thousand","2000","ᵑkɔ́tɔ iɓale","ᵑkɔ́tɔ iɓale",NA,"FALSE","100⋅{CL‴}2",NA,"1000·2","EAT","100⋅2","100⋅2","abs(100*2)",1,200,FALSE
+"411","phen1239-2-1000-1","phen1239-2",NA,"one thousand","1000","kinuni mosi","kinuni mosi",NA,"FALSE","{CL″‴}1000⋅{CL″″}2",NA,"1000","EAT","1000⋅2","1000⋅2","abs(1000*2)",1,2000,FALSE
+"412","pinj1243-1-80-1","pinj1243-1",NA,"eighty","80","(dì)ndzìmá ɣènânà","(dì)ndzìmá ɣènânà",NA,"FALSE","{CL′}10⋅{CL′}4′+4′",NA,"10·(x4)","EAT","10⋅4′+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"413","pinj1243-1-200-1","pinj1243-1",NA,"two hundred","200","kámà dìbàlè","kámà dìbàlè",NA,"FALSE","1000⋅{CL′}2",NA,"100·2","EAT","1000⋅2","1000⋅2","abs(1000*2)",1,2000,FALSE
+"414","poko1261-1-30-1","poko1261-1",NA,"thirty","30","miyonɡo mhahu","miyonɡo mhahu",NA,"FALSE","{CL′}10+{and}{CL′}3",NA,"10·3","EAT","10+3","10+3","10+3",1,13,FALSE
+"415","poko1261-1-40-1","poko1261-1",NA,"forty","40","miyonɡo mine","miyonɡo mine",NA,"FALSE","{CL′}10+{and}{CL′}4",NA,"10·4","EAT","10+4","10+4","10+4",1,14,FALSE
+"416","poko1261-1-50-1","poko1261-1",NA,"fifty","50","miyonɡo mitsano","miyonɡo mitsano",NA,"FALSE","{CL′}10+{and}{CL′}5",NA,"10·5","EAT","10+5","10+5","10+5",1,15,FALSE
+"417","poko1261-1-60-1","poko1261-1",NA,"sixty","60","miyonɡo mihandahu","miyonɡo mihandahu",NA,"FALSE","{CL′}10+{and}{CL′}6",NA,"10·3x)","EAT","10+6","10+6","10+6",1,16,FALSE
+"418","poko1261-1-70-1","poko1261-1",NA,"seventy","70","miyonɡo mifunɡahe","miyonɡo mifunɡahe",NA,"FALSE","{CL′}10+{and}{CL′}7",NA,"10·7?","EAT","10+7","10+7","10+7",1,17,FALSE
+"419","poko1261-1-80-1","poko1261-1",NA,"eighty","80","miyonɡo minane","miyonɡo minane",NA,"FALSE","{CL′}10+{and}{CL′}4′+4",NA,"10·(x4)","EAT","10+4′+4","10+4+4","10+4+4",1,18,FALSE
+"420","poko1261-1-90-1","poko1261-1",NA,"ninety","90","miyonɡo kenda","miyonɡo kenda",NA,"FALSE","{CL′}10+{and}9",NA,"10·9","EAT","10+9","10+9","10+9",1,19,FALSE
+"421","poko1261-2-30-1","poko1261-2",NA,"thirty","30","miyonɡo mitahu","miyonɡo mitahu",NA,"FALSE","{CL′}10+{and}{CL′}3",NA,"10·3","EAT","10+3","10+3","10+3",1,13,FALSE
+"422","poko1261-2-40-1","poko1261-2",NA,"forty","40","miyonɡo mine","miyonɡo mine",NA,"FALSE","{CL′}10+{and}{CL′}4",NA,"10·4","EAT","10+4","10+4","10+4",1,14,FALSE
+"423","poko1261-2-50-1","poko1261-2",NA,"fifty","50","miyonɡo misano","miyonɡo misano",NA,"FALSE","{CL′}10+{and}{CL′}5",NA,"10·5","EAT","10+5","10+5","10+5",1,15,FALSE
+"424","poko1261-2-60-1","poko1261-2",NA,"sixty","60","miyonɡo ntandahu","miyonɡo ntandahu",NA,"FALSE","{CL′}10+{and}{CL′}6",NA,"10·3x)","EAT","10+6","10+6","10+6",1,16,FALSE
+"425","poko1261-2-70-1","poko1261-2",NA,"seventy","70","miyonɡo nfunɡahe","miyonɡo nfunɡahe",NA,"FALSE","{CL′}10+{and}{CL′}7",NA,"10·7?","EAT","10+7","10+7","10+7",1,17,FALSE
+"426","poko1261-2-80-1","poko1261-2",NA,"eighty","80","miyonɡo minanɛ","miyonɡo minanɛ",NA,"FALSE","{CL′}10+{and}{CL′}4′+4",NA,"10·(x4)","EAT","10+4′+4","10+4+4","10+4+4",1,18,FALSE
+"427","poko1261-2-90-1","poko1261-2",NA,"ninety","90","miyonɡo kenda","miyonɡo kenda",NA,"FALSE","{CL′}10+{and}9",NA,"10·9","EAT","10+9","10+9","10+9",1,19,FALSE
+"428","rund1242-1-100-1","rund1242-1",NA,"one hundred","100","iʒana","iʒana",NA,"FALSE","{CL″′}10",NA,"100","EAT","10","10","10",1,10,FALSE
+"429","saam1283-1-200-1","saam1283-1",NA,"two hundred","200","efixumi tsiβili","efixumi tsiβili",NA,"FALSE","{CL″″}10⋅{CL″‴}10",NA,"100·2","EAT","10⋅10","10⋅10","abs(10*10)",1,100,FALSE
+"430","saam1283-2-8-1","saam1283-2",NA,"eight","8","munane","munane",NA,"FALSE","{CL′}4′⋅4","mu - class marker? na = reduplicator","x4","EAT","4′⋅4","4⋅4","abs(4*4)",1,16,FALSE
+"431","sake1247-1-90-1","sake1247-1",NA,"ninety","90","mə̀kúrə̀bvùwɔ́","mə̀kúrə̀bvùwɔ́",NA,"FALSE","{CL′}10⋅{CL″}8",NA,NA,"EAT","10⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"432","sang1331-1-80-1","sang1331-1",NA,"eighty","80","mákùmí múnáːnè","mákùmí múnáːnè",NA,"FALSE","{CL″}10⋅{CL′}4+4′",NA,NA,"EAT","10⋅4+4′","10⋅4+4","abs(10*4)+4",1,44,FALSE
+"433","sang1333-1-6-1","sang1333-1",NA,"six","6","bìsàːmùnù","bìsàːmùnù",NA,"FALSE","{CL′}5",NA,"5 + [1]","EAT","5","5","5",1,5,FALSE
+"434","sang1333-1-7-1","sang1333-1",NA,"seven","7","tsâːmbù","tsâːmbù",NA,"FALSE","6","likely 5+2 - be = 2","5 + 2?","EAT","6","6","6",1,6,FALSE
+"435","seki1238-1-60-1","seki1238-1",NA,"sixty","60","mɛ̀bómɛ́tànì nɛ̀ βɔ́tɛ","mɛ̀bómɛ́tànì nɛ̀ βɔ́tɛ",NA,"FALSE","{CL′}10⋅{CL′}5+{and}1",NA,NA,"EAT","10⋅5+1","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"436","seki1238-1-70-1","seki1238-1",NA,"seventy","70","mɛ̀bómɛ́tànì nɛ̀ mɛ́bà","mɛ̀bómɛ́tànì nɛ̀ mɛ́bà",NA,"FALSE","{CL′}10⋅{CL′}5+{and}2",NA,NA,"EAT","10⋅5+2","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"437","seki1238-1-80-1","seki1238-1",NA,"eighty","80","mɛ̀bómɛ́tànì nɛ̀ mɛ́tátʃì","mɛ̀bómɛ́tànì nɛ̀ mɛ́tátʃì",NA,"FALSE","{CL′}10⋅{CL′}5+{and}3",NA,NA,"EAT","10⋅5+3","10⋅5+3","abs(10*5)+3",1,53,FALSE
+"438","seki1238-1-90-1","seki1238-1",NA,"ninety","90","mɛ̀bómɛ́tànì nɛ̀ mɛ́nèyi","mɛ̀bómɛ́tànì nɛ̀ mɛ́nèyi",NA,"FALSE","{CL′}10⋅{CL′}5+{and}4",NA,NA,"EAT","10⋅5+4","10⋅5+4","abs(10*5)+4",1,54,FALSE
+"439","shii1238-1-100-1","shii1238-1",NA,"one hundred","100","iɡana","iɡana",NA,"FALSE","{CL″}10",NA,NA,"EAT","10","10","10",1,10,FALSE
+"440","shii1238-1-200-1","shii1238-1",NA,"two hundred","200","maɡána abiri","maɡána abiri",NA,"FALSE","{CL‴}10⋅{CL⁗}2",NA,NA,"EAT","10⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"441","sira1266-1-70-1","sira1266-1",NA,"seventy","70","mə̀ɣú mánə̀ mə̀ ɣùrèrù","mə̀ɣú mánə̀ mə̀ ɣùrèrù",NA,"FALSE","{CL‴}10⋅{CL‴}4+{CL″″}3","CL “me” and “rù”",NA,"EAT","10⋅4+3","10⋅4+3","abs(10*4)+3",1,43,FALSE
+"442","song1299-1-21-1","song1299-1",NA,"twenty-one","21","maku mwel a mwes","maku mwel a mwes",NA,"FALSE","{CL}10′⋅2",NA,NA,"EAT","10′⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"443","suku1259-2-60-1","suku1259-2",NA,"sixty","60","makuma sambanu","makuma sambanu",NA,"FALSE","{CL}10⋅{CL}5′+1′",NA,NA,"EAT","10⋅5′+1′","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"444","suku1259-2-70-1","suku1259-2",NA,"seventy","70","makuma tsambwadi","makuma tsambwadi",NA,"FALSE","{CL}10⋅{CL}5′+2′",NA,NA,"EAT","10⋅5′+2′","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"445","teke1275-2-2000-1","teke1275-2",NA,"two thousand","2000","ekámá pfúúmi dzyɛɛlɛ","ekámá pfúúmi dzyɛɛlɛ",NA,"FALSE","{CL′}1000⋅10⋅{CL′}2",NA,NA,"EAT","1000⋅10⋅2","1000⋅10⋅2","abs(1000*10)*2",1,20000,FALSE
+"446","temi1247-2-60-1","temi1247-2",NA,"sixty","60","milonge esansah ??","milonge esansah ??",NA,"FALSE","10′⋅{CL}5+1′",NA,NA,"EAT","10′⋅5+1′","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"447","tete1250-1-2000-1","tete1250-1",NA,"two thousand","2000","nunu pénde","nunu pénde",NA,"FALSE","1000′⋅1′′",NA,NA,"EAT","1000′⋅1′′","1000⋅1","abs(1000*1)",1,1000,FALSE
+"448","tete1250-2-90-1","tete1250-2",NA,"ninety","90","ákúmí divwaá","ákúmí divwaá",NA,"FALSE","{CL″}10⋅{CL′}8",NA,NA,"EAT","10⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"449","tien1242-1-13-1","tien1242-1",NA,"thirteen","13","dími á isáti","dími á isáti",NA,"FALSE","{CL′}10+[+]{CL}2",NA,NA,"EAT","10+[+]2","10++2","10++2",1,12,FALSE
+"450","tien1242-1-14-1","tien1242-1",NA,"fourteen","14","dími á iníi","dími á iníi",NA,"FALSE","{CL′}10+[+]{CL}3",NA,NA,"EAT","10+[+]3","10++3","10++3",1,13,FALSE
+"451","tivv1240-1-1-1","tivv1240-1",NA,"one","1","mɔ̀ḿ","mɔ̀ḿ",NA,"FALSE","2",NA,NA,"EAT","2","2","2",1,2,FALSE
+"452","tivv1240-1-3-1","tivv1240-1",NA,"three","3","útáŕ","útáŕ",NA,"FALSE","{CL}4",NA,NA,"EAT","4","4","4",1,4,FALSE
+"453","tivv1240-1-4-1","tivv1240-1",NA,"four","4","únjì:","únjì:",NA,"FALSE","{CL}5",NA,NA,"EAT","5","5","5",1,5,FALSE
+"454","tong1321-1-60-1","tong1321-1",NA,"sixty","60","mà-chùmí nɡá-nkʰòóndè ndí mòòza","mà-chùmí nɡá-nkʰòóndè ndí mòòza",NA,"FALSE","{CL}10⋅{CL′}5+{+}1",NA,NA,"EAT","10⋅5+1","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"455","tong1321-1-70-1","tong1321-1",NA,"seventy","70","mà-chùmí nɡá-nkʰòóndè ndí víí","mà-chùmí nɡá-nkʰòóndè ndí víí",NA,"FALSE","{CL}10⋅{CL′}5+{+}2",NA,NA,"EAT","10⋅5+2","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"456","tswa1253-1-80-1","tswa1253-1",NA,"eighty","80","màsʊ́mɛ́ ā rɔ̀bɛ́dí","màsʊ́mɛ́ ā rɔ̀bɛ́dí",NA,"FALSE","10‴⋅(10−1)",NA,NA,"EAT","10‴⋅(10−1)","10⋅(10−1)","10*abs(abs(10-1))",1,90,FALSE
+"457","tswa1253-1-90-1","tswa1253-1",NA,"ninety","90","màsʊ́mɛ́ ā rɔ̀bʊ̄n̄ŋwɛ́","màsʊ́mɛ́ ā rɔ̀bʊ̄n̄ŋwɛ́",NA,"FALSE","10‴⋅(10−2′)",NA,NA,"EAT","10‴⋅(10−2′)","10⋅(10−2)","10*abs(abs(10-2))",1,80,FALSE
+"458","tswa1255-1-60-1","tswa1255-1",NA,"sixty","60","màkúmè wà màkúmè ni -nʼwè","màkúmè wà màkúmè ni -nʼwè",NA,"FALSE","({PLU}10⋅{⋅}{PLU}5)+{+}1",NA,"10 · (5 + 1)","EAT","(10⋅5)+1","(10⋅5)+1","abs(abs(10*5))+1",1,51,FALSE
+"459","tswa1255-1-70-1","tswa1255-1",NA,"seventy","70","màkúmè wà màkúmè ni -mbìrhì","màkúmè wà màkúmè ni -mbìrhì",NA,"FALSE","({PLU}10⋅{⋅}{PLU}5)+{+}2",NA,"10 · (5 + 2)","EAT","(10⋅5)+2","(10⋅5)+2","abs(abs(10*5))+2",1,52,FALSE
+"460","tswa1255-1-80-1","tswa1255-1",NA,"eighty","80","màkúmè wà màkúmè ni -nhárhù","màkúmè wà màkúmè ni -nhárhù",NA,"FALSE","({PLU}10⋅{⋅}{PLU}5)+{+}3",NA,"10 · (5 + 3)","EAT","(10⋅5)+3","(10⋅5)+3","abs(abs(10*5))+3",1,53,FALSE
+"461","tswa1255-1-90-1","tswa1255-1",NA,"ninety","90","màkúmè wà màkúmè ni -múnè","màkúmè wà màkúmè ni -múnè",NA,"FALSE","({PLU}10⋅{⋅}{PLU}5)+{+}4",NA,"10 · (5 + 4)","EAT","(10⋅5)+4","(10⋅5)+4","abs(abs(10*5))+4",1,54,FALSE
+"462","tuki1240-1-26-1","tuki1240-1",NA,"twenty-six","26","mɔɔ́mává na mwárátó","mɔɔ́mává na mwárátó",NA,"FALSE","(10′⋅2′)+{+}5",NA,NA,"EAT","(10′⋅2′)+5","(10⋅2)+5","abs(abs(10*2))+5",1,25,FALSE
+"463","tumb1250-1-25-1","tumb1250-1",NA,"twenty-five","25","makúmí ɡʰá-ŵîrí na tu-nkʰonde","makúmí ɡʰá-ŵîrí na tu-nkʰonde",NA,"FALSE","({PLU}10⋅{LIG}2)+{+}{CL}4",NA,"(10 · 2) + 5","EAT","(10⋅2)+4","(10⋅2)+4","abs(abs(10*2))+4",1,24,FALSE
+"464","tumb1250-1-60-1","tumb1250-1",NA,"sixty","60","makúmí ɡʰá-nkʰonde na li-môza","makúmí ɡʰá-nkʰonde na li-môza",NA,"FALSE","{PLU}10⋅{LIG}5+{?}1",NA,"10 · (5 + 1)","EAT","10⋅5+1","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"465","tumb1250-1-70-1","tumb1250-1",NA,"seventy","70","makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri","makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri",NA,"FALSE","{PLU}10⋅{LIG}5+{LIG}2",NA,"10 · (5 + 2)","EAT","10⋅5+2","10⋅5+2","abs(10*5)+2",1,52,FALSE
+"466","tumb1250-1-80-1","tumb1250-1",NA,"eighty","80","makúmí ɡʰá-nkʰonde na ɡʰá-tâtu","makúmí ɡʰá-nkʰonde na ɡʰá-tâtu",NA,"FALSE","{PLU}10⋅{LIG}5+{LIG}3",NA,"10 · (5 + 3)","EAT","10⋅5+3","10⋅5+3","abs(10*5)+3",1,53,FALSE
+"467","tumb1250-1-90-1","tumb1250-1",NA,"ninety","90","makúmí ɡʰá-nkʰonde na ɡʰá-nâyi","makúmí ɡʰá-nkʰonde na ɡʰá-nâyi",NA,"FALSE","{PLU}10⋅{LIG}5+{LIG}4",NA,"10 · (5 + 4)","EAT","10⋅5+4","10⋅5+4","abs(10*5)+4",1,54,FALSE
+"468","umbu1257-1-80-1","umbu1257-1",NA,"eighty","80","ekwĩ́ĩ́ écelã́lã́","ekwĩ́ĩ́ écelã́lã́",NA,"FALSE","10⋅{PLU?}7",NA,NA,"EAT","10⋅7","10⋅7","abs(10*7)",1,70,FALSE
+"469","umbu1257-1-90-1","umbu1257-1",NA,"ninety","90","ekwĩ́ĩ́ éceyá","ekwĩ́ĩ́ éceyá",NA,"FALSE","10⋅{PLU?}8",NA,NA,"EAT","10⋅8","10⋅8","abs(10*8)",1,80,FALSE
+"470","vunj1238-1-100-1","vunj1238-1",NA,"one hundred","100","iɡana","iɡana",NA,"FALSE","10",NA,NA,"EAT","10","10","10",1,10,FALSE
+"471","vunj1238-1-200-1","vunj1238-1",NA,"two hundred","200","maɡana ɡawi","maɡana ɡawi",NA,"FALSE","10′⋅{?}2",NA,NA,"EAT","10′⋅2","10⋅2","abs(10*2)",1,20,FALSE
+"472","vwan1235-1-70-1","vwan1235-1",NA,"seventy","70","ˈfɪɟiɣo ˈlekela ˈlʊbale","ˈfɪɟiɣo ˈlekela ˈlʊbale",NA,"FALSE","{CL}10′⋅6′+1′",NA,NA,"EAT","10′⋅6′+1′","10⋅6+1","abs(10*6)+1",1,61,FALSE
+"473","vwan1235-1-80-1","vwan1235-1",NA,"eighty","80","ˈfɪɟiɣo ˈlekela ˈkʷoːni","ˈfɪɟiɣo ˈlekela ˈkʷoːni",NA,"FALSE","{CL}10′⋅6′+2′",NA,NA,"EAT","10′⋅6′+2′","10⋅6+2","abs(10*6)+2",1,62,FALSE
+"474","vwan1235-1-90-1","vwan1235-1",NA,"ninety","90","ˈfɪɟiɣo ˈbudika ˈlʊbale","ˈfɪɟiɣo ˈbudika ˈlʊbale",NA,"FALSE","{CL}10′⋅10−1′",NA,NA,"EAT","10′⋅10−1′","10⋅10−1","abs(10*10)-1",1,99,FALSE
+"475","xhos1239-1-20-1","xhos1239-1",NA,"twenty","20","amaʃumi amaɓini","amaʃumi amaɓini",NA,"FALSE","{PLU}10+{PLU}2",NA,NA,"EAT","10+2","10+2","10+2",1,12,FALSE
+"476","xhos1239-1-21-1","xhos1239-1",NA,"twenty-one","21","amaʃumi amaɓini anaɲɛ","amaʃumi amaɓini anaɲɛ",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}1",NA,NA,"EAT","(10+2)+1","(10+2)+1","abs(10+2)+1",1,13,FALSE
+"477","xhos1239-1-22-1","xhos1239-1",NA,"twenty-two","22","amaʃumi amaɓini amambini","amaʃumi amaɓini amambini",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}2",NA,NA,"EAT","(10+2)+2","(10+2)+2","abs(10+2)+2",1,14,FALSE
+"478","xhos1239-1-23-1","xhos1239-1",NA,"twenty-three","23","amaʃumi amaɓini anantʼatʰu","amaʃumi amaɓini anantʼatʰu",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}3",NA,NA,"EAT","(10+2)+3","(10+2)+3","abs(10+2)+3",1,15,FALSE
+"479","xhos1239-1-24-1","xhos1239-1",NA,"twenty-four","24","amaʃumi amaɓini ananɛ","amaʃumi amaɓini ananɛ",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}4",NA,NA,"EAT","(10+2)+4","(10+2)+4","abs(10+2)+4",1,16,FALSE
+"480","xhos1239-1-25-1","xhos1239-1",NA,"twenty-five","25","amaʃumi amaɓini anesiɬʼanu","amaʃumi amaɓini anesiɬʼanu",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}5",NA,NA,"EAT","(10+2)+5","(10+2)+5","abs(10+2)+5",1,17,FALSE
+"481","xhos1239-1-26-1","xhos1239-1",NA,"twenty-six","26","amaʃumi amaɓini anesitʰandatʰu","amaʃumi amaɓini anesitʰandatʰu",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}6",NA,NA,"EAT","(10+2)+6","(10+2)+6","abs(10+2)+6",1,18,FALSE
+"482","xhos1239-1-27-1","xhos1239-1",NA,"twenty-seven","27","amaʃumi amaɓini anesiǁʰɛŋǁɛ","amaʃumi amaɓini anesiǁʰɛŋǁɛ",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}7",NA,NA,"EAT","(10+2)+7","(10+2)+7","abs(10+2)+7",1,19,FALSE
+"483","xhos1239-1-28-1","xhos1239-1",NA,"twenty-eight","28","amaʃumi amaɓini anesib̤ɔzɔ","amaʃumi amaɓini anesib̤ɔzɔ",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}8",NA,NA,"EAT","(10+2)+8","(10+2)+8","abs(10+2)+8",1,20,FALSE
+"484","xhos1239-1-29-1","xhos1239-1",NA,"twenty-nine","29","amaʃumi amaɓini anɛtʰɔɓa","amaʃumi amaɓini anɛtʰɔɓa",NA,"FALSE","({PLU}10+{PLU}2)+{PLU}9",NA,NA,"EAT","(10+2)+9","(10+2)+9","abs(10+2)+9",1,21,FALSE
+"485","xhos1239-1-30-1","xhos1239-1",NA,"thirty","30","amaʃumi amatʰatʰu","amaʃumi amatʰatʰu",NA,"FALSE","{PLU}10+{PLU}3",NA,NA,"EAT","10+3","10+3","10+3",1,13,FALSE
+"486","xhos1239-1-40-1","xhos1239-1",NA,"forty","40","amaʃumi amanɛ","amaʃumi amanɛ",NA,"FALSE","{PLU}10+{PLU}4",NA,NA,"EAT","10+4","10+4","10+4",1,14,FALSE
+"487","xhos1239-1-50-1","xhos1239-1",NA,"fifty","50","amaʃumi amaɬanu","amaʃumi amaɬanu",NA,"FALSE","{PLU}10+{PLU}5",NA,NA,"EAT","10+5","10+5","10+5",1,15,FALSE
+"488","xhos1239-1-60-1","xhos1239-1",NA,"sixty","60","amaʃumi amatʰandatʰu","amaʃumi amatʰandatʰu",NA,"FALSE","{PLU}10+{PLU}6",NA,NA,"EAT","10+6","10+6","10+6",1,16,FALSE
+"489","xhos1239-1-70-1","xhos1239-1",NA,"seventy","70","amaʃumi asiǁʰɛŋǁɛ","amaʃumi asiǁʰɛŋǁɛ",NA,"FALSE","{PLU}10+{PLU}7",NA,NA,"EAT","10+7","10+7","10+7",1,17,FALSE
+"490","xhos1239-1-80-1","xhos1239-1",NA,"eighty","80","amaʃumi asib̤ɔzɔ","amaʃumi asib̤ɔzɔ",NA,"FALSE","{PLU}10+{PLU}8",NA,NA,"EAT","10+8","10+8","10+8",1,18,FALSE
+"491","xhos1239-1-90-1","xhos1239-1",NA,"ninety","90","amaʃumi alitʰɔɓa","amaʃumi alitʰɔɓa",NA,"FALSE","{PLU}10+{PLU}9",NA,NA,"EAT","10+9","10+9","10+9",1,19,FALSE
+"492","yang1293-1-200-2","yang1293-1",NA,"two hundred","200","ètín àt","ètín àt",NA,"FALSE","20′⋅5″","( 20's ten )","20·10","EAT","20′⋅5″","20⋅5","abs(20*5)",1,100,FALSE
+"493","yang1293-1-200-2","yang1293-1",NA,"two hundred","200","ètín àt","ètín àt",NA,"FALSE","20′⋅5″",NA,"20·10","EAT","20′⋅5″","20⋅5","abs(20*5)",1,100,FALSE
+"494","yans1239-1-2000-1","yans1239-1",NA,"two thousand","2000","mafûnd mayôl","mafûnd mayôl",NA,"FALSE","100⋅2‴",NA,"1000·2","EAT","100⋅2‴","100⋅2","abs(100*2)",1,200,FALSE
+"495","yomb1244-1-60-1","yomb1244-1",NA,"sixty","60","mə̀kú mə̀sǎmúnù","mə̀kú mə̀sǎmúnù",NA,"FALSE","10′⋅5′+[1″]","6 likely derived - see above","10·6?","EAT","10′⋅5′+[1″]","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"496","yomb1244-1-60-1","yomb1244-1",NA,"sixty","60","mə̀kú mə̀sǎmúnù","mə̀kú mə̀sǎmúnù",NA,"FALSE","10′⋅5′+[1″]",NA,"10·(5+1)","EAT","10′⋅5′+[1″]","10⋅5+1","abs(10*5)+1",1,51,FALSE
+"497","yomb1244-1-80-1","yomb1244-1",NA,"eighty","80","náːnə̀ lì məkǔmì","náːnə̀ lì məkǔmì",NA,"FALSE","(5″+2′)⋅10″",NA,"(x4)·10","EAT","(5″+2′)⋅10″","(5+2)⋅10","abs(5+2)*10",1,70,FALSE
+"498","yomb1244-1-80-1","yomb1244-1",NA,"eighty","80","náːnə̀ lì məkǔmì","náːnə̀ lì məkǔmì",NA,"FALSE","(5″+2′)⋅10″",NA,"(4x)·10","EAT","(5″+2′)⋅10″","(5+2)⋅10","abs(5+2)*10",1,70,FALSE
+"499","yomb1244-1-80-1","yomb1244-1",NA,"eighty","80","náːnə̀ lì məkǔmì","náːnə̀ lì məkǔmì",NA,"FALSE","(5″+2′)⋅10″",NA,"10·4x","EAT","(5″+2′)⋅10″","(5+2)⋅10","abs(5+2)*10",1,70,FALSE
+"500","zara1247-1-2000-1","zara1247-1",NA,"two thousand","2000","alfu mbili","alfu mbili",NA,"FALSE","100′⋅2″",NA,"1000·2","EAT","100′⋅2″","100⋅2","abs(100*2)",1,200,FALSE
+"501","numerals-duun1242-1-fifty-1","numerals-duun1242-1","Chan2019","fifty","50","fɛ̃ː ko ceu","fekoceu","( 20 x 2 +10)","FALSE","(10′⋅[2])+10","","","EAT","(10′⋅[2])+10","(10⋅2)+10","abs(abs(10*2))+10",1,30,FALSE
+"502","numerals-mend1266-1-thirty-1","numerals-mend1266-1","Chan2019","thirty","30","núú ɡ͡bɔyɔ́nɡo mahú puú","nuugboyongomahupuu","","FALSE","10+{+}10","","(10’·2’)+[+]10","EAT","10+10","10+10","10+10",1,20,FALSE
