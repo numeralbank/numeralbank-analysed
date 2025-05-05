@@ -8,8 +8,8 @@
 7,numerals-gavi1246-1-seven-1,numerals-gavi1246-1,Chan2019,seven,7,paá-ya-káàp maʔã́ pa-bábe pí,paayakaapmaapababepi,(litː 'get our eyes from our hand' ),false,2+5{get-one-from-our-hand},NA,NA
 8,numerals-gavi1246-1-eight-1,numerals-gavi1246-1,Chan2019,eight,8,ãʔá sáno óõ̀p maʔã́ pa-bábe pí,aasanooopmaapababepi,(litː 'get this without brother from our hand' ),false,3+5{get-one-from-our-hand},NA,NA
 9,numerals-gavi1246-1-nine-1,numerals-gavi1246-1,Chan2019,nine,9,ãá sáno píra mát maʔã́ pa-bábe pí,aasanopiramatmaapababepi,(litː 'get this with brother from our hand' ),false,4+5{get-one-from-our-hand},NA,NA
-10,numerals-gavi1246-1-ten-1,numerals-gavi1246-1,Chan2019,ten,10,pa-bábe sópop,pababesopop,( litː 'all our hands' ),false,{our-hand}}5⋅[2]{all},NA,NA
+10,numerals-gavi1246-1-ten-1,numerals-gavi1246-1,Chan2019,ten,10,pa-bábe sópop,pababesopop,( litː 'all our hands' ),false,{our-hand}5⋅[2]{all},NA,NA
 11,numerals-gavi1246-1-eleven-1,numerals-gavi1246-1,Chan2019,eleven,11,móòy maʔã́ pa-bí pi,mooymaapabipi,( litː 'get one from our foot' ),false,1+[10]{get-one-from-our-foot},NA,NA
 12,numerals-gavi1246-1-twelve-1,numerals-gavi1246-1,Chan2019,twelve,12,paá-ya-káàp maʔã́ pa-bí pi,paayakaapmaapabipi,( litː 'get our eyes from our foot' ),false,2+[10]{get-one-from-our-foot},NA,NA
-13,numerals-gavi1246-1-twenty-1,numerals-gavi1246-1,Chan2019,twenty,20,pa-bí sópop,pabisopop,( litː 'all our feet' ),false,{our-foot}5’⋅[2]{all},NA,NA
+13,numerals-gavi1246-1-twenty-1,numerals-gavi1246-1,Chan2019,twenty,20,pa-bí sópop,pabisopop,( litː 'all our feet' ),false,[10+]{our-foot}5’⋅[2]{all},NA,{our-foot}5’⋅[2]{all}[+10]
 14,numerals-gavi1246-1-twentyone-1,numerals-gavi1246-1,Chan2019,twentyone,21,móòy maʔã́ má pí pi,mooymaamapipi,( litː 'get one from the foot of another person' ),false,1+[20]{get-one-from-other-foot},NA,NA
