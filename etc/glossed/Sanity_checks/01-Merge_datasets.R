@@ -933,7 +933,7 @@ all.data %>%
   group_by(ID) %>%
   filter(n()>1) -> all.duplicates
 
-write.csv(all.duplicates,"all.duplicates.csv")
+write.csv(all.duplicates,"glossed/all.duplicates.csv")
 
 #no duplicates!
 
@@ -958,6 +958,6 @@ all.data -> tmp
 # 
 # all.data <- tmp
 
-write.csv(all.data,"all.data.csv")
+write.csv(all.data,"glossed/all.data.csv")
 
 
