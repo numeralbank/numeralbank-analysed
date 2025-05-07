@@ -4,10 +4,10 @@
 3,numerals-tani1257-1-three-1,numerals-tani1257-1,Chan2019,three,3,baéka-ráʔká-ó,baekarakao,(litːthree- QUANT- CLS),false,3{QUANT-CLF},NA,NA
 4,numerals-tani1257-1-four-1,numerals-tani1257-1,Chan2019,four,4,botá-ráʔká-ó,botarakao,(litː four-QUANT- CLS),false,4{QUANT-CLF},NA,NA
 5,numerals-tani1257-1-five-1,numerals-tani1257-1,Chan2019,five,5,í̃ʔra ɸiʔta-ráʔká -o,irafitarakao,(litː one hand-QUANT -CLS),false,1⋅5{hand-QUANT-CLF},NA,NA
-6,numerals-tani1257-1-six-1,numerals-tani1257-1,Chan2019,six,6,ĩʔró-o tẽ́ɟa-ɟú,irootejaju,(litː one-CLS cross -HAB),false,1{CLF}+{cross-HAB},NA,NA
-7,numerals-tani1257-1-seven-1,numerals-tani1257-1,Chan2019,seven,7,í̃ɸo-o tẽ́ɟa-ɟú,ifootejaju,(litː two-CLS cross-HAB),false,2{CLF}+{cross-HAB},NA,NA
-8,numerals-tani1257-1-eight-1,numerals-tani1257-1,Chan2019,eight,8,baéka-ráʔká -ó tẽ́ɟa-ɟú,baekarakaotejaju,(litː three -QUANT-CLS cross- HAB),false,3{QUANT-CLF}+{cross-HAB},NA,NA
-9,numerals-tani1257-1-nine-1,numerals-tani1257-1,Chan2019,nine,9,botá-ráʔká-ó tẽ́ɟa-ɟú,botarakaotejaju,(litː four-QUANT-CLS cross -HAB),false,4{QUANT-CLF}+{cross-HAB},NA,NA
+6,numerals-tani1257-1-six-1,numerals-tani1257-1,Chan2019,six,6,ĩʔró-o tẽ́ɟa-ɟú,irootejaju,(litː one-CLS cross -HAB),false,1{CLF}+[5]{cross-HAB},NA,NA
+7,numerals-tani1257-1-seven-1,numerals-tani1257-1,Chan2019,seven,7,í̃ɸo-o tẽ́ɟa-ɟú,ifootejaju,(litː two-CLS cross-HAB),false,2{CLF}+[5]{cross-HAB},NA,NA
+8,numerals-tani1257-1-eight-1,numerals-tani1257-1,Chan2019,eight,8,baéka-ráʔká -ó tẽ́ɟa-ɟú,baekarakaotejaju,(litː three -QUANT-CLS cross- HAB),false,3{QUANT-CLF}+[5]{cross-HAB},NA,NA
+9,numerals-tani1257-1-nine-1,numerals-tani1257-1,Chan2019,nine,9,botá-ráʔká-ó tẽ́ɟa-ɟú,botarakaotejaju,(litː four-QUANT-CLS cross -HAB),false,4{QUANT-CLF}+[5]{cross-HAB},NA,NA
 10,numerals-tani1257-1-ten-1,numerals-tani1257-1,Chan2019,ten,10,í̃ɸa-ɸiʔta-ráʔká-o,ifafitarakao,(litː two hand-QUANT-CLS),false,2⋅5{hand-QUANT-CLF},NA,NA
 11,numerals-tani1257-1-eleven-1,numerals-tani1257-1,Chan2019,eleven,11,í̃ʔró-o ú̃ʔɸua-rá̃ éʔ-a-ɟú,irooufuaraeaju,(litː one-cl foot-ALL take-CAUS-HAB),false,[10+]1{CLF-foot-all-take-CAUS-HAB},NA,NA
 12,numerals-tani1257-1-twelve-1,numerals-tani1257-1,Chan2019,twelve,12,í̃ɸo -o ú̃ʔɸua-rá̃ éʔ-a-ɟú,ifooufuaraeaju,(litː two-cl foot-ALL take- CAUS-HAB),false,[10+]2{CLF-foot-all-take-CAUS-HAB},NA,NA
