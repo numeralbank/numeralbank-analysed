@@ -37,5 +37,6 @@
 "diri1252-1","diri1252-1-90-1",90,"muronɡó -táno ná -nè","muronɡó -táno ná -nè","10·(5+{+}4)","10·(5+4)",NA
 "diri1252-1","diri1252-1-100-1",100,"lifêre","lifêre","100","100",NA
 "diri1252-1","diri1252-1-200-1",200,"mafêre mavíri","mafêre mavíri","{PLU}100·{PLU}2","100·2",NA
-"diri1252-1","diri1252-1-1000-1",1000,"liyoví or mafêre muronɡó","liyoví or mafêre muronɡó","?","{PLU}100·10","1000 or 100·10"
-"diri1252-1","diri1252-1-2000-1",2000,"mayoví muronɡó","mayoví muronɡó","ID","{PLU}1000·10",NA
+"diri1252-1","diri1252-1-1000-1",1000,"liyoví or mafêre muronɡó","liyoví","?","100",
+"diri1252-1","diri1252-1-1000-1",1000,"liyoví or mafêre muronɡó","mafêre muronɡó","?","{PLU}100·10","1000 or 100·10"
+"diri1252-1","diri1252-1-2000-1",2000,"mayoví muronɡó","mayoví muronɡó","ID","{PLU}1000·10?", overcounting?
