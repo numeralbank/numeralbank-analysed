@@ -1,0 +1,216 @@
+Aveke 1514	southern melanesian
+hMoaveke 1508	southern melanesian
+Wamoang 1502	southern melanesian
+hMoaeke 1507	southern melanesian
+Nemi 1495	southern melanesian
+Pinje 1497
+Poai 1498
+Poamei 1499
+Poapoa 1500
+Jawe 212
+Moenembeng 1491
+Nelemwa 76
+Nyelayu 1480	southern melanesian
+jalasu 1506
+nua 1505
+camuki 1503	southern melanesian
+Aragre 1512
+Canala 19
+Ciri 1504
+Aro 1484
+Arsha 1485
+Neku 1492
+mBoewe 1511
+Sirehe 1501
+Drubea 1369
+Kapone 1489
+Dehu 196
+Nengone 99
+Iaai 471	southern melanesian
+Akei 1010	north central vanuatu
+Wailapa 1114	north central vanuatu
+Fortsenal 1167	north central vanuatu
+Amblong 1042	north central vanuatu
+Morouas 1101	north central vanuatu
+Tambotalo 1084	north central vanuatu
+Aore 1068	north central vanuatu
+Tutuba 1011
+Mafea 1125	north central vanuatu
+Malo 1048
+Tangoa 1027
+Araki 465
+Merei 470
+Navut 1113
+Tiale 1117	north central vanuatu
+Wusi 1072
+Roria 1006
+Nokuku 1166
+Valpei 1138
+Piamatsina 1036
+Vunapu 1015	north central vanuatu
+Tasmate 1108
+Tolomako 1152	north central vanuatu
+Butmas Tur 1100
+Polonombauk 1151
+Lorediakarkar 1049
+Shark Bay 1174
+Sakao 230
+Ambae East 1116
+Ambae West 1144
+Raga 113
+Baetora 1145	north central vanuatu
+Maewo Central 1080
+Marino 1086
+Hiw 639
+Toga 1153
+Lehali 1168
+Loyop 1123
+Mota 25
+Mwotlap 376
+Lemerig 696
+Veraa 1077
+Vures 1065
+Koro 1032
+Lakona 1019
+Nume 1172
+Wetamut 1134
+Mwerlap 1111
+Alavas Wowo 1314
+Nese 459
+Siviti 1286	north central vanuatu
+Tirax 1319
+Vao 1285
+Pangkumu 1246	north central vanuatu
+Unua 1247
+Wala 1325
+Angavae 1238
+Nasarian 1237
+Nombotkote 1230
+Tesmbol 1251
+Naahai 162 85 1396
+Navwien 162 87 1411
+Nahavaq 453
+Nati 1229
+Ninde 1217	north central vanuatu
+Avava 456
+Neverver 1244	north central vanuatu
+Nitita 1254
+Larevat 1034
+Tape 460
+Venen Taut 1169
+Naman 457
+Neveei 484
+Avok 162 99 1421
+Axamb 162 89 1398	north central vanuatu
+Mandri 162 91 1401
+Nisvai 1293
+Port Sandwich 1321
+Uliveo 162 107 1412
+Burmbar 1292
+Mbwenelang 1316
+Ambrym North 1131
+Lonwolwol 1026
+Port Vato 1128
+Orkon 476
+Ambrym South East 120
+Paamese 108
+Baki 1033
+Bierebo 1007
+Lamenu 1103	north central vanuatu
+Lamenu 1107
+Bieria 1031	north central vanuatu
+Maii 1075
+Apma 641
+Ske 645
+Sowa 644
+Sa 643
+Eton 1088
+South Efate 322
+Lelepa 1000	north central vanautu
+Nguna 103
+Namakir 475
+Anejom 149
+Kwamera 477	sourthern melanesian
+
+
+
+
+
+Roro 220	papuan tip linkage	western oceanic linkage
+Mekeo 89	western oceanic linkage
+Kuni 393
+Gabadi 397
+Lala 1439
+Doura 396
+Maisin 165
+Sudest 367
+Nimoa 669
+Misima 94	papuan tip linkage
+Muyuw 646
+Kilivila 159
+Saliba 404
+Oyaoya 1461
+Suau 227
+Buhutu 1425
+Tubetube 1458
+Auhelawa 1460
+Minaveha 1441	western oceanic linkage
+Koluwawa 1438
+Iamalele 1435
+Iduna 1436
+Diodio 374
+Bwaidoga 1427
+Gumawana 511
+Sewa 1454
+Dobu 1429
+Bunama 1426
+Ubir 222
+Dawawa 1428
+Wedau 1459
+Tawala 651
+Ghayavi 1432
+Gapapaiwa 1431
+Anuki 1423
+Mengen 91
+Sengseng 123
+Kaulong 56
+Mangseng 1335
+Bebeli 1361
+Avau 1391
+Lamogai 67
+Aria 287
+Amara 285
+Wampar 141
+Yabem 334
+Numbami 231	western oceanic linkage
+Mumeng 1334
+Hote 1392
+Tami 1333
+Mangap Mbula 1330
+Mutu 1358
+Malalamai 1343	north new guinea linkage
+Gitua 1359
+Maleu 82
+Kove 282
+Bariai 1336	north new guinea linkage
+Sio 1355
+Roinji 1348
+Nenaya 1350
+Takia 366	western oceanic linkage
+Matukar 400	north new guinea linkage	western oceanic linkage
+Gedaged 7	western oceanic linkage
+Bilibil 402	western oceanic linkage
+Biliau 1347	western oceanic linkage
+Malasanga 1356	western oceanic linkage
+Arop 1360	north new guinea linkage	western oceanic linkage
+Tarpia 132	north new guinea linkage	western oceanic linkage
+Sobei 126	north new guinea linkage	western oceanic linkage
+Kayupulau Kajupulau 57	north new guinea linkage	western oceanic linkage
+Wogeo 146	north new guinea linkage	western oceanic linkage
+Manam 168	north new guinea linkage	western oceanic linkage
+Kis 23	north new guinea linkage linkage	western oceanic linkage
+Kairiru 30	north new guinea linkage	western oceanic linkage
+Sissano 1394	north new guinea linkage	western oceanic linkage
+Ali 39	north new guinea linkage	western oceanic linkage
+Vano 356	Temotu
+Tanema 357	Temotu
