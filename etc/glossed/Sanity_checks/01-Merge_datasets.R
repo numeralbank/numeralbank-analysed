@@ -167,8 +167,11 @@ setwd("..")
 
 setwd("./Sino-Tibetan/")
 temp.4 = list.files( pattern="\\.csv$")
-myfiles.4 = lapply(temp.4, read.csv,row.names = 1)
+myfiles.4 = lapply(temp.4, read.csv) #issue with row.names
 names(myfiles.4) <- temp.4
+for(i in 1:length(myfiles.4)){
+  myfiles.4[[i]]$X <- NULL
+}
 length(myfiles.4)
 #276 files for Sino-Tibetan
 setwd("..")
@@ -181,6 +184,14 @@ length(myfiles.5)
 #54 files for Tai-Kadai
 setwd("..")
 
+setwd("./Ta-Ne Omotic/")
+temp.6 = list.files( pattern="\\.csv$")
+myfiles.6 = lapply(temp.6, read.csv,row.names = 1)
+names(myfiles.6) <- temp.6
+length(myfiles.6)
+#16 files for Ta-Ne Omotic
+setwd("..")
+
 ####
 
 #Merge all datasets
@@ -189,7 +200,8 @@ myfiles <- c(myfiles.0,
              myfiles.2,
              myfiles.3,
              myfiles.4,
-             myfiles.5)
+             myfiles.5,
+             myfiles.6)
 
 ####
 
@@ -207,7 +219,7 @@ table(all.ncols)
 
 # all.ncols
 # 12 
-# 726  
+# 737  
 
 
 

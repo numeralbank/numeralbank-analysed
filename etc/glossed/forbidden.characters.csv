@@ -1,11 +1,5 @@
 ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,Glosser,Gloss.clean,Gloss.math
-numerals-dzal1238-1-fifty-1,numerals-dzal1238-1,Chan2019,fifty,50,kʰé-nœ̀i-(tíŋ)-tʃí,khenoeitingtsi,,false,(20′⋅2)+(LP)10,NA,NA,KM,(20′⋅2)+(LP)10,(20⋅2)+(LP)10
-numerals-dzal1238-1-seventy-1,numerals-dzal1238-1,Chan2019,seventy,70,kʰé-sùm-(tíŋ)-tʃí,khesumtingtsi,,false,(20′⋅3)+(LP)10,NA,NA,KM,(20′⋅3)+(LP)10,(20⋅3)+(LP)10
-numerals-dzal1238-1-ninety-1,numerals-dzal1238-1,Chan2019,ninety,90,kʰé-blì-(tíŋ)-tʃí,kheblitingtsi,,false,(20′⋅4)+(LP)10,NA,NA,KM,(20′⋅4)+(LP)10,(20⋅4)+(LP)10
-numerals-east2352-1-twentyone-1,numerals-east2352-1,Chan2019,twentyone,21,bis (rʌ) kat,bisrkat,,false,20+(LP)1,,NA,KM,20+(LP)1,20+(LP)1
-numerals-east2352-1-twentytwo-1,numerals-east2352-1,Chan2019,twentytwo,22,bis (rʌ) nɦis,bisrnhis,,false,20+(LP)2,,NA,KM,20+(LP)2,20+(LP)2
-numerals-tipp1239-1-eleven-1,numerals-tipp1239-1,Chan2019,eleven,11,(kai̯tʃi) kai̯ʂa,kaitsikaisa,NA,false,(PR10)⋅PR1,PR stands for prefix.,NA,KM,(PR10)⋅PR1,(PR10)⋅PR1
-numerals-tipp1239-1-twelve-1,numerals-tipp1239-1,Chan2019,twelve,12,(kai̯tʃi) kai̯nui̯,kaitsikainui,NA,false,(PR10)⋅PR2,,NA,KM,(PR10)⋅PR2,(PR10)⋅PR2
+numerals-holi1239-1-thirty-2,numerals-holi1239-1,Chan2019,thirty,30,ippaːtta,ippatta,,false,Itlookslikeamistakehere, this form is for '20'.,NA,KM,Itlookslikeamistakehere,Itlookslikeamistakehere
 numerals-gbii1242-1,Chan2019,one,1,ɗɔ̀káⁱ,dokai,,FALSE,1’,1′=_kai,NA,NA,EAT,1′=_kai,1=_kai
 numerals-gbii1242-1,Chan2019,twenty,20,k͡páɽáɲɔ,kparano,,FALSE,10’·2’,"10′=b>kp,lossof“puwe″,2′=newforom",NA,NA,EAT,"10′=b>kp,lossof“puwe″,2′=newforom","10=b>kp,lossof“puwe,2=newforom"
 numerals-gbii1242-1,Chan2019,thirty,30,k͡páɽáɲɔ,kparano,( 20 + 10 ),FALSE,20+[10]?,sameformas20?,NA,NA,EAT,sameformas20?,sameformas20?
