@@ -167,8 +167,11 @@ setwd("..")
 
 setwd("./Sino-Tibetan/")
 temp.4 = list.files( pattern="\\.csv$")
-myfiles.4 = lapply(temp.4, read.csv,row.names = 1)
+myfiles.4 = lapply(temp.4, read.csv) #issue with row.names
 names(myfiles.4) <- temp.4
+for(i in 1:length(myfiles.4)){
+  myfiles.4[[i]]$X <- NULL
+}
 length(myfiles.4)
 #276 files for Sino-Tibetan
 setwd("..")
@@ -181,6 +184,14 @@ length(myfiles.5)
 #54 files for Tai-Kadai
 setwd("..")
 
+setwd("./Ta-Ne Omotic/")
+temp.6 = list.files( pattern="\\.csv$")
+myfiles.6 = lapply(temp.6, read.csv,row.names = 1)
+names(myfiles.6) <- temp.6
+length(myfiles.6)
+#16 files for Ta-Ne Omotic
+setwd("..")
+
 ####
 
 #Merge all datasets
@@ -189,7 +200,8 @@ myfiles <- c(myfiles.0,
              myfiles.2,
              myfiles.3,
              myfiles.4,
-             myfiles.5)
+             myfiles.5,
+             myfiles.6)
 
 ####
 
@@ -207,7 +219,7 @@ table(all.ncols)
 
 # all.ncols
 # 12 
-# 726  
+# 737  
 
 
 
@@ -276,7 +288,7 @@ length(myfiles.3)
 #714 files in the third folder
 setwd("..")
 
-####
+
 setwd("./Russell_4/")
 temp.4 = list.files( pattern="\\.csv$")
 myfiles.4 = lapply(temp.4, read.csv)
@@ -285,13 +297,24 @@ length(myfiles.4)
 #140 files in the third folder
 setwd("..")
 
+
+setwd("./Russell_4/Africa")
+temp.5 = list.files( pattern="\\.csv$")
+myfiles.5 = lapply(temp.5, read.csv)
+names(myfiles.5) <- temp.5
+length(myfiles.5)
+#67 files in the third folder
+setwd("..")
+setwd("..")
+
 ####
 
 #Merge all datasets
 myfiles <- c(myfiles.1,
              myfiles.2,
              myfiles.3,
-             myfiles.4)
+             myfiles.4, 
+             myfiles.5)
 
 ##do.call(rbind.data.frame, myfiles) -> temp.data
 ## Error in (function (..., deparse.level = 1, make.row.names = TRUE, stringsAsFactors = FALSE,  : 
@@ -305,9 +328,8 @@ myfiles %>%
   t() -> all.ncols
 table(all.ncols)
 # all.ncols
-#N two 14, one 15
 # 13    14    15    22 16384 
-# 2055    12     1     1     1 
+# 2267     8     1     1     1 
 all.ncols %>%
   as.data.frame() %>%
   filter(V1 > 13) 
@@ -959,5 +981,4 @@ all.data -> tmp
 # all.data <- tmp
 
 write.csv(all.data,"glossed/all.data.csv")
-
 

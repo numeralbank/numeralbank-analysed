@@ -1,0 +1,41 @@
+"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
+"diri1252-1","diri1252-1-1-1",1,"-mwé","-mwé","1","1",NA
+"diri1252-1","diri1252-1-2-1",2,"-víli","-víli","2","2",NA
+"diri1252-1","diri1252-1-3-1",3,"-tátu","-tátu","3","3",NA
+"diri1252-1","diri1252-1-4-1",4,"-nè","-nè","4","4",NA
+"diri1252-1","diri1252-1-5-1",5,"-táno","-táno","5","5",NA
+"diri1252-1","diri1252-1-6-1",6,"-táno ná -mwé","-táno ná -mwé","5+{+}1","5 + 1",NA
+"diri1252-1","diri1252-1-7-1",7,"-táno ná -víli","-táno ná -víli","5+{+}2","5 + 2","ná"
+"diri1252-1","diri1252-1-8-1",8,"-táno ná -tátu","-táno ná -tátu","5+{+}3","5 + 3","ná"
+"diri1252-1","diri1252-1-9-1",9,"-táno ná -nè","-táno ná -nè","5+{+}4","5 + 4",NA
+"diri1252-1","diri1252-1-10-1",10,"muronɡó","muronɡó","10","10",NA
+"diri1252-1","diri1252-1-11-1",11,"muronɡó -mwé","muronɡó -mwé","10+1",NA,NA
+"diri1252-1","diri1252-1-12-1",12,"muronɡó -víli","muronɡó -víli","10+2",NA,NA
+"diri1252-1","diri1252-1-13-1",13,"muronɡó -tátu","muronɡó -tátu","10+3",NA,NA
+"diri1252-1","diri1252-1-14-1",14,"muronɡó -nè","muronɡó -nè","10+4",NA,NA
+"diri1252-1","diri1252-1-15-1",15,"muronɡó -táno","muronɡó -táno","10+5",NA,NA
+"diri1252-1","diri1252-1-16-1",16,"muronɡó -táno ná -mwé","muronɡó -táno ná -mwé","10+5+{+}1",NA,NA
+"diri1252-1","diri1252-1-17-1",17,"muronɡó -táno ná -víli","muronɡó -táno ná -víli","10+5+{+}2",NA,NA
+"diri1252-1","diri1252-1-18-1",18,"muronɡó -táno ná -tátu","muronɡó -táno ná -tátu","10+5+{+}3",NA,NA
+"diri1252-1","diri1252-1-19-1",19,"muronɡó -táno ná -nè","muronɡó -táno ná -nè","10+5+{+}4",NA,NA
+"diri1252-1","diri1252-1-20-1",20,"muronɡó mbíri","muronɡó mbíri","10·2’","10·{PLU}2",NA
+"diri1252-1","diri1252-1-21-1",21,"muronɡó mbíri -mwé","muronɡó mbíri -mwé","(10·2’)+1",NA,NA
+"diri1252-1","diri1252-1-22-1",22,"muronɡó mbíri -víli","muronɡó mbíri -víli","(10·2’)+2",NA,NA
+"diri1252-1","diri1252-1-23-1",23,"muronɡó mbíri -tátu","muronɡó mbíri -tátu","(10·2’)+3",NA,NA
+"diri1252-1","diri1252-1-24-1",24,"muronɡó mbíri -nè","muronɡó mbíri -nè","(10·2’)+4",NA,NA
+"diri1252-1","diri1252-1-25-1",25,"muronɡó mbíri -táno","muronɡó mbíri -táno","(10·2’)+5",NA,NA
+"diri1252-1","diri1252-1-26-1",26,"muronɡó mbíri -táno ná -mwé","muronɡó mbíri -táno ná -mwé","(10·2’)+5+{+}1","(10·2)+(5+1)",NA
+"diri1252-1","diri1252-1-27-1",27,"muronɡó mbíri -táno ná -víli","muronɡó mbíri -táno ná -víli","(10·2’)+5+{+}2","(10·2)+(5+2)",NA
+"diri1252-1","diri1252-1-28-1",28,"muronɡó mbíri -táno ná -tátu","muronɡó mbíri -táno ná -tátu","(10·2’)+5+{+}3","(10·2)+(5+3)",NA
+"diri1252-1","diri1252-1-29-1",29,"muronɡó mbíri -táno ná -nè","muronɡó mbíri -táno ná -nè","(10·2’)+5+{+}4","(10·2)+(5+4)",NA
+"diri1252-1","diri1252-1-30-1",30,"muronɡó -tátu","muronɡó -tátu","10·3","10·3",NA
+"diri1252-1","diri1252-1-40-1",40,"muronɡó -nè","muronɡó -nè","10·4","10·4",NA
+"diri1252-1","diri1252-1-50-1",50,"muronɡó -táno","muronɡó -táno","10·5","10·5",NA
+"diri1252-1","diri1252-1-60-1",60,"muronɡó -táno ná-mwé","muronɡó -táno ná-mwé","10·(5+{+}1)","10·(5+1)",NA
+"diri1252-1","diri1252-1-70-1",70,"muronɡó -táno ná-víli","muronɡó -táno ná-víli","10·(5+{+}2)","10·(5+2)",NA
+"diri1252-1","diri1252-1-80-1",80,"muronɡó -táno ná-tátu","muronɡó -táno ná-tátu","10·(5+{+}3)","10·(5+3)",NA
+"diri1252-1","diri1252-1-90-1",90,"muronɡó -táno ná -nè","muronɡó -táno ná -nè","10·(5+{+}4)","10·(5+4)",NA
+"diri1252-1","diri1252-1-100-1",100,"lifêre","lifêre","100","100",NA
+"diri1252-1","diri1252-1-200-1",200,"mafêre mavíri","mafêre mavíri","{PLU}100·{PLU}2","100·2",NA
+"diri1252-1","diri1252-1-1000-1",1000,"liyoví or mafêre muronɡó","liyoví or mafêre muronɡó","?","{PLU}100·10","1000 or 100·10"
+"diri1252-1","diri1252-1-2000-1",2000,"mayoví muronɡó","mayoví muronɡó","ID","{PLU}1000·10",NA

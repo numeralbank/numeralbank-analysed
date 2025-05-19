@@ -1,0 +1,715 @@
+#load libraries----
+library(groundhog)
+my.date <- "2025-01-01"
+pkgs <- c("tidyverse",
+          "ggplot2",
+          "cowplot",
+          "RColorBrewer",
+          "randomcoloR",
+          "forcats",
+          "readr",
+          "maps",
+          "mapproj",
+          "viridis",
+          "reshape2")
+groundhog.library(pkgs,my.date)
+
+options(tidyverse.quiet = TRUE)
+
+#set working directory and load data----
+#setwd(getSrcDirectory()[1]) # run this line if using plain R
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #run this line if using RStudio
+setwd('..')
+
+#Visualize NumValue as non-scientific notation
+options(scipen = 1000000000)
+
+
+all.data <- read.csv("all.data.csv",row.names = 1)
+rownames(all.data) <- 1:nrow(all.data)
+
+all.data %>%
+  mutate(Gloss = ifelse(Gloss == "1.00E+06", 1000000,
+                        ifelse(Gloss == "1.00E+05", 100000, 
+                               Gloss))) %>%
+  mutate(Alternate_gloss = ifelse(Alternate_gloss == "1.00E+06", 1000000,
+                        ifelse(Alternate_gloss == "1.00E+05", 100000, 
+                               Alternate_gloss))) -> all.data
+
+#visualize GLOSSING----
+
+#let's make an orthographic profile
+
+all.data %>%
+  dplyr::select(Gloss) %>%
+  separate(Gloss,into=letters[1:40]) -> all.characters
+
+all.characters %>%
+  unlist() %>% 
+  as.data.frame() -> all.characters.column
+
+-sort(-table(all.characters.column$.)) %>%
+  as.data.frame() -> orthography.words.profile
+colnames(orthography.words.profile)[1] <- "Symbol"
+write.csv(orthography.words.profile,"orthography.profile.csv")
+
+all.data %>%
+  mutate(splitGloss = strsplit(Gloss,split="")) %>% 
+  dplyr::select(splitGloss) %>%
+  unlist() %>%
+  as.data.frame() ->all.characters.symbol
+
+colnames(all.characters.symbol) <- "Symbol"
+
+-sort(-table(all.characters.symbol)) %>%
+  as.data.frame() -> characters.profile
+
+write.csv(characters.profile,"characters.profile.csv")
+
+#remove numbers and letters from the latter
+characters.profile %>%
+  filter(!(Symbol %in% 0:9)) %>%
+  filter(!(Symbol %in% letters))  %>%
+  filter(!(Symbol %in% LETTERS)) %>%
+  mutate(Symbol = as.character(Symbol))-> operators.profile
+
+#add ascii code (for some reason, this doesn't work with tidyverse)
+# 
+# operators.profile %>%
+#   mutate(ASCII = utf8ToInt(Symbol)) %>% View()
+
+operators.profile$ASCII <- 0
+
+for(i in 1:nrow(operators.profile)){
+  operators.profile$ASCII[i] = utf8ToInt(operators.profile$Symbol[i])
+}
+
+operators.profile %>%
+  relocate(ASCII, .after = Symbol) -> operators.profile
+
+str(operators.profile)
+#-----
+operators.profile.raw <- operators.profile
+
+write.csv(operators.profile.raw,"operators.profile.raw.csv")
+
+
+#Sanity checks----
+
+#01 Empty glosses
+
+all.data %>%
+  filter(is.na(Gloss) | Gloss == "") -> no.gloss
+
+table(no.gloss$Glosser)
+
+write.csv(no.gloss,"no.gloss.csv")
+
+all.data %>%
+  filter(Gloss != "") -> all.data
+
+#02 Kill spaces
+all.data %>%
+  mutate(Gloss = str_remove_all(Gloss," ")) -> all.data
+
+
+#03 ? without comment
+all.data %>%
+  filter(Gloss == "?" & (is.na(Comment_glosser) | Comment_glosser == "") ) -> no.comment
+
+table(no.comment$Glosser)
+
+write.csv(no.comment,"no.comment.csv")
+all.data %>%
+  filter(!(Gloss == "?" & (is.na(Comment_glosser) | Comment_glosser == "") ) ) -> all.data
+
+#04 merge different symbols for the same operator
+
+
+
+all.data %>%
+  mutate(Gloss = str_replace_all(Gloss,"·", "⋅"),
+         # Gloss = str_replace_all(Gloss,"\\.", "⋅"), NOT! THERE IS 12.5 IN MESOAMERICAN LANGUAGES
+         Gloss = str_replace_all(Gloss,"∙", "⋅"),
+         Gloss = str_replace_all(Gloss,"-", "−"),
+         Gloss = str_replace_all(Gloss,"’", "′"),
+         Gloss = str_replace_all(Gloss,"\\'\\'\\'\\'", "⁗"),
+         Gloss = str_replace_all(Gloss,"\\'\\'\\'", "‴"),
+         Gloss = str_replace_all(Gloss,"\\'\\'", "″"),
+         Gloss = str_replace_all(Gloss,"\\'", "′"),
+         Gloss = str_replace_all(Gloss,"”′", "‴"),
+         Gloss = str_replace_all(Gloss,"\"\"", "⁗"),
+         Gloss = str_replace_all(Gloss,"”\"", "⁗"),
+         Gloss = str_replace_all(Gloss,"”", "″"),
+         Gloss = str_replace_all(Gloss,"′", "′"),
+         Gloss = str_replace_all(Gloss,"\"", "″")
+)  -> all.data
+
+
+#/ is only used between letters, e.g. ({finger/arm}5⋅1)+{+?}1, so OK
+
+#05 Matching brackets
+
+all.data %>%
+  mutate(rb = str_count(Gloss,"\\(") == str_count(Gloss,"\\)"), #matching round brackets
+         sb = str_count(Gloss,"\\[") == str_count(Gloss,"\\]"), #matching square brackets
+         cb = str_count(Gloss,"\\{") == str_count(Gloss,"\\}") #matching curly brackets
+          ) %>%  
+  filter(rb*sb*cb == 0) -> non.matching.brackets
+
+table(non.matching.brackets$Glosser)
+
+write.csv(non.matching.brackets,"non.matching.brackets.csv")
+
+#for the time being, we kill the problematic rows:
+
+all.data %>%
+  filter(!(ID %in% non.matching.brackets$ID) ) -> all.data
+
+#06 Ignore text between {curly brackets} -> Gloss.clean and remove [square brackets] and ′primes′ -> Gloss.math
+
+all.data %>%
+  mutate(Gloss.clean = gsub("\\{.*?\\}","",Gloss)) %>%  #.*? NON GREEDY
+  mutate(Gloss.math = gsub("\\[","",Gloss.clean),
+         Gloss.math = gsub("\\]","",Gloss.math)) %>% 
+  mutate(Gloss.math = gsub("′","",Gloss.math),
+         Gloss.math = gsub("″","",Gloss.math),
+         Gloss.math = gsub("‴","",Gloss.math),
+         Gloss.math = gsub("⁗","",Gloss.math)) -> all.data
+
+
+#06 find non-kosher symbols
+
+#recalculate operators.profile----
+
+
+all.data %>%
+  dplyr::select(Gloss.clean) %>%
+  separate(Gloss.clean,into=letters[1:45]) -> all.characters
+
+
+all.characters %>%
+  unlist() %>% 
+  as.data.frame() -> all.characters.column
+
+-sort(-table(all.characters.column$.)) %>%
+  as.data.frame() -> orthography.words.profile
+colnames(orthography.words.profile)[1] <- "Symbol"
+
+all.data %>%
+  mutate(splitGloss.clean = strsplit(Gloss.clean,split="")) %>% 
+  dplyr::select(splitGloss.clean) %>%
+  unlist() %>%
+  as.data.frame() ->all.characters.symbol
+
+colnames(all.characters.symbol) <- "Symbol"
+
+-sort(-table(all.characters.symbol)) %>%
+  as.data.frame() -> characters.profile
+
+
+#remove numbers and letters from the latter
+characters.profile %>%
+  filter(!(Symbol %in% 0:9)) %>%
+  # filter(!(Symbol %in% letters))  %>%
+  # filter(!(Symbol %in% LETTERS)) %>%
+  mutate(Symbol = as.character(Symbol))-> operators.profile
+
+#add ascii code (for some reason, this doesn't work with tidyverse)
+# 
+# operators.profile %>%
+#   mutate(ASCII = utf8ToInt(Symbol)) %>% View()
+
+operators.profile$ASCII <- 0
+
+for(i in 1:nrow(operators.profile)){
+  operators.profile$ASCII[i] = utf8ToInt(operators.profile$Symbol[i])
+}
+
+operators.profile %>%
+  relocate(ASCII, .after = Symbol) -> operators.profile
+
+str(operators.profile)
+
+write.csv(operators.profile,"operators.profile.csv")
+#-----
+
+allowed.symbols <- c("½", "⅓", "⅔", "¼", "¾", 
+                     "+", "⋅", "−", "÷", 
+                     "(", ")", "[", "]", "{", "}", 
+                     "′", "″", "‴", "⁗", "?",".")
+
+
+
+
+
+operators.profile %>%
+  filter(!(Symbol %in% allowed.symbols)) %>%
+  dplyr::select(Symbol)->  non.allowed.symbols
+
+non.allowed.symbols %>% 
+  unlist() %>%
+  paste0(collapse = "") -> this
+
+paste0("[",this,"]", collapse="") -> that
+
+forbidden.characters <- NULL
+ifelse(that == "[]", 0==0 , 
+       forbidden.characters <-  all.data[(grepl(that,all.data$Gloss.clean)),])
+
+table(forbidden.characters$Glosser)
+
+if(that != "[]"){write_csv(forbidden.characters,"forbidden.characters.csv")}
+
+all.data %>%
+  filter(!(ID %in% forbidden.characters$ID)) -> all.data
+
+#07 Does the math add up?
+
+#07A convert the Gloss.math column to a readable mathematical string 
+
+all.data %>%
+  mutate(Gloss.calc = gsub("⋅","\\*",Gloss.math),
+         Gloss.calc = gsub("−","-",Gloss.calc),
+         Gloss.calc = gsub("½","(1/2)",Gloss.calc),         
+         Gloss.calc = gsub("⅓","(1/3)",Gloss.calc),         
+         Gloss.calc = gsub("⅔","(2/3)",Gloss.calc),         
+         Gloss.calc = gsub("¼","(1/4)",Gloss.calc),         
+         Gloss.calc = gsub( "¾","(3/4)",Gloss.calc),
+         Gloss.calc = gsub( "\\?",NA,Gloss.calc)) -> all.data
+
+#fix subtraction: usually, forms such as 9 = 10-1 are noted as 9 = 1-10, hence we need some absolute value.
+# Same works for cases like 19 = 10 + (1 - 10) rather than 19 = 10 + (10-1). 
+#We first add the () in the cases they are missing. It should be in any subtraction, BUT not if there is a multiplication right after or right before
+
+all.data %>%
+  mutate(Gloss.calc = gsub("([0-9\\.]+)\\*([0-9\\.]+)", "\\(\\1\\*\\2\\)", Gloss.calc), #multiplication first
+         Gloss.calc = gsub("([0-9\\.]+)\\/([0-9\\.]+)", "\\(\\1\\/\\2\\)", Gloss.calc), #division second 
+         Gloss.calc = gsub("([0-9\\.]+)-([0-9\\.]+)", "\\(\\1-\\2\\)", Gloss.calc)) -> all.data #subtraction last
+
+#and then we add the absolute value
+
+all.data %>%
+  mutate(Gloss.calc = gsub("\\(","abs\\(",Gloss.calc)) -> all.data
+
+#07B Check that it's a mathematical expression
+
+all.data %>%
+  mutate(Math.well.defined =  ifelse(is.na(Gloss.calc) , NA, 
+                              sapply(gsub("(\\d)\\(","\\1*(",Gloss.calc),
+                                     function(x) tryCatch({ eval(parse(text = x)) 
+                                                              1},
+                                                          error = function(e) 0)
+                              )  )) -> this
+
+this %>%
+  filter(Math.well.defined == 0 ) -> math.not.well.defined
+
+table(math.not.well.defined$Glosser)
+
+write.csv(math.not.well.defined,"math.not.well.defined.csv")
+
+#07C Check the math proper
+
+this %>% 
+  filter(Gloss.calc == "") -> no.math
+
+write.csv(no.math,"no.math.csv")
+
+
+this %>%
+  filter(Math.well.defined == 1) %>%
+  filter(Gloss.calc != "") %>%
+  mutate(Math.check = sapply(gsub("(\\d)\\(","\\1*(",Gloss.calc),function(x) eval(parse(text = x))),
+         Math.check = unlist(Math.check),
+         Math.check = abs(Math.check)) -> that
+# this %>%
+#   filter(Math.well.defined == 1) %>%
+#   mutate(Math.check = sapply(gsub("(\\d)\\(","\\1*(",Gloss.calc),function(x) eval(parse(text = x)))) -> that
+# 
+
+that$Math.check %>%
+  lengths() %>%
+  as.data.frame()-> tmp
+# 
+# that[67528,]
+# tocompare[67528,]$Gloss.calc -> Gloss.try
+# that[65910,]$Gloss
+
+that %>%
+  mutate(Does.math.work = Math.check == NumberValue) -> all.data.checked
+
+
+table(all.data.checked$Does.math.work,
+      all.data.checked$Glosser) 
+
+all.data.checked %>%
+  filter(Does.math.work == FALSE) -> bad.math
+
+table(bad.math$Glosser)
+
+
+write.csv(bad.math, "bad.math.csv")
+
+all.data.checked %>%
+  filter(Does.math.work == TRUE) -> all.data.checked
+
+write.csv(all.data.checked,"all.data.checked.csv")
+write.csv(all.data, "all.data.glossed.csv")
+
+
+#ADD ORDER-INSENSITIVE GLOSS?-----
+
+
+
+#summary----
+
+table(all.data$Glosser) %>% as.data.frame()-> characters.glossed
+
+
+all.data %>%
+  count(Language_ID,Gloss,Glosser) %>%
+  group_by(Glosser) %>%
+  mutate(Glosses = n()) %>%
+  ungroup() %>%
+  count(Language_ID,Glosser,Glosses) %>%
+  group_by(Glosser) %>%
+  mutate(Languages = n()) %>%
+  dplyr::select(Glosser,Languages,Glosses) %>%
+  distinct() %>%
+  arrange(desc(Languages)) %>%
+  mutate(G.per.L = Glosses/Languages)-> stats
+  
+write.csv(stats,"stats.glosses.csv")
+
+
+#remove typos-----
+
+#Double ++ and trailing initial +:
+
+all.data.checked %>%
+  mutate(Gloss.math = gsub("\\+\\+","\\+",Gloss.math),
+         Gloss.math = str_remove(Gloss.math,"^(\\+)"))  -> all.data.checked
+
+
+
+
+#remove the 1. and .1
+
+
+#this ignores the cases with two occurrences, e.g. ⋅1 and ⋅10 in the same line
+all.data.checked %>%
+  mutate(Gloss.math.with.ones = Gloss.math) %>%
+  mutate(Gloss.math = ifelse(grepl("⋅1\\d+",Gloss.math),Gloss.math,gsub("⋅1","",Gloss.math))) %>%
+  mutate(Gloss.math = ifelse(grepl("\\d+1⋅",Gloss.math),Gloss.math,gsub("1⋅","",Gloss.math))) -> all.data.checked
+
+
+#this should work, but I have to fix it
+all.data.checked %>%
+  mutate(Gloss.math.with.ones = Gloss.math) %>%
+  mutate(Gloss.math = gsub("⋅1(!\\d+)","\\1",Gloss.math)) %>%
+  mutate(Gloss.math = gsub("(!\\d+)1⋅","\\1",Gloss.math)) %>%
+  mutate(Gloss.math = str_remove(Gloss.math,"^(1⋅)")) %>%
+  mutate(Gloss.math = str_remove(Gloss.math,"(⋅1)$")) ->all.data.checked
+  
+  # all.data.checked
+
+
+# remove double parentheses
+
+all.data.checked %>%
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)\\)\\)","\\1",Gloss.math)) %>% #((n))
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)\\+([0-9]+)\\)\\)","\\+\\1\\+\\2",Gloss.math))  %>% #((n+m))
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)−([0-9]+)\\)\\)","\\(\\1\\−\\2\\)",Gloss.math)) %>% #((n−m))
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)⋅([0-9]+)\\)\\)","\\1⋅\\2\\",Gloss.math)) %>% #((n⋅m))
+  as.data.frame() -> all.data.checked
+
+
+#remove unneccessary parentheses
+
+all.data.checked %>%
+  mutate(Gloss.math = gsub("\\(([0-9]+)\\)","\\1",Gloss.math)) %>% #(n)
+  mutate(Gloss.math = gsub("\\+\\(([0-9]+)\\+([0-9]+)\\)","\\+\\1\\+\\2",Gloss.math))  %>% #+(n+m)
+  mutate(Gloss.math = gsub("\\(([0-9]+)\\+([0-9]+)\\)\\+","\\1\\+\\2\\+",Gloss.math)) %>% #(n+m)+
+  mutate(Gloss.math = gsub("\\(([0-9]+)⋅([0-9]+)\\)","\\1⋅\\2",Gloss.math)) %>% #(n⋅m)
+  mutate(Gloss.math = gsub("^\\(([0-9]+)−([0-9]+)\\)$","\\1−\\2",Gloss.math)) %>% #^(n−m)$
+  mutate(Gloss.math = gsub("^\\(([0-9]+)+([0-9]+)\\)$","\\1+\\2",Gloss.math)) %>% #^(n+m)$
+  as.data.frame() -> all.data.checked
+
+# #remove further unneccessary parentheses ((2+1)⋅6)+1 ; (5⋅2⋅2)+2 ; (10+5+5)
+
+all.data.checked %>%
+  mutate(Gloss.math = gsub("\\(([0-9]+)\\+([0-9]+)\\+([0-9]+)\\)","\\1\\+\\2\\+\\3",Gloss.math)) %>% #(n+m+q)
+  mutate(Gloss.math = gsub("\\(([0-9]+)⋅([0-9]+)⋅([0-9]+)\\)","\\1⋅\\2⋅\\3",Gloss.math)) %>% #(n⋅m⋅q)
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)\\+([0-9]+)\\)⋅([0-9]+)\\)","\\(\\1\\+\\2\\)⋅\\3",Gloss.math)) %>% #((n+m)⋅q)
+  mutate(Gloss.math = gsub("\\(([0-9]+)⋅\\(([0-9]+)\\+([0-9]+)\\)\\)","\\1⋅\\(\\2\\+3\\)",Gloss.math)) %>% #(q⋅(n+m))
+  mutate(Gloss.math = gsub("\\(\\(([0-9]+)−([0-9]+)\\)⋅([0-9]+)\\)","\\(\\1−\\2\\)⋅\\3",Gloss.math)) %>% #((n−m)⋅q)
+  mutate(Gloss.math = gsub("\\(([0-9]+)⋅\\(([0-9]+)−([0-9]+)\\)\\)","\\1⋅\\(\\2−3\\)",Gloss.math)) %>% #(q⋅(n−m))
+  as.data.frame() -> all.data.checked
+
+#remove +0
+
+all.data.checked %>%
+  mutate(Gloss.math = str_remove(Gloss.math,"\\+0")) -> all.data.checked
+  
+
+  
+write.csv(all.data.checked,"all.data.checked.csv")
+
+all.data.checked %>% filter(Glosser == "RB") -> all.data.checked.RB
+write.csv(all.data.checked.RB,"all.data.checked.RB.csv")
+
+
+all.data.checked.RB %>%
+  distinct(Language_ID) %>% nrow()
+
+
+all.data %>% filter(Glosser == "RB") -> all.data.RB
+write.csv(all.data.RB,"all.data.RB.csv")
+
+
+all.data.RB %>%
+  distinct(Language_ID) %>% nrow()
+
+#   
+#   
+# try<- c("1⋅20","30⋅1","11⋅20","30⋅11")
+# gsub("1⋅","",try)
+# gsub("⋅1","",try)
+# 
+# "\\d+"
+# ifelse(max(grepl("⋅1\\d+",try)),try,gsub("⋅1","",try))
+# ifelse(max(grepl("\\d+1⋅",try)),try,gsub("1⋅","",try))
+
+       
+#### Strategies to build a numeral
+
+
+all.data.checked %>%
+  count(NumberValue, Gloss.math) %>%
+  group_by(NumberValue) %>%
+  mutate(prop = prop.table(n),
+         number.strategies = n()) -> all.strategies
+
+
+write.csv(all.strategies,"all.strategies.csv")
+
+
+# all.strategies %>%
+#   filter(NumberValue == 100) %>% 
+#   arrange(desc(n)) %>% View()
+
+#loans----
+table(all.data$Loan)
+
+
+
+all.data %>%
+  mutate(Loan = ifelse(Loan == "FALSCH" | Loan == "false" | is.na(Loan), FALSE,
+                       ifelse(Loan == "WAHR" | Loan == "true", TRUE,
+                              Loan)),
+         Loan = as.logical(Loan))  -> tmp
+
+table(tmp$Loan, useNA = "ifany")/nrow(tmp)
+
+tmp %>%
+  filter(Loan == T) -> borrowed
+-sort(-table(borrowed$NumberValue)) %>% as.data.frame() %>% View()
+-sort(-table(borrowed$Language_ID))
+
+
+
+#-------
+# # languages in Africa still to code
+# setwd("..")
+# unique_languages <- read.csv("./etc/unique_languages.csv")
+# forms_final <- read.csv("./etc/forms_final.csv")
+# 
+# unique_languages %>%
+#   filter(Macroarea == "Africa") %>%
+#   mutate(is.glossed = (ID %in% all.data$Language_ID)) %>%
+#   arrange(desc(is.glossed))-> unique_languages.africa.is.glossed
+# 
+# 
+# table(unique_languages.africa.is.glossed$is.glossed)
+# 
+# write.csv(unique_languages.africa.is.glossed,"africa.languages.glossed.csv")
+# 
+# unique_languages.africa.is.glossed %>%
+#   left_join(all.data, join_by(ID==Language_ID)) %>%
+#   distinct(ID, .keep_all = T) -> this
+# table(this$Glosser)
+
+
+#show example of dataset:
+
+# all.data.checked %>%
+#   filter(Language_ID == "numerals-tehi1237-1") %>% View()
+#   dplyr::select()
+
+#-------
+# languages  still to code
+setwd("..")
+
+
+# ############
+# #read.csv("for_glossing/languages_ac84f3f2c4e79b2225f31db1426dcdd3de3edf4a.csv") -> langs.to.code
+# langs.to.code %>% 
+#   dplyr::select(ID) -> unique_languages
+# # 
+# # unique_languages <- 
+# # forms_final <- read.csv("./etc/forms_final.csv")
+# 
+# unique_languages %>%
+# #  filter(Macroarea == "Africa") %>%
+#   mutate(is.glossed = (ID %in% all.data$Language_ID)) %>%
+#   arrange(desc(is.glossed))-> unique_languages.is.glossed
+# 
+# 
+# table(unique_languages.is.glossed$is.glossed)
+# 
+# write.csv(unique_languages.is.glossed,"glossed/languages.glossed.and.not.glossed.csv")
+# 
+# unique_languages.is.glossed %>%
+#   filter(is.glossed == FALSE) -> unique_languages.not.glossed
+# 
+# 
+# 
+# unique_languages.is.glossed %>%
+#   left_join(all.data, join_by(ID==Language_ID)) %>%
+#   distinct(ID, .keep_all = T) -> this
+# table(this$Glosser)
+# 
+# 
+# # #show example of dataset:
+# # 
+# # all.data.checked %>%
+# #   filter(Language_ID == "numerals-tehi1237-1") %>% View()
+# #   dplyr::select()
+# # 
+# # langs.to.code %>% 
+# #     filter(ID %in% unique_languages.not.glossed$ID) -> languages.not.glossed
+# # 
+# # 
+# #     write.csv(languages.not.glossed,"glossed/languages.not.glossed.csv")
+# #   
+# #     
+# #     table(languages.not.glossed$Macroarea)
+# #     -sort(-table(languages.not.glossed$Family))
+# ############
+
+#some languages have been coded from different doculects than in languages.to.code.
+
+#Let's match our coded data with their corresponding language-level glottocodes (according to Glottolog 5.0)
+
+read.csv("../cldf/languages.csv") -> langs.full
+
+langs.full %>%
+  filter(Family != "Bookkeeping") %>%
+  dplyr::select(c(ID,Glottocode)) -> correspondences_nb
+
+all.data %>%
+  mutate(Language_ID_mod = paste0("numerals-",Language_ID)) -> all.data_mod
+
+#extract the glottocode from the all.data file:
+
+all.data_mod %>% 
+  mutate(is.mod = ifelse(Language_ID %in% correspondences_nb$ID, 1, ifelse(Language_ID_mod %in% correspondences_nb$ID,2,0 ) )) %>%
+  mutate(Language_ID_final = ifelse(is.mod == 1, Language_ID, ifelse(is.mod == 2, Language_ID_mod, Language_ID))) %>%
+  left_join(correspondences_nb, join_by(Language_ID_final == ID)) ->
+  all.data_matched
+
+#pick unique languages
+all.data_matched %>%
+  distinct(Language_ID_final, .keep_all = T) -> unique_languages_matched
+
+nrow(unique_languages_matched)
+#4757 languages have been glossed
+
+#of these, how many are not linked:
+unique_languages_matched %>%
+  filter(is.na(Glottocode)) -> unique_languages_glossed_no_match
+
+table(unique_languages_glossed_no_match$Glosser)
+# EAT  NK  RB 
+# 7  13 127 
+#which glottocodes are missing:
+
+correspondences_nb %>%
+  distinct(Glottocode) -> glottocodes.to.gloss
+
+
+
+# 
+# ########################
+# 
+# read.csv("../cldf/languages.csv") -> langs.full
+# 
+# langs.full %>% 
+#   dplyr::select(c(Glottocode,ID)) -> unique_languages
+# 
+# all.data %>%
+#   mutate(Language_ID_mod = paste0("numerals-",Language_ID)) -> all.data_mod
+#   
+# unique_languages %>%
+#   #  filter(Macroarea == "Africa") %>%
+#   mutate(is.glossed =( (ID %in% all.data_mod$Language_ID) | (ID %in% all.data_mod$Language_ID_mod) ) ) %>%
+#   arrange(desc(is.glossed))-> unique_languages.is.glossed
+# 
+# #pick the glossed one for each glottocode:
+# unique_languages.is.glossed %>%
+#   group_by(Glottocode) %>%
+#   top_n(1) %>%
+#   ungroup() -> this
+# 
+# -sort(-table(this$Glottocode))
+# 
+# 
+# table(this$is.glossed) #there are repetitions
+# # FALSE  TRUE 
+# # 672  4609 
+# #while the total number of glossed doculects is:
+# all.data %>%
+#   distinct(Language_ID) %>%
+#   nrow()
+# #4788
+# this %>%
+#   filter(is.glossed == F) %>%
+#   distinct(Glottocode) -> missing.glottocodes
+# 
+# 
+# langs.full %>%
+#   filter(Glottocode %in% missing.glottocodes$Glottocode) %>%
+#   distinct(Glottocode,.keep_all = T) -> unique_languages.not.glossed
+# write.csv(unique_languages.is.glossed,"glossed/languages.glossed.and.not.glossed.csv")
+# write.csv(unique_languages.not.glossed,"glossed/languages.not.glossed.csv")
+# 
+# table(unique_languages.not.glossed$Macroarea) %>% View()
+# -sort(-table(unique_languages.not.glossed$Family)) %>% View()
+# 
+# 
+# unique_languages.is.glossed %>%
+#   left_join(all.data, join_by(ID==Language_ID)) %>%
+#   distinct(ID, .keep_all = T) -> that
+# table(that$Glosser)
+# table(that$Glosser) %>% sum()
+# 
+
+langs.full %>%
+  filter(Family %in% c("South Omotic", "Ta-Ne-Omotic")) -> langs.omotic
+
+unique_languages_matched %>%
+  inner_join(langs.omotic, join_by(Language_ID_final == ID)) -> this
+
+unique_languages_matched %>%
+  inner_join(langs.omotic, join_by(Language_ID_final == ID)) -> this
+
+this %>%
+  select(Glottocode.x) -> that
+
+
+unique_languages_matched %>%
+  right_join(langs.omotic, join_by(Language_ID_final == ID)) -> this
+
+this %>% select(Glottocode.y, Glottocode.x) %>% View()
+
