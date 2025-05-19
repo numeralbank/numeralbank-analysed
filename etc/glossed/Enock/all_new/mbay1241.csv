@@ -6,8 +6,8 @@ numerals-mbay1241-1-four-1;numerals-mbay1241-1;Chan2019;four;4;sɔ̄ɔ́;soo;;FA
 numerals-mbay1241-1-five-1;numerals-mbay1241-1;Chan2019;five;5;mḭ̄́ḭ;mii;;FALSE;5;;
 numerals-mbay1241-1-six-1;numerals-mbay1241-1;Chan2019;six;6;kə́-bɔ̀y-dètə́;kaboydeta;;FALSE;6;check: composite six, insufficient data to determine constituents;
 numerals-mbay1241-1-seven-1;numerals-mbay1241-1;Chan2019;seven;7;tènə̀-mə̀tá;tenamata;( 5 + 1 );FALSE;4'+3;;
-numerals-mbay1241-1-eight-1;numerals-mbay1241-1;Chan2019;eight;8;jī-jōó;jijoo;( 10 - 2 );FALSE;10—2;;
-numerals-mbay1241-1-nine-1;numerals-mbay1241-1;Chan2019;nine;9;jī-kə́rā;jikara;( 10 - 1 );FALSE;10—1;;
+numerals-mbay1241-1-eight-1;numerals-mbay1241-1;Chan2019;eight;8;jī-jōó;jijoo;( 10 - 2 );FALSE;10-2;;
+numerals-mbay1241-1-nine-1;numerals-mbay1241-1;Chan2019;nine;9;jī-kə́rā;jikara;( 10 - 1 );FALSE;10-1;;
 numerals-mbay1241-1-ten-1;numerals-mbay1241-1;Chan2019;ten;10;kə̀lá;kala;;FALSE;10;;
 numerals-mbay1241-1-eleven-1;numerals-mbay1241-1;Chan2019;eleven;11;kə̀lá-ɡìdə̀-kə̀-kə́rā;kalagidakakara;;FALSE;10'+{LIG}1;;
 numerals-mbay1241-1-twelve-1;numerals-mbay1241-1;Chan2019;twelve;12;kə̀lá-ɡìdə̀-kə̀-jōó;kalagidakajoo;;FALSE;10'+{LIG}2;;
