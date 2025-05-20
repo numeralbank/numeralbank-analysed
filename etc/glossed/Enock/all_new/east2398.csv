@@ -31,11 +31,11 @@ numerals-east2398-2-twentyeight-1;numerals-east2398-2;Chan2019;twentyeight;28;ɡ
 numerals-east2398-2-twentynine-1;numerals-east2398-2;Chan2019;twentynine;29;ɡ͡bēy tèsẽ̄ kwàrésyàr nē;gbeytesekwaresyarne;;FALSE;20+{LIG}5’+4{LIG};;
 numerals-east2398-2-thirty-1;numerals-east2398-2;Chan2019;thirty;30;ɡ͡bèy sẽ̄nsyē;gbeysensye;;FALSE;20+10;;
 numerals-east2398-2-forty-1;numerals-east2398-2;Chan2019;forty;40;ɡ͡bèèsĩ̀ĩ;gbeesii;( 20 x 2 ' twenty twice ');FALSE;20·2;;
-numerals-east2398-2-fifty-1;numerals-east2398-2;Chan2019;fifty;50;ɡ͡bèèsĩ̀ĩ sẽ̄nsyē;gbeesiisensye;;FALSE;;;
+numerals-east2398-2-fifty-1;numerals-east2398-2;Chan2019;fifty;50;ɡ͡bèèsĩ̀ĩ sẽ̄nsyē;gbeesiisensye;;FALSE;(20·2)+10;;
 numerals-east2398-2-sixty-1;numerals-east2398-2;Chan2019;sixty;60;ɡ͡bèetã̀ã;gbeetaa;( 20 x 3 );FALSE;20·3;;
-numerals-east2398-2-seventy-1;numerals-east2398-2;Chan2019;seventy;70;ɡ͡bèetã̀ã sẽ̄nsyē;gbeetaasensye;;FALSE;;;
+numerals-east2398-2-seventy-1;numerals-east2398-2;Chan2019;seventy;70;ɡ͡bèetã̀ã sẽ̄nsyē;gbeetaasensye;;FALSE;(20·3)+10;;
 numerals-east2398-2-eighty-1;numerals-east2398-2;Chan2019;eighty;80;ɡ͡bèerésyàar;gbeeresyaar;( 20 x 4 );FALSE;20·4;;
-numerals-east2398-2-ninety-1;numerals-east2398-2;Chan2019;ninety;90;ɡ͡bèerésyàar sẽ̄nsyē;gbeeresyaarsensye;;FALSE;;;
+numerals-east2398-2-ninety-1;numerals-east2398-2;Chan2019;ninety;90;ɡ͡bèerésyàar sẽ̄nsyē;gbeeresyaarsensye;;FALSE;(20·4)+10;;
 numerals-east2398-2-hundred-1;numerals-east2398-2;Chan2019;hundred;100;ɡ͡bèebwà;gbeebwa;( 20 x 5 );FALSE;20·5;;
 numerals-east2398-2-twohundred-1;numerals-east2398-2;Chan2019;twohundred;200;kūrɛ̄ɛ;kuree;;FALSE;200;;
 numerals-east2398-2-threehundred-1;numerals-east2398-2;Chan2019;threehundred;300;kūrɛ̄ɛ ɡ͡bèebwà;kureegbeebwa;(200+ 100);FALSE;200+(20·5);;
