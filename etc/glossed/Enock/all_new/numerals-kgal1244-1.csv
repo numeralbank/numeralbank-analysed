@@ -1,41 +1,41 @@
-"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
-"kgal1244-1","kgal1244-1-1-1",1,"(bʊ)ːŋwɪ","(bʊ)ːŋwɪ","{CL}1","1",NA
-"kgal1244-1","kgal1244-1-2-1",2,"(bʊ)bɪrɪ́","(bʊ)bɪrɪ́","{CL}2","2",NA
-"kgal1244-1","kgal1244-1-3-1",3,"(bʊ)ráːrʊ","(bʊ)ráːrʊ","{CL}3","3",NA
-"kgal1244-1","kgal1244-1-4-1",4,"(bʊ)ːnɛ","(bʊ)ːnɛ","{CL}4","4",NA
-"kgal1244-1","kgal1244-1-5-1",5,"(bʊ)tʰáːnʊ","(bʊ)tʰáːnʊ","{CL}5","5",NA
-"kgal1244-1","kgal1244-1-6-1",6,"(bʊ)kʲikʲáːnɪ","(bʊ)kʲikʲáːnɪ","{CL}6","6",NA
-"kgal1244-1","kgal1244-1-7-1",7,"(bʊ)suːpá","(bʊ)suːpá","{CL}7","7",NA
-"kgal1244-1","kgal1244-1-8-1",8,"(bʊ)bútámɪbeːrí","(bʊ)bútámɪbeːrí","{CL}{LIG}[10]-2","10-2","( litː 10 'break' 2)"
-"kgal1244-1","kgal1244-1-9-1",9,"(bʊ)bútámowóːnʷɛ","(bʊ)bútámowóːnʷɛ","{CL}{LIG}[10]-1","10 - 1?","( litː 10 'break' 1)"
-"kgal1244-1","kgal1244-1-10-1",10,"lɪʃʊ́ːmɪ","lɪʃʊ́ːmɪ","{CL’}10","10",NA
-"kgal1244-1","kgal1244-1-11-1",11,"lɪʃʊ́mɪ́ lɪ́ mʊ́ːnɔ","lɪʃʊ́mɪ́ lɪ́ mʊ́ːnɔ",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}1",NA
-"kgal1244-1","kgal1244-1-12-1",12,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}2","LIG: “míno/meno” means what?"
-"kgal1244-1","kgal1244-1-13-1",13,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}3","overcounting!"
-"kgal1244-1","kgal1244-1-14-1",14,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}4",NA
-"kgal1244-1","kgal1244-1-15-1",15,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}5",NA
-"kgal1244-1","kgal1244-1-16-1",16,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}6","form differs from 6"
-"kgal1244-1","kgal1244-1-17-1",17,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ súːpa","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ súːpa",NA,"{CL’}10+{+}{CL”’}1+{+}{CL”’}7",NA
-"kgal1244-1","kgal1244-1-18-1",18,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámɪbeːrí","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámɪbeːrí",NA,"{CL’}10+{+}{CL”’}1+{+}({CL}[10]{LIG}-2)",NA
-"kgal1244-1","kgal1244-1-19-1",19,"lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ","lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ",NA,"{CL’}10+{+}{CL”’}1+{+}({CL}[10]{LIG}-1)",NA
-"kgal1244-1","kgal1244-1-20-1",20,"maʃʊ́mɪ́ ʊ́ mabeːrí","maʃʊ́mɪ́ ʊ́ mabeːrí","{CL”}10·{·}{CL”}2",NA,NA
-"kgal1244-1","kgal1244-1-21-1",21,"maʃʊ́mɪ ʊ́ maberí lɪ́ mʊ́ːnɔ","maʃʊ́mɪ ʊ́ maberí lɪ́ mʊ́ːnɔ",NA,"({CL”}10·{·}{CL”}2)+{CL”}1","OVERCOUNTING"
-"kgal1244-1","kgal1244-1-22-1",22,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}2",NA
-"kgal1244-1","kgal1244-1-23-1",23,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}3",NA
-"kgal1244-1","kgal1244-1-24-1",24,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}4",NA
-"kgal1244-1","kgal1244-1-25-1",25,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}5",NA
-"kgal1244-1","kgal1244-1-26-1",26,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}6",NA
-"kgal1244-1","kgal1244-1-27-1",27,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ súːpa","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ súːpa",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}7",NA
-"kgal1244-1","kgal1244-1-28-1",28,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámɪbeːrí","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámɪbeːrí",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}({CL}[10]{LIG}-2)",NA
-"kgal1244-1","kgal1244-1-29-1",29,"maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ","maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ",NA,"({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}({CL}[10]{LIG}-1)",NA
-"kgal1244-1","kgal1244-1-30-1",30,"maʃʊ́mɪ ʊ́ maráːrʊ","maʃʊ́mɪ ʊ́ maráːrʊ","{CL”}10·{·}{CL”}3","10·3",NA
-"kgal1244-1","kgal1244-1-40-1",40,"maʃʊ́mɪ ʊ́ máːnɛ","maʃʊ́mɪ ʊ́ máːnɛ","{CL”}10·{·}{CL”}4","10·4",NA
-"kgal1244-1","kgal1244-1-50-1",50,"maʃʊ́mɪ ʊ́ matʰáːnʊ","maʃʊ́mɪ ʊ́ matʰáːnʊ","{CL”}10·{·}{CL”}5","10·5",NA
-"kgal1244-1","kgal1244-1-60-1",60,"maʃʊ́mɪ ʊ́ marátáːrʊ","maʃʊ́mɪ ʊ́ marátáːrʊ","{CL”}10·{·}{CL”}6","10·(x3)",NA
-"kgal1244-1","kgal1244-1-70-1",70,"maʃʊ́mɪ ɪ súːpa","maʃʊ́mɪ ɪ súːpa","{CL”}10·{·}{CL”}7","10·7",NA
-"kgal1244-1","kgal1244-1-80-1",80,"maʃʊ́mɪ ɪ bútámɪbeːrí","maʃʊ́mɪ ɪ bútámɪbeːrí","{CL”}10·{·}{CL”}8","10·(10-2)",NA
-"kgal1244-1","kgal1244-1-90-1",90,"maʃʊ́mɪ ɪ bútámowóːnʷɛ","maʃʊ́mɪ ɪ bútámowóːnʷɛ","{CL”}10·{·}{CL”}9","10·(10-1)",NA
-"kgal1244-1","kgal1244-1-100-1",100,"lɪkχʊ́ːlʊ","lɪkχʊ́ːlʊ","{“‘}100","100",NA
-"kgal1244-1","kgal1244-1-200-1",200,"makχʊ́lʊ ʊ́ mabeːrí","makχʊ́lʊ ʊ́ mabeːrí","{CL”}100·{·}{CL”}2","100·2",NA
-"kgal1244-1","kgal1244-1-1000-1",1000,"ʃɪkɪkʲɪ","ʃɪkɪkʲɪ","{“‘}1000","1000",NA
-"kgal1244-1","kgal1244-1-2000-1",2000,"bɪkɪkʲɪ zé bibeːrí","bɪkɪkʲɪ zé bibeːrí","{CL”’}1000·{·}{CL”’}2","1000·2",NA
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+kgal1244-1,kgal1244-1-1-1,1,(bʊ)ːŋwɪ,(bʊ)ːŋwɪ,{CL}1,,NA
+kgal1244-1,kgal1244-1-2-1,2,(bʊ)bɪrɪ́,(bʊ)bɪrɪ́,{CL}2,,NA
+kgal1244-1,kgal1244-1-3-1,3,(bʊ)ráːrʊ,(bʊ)ráːrʊ,{CL}3,,NA
+kgal1244-1,kgal1244-1-4-1,4,(bʊ)ːnɛ,(bʊ)ːnɛ,{CL}4,,NA
+kgal1244-1,kgal1244-1-5-1,5,(bʊ)tʰáːnʊ,(bʊ)tʰáːnʊ,{CL}5,,NA
+kgal1244-1,kgal1244-1-6-1,6,(bʊ)kʲikʲáːnɪ,(bʊ)kʲikʲáːnɪ,{CL}6,,NA
+kgal1244-1,kgal1244-1-7-1,7,(bʊ)suːpá,(bʊ)suːpá,{CL}7,,NA
+kgal1244-1,kgal1244-1-8-1,8,(bʊ)bútámɪbeːrí,(bʊ)bútámɪbeːrí,{CL}{LIG}[10]-2,,( litː 10 'break' 2)
+kgal1244-1,kgal1244-1-9-1,9,(bʊ)bútámowóːnʷɛ,(bʊ)bútámowóːnʷɛ,{CL}{LIG}[10]-1,,( litː 10 'break' 1)
+kgal1244-1,kgal1244-1-10-1,10,lɪʃʊ́ːmɪ,lɪʃʊ́ːmɪ,{CL’}10,,NA
+kgal1244-1,kgal1244-1-11-1,11,lɪʃʊ́mɪ́ lɪ́ mʊ́ːnɔ,lɪʃʊ́mɪ́ lɪ́ mʊ́ːnɔ,{CL’}10+{+}{CL”’}1+{+}{CL”’}1,,NA
+kgal1244-1,kgal1244-1-12-1,12,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí,{CL’}10+{+}{CL”’}1+{+}{CL”’}2,,LIG: “míno/meno” means what?
+kgal1244-1,kgal1244-1-13-1,13,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ,{CL’}10+{+}{CL”’}1+{+}{CL”’}3,,overcounting!
+kgal1244-1,kgal1244-1-14-1,14,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ,{CL’}10+{+}{CL”’}1+{+}{CL”’}4,,NA
+kgal1244-1,kgal1244-1-15-1,15,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ,{CL’}10+{+}{CL”’}1+{+}{CL”’}5,,NA
+kgal1244-1,kgal1244-1-16-1,16,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ,{CL’}10+{+}{CL”’}1+{+}{CL”’}6,,form differs from 6
+kgal1244-1,kgal1244-1-17-1,17,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ súːpa,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ súːpa,{CL’}10+{+}{CL”’}1+{+}{CL”’}7,,NA
+kgal1244-1,kgal1244-1-18-1,18,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámɪbeːrí,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámɪbeːrí,{CL’}10+{+}{CL”’}1+{+}({CL}[10]{LIG}-2),,NA
+kgal1244-1,kgal1244-1-19-1,19,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ,lɪʃʊ́mɪ́ lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ,{CL’}10+{+}{CL”’}1+{+}({CL}[10]{LIG}-1),,NA
+kgal1244-1,kgal1244-1-20-1,20,maʃʊ́mɪ́ ʊ́ mabeːrí,maʃʊ́mɪ́ ʊ́ mabeːrí,{CL”}10·{·}{CL”}2,,NA
+kgal1244-1,kgal1244-1-21-1,21,maʃʊ́mɪ ʊ́ maberí lɪ́ mʊ́ːnɔ,maʃʊ́mɪ ʊ́ maberí lɪ́ mʊ́ːnɔ,({CL”}10·{·}{CL”}2)+{CL”}1,,OVERCOUNTING
+kgal1244-1,kgal1244-1-22-1,22,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪbeːrí,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}2,,NA
+kgal1244-1,kgal1244-1-23-1,23,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪráːrʊ,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}3,,NA
+kgal1244-1,kgal1244-1-24-1,24,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪ́ːnɛ,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}4,,NA
+kgal1244-1,kgal1244-1-25-1,25,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪtʰáːnʊ,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}5,,NA
+kgal1244-1,kgal1244-1-26-1,26,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ lɪ mɪrátáːrʊ,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}6,,NA
+kgal1244-1,kgal1244-1-27-1,27,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ súːpa,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ súːpa,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}7,,NA
+kgal1244-1,kgal1244-1-28-1,28,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámɪbeːrí,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámɪbeːrí,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}({CL}[10]{LIG}-2),,NA
+kgal1244-1,kgal1244-1-29-1,29,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ,maʃʊ́mɪ ʊ́ maberí lɪ́ mɪ́nɔ ɪ bútámowóːnʷɛ,({CL”}10·{·}{CL”}2)+{+}{CL”]}1+{+}({CL}[10]{LIG}-1),,NA
+kgal1244-1,kgal1244-1-30-1,30,maʃʊ́mɪ ʊ́ maráːrʊ,maʃʊ́mɪ ʊ́ maráːrʊ,{CL”}10·{·}{CL”}3,,NA
+kgal1244-1,kgal1244-1-40-1,40,maʃʊ́mɪ ʊ́ máːnɛ,maʃʊ́mɪ ʊ́ máːnɛ,{CL”}10·{·}{CL”}4,,NA
+kgal1244-1,kgal1244-1-50-1,50,maʃʊ́mɪ ʊ́ matʰáːnʊ,maʃʊ́mɪ ʊ́ matʰáːnʊ,{CL”}10·{·}{CL”}5,,NA
+kgal1244-1,kgal1244-1-60-1,60,maʃʊ́mɪ ʊ́ marátáːrʊ,maʃʊ́mɪ ʊ́ marátáːrʊ,{CL”}10·{·}{CL”}6,,NA
+kgal1244-1,kgal1244-1-70-1,70,maʃʊ́mɪ ɪ súːpa,maʃʊ́mɪ ɪ súːpa,{CL”}10·{·}{CL”}7,,NA
+kgal1244-1,kgal1244-1-80-1,80,maʃʊ́mɪ ɪ bútámɪbeːrí,maʃʊ́mɪ ɪ bútámɪbeːrí,{CL”}10·{·}{CL”}8,,NA
+kgal1244-1,kgal1244-1-90-1,90,maʃʊ́mɪ ɪ bútámowóːnʷɛ,maʃʊ́mɪ ɪ bútámowóːnʷɛ,{CL”}10·{·}{CL”}9,,NA
+kgal1244-1,kgal1244-1-100-1,100,lɪkχʊ́ːlʊ,lɪkχʊ́ːlʊ,{“‘}100,,NA
+kgal1244-1,kgal1244-1-200-1,200,makχʊ́lʊ ʊ́ mabeːrí,makχʊ́lʊ ʊ́ mabeːrí,{CL”}100·{·}{CL”}2,,NA
+kgal1244-1,kgal1244-1-1000-1,1000,ʃɪkɪkʲɪ,ʃɪkɪkʲɪ,{“‘}1000,,NA
+kgal1244-1,kgal1244-1-2000-1,2000,bɪkɪkʲɪ zé bibeːrí,bɪkɪkʲɪ zé bibeːrí,{CL”’}1000·{·}{CL”’}2,,NA
