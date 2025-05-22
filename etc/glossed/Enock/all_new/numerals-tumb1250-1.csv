@@ -1,42 +1,41 @@
-"Language_ID","ID","Parameter_ID","Value","Form","Gloss","Alternate_Gloss","Comment_Glosser"
-"tumb1250-1","tumb1250-1-1-1",1,"ka-môza","ka-môza","{CL}1","1",NA
-"tumb1250-1","tumb1250-1-2-1",2,"tu-ŵîri","tu-ŵîri","{CL}2","2",NA
-"tumb1250-1","tumb1250-1-3-1",3,"tu-tâtu","tu-tâtu","{CL}3","3",NA
-"tumb1250-1","tumb1250-1-4-1",4,"tu-nâyi","tu-nâyi","{CL}4","4",NA
-"tumb1250-1","tumb1250-1-5-1",5,"tu-nkʰonde","tu-nkʰonde","{CL}5","5",NA
-"tumb1250-1","tumb1250-1-6-1",6,"tu-nkʰonde na ka-môza","tu-nkʰonde na ka-môza","{CL}5+{+}{CL}1","5 + 1",NA
-"tumb1250-1","tumb1250-1-7-1",7,"tu-nkʰonde na tu-ŵîri","tu-nkʰonde na tu-ŵîri","{CL}5+{+}{CL}2","5 + 2",NA
-"tumb1250-1","tumb1250-1-8-1",8,"tu-nkʰonde na tu-tâtu","tu-nkʰonde na tu-tâtu","{CL}5+{+}{CL}3","5 + 3",NA
-"tumb1250-1","tumb1250-1-9-1",9,"tu-nkʰonde na tu-nâyi","tu-nkʰonde na tu-nâyi","{CL}5+{+}{CL}4","5 + 4",NA
-"tumb1250-1","tumb1250-1-10-1",10,"kʰûmi","kʰûmi","10","10",NA
-"tumb1250-1","tumb1250-1-11-1",11,"kʰûmi na ka-môza","kʰûmi na ka-môza","10+{+}{CL}1","10 + 1",NA
-"tumb1250-1","tumb1250-1-12-1",12,"kʰûmi na tu-ŵîri","kʰûmi na tu-ŵîri","10+{+}{CL}2","10 + 2",NA
-"tumb1250-1","tumb1250-1-13-1",13,"kʰûmi na tu-tâtu","kʰûmi na tu-tâtu","10+{+}{CL}3","10 + 3",NA
-"tumb1250-1","tumb1250-1-14-1",14,"kʰûmi na tu-nâyi","kʰûmi na tu-nâyi","10+{+}{CL}4","10 + 4",NA
-"tumb1250-1","tumb1250-1-15-1",15,"kʰûmi na tu-nkʰonde","kʰûmi na tu-nkʰonde","10+{+}{CL}5","10 + 5",NA
-"tumb1250-1","tumb1250-1-16-1",16,"kʰûmi na tu-nkʰonde na ka-môza","kʰûmi na tu-nkʰonde na ka-môza","10+{+}{CL}5+{+}{CL}1","10 + (5 + 1)",NA
-"tumb1250-1","tumb1250-1-17-1",17,"kʰûmi na tu-nkʰonde na tu-ŵîr","kʰûmi na tu-nkʰonde na tu-ŵîr","10+{+}{CL}5+{+}{CL}2’","10 + (5 + 2)
-",NA
-"tumb1250-1","tumb1250-1-18-1",18,"kʰûmi na tu-nkʰonde na tu-tâtu","kʰûmi na tu-nkʰonde na tu-tâtu","10+{+}{CL}5+{+}{CL}3","10 + (5 + 3)",NA
-"tumb1250-1","tumb1250-1-19-1",19,"kʰûmi na tu-nkʰonde na tu-nâyi","kʰûmi na tu-nkʰonde na tu-nâyi","10+{+}{CL}5+{+}{CL}4","10 + (5 + 4)",NA
-"tumb1250-1","tumb1250-1-20-1",20,"makúmí ɡʰá-ŵîri or ɣá-ŵîri ???","makúmí ɡʰá-ŵîri or ɣá-ŵîri ???","{PLU}10·{LIG}2","10 · 2","or 10’·2"
-"tumb1250-1","tumb1250-1-21-1",21,"makúmí ɡʰá-ŵîri na ka-môza","makúmí ɡʰá-ŵîri na ka-môza","({PLU}10·{LIG}2)+{+}1","(10 · 2) + 1",NA
-"tumb1250-1","tumb1250-1-22-1",22,"makúmí ɡʰá-ŵîrí na tu-ŵîri","makúmí ɡʰá-ŵîrí na tu-ŵîri","({PLU}10·{LIG}2)+{+}{CL}2","(10 · 2) + 2",NA
-"tumb1250-1","tumb1250-1-23-1",23,"makúmí ɡʰá-ŵîrí na tu-tâtu","makúmí ɡʰá-ŵîrí na tu-tâtu","({PLU}10·{LIG}2)+{+}{CL}3","(10 · 2) + 3",NA
-"tumb1250-1","tumb1250-1-24-1",24,"makúmí ɡʰá-ŵîrí na tu-nâyi","makúmí ɡʰá-ŵîrí na tu-nâyi","({PLU}10·{LIG}2)+{+}{CL}4","(10 · 2) + 4",NA
-"tumb1250-1","tumb1250-1-25-1",25,"makúmí ɡʰá-ŵîrí na tu-nkʰonde","makúmí ɡʰá-ŵîrí na tu-nkʰonde","({PLU}10·{LIG}2)+{+}{CL}4","(10 · 2) + 5",NA
-"tumb1250-1","tumb1250-1-26-1",26,"makúmí ɡʰá-ŵîrí na + 6","makúmí ɡʰá-ŵîrí na + 6","?","(10 · 2) + (5 + 1)",forms incomplete
-"tumb1250-1","tumb1250-1-27-1",27,"makúmí ɡʰá-ŵîrí na + 7","makúmí ɡʰá-ŵîrí na + 7","?","(10 · 2) + (5 + 2)",forms incomplete
-"tumb1250-1","tumb1250-1-28-1",28,"makúmí ɡʰá-ŵîrí na + 8","makúmí ɡʰá-ŵîrí na + 8","?","(10 · 2) + (5 + 3)",forms incomplete
-"tumb1250-1","tumb1250-1-29-1",29,"makúmí ɡʰá-ŵîrí na + 9","makúmí ɡʰá-ŵîrí na + 9","?","(10 · 2) + (5 + 4)",incomplete forms
-"tumb1250-1","tumb1250-1-30-1",30,"makúmí ɡʰá-tátu","makúmí ɡʰá-tátu","{PLU}10·{LIG}3","10 · 3",NA
-"tumb1250-1","tumb1250-1-40-1",40,"makúmí ɡʰá-nâyi","makúmí ɡʰá-nâyi","{PLU}10·{LIG}4","10 · 4",NA
-"tumb1250-1","tumb1250-1-50-1",50,"makúmí ɡʰá-nkʰonde","makúmí ɡʰá-nkʰonde","{PLU}10·{LIG}5","10 · 5",NA
-"tumb1250-1","tumb1250-1-60-1",60,"makúmí ɡʰá-nkʰonde na li-môza","makúmí ɡʰá-nkʰonde na li-môza","{PLU}10·{LIG}5+{?}1","10 · (5 + 1)",NA
-"tumb1250-1","tumb1250-1-70-1",70,"makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri","makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri","{PLU}10·{LIG}5+{LIG}2","10 · (5 + 2)",NA
-"tumb1250-1","tumb1250-1-80-1",80,"makúmí ɡʰá-nkʰonde na ɡʰá-tâtu","makúmí ɡʰá-nkʰonde na ɡʰá-tâtu","{PLU}10·{LIG}5+{LIG}3","10 · (5 + 3)",NA
-"tumb1250-1","tumb1250-1-90-1",90,"makúmí ɡʰá-nkʰonde na ɡʰá-nâyi","makúmí ɡʰá-nkʰonde na ɡʰá-nâyi","{PLU}10·{LIG}5+{LIG}4","10 · (5 + 4)",NA
-"tumb1250-1","tumb1250-1-100-1",100,"makúmí kʰûmi","makúmí kʰûmi","{PLU}10·10","10 · 10","( 10 x 10 )"
-"tumb1250-1","tumb1250-1-200-1",200,"makúmí kʰûmi na ɡʰáŵîri","makúmí kʰûmi na ɡʰáŵîri","{PLU}10·10·{·}{LIG}2","(10 · 10) · 2",NA
-"tumb1250-1","tumb1250-1-1000-1",1000,"ci-kwi = tʃikwi ?","ci-kwi = tʃikwi ?","{?}1000","x · 10?","two forms"
-"tumb1250-1","tumb1250-1-2000-1",2000,"vi-kwi ví-ŵîri","vi-kwi ví-ŵîri","{?}1000·{?}2","?","v-ligature"
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+tumb1250-1,tumb1250-1-1-1,1,ka-môza,ka-môza,{CL}1,,NA
+tumb1250-1,tumb1250-1-2-1,2,tu-ŵîri,tu-ŵîri,{CL}2,,NA
+tumb1250-1,tumb1250-1-3-1,3,tu-tâtu,tu-tâtu,{CL}3,,NA
+tumb1250-1,tumb1250-1-4-1,4,tu-nâyi,tu-nâyi,{CL}4,,NA
+tumb1250-1,tumb1250-1-5-1,5,tu-nkʰonde,tu-nkʰonde,{CL}5,,NA
+tumb1250-1,tumb1250-1-6-1,6,tu-nkʰonde na ka-môza,tu-nkʰonde na ka-môza,{CL}5+{+}{CL}1,,NA
+tumb1250-1,tumb1250-1-7-1,7,tu-nkʰonde na tu-ŵîri,tu-nkʰonde na tu-ŵîri,{CL}5+{+}{CL}2,,NA
+tumb1250-1,tumb1250-1-8-1,8,tu-nkʰonde na tu-tâtu,tu-nkʰonde na tu-tâtu,{CL}5+{+}{CL}3,,NA
+tumb1250-1,tumb1250-1-9-1,9,tu-nkʰonde na tu-nâyi,tu-nkʰonde na tu-nâyi,{CL}5+{+}{CL}4,,NA
+tumb1250-1,tumb1250-1-10-1,10,kʰûmi,kʰûmi,10,,NA
+tumb1250-1,tumb1250-1-11-1,11,kʰûmi na ka-môza,kʰûmi na ka-môza,10+{+}{CL}1,,NA
+tumb1250-1,tumb1250-1-12-1,12,kʰûmi na tu-ŵîri,kʰûmi na tu-ŵîri,10+{+}{CL}2,,NA
+tumb1250-1,tumb1250-1-13-1,13,kʰûmi na tu-tâtu,kʰûmi na tu-tâtu,10+{+}{CL}3,,NA
+tumb1250-1,tumb1250-1-14-1,14,kʰûmi na tu-nâyi,kʰûmi na tu-nâyi,10+{+}{CL}4,,NA
+tumb1250-1,tumb1250-1-15-1,15,kʰûmi na tu-nkʰonde,kʰûmi na tu-nkʰonde,10+{+}{CL}5,,NA
+tumb1250-1,tumb1250-1-16-1,16,kʰûmi na tu-nkʰonde na ka-môza,kʰûmi na tu-nkʰonde na ka-môza,10+{+}{CL}5+{+}{CL}1,,NA
+tumb1250-1,tumb1250-1-17-1,17,kʰûmi na tu-nkʰonde na tu-ŵîr,kʰûmi na tu-nkʰonde na tu-ŵîr,10+{+}{CL}5+{+}{CL}2’,,NA
+tumb1250-1,tumb1250-1-18-1,18,kʰûmi na tu-nkʰonde na tu-tâtu,kʰûmi na tu-nkʰonde na tu-tâtu,10+{+}{CL}5+{+}{CL}3,,NA
+tumb1250-1,tumb1250-1-19-1,19,kʰûmi na tu-nkʰonde na tu-nâyi,kʰûmi na tu-nkʰonde na tu-nâyi,10+{+}{CL}5+{+}{CL}4,,NA
+tumb1250-1,tumb1250-1-20-1,20,makúmí ɡʰá-ŵîri or ɣá-ŵîri ???,makúmí ɡʰá-ŵîri or ɣá-ŵîri ???,{PLU}10·{LIG}2,,or 10’·2
+tumb1250-1,tumb1250-1-21-1,21,makúmí ɡʰá-ŵîri na ka-môza,makúmí ɡʰá-ŵîri na ka-môza,({PLU}10·{LIG}2)+{+}1,,NA
+tumb1250-1,tumb1250-1-22-1,22,makúmí ɡʰá-ŵîrí na tu-ŵîri,makúmí ɡʰá-ŵîrí na tu-ŵîri,({PLU}10·{LIG}2)+{+}{CL}2,,NA
+tumb1250-1,tumb1250-1-23-1,23,makúmí ɡʰá-ŵîrí na tu-tâtu,makúmí ɡʰá-ŵîrí na tu-tâtu,({PLU}10·{LIG}2)+{+}{CL}3,,NA
+tumb1250-1,tumb1250-1-24-1,24,makúmí ɡʰá-ŵîrí na tu-nâyi,makúmí ɡʰá-ŵîrí na tu-nâyi,({PLU}10·{LIG}2)+{+}{CL}4,,NA
+tumb1250-1,tumb1250-1-25-1,25,makúmí ɡʰá-ŵîrí na tu-nkʰonde,makúmí ɡʰá-ŵîrí na tu-nkʰonde,({PLU}10·{LIG}2)+{+}{CL}5,,NA
+tumb1250-1,tumb1250-1-26-1,26,makúmí ɡʰá-ŵîrí na ka-môza,makúmí ɡʰá-ŵîrí na ka-môza,({PLU}10·{LIG}2)+{+}{CL}5+1,(10 · 2) + (5 + 1),edited: original form = makúmí ɡʰá-ŵîrí na + 6
+tumb1250-1,tumb1250-1-27-1,27,makúmí ɡʰá-ŵîrí na tu-ŵîr,makúmí ɡʰá-ŵîrí na tu-ŵîr,({PLU}10·{LIG}2)+{+}{CL}5+2',(10 · 2) + (5 + 2),NA
+tumb1250-1,tumb1250-1-28-1,28,makúmí ɡʰá-ŵîrí na tu-tâtu,makúmí ɡʰá-ŵîrí na tu-tâtu,({PLU}10·{LIG}2)+{+}{CL}5+3,(10 · 2) + (5 + 3),NA
+tumb1250-1,tumb1250-1-29-1,29,makúmí ɡʰá-ŵîrí na tu-nâyi,makúmí ɡʰá-ŵîrí na tu-nâyi,({PLU}10·{LIG}2)+{+}{CL}5+4,(10 · 2) + (5 + 4),NA
+tumb1250-1,tumb1250-1-30-1,30,makúmí ɡʰá-tátu,makúmí ɡʰá-tátu,{PLU}10·{LIG}3,,NA
+tumb1250-1,tumb1250-1-40-1,40,makúmí ɡʰá-nâyi,makúmí ɡʰá-nâyi,{PLU}10·{LIG}4,,NA
+tumb1250-1,tumb1250-1-50-1,50,makúmí ɡʰá-nkʰonde,makúmí ɡʰá-nkʰonde,{PLU}10·{LIG}5,,NA
+tumb1250-1,tumb1250-1-60-1,60,makúmí ɡʰá-nkʰonde na li-môza,makúmí ɡʰá-nkʰonde na li-môza,{PLU}10·{LIG}5+{?}1,,NA
+tumb1250-1,tumb1250-1-70-1,70,makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri,makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri,{PLU}10·{LIG}5+{LIG}2,,NA
+tumb1250-1,tumb1250-1-80-1,80,makúmí ɡʰá-nkʰonde na ɡʰá-tâtu,makúmí ɡʰá-nkʰonde na ɡʰá-tâtu,{PLU}10·{LIG}5+{LIG}3,,NA
+tumb1250-1,tumb1250-1-90-1,90,makúmí ɡʰá-nkʰonde na ɡʰá-nâyi,makúmí ɡʰá-nkʰonde na ɡʰá-nâyi,{PLU}10·{LIG}5+{LIG}4,,NA
+tumb1250-1,tumb1250-1-100-1,100,makúmí kʰûmi,makúmí kʰûmi,{PLU}10·10,,( 10 x 10 )
+tumb1250-1,tumb1250-1-200-1,200,makúmí kʰûmi na ɡʰáŵîri,makúmí kʰûmi na ɡʰáŵîri,{PLU}10·10·{·}{LIG}2,,NA
+tumb1250-1,tumb1250-1-1000-1,1000,ci-kwi = tʃikwi ?,ci-kwi = tʃikwi ?,1000,,two forms
+tumb1250-1,tumb1250-1-2000-1,2000,vi-kwi ví-ŵîri,vi-kwi ví-ŵîri,1000·2,,v-ligature
