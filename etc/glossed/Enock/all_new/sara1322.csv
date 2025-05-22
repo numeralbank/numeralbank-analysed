@@ -7,7 +7,7 @@ numerals-sara1322-1-five-1;numerals-sara1322-1;Chan2019;five;5;mìí;mii;;FALSE;
 numerals-sara1322-1-six-1;numerals-sara1322-1;Chan2019;six;6;mìi kàlí;miikali;( 5 + 1 );FALSE;5+1';;
 numerals-sara1322-1-seven-1;numerals-sara1322-1;Chan2019;seven;7;mìí já jó;miijajo;( 5 + 2 );FALSE;5+2;;
 numerals-sara1322-1-eight-1;numerals-sara1322-1;Chan2019;eight;8;sàlānjā;salanja;;FALSE;8;;
-numerals-sara1322-1-nine-1;numerals-sara1322-1;Chan2019;nine;9;dɔ̀ kám;dokam;;FALSE;10-1";;
+numerals-sara1322-1-nine-1;numerals-sara1322-1;Chan2019;nine;9;dɔ̀ kám;dokam;;FALSE;"10-1""";;
 numerals-sara1322-1-ten-1;numerals-sara1322-1;Chan2019;ten;10;dɔ̀ɡɔ̀;dogo;;FALSE;10;;
 numerals-sara1322-1-ten-2;numerals-sara1322-1;Chan2019;ten;10;kùtù;kutu;;FALSE;10’;;
 numerals-sara1322-1-eleven-1;numerals-sara1322-1;Chan2019;eleven;11;dɔ̀ɡɔ̀-ɡìdì-ɗíyá;dogogididiya;;FALSE;10+{LIG}1;;
@@ -18,7 +18,7 @@ numerals-sara1322-1-fifteen-1;numerals-sara1322-1;Chan2019;fifteen;15;dɔ̀ɡɔ�
 numerals-sara1322-1-sixteen-1;numerals-sara1322-1;Chan2019;sixteen;16;dɔ̀ɡɔ̀-ɡìdì-mìi kàlí;dogogidimiikali;;FALSE;10+{LIG}5+1';;
 numerals-sara1322-1-seventeen-1;numerals-sara1322-1;Chan2019;seventeen;17;dɔ̀ɡɔ̀-ɡìdì-mìí já jó;dogogidimiijajo;;FALSE;10+{LIG}5+2;;
 numerals-sara1322-1-eighteen-1;numerals-sara1322-1;Chan2019;eighteen;18;dɔ̀ɡɔ̀-ɡìdì-sàlānjā;dogogidisalanja;;FALSE;10+{LIG}8;;
-numerals-sara1322-1-nineteen-1;numerals-sara1322-1;Chan2019;nineteen;19;dɔ̀ɡɔ̀-ɡìdì-dɔ̀ kám;dogogididokam;;FALSE;10+{LIG}10-1";;
+numerals-sara1322-1-nineteen-1;numerals-sara1322-1;Chan2019;nineteen;19;dɔ̀ɡɔ̀-ɡìdì-dɔ̀ kám;dogogididokam;;FALSE;"10+{LIG}10-1""";;
 numerals-sara1322-1-twenty-1;numerals-sara1322-1;Chan2019;twenty;20;dɔ̀ɡɔ̀-jó;dogojo;;FALSE;10·2;;
 numerals-sara1322-1-twentyone-1;numerals-sara1322-1;Chan2019;twentyone;21;dɔ̀ɡɔ̀-jó-ɡìdì-;dogojogidi;;FALSE;(10·2)+[1];;
 numerals-sara1322-1-twentytwo-1;numerals-sara1322-1;Chan2019;twentytwo;22;dɔ̀ɡɔ̀-jó-ɡìdì-jó;dogojogidijo;;FALSE;(10·2)+2;;
