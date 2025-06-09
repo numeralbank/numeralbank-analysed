@@ -1,21 +1,9 @@
 "","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","Gloss.clean","Gloss.math","Gloss.calc","Math.well.defined"
-"1","numerals-acha1249-1-eighteen-1","numerals-acha1249-1","Chan2019","eighteen","18","tɑ31 tʂʰɿ55 tɑ31 pjɑ31 mɛ31 luŋ35","ta31tshr55ta31pja31me31lung35","","false","(1⋅10)+9(2⋅4)","","","KM","(1⋅10)+9(2⋅4)","(1⋅10)+9(2⋅4)","abs(abs(1*10))+9abs(abs(2*4))",0
-"2","numerals-lepc1244-2-eleven-2","numerals-lepc1244-2","Chan2019","eleven","11","kát tháp","katthap","","false","1+{?}","'tháp' might be a variant of 10",NA,"KM","1+","1+","1+",0
-"3","numerals-lepc1244-2-twelve-2","numerals-lepc1244-2","Chan2019","twelve","12","nyet tháp","nyetthap","","false","2+{?}","'tháp' might be a variant of 10",NA,"KM","2+","2+","2+",0
-"4","numerals-lepc1244-2-thirteen-2","numerals-lepc1244-2","Chan2019","thirteen","13","sám tháp","samthap","","false","3+{?}","'tháp' might be a variant of 10",NA,"KM","3+","3+","3+",0
-"5","numerals-lepc1244-2-fourteen-2","numerals-lepc1244-2","Chan2019","fourteen","14","fali tháp","falithap","","false","4+{?}","'tháp' might be a variant of 10",NA,"KM","4+","4+","4+",0
-"6","numerals-lepc1244-2-fifteen-2","numerals-lepc1244-2","Chan2019","fifteen","15","fangú tháp","fanguthap","","false","5+{?}","'tháp' might be a variant of 10",NA,"KM","5+","5+","5+",0
-"7","numerals-lepc1244-2-sixteen-2","numerals-lepc1244-2","Chan2019","sixteen","16","tarók tháp","tarokthap","","false","6+{?}","'tháp' might be a variant of 10",NA,"KM","6+","6+","6+",0
-"8","numerals-lepc1244-2-seventeen-2","numerals-lepc1244-2","Chan2019","seventeen","17","kakyók tháp","kakyokthap","","false","7+{?}","'tháp' might be a variant of 10",NA,"KM","7+","7+","7+",0
-"9","numerals-lepc1244-2-eighteen-2","numerals-lepc1244-2","Chan2019","eighteen","18","kaku tháp","kakuthap","","false","8+{?}","'tháp' might be a variant of 10",NA,"KM","8+","8+","8+",0
-"10","numerals-lepc1244-2-nineteen-2","numerals-lepc1244-2","Chan2019","nineteen","19","kakyót tháp","kakyotthap","","false","9+{?}","'tháp' might be a variant of 10",NA,"KM","9+","9+","9+",0
-"11","numerals-mani1292-1-seventy-1","numerals-mani1292-1","Chan2019","seventy","70","húmdra","humdra","","false","3⋅{?}","Maybe a case of phonetic reduction which is beyond my capacity to trace.","","KM","3⋅","3⋅","3*",0
-"12","numerals-mani1292-1-ninety-1","numerals-mani1292-1","Chan2019","ninety","90","məwdra","mawdra","","false","4⋅{?}","Maybe a case of phonetic reduction which is beyond my capacity to trace.","","KM","4⋅","4⋅","4*",0
-"13","beng1282-1-22-1","beng1282-1",NA,"twenty-two","22","mabu mabale na bebale","mabu mabale na bebale",NA,"FALSE","{(CL‴}10⋅{CL‴}2)+{+}{CL}2",NA,NA,"EAT","10⋅2)+2","10⋅2)+2","abs(10*2))+2",0
-"14","kani1279-1-23-1","kani1279-1",NA,"twenty-three","23","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}3",NA,NA,"EAT","(10⋅)+3","(10⋅)+3","abs(10*)+3",0
-"15","kani1279-1-24-1","kani1279-1",NA,"twenty-four","24","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}4",NA,NA,"EAT","(10⋅)+4","(10⋅)+4","abs(10*)+4",0
-"16","kani1279-1-25-1","kani1279-1",NA,"twenty-five","25","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}5",NA,NA,"EAT","(10⋅)+5","(10⋅)+5","abs(10*)+5",0
-"17","nyal1250-1-100-1","nyal1250-1",NA,"one hundred","100","emeya inɡono nɡbe","emeya inɡono nɡbe",NA,"FALSE","100+[+]",NA,NA,"EAT","100+[+]","100++","100++",0
-"18","numerals-furu1242-1-twelve-1","numerals-furu1242-1","Chan2019","twelve","12","bàléꜜ.ná.kálà.zɔ̀.ná.zó","balenakalazonazo",NA,"FALSE","10+1+",NA,NA,"EAT","10+1+","10+1+","10+1+",0
-"19","numerals-bond1246-2-fifty-1","numerals-bond1246-2","Chan2019","fifty","50","cíḿ tílà","cimtila",NA,"FALSE","100÷2",NA,NA,"EAT","100÷2","100÷2","100÷2",0
-"20","numerals-gbay1287-1-sixty-1","numerals-gbay1287-1","Chan2019","sixty","60","hɛ̃́rã́ː ɗòŋ k͡pém","heradongkpem",NA,"FALSE","10(5′+1)",NA,NA,"EAT","10(5′+1)","10(5+1)","10abs(5+1)",0
+"1","beng1282-1-22-1","beng1282-1",NA,"twenty-two","22","mabu mabale na bebale","mabu mabale na bebale",NA,"FALSE","{(CL‴}10⋅{CL‴}2)+{+}{CL}2",NA,NA,"EAT","10⋅2)+2","10⋅2)+2","abs(10*2))+2",0
+"2","kani1279-1-23-1","kani1279-1",NA,"twenty-three","23","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétátì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}3",NA,NA,"EAT","(10⋅)+3","(10⋅)+3","abs(10*)+3",0
+"3","kani1279-1-24-1","kani1279-1",NA,"twenty-four","24","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βénâ",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}4",NA,NA,"EAT","(10⋅)+4","(10⋅)+4","abs(10*)+4",0
+"4","kani1279-1-25-1","kani1279-1",NA,"twenty-five","25","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì","màkúmí mwɔ̂ːlɔ̀ ŋɔ̌ː βétáːnì",NA,"FALSE","({CL}10⋅{CL′})+{+}{CL′}5",NA,NA,"EAT","(10⋅)+5","(10⋅)+5","abs(10*)+5",0
+"5","nyal1250-1-100-1","nyal1250-1",NA,"one hundred","100","emeya inɡono nɡbe","emeya inɡono nɡbe",NA,"FALSE","100+[+]",NA,NA,"EAT","100+[+]","100++","100++",0
+"6","numerals-furu1242-1-twelve-1","numerals-furu1242-1","Chan2019","twelve","12","bàléꜜ.ná.kálà.zɔ̀.ná.zó","balenakalazonazo",NA,"FALSE","10+1+",NA,NA,"EAT","10+1+","10+1+","10+1+",0
+"7","numerals-bond1246-2-fifty-1","numerals-bond1246-2","Chan2019","fifty","50","cíḿ tílà","cimtila",NA,"FALSE","100÷2",NA,NA,"EAT","100÷2","100÷2","100÷2",0
+"8","numerals-gbay1287-1-sixty-1","numerals-gbay1287-1","Chan2019","sixty","60","hɛ̃́rã́ː ɗòŋ k͡pém","heradongkpem",NA,"FALSE","10(5′+1)",NA,NA,"EAT","10(5′+1)","10(5+1)","10abs(5+1)",0

@@ -463,14 +463,14 @@ rbind(all.data,temp.data) -> all.data
 #Enock----
 
 
-
-
-
-setwd("./Enock")
-temp.data <- NULL
-temp.1 = list.files( pattern="\\.csv$")
-#kill duplicated (correct in original data by Enock!)
-
+# 
+# 
+# ######delete all from----------
+# setwd("./Enock")
+# temp.data <- NULL
+# temp.1 = list.files( pattern="\\.csv$")
+# #kill duplicated (correct in original data by Enock!)
+# 
 to.ignore <- which(temp %in% c("numerals-busa1253-1 2.csv", #DUPLICATED
                                "numerals-ajab1235-2.csv", #DUPLICATED
                                "numerals-ajab1235-1 2.csv", #DUPLICATED
@@ -481,311 +481,509 @@ to.ignore <- which(temp %in% c("numerals-busa1253-1 2.csv", #DUPLICATED
                                "Kwa_numerals - Forms_11_24-2.csv"))
 
 if(length(to.ignore)>0){temp.1[-to.ignore] -> temp.1}
-
-
-myfiles.1 = lapply(temp.1, read.csv2,row.names=1)
-#myfiles = lapply(temp, read.csv2)
-length(myfiles.1)
-#98 files (OLD)
-#56 files (NEW)
-setwd("..")
-do.call(rbind.data.frame, myfiles.1) -> temp.data.1
-
-
-
-setwd("./Enock/Kru/")
-temp.data.2 <- NULL
-temp.2 = list.files( pattern="\\.csv$")
-
-myfiles.2 = lapply(temp.2, read.csv)
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.2)
-#26 files
-setwd("..")
-setwd("..")
-
-myfiles.2 %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-
-# all.ncols
-# 13 14 
-# 25  1  1 
-
-
-colnames(myfiles.2[[6]])
-myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
-
-
-for(i in 1:length(myfiles.2)){
-  print(i)
-  print(colnames(myfiles.2[[i]]))
-}
-colnames(myfiles.2[[18]]) 
-myfiles.2[[18]]$X <- 0
-
-do.call(rbind.data.frame, myfiles.2) -> temp.data.2
-
-#temp.data.2 <- temp.data.2[,-1]
-temp.data.2$X <- NULL
-
-
-setwd("./Enock/Bantu/")
-# setwd("./Enock/Bantu_retrieved")
-temp.data.3 <- NULL
-temp.3 = list.files( pattern="\\.csv$")
-myfiles.3 = lapply(temp.3, read.csv)
-#myfiles = lapply(temp, read.csv2,row.names=1)
-length(myfiles.3)
-#213 files
-setwd("..")
-setwd("..")
-do.call(rbind.data.frame, myfiles.3) -> temp.data.3
-
-colnames(temp.data.3)
-colnames(temp.data.1)
-
-temp.data.3 %>%
-  rename(NumberValue = Parameter_ID) %>%
-  rename(Alternate_gloss = Alternate_Gloss) %>%
-  rename(Comment_glosser = Comment_Glosser)-> temp.data.3
-
-# #devtools::install_github("benmarwick/words2number")
-# library(words2number)
-# # tmp <- tmp[1:200,]
-# library(english)
-
-# temp.data.3 %>%
-#   mutate(Parameter_ID =
-#            tryCatch({ english(NumberValue)},
-#              error = function(e) NA)) %>%
-#   filter(is.na(Parameter_ID)) -> this
 # 
-# temp.data.3 %>%
-#   mutate(Parameter_ID =       sapply(NumberValue,
-#                                             function(x) tryCatch({ english(x)
-#                                               1},
-#                                               error = function(e) 0)))  -> this
 # 
-# this %>%
-#   filter(Parameter_ID == 0) -> errors_word_numbers
-
-
-temp.data.3 %>%
-  filter(is.na(NumberValue)) -> errors_word_numbers
-
-write_csv(errors_word_numbers,"errors_word_numbers.csv")
-
-temp.data.3 %>% 
-  filter(!is.na(NumberValue)) -> temp.data.3
-
-
-temp.data.3 %>%
-  mutate(Parameter_ID = as.character(english(NumberValue))) -> temp.data.3
-
-# #
-# temp.data.3 %>%
-#   mutate(Parameter_ID =
-#            tryCatch({ english(NumberValue)},
-#              error = function(e) NA)) %>%
-#   filter(is.na(Parameter_ID)) -> this
+# myfiles.1 = lapply(temp.1, read.csv2,row.names=1)
+# #myfiles = lapply(temp, read.csv2)
+# length(myfiles.1)
+# #98 files (OLD)
+# #56 files (NEW)
+# setwd("..")
+# do.call(rbind.data.frame, myfiles.1) -> temp.data.1
 # 
-# temp.data.3 %>%
-#   mutate(Parameter_ID =sapply(NumberValue,
-#                                             function(x) tryCatch({ english(x)
-#                                               1},
-#                                               error = function(e) 0)))  -> this
 # 
-# this %>%
-#   filter(Parameter_ID == 0) -> errors_word_numbers
-# #
-
-
-temp.data.3 %>%
-  mutate(Loan = FALSE,
-         Comment_contributor = NA,
-         Source = NA) -> temp.data.3
-
-
-
-setwd("./Enock/Mande/")
-temp.data.4 <- NULL
-temp.4 = list.files( pattern="\\.csv$")
-
-myfiles.4 = lapply(temp.4, read.csv,quote = "", 
-                   row.names = NULL, 
-                   stringsAsFactors = FALSE)
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.4)
-#50 files
-setwd("..")
-setwd("..")
-
-myfiles.4 %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-# all.ncols
-# 12 13 
-# 30 20 
+# 
+# setwd("./Enock/Kru/")
+# temp.data.2 <- NULL
+# temp.2 = list.files( pattern="\\.csv$")
+# 
+# myfiles.2 = lapply(temp.2, read.csv)
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.2)
+# #26 files
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.2 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# 
+# # all.ncols
+# # 13 14 
+# # 25  1  1 
 # 
 # 
 # colnames(myfiles.2[[6]])
 # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
 # 
-
-for(i in 1:length(myfiles.4)){
-  print(i)
-  print(colnames(myfiles.4[[i]]))
+# 
+# for(i in 1:length(myfiles.2)){
+#   print(i)
+#   print(colnames(myfiles.2[[i]]))
+# }
+# colnames(myfiles.2[[18]]) 
+# myfiles.2[[18]]$X <- 0
+# 
+# do.call(rbind.data.frame, myfiles.2) -> temp.data.2
+# 
+# #temp.data.2 <- temp.data.2[,-1]
+# temp.data.2$X <- NULL
+# 
+# 
+# setwd("./Enock/Bantu/")
+# # setwd("./Enock/Bantu_retrieved")
+# temp.data.3 <- NULL
+# temp.3 = list.files( pattern="\\.csv$")
+# myfiles.3 = lapply(temp.3, read.csv)
+# #myfiles = lapply(temp, read.csv2,row.names=1)
+# length(myfiles.3)
+# #213 files
+# setwd("..")
+# setwd("..")
+# do.call(rbind.data.frame, myfiles.3) -> temp.data.3
+# 
+# colnames(temp.data.3)
+# colnames(temp.data.1)
+# 
+# temp.data.3 %>%
+#   rename(NumberValue = Parameter_ID) %>%
+#   rename(Alternate_gloss = Alternate_Gloss) %>%
+#   rename(Comment_glosser = Comment_Glosser)-> temp.data.3
+# 
+# # #devtools::install_github("benmarwick/words2number")
+# # library(words2number)
+# # # tmp <- tmp[1:200,]
+# # library(english)
+# 
+# # temp.data.3 %>%
+# #   mutate(Parameter_ID =
+# #            tryCatch({ english(NumberValue)},
+# #              error = function(e) NA)) %>%
+# #   filter(is.na(Parameter_ID)) -> this
+# # 
+# # temp.data.3 %>%
+# #   mutate(Parameter_ID =       sapply(NumberValue,
+# #                                             function(x) tryCatch({ english(x)
+# #                                               1},
+# #                                               error = function(e) 0)))  -> this
+# # 
+# # this %>%
+# #   filter(Parameter_ID == 0) -> errors_word_numbers
+# 
+# 
+# temp.data.3 %>%
+#   filter(is.na(NumberValue)) -> errors_word_numbers
+# 
+# write_csv(errors_word_numbers,"errors_word_numbers.csv")
+# 
+# temp.data.3 %>% 
+#   filter(!is.na(NumberValue)) -> temp.data.3
+# 
+# 
+# temp.data.3 %>%
+#   mutate(Parameter_ID = as.character(english(NumberValue))) -> temp.data.3
+# 
+# # #
+# # temp.data.3 %>%
+# #   mutate(Parameter_ID =
+# #            tryCatch({ english(NumberValue)},
+# #              error = function(e) NA)) %>%
+# #   filter(is.na(Parameter_ID)) -> this
+# # 
+# # temp.data.3 %>%
+# #   mutate(Parameter_ID =sapply(NumberValue,
+# #                                             function(x) tryCatch({ english(x)
+# #                                               1},
+# #                                               error = function(e) 0)))  -> this
+# # 
+# # this %>%
+# #   filter(Parameter_ID == 0) -> errors_word_numbers
+# # #
+# 
+# 
+# temp.data.3 %>%
+#   mutate(Loan = FALSE,
+#          Comment_contributor = NA,
+#          Source = NA) -> temp.data.3
+# 
+# 
+# 
+# setwd("./Enock/Mande/")
+# temp.data.4 <- NULL
+# temp.4 = list.files( pattern="\\.csv$")
+# 
+# myfiles.4 = lapply(temp.4, read.csv,quote = "", 
+#                    row.names = NULL, 
+#                    stringsAsFactors = FALSE)
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.4)
+# #50 files
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.4 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 13 
+# # 30 20 
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.4)){
+#   print(i)
+#   print(colnames(myfiles.4[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.4)){
+#     myfiles.4[[i]]$X <- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.4) -> temp.data.4
+# 
+# 
+# 
+# setwd("./Enock/Central_Sudanic/")
+# temp.data.5 <- NULL
+# temp.5 = list.files( pattern="\\.tsv$")
+# 
+# myfiles.5 = lapply(temp.5, read_delim,quote = "")
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.5)
+# #1 file
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.5 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 
+# # 1
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.5)){
+#   print(i)
+#   print(colnames(myfiles.5[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.5)){
+#   myfiles.5[[i]]$X <- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.5) -> temp.data.5
+# 
+# 
+# 
+# 
+# setwd("./Enock/Dogon/")
+# temp.data.6 <- NULL
+# temp.6 = list.files( pattern="\\.tsv$")
+# 
+# myfiles.6 = lapply(temp.6, read_delim,quote = "")
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.6)
+# #13 files
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.6 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 
+# # 13
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.6)){
+#   print(i)
+#   print(colnames(myfiles.6[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.6)){
+#   myfiles.6[[i]]$X <- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.6) -> temp.data.6
+# 
+# 
+# 
+# setwd("./Enock/Nilotic/")
+# temp.data.7 <- NULL
+# temp.7 = list.files( pattern="\\.tsv$")
+# 
+# myfiles.7 = lapply(temp.7, read_delim,quote = "")
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.7)
+# #1 file
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.7 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 
+# # 1
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.7)){
+#   print(i)
+#   print(colnames(myfiles.7[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.7)){
+#   myfiles.7[[i]]$X <- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.7) -> temp.data.7
+# 
+# 
+# 
+# setwd("./Enock/South_Omotic/")
+# temp.data.8 <- NULL
+# temp.8 = list.files( pattern="\\.tsv$")
+# 
+# myfiles.8 = lapply(temp.8, read_delim,quote = "")
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.8)
+# #1 file
+# setwd("..")
+# setwd("..")
+# 
+# myfiles.8 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 
+# # 1
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.8)){
+#   print(i)
+#   print(colnames(myfiles.8[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.8)){
+#   myfiles.8[[i]]$X <- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.8) -> temp.data.8
+# 
+# 
+# 
+# setwd("./Enock") #tsv files in the root 
+# temp.data.9 <- NULL
+# temp.9 = list.files( pattern="\\.tsv$")
+# 
+# myfiles.9 = lapply(temp.9, read_delim,quote = "")
+# #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+# length(myfiles.9)
+# #3 files
+# setwd("..")
+# 
+# myfiles.9 %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 12 13 
+# # 1  2 
+# # 
+# # 
+# # colnames(myfiles.2[[6]])
+# # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# # 
+# 
+# for(i in 1:length(myfiles.9)){
+#   print(i)
+#   print(colnames(myfiles.9[[i]]))
+# }
+# 
+# for(i in 1:length(myfiles.9)){
+#   myfiles.9[[i]]$...1<- NULL
+# }
+# 
+# 
+# do.call(rbind.data.frame, myfiles.9) -> temp.data.9
+# 
+# ######delete all to----------
+read_csv_auto <- function(file) {
+  first_line <- readLines(file, n = 1)
+  if (grepl(";", first_line)) {
+    read.csv(file, sep = ";", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+  } else {
+    read.csv(file, sep = ",", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+  }
 }
 
-for(i in 1:length(myfiles.4)){
-    myfiles.4[[i]]$X <- NULL
-}
+setwd("./Enock/all_new/")
+temp.data.I <- NULL
+temp.I = list.files( pattern="\\.csv$")
 
 
-do.call(rbind.data.frame, myfiles.4) -> temp.data.4
+myfiles.I = lapply(temp.I, read_csv_auto)
+names(myfiles.I) <- temp.I
 
+# myfiles.I = lapply(temp.I, read.csv2,quote = "", 
+#                    row.names = NULL, 
+#                    stringsAsFactors = FALSE)
 
-
-setwd("./Enock/Central_Sudanic/")
-temp.data.5 <- NULL
-temp.5 = list.files( pattern="\\.tsv$")
-
-myfiles.5 = lapply(temp.5, read_delim,quote = "")
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.5)
-#1 file
+length(myfiles.I)
+#934 files
 setwd("..")
 setwd("..")
 
-myfiles.5 %>%
+myfiles.I %>%
   lapply(ncol) %>% 
   cbind.data.frame() %>%  
   t() -> all.ncols
 
 table(all.ncols)
-# all.ncols
-# 12 
-# 1
-# 
-# 
-# colnames(myfiles.2[[6]])
-# myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# 8   9  12  13  14 
+# 175   1 540 215   3 
 # 
 
-for(i in 1:length(myfiles.5)){
+all.ncols %>%
+  as.data.frame() %>%
+  filter(V1 == 8) -> the.eights
+
+for(i in 1:nrow(the.eights)){
   print(i)
-  print(colnames(myfiles.5[[i]]))
-}
-
-for(i in 1:length(myfiles.5)){
-  myfiles.5[[i]]$X <- NULL
+  print(colnames(myfiles.I[[rownames(the.eights)[i]]]))
 }
 
 
-do.call(rbind.data.frame, myfiles.5) -> temp.data.5
+all.ncols %>%
+  as.data.frame() %>%
+  filter(V1 == 14) -> the.eights
 
-
-
-
-setwd("./Enock/Dogon/")
-temp.data.6 <- NULL
-temp.6 = list.files( pattern="\\.tsv$")
-
-myfiles.6 = lapply(temp.6, read_delim,quote = "")
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.6)
-#13 files
-setwd("..")
-setwd("..")
-
-myfiles.6 %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-# all.ncols
-# 12 
-# 13
-# 
-# 
-# colnames(myfiles.2[[6]])
-# myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
-# 
-
-for(i in 1:length(myfiles.6)){
+for(i in 1:nrow(the.eights)){
   print(i)
-  print(colnames(myfiles.6[[i]]))
-}
-
-for(i in 1:length(myfiles.6)){
-  myfiles.6[[i]]$X <- NULL
+  print(colnames(myfiles.I[[rownames(the.eights)[i]]]))
 }
 
 
-do.call(rbind.data.frame, myfiles.6) -> temp.data.6
-
-
-
-setwd("./Enock/Nilotic/")
-temp.data.7 <- NULL
-temp.7 = list.files( pattern="\\.tsv$")
-
-myfiles.7 = lapply(temp.7, read_delim,quote = "")
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.7)
-#1 file
-setwd("..")
-setwd("..")
-
-myfiles.7 %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-# all.ncols
-# 12 
-# 1
-# 
-# 
-# colnames(myfiles.2[[6]])
-# myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
-# 
-
-for(i in 1:length(myfiles.7)){
-  print(i)
-  print(colnames(myfiles.7[[i]]))
-}
-
-for(i in 1:length(myfiles.7)){
-  myfiles.7[[i]]$X <- NULL
-}
+# for(i in 1:length(myfiles.7)){
+#   myfiles.7[[i]]$X <- NULL
+# }
 
 
 do.call(rbind.data.frame, myfiles.7) -> temp.data.7
 
 
 
-setwd("./Enock/South_Omotic/")
-temp.data.8 <- NULL
-temp.8 = list.files( pattern="\\.tsv$")
+# 
 
-myfiles.8 = lapply(temp.8, read_delim,quote = "")
+for(i in 1:length(myfiles.I)){
+  print(i)
+  print(colnames(myfiles.I[[i]]))
+}
+
+for(i in 1:length(myfiles.I)){
+  myfiles.I[[i]]$X <- NULL
+}
+
+
+do.call(rbind.data.frame, myfiles.I) -> temp.data.I
+
+
+setwd("./Enock/all_new/")
+temp.data.II <- NULL
+temp.II = list.files( pattern="\\.tsv$")
+
+myfiles.II = lapply(temp.II, read_delim,quote = "")
 #myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.8)
+length(myfiles.II)
+#2 files
+setwd("..")
+setwd("..")
+
+myfiles.II %>%
+  lapply(ncol) %>% 
+  cbind.data.frame() %>%  
+  t() -> all.ncols
+
+table(all.ncols)
+# all.ncols
+# 13 
+# 2
+# 
+# 
+# colnames(myfiles.2[[6]])
+# myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
+# 
+
+for(i in 1:length(myfiles.II)){
+  print(i)
+  print(colnames(myfiles.II[[i]]))
+}
+
+for(i in 1:length(myfiles.II)){
+  myfiles.II[[i]]$X <- NULL
+}
+
+
+do.call(rbind.data.frame, myfiles.II) -> temp.data.II
+
+
+
+setwd("./Enock/South_Omotic/")
+temp.data.III <- NULL
+temp.III = list.files( pattern="\\.tsv$")
+
+myfiles.III = lapply(temp.III, read_delim,quote = "")
+#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
+length(myfiles.III)
 #1 file
 setwd("..")
 setwd("..")
 
-myfiles.8 %>%
+myfiles.III %>%
   lapply(ncol) %>% 
   cbind.data.frame() %>%  
   t() -> all.ncols
@@ -800,109 +998,25 @@ table(all.ncols)
 # myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
 # 
 
-for(i in 1:length(myfiles.8)){
+for(i in 1:length(myfiles.III)){
   print(i)
-  print(colnames(myfiles.8[[i]]))
+  print(colnames(myfiles.III[[i]]))
 }
 
-for(i in 1:length(myfiles.8)){
-  myfiles.8[[i]]$X <- NULL
-}
-
-
-do.call(rbind.data.frame, myfiles.8) -> temp.data.8
-
-
-
-setwd("./Enock") #tsv files in the root 
-temp.data.9 <- NULL
-temp.9 = list.files( pattern="\\.tsv$")
-
-myfiles.9 = lapply(temp.9, read_delim,quote = "")
-#myfiles.3 = lapply(temp.3, read.csv2,row.names=1)
-length(myfiles.9)
-#3 files
-setwd("..")
-setwd("..")
-
-myfiles.9 %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-# all.ncols
-# 12 13 
-# 1  2 
-# 
-# 
-# colnames(myfiles.2[[6]])
-# myfiles.2[[6]] <- myfiles.2[[6]][,c(1,3:14)]
-# 
-
-for(i in 1:length(myfiles.9)){
-  print(i)
-  print(colnames(myfiles.9[[i]]))
-}
-
-for(i in 1:length(myfiles.9)){
-  myfiles.9[[i]]$...1<- NULL
+for(i in 1:length(myfiles.III)){
+  myfiles.III[[i]]$X <- NULL
 }
 
 
-do.call(rbind.data.frame, myfiles.9) -> temp.data.9
-
-
-
+do.call(rbind.data.frame, myfiles.III) -> temp.data.III
 
 #Merge all datasets
-temp.data <- rbind(temp.data.1,
-                   temp.data.2,
-                   temp.data.3,
-                   temp.data.4,
-                   temp.data.5,
-                   temp.data.6,
-                   temp.data.7,
-                   temp.data.8,
-                   temp.data.9)
+temp.data <- rbind(temp.data.I,
+                   temp.data.II,
+                   temp.data.III)
 
 ###
-# #transformation of the Kwa_numerals dataset "Kwa_numerals - Forms_11_24.csv"----
-# kwa <- read.csv("Kwa_numerals - Forms_11_24.csv")
-# 
-# colnames(kwa)
-# colnames(all.data)
-# 
-# kwa %>%
-#   dplyr::select(Language, Glottocode,Concept,Form,Gloss,Alternate_gloss,Comment_glosser, Source) %>%
-#   rename(Parameter_ID = Concept) -> tmp
-# 
-# #devtools::install_github("benmarwick/words2number")
-# library(words2number)
-# # tmp <- tmp[1:200,]
-# 
-# tryCatch({ eval(parse(text = x)) 
-#   1},
-#   error = function(e) 0)
-# 
-# 
-# tmp %>%
-#   mutate(NumberValue = 
-#            tryCatch({ to_number(Parameter_ID)},
-#              error = function(e) NA)) %>%
-#   filter(is.na(NumberValue)) -> this
-# 
-# tmp %>%
-#   mutate(NumberValue =       sapply(Parameter_ID,
-#                                             function(x) tryCatch({ to_number(x) 
-#                                               1},
-#                                               error = function(e) 0)))  -> this
-# 
-# this %>%
-#   filter(NumberValue == 0) -> errors_word_numbers
-# 
-# write_csv(errors_word_names,"errors_word_numbers.csv")
-# 
+
 #-----
 ###
 
@@ -955,7 +1069,7 @@ all.data %>%
   group_by(ID) %>%
   filter(n()>1) -> all.duplicates
 
-write.csv(all.duplicates,"glossed/all.duplicates.csv")
+write.csv(all.duplicates,"all.duplicates.csv")
 
 #no duplicates!
 
@@ -980,5 +1094,5 @@ all.data -> tmp
 # 
 # all.data <- tmp
 
-write.csv(all.data,"glossed/all.data.csv")
+write.csv(all.data,"all.data.csv")
 

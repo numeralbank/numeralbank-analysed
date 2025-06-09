@@ -74,7 +74,11 @@ all.data_matched %>%
   distinct(Language_ID_final, .keep_all = T) -> unique_languages_matched
 
 nrow(unique_languages_matched)
-#4776 languages have been glossed
+#4843 languages have been glossed
+
+table(unique_languages_matched$Glosser, useNA = "always")
+# EAT   EK   KM   NK   RB 
+# 821   52  737  956 2277 
 
 #of these, how many are not linked:
 unique_languages_matched %>%

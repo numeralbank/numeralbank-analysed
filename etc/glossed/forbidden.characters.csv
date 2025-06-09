@@ -1,5 +1,5 @@
 ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,Glosser,Gloss.clean,Gloss.math
-numerals-holi1239-1-thirty-2,numerals-holi1239-1,Chan2019,thirty,30,ippaːtta,ippatta,,false,Itlookslikeamistakehere, this form is for '20'.,NA,KM,Itlookslikeamistakehere,Itlookslikeamistakehere
+numerals-holi1239-1-thirty-2,numerals-holi1239-1,Chan2019,thirty,30,ippaːtta,ippatta,false,?,thisformisfor′20′.,NA,NA,KM,thisformisfor′20′.,thisformisfor20.
 numerals-gbii1242-1,Chan2019,one,1,ɗɔ̀káⁱ,dokai,,FALSE,1’,1′=_kai,NA,NA,EAT,1′=_kai,1=_kai
 numerals-gbii1242-1,Chan2019,twenty,20,k͡páɽáɲɔ,kparano,,FALSE,10’·2’,"10′=b>kp,lossof“puwe″,2′=newforom",NA,NA,EAT,"10′=b>kp,lossof“puwe″,2′=newforom","10=b>kp,lossof“puwe,2=newforom"
 numerals-gbii1242-1,Chan2019,thirty,30,k͡páɽáɲɔ,kparano,( 20 + 10 ),FALSE,20+[10]?,sameformas20?,NA,NA,EAT,sameformas20?,sameformas20?
