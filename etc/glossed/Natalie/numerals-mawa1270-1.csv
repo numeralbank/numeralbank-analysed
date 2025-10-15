@@ -7,7 +7,7 @@
 6,numerals-mawa1270-1-six-1,numerals-mawa1270-1,Chan2019,six,6,bʸaːpat,byapat,( 5 + 1 ) ?,false,6,An analysis of 6 and 7 as 5+1 and 5+2 seems attractive but then pat looks like 4 therefore I gloss it as atomic for now.,NA
 7,numerals-mawa1270-1-seven-1,numerals-mawa1270-1,Chan2019,seven,7,bʸamat,byamat,,false,7,An analysis of 6 and 7 as 5+1 and 5+2 seems attractive but then pat looks like 4 therefore I gloss it as atomic for now.,NA
 8,numerals-mawa1270-1-eight-1,numerals-mawa1270-1,Chan2019,eight,8,patpat,patpat,( 2 x 4 ),false,4+4,NA,NA
-9,numerals-mawa1270-1-nine-1,numerals-mawa1270-1,Chan2019,nine,9,kʷapinikara,kwapinikara,( 10 - 1 ) ?,false,10[-]1{-],NA,NA
+9,numerals-mawa1270-1-nine-1,numerals-mawa1270-1,Chan2019,nine,9,kʷapinikara,kwapinikara,( 10 - 1 ) ?,false,10[-]1{-},NA,NA
 10,numerals-mawa1270-1-ten-1,numerals-mawa1270-1,Chan2019,ten,10,kʷaːjan,kwajan,,false,10,NA,NA
 11,numerals-mawa1270-1-eleven-1,numerals-mawa1270-1,Chan2019,eleven,11,kʷaːjan buti pəni,kwajanbutipani,,false,10+{+}1,NA,NA
 12,numerals-mawa1270-1-twelve-1,numerals-mawa1270-1,Chan2019,twelve,12,kʷaːjan buti ɾap,kwajanbutirap,,false,10+{+}2,NA,NA
@@ -17,7 +17,7 @@
 16,numerals-mawa1270-1-sixteen-1,numerals-mawa1270-1,Chan2019,sixteen,16,kʷaːjan buti bʸaːpat,kwajanbutibyapat,,false,10+{+}6,NA,NA
 17,numerals-mawa1270-1-seventeen-1,numerals-mawa1270-1,Chan2019,seventeen,17,kʷaːjan buti bʸamat,kwajanbutibyamat,,false,10+{+}7,NA,NA
 18,numerals-mawa1270-1-eighteen-1,numerals-mawa1270-1,Chan2019,eighteen,18,kʷaːjan buti patpat,kwajanbutipatpat,,false,10+{+}4+4,NA,NA
-19,numerals-mawa1270-1-nineteen-1,numerals-mawa1270-1,Chan2019,nineteen,19,kʷaːjan buti kʷapinikara,kwajanbutikwapinikara,,false,10+{+}(10[-]1{-]),NA,NA
+19,numerals-mawa1270-1-nineteen-1,numerals-mawa1270-1,Chan2019,nineteen,19,kʷaːjan buti kʷapinikara,kwajanbutikwapinikara,,false,10+{+}(10[-]1{-}),NA,NA
 20,numerals-mawa1270-1-twenty-1,numerals-mawa1270-1,Chan2019,twenty,20,oos pəni,oospani,,false,20⋅1,NA,NA
 21,numerals-mawa1270-1-twentyone-1,numerals-mawa1270-1,Chan2019,twentyone,21,oos pəni buti pəni,oospanibutipani,,false,20⋅1+{+}1,NA,NA
 22,numerals-mawa1270-1-twentytwo-1,numerals-mawa1270-1,Chan2019,twentytwo,22,oos pəni buti ɾap,oospanibutirap,,false,20⋅1+{+}2,NA,NA
@@ -27,7 +27,7 @@
 26,numerals-mawa1270-1-twentysix-1,numerals-mawa1270-1,Chan2019,twentysix,26,oos pəni butibʸaːpat,oospanibutibyapat,,false,20⋅1+{+}6,NA,NA
 27,numerals-mawa1270-1-twentyseven-1,numerals-mawa1270-1,Chan2019,twentyseven,27,oos pəni buti bʸamat,oospanibutibyamat,,false,20⋅1+{+}7,NA,NA
 28,numerals-mawa1270-1-twentyeight-1,numerals-mawa1270-1,Chan2019,twentyeight,28,oos pəni butipatpat,oospanibutipatpat,,false,20⋅1+{+}4+4,NA,NA
-29,numerals-mawa1270-1-twentynine-1,numerals-mawa1270-1,Chan2019,twentynine,29,oos pəni buti kʷapinikara,oospanibutikwapinikara,,false,20⋅1+{+}(10[-]1{-]),NA,NA
+29,numerals-mawa1270-1-twentynine-1,numerals-mawa1270-1,Chan2019,twentynine,29,oos pəni buti kʷapinikara,oospanibutikwapinikara,,false,20⋅1+{+}(10[-]1{-}),NA,NA
 30,numerals-mawa1270-1-thirty-1,numerals-mawa1270-1,Chan2019,thirty,30,oos pəni buti kʷaːjan,oospanibutikwajan,,false,20⋅1+{+}10,NA,NA
 31,numerals-mawa1270-1-forty-1,numerals-mawa1270-1,Chan2019,forty,40,oos-rap,oosrap,( 20 x 2 ),false,20⋅2,NA,NA
 32,numerals-mawa1270-1-fifty-1,numerals-mawa1270-1,Chan2019,fifty,50,oos-rap buti kʷaːjan,oosrapbutikwajan,,false,20⋅2+{+}10,NA,NA
