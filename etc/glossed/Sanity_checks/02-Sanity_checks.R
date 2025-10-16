@@ -1,6 +1,8 @@
 #load libraries----
 library(groundhog)
-my.date <- "2025-01-01"
+#install.packages("systemfonts", type = "binary")
+library(systemfonts)
+my.date <- "2025-10-01"
 pkgs <- c("tidyverse",
           "ggplot2",
           "cowplot",
@@ -11,10 +13,13 @@ pkgs <- c("tidyverse",
           "maps",
           "mapproj",
           "viridis",
-          "reshape2")
-groundhog.library(pkgs,my.date)
+          "reshape2",
+          "english",
+          "purrr")
+groundhog.library(pkgs,my.date, ignore.deps = "systemfonts")
 
 options(tidyverse.quiet = TRUE)
+
 
 #set working directory and load data----
 #setwd(getSrcDirectory()[1]) # run this line if using plain R
@@ -358,8 +363,6 @@ write.csv(all.data.checked,"all.data.checked.csv")
 write.csv(all.data, "all.data.glossed.csv")
 
 
-#ADD ORDER-INSENSITIVE GLOSS?-----
-
 
 
 #summary----
@@ -455,69 +458,3 @@ all.data.checked %>%
 
   
 write.csv(all.data.checked,"all.data.checked.csv")
-
-all.data.checked %>% filter(Glosser == "RB") -> all.data.checked.RB
-write.csv(all.data.checked.RB,"all.data.checked.RB.csv")
-
-
-all.data.checked.RB %>%
-  distinct(Language_ID) %>% nrow()
-
-
-all.data %>% filter(Glosser == "RB") -> all.data.RB
-write.csv(all.data.RB,"all.data.RB.csv")
-
-
-all.data.RB %>%
-  distinct(Language_ID) %>% nrow()
-
-#   
-#   
-# try<- c("1⋅20","30⋅1","11⋅20","30⋅11")
-# gsub("1⋅","",try)
-# gsub("⋅1","",try)
-# 
-# "\\d+"
-# ifelse(max(grepl("⋅1\\d+",try)),try,gsub("⋅1","",try))
-# ifelse(max(grepl("\\d+1⋅",try)),try,gsub("1⋅","",try))
-
-       
-#### Strategies to build a numeral
-
-
-all.data.checked %>%
-  count(NumberValue, Gloss.math) %>%
-  group_by(NumberValue) %>%
-  mutate(prop = prop.table(n),
-         number.strategies = n()) -> all.strategies
-
-
-write.csv(all.strategies,"all.strategies.csv")
-
-
-# all.strategies %>%
-#   filter(NumberValue == 100) %>% 
-#   arrange(desc(n)) %>% View()
-
-#loans----
-table(all.data$Loan)
-
-
-
-all.data %>%
-  mutate(Loan = ifelse(Loan == "FALSCH" | Loan == "false" | is.na(Loan), FALSE,
-                       ifelse(Loan == "WAHR" | Loan == "true", TRUE,
-                              Loan)),
-         Loan = as.logical(Loan))  -> tmp
-
-table(tmp$Loan, useNA = "ifany")/nrow(tmp)
-
-tmp %>%
-  filter(Loan == T) -> borrowed
--sort(-table(borrowed$NumberValue)) %>% as.data.frame() %>% View()
--sort(-table(borrowed$Language_ID))
-
-
-
-#-------
-
