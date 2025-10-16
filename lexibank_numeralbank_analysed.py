@@ -5,7 +5,7 @@ from collections import defaultdict
 
 import attr
 import pycldf
-from cldfzenodo import oai_lexibank
+from cldfzenodo.api import API as ZenodoAPI
 from cldfzenodo.record import GithubRepos
 from clldutils.misc import slug
 from cltoolkit import Wordlist
@@ -84,7 +84,9 @@ class Dataset(BaseDataset):
             for r in self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)
         }
 
-        github_info = {rec.doi: rec.github_repos for rec in oai_lexibank()}
+        github_info = {
+            rec.doi: rec.github_repos
+            for rec in ZenodoAPI.iter_records(community='lexibank', allversions=True)}
 
         for dataset, src in self.dataset_meta.items():
             ghinfo = github_info[src] if src in github_info else GithubRepos.from_url(src)
