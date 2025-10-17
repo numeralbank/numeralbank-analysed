@@ -1,0 +1,39 @@
+Language_ID,ID,Parameter_ID,Value,Form,Gloss,Alternate_Gloss,Comment_Glosser
+wong1247-1,wong1247-1-1-2,1,mwetʃi,mwetʃi,1,,NA
+wong1247-1,wong1247-1-1-1,1,ootʃi,ootʃi,1’,,NA
+wong1247-1,wong1247-1-2-1,2,bapé,bapé,2,,NA
+wong1247-1,wong1247-1-3-1,3,sat,sat,3,,NA
+wong1247-1,wong1247-1-4-1,4,ne,ne,4,,NA
+wong1247-1,wong1247-1-5-1,5,taan,taan,5,5,NA
+wong1247-1,wong1247-1-6-1,6,nsam,nsam,6,?,NA
+wong1247-1,wong1247-1-7-1,7,sampwaré,sampwaré,6+1”,NA,NA
+wong1247-1,wong1247-1-8-1,8,naàna,naàna,8,x4,"2·4 or 4 reduplicated or PLU4, ligature+4"
+wong1247-1,wong1247-1-9-1,9,ibwa,ibwa,9,9?,NA
+wong1247-1,wong1247-1-10-1,10,isankè,isankè,10,,NA
+wong1247-1,wong1247-1-11-1,11,isankè imwetʃi,isankè imwetʃi,{CL}10+{CL}1,,NA
+wong1247-1,wong1247-1-12-1,12,isankè ibapé,isankè ibapé,{CL}10+{CL}2,,NA
+wong1247-1,wong1247-1-13-1,13,isankè ibasat,isankè ibasat,{CL}10+{CL}3,,NA
+wong1247-1,wong1247-1-14-1,14,isankè ibané,isankè ibané,{CL}10+{CL}4,,NA
+wong1247-1,wong1247-1-15-1,15,isankè ibatan,isankè ibatan,{CL}10+{CL}5,,NA
+wong1247-1,wong1247-1-16-1,16,isankè ibasyam,isankè ibasyam,{CL}10+{CL}6,,NA
+wong1247-1,wong1247-1-17-1,17,isankè asampwaré,isankè asampwaré,"{CL}10+{CL}6+1""",,NA
+wong1247-1,wong1247-1-18-1,18,isankè inana,isankè inana,{CL}10+{CL}8,,NA
+wong1247-1,wong1247-1-19-1,19,isankè ibwa,isankè ibwa,{CL}10+{CL}9,,NA
+wong1247-1,wong1247-1-20-1,20,makwem mapé,makwem mapé,{CL’}10’·{CL’}2,,NA
+wong1247-1,wong1247-1-21-1,21,makwem mapé imwetʃi,makwem mapé imwetʃi,({CL’}10’·{CL’}2)+{CL}1,,NA
+wong1247-1,wong1247-1-22-1,22,makwem mapé ibapé,makwem mapé ibapé,({CL’}10’·{CL’}2)+{CL}2,,NA
+wong1247-1,wong1247-1-23-1,23,makwem mapé isat,makwem mapé isat,({CL’}10’·{CL’}2)+{CL}3,,NA
+wong1247-1,wong1247-1-24-1,24,makwem mapé ibané,makwem mapé ibané,({CL’}10’·{CL’}2)+{CL}4,,NA
+wong1247-1,wong1247-1-25-1,25,makwem mapé ibatan,makwem mapé ibatan,({CL’}10’·{CL’}2)+{CL}5,,NA
+wong1247-1,wong1247-1-26-1,26,makwem mapé ibatʃyam,makwem mapé ibatʃyam,({CL’}10’·{CL’}2)+{CL}6,,NA
+wong1247-1,wong1247-1-27-1,27,makwem mapé asambwaré,makwem mapé asambwaré,({CL’}10’·{CL’}2)+{CL}6+1”,,NA
+wong1247-1,wong1247-1-28-1,28,makwem mapé inana,makwem mapé inana,({CL’}10’·{CL’}2)+{CL}8,,NA
+wong1247-1,wong1247-1-29-1,29,makwem mapé ibwa,makwem mapé ibwa,({CL’}10’·{CL’}2)+{CL}9,,NA
+wong1247-1,wong1247-1-30-1,30,makwem masat,makwem masat,{CL’}10’·{CL’}3,,NA
+wong1247-1,wong1247-1-40-1,40,makwem mané,makwem mané,{CL’}10’·{CL’}4,,NA
+wong1247-1,wong1247-1-50-1,50,makwem matan,makwem matan,{CL’}10’·{CL’}5,,NA
+wong1247-1,wong1247-1-60-1,60,makwem masyam,makwem masyam,{CL’}10’·{CL’}6,,NA
+wong1247-1,wong1247-1-70-1,70,makwem mampwaré,makwem mampwaré,{CL’}10’·({CL’}6+1”),,NA
+wong1247-1,wong1247-1-80-1,80,makwem inana,makwem inana,{CL’}10’·{CL}8,,NA
+wong1247-1,wong1247-1-90-1,90,makwem ibwa,makwem ibwa,{CL’}10’·{CL}9,,NA
+wong1247-1,wong1247-1-100-1,100,kàmà,kàmà,100,,NA
