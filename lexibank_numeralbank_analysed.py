@@ -1,11 +1,11 @@
 import json
 import pathlib
 import subprocess
-from collections import defaultdict
+from collections import defaultdict, namedtuple
 
 import attr
 import pycldf
-from cldfzenodo import oai_lexibank
+from cldfzenodo.api import API as ZenodoAPI
 from cldfzenodo.record import GithubRepos
 from clldutils.misc import slug
 from cltoolkit import Wordlist
@@ -16,6 +16,23 @@ from pylexibank import progressbar
 from unidecode import unidecode
 
 
+GlossKey = namedtuple("GlossKey", "language_id parameter_id value")
+Gloss = namedtuple("Gloss", "gloss gloss_clean gloss_math gloss_calc")
+
+def collect_glosses(csv_rows):
+    return {
+        GlossKey(
+            language_id=row['Language_ID'],
+            parameter_id=row['Parameter_ID'],
+            value=row['Value']):
+        Gloss(
+            gloss=row['Gloss'],
+            gloss_clean=row['Gloss.clean'],
+            gloss_math=row['Gloss.math'],
+            gloss_calc=row['Gloss.calc'])
+        for row in csv_rows}
+
+
 def simple_chars(chars):
     return slug(unidecode(chars).replace("@", "a"))
 
@@ -23,6 +40,10 @@ def simple_chars(chars):
 @attr.s
 class CustomLexeme(Lexeme):
     NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
+    Gloss = attr.ib(default=None)
+    GlossClean = attr.ib(default=None)
+    GlossMath = attr.ib(default=None)
+    GlossCalc = attr.ib(default=None)
 
 
 @attr.s
@@ -84,7 +105,9 @@ class Dataset(BaseDataset):
             for r in self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)
         }
 
-        github_info = {rec.doi: rec.github_repos for rec in oai_lexibank()}
+        github_info = {
+            rec.doi: rec.github_repos
+            for rec in ZenodoAPI.iter_records(community='lexibank', allversions=True)}
 
         for dataset, src in self.dataset_meta.items():
             ghinfo = github_info[src] if src in github_info else GithubRepos.from_url(src)
@@ -297,6 +320,10 @@ class Dataset(BaseDataset):
             ]
         )
 
+        glosses = collect_glosses(self.etc_dir.joinpath("glossed").read_csv(
+            "all.data.glossed.csv",
+            dicts=True))
+
         base_errors = set()
         for language in progressbar(
             sorted(selected_languages, key=lambda x: x.glottocode),
@@ -362,15 +389,25 @@ class Dataset(BaseDataset):
             for concept in language.concepts:
                 if concept.id in all_concepts:
                     for form in concept.forms:
+                        parameter_id = slug(concept.id)
+                        gloss_key = GlossKey(
+                            language_id=language.id,
+                            parameter_id=parameter_id,
+                            value=form.value)
+                        gloss = glosses.get(gloss_key) or Gloss("", "", "", "")
                         args.writer.add_form(
                             Language_ID=language.id,
-                            Parameter_ID=slug(concept.id),
+                            Parameter_ID=parameter_id,
                             Value=form.value,
                             Form=simple_chars(form.form),
                             Loan=form.data["Loan"],
                             Source=datasets[language.dataset][0],
                             NumberValue=all_concepts[concept.id],
                             Comment=form.data["Comment"].strip() if form.data["Comment"] is not None else None,
+                            Gloss=gloss.gloss,
+                            GlossClean=gloss.gloss_clean,
+                            GlossMath=gloss.gloss_math,
+                            GlossCalc=gloss.gloss_calc,
                         )
 
         counts = defaultdict(int)

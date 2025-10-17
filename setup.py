@@ -11,14 +11,14 @@ setup(
     long_description_content_type='text/markdown',
     keywords='',
     license='MIT',
-    url='https://github.com/lexibank/lexibank-analysed',
-    py_modules=['cldfbench_numeralbank_analysed'],
+    url='https://github.com/numeralbank/numeralbank-analysed',
+    py_modules=['lexibank_numeralbank_analysed'],
     packages=find_packages(where='.'),
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'cldfbench.dataset': [
-            'lexibank-analysed=cldfbench_numeralbank_analysed:Dataset',
+            'lexibank-analysed=lexibank_numeralbank_analysed:Dataset',
         ],
     },
     platforms='any',
