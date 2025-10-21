@@ -14,26 +14,44 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8.1-8-gb227b5d",
+            "dc:created": "v0.8.1-703-ga64ad0f0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2.1",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.4.0",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.3.0",
             "dc:title": "CLTS"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/sand",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v0.8-1-ga3e60bc",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.7-85-g1255eba",
+            "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/numeralbank/googleuninum",
@@ -46,24 +64,6 @@
             "rdf:type": "prov:Entity",
             "dc:created": "1ff39840",
             "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v0.8",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/barlowpacific",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.5-14-gb0ffab4",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/sand",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v0.8",
-            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -73,7 +73,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.13"
+            "dc:description": "3.13.7"
         },
         {
             "dc:title": "python-packages",
@@ -85,7 +85,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 256295,
+            "dc:extent": 260718,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,6 +158,22 @@
                     {
                         "datatype": "integer",
                         "name": "NumberValue"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GlossClean"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GlossMath"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GlossCalc"
                     }
                 ],
                 "foreignKeys": [
@@ -192,7 +208,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8483,
+            "dc:extent": 8799,
             "tableSchema": {
                 "columns": [
                     {

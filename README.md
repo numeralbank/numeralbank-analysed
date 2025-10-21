@@ -37,9 +37,9 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 8,483 (linked to 5,111 different Glottocodes)
+- **Varieties:** 8,797 (linked to 5,170 different Glottocodes)
 - **Concepts:** 162 (linked to 162 different Concepticon concept sets)
-- **Lexemes:** 256,295
+- **Lexemes:** 260,718
 - **Sources:** 5
 - **Synonymy:** 1.08
 
@@ -48,18 +48,21 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
   - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
+  - Phangduwali [phan1256](http://glottolog.org/resource/languoid/id/phan1256)
 
 
 
 Name               | GitHub user | Description               | Role
 ---                | ---         | ---                       | ---
-Hans-Jörg Bibiko  | @bibiko  | maintainer, code checking, aggregation code, CLLD application | Author
-Ezequiel Koile | @LEK85 | coder, data aggregation | Author
 Russell Barlow | @barlowrussell | data collection, data annotation, base coding | Author
+Hans-Jörg Bibiko  | @bibiko | code checking, aggregation code, CLLD application | Author
+Johannes Englisch  | @johenglisch | code contributions | Other
+Ezequiel Koile | @LEK85 | data annotation, data aggregation | Author
 Mamta Kumari | @Mamta-Kum | data collection, data annotation, base coding | Author
-Enock Appiah Tieku | @EnockAppiahTieku | data annotation, base coding | Author
+Johann-Mattis List | @lingulist  | aggregation code, first analyses | Author
+Natalie Korobzow | @Korobzow | data annotation, base coding | Author
 Christoph Rzymski | @chrzyki | maintainer, CLLD application | Author
-Johann-Mattis List | @lingulist  | maintainer, aggregation code | Author
+Enock Appiah Tieku | @EnockAppiahTieku | data annotation, base coding | Author
 Russell D. Gray | | funding | Author
 
 
