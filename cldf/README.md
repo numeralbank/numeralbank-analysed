@@ -13,8 +13,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numerals.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/b227b5d">numeralbank/numeralbank-analysed v0.8.1-8-gb227b5d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/v0.8">numeralbank/bowernnumerals v0.8</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/b0ffab4">numeralbank/barlowpacific v1.5-14-gb0ffab4</a></li><li><a href="https://github.com/numeralbank/sand/tree/v0.8">numeralbank/sand v0.8</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.13</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/9155983d">numeralbank/numeralbank-analysed v0.8.1-701-g9155983d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2.1">Glottolog v5.2.1</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/v1.0">numeralbank/sand v1.0</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/a3e60bc">numeralbank/bowernnumerals v0.8-1-ga3e60bc</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/1255eba">numeralbank/barlowpacific v1.7-85-g1255eba</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.7</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -24,7 +24,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 256295
+[dc:extent](http://purl.org/dc/terms/extent) | 260718
 
 
 ### Columns
@@ -45,13 +45,17 @@ Name/Property | Datatype | Description
 `Graphemes` | `string` | 
 `Profile` | `string` | 
 `NumberValue` | `integer` | 
+`Gloss` | `string` | 
+`GlossClean` | `string` | 
+`GlossMath` | `string` | 
+`GlossCalc` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 8483
+[dc:extent](http://purl.org/dc/terms/extent) | 8799
 
 
 ### Columns

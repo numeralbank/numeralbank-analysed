@@ -37,9 +37,9 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 8,483 (linked to 5,111 different Glottocodes)
+- **Varieties:** 8,797 (linked to 5,170 different Glottocodes)
 - **Concepts:** 162 (linked to 162 different Concepticon concept sets)
-- **Lexemes:** 256,295
+- **Lexemes:** 260,718
 - **Sources:** 5
 - **Synonymy:** 1.08
 
@@ -48,6 +48,7 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
   - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
+  - Phangduwali [phan1256](http://glottolog.org/resource/languoid/id/phan1256)
 
 
 
