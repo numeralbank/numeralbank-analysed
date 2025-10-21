@@ -7,31 +7,39 @@
     ],
     "creators": [
         {
+            "name": "Russell Barlow"
+        },
+        {
             "name": "Hans-J\u00f6rg Bibiko"
         },
         {
             "name": "Ezequiel Koile"
         },
         {
-            "name": "Russell Barlow"
-        },
-        {
             "name": "Mamta Kumari"
-        },
-        {
-            "name": "Enock Appiah Tieku"
-        },
-        {
-            "name": "Christoph Rzymski"
         },
         {
             "name": "Johann-Mattis List"
         },
         {
+            "name": "Natalie Korobzow"
+        },
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Enock Appiah Tieku"
+        },
+        {
             "name": "Russell D. Gray"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
