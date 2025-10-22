@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2023): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  > Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2025): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

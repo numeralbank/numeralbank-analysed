@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2023): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2025): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://numerals.clld.org",
     "dc:isVersionOf": null,
@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.8.1-705-g60aba7bd",
+            "dc:created": "v0.8.1-706-g61fcd6ac",
             "dc:title": "Repository"
         },
         {
