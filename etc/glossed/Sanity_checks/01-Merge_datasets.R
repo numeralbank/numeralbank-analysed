@@ -223,10 +223,15 @@ myfiles %>%
 table(all.ncols)
 
 # all.ncols
-# 12 
-# 737  
+# 12  15
+# 736  1  
+all.ncols %>%
+  as.data.frame() %>%
+  filter(V1 > 12) 
 
+myfiles[["numerals-deor1238-1.csv"]] %>% colnames()
 
+myfiles[["numerals-deor1238-1.csv"]] <- myfiles[["numerals-deor1238-1.csv"]][,1:12]
 
 myfiles %>%
   lapply(colnames) %>% 
@@ -479,7 +484,8 @@ read_csv_auto <- function(file) {
   }
 }
 
-setwd("./Enock/all_new/")
+# setwd("./Enock/all_new/")
+setwd("./Enock")
 temp.data.I <- NULL
 temp.I = list.files( pattern="\\.csv$")
 
@@ -494,9 +500,10 @@ names(myfiles.I) <- temp.I
 length(myfiles.I)
 #934 files
 setwd("..")
-setwd("..")
+#setwd("..")
 
-setwd("./Enock/all_new/")
+setwd("./Enock")
+# setwd("./Enock/all_new/")
 temp.data.II <- NULL
 temp.II = list.files( pattern="\\.tsv$")
 
@@ -504,9 +511,9 @@ myfiles.II = lapply(temp.II, read_delim,quote = "")
 names(myfiles.II) <- temp.II
 
 length(myfiles.II)
-#2 files
+#0 files
 setwd("..")
-setwd("..")
+#setwd("..")
 
 
 myfiles.I %>%
@@ -517,9 +524,13 @@ myfiles.I %>%
   rownames_to_column("Language_ID")-> all.ncols
 
 table(all.ncols$V1)
+#old
 # 8       9  12  13  14 
 # 175     1 540 215   3 
+# new
 # 
+# 8   9  12  13  14 
+# 114   1 504 125   1 
 
 
 myfiles.II %>%
@@ -534,7 +545,11 @@ table(all.ncols)
 myfiles.II <- purrr::map(myfiles.II, as.data.frame)
 
 
+
+
+
 files <- c(myfiles.I, myfiles.II)
+
 #936 files
 
 #check column names
@@ -651,7 +666,8 @@ tmp %>%
 
 ## row.names, X, ...1: superflouous columns
 tmp %>%
-  dplyr::select(-c(row.names,X,...1)) -> tmp
+  dplyr::select(-c(X,...1)) -> tmp
+# dplyr::select(-c(row.names,X,...1)) -> tmp
 
 
 #merge obvious columns
@@ -729,7 +745,7 @@ temp.data %>%
   filter(n()>1) -> duplicates.enock
 
 
-#14,043 cases! Most are genuine duplications. Some are mixed up columns
+#737 duplications
 write.csv(duplicates.enock,"duplicates.enock.csv")
 
 
@@ -771,11 +787,12 @@ temp.data %>%
 #keep only known sources or NA
 temp.data <- temp.data %>%
   mutate(Source = str_replace_all(Source, '^"|"$', ''))
+  
 
 temp.data %>%
   filter(!(Source == "Chan2019" | is.na(Source))) -> wrong.source
 
-write.csv(wrong.source, "wrong.source")
+write.csv(wrong.source, "wrong.source.csv")
 temp.data %>%
   filter(Source == "Chan2019" | is.na(Source)) -> temp.data
 
@@ -813,7 +830,13 @@ all.data %>%
   filter(!(Language_ID == "numerals-kale1246-1" & Glosser == "EAT")) %>%
   filter(!(Language_ID == "numerals-mang1394-1" & Glosser == "EAT")) %>%
   filter(!(Language_ID == "numerals-nobi1240-1" & Glosser == "EAT"))-> all.data
-  
+
+
+all.data %>%
+  group_by(ID) %>%
+  filter(n()>1) -> all.duplicates
+table(all.duplicates$Language_ID, all.duplicates$Glosser)
+
 #no duplicates!
 
 
