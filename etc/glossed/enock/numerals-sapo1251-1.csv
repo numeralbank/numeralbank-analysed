@@ -1,6 +1,6 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
 1,numerals-sapo1251-1-one-1,numerals-sapo1251-1,Chan2019,one,1,duě,due,,FALSE,1,,
-2,numerals-sapo1251-1-one-2,numerals-sapo1251-1-2,Chan2019,one,1,tòò,too,,FALSE,1’,d > t, ue = oo,
+2,numerals-sapo1251-1-one-2,numerals-sapo1251-1-2,Chan2019,one,1,tòò,too,,FALSE,1’,"d > t, ue = oo,"
 3,numerals-sapo1251-1-two-1,numerals-sapo1251-1,Chan2019,two,2,sɔn,son,,FALSE,2,,
 4,numerals-sapo1251-1-three-1,numerals-sapo1251-1,Chan2019,three,3,tan,tan,,FALSE,3,,
 5,numerals-sapo1251-1-four-1,numerals-sapo1251-1,Chan2019,four,4,nyìɛ,nyie,,FALSE,4,,
@@ -39,4 +39,5 @@
 38,numerals-sapo1251-1-hundred-1,numerals-sapo1251-1,Chan2019,hundred,100,kmɛ duɛ̌,kmedue,,FALSE,100·1,,
 39,numerals-sapo1251-1-twohundred-1,numerals-sapo1251-1,Chan2019,twohundred,200,kmɛ sɔn,kmeson,,FALSE,100·2,,
 40,numerals-sapo1251-1-thousand-1,numerals-sapo1251-1,Chan2019,thousand,1000,wlǔ duɛ̌,wludue,,FALSE,?,"1000·1? wlǔ is an attested form for 400 in Kru, why is it 1000 here?",
+
 41,numerals-sapo1251-1-twothousand-1,numerals-sapo1251-1,Chan2019,twothousand,2000,wlǔ sɔn,wluson,,FALSE,?,"1000·2? wlǔ is an attested form for 400 in Kru, why is it 1000 here?",
