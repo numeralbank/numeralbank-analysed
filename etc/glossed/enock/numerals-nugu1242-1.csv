@@ -14,28 +14,28 @@
 "nugu1242-1","nugu1242-1-13-1",13,"sɛ́ɔdɔ na ɡádadɔ","sɛ́ɔdɔ na ɡádadɔ",NA,"10 + 3",NA
 "nugu1242-1","nugu1242-1-14-1",14,"sɛ́ɔdɔ na ɡénni","sɛ́ɔdɔ na ɡénni",NA,"10 + 4",NA
 "nugu1242-1","nugu1242-1-15-1",15,"búinyo","búinyo","15","15",NA
-"nugu1242-1","nugu1242-1-16-1",16,"búinyo na ɡímmue","búinyo na ɡímmue","15+{and}1",NA,"( 15 + 1 )"
-"nugu1242-1","nugu1242-1-17-1",17,"búinyo na ɡáandɛ","búinyo na ɡáandɛ","15+{and}{CL}2",NA,"( 15 + 2 )"
-"nugu1242-1","nugu1242-1-18-1",18,"búinyo na ɡádadɔ","búinyo na ɡádadɔ","15+{and}{CL}3",NA,"( 15 + 3 )"
-"nugu1242-1","nugu1242-1-19-1",19,"búinyo na ɡénni","búinyo na ɡénni","15+{and}{CL}4",NA,"( 15 + 4 )"
-"nugu1242-1","nugu1242-1-20-1",20,"nitíno","nitíno","20",NA,NA
-"nugu1242-1","nugu1242-1-21-1",21,"nitíno na ɡímmue","nitíno na ɡímmue","20+[+]1",NA,"( '20 + 1 ')"
-"nugu1242-1","nugu1242-1-22-1",22,"nitíno na ɡáandɛ","nitíno na ɡáandɛ","20+[+]{CL}2",NA,NA
-"nugu1242-1","nugu1242-1-23-1",23,"nitíno na ɡádadɔ","nitíno na ɡádadɔ","20+[+]{CL}3",NA,NA
-"nugu1242-1","nugu1242-1-24-1",24,"nitíno na ɡénni","nitíno na ɡénni","20+[+]{CL}4",NA,NA
-"nugu1242-1","nugu1242-1-25-1",25,"nitíno na ɡátáanɔ","nitíno na ɡátáanɔ","20+[+]{CL}5",NA,NA
-"nugu1242-1","nugu1242-1-26-1",26,"nitíno na ɡátáanɔ na ɡímmue","nitíno na ɡátáanɔ na ɡímmue","20+[+]{CL}6",NA,NA
-"nugu1242-1","nugu1242-1-27-1",27,"nitíno na ɡátáanɔ na ɡáandɛ","nitíno na ɡátáanɔ na ɡáandɛ","20+[+]{CL}7",NA,NA
-"nugu1242-1","nugu1242-1-28-1",28,"nitíno na ɡánámanyɛ́","nitíno na ɡánámanyɛ́","20+[+]{CL}8",NA,NA
-"nugu1242-1","nugu1242-1-29-1",29,"nitíno na ɡánámanyɛ́ na ɡímmue","nitíno na ɡánámanyɛ́ na ɡímmue","20+[+]{CL}9",NA,NA
-"nugu1242-1","nugu1242-1-30-1",30,"nitíno na sɛ́ɔdɔ","nitíno na sɛ́ɔdɔ","10+{and}10",NA,NA
-"nugu1242-1","nugu1242-1-40-1",40,"atíno áhaandɛ","atíno áhaandɛ","{CL’}10·{CL’}2",NA,"( 'two twenties')"
-"nugu1242-1","nugu1242-1-50-1",50,"atíno áhaandɛ na sɛ́ɔdɔ","atíno áhaandɛ na sɛ́ɔdɔ","({CL’}10·{CL’}2 )+{and}10",NA,NA
-"nugu1242-1","nugu1242-1-60-1",60,"atíno ádadɔ","atíno ádadɔ","{CL’}10·{CL’}4",NA,"( 'three twenties')"
-"nugu1242-1","nugu1242-1-70-1",70,"atíno ádadɔ na sɛ́ɔdɔ","atíno ádadɔ na sɛ́ɔdɔ","({CL’}10·{CL’}4 )+{and}10",NA,NA
-"nugu1242-1","nugu1242-1-80-1",80,"atíno énni","atíno énni","{CL’}10·{CL’}5",NA,"( 'four twenties')"
-"nugu1242-1","nugu1242-1-90-1",90,"atíno énni na sɛ́ɔdɔ","atíno énni na sɛ́ɔdɔ","({CL’}10·{CL’}5 )+{and}10",NA,NA
+"nugu1242-1","nugu1242-1-16-1",16,"búinyo na ɡímmue","búinyo na ɡímmue","15+{and}1",NA,"( 15 + 1 )"
+"nugu1242-1","nugu1242-1-17-1",17,"búinyo na ɡáandɛ","búinyo na ɡáandɛ","15+{and}{CL}2",NA,"( 15 + 2 )"
+"nugu1242-1","nugu1242-1-18-1",18,"búinyo na ɡádadɔ","búinyo na ɡádadɔ","15+{and}{CL}3",NA,"( 15 + 3 )"
+"nugu1242-1","nugu1242-1-19-1",19,"búinyo na ɡénni","búinyo na ɡénni","15+{and}{CL}4",NA,"( 15 + 4 )"
+"nugu1242-1","nugu1242-1-20-1",20,"nitíno","nitíno","20",NA,NA
+"nugu1242-1","nugu1242-1-21-1",21,"nitíno na ɡímmue","nitíno na ɡímmue","20+[+]1",NA,"( '20 + 1 ')"
+"nugu1242-1","nugu1242-1-22-1",22,"nitíno na ɡáandɛ","nitíno na ɡáandɛ","20+[+]{CL}2",NA,NA
+"nugu1242-1","nugu1242-1-23-1",23,"nitíno na ɡádadɔ","nitíno na ɡádadɔ","20+[+]{CL}3",NA,NA
+"nugu1242-1","nugu1242-1-24-1",24,"nitíno na ɡénni","nitíno na ɡénni","20+[+]{CL}4",NA,NA
+"nugu1242-1","nugu1242-1-25-1",25,"nitíno na ɡátáanɔ","nitíno na ɡátáanɔ","20+[+]{CL}5",NA,NA
+"nugu1242-1","nugu1242-1-26-1",26,"nitíno na ɡátáanɔ na ɡímmue","nitíno na ɡátáanɔ na ɡímmue","20+[+]{CL}6",NA,NA
+"nugu1242-1","nugu1242-1-27-1",27,"nitíno na ɡátáanɔ na ɡáandɛ","nitíno na ɡátáanɔ na ɡáandɛ","20+[+]{CL}7",NA,NA
+"nugu1242-1","nugu1242-1-28-1",28,"nitíno na ɡánámanyɛ́","nitíno na ɡánámanyɛ́","20+[+]{CL}8",NA,NA
+"nugu1242-1","nugu1242-1-29-1",29,"nitíno na ɡánámanyɛ́ na ɡímmue","nitíno na ɡánámanyɛ́ na ɡímmue","20+[+]{CL}9",NA,NA
+"nugu1242-1","nugu1242-1-30-1",30,"nitíno na sɛ́ɔdɔ","nitíno na sɛ́ɔdɔ","10+{and}10",NA,NA
+"nugu1242-1","nugu1242-1-40-1",40,"atíno áhaandɛ","atíno áhaandɛ","{CL’}10·{CL’}2",NA,"( 'two twenties')"
+"nugu1242-1","nugu1242-1-50-1",50,"atíno áhaandɛ na sɛ́ɔdɔ","atíno áhaandɛ na sɛ́ɔdɔ","({CL’}10·{CL’}2 )+{and}10",NA,NA
+"nugu1242-1","nugu1242-1-60-1",60,"atíno ádadɔ","atíno ádadɔ","{CL’}10·{CL’}4",NA,"( 'three twenties')"
+"nugu1242-1","nugu1242-1-70-1",70,"atíno ádadɔ na sɛ́ɔdɔ","atíno ádadɔ na sɛ́ɔdɔ","({CL’}10·{CL’}4 )+{and}10",NA,NA
+"nugu1242-1","nugu1242-1-80-1",80,"atíno énni","atíno énni","{CL’}10·{CL’}5",NA,"( 'four twenties')"
+"nugu1242-1","nugu1242-1-90-1",90,"atíno énni na sɛ́ɔdɔ","atíno énni na sɛ́ɔdɔ","({CL’}10·{CL’}5 )+{and}10",NA,NA
 "nugu1242-1","nugu1242-1-100-1",100,"ntɛ́dɛ́","ntɛ́dɛ́","100",NA,"( < English 'hundred' )"
-"nugu1242-1","nugu1242-1-200-1",200,"mántɛ́dɛ́ máandɛ","mántɛ́dɛ́ máandɛ","{CL""}100·{CL""}2",NA,NA
+"nugu1242-1","nugu1242-1-200-1",200,"mántɛ́dɛ́ máandɛ","mántɛ́dɛ́ máandɛ","{CL""}100·{CL""}2",NA,NA
 "nugu1242-1","nugu1242-1-1000-1",1000,"tɔ́sɛnɔ","tɔ́sɛnɔ","1000",NA,"( < English 'thousand' )"
-"nugu1242-1","nugu1242-1-2000-1",2000,"tɔ́sɛnɔ ɛ́háandɛ́","tɔ́sɛnɔ ɛ́háandɛ́","1000·2",NA,NA
+"nugu1242-1","nugu1242-1-2000-1",2000,"tɔ́sɛnɔ ɛ́háandɛ́","tɔ́sɛnɔ ɛ́háandɛ́","1000·2",NA,NA
