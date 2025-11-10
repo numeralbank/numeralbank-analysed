@@ -1,555 +1,512 @@
-"","Glottocode","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss"
-"1","ampa1238","numerals-ampa1238-1-one-1","numerals-ampa1238-1","Chan2019","one",1,"tòːmà","toma",NA,FALSE,"1",NA,NA
-"2","ampa1238","numerals-ampa1238-1-two-1","numerals-ampa1238-1","Chan2019","two",2,"nìːŋgà","ningga",NA,FALSE,"2",NA,NA
-"3","ampa1238","numerals-ampa1238-1-three-1","numerals-ampa1238-1","Chan2019","three",3,"táːndí","tandi",NA,FALSE,"3",NA,NA
-"4","ampa1238","numerals-ampa1238-1-four-1","numerals-ampa1238-1","Chan2019","four",4,"tʃɛ̀ːdʒɔ̀","tsedzo","(Boui)",FALSE,"4",NA,NA
-"5","ampa1238","numerals-ampa1238-1-four-2","numerals-ampa1238-1","Chan2019","four",4,"kɛ̀ːdʒɔ̀","kedzo","(Ningo)",FALSE,"4’",NA,NA
-"6","ampa1238","numerals-ampa1238-1-five-1","numerals-ampa1238-1","Chan2019","five",5,"núː","nu",NA,FALSE,"5",NA,NA
-"7","ampa1238","numerals-ampa1238-1-six-1","numerals-ampa1238-1","Chan2019","six",6,"kùlèjⁿ","kulejn",NA,FALSE,"6",NA,NA
-"8","ampa1238","numerals-ampa1238-1-seven-1","numerals-ampa1238-1","Chan2019","seven",7,"sɔ́ːj","soj",NA,FALSE,"7",NA,NA
-"9","ampa1238","numerals-ampa1238-1-eight-1","numerals-ampa1238-1","Chan2019","eight",8,"séːlé","sele","(Boui)",FALSE,"8",NA,NA
-"10","ampa1238","numerals-ampa1238-1-eight-2","numerals-ampa1238-1","Chan2019","eight",8,"síjélé","sijele","(Ningo)",FALSE,"8",NA,NA
-"11","ampa1238","numerals-ampa1238-1-nine-1","numerals-ampa1238-1","Chan2019","nine",9,"tóːwá","towa",NA,FALSE,"9",NA,NA
-"12","ampa1238","numerals-ampa1238-1-ten-1","numerals-ampa1238-1","Chan2019","ten",10,"pìjɔ̀lù","pijolu",NA,FALSE,"10",NA,NA
-"13","ampa1238","numerals-ampa1238-1-eleven-1","numerals-ampa1238-1","Chan2019","eleven",11,"pɛ̀-sùgɔ́ tòːmà","pesugotoma",NA,FALSE,"10+1",NA,NA
-"14","ampa1238","numerals-ampa1238-1-twelve-1","numerals-ampa1238-1","Chan2019","twelve",12,"pɛ̀-sùgɔ́ nìːŋgà","pesugoningga",NA,FALSE,"10+2",NA,NA
-"15","ampa1238","numerals-ampa1238-1-thirteen-1","numerals-ampa1238-1","Chan2019","thirteen",13,"pɛ̀-sùgɔ́ tàːndì","pesugotandi",NA,FALSE,"10+3",NA,NA
-"16","ampa1238","numerals-ampa1238-1-fourteen-1","numerals-ampa1238-1","Chan2019","fourteen",14,"pɛ̀-sùgɔ́ kɛ̀ːdʒɔ̀","pesugokedzo","(Ningo)",FALSE,"10+4","edited: kɛ̀ːdʒɔ̀ > pɛ̀-sùgɔ́ kɛ̀ːdʒɔ̀",NA
-"17","ampa1238","numerals-ampa1238-1-fourteen-2","numerals-ampa1238-1","Chan2019","fourteen",14,"pɛ̀-sùgɔ́ tʃɛ̀ːdʒɔ̀","pesugotsedzo","(Boui)",FALSE,"10+4'",NA,NA
-"18","ampa1238","numerals-ampa1238-1-fifteen-1","numerals-ampa1238-1","Chan2019","fifteen",15,"pɛ̀-sùgɔ́ nùː","pesugonu",NA,FALSE,"10+5",NA,NA
-"19","ampa1238","numerals-ampa1238-1-sixteen-1","numerals-ampa1238-1","Chan2019","sixteen",16,"pɛ̀-sùgɔ́ kùlèjⁿ","pesugokulejn",NA,FALSE,"10+6",NA,NA
-"20","ampa1238","numerals-ampa1238-1-seventeen-1","numerals-ampa1238-1","Chan2019","seventeen",17,"pɛ̀-sùgɔ́ sɔ́ːj","pesugosoj",NA,FALSE,"10+7",NA,NA
-"21","ampa1238","numerals-ampa1238-1-eighteen-1","numerals-ampa1238-1","Chan2019","eighteen",18,"pɛ̀-sùgɔ́ séːlé","pesugosele","(Boui)",FALSE,"10+8",NA,NA
-"22","ampa1238","numerals-ampa1238-1-eighteen-2","numerals-ampa1238-1","Chan2019","eighteen",18,"pɛ̀-sùgɔ́ síjélé","pesugosijele","(Ningo)",FALSE,"10+8",NA,NA
-"23","ampa1238","numerals-ampa1238-1-nineteen-1","numerals-ampa1238-1","Chan2019","nineteen",19,"pɛ̀-sùgɔ́ tóːwá","pesugotowa",NA,FALSE,"10+9",NA,NA
-"24","ampa1238","numerals-ampa1238-1-twenty-1","numerals-ampa1238-1","Chan2019","twenty",20,"pɛ́ːnɛ́ːŋɡá","penengga",NA,FALSE,"10·2",NA,NA
-"25","ampa1238","numerals-ampa1238-1-thirty-1","numerals-ampa1238-1","Chan2019","thirty",30,"pé-ráːndí","perandi",NA,FALSE,"10·3",NA,NA
-"26","ampa1238","numerals-ampa1238-1-forty-1","numerals-ampa1238-1","Chan2019","forty",40,"dɛ́ː","de",NA,FALSE,"40",NA,NA
-"27","ampa1238","numerals-ampa1238-1-fifty-1","numerals-ampa1238-1","Chan2019","fifty",50,"dɛ́ː pìjɔ̀lù","depijolu","( 40 + 10 )",FALSE,"40+10",NA,NA
-"28","ampa1238","numerals-ampa1238-1-sixty-1","numerals-ampa1238-1","Chan2019","sixty",60,"pɛ́l-kúlêjⁿ","pelkulejn",NA,FALSE,"10·6",NA,NA
-"29","ampa1238","numerals-ampa1238-1-seventy-1","numerals-ampa1238-1","Chan2019","seventy",70,"síŋgí-gí pìjɔ̀lù ɔ̀rá","singgigipijoluora","( 80 - 10 ? )",FALSE,"80-10{LIG}",NA,NA
-"30","ampa1238","numerals-ampa1238-1-eighty-1","numerals-ampa1238-1","Chan2019","eighty",80,"síŋgí","singgi",NA,FALSE,"80",NA,NA
-"31","ampa1238","numerals-ampa1238-1-ninety-1","numerals-ampa1238-1","Chan2019","ninety",90,"síŋgí-já pìjɔ̀lù","singgijapijolu","( 80 + 10 )",FALSE,"80+10",NA,NA
-"32","ampa1238","numerals-ampa1238-1-hundred-1","numerals-ampa1238-1","Chan2019","hundred",100,"tɛ̀ːmdɛ̀rɛ́","temdere","< Fulfulde",TRUE,"100",NA,NA
-"33","ampa1238","numerals-ampa1238-1-thousand-1","numerals-ampa1238-1","Chan2019","thousand",1000,"múdʒú-sìlàːmú","mudzusilamu",NA,FALSE,"1000",NA,NA
-"34","bank1259","numerals-bank1259-1-one-1","numerals-bank1259-1","Chan2019","one",1,"tùmá","tuma",NA,FALSE,"1",NA,NA
-"35","bank1259","numerals-bank1259-1-two-1","numerals-bank1259-1","Chan2019","two",2,"jǒj","joj",NA,FALSE,"2",NA,NA
-"36","bank1259","numerals-bank1259-1-three-1","numerals-bank1259-1","Chan2019","three",3,"tàːní","tani",NA,FALSE,"3",NA,NA
-"37","bank1259","numerals-bank1259-1-four-1","numerals-bank1259-1","Chan2019","four",4,"nìŋŋějⁿ","ningngejn",NA,FALSE,"4",NA,NA
-"38","bank1259","numerals-bank1259-1-five-1","numerals-bank1259-1","Chan2019","five",5,"nùmmǔjⁿ","nummujn",NA,FALSE,"5",NA,NA
-"39","bank1259","numerals-bank1259-1-six-1","numerals-bank1259-1","Chan2019","six",6,"kúròj","kuroj",NA,FALSE,"6",NA,NA
-"40","bank1259","numerals-bank1259-1-seven-1","numerals-bank1259-1","Chan2019","seven",7,"síjⁿɔ̀jⁿ","sijnojn",NA,FALSE,"7",NA,NA
-"41","bank1259","numerals-bank1259-1-eight-1","numerals-bank1259-1","Chan2019","eight",8,"ɡáːràj","garaj",NA,FALSE,"8",NA,NA
-"42","bank1259","numerals-bank1259-1-nine-1","numerals-bank1259-1","Chan2019","nine",9,"tèːsúm","tesum",NA,FALSE,"9",NA,NA
-"43","bank1259","numerals-bank1259-1-ten-1","numerals-bank1259-1","Chan2019","ten",10,"pɛ́ːrú","peru",NA,FALSE,"10",NA,NA
-"44","bank1259","numerals-bank1259-1-eleven-1","numerals-bank1259-1","Chan2019","eleven",11,"pɛ́ːrú tùmá","perutuma",NA,FALSE,"10+1",NA,NA
-"45","bank1259","numerals-bank1259-1-twelve-1","numerals-bank1259-1","Chan2019","twelve",12,"pɛ́ːrú jǒj","perujoj",NA,FALSE,"10+2",NA,NA
-"46","bank1259","numerals-bank1259-1-thirteen-1","numerals-bank1259-1","Chan2019","thirteen",13,"pɛ́ːrú tàːní","perutani",NA,FALSE,"10+3",NA,NA
-"47","bank1259","numerals-bank1259-1-fourteen-1","numerals-bank1259-1","Chan2019","fourteen",14,"pɛ́ːrú nìŋŋějⁿ","peruningngejn",NA,FALSE,"10+4",NA,NA
-"48","bank1259","numerals-bank1259-1-fifteen-1","numerals-bank1259-1","Chan2019","fifteen",15,"pɛ́ːrú nùmmǔjⁿ","perunummujn",NA,FALSE,"10+5",NA,NA
-"49","bank1259","numerals-bank1259-1-sixteen-1","numerals-bank1259-1","Chan2019","sixteen",16,"pɛ́ːrú kúròj","perukuroj",NA,FALSE,"10+6",NA,NA
-"50","bank1259","numerals-bank1259-1-seventeen-1","numerals-bank1259-1","Chan2019","seventeen",17,"pɛ́ːrú síjⁿɔ̀jⁿ","perusijnojn",NA,FALSE,"10+7",NA,NA
-"51","bank1259","numerals-bank1259-1-eighteen-1","numerals-bank1259-1","Chan2019","eighteen",18,"pɛ́ːrú ɡáːràj","perugaraj",NA,FALSE,"10+8",NA,NA
-"52","bank1259","numerals-bank1259-1-nineteen-1","numerals-bank1259-1","Chan2019","nineteen",19,"pɛ́ːrú tèːsúm","perutesum",NA,FALSE,"10+9",NA,NA
-"53","bank1259","numerals-bank1259-1-twenty-1","numerals-bank1259-1","Chan2019","twenty",20,"pɛ̀rí jèj","perijej",NA,FALSE,"10·2",NA,NA
-"54","bank1259","numerals-bank1259-1-twentyone-1","numerals-bank1259-1","Chan2019","twentyone",21,"pɛ̀rí tùmá","perituma",NA,FALSE,"(10·2)+1",NA,NA
-"55","bank1259","numerals-bank1259-1-twentytwo-1","numerals-bank1259-1","Chan2019","twentytwo",22,"pɛ̀rí jǒj","perijoj",NA,FALSE,"(10·2)+2",NA,NA
-"56","bank1259","numerals-bank1259-1-twentythree-1","numerals-bank1259-1","Chan2019","twentythree",23,"pɛ̀rí tàːní","peritani",NA,FALSE,"(10·2)+3",NA,NA
-"57","bank1259","numerals-bank1259-1-twentyfour-1","numerals-bank1259-1","Chan2019","twentyfour",24,"pɛ̀rí nìŋŋějⁿ","periningngejn",NA,FALSE,"(10·2)+4",NA,NA
-"58","bank1259","numerals-bank1259-1-twentyfive-1","numerals-bank1259-1","Chan2019","twentyfive",25,"pɛ̀rí nùmmǔjⁿ","perinummujn",NA,FALSE,"(10·2)+5",NA,NA
-"59","bank1259","numerals-bank1259-1-twentysix-1","numerals-bank1259-1","Chan2019","twentysix",26,"pɛ̀rí kúròj","perikuroj",NA,FALSE,"(10·2)+6",NA,NA
-"60","bank1259","numerals-bank1259-1-twentyseven-1","numerals-bank1259-1","Chan2019","twentyseven",27,"pɛ̀rí síjⁿɔ̀jⁿ","perisijnojn",NA,FALSE,"(10·2)+7",NA,NA
-"61","bank1259","numerals-bank1259-1-twentyeight-1","numerals-bank1259-1","Chan2019","twentyeight",28,"pɛ̀rí ɡáːràj","perigaraj",NA,FALSE,"(10·2)+8",NA,NA
-"62","bank1259","numerals-bank1259-1-twentynine-1","numerals-bank1259-1","Chan2019","twentynine",29,"pɛ̀rí tèːsúm","peritesum",NA,FALSE,"(10·2)+9",NA,NA
-"63","bank1259","numerals-bank1259-1-thirty-1","numerals-bank1259-1","Chan2019","thirty",30,"pɛ́ tàːnú","petanu",NA,FALSE,"10·3",NA,NA
-"64","bank1259","numerals-bank1259-1-forty-1","numerals-bank1259-1","Chan2019","forty",40,"pɛ́ nǐːyⁿ","peniyn",NA,FALSE,"10·4",NA,NA
-"65","bank1259","numerals-bank1259-1-fifty-1","numerals-bank1259-1","Chan2019","fifty",50,"pɛ́ nùmǔyⁿ","penumuyn",NA,FALSE,"10·5",NA,NA
-"66","bank1259","numerals-bank1259-1-sixty-1","numerals-bank1259-1","Chan2019","sixty",60,"pɛ̀rù kúròy","perukuroy",NA,FALSE,"10·6",NA,NA
-"67","bank1259","numerals-bank1259-1-seventy-1","numerals-bank1259-1","Chan2019","seventy",70,"pɛ̀rù súyⁿɔ̀yⁿ","perusuynoyn",NA,FALSE,"10·7",NA,NA
-"68","bank1259","numerals-bank1259-1-seventy-2","numerals-bank1259-1","Chan2019","seventy",70,"pɛ̀rù ŋɡ́oː sòːŋɡù","perunggosonggu","( 80-10 )",FALSE,"10-{LIG}80",NA,NA
-"69","bank1259","numerals-bank1259-1-eighty-1","numerals-bank1259-1","Chan2019","eighty",80,"pɛ̀rù ɡáːràj","perugaraj",NA,FALSE,"10·8",NA,NA
-"70","bank1259","numerals-bank1259-1-eighty-2","numerals-bank1259-1","Chan2019","eighty",80,"sòːŋɡú","songgu","(archaic)",FALSE,"80",NA,NA
-"71","bank1259","numerals-bank1259-1-ninety-1","numerals-bank1259-1","Chan2019","ninety",90,"pɛ̀rù tèːsùm","perutesum",NA,FALSE,"10·9",NA,NA
-"72","bank1259","numerals-bank1259-1-ninety-2","numerals-bank1259-1","Chan2019","ninety",90,"sòːŋɡú wó pɛ́ːrú","songguwoperu","( 80+10)",FALSE,"80+10",NA,NA
-"73","bank1259","numerals-bank1259-1-hundred-1","numerals-bank1259-1","Chan2019","hundred",100,"tɛ́ːmbɛ̀ndɛ́rɛ̀","tembendere",NA,FALSE,"100",NA,NA
-"74","bank1259","numerals-bank1259-1-hundred-2","numerals-bank1259-1","Chan2019","hundred",100,"tɛ́ːmɛ́dɛ́rɛ̀","temedere","( < Fulfulde )",TRUE,"100",NA,NA
-"75","bank1259","numerals-bank1259-1-twohundred-1","numerals-bank1259-1","Chan2019","twohundred",200,"tɛ́ːmɛ́dɛ́rɛ̀ jǒj","temederejoj","??",FALSE,"100·2",NA,NA
-"76","bank1259","numerals-bank1259-1-thousand-1","numerals-bank1259-1","Chan2019","thousand",1000,"mbùsú","mbusu",NA,FALSE,"1000",NA,NA
-"77","bank1259","numerals-bank1259-1-twothousand-1","numerals-bank1259-1","Chan2019","twothousand",2000,"mbùsú jǒj","mbusujoj","??",FALSE,"1000·2",NA,NA
-"78","bent1238","numerals-bent1238-1-one-1","numerals-bent1238-1","Chan2019","one",1,"tùmɔ́:","tumo",NA,FALSE,"1",NA,NA
-"79","bent1238","numerals-bent1238-1-two-1","numerals-bent1238-1","Chan2019","two",2,"yěy","yey",NA,FALSE,"2",NA,NA
-"80","bent1238","numerals-bent1238-1-three-1","numerals-bent1238-1","Chan2019","three",3,"tàːnú","tanu",NA,FALSE,"3",NA,NA
-"81","bent1238","numerals-bent1238-1-four-1","numerals-bent1238-1","Chan2019","four",4,"nǐːyⁿ","niyn",NA,FALSE,"4",NA,NA
-"82","bent1238","numerals-bent1238-1-five-1","numerals-bent1238-1","Chan2019","five",5,"nùmǔyⁿ","numuyn",NA,FALSE,"5",NA,NA
-"83","bent1238","numerals-bent1238-1-six-1","numerals-bent1238-1","Chan2019","six",6,"kúròy","kuroy",NA,FALSE,"6",NA,NA
-"84","bent1238","numerals-bent1238-1-seven-1","numerals-bent1238-1","Chan2019","seven",7,"súyⁿɔ̀yⁿ","suynoyn",NA,FALSE,"7",NA,NA
-"85","bent1238","numerals-bent1238-1-eight-1","numerals-bent1238-1","Chan2019","eight",8,"ɡáːrày","garay",NA,FALSE,"8",NA,NA
-"86","bent1238","numerals-bent1238-1-nine-1","numerals-bent1238-1","Chan2019","nine",9,"tèːsǐm","tesim",NA,FALSE,"9",NA,NA
-"87","bent1238","numerals-bent1238-1-ten-1","numerals-bent1238-1","Chan2019","ten",10,"pɛ́rú","peru",NA,FALSE,"10",NA,NA
-"88","bent1238","numerals-bent1238-1-eleven-1","numerals-bent1238-1","Chan2019","eleven",11,"pɛ́rɛ́ tùwⁿɔ́ sâː","peretuwnosa",NA,FALSE,"10+1",NA,NA
-"89","bent1238","numerals-bent1238-1-twelve-1","numerals-bent1238-1","Chan2019","twelve",12,"pɛ́rɛ́ yěy sâː","pereyeysa",NA,FALSE,"10+2",NA,NA
-"90","bent1238","numerals-bent1238-1-thirteen-1","numerals-bent1238-1","Chan2019","thirteen",13,"pɛ́rɛ́ tàːn sâː","peretansa",NA,FALSE,"10+3",NA,NA
-"91","bent1238","numerals-bent1238-1-fourteen-1","numerals-bent1238-1","Chan2019","fourteen",14,"pɛ́rɛ́ nǐːyⁿ sâː","pereniynsa",NA,FALSE,"10+4",NA,NA
-"92","bent1238","numerals-bent1238-1-fifteen-1","numerals-bent1238-1","Chan2019","fifteen",15,"pɛ́rɛ́ nùmǔyⁿ sâː","perenumuynsa",NA,FALSE,"10+5",NA,NA
-"93","bent1238","numerals-bent1238-1-sixteen-1","numerals-bent1238-1","Chan2019","sixteen",16,"pɛ́rɛ́ kúròy sâː","perekuroysa",NA,FALSE,"10+6",NA,NA
-"94","bent1238","numerals-bent1238-1-seventeen-1","numerals-bent1238-1","Chan2019","seventeen",17,"pɛ́rɛ́ súyⁿɔ̀yⁿ sâː","peresuynoynsa",NA,FALSE,"10+7",NA,NA
-"95","bent1238","numerals-bent1238-1-eighteen-1","numerals-bent1238-1","Chan2019","eighteen",18,"pɛ́rɛ́ ɡáːrày sâː","peregaraysa",NA,FALSE,"10+8",NA,NA
-"96","bent1238","numerals-bent1238-1-nineteen-1","numerals-bent1238-1","Chan2019","nineteen",19,"pɛ́rɛ́ tèːsǐm sâː","peretesimsa",NA,FALSE,"10+9",NA,NA
-"97","bent1238","numerals-bent1238-1-twenty-1","numerals-bent1238-1","Chan2019","twenty",20,"pèrí yěy","periyey",NA,FALSE,"10·2",NA,NA
-"98","bent1238","numerals-bent1238-1-twentyone-1","numerals-bent1238-1","Chan2019","twentyone",21,"pèrí yěy tùwⁿɔ́ sâː","periyeytuwnosa","??",FALSE,"(10·2)+1{LIG}",NA,NA
-"99","bent1238","numerals-bent1238-1-twentytwo-1","numerals-bent1238-1","Chan2019","twentytwo",22,"pèrí yěy yěy sâː","periyeyyeysa",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"100","bent1238","numerals-bent1238-1-twentythree-1","numerals-bent1238-1","Chan2019","twentythree",23,"pèrí yěy tàːn sâː","periyeytansa",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"101","bent1238","numerals-bent1238-1-twentyfour-1","numerals-bent1238-1","Chan2019","twentyfour",24,"pèrí yěy nǐːyⁿ sâː","periyeyniynsa",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"102","bent1238","numerals-bent1238-1-twentyfive-1","numerals-bent1238-1","Chan2019","twentyfive",25,"pèrí yěy nùmǔyⁿ sâː","periyeynumuynsa",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"103","bent1238","numerals-bent1238-1-twentysix-1","numerals-bent1238-1","Chan2019","twentysix",26,"pèrí yěy kúròy sâː","periyeykuroysa",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"104","bent1238","numerals-bent1238-1-twentyseven-1","numerals-bent1238-1","Chan2019","twentyseven",27,"pèrí yěy súyⁿɔ̀yⁿ sâː","periyeysuynoynsa",NA,FALSE,"(10·2)+7{LIG}",NA,NA
-"105","bent1238","numerals-bent1238-1-twentyeight-1","numerals-bent1238-1","Chan2019","twentyeight",28,"pèrí yěy ɡáːrày sâː","periyeygaraysa",NA,FALSE,"(10·2)+8{LIG}",NA,NA
-"106","bent1238","numerals-bent1238-1-twentynine-1","numerals-bent1238-1","Chan2019","twentynine",29,"pèrí yěy tèːsǐm sâː","periyeytesimsa",NA,FALSE,"(10·2)+9{LIG}",NA,NA
-"107","bent1238","numerals-bent1238-1-thirty-1","numerals-bent1238-1","Chan2019","thirty",30,"pɛ̀r tàːnú","pertanu",NA,FALSE,"10·3",NA,NA
-"108","bent1238","numerals-bent1238-1-forty-1","numerals-bent1238-1","Chan2019","forty",40,"pɛ̀r nǐːyⁿ","perniyn",NA,FALSE,"10·4",NA,NA
-"109","bent1238","numerals-bent1238-1-fifty-1","numerals-bent1238-1","Chan2019","fifty",50,"pɛ̀r nùmǔyⁿ","pernumuyn",NA,FALSE,"10·5",NA,NA
-"110","bent1238","numerals-bent1238-1-sixty-1","numerals-bent1238-1","Chan2019","sixty",60,"pɛ̀r kúròy","perkuroy",NA,FALSE,"10·6",NA,NA
-"111","bent1238","numerals-bent1238-1-seventy-1","numerals-bent1238-1","Chan2019","seventy",70,"pɛ̀r súyⁿɔ̀yⁿ","persuynoyn",NA,FALSE,"10·7",NA,NA
-"112","bent1238","numerals-bent1238-1-eighty-1","numerals-bent1238-1","Chan2019","eighty",80,"pɛ̀r ɡáːrày","pergaray",NA,FALSE,"10·8",NA,NA
-"113","bent1238","numerals-bent1238-1-eighty-2","numerals-bent1238-1","Chan2019","eighty",80,"dɔ̀ː sòŋɡú","dosonggu","( archaic form)",FALSE,"80","10·8",NA
-"114","bent1238","numerals-bent1238-1-ninety-1","numerals-bent1238-1","Chan2019","ninety",90,"pɛ̀r tèːsǐm","pertesim",NA,FALSE,"10·9",NA,NA
-"115","bent1238","numerals-bent1238-1-hundred-1","numerals-bent1238-1","Chan2019","hundred",100,"tɛ́ːmɛ́dɛ́rɛ̀","temedere","( < Fulfulde )",TRUE,"100",NA,NA
-"116","bent1238","numerals-bent1238-1-twohundred-1","numerals-bent1238-1","Chan2019","twohundred",200,"tɛ́ːmɛ́dɛ́rɛ̀ yěy","temedereyey","??",FALSE,"100·2",NA,NA
-"117","bent1238","numerals-bent1238-1-thousand-1","numerals-bent1238-1","Chan2019","thousand",1000,"mùsú","musu",NA,FALSE,"1000",NA,NA
-"118","bent1238","numerals-bent1238-1-twothousand-1","numerals-bent1238-1","Chan2019","twothousand",2000,"mùsu yěy","musuyey","??",FALSE,"1000·2",NA,NA
-"119","bond1248","numerals-bond1248-1-one-1","numerals-bond1248-1","Chan2019","one",1,"tíí","tii","(túmɔ́ as a modifier)",FALSE,"1",NA,NA
-"120","bond1248","numerals-bond1248-1-two-1","numerals-bond1248-1","Chan2019","two",2,"néé","nee",NA,FALSE,"2",NA,NA
-"121","bond1248","numerals-bond1248-1-three-1","numerals-bond1248-1","Chan2019","three",3,"tààndú","taandu",NA,FALSE,"3",NA,NA
-"122","bond1248","numerals-bond1248-1-four-1","numerals-bond1248-1","Chan2019","four",4,"nǎy","nay",NA,FALSE,"4",NA,NA
-"123","bond1248","numerals-bond1248-1-five-1","numerals-bond1248-1","Chan2019","five",5,"ǹnɔ́","nno",NA,FALSE,"5",NA,NA
-"124","bond1248","numerals-bond1248-1-six-1","numerals-bond1248-1","Chan2019","six",6,"kúlóy","kuloy",NA,FALSE,"6",NA,NA
-"125","bond1248","numerals-bond1248-1-seven-1","numerals-bond1248-1","Chan2019","seven",7,"sɔ́y","soy",NA,FALSE,"7",NA,NA
-"126","bond1248","numerals-bond1248-1-eight-1","numerals-bond1248-1","Chan2019","eight",8,"ɡáɡìrà","gagira",NA,FALSE,"8",NA,NA
-"127","bond1248","numerals-bond1248-1-nine-1","numerals-bond1248-1","Chan2019","nine",9,"túwwɔ́","tuwwo",NA,FALSE,"9",NA,NA
-"128","bond1248","numerals-bond1248-1-ten-1","numerals-bond1248-1","Chan2019","ten",10,"pɛ́l","pel",NA,FALSE,"10",NA,NA
-"129","bond1248","numerals-bond1248-1-eleven-1","numerals-bond1248-1","Chan2019","eleven",11,"pɛ́l-ɡó túrú-ɡó síɡɛ́","pelgoturugosige",NA,FALSE,"10{CL?}+1{CL?}{LIG}","LIG=more than",NA
-"130","bond1248","numerals-bond1248-1-twelve-1","numerals-bond1248-1","Chan2019","twelve",12,"pɛ́l-ɡó néé-ɡó siɡɛ́","pelgoneegosige",NA,FALSE,"10{CL?}+2{CL?}{LIG}",NA,NA
-"131","bond1248","numerals-bond1248-1-thirteen-1","numerals-bond1248-1","Chan2019","thirteen",13,"pɛ́l-ɡó tààndú-ɡó siɡɛ́","pelgotaandugosige",NA,FALSE,"10{CL?}+3{CL?}{LIG}",NA,NA
-"132","bond1248","numerals-bond1248-1-fourteen-1","numerals-bond1248-1","Chan2019","fourteen",14,"pɛ́l-ɡó nǎy-ɡó siɡɛ́","pelgonaygosige",NA,FALSE,"10{CL?}+4{CL?}{LIG}",NA,NA
-"133","bond1248","numerals-bond1248-1-fifteen-1","numerals-bond1248-1","Chan2019","fifteen",15,"pɛ́l-ɡó ǹnɔ́-ɡó siɡɛ́","pelgonnogosige",NA,FALSE,"10{CL?}+5{CL?}{LIG}",NA,NA
-"134","bond1248","numerals-bond1248-1-sixteen-1","numerals-bond1248-1","Chan2019","sixteen",16,"pɛ́l-ɡó kúlóy-ɡó siɡɛ́","pelgokuloygosige",NA,FALSE,"10{CL?}+6{CL?}{LIG}",NA,NA
-"135","bond1248","numerals-bond1248-1-seventeen-1","numerals-bond1248-1","Chan2019","seventeen",17,"pɛ́l-ɡó sɔ́y-ɡó siɡɛ́","pelgosoygosige",NA,FALSE,"10{CL?}+7{CL?}{LIG}",NA,NA
-"136","bond1248","numerals-bond1248-1-eighteen-1","numerals-bond1248-1","Chan2019","eighteen",18,"pɛ́l-ɡó ɡáɡìrà-ɡó siɡɛ́","pelgogagiragosige",NA,FALSE,"10{CL?}+8{CL?}{LIG}",NA,NA
-"137","bond1248","numerals-bond1248-1-nineteen-1","numerals-bond1248-1","Chan2019","nineteen",19,"pɛ́l-ɡó túwwɔ́-ɡó siɡɛ́","pelgotuwwogosige",NA,FALSE,"10{CL?}+9{CL?}{LIG}",NA,NA
-"138","bond1248","numerals-bond1248-1-twenty-1","numerals-bond1248-1","Chan2019","twenty",20,"pɛ̀ɛ̀-néé","peenee",NA,FALSE,"10·2",NA,NA
-"139","bond1248","numerals-bond1248-1-twentyone-1","numerals-bond1248-1","Chan2019","twentyone",21,"pɛ̀ɛ̀-néé túrú-ɡó síɡɛ́","peeneeturugosige",NA,FALSE,"(10·2)+1’{CL?}{LIG}",NA,NA
-"140","bond1248","numerals-bond1248-1-twentytwo-1","numerals-bond1248-1","Chan2019","twentytwo",22,"pɛ̀ɛ̀-néé néé-ɡó síɡɛ́","peeneeneegosige",NA,FALSE,"(10·2)+2{CL?}{LIG}",NA,NA
-"141","bond1248","numerals-bond1248-1-twentythree-1","numerals-bond1248-1","Chan2019","twentythree",23,"pɛ̀ɛ̀-néé tààndú-ɡó síɡɛ́","peeneetaandugosige",NA,FALSE,"(10·2)+3{CL?}{LIG}",NA,NA
-"142","bond1248","numerals-bond1248-1-twentyfour-1","numerals-bond1248-1","Chan2019","twentyfour",24,"pɛ̀ɛ̀-néé nǎy-ɡó síɡɛ́","peeneenaygosige",NA,FALSE,"(10·2)+4{CL?}{LIG}",NA,NA
-"143","bond1248","numerals-bond1248-1-twentyfive-1","numerals-bond1248-1","Chan2019","twentyfive",25,"pɛ̀ɛ̀-néé túrú-ɡó síɡɛ́","peeneeturugosige",NA,FALSE,"(10·2)+5{CL?}{LIG}",NA,NA
-"144","bond1248","numerals-bond1248-1-twentysix-1","numerals-bond1248-1","Chan2019","twentysix",26,"pɛ̀ɛ̀-néé kúlóy-ɡó síɡɛ́","peeneekuloygosige",NA,FALSE,"(10·2)+6{CL?}{LIG}",NA,NA
-"145","bond1248","numerals-bond1248-1-twentyseven-1","numerals-bond1248-1","Chan2019","twentyseven",27,"pɛ̀ɛ̀-néé sɔ́y-ɡó síɡɛ́","peeneesoygosige",NA,FALSE,"(10·2)+7{CL?}{LIG}",NA,NA
-"146","bond1248","numerals-bond1248-1-twentyeight-1","numerals-bond1248-1","Chan2019","twentyeight",28,"pɛ̀ɛ̀-néé ɡáɡìrà-ɡó síɡɛ́","peeneegagiragosige",NA,FALSE,"(10·2)+8{CL?}{LIG}",NA,NA
-"147","bond1248","numerals-bond1248-1-twentynine-1","numerals-bond1248-1","Chan2019","twentynine",29,"pɛ̀ɛ̀-néé túwwɔ́-ɡó síɡɛ́","peeneetuwwogosige",NA,FALSE,"(10·2)+9{CL?}{LIG}",NA,NA
-"148","bond1248","numerals-bond1248-1-thirty-1","numerals-bond1248-1","Chan2019","thirty",30,"pɛ́l-tààndú","peltaandu",NA,FALSE,"10·3",NA,NA
-"149","bond1248","numerals-bond1248-1-forty-1","numerals-bond1248-1","Chan2019","forty",40,"pɛ́l-này","pelnay",NA,FALSE,"10·4",NA,NA
-"150","bond1248","numerals-bond1248-1-fifty-1","numerals-bond1248-1","Chan2019","fifty",50,"pɛ́l-ǹnɔ́","pelnno",NA,FALSE,"10·5",NA,NA
-"151","bond1248","numerals-bond1248-1-sixty-1","numerals-bond1248-1","Chan2019","sixty",60,"pɛ́l kúlóy","pelkuloy",NA,FALSE,"10·6",NA,NA
-"152","bond1248","numerals-bond1248-1-seventy-1","numerals-bond1248-1","Chan2019","seventy",70,"pɛ́l sóy","pelsoy",NA,FALSE,"10·7",NA,NA
-"153","bond1248","numerals-bond1248-1-eighty-1","numerals-bond1248-1","Chan2019","eighty",80,"pɛ́-ɡáɡìrà","pegagira",NA,FALSE,"10·8",NA,NA
-"154","bond1248","numerals-bond1248-1-eighty-2","numerals-bond1248-1","Chan2019","eighty",80,"kɛ̀ɛ̀-súm","keesum","(old )",FALSE,"80",NA,NA
-"155","bond1248","numerals-bond1248-1-ninety-1","numerals-bond1248-1","Chan2019","ninety",90,"pɛ́-túwwɔ́","petuwwo",NA,FALSE,"10·9",NA,NA
-"156","bond1248","numerals-bond1248-1-ninety-2","numerals-bond1248-1","Chan2019","ninety",90,"kɛ̀ɛ̀-súm =le kɛ̀ɛ̀lɛ̀ pɛ́l","keesumlekeelepel",NA,FALSE,"80+{LIG'}10",NA,NA
-"157","bond1248","numerals-bond1248-1-hundred-1","numerals-bond1248-1","Chan2019","hundred",100,"kɛ̀ɛ̀-súm =le pɛ̀ɛ̀-néé","keesumlepeenee",NA,FALSE,"80+{LIG}(10·2)",NA,NA
-"158","bond1248","numerals-bond1248-1-hundred-2","numerals-bond1248-1","Chan2019","hundred",100,"tɛ́mɛ̀nd(r)ɛ̀","temendre","< Fula",TRUE,"100",NA,NA
-"159","bond1248","numerals-bond1248-1-twohundred-1","numerals-bond1248-1","Chan2019","twohundred",200,"tɛ́mɛ̀nd(r)ɛ̀ néé","temendrenee",NA,FALSE,"100·2",NA,NA
-"160","bond1248","numerals-bond1248-1-thousand-1","numerals-bond1248-1","Chan2019","thousand",1000,"kɛ̀ɛ̀lɛ̀ mùnjó","keelemunjo","(formerly 800 )",FALSE,"{LIG’?}1000",NA,NA
-"161","bond1248","numerals-bond1248-1-twothousand-1","numerals-bond1248-1","Chan2019","twothousand",2000,"mùnjó nèè","munjonee",NA,FALSE,"1000·2",NA,NA
-"162","dogu1235","numerals-dogu1235-1-one-1","numerals-dogu1235-1","Chan2019","one",1,"tɔ̀mɔ̀","tomo",NA,FALSE,"1",NA,NA
-"163","dogu1235","numerals-dogu1235-1-two-1","numerals-dogu1235-1","Chan2019","two",2,"nééɡè","neege",NA,FALSE,"2",NA,NA
-"164","dogu1235","numerals-dogu1235-1-three-1","numerals-dogu1235-1","Chan2019","three",3,"táándù","taandu",NA,FALSE,"3",NA,NA
-"165","dogu1235","numerals-dogu1235-1-four-1","numerals-dogu1235-1","Chan2019","four",4,"kɛ́ɛ́sɔ̀","keeso",NA,FALSE,"4",NA,NA
-"166","dogu1235","numerals-dogu1235-1-five-1","numerals-dogu1235-1","Chan2019","five",5,"ǹó","no",NA,FALSE,"5",NA,NA
-"167","dogu1235","numerals-dogu1235-1-six-1","numerals-dogu1235-1","Chan2019","six",6,"kúlè","kule",NA,FALSE,"6",NA,NA
-"168","dogu1235","numerals-dogu1235-1-seven-1","numerals-dogu1235-1","Chan2019","seven",7,"sɔ́ɔ́wɛ̀","soowe",NA,FALSE,"7",NA,NA
-"169","dogu1235","numerals-dogu1235-1-eight-1","numerals-dogu1235-1","Chan2019","eight",8,"sèèlé","seele",NA,FALSE,"8",NA,NA
-"170","dogu1235","numerals-dogu1235-1-nine-1","numerals-dogu1235-1","Chan2019","nine",9,"tùùwɔ́","tuuwo",NA,FALSE,"9",NA,NA
-"171","dogu1235","numerals-dogu1235-1-ten-1","numerals-dogu1235-1","Chan2019","ten",10,"pɛ́ɛ̀l","peel",NA,FALSE,"10",NA,NA
-"172","dogu1235","numerals-dogu1235-1-eleven-1","numerals-dogu1235-1","Chan2019","eleven",11,"pɛ́l tɔ́mɔ̀sìɡà","peltomosiga",NA,FALSE,"10+1{LIG}","LIG=more",NA
-"173","dogu1235","numerals-dogu1235-1-twelve-1","numerals-dogu1235-1","Chan2019","twelve",12,"pɛ́l néɡèsìɡà","pelnegesiga",NA,FALSE,"10+2{LIG}",NA,NA
-"174","dogu1235","numerals-dogu1235-1-thirteen-1","numerals-dogu1235-1","Chan2019","thirteen",13,"pɛ́l tándùsìɡà","peltandusiga",NA,FALSE,"10+3{LIG}",NA,NA
-"175","dogu1235","numerals-dogu1235-1-fourteen-1","numerals-dogu1235-1","Chan2019","fourteen",14,"pɛ́l kɛ́sɔ́sìɡà","pelkesosiga",NA,FALSE,"10+4{LIG}",NA,NA
-"176","dogu1235","numerals-dogu1235-1-fifteen-1","numerals-dogu1235-1","Chan2019","fifteen",15,"pɛ́l ǹósìɡà","pelnosiga",NA,FALSE,"10+5{LIG}",NA,NA
-"177","dogu1235","numerals-dogu1235-1-sixteen-1","numerals-dogu1235-1","Chan2019","sixteen",16,"pɛ́l kúlèsìɡà","pelkulesiga",NA,FALSE,"10+6{LIG}",NA,NA
-"178","dogu1235","numerals-dogu1235-1-seventeen-1","numerals-dogu1235-1","Chan2019","seventeen",17,"pɛ́l sɔ́wɛ̀sìɡà","pelsowesiga",NA,FALSE,"10+7{LIG}",NA,NA
-"179","dogu1235","numerals-dogu1235-1-eighteen-1","numerals-dogu1235-1","Chan2019","eighteen",18,"pɛ́l sèlésìɡà","pelselesiga",NA,FALSE,"10+8{LIG}",NA,NA
-"180","dogu1235","numerals-dogu1235-1-nineteen-1","numerals-dogu1235-1","Chan2019","nineteen",19,"pɛ́l túwɔ́sìɡà","peltuwosiga",NA,FALSE,"10+9{LIG}",NA,NA
-"181","dogu1235","numerals-dogu1235-1-twenty-1","numerals-dogu1235-1","Chan2019","twenty",20,"pɛ́nééɡè","peneege",NA,FALSE,"10·2",NA,NA
-"182","dogu1235","numerals-dogu1235-1-twentyone-1","numerals-dogu1235-1","Chan2019","twentyone",21,"pɛ́nééɡè tɔ́mɔ̀sìɡà","peneegetomosiga",NA,FALSE,"(10·2)+1{LIG}",NA,NA
-"183","dogu1235","numerals-dogu1235-1-twentytwo-1","numerals-dogu1235-1","Chan2019","twentytwo",22,"pɛ́nééɡè néɡèsìɡà","peneegenegesiga",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"184","dogu1235","numerals-dogu1235-1-twentythree-1","numerals-dogu1235-1","Chan2019","twentythree",23,"pɛ́nééɡè tándùsìɡà","peneegetandusiga",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"185","dogu1235","numerals-dogu1235-1-twentyfour-1","numerals-dogu1235-1","Chan2019","twentyfour",24,"pɛ́nééɡè kɛ́sɔ́sìɡà","peneegekesosiga",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"186","dogu1235","numerals-dogu1235-1-twentyfive-1","numerals-dogu1235-1","Chan2019","twentyfive",25,"pɛ́nééɡè ǹósìɡà","peneegenosiga",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"187","dogu1235","numerals-dogu1235-1-twentysix-1","numerals-dogu1235-1","Chan2019","twentysix",26,"pɛ́nééɡè kúlèsìɡà","peneegekulesiga",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"188","dogu1235","numerals-dogu1235-1-twentyseven-1","numerals-dogu1235-1","Chan2019","twentyseven",27,"pɛ́nééɡè sɔ́wɛ̀sìɡà","peneegesowesiga",NA,FALSE,"(10·2)+7{LIG}",NA,NA
-"189","dogu1235","numerals-dogu1235-1-twentyeight-1","numerals-dogu1235-1","Chan2019","twentyeight",28,"pɛ́nééɡè sèlésìɡà","peneegeselesiga",NA,FALSE,"(10·2)+8{LIG}",NA,NA
-"190","dogu1235","numerals-dogu1235-1-twentynine-1","numerals-dogu1235-1","Chan2019","twentynine",29,"pɛ́nééɡè túwɔ́sìɡà","peneegetuwosiga",NA,FALSE,"(10·2)+9{LIG}",NA,NA
-"191","dogu1235","numerals-dogu1235-1-thirty-1","numerals-dogu1235-1","Chan2019","thirty",30,"pìráándù","piraandu",NA,FALSE,"10·3",NA,NA
-"192","dogu1235","numerals-dogu1235-1-forty-1","numerals-dogu1235-1","Chan2019","forty",40,"dɛ̀ɛ́","dee",NA,FALSE,"40",NA,NA
-"193","dogu1235","numerals-dogu1235-1-fifty-1","numerals-dogu1235-1","Chan2019","fifty",50,"pɛ́nnò","penno",NA,FALSE,"10·5",NA,NA
-"194","dogu1235","numerals-dogu1235-1-sixty-1","numerals-dogu1235-1","Chan2019","sixty",60,"pɛ̀l kùlé","pelkule",NA,FALSE,"10·6",NA,NA
-"195","dogu1235","numerals-dogu1235-1-seventy-1","numerals-dogu1235-1","Chan2019","seventy",70,"pɛ́l sɔ́ɔ́wɛ̀","pelsoowe",NA,FALSE,"10·7",NA,NA
-"196","dogu1235","numerals-dogu1235-1-eighty-1","numerals-dogu1235-1","Chan2019","eighty",80,"síìŋ","siing",NA,FALSE,"80",NA,NA
-"197","dogu1235","numerals-dogu1235-1-eighty-2","numerals-dogu1235-1","Chan2019","eighty",80,"pɛ́sèèlè","peseele",NA,FALSE,"10·8",NA,NA
-"198","dogu1235","numerals-dogu1235-1-ninety-1","numerals-dogu1235-1","Chan2019","ninety",90,"pɛ́ttùwà","pettuwa",NA,FALSE,"10·9",NA,NA
-"199","dogu1235","numerals-dogu1235-1-ninety-2","numerals-dogu1235-1","Chan2019","ninety",90,"síìŋ yàŋ kɛ̀lɛ̀pɛ́l","siingyangkelepel","( 80 + 10 )",FALSE,"80+{LIG}10",NA,NA
-"200","dogu1235","numerals-dogu1235-1-hundred-1","numerals-dogu1235-1","Chan2019","hundred",100,"tɛ́mdɛ̀rɛ̀","temdere","( < Fulfulde )",TRUE,"100",NA,NA
-"201","dogu1235","numerals-dogu1235-1-twohundred-1","numerals-dogu1235-1","Chan2019","twohundred",200,"tɛ́mdɛ̀ nééɡè","temdeneege",NA,FALSE,"100·2",NA,NA
-"202","dogu1235","numerals-dogu1235-1-thousand-1","numerals-dogu1235-1","Chan2019","thousand",1000,"múnjù","munju",NA,FALSE,"1000",NA,NA
-"203","dogu1235","numerals-dogu1235-1-twothousand-1","numerals-dogu1235-1","Chan2019","twothousand",2000,"múnjù nééɡè","munjuneege",NA,FALSE,"1000·2",NA,NA
-"204","donn1239","numerals-donn1239-1-one-1","numerals-donn1239-1","Chan2019","one",1,"tí","ti","(for counting)",FALSE,"1",NA,NA
-"205","donn1239","numerals-donn1239-1-one-2","numerals-donn1239-1","Chan2019","one",1,"túru","turu",NA,FALSE,"1",NA,NA
-"206","donn1239","numerals-donn1239-1-two-1","numerals-donn1239-1","Chan2019","two",2,"lɛ̀y","ley",NA,FALSE,"2",NA,NA
-"207","donn1239","numerals-donn1239-1-three-1","numerals-donn1239-1","Chan2019","three",3,"tàːnu","tanu",NA,FALSE,"3",NA,NA
-"208","donn1239","numerals-donn1239-1-four-1","numerals-donn1239-1","Chan2019","four",4,"này","nay",NA,FALSE,"4",NA,NA
-"209","donn1239","numerals-donn1239-1-five-1","numerals-donn1239-1","Chan2019","five",5,"nùmoro","numoro",NA,FALSE,"5",NA,NA
-"210","donn1239","numerals-donn1239-1-five-2","numerals-donn1239-1","Chan2019","five",5,"nnɔ","nno",NA,FALSE,"5",NA,NA
-"211","donn1239","numerals-donn1239-1-six-1","numerals-donn1239-1","Chan2019","six",6,"kúlóy","kuloy",NA,FALSE,"6",NA,NA
-"212","donn1239","numerals-donn1239-1-six-2","numerals-donn1239-1","Chan2019","six",6,"kulei","kulei",NA,FALSE,"6’",NA,NA
-"213","donn1239","numerals-donn1239-1-seven-1","numerals-donn1239-1","Chan2019","seven",7,"sɔ̀y","soy",NA,FALSE,"7",NA,NA
-"214","donn1239","numerals-donn1239-1-eight-1","numerals-donn1239-1","Chan2019","eight",8,"ɡàɡara","gagara",NA,FALSE,"8",NA,NA
-"215","donn1239","numerals-donn1239-1-nine-1","numerals-donn1239-1","Chan2019","nine",9,"tùo","tuo",NA,FALSE,"9",NA,NA
-"216","donn1239","numerals-donn1239-1-nine-2","numerals-donn1239-1","Chan2019","nine",9,"tuɡɔ","tugo",NA,FALSE,"9’",NA,NA
-"217","donn1239","numerals-donn1239-1-ten-1","numerals-donn1239-1","Chan2019","ten",10,"pɛ́lu","pelu",NA,FALSE,"10",NA,NA
-"218","donn1239","numerals-donn1239-1-eleven-1","numerals-donn1239-1","Chan2019","eleven",11,"pɛ́lu túru siɡɛ́","peluturusige",NA,FALSE,"10+1{LIG}",NA,NA
-"219","donn1239","numerals-donn1239-1-twelve-1","numerals-donn1239-1","Chan2019","twelve",12,"pɛ́lu léi siɡɛ́","peluleisige",NA,FALSE,"10+2{LIG}",NA,NA
-"220","donn1239","numerals-donn1239-1-thirteen-1","numerals-donn1239-1","Chan2019","thirteen",13,"pɛ́lu táánú siɡɛ́","pelutaanusige",NA,FALSE,"10+3{LIG}",NA,NA
-"221","donn1239","numerals-donn1239-1-fourteen-1","numerals-donn1239-1","Chan2019","fourteen",14,"pɛ́lu náí siɡɛ́","pelunaisige",NA,FALSE,"10+4{LIG}",NA,NA
-"222","donn1239","numerals-donn1239-1-fifteen-1","numerals-donn1239-1","Chan2019","fifteen",15,"pɛ́lu númɔ́rɔ́n siɡɛ́","pelunumoronsige",NA,FALSE,"10+5{LIG}",NA,NA
-"223","donn1239","numerals-donn1239-1-sixteen-1","numerals-donn1239-1","Chan2019","sixteen",16,"pɛ́lu kúlóí siɡɛ́","pelukuloisige",NA,FALSE,"10+6{LIG}",NA,NA
-"224","donn1239","numerals-donn1239-1-seventeen-1","numerals-donn1239-1","Chan2019","seventeen",17,"pɛ́lu sɔ́í siɡɛ́","pelusoisige",NA,FALSE,"10+7{LIG}",NA,NA
-"225","donn1239","numerals-donn1239-1-eighteen-1","numerals-donn1239-1","Chan2019","eighteen",18,"pɛ́lu ɡáɡárá siɡɛ́","pelugagarasige",NA,FALSE,"10+8{LIG}",NA,NA
-"226","donn1239","numerals-donn1239-1-nineteen-1","numerals-donn1239-1","Chan2019","nineteen",19,"pɛ́lu túwɔ́ siɡɛ́","pelutuwosige",NA,FALSE,"10+9{LIG}",NA,NA
-"227","donn1239","numerals-donn1239-1-twenty-1","numerals-donn1239-1","Chan2019","twenty",20,"pɛ́lu lɛ̀y","peluley",NA,FALSE,"10·2",NA,NA
-"228","donn1239","numerals-donn1239-1-twenty-2","numerals-donn1239-1","Chan2019","twenty",20,"pɛ́llɛy","pelley",NA,FALSE,"10·2",NA,NA
-"229","donn1239","numerals-donn1239-1-twentyone-1","numerals-donn1239-1","Chan2019","twentyone",21,"pɛ́llɛy túru siɡɛ́","pelleyturusige",NA,FALSE,"(10·2)+1{LIG}",NA,NA
-"230","donn1239","numerals-donn1239-1-twentytwo-1","numerals-donn1239-1","Chan2019","twentytwo",22,"pɛ́llɛy lɛ̀y siɡɛ́","pelleyleysige",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"231","donn1239","numerals-donn1239-1-twentythree-1","numerals-donn1239-1","Chan2019","twentythree",23,"pɛ́llɛy táánúsiɡɛ","pelleytaanusige",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"232","donn1239","numerals-donn1239-1-twentyfour-1","numerals-donn1239-1","Chan2019","twentyfour",24,"pɛ́llɛy náísiɡɛ","pelleynaisige",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"233","donn1239","numerals-donn1239-1-twentyfive-1","numerals-donn1239-1","Chan2019","twentyfive",25,"pɛ́llɛy númɔ́rɔ́nsiɡɛ","pelleynumoronsige",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"234","donn1239","numerals-donn1239-1-twentysix-1","numerals-donn1239-1","Chan2019","twentysix",26,"pɛ́llɛy kúlóísiɡɛ","pelleykuloisige",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"235","donn1239","numerals-donn1239-1-twentyseven-1","numerals-donn1239-1","Chan2019","twentyseven",27,"pɛ́llɛy sɔ́ísiɡɛ","pelleysoisige",NA,FALSE,"(10·2)+7{LIG}",NA,NA
-"236","donn1239","numerals-donn1239-1-twentyeight-1","numerals-donn1239-1","Chan2019","twentyeight",28,"pɛ́llɛy ɡáɡárásiɡɛ","pelleygagarasige",NA,FALSE,"(10·2)+8{LIG}",NA,NA
-"237","donn1239","numerals-donn1239-1-twentynine-1","numerals-donn1239-1","Chan2019","twentynine",29,"pɛ́llɛy túwɔ́siɡɛ","pelleytuwosige",NA,FALSE,"(10·2)+9{LIG}",NA,NA
-"238","donn1239","numerals-donn1239-1-thirty-1","numerals-donn1239-1","Chan2019","thirty",30,"pɛ́lu tàːnu","pelutanu",NA,FALSE,"10·3",NA,NA
-"239","donn1239","numerals-donn1239-1-thirty-2","numerals-donn1239-1","Chan2019","thirty",30,"pɛ́ːtàːnu","petanu",NA,FALSE,"10·3",NA,NA
-"240","donn1239","numerals-donn1239-1-forty-1","numerals-donn1239-1","Chan2019","forty",40,"pɛ́lu này","pelunay",NA,FALSE,"10·4",NA,NA
-"241","donn1239","numerals-donn1239-1-forty-2","numerals-donn1239-1","Chan2019","forty",40,"pɛ́nnay","pennay",NA,FALSE,"10·4",NA,NA
-"242","donn1239","numerals-donn1239-1-fifty-1","numerals-donn1239-1","Chan2019","fifty",50,"pɛ́lu númɔ́rɔ́n","pelunumoron",NA,FALSE,"10·5",NA,NA
-"243","donn1239","numerals-donn1239-1-sixty-1","numerals-donn1239-1","Chan2019","sixty",60,"pɛ́lu kúlóí","pelukuloi",NA,FALSE,"10·6",NA,NA
-"244","donn1239","numerals-donn1239-1-seventy-1","numerals-donn1239-1","Chan2019","seventy",70,"pɛ́lu sɔ́í","pelusoi",NA,FALSE,"10·7",NA,NA
-"245","donn1239","numerals-donn1239-1-eighty-1","numerals-donn1239-1","Chan2019","eighty",80,"súŋu","sungu",NA,FALSE,"80",NA,NA
-"246","donn1239","numerals-donn1239-1-ninety-1","numerals-donn1239-1","Chan2019","ninety",90,"súŋu le pɛ́llu","sungulepellu","( 80 + 10 )",FALSE,"80+{LIG’}10",NA,NA
-"247","donn1239","numerals-donn1239-1-hundred-1","numerals-donn1239-1","Chan2019","hundred",100,"súŋú le pɛ́llɛy","sungulepelley","( 80 + 20 )",FALSE,"80+{LIG’}20",NA,NA
-"248","donn1239","numerals-donn1239-1-twohundred-1","numerals-donn1239-1","Chan2019","twohundred",200,"súŋu lɛ̀y pɛ́nnay","sunguleypennay","[( 80 x 2 ) + 40 ]",FALSE,"(80·2)+10·4",NA,NA
-"249","donn1239","numerals-donn1239-1-thousand-1","numerals-donn1239-1","Chan2019","thousand",1000,"mùɲu súŋu lɛ̀y pɛ́nnay","munusunguleypennay","( 800 + 200 )",FALSE,"5·((80·2)+10·4"),NA,NA
-"250","donn1239","numerals-donn1239-1-twothousand-1","numerals-donn1239-1","Chan2019","twothousand",2000,"mùɲú lɛ̀y súŋu nnɔ","munuleysungunno","( 1600 + 400 )",FALSE,"?","configuration of 5,2,80,5 is not equal to 2000; 5·80·5 would",NA
-"251","jams1239","numerals-jams1239-1-one-1","numerals-jams1239-1","Chan2019","one",1,"túrú","turu",NA,FALSE,"1",NA,NA
-"252","jams1239","numerals-jams1239-1-two-1","numerals-jams1239-1","Chan2019","two",2,"lɛ̌y","ley",NA,FALSE,"2",NA,NA
-"253","jams1239","numerals-jams1239-1-two-2","numerals-jams1239-1","Chan2019","two",2,"lɛ̀y","ley",NA,FALSE,"2",NA,NA
-"254","jams1239","numerals-jams1239-1-three-1","numerals-jams1239-1","Chan2019","three",3,"tǎːn","tan",NA,FALSE,"3",NA,NA
-"255","jams1239","numerals-jams1239-1-three-2","numerals-jams1239-1","Chan2019","three",3,"tàːn","tan",NA,FALSE,"3",NA,NA
-"256","jams1239","numerals-jams1239-1-four-1","numerals-jams1239-1","Chan2019","four",4,"nǎyⁿ","nayn",NA,FALSE,"4",NA,NA
-"257","jams1239","numerals-jams1239-1-four-2","numerals-jams1239-1","Chan2019","four",4,"nàyⁿ","nayn","( *)",FALSE,"4",NA,NA
-"258","jams1239","numerals-jams1239-1-five-1","numerals-jams1239-1","Chan2019","five",5,"nǔːyⁿ","nuyn",NA,FALSE,"5",NA,NA
-"259","jams1239","numerals-jams1239-1-five-2","numerals-jams1239-1","Chan2019","five",5,"nùːyⁿ","nuyn",NA,FALSE,"5",NA,NA
-"260","jams1239","numerals-jams1239-1-six-1","numerals-jams1239-1","Chan2019","six",6,"kúróy","kuroy",NA,FALSE,"6",NA,NA
-"261","jams1239","numerals-jams1239-1-seven-1","numerals-jams1239-1","Chan2019","seven",7,"sûyⁿ","suyn",NA,FALSE,"7",NA,NA
-"262","jams1239","numerals-jams1239-1-eight-1","numerals-jams1239-1","Chan2019","eight",8,"ɡáːrà","gara",NA,FALSE,"8",NA,NA
-"263","jams1239","numerals-jams1239-1-nine-1","numerals-jams1239-1","Chan2019","nine",9,"láːrúwà","laruwa",NA,FALSE,"9",NA,NA
-"264","jams1239","numerals-jams1239-1-nine-2","numerals-jams1239-1","Chan2019","nine",9,"láːrwà","larwa",NA,FALSE,"9",NA,NA
-"265","jams1239","numerals-jams1239-1-ten-1","numerals-jams1239-1","Chan2019","ten",10,"pɛ́rú","peru",NA,FALSE,"10",NA,NA
-"266","jams1239","numerals-jams1239-1-eleven-1","numerals-jams1239-1","Chan2019","eleven",11,"pɛ́rɛ́ túrú sáɣà","pereturusaga","(litː one plus )",FALSE,"10+1{LIG}",NA,NA
-"267","jams1239","numerals-jams1239-1-twelve-1","numerals-jams1239-1","Chan2019","twelve",12,"pɛ́rɛ́ lɛ̀y sáɣà","pereleysaga",NA,FALSE,"10+2{LIG}",NA,NA
-"268","jams1239","numerals-jams1239-1-thirteen-1","numerals-jams1239-1","Chan2019","thirteen",13,"pɛ́rɛ́ tàːn sáɣà","peretansaga",NA,FALSE,"10+3{LIG}",NA,NA
-"269","jams1239","numerals-jams1239-1-fourteen-1","numerals-jams1239-1","Chan2019","fourteen",14,"pɛ́rɛ́ nàyⁿ sáɣà","perenaynsaga",NA,FALSE,"10+4{LIG}",NA,NA
-"270","jams1239","numerals-jams1239-1-fifteen-1","numerals-jams1239-1","Chan2019","fifteen",15,"pɛ́rɛ́ nùːyⁿ sáɣà","perenuynsaga",NA,FALSE,"10+5{LIG}",NA,NA
-"271","jams1239","numerals-jams1239-1-sixteen-1","numerals-jams1239-1","Chan2019","sixteen",16,"pɛ́rɛ́ kúróy sáɣà","perekuroysaga",NA,FALSE,"10+6{LIG}",NA,NA
-"272","jams1239","numerals-jams1239-1-seventeen-1","numerals-jams1239-1","Chan2019","seventeen",17,"pɛ́rɛ́ sûyⁿ sáɣà","peresuynsaga",NA,FALSE,"10+7{LIG}",NA,NA
-"273","jams1239","numerals-jams1239-1-eighteen-1","numerals-jams1239-1","Chan2019","eighteen",18,"pɛ́rɛ́ ɡáːrà sáɣà","peregarasaga",NA,FALSE,"10+8{LIG}",NA,NA
-"274","jams1239","numerals-jams1239-1-nineteen-1","numerals-jams1239-1","Chan2019","nineteen",19,"pɛ́rɛ́ láːrúwà sáɣà","perelaruwasaga",NA,FALSE,"10+9{LIG}",NA,NA
-"275","jams1239","numerals-jams1239-1-twenty-1","numerals-jams1239-1","Chan2019","twenty",20,"pɛ́l-lɛ̀y","pelley",NA,FALSE,"10·2",NA,NA
-"276","jams1239","numerals-jams1239-1-twentyone-1","numerals-jams1239-1","Chan2019","twentyone",21,"pɛ́l-lɛ̀y túrú sáɣà","pelleyturusaga",NA,FALSE,"(10·2)+1{LIG}",NA,NA
-"277","jams1239","numerals-jams1239-1-twentytwo-1","numerals-jams1239-1","Chan2019","twentytwo",22,"pɛ́l-lɛ̀y lɛ̀y sáɣà","pelleyleysaga",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"278","jams1239","numerals-jams1239-1-twentythree-1","numerals-jams1239-1","Chan2019","twentythree",23,"pɛ́l-lɛ̀y tàːn sáɣà","pelleytansaga",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"279","jams1239","numerals-jams1239-1-twentyfour-1","numerals-jams1239-1","Chan2019","twentyfour",24,"pɛ́l-lɛ̀y nàyⁿ sáɣà","pelleynaynsaga",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"280","jams1239","numerals-jams1239-1-twentyfive-1","numerals-jams1239-1","Chan2019","twentyfive",25,"pɛ́l-lɛ̀y nùːyⁿ sáɣà","pelleynuynsaga",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"281","jams1239","numerals-jams1239-1-twentysix-1","numerals-jams1239-1","Chan2019","twentysix",26,"pɛ́l-lɛ̀y kúróy sáɣà","pelleykuroysaga",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"282","jams1239","numerals-jams1239-1-twentyseven-1","numerals-jams1239-1","Chan2019","twentyseven",27,"pɛ́l-lɛ̀y sûyⁿ sáɣà","pelleysuynsaga",NA,FALSE,"(10·2)+7{LIG}",NA,NA
-"283","jams1239","numerals-jams1239-1-twentyeight-1","numerals-jams1239-1","Chan2019","twentyeight",28,"pɛ́l-lɛ̀y ɡáːrà sáɣà","pelleygarasaga",NA,FALSE,"(10·2)+8{LIG}",NA,NA
-"284","jams1239","numerals-jams1239-1-twentynine-1","numerals-jams1239-1","Chan2019","twentynine",29,"pɛ́l-lɛ̀y láːrúwà sáɣà","pelleylaruwasaga",NA,FALSE,"(10·2)+9{LIG}",NA,NA
-"285","jams1239","numerals-jams1239-1-thirty-1","numerals-jams1239-1","Chan2019","thirty",30,"pɛ́t-tàːn","pettan",NA,FALSE,"10·3",NA,NA
-"286","jams1239","numerals-jams1239-1-forty-1","numerals-jams1239-1","Chan2019","forty",40,"pɛ́n-nàyⁿ","pennayn",NA,FALSE,"10·4",NA,NA
-"287","jams1239","numerals-jams1239-1-fifty-1","numerals-jams1239-1","Chan2019","fifty",50,"pɛ́n-nùːyⁿ","pennuyn",NA,FALSE,"10·5",NA,NA
-"288","jams1239","numerals-jams1239-1-sixty-1","numerals-jams1239-1","Chan2019","sixty",60,"pɛ̀rù-kúróy","perukuroy",NA,FALSE,"10·6",NA,NA
-"289","jams1239","numerals-jams1239-1-seventy-1","numerals-jams1239-1","Chan2019","seventy",70,"pɛ̀ru sûyⁿ","perusuyn",NA,FALSE,"10·7",NA,NA
-"290","jams1239","numerals-jams1239-1-eighty-1","numerals-jams1239-1","Chan2019","eighty",80,"pɛ̀rù-ɡáːrà","perugara",NA,FALSE,"10·8",NA,NA
-"291","jams1239","numerals-jams1239-1-eighty-2","numerals-jams1239-1","Chan2019","eighty",80,"dɔ̀ɣɔ̀-sǔŋ","dogosung",NA,FALSE,"80","10·8",NA
-"292","jams1239","numerals-jams1239-1-ninety-1","numerals-jams1239-1","Chan2019","ninety",90,"pɛ̀l-láːrúwà","pellaruwa",NA,FALSE,"10·9",NA,NA
-"293","jams1239","numerals-jams1239-1-ninety-2","numerals-jams1239-1","Chan2019","ninety",90,"pɛ̀l-láːrwà","pellarwa",NA,FALSE,"10·9",NA,NA
-"294","jams1239","numerals-jams1239-1-hundred-1","numerals-jams1239-1","Chan2019","hundred",100,"sǔŋ","sung",NA,FALSE,"100",NA,NA
-"295","jams1239","numerals-jams1239-1-hundred-2","numerals-jams1239-1","Chan2019","hundred",100,"tɛ́ːmɛ́dɛ́rɛ̀","temedere","( < Fulfulde )",TRUE,"100’",NA,NA
-"296","jams1239","numerals-jams1239-1-twohundred-1","numerals-jams1239-1","Chan2019","twohundred",200,"tɛ́ːmɛ́dɛ̂r lɛ̀y","temederley",NA,FALSE,"100·2",NA,NA
-"297","jams1239","numerals-jams1239-1-thousand-1","numerals-jams1239-1","Chan2019","thousand",1000,"mùɲú","munu",NA,FALSE,"1000",NA,NA
-"298","jams1239","numerals-jams1239-1-twothousand-1","numerals-jams1239-1","Chan2019","twothousand",2000,"mùɲú lɛ̀y","munuley",NA,FALSE,"1000·2",NA,NA
-"299","momb1254","numerals-momb1254-1-one-1","numerals-momb1254-1","Chan2019","one",1,"yɛ̀ːtáːŋɡù","yetanggu",NA,FALSE,"1",NA,NA
-"300","momb1254","numerals-momb1254-1-one-2","numerals-momb1254-1","Chan2019","one",1,"tíːtà","tita","(in counting)",FALSE,"1'",NA,NA
-"301","momb1254","numerals-momb1254-1-two-1","numerals-momb1254-1","Chan2019","two",2,"nɛ́ːŋɡá","nengga",NA,FALSE,"2",NA,NA
-"302","momb1254","numerals-momb1254-1-three-1","numerals-momb1254-1","Chan2019","three",3,"táːndì","tandi",NA,FALSE,"3",NA,NA
-"303","momb1254","numerals-momb1254-1-four-1","numerals-momb1254-1","Chan2019","four",4,"kɛ́ːjɔ́","kejo",NA,FALSE,"4",NA,NA
-"304","momb1254","numerals-momb1254-1-five-1","numerals-momb1254-1","Chan2019","five",5,"núːmù","numu",NA,FALSE,"5",NA,NA
-"305","momb1254","numerals-momb1254-1-six-1","numerals-momb1254-1","Chan2019","six",6,"kúléyⁿ","kuleyn",NA,FALSE,"6",NA,NA
-"306","momb1254","numerals-momb1254-1-seven-1","numerals-momb1254-1","Chan2019","seven",7,"sɔ́ːlì","soli",NA,FALSE,"7",NA,NA
-"307","momb1254","numerals-momb1254-1-eight-1","numerals-momb1254-1","Chan2019","eight",8,"séːlè","sele",NA,FALSE,"8",NA,NA
-"308","momb1254","numerals-momb1254-1-nine-1","numerals-momb1254-1","Chan2019","nine",9,"tóːwà","towa",NA,FALSE,"9",NA,NA
-"309","momb1254","numerals-momb1254-1-ten-1","numerals-momb1254-1","Chan2019","ten",10,"pɛ́ːlù","pelu",NA,FALSE,"10",NA,NA
-"310","momb1254","numerals-momb1254-1-eleven-1","numerals-momb1254-1","Chan2019","eleven",11,"pɛ́ːlú yɛ̀ː táːŋɡá súɡɔ́","peluyetanggasugo",NA,FALSE,"10+1{LIG}",NA,NA
-"311","momb1254","numerals-momb1254-1-twelve-1","numerals-momb1254-1","Chan2019","twelve",12,"pɛ́ːlú nɛ́ːŋɡá súɡɔ́","pelunenggasugo",NA,FALSE,"10+2{LIG}",NA,NA
-"312","momb1254","numerals-momb1254-1-thirteen-1","numerals-momb1254-1","Chan2019","thirteen",13,"pɛ́ːlú táːndì súɡɔ́","pelutandisugo",NA,FALSE,"10+3{LIG}",NA,NA
-"313","momb1254","numerals-momb1254-1-fourteen-1","numerals-momb1254-1","Chan2019","fourteen",14,"pɛ́ːlú kɛ́ːjɔ́ súɡɔ́","pelukejosugo",NA,FALSE,"10+4{LIG}",NA,NA
-"314","momb1254","numerals-momb1254-1-fifteen-1","numerals-momb1254-1","Chan2019","fifteen",15,"pɛ́ːlú núːmù súɡɔ́","pelunumusugo",NA,FALSE,"10+5{LIG}",NA,NA
-"315","momb1254","numerals-momb1254-1-sixteen-1","numerals-momb1254-1","Chan2019","sixteen",16,"pɛ́ːlú kúléyⁿ súɡɔ́","pelukuleynsugo",NA,FALSE,"10+6{LIG}",NA,NA
-"316","momb1254","numerals-momb1254-1-seventeen-1","numerals-momb1254-1","Chan2019","seventeen",17,"pɛ́ːlú sɔ́ːlì súɡɔ́","pelusolisugo",NA,FALSE,"10+7{LIG}",NA,NA
-"317","momb1254","numerals-momb1254-1-eighteen-1","numerals-momb1254-1","Chan2019","eighteen",18,"pɛ́ːlú séːlè súɡɔ́","peluselesugo",NA,FALSE,"10+8{LIG}",NA,NA
-"318","momb1254","numerals-momb1254-1-nineteen-1","numerals-momb1254-1","Chan2019","nineteen",19,"pɛ́rɛ́ tóːwà súɡɔ́","peretowasugo",NA,FALSE,"10+9{LIG}",NA,NA
-"319","momb1254","numerals-momb1254-1-twenty-1","numerals-momb1254-1","Chan2019","twenty",20,"pɛ́ːnɛ́ːŋɡá","penengga",NA,FALSE,"10·2",NA,NA
-"320","momb1254","numerals-momb1254-1-twentyone-1","numerals-momb1254-1","Chan2019","twentyone",21,"pɛ́ːnɛ́ːŋɡá yɛ̀ː táːŋɡá súɡɔ́","penenggayetanggasugo",NA,FALSE,"(10·2)+1{LIG}",NA,NA
-"321","momb1254","numerals-momb1254-1-twentytwo-1","numerals-momb1254-1","Chan2019","twentytwo",22,"pɛ́ːnɛ́ːŋɡá nɛ́ːŋɡá súɡɔ́","penengganenggasugo",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"322","momb1254","numerals-momb1254-1-twentythree-1","numerals-momb1254-1","Chan2019","twentythree",23,"pɛ́ːnɛ́ːŋɡá táːndì súɡɔ́","penenggatandisugo",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"323","momb1254","numerals-momb1254-1-twentyfour-1","numerals-momb1254-1","Chan2019","twentyfour",24,"pɛ́ːnɛ́ːŋɡá kɛ́ːjɔ́ súɡɔ́","penenggakejosugo",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"324","momb1254","numerals-momb1254-1-twentyfive-1","numerals-momb1254-1","Chan2019","twentyfive",25,"pɛ́ːnɛ́ːŋɡá núːmù súɡɔ́","penengganumusugo",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"325","momb1254","numerals-momb1254-1-twentysix-1","numerals-momb1254-1","Chan2019","twentysix",26,"pɛ́ːnɛ́ːŋɡá kúléyⁿ súɡɔ́","penenggakuleynsugo",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"326","momb1254","numerals-momb1254-1-twentyseven-1","numerals-momb1254-1","Chan2019","twentyseven",27,"pɛ́ːnɛ́ːŋɡá sɔ́ːlì súɡɔ́","penenggasolisugo",NA,FALSE,"(10·2)+{LIG}7",NA,NA
-"327","momb1254","numerals-momb1254-1-twentyeight-1","numerals-momb1254-1","Chan2019","twentyeight",28,"pɛ́ːnɛ́ːŋɡá séːlè súɡɔ́","penenggaselesugo",NA,FALSE,"(10·2)+{LIG}8",NA,NA
-"328","momb1254","numerals-momb1254-1-twentynine-1","numerals-momb1254-1","Chan2019","twentynine",29,"pɛ́ːnɛ́ːŋɡá tóːwà súɡɔ́","penenggatowasugo",NA,FALSE,"(10·2)+{LIG}9",NA,NA
-"329","momb1254","numerals-momb1254-1-thirty-1","numerals-momb1254-1","Chan2019","thirty",30,"pɛ́ːtáːndì","petandi",NA,FALSE,"10·3",NA,NA
-"330","momb1254","numerals-momb1254-1-forty-1","numerals-momb1254-1","Chan2019","forty",40,"dɛ̂ː","de",NA,FALSE,"40",NA,NA
-"331","momb1254","numerals-momb1254-1-fifty-1","numerals-momb1254-1","Chan2019","fifty",50,"dɛ̀ː ndò pèːlú","dendopelu",NA,FALSE,"40+{LIG'}10",NA,NA
-"332","momb1254","numerals-momb1254-1-sixty-1","numerals-momb1254-1","Chan2019","sixty",60,"pɛ́ːlú kúléyⁿ","pelukuleyn",NA,FALSE,"10·6",NA,NA
-"333","momb1254","numerals-momb1254-1-seventy-1","numerals-momb1254-1","Chan2019","seventy",70,"síŋɡì pɛ́ːlú ólyâː","singgipeluolya","( 80 - 10 ? )",FALSE,"80-10{LIG”}",NA,NA
-"334","momb1254","numerals-momb1254-1-eighty-1","numerals-momb1254-1","Chan2019","eighty",80,"síŋɡì","singgi",NA,FALSE,"80",NA,NA
-"335","momb1254","numerals-momb1254-1-ninety-1","numerals-momb1254-1","Chan2019","ninety",90,"síŋɡì ndò pɛ́ːlú","singgindopelu","( 80 + 10 )",FALSE,"80+{LIG'}10",NA,NA
-"336","momb1254","numerals-momb1254-1-hundred-1","numerals-momb1254-1","Chan2019","hundred",100,"síŋɡì ndò pɛ̀ː-nɛ́ːŋɡá","singgindopenengga","( 80 + 20 )",FALSE,"80+{LIG}(10·2)",NA,NA
-"337","momb1254","numerals-momb1254-1-twohundred-1","numerals-momb1254-1","Chan2019","twohundred",200,"tɛ́mdɛ́rɛ́ nɛ́ŋɡá","temderenengga",NA,FALSE,"100·2",NA,NA
-"338","momb1254","numerals-momb1254-1-thousand-1","numerals-momb1254-1","Chan2019","thousand",1000,"múnjù","munju",NA,FALSE,"1000",NA,NA
-"339","momb1254","numerals-momb1254-1-thousand-2","numerals-momb1254-1","Chan2019","thousand",1000,"sìlá múnju","silamunju",NA,FALSE,"1”·1000",NA,NA
-"340","momb1254","numerals-momb1254-1-twothousand-1","numerals-momb1254-1","Chan2019","twothousand",2000,"múnjù nɛ́ːŋɡà","munjunengga",NA,FALSE,"1000·2",NA,NA
-"341","nang1261","numerals-nang1261-1-one-1","numerals-nang1261-1","Chan2019","one",1,"tùmâ","tuma",NA,FALSE,"1",NA,NA
-"342","nang1261","numerals-nang1261-1-two-1","numerals-nang1261-1","Chan2019","two",2,"wǒj","woj",NA,FALSE,"2",NA,NA
-"343","nang1261","numerals-nang1261-1-three-1","numerals-nang1261-1","Chan2019","three",3,"tàːndǐː","tandi",NA,FALSE,"3",NA,NA
-"344","nang1261","numerals-nang1261-1-four-1","numerals-nang1261-1","Chan2019","four",4,"nɔ̌jⁿ","nojn",NA,FALSE,"4",NA,NA
-"345","nang1261","numerals-nang1261-1-five-1","numerals-nang1261-1","Chan2019","five",5,"nìmǐː","nimi",NA,FALSE,"5",NA,NA
-"346","nang1261","numerals-nang1261-1-six-1","numerals-nang1261-1","Chan2019","six",6,"kúrê","kure",NA,FALSE,"6",NA,NA
-"347","nang1261","numerals-nang1261-1-seven-1","numerals-nang1261-1","Chan2019","seven",7,"sújɛ̂","suje",NA,FALSE,"7",NA,NA
-"348","nang1261","numerals-nang1261-1-eight-1","numerals-nang1261-1","Chan2019","eight",8,"ɡáːrɛ̀","gare",NA,FALSE,"8",NA,NA
-"349","nang1261","numerals-nang1261-1-nine-1","numerals-nang1261-1","Chan2019","nine",9,"tèːsǐː","tesi",NA,FALSE,"9",NA,NA
-"350","nang1261","numerals-nang1261-1-ten-1","numerals-nang1261-1","Chan2019","ten",10,"pɛ́ːrú","peru",NA,FALSE,"10",NA,NA
-"351","nang1261","numerals-nang1261-1-eleven-1","numerals-nang1261-1","Chan2019","eleven",11,"pɛ̂ːr tùmâ sáɡâ","pertumasaga",NA,FALSE,"10+1{LIG}","LIG=more than",NA
-"352","nang1261","numerals-nang1261-1-twelve-1","numerals-nang1261-1","Chan2019","twelve",12,"pɛ̂ːr wǒj sáɡâ","perwojsaga",NA,FALSE,"10+2{LIG}",NA,NA
-"353","nang1261","numerals-nang1261-1-thirteen-1","numerals-nang1261-1","Chan2019","thirteen",13,"pɛ̂ːr tàːndǐː sáɡâ","pertandisaga",NA,FALSE,"10+3{LIG}",NA,NA
-"354","nang1261","numerals-nang1261-1-fourteen-1","numerals-nang1261-1","Chan2019","fourteen",14,"pɛ̂ːr nɔ̌jⁿ sáɡâ","pernojnsaga",NA,FALSE,"10+4{LIG}",NA,NA
-"355","nang1261","numerals-nang1261-1-fifteen-1","numerals-nang1261-1","Chan2019","fifteen",15,"pɛ̂ːr nìmǐː sáɡâ","pernimisaga",NA,FALSE,"10+5{LIG}",NA,NA
-"356","nang1261","numerals-nang1261-1-sixteen-1","numerals-nang1261-1","Chan2019","sixteen",16,"pɛ̂ːr kúrê sáɡâ","perkuresaga",NA,FALSE,"10+6{LIG}",NA,NA
-"357","nang1261","numerals-nang1261-1-seventeen-1","numerals-nang1261-1","Chan2019","seventeen",17,"pɛ̂ːr sújɛ̂ sáɡâ","persujesaga",NA,FALSE,"10+7{LIG}",NA,NA
-"358","nang1261","numerals-nang1261-1-eighteen-1","numerals-nang1261-1","Chan2019","eighteen",18,"pɛ̂ːr ɡáːrɛ̀ sáɡâ","pergaresaga",NA,FALSE,"10+8{LIG}",NA,NA
-"359","nang1261","numerals-nang1261-1-nineteen-1","numerals-nang1261-1","Chan2019","nineteen",19,"pɛ̂ːr tèːsǐː sáɡâ","pertesisaga",NA,FALSE,"10+9{LIG}",NA,NA
-"360","nang1261","numerals-nang1261-1-twenty-1","numerals-nang1261-1","Chan2019","twenty",20,"pɛ̀rí jěj","perijej",NA,FALSE,"10·2'",NA,NA
-"361","nang1261","numerals-nang1261-1-twentyone-1","numerals-nang1261-1","Chan2019","twentyone",21,"pɛ̀rí jěj tùmâ sáɡâ","perijejtumasaga","??",FALSE,"(10·2’)+1{LIG}",NA,NA
-"362","nang1261","numerals-nang1261-1-twentytwo-1","numerals-nang1261-1","Chan2019","twentytwo",22,"pɛ̀rí jěj wǒj sáɡâ","perijejwojsaga",NA,FALSE,"(10·2’)+2{LIG}",NA,NA
-"363","nang1261","numerals-nang1261-1-twentythree-1","numerals-nang1261-1","Chan2019","twentythree",23,"pɛ̀rí jěj tàːndǐː sáɡâ","perijejtandisaga",NA,FALSE,"(10·2’)+3{LIG}",NA,NA
-"364","nang1261","numerals-nang1261-1-twentyfour-1","numerals-nang1261-1","Chan2019","twentyfour",24,"pɛ̀rí jěj nɔ̌jⁿ sáɡâ","perijejnojnsaga",NA,FALSE,"(10·2’)+4{LIG}",NA,NA
-"365","nang1261","numerals-nang1261-1-twentyfive-1","numerals-nang1261-1","Chan2019","twentyfive",25,"pɛ̀rí jěj nìmǐː sáɡâ","perijejnimisaga",NA,FALSE,"(10·2’)+5{LIG}",NA,NA
-"366","nang1261","numerals-nang1261-1-twentysix-1","numerals-nang1261-1","Chan2019","twentysix",26,"pɛ̀rí jěj kúrê sáɡâ","perijejkuresaga",NA,FALSE,"(10·2’)+6{LIG}",NA,NA
-"367","nang1261","numerals-nang1261-1-twentyseven-1","numerals-nang1261-1","Chan2019","twentyseven",27,"pɛ̀rí jěj sújɛ̂ sáɡâ","perijejsujesaga",NA,FALSE,"(10·2’)+7{LIG}",NA,NA
-"368","nang1261","numerals-nang1261-1-twentyeight-1","numerals-nang1261-1","Chan2019","twentyeight",28,"pɛ̀rí jěj ɡáːrɛ̀ sáɡâ","perijejgaresaga",NA,FALSE,"(10·2’)+8{LIG}",NA,NA
-"369","nang1261","numerals-nang1261-1-twentynine-1","numerals-nang1261-1","Chan2019","twentynine",29,"pɛ̀rí jěj tèːsǐː sáɡâ","perijejtesisaga",NA,FALSE,"(10·2’)+9{LIG}",NA,NA
-"370","nang1261","numerals-nang1261-1-thirty-1","numerals-nang1261-1","Chan2019","thirty",30,"pɛ̌n tàːndǐː","pentandi",NA,FALSE,"10·3",NA,NA
-"371","nang1261","numerals-nang1261-1-forty-1","numerals-nang1261-1","Chan2019","forty",40,"pɛ̌n nɔ̌jⁿ","pennojn",NA,FALSE,"10·4",NA,NA
-"372","nang1261","numerals-nang1261-1-fifty-1","numerals-nang1261-1","Chan2019","fifty",50,"pɛ̌n nìmǐː","pennimi",NA,FALSE,"10·5",NA,NA
-"373","nang1261","numerals-nang1261-1-sixty-1","numerals-nang1261-1","Chan2019","sixty",60,"pɛ̀r kúrê","perkure",NA,FALSE,"10·6",NA,NA
-"374","nang1261","numerals-nang1261-1-seventy-1","numerals-nang1261-1","Chan2019","seventy",70,"pɛ̀r sújɛ̂","persuje",NA,FALSE,"10·7",NA,NA
-"375","nang1261","numerals-nang1261-1-eighty-1","numerals-nang1261-1","Chan2019","eighty",80,"pɛ̀r ɡáːrɛ̀","pergare",NA,FALSE,"10·8",NA,NA
-"376","nang1261","numerals-nang1261-1-eighty-2","numerals-nang1261-1","Chan2019","eighty",80,"dɔ̀ɡɔ̀ sěŋ","dogoseng","(archaic)",FALSE,"80","10·8",NA
-"377","nang1261","numerals-nang1261-1-ninety-1","numerals-nang1261-1","Chan2019","ninety",90,"pɛ̀r tèːsǐː","pertesi",NA,FALSE,"10·9",NA,NA
-"378","nang1261","numerals-nang1261-1-hundred-1","numerals-nang1261-1","Chan2019","hundred",100,"tɛ́ːmɛ́dɛ́rɛ̀","temedere",NA,FALSE,"100",NA,NA
-"379","nang1261","numerals-nang1261-1-hundred-2","numerals-nang1261-1","Chan2019","hundred",100,"tɛ́ːmdɛ́rɛ̀","temdere","( < Fulfulde )",TRUE,"100",NA,NA
-"380","nang1261","numerals-nang1261-1-twohundred-1","numerals-nang1261-1","Chan2019","twohundred",200,"tɛ́ːmɛ́dɛ́rɛ̀ wǒj","temederewoj","??",FALSE,"100·2",NA,NA
-"381","nang1261","numerals-nang1261-1-thousand-1","numerals-nang1261-1","Chan2019","thousand",1000,"mùsú","musu",NA,FALSE,"1000",NA,NA
-"382","nang1261","numerals-nang1261-1-twothousand-1","numerals-nang1261-1","Chan2019","twothousand",2000,"mùsú wǒj","musuwoj","??",FALSE,"1000·2",NA,NA
-"383","togo1254","numerals-togo1254-1-one-1","numerals-togo1254-1","Chan2019","one",1,"tí","ti",NA,FALSE,"1",NA,NA
-"384","togo1254","numerals-togo1254-1-two-1","numerals-togo1254-1","Chan2019","two",2,"lɔ́y","loy",NA,FALSE,"2",NA,NA
-"385","togo1254","numerals-togo1254-1-three-1","numerals-togo1254-1","Chan2019","three",3,"tàán","taan",NA,FALSE,"3",NA,NA
-"386","togo1254","numerals-togo1254-1-three-2","numerals-togo1254-1","Chan2019","three",3,"tàánú","taanu",NA,FALSE,"3",NA,NA
-"387","togo1254","numerals-togo1254-1-four-1","numerals-togo1254-1","Chan2019","four",4,"nǎyⁿ","nayn",NA,FALSE,"4",NA,NA
-"388","togo1254","numerals-togo1254-1-five-1","numerals-togo1254-1","Chan2019","five",5,"núnɛ́ɛ́ⁿ","nuneen",NA,FALSE,"5",NA,NA
-"389","togo1254","numerals-togo1254-1-six-1","numerals-togo1254-1","Chan2019","six",6,"kúréé","kuree",NA,FALSE,"6",NA,NA
-"390","togo1254","numerals-togo1254-1-seven-1","numerals-togo1254-1","Chan2019","seven",7,"sɔ́ɔ̀","soo",NA,FALSE,"7",NA,NA
-"391","togo1254","numerals-togo1254-1-eight-1","numerals-togo1254-1","Chan2019","eight",8,"sìláà","silaa",NA,FALSE,"8",NA,NA
-"392","togo1254","numerals-togo1254-1-nine-1","numerals-togo1254-1","Chan2019","nine",9,"túwáà","tuwaa",NA,FALSE,"9",NA,NA
-"393","togo1254","numerals-togo1254-1-ten-1","numerals-togo1254-1","Chan2019","ten",10,"pɛ́rú","peru",NA,FALSE,"10",NA,NA
-"394","togo1254","numerals-togo1254-1-eleven-1","numerals-togo1254-1","Chan2019","eleven",11,"pɛ́rɛ̀ɛ̀ túrú sáɡà","pereeturusaga",NA,FALSE,"10+1{LIG}","{morethan}",NA
-"395","togo1254","numerals-togo1254-1-twelve-1","numerals-togo1254-1","Chan2019","twelve",12,"pɛ́rɛ̀ɛ̀ lɔ́y sáɡà","pereeloysaga",NA,FALSE,"10+2{LIG}",NA,NA
-"396","togo1254","numerals-togo1254-1-thirteen-1","numerals-togo1254-1","Chan2019","thirteen",13,"pɛ́rɛ̀ɛ̀ tàánú sáɡà","pereetaanusaga",NA,FALSE,"10+3{LIG}",NA,NA
-"397","togo1254","numerals-togo1254-1-fourteen-1","numerals-togo1254-1","Chan2019","fourteen",14,"pɛ́rɛ̀ɛ̀ nǎyⁿ sáɡà","pereenaynsaga",NA,FALSE,"10+4{LIG}",NA,NA
-"398","togo1254","numerals-togo1254-1-fifteen-1","numerals-togo1254-1","Chan2019","fifteen",15,"pɛ́rɛ̀ɛ̀ núnɛ́ɛ́ⁿ sáɡà","pereenuneensaga",NA,FALSE,"10+5{LIG}",NA,NA
-"399","togo1254","numerals-togo1254-1-sixteen-1","numerals-togo1254-1","Chan2019","sixteen",16,"pɛ́rɛ̀ɛ̀ kúréé sáɡà","pereekureesaga",NA,FALSE,"10+6{LIG}",NA,NA
-"400","togo1254","numerals-togo1254-1-seventeen-1","numerals-togo1254-1","Chan2019","seventeen",17,"pɛ́rɛ̀ɛ̀ sɔ́ɔ̀ sáɡà","pereesoosaga",NA,FALSE,"10+7{LIG}",NA,NA
-"401","togo1254","numerals-togo1254-1-eighteen-1","numerals-togo1254-1","Chan2019","eighteen",18,"pɛ́rɛ̀ɛ̀ sìláà sáɡà","pereesilaasaga",NA,FALSE,"10+8{LIG}",NA,NA
-"402","togo1254","numerals-togo1254-1-nineteen-1","numerals-togo1254-1","Chan2019","nineteen",19,"pɛ́rɛ̀ɛ̀ túwáà sáɡà","pereetuwaasaga",NA,FALSE,"10+9{LIG}",NA,NA
-"403","togo1254","numerals-togo1254-1-twenty-1","numerals-togo1254-1","Chan2019","twenty",20,"pɛ́-lɔ̀y","peloy",NA,FALSE,"10·2",NA,NA
-"404","togo1254","numerals-togo1254-1-twentyone-1","numerals-togo1254-1","Chan2019","twentyone",21,"pɛ́lɔ̀y túrú sáɡà","peloyturusaga",NA,FALSE,"(10·2)+{LIG}1",NA,NA
-"405","togo1254","numerals-togo1254-1-twentytwo-1","numerals-togo1254-1","Chan2019","twentytwo",22,"pɛ́lɔ̀y lɔ́y sáɡà","peloyloysaga",NA,FALSE,"(10·2)+{LIG}2",NA,NA
-"406","togo1254","numerals-togo1254-1-twentythree-1","numerals-togo1254-1","Chan2019","twentythree",23,"pɛ́lɔ̀y tàánú sáɡà","peloytaanusaga",NA,FALSE,"(10·2)+{LIG}3",NA,NA
-"407","togo1254","numerals-togo1254-1-twentyfour-1","numerals-togo1254-1","Chan2019","twentyfour",24,"pɛ́lɔ̀y nǎyⁿ sáɡà","peloynaynsaga",NA,FALSE,"(10·2)+{LIG}4",NA,NA
-"408","togo1254","numerals-togo1254-1-twentyfive-1","numerals-togo1254-1","Chan2019","twentyfive",25,"pɛ́lɔ̀y núnɛ́ɛ́ⁿ sáɡà","peloynuneensaga",NA,FALSE,"(10·2)+{LIG}5",NA,NA
-"409","togo1254","numerals-togo1254-1-twentysix-1","numerals-togo1254-1","Chan2019","twentysix",26,"pɛ́lɔ̀y kúréé sáɡà","peloykureesaga",NA,FALSE,"(10·2)+{LIG}6",NA,NA
-"410","togo1254","numerals-togo1254-1-twentyseven-1","numerals-togo1254-1","Chan2019","twentyseven",27,"pɛ́lɔ̀y sɔ́ɔ̀ sáɡà","peloysoosaga",NA,FALSE,"(10·2)+{LIG}7",NA,NA
-"411","togo1254","numerals-togo1254-1-twentyeight-1","numerals-togo1254-1","Chan2019","twentyeight",28,"pɛ́lɔ̀y sìláà sáɡà","peloysilaasaga",NA,FALSE,"(10·2)+{LIG}8",NA,NA
-"412","togo1254","numerals-togo1254-1-twentynine-1","numerals-togo1254-1","Chan2019","twentynine",29,"pɛ́lɔ̀y túwáà sáɡà","peloytuwaasaga",NA,FALSE,"(10·2)+{LIG}9",NA,NA
-"413","togo1254","numerals-togo1254-1-thirty-1","numerals-togo1254-1","Chan2019","thirty",30,"pɛ́-tààn","petaan",NA,FALSE,"10·3",NA,NA
-"414","togo1254","numerals-togo1254-1-forty-1","numerals-togo1254-1","Chan2019","forty",40,"pɛ́-nǎyⁿ","penayn",NA,FALSE,"10·4",NA,NA
-"415","togo1254","numerals-togo1254-1-fifty-1","numerals-togo1254-1","Chan2019","fifty",50,"pɛ́-núnɛ́ɛ́ⁿ","penuneen",NA,FALSE,"10·5",NA,NA
-"416","togo1254","numerals-togo1254-1-sixty-1","numerals-togo1254-1","Chan2019","sixty",60,"pɛ́-kúréé","pekuree",NA,FALSE,"10·6",NA,NA
-"417","togo1254","numerals-togo1254-1-seventy-1","numerals-togo1254-1","Chan2019","seventy",70,"pɛ́-sɔ́ɔ̀","pesoo",NA,FALSE,"10·7",NA,NA
-"418","togo1254","numerals-togo1254-1-eighty-1","numerals-togo1254-1","Chan2019","eighty",80,"pɛ́-sìláà","pesilaa",NA,FALSE,"10·8",NA,NA
-"419","togo1254","numerals-togo1254-1-eighty-2","numerals-togo1254-1","Chan2019","eighty",80,"sùŋú","sungu","( archaic form)",FALSE,"80",NA,NA
-"420","togo1254","numerals-togo1254-1-ninety-1","numerals-togo1254-1","Chan2019","ninety",90,"pɛ́-túwáà","petuwaa",NA,FALSE,"10·9",NA,NA
-"421","togo1254","numerals-togo1254-1-ninety-2","numerals-togo1254-1","Chan2019","ninety",90,"sùŋú pɛ́rú","sunguperu","( archaic form)",FALSE,"80+10",NA,NA
-"422","togo1254","numerals-togo1254-1-hundred-1","numerals-togo1254-1","Chan2019","hundred",100,"tɛ́mdɛ́rɛ̀","temdere",NA,FALSE,"100",NA,NA
-"423","togo1254","numerals-togo1254-1-twohundred-1","numerals-togo1254-1","Chan2019","twohundred",200,"tɛ́mdɛ́rɛ̀ lɔ́y","temdereloy",NA,FALSE,"100·2",NA,NA
-"424","togo1254","numerals-togo1254-1-thousand-1","numerals-togo1254-1","Chan2019","thousand",1000,"mùñú","munu",NA,FALSE,"1000",NA,NA
-"425","togo1254","numerals-togo1254-1-twothousand-1","numerals-togo1254-1","Chan2019","twothousand",2000,"mùñů# lɔ́y","munuloy",NA,FALSE,"1000·2",NA,NA
-"426","toro1252","numerals-toro1252-1-one-1","numerals-toro1252-1","Chan2019","one",1,"tíì","tii","(for counting)",FALSE,"1",NA,NA
-"427","toro1252","numerals-toro1252-1-one-2","numerals-toro1252-1","Chan2019","one",1,"túrú","turu",NA,FALSE,"1’",NA,NA
-"428","toro1252","numerals-toro1252-1-two-1","numerals-toro1252-1","Chan2019","two",2,"lɛ́j","lej",NA,FALSE,"2",NA,NA
-"429","toro1252","numerals-toro1252-1-three-1","numerals-toro1252-1","Chan2019","three",3,"tàánú","taanu",NA,FALSE,"3",NA,NA
-"430","toro1252","numerals-toro1252-1-four-1","numerals-toro1252-1","Chan2019","four",4,"nàjí","naji",NA,FALSE,"4",NA,NA
-"431","toro1252","numerals-toro1252-1-five-1","numerals-toro1252-1","Chan2019","five",5,"nùmɔ́r̃ɔ́","numoro",NA,FALSE,"5",NA,NA
-"432","toro1252","numerals-toro1252-1-six-1","numerals-toro1252-1","Chan2019","six",6,"kúlòj","kuloj",NA,FALSE,"6",NA,NA
-"433","toro1252","numerals-toro1252-1-seven-1","numerals-toro1252-1","Chan2019","seven",7,"sɔ́j","soj",NA,FALSE,"7",NA,NA
-"434","toro1252","numerals-toro1252-1-eight-1","numerals-toro1252-1","Chan2019","eight",8,"ɡáárà","gaara",NA,FALSE,"8",NA,NA
-"435","toro1252","numerals-toro1252-1-nine-1","numerals-toro1252-1","Chan2019","nine",9,"túwɔ́","tuwo",NA,FALSE,"9",NA,NA
-"436","toro1252","numerals-toro1252-1-ten-1","numerals-toro1252-1","Chan2019","ten",10,"pɛ́rú","peru",NA,FALSE,"10",NA,NA
-"437","toro1252","numerals-toro1252-1-eleven-1","numerals-toro1252-1","Chan2019","eleven",11,"pɛ́rú ɡúú tír sìɡɛ̀","peruguutirsige",NA,FALSE,"10+{LIG?}1{LIG}",NA,NA
-"438","toro1252","numerals-toro1252-1-twelve-1","numerals-toro1252-1","Chan2019","twelve",12,"pɛ́rú ɡúú léj̀ sìɡɛ̀","peruguulejsige",NA,FALSE,"10+{LIG?}2{LIG}",NA,NA
-"439","toro1252","numerals-toro1252-1-thirteen-1","numerals-toro1252-1","Chan2019","thirteen",13,"pɛ́rú ɡúú táánú sìɡɛ̀","peruguutaanusige",NA,FALSE,"10+{LIG?}3{LIG}",NA,NA
-"440","toro1252","numerals-toro1252-1-fourteen-1","numerals-toro1252-1","Chan2019","fourteen",14,"pɛ́rú ɡúú náj̀ sìɡɛ̀","peruguunajsige",NA,FALSE,"10+{LIG?}4{LIG}",NA,NA
-"441","toro1252","numerals-toro1252-1-fifteen-1","numerals-toro1252-1","Chan2019","fifteen",15,"pɛ́rú ɡúú nùmɔ́r̃ɔ́ sìɡɛ̀","peruguunumorosige",NA,FALSE,"10+{LIG?}5{LIG}",NA,NA
-"442","toro1252","numerals-toro1252-1-sixteen-1","numerals-toro1252-1","Chan2019","sixteen",16,"pɛ́rú ɡúú kúlój sìɡɛ̀","peruguukulojsige",NA,FALSE,"10+{LIG?}6{LIG}",NA,NA
-"443","toro1252","numerals-toro1252-1-seventeen-1","numerals-toro1252-1","Chan2019","seventeen",17,"pɛ́rú ɡúú sɔ́j̀ sìɡɛ̀","peruguusojsige",NA,FALSE,"10+{LIG?}7{LIG}",NA,NA
-"444","toro1252","numerals-toro1252-1-eighteen-1","numerals-toro1252-1","Chan2019","eighteen",18,"pɛ́rú ɡúú ɡáárà sìɡɛ̀","peruguugaarasige",NA,FALSE,"10+{LIG?}8{LIG}",NA,NA
-"445","toro1252","numerals-toro1252-1-nineteen-1","numerals-toro1252-1","Chan2019","nineteen",19,"pɛ́rú ɡúú túwɔ́ sìɡɛ̀","peruguutuwosige",NA,FALSE,"10+{LIG?}9{LIG}",NA,NA
-"446","toro1252","numerals-toro1252-1-twenty-1","numerals-toro1252-1","Chan2019","twenty",20,"pɛ́ léj̀","pelej",NA,FALSE,"10·2",NA,NA
-"447","toro1252","numerals-toro1252-1-twentyone-1","numerals-toro1252-1","Chan2019","twentyone",21,"pɛ́ léj̀ túrú sìɡɛ̀","pelejturusige",NA,FALSE,"(10·2)+1'{LIG}",NA,NA
-"448","toro1252","numerals-toro1252-1-twentytwo-1","numerals-toro1252-1","Chan2019","twentytwo",22,"pɛ́ léj̀ lɛ́j̀ sìɡɛ̀","pelejlejsige",NA,FALSE,"(10·2)+2{LIG}",NA,NA
-"449","toro1252","numerals-toro1252-1-twentythree-1","numerals-toro1252-1","Chan2019","twentythree",23,"pɛ́ léj̀ tàánú sìɡɛ̀","pelejtaanusige",NA,FALSE,"(10·2)+3{LIG}",NA,NA
-"450","toro1252","numerals-toro1252-1-twentyfour-1","numerals-toro1252-1","Chan2019","twentyfour",24,"pɛ́ léj̀ nàj̀ sìɡɛ̀","pelejnajsige",NA,FALSE,"(10·2)+4{LIG}",NA,NA
-"451","toro1252","numerals-toro1252-1-twentyfive-1","numerals-toro1252-1","Chan2019","twentyfive",25,"pɛ́ léj̀ nùmɔ́r̃ɔ́ sìɡɛ̀","pelejnumorosige",NA,FALSE,"(10·2)+5{LIG}",NA,NA
-"452","toro1252","numerals-toro1252-1-twentysix-1","numerals-toro1252-1","Chan2019","twentysix",26,"pɛ́ léj̀ kúlój sìɡɛ̀","pelejkulojsige",NA,FALSE,"(10·2)+6{LIG}",NA,NA
-"453","toro1252","numerals-toro1252-1-twentyseven-1","numerals-toro1252-1","Chan2019","twentyseven",27,"pɛ́ léj̀ sɔ́j sìɡɛ̀","pelejsojsige",NA,FALSE,"(10·2)+7{LIG}",NA,NA
-"454","toro1252","numerals-toro1252-1-twentyeight-1","numerals-toro1252-1","Chan2019","twentyeight",28,"pɛ́ léj̀ ɡáárà sìɡɛ̀","pelejgaarasige",NA,FALSE,"(10·2)+8{LIG}",NA,NA
-"455","toro1252","numerals-toro1252-1-twentynine-1","numerals-toro1252-1","Chan2019","twentynine",29,"pɛ́ léj̀ túwɔ́ sìɡɛ̀","pelejtuwosige",NA,FALSE,"(10·2)+9{LIG}",NA,NA
-"456","toro1252","numerals-toro1252-1-thirty-1","numerals-toro1252-1","Chan2019","thirty",30,"pɛ́ táánú","petaanu",NA,FALSE,"10·3",NA,NA
-"457","toro1252","numerals-toro1252-1-forty-1","numerals-toro1252-1","Chan2019","forty",40,"pɛ́ náj̀","penaj",NA,FALSE,"10·4",NA,NA
-"458","toro1252","numerals-toro1252-1-fortyone-1","numerals-toro1252-1","Chan2019","fortyone",41,"pɛ́ náj̀ tír sìɡɛ̀","penajtirsige",NA,FALSE,"(10·4)+1{LIG}",NA,NA
-"459","toro1252","numerals-toro1252-1-fifty-1","numerals-toro1252-1","Chan2019","fifty",50,"pɛ́ númɔ́r̃ɔ́","penumoro",NA,FALSE,"10·5",NA,NA
-"460","toro1252","numerals-toro1252-1-sixty-1","numerals-toro1252-1","Chan2019","sixty",60,"pɛ́ kúlòj","pekuloj",NA,FALSE,"10·6",NA,NA
-"461","toro1252","numerals-toro1252-1-seventy-1","numerals-toro1252-1","Chan2019","seventy",70,"pɛ́ sɔ́j̀","pesoj",NA,FALSE,"10·7",NA,NA
-"462","toro1252","numerals-toro1252-1-eighty-1","numerals-toro1252-1","Chan2019","eighty",80,"dɔ̀ɡɔ̀ súŋú","dogosungu",NA,FALSE,"10·8",NA,NA
-"463","toro1252","numerals-toro1252-1-ninety-1","numerals-toro1252-1","Chan2019","ninety",90,"dɔ̀ɡɔ̀ súŋú pɛ́rú","dogosunguperu",NA,FALSE,"10·9",NA,NA
-"464","toro1252","numerals-toro1252-1-hundred-1","numerals-toro1252-1","Chan2019","hundred",100,"súŋú","sungu",NA,FALSE,"100",NA,NA
-"465","toro1252","numerals-toro1252-1-onehundredandone-1","numerals-toro1252-1","Chan2019","onehundredandone",101,"súŋú túrú","sunguturu",NA,FALSE,"100+1",NA,NA
-"466","toro1252","numerals-toro1252-1-twohundred-1","numerals-toro1252-1","Chan2019","twohundred",200,"súŋú léj̀","sungulej",NA,FALSE,"100·2",NA,NA
-"467","toro1252","numerals-toro1252-1-thousand-1","numerals-toro1252-1","Chan2019","thousand",1000,"mùɲú","munu",NA,FALSE,"1000",NA,NA
-"468","toro1252","numerals-toro1252-1-twothousand-1","numerals-toro1252-1","Chan2019","twothousand",2000,"mùɲú léj̀","munulej",NA,FALSE,"1000·2",NA,NA
-"469","toro1252","numerals-toro1252-1-twothousandandtwo-1","numerals-toro1252-1","Chan2019","twothousandandtwo",2002,"mùɲú léj̀ támá léj̀","munulejtamalej",NA,FALSE,"(1000·2)+{LIG”?}2",NA,NA
-"470","toro1253","numerals-toro1253-1-one-1","numerals-toro1253-1","Chan2019","one",1,"túrú","turu",NA,FALSE,"1",NA,NA
-"471","toro1253","numerals-toro1253-1-two-1","numerals-toro1253-1","Chan2019","two",2,"lɛ̌y","ley",NA,FALSE,"2",NA,NA
-"472","toro1253","numerals-toro1253-1-three-1","numerals-toro1253-1","Chan2019","three",3,"tǎːlí","tali",NA,FALSE,"3",NA,NA
-"473","toro1253","numerals-toro1253-1-four-1","numerals-toro1253-1","Chan2019","four",4,"nǎyⁿ","nayn",NA,FALSE,"4",NA,NA
-"474","toro1253","numerals-toro1253-1-five-1","numerals-toro1253-1","Chan2019","five",5,"nǔːyⁿ","nuyn",NA,FALSE,"5",NA,NA
-"475","toro1253","numerals-toro1253-1-six-1","numerals-toro1253-1","Chan2019","six",6,"kúréy","kurey",NA,FALSE,"6",NA,NA
-"476","toro1253","numerals-toro1253-1-seven-1","numerals-toro1253-1","Chan2019","seven",7,"sóyⁿ","soyn",NA,FALSE,"7",NA,NA
-"477","toro1253","numerals-toro1253-1-eight-1","numerals-toro1253-1","Chan2019","eight",8,"ɡáːrà","gara",NA,FALSE,"8",NA,NA
-"478","toro1253","numerals-toro1253-1-nine-1","numerals-toro1253-1","Chan2019","nine",9,"láːrà","lara",NA,FALSE,"9",NA,NA
-"479","toro1253","numerals-toro1253-1-ten-1","numerals-toro1253-1","Chan2019","ten",10,"pɛ́ró","pero",NA,FALSE,"10",NA,NA
-"480","toro1253","numerals-toro1253-1-eleven-1","numerals-toro1253-1","Chan2019","eleven",11,"pɛ́ːr-iː túrú","perituru",NA,FALSE,"10+1",NA,NA
-"481","toro1253","numerals-toro1253-1-twelve-1","numerals-toro1253-1","Chan2019","twelve",12,"pɛ́ːr-iː lɛ̌y","periley",NA,FALSE,"10+2",NA,NA
-"482","toro1253","numerals-toro1253-1-thirteen-1","numerals-toro1253-1","Chan2019","thirteen",13,"pɛ́ːr-iː tǎːli","peritali",NA,FALSE,"10+3",NA,NA
-"483","toro1253","numerals-toro1253-1-fourteen-1","numerals-toro1253-1","Chan2019","fourteen",14,"pɛ́ːr-iː nǎyⁿ","perinayn",NA,FALSE,"10+4",NA,NA
-"484","toro1253","numerals-toro1253-1-fifteen-1","numerals-toro1253-1","Chan2019","fifteen",15,"pɛ́ːr-iː nǔːyⁿ","perinuyn",NA,FALSE,"10+5",NA,NA
-"485","toro1253","numerals-toro1253-1-sixteen-1","numerals-toro1253-1","Chan2019","sixteen",16,"pɛ́ːr-iː kúréy","perikurey",NA,FALSE,"10+6",NA,NA
-"486","toro1253","numerals-toro1253-1-seventeen-1","numerals-toro1253-1","Chan2019","seventeen",17,"pɛ́ːr-iː sóyⁿ","perisoyn",NA,FALSE,"10+7",NA,NA
-"487","toro1253","numerals-toro1253-1-eighteen-1","numerals-toro1253-1","Chan2019","eighteen",18,"pɛ́ːr-iː ɡáːrà","perigara",NA,FALSE,"10+8",NA,NA
-"488","toro1253","numerals-toro1253-1-nineteen-1","numerals-toro1253-1","Chan2019","nineteen",19,"pɛ́ːr-iː láːrà","perilara",NA,FALSE,"10+9",NA,NA
-"489","toro1253","numerals-toro1253-1-twenty-1","numerals-toro1253-1","Chan2019","twenty",20,"pé-lèy","peley",NA,FALSE,"10·2",NA,NA
-"490","toro1253","numerals-toro1253-1-twentyone-1","numerals-toro1253-1","Chan2019","twentyone",21,"pé-lěy túrú","peleyturu",NA,FALSE,"(10·2)+1",NA,NA
-"491","toro1253","numerals-toro1253-1-twentytwo-1","numerals-toro1253-1","Chan2019","twentytwo",22,"pé-lěy lɛ̌y","peleyley",NA,FALSE,"(10·2)+2",NA,NA
-"492","toro1253","numerals-toro1253-1-twentythree-1","numerals-toro1253-1","Chan2019","twentythree",23,"pé-lěy tǎːli","peleytali",NA,FALSE,"(10·2)+3",NA,NA
-"493","toro1253","numerals-toro1253-1-twentyfour-1","numerals-toro1253-1","Chan2019","twentyfour",24,"pé-lěy nǎyⁿ","peleynayn",NA,FALSE,"(10·2)+4",NA,NA
-"494","toro1253","numerals-toro1253-1-twentyfive-1","numerals-toro1253-1","Chan2019","twentyfive",25,"pé-lěy nǔːyⁿ","peleynuyn",NA,FALSE,"(10·2)+5",NA,NA
-"495","toro1253","numerals-toro1253-1-twentysix-1","numerals-toro1253-1","Chan2019","twentysix",26,"pé-lěy kúréy","peleykurey",NA,FALSE,"(10·2)+6",NA,NA
-"496","toro1253","numerals-toro1253-1-twentyseven-1","numerals-toro1253-1","Chan2019","twentyseven",27,"pé-lěy sóyⁿ","peleysoyn",NA,FALSE,"(10·2)+7",NA,NA
-"497","toro1253","numerals-toro1253-1-twentyeight-1","numerals-toro1253-1","Chan2019","twentyeight",28,"pé-lěy ɡáːrà","peleygara",NA,FALSE,"(10·2)+8",NA,NA
-"498","toro1253","numerals-toro1253-1-twentynine-1","numerals-toro1253-1","Chan2019","twentynine",29,"pé-lěy láːrà","peleylara",NA,FALSE,"(10·2)+9",NA,NA
-"499","toro1253","numerals-toro1253-1-thirty-1","numerals-toro1253-1","Chan2019","thirty",30,"pɛ́-tǎːli","petali",NA,FALSE,"10·3",NA,NA
-"500","toro1253","numerals-toro1253-1-forty-1","numerals-toro1253-1","Chan2019","forty",40,"pɛ́-nǎyⁿ","penayn",NA,FALSE,"10·4",NA,NA
-"501","toro1253","numerals-toro1253-1-fifty-1","numerals-toro1253-1","Chan2019","fifty",50,"pɛ́-nǔːyⁿ","penuyn",NA,FALSE,"10·5",NA,NA
-"502","toro1253","numerals-toro1253-1-sixty-1","numerals-toro1253-1","Chan2019","sixty",60,"pɛ̀rú-kúréy","perukurey",NA,FALSE,"10·6",NA,NA
-"503","toro1253","numerals-toro1253-1-seventy-1","numerals-toro1253-1","Chan2019","seventy",70,"pɛ̀rú-sóyⁿ","perusoyn",NA,FALSE,"10·7",NA,NA
-"504","toro1253","numerals-toro1253-1-eighty-1","numerals-toro1253-1","Chan2019","eighty",80,"pɛ̀r-ɡáːrà","pergara",NA,FALSE,"10·8",NA,NA
-"505","toro1253","numerals-toro1253-1-eighty-2","numerals-toro1253-1","Chan2019","eighty",80,"dɔ̀ɣɔ̀-sǔŋ","dogosung",NA,FALSE,"80{?}","10’·8 - borrowed",NA
-"506","toro1253","numerals-toro1253-1-ninety-1","numerals-toro1253-1","Chan2019","ninety",90,"pɛ̀r-láːrà","perlara",NA,FALSE,"10·9",NA,NA
-"507","toro1253","numerals-toro1253-1-hundred-1","numerals-toro1253-1","Chan2019","hundred",100,"zàŋú túrú","zanguturu",NA,FALSE,"100·1",NA,NA
-"508","toro1253","numerals-toro1253-1-twohundred-1","numerals-toro1253-1","Chan2019","twohundred",200,"zàŋu lɛ̌y","zanguley",NA,FALSE,"100·2",NA,NA
-"509","toro1253","numerals-toro1253-1-thousand-1","numerals-toro1253-1","Chan2019","thousand",1000,"zɛ́mbɛ̀rɛ̀ túrú","zembereturu",NA,FALSE,"1000·1",NA,NA
-"510","toro1253","numerals-toro1253-1-twothousand-1","numerals-toro1253-1","Chan2019","twothousand",2000,"mùɲú lɛ̌y","munuley",NA,FALSE,"1000·2",NA,NA
-"511","yand1257","numerals-yand1257-1-one-1","numerals-yand1257-1","Chan2019","one",1,"tùmá:","tuma",NA,FALSE,"1",NA,NA
-"512","yand1257","numerals-yand1257-1-two-1","numerals-yand1257-1","Chan2019","two",2,"nɔ́ː","no",NA,FALSE,"2",NA,NA
-"513","yand1257","numerals-yand1257-1-two-2","numerals-yand1257-1","Chan2019","two",2,"nó","no",NA,FALSE,"2",NA,NA
-"514","yand1257","numerals-yand1257-1-three-1","numerals-yand1257-1","Chan2019","three",3,"táːndù","tandu",NA,FALSE,"3",NA,NA
-"515","yand1257","numerals-yand1257-1-four-1","numerals-yand1257-1","Chan2019","four",4,"cɛ́zɔ̀","cezo",NA,FALSE,"4",NA,NA
-"516","yand1257","numerals-yand1257-1-five-1","numerals-yand1257-1","Chan2019","five",5,"nûm","num",NA,FALSE,"5",NA,NA
-"517","yand1257","numerals-yand1257-1-six-1","numerals-yand1257-1","Chan2019","six",6,"kúlé","kule",NA,FALSE,"6",NA,NA
-"518","yand1257","numerals-yand1257-1-seven-1","numerals-yand1257-1","Chan2019","seven",7,"swɛ́ː","swe",NA,FALSE,"7",NA,NA
-"519","yand1257","numerals-yand1257-1-eight-1","numerals-yand1257-1","Chan2019","eight",8,"sáːɡè","sage",NA,FALSE,"8",NA,NA
-"520","yand1257","numerals-yand1257-1-nine-1","numerals-yand1257-1","Chan2019","nine",9,"twâː","twa",NA,FALSE,"9",NA,NA
-"521","yand1257","numerals-yand1257-1-ten-1","numerals-yand1257-1","Chan2019","ten",10,"píyél","piyel",NA,FALSE,"10",NA,NA
-"522","yand1257","numerals-yand1257-1-eleven-1","numerals-yand1257-1","Chan2019","eleven",11,"píyél tùmá:-sì","piyeltumasi",NA,FALSE,"10+1{LIG}","LIG=more than, more",NA
-"523","yand1257","numerals-yand1257-1-twelve-1","numerals-yand1257-1","Chan2019","twelve",12,"píyél nɔ́ː-sì","piyelnosi",NA,FALSE,"10+2{LIG}",NA,NA
-"524","yand1257","numerals-yand1257-1-thirteen-1","numerals-yand1257-1","Chan2019","thirteen",13,"píyél táːndù-sì","piyeltandusi",NA,FALSE,"10+3{LIG}",NA,NA
-"525","yand1257","numerals-yand1257-1-fourteen-1","numerals-yand1257-1","Chan2019","fourteen",14,"píyél cɛ́zɔ̀-sì","piyelcezosi",NA,FALSE,"10+4{LIG}",NA,NA
-"526","yand1257","numerals-yand1257-1-fifteen-1","numerals-yand1257-1","Chan2019","fifteen",15,"píyé-m̀-sì","piyemsi","< píyél nùm-sì",FALSE,"10+5{LIG}",NA,NA
-"527","yand1257","numerals-yand1257-1-sixteen-1","numerals-yand1257-1","Chan2019","sixteen",16,"píyél kúlé-sì","piyelkulesi",NA,FALSE,"10+6{LIG}",NA,NA
-"528","yand1257","numerals-yand1257-1-seventeen-1","numerals-yand1257-1","Chan2019","seventeen",17,"píyél swɛ́ː-sì","piyelswesi",NA,FALSE,"10+7{LIG}",NA,NA
-"529","yand1257","numerals-yand1257-1-eighteen-1","numerals-yand1257-1","Chan2019","eighteen",18,"píyél sáːɡè-sì","piyelsagesi",NA,FALSE,"10+8{LIG}",NA,NA
-"530","yand1257","numerals-yand1257-1-nineteen-1","numerals-yand1257-1","Chan2019","nineteen",19,"píyél twâː-sì","piyeltwasi",NA,FALSE,"10+9{LIG}",NA,NA
-"531","yand1257","numerals-yand1257-1-twenty-1","numerals-yand1257-1","Chan2019","twenty",20,"pɔ̀ː-nɔ́ː","pono",NA,FALSE,"10'·2",NA,NA
-"532","yand1257","numerals-yand1257-1-twenty-2","numerals-yand1257-1","Chan2019","twenty",20,"pɔ̀ːnóː","pono",NA,FALSE,"10'·2",NA,NA
-"533","yand1257","numerals-yand1257-1-twentyone-1","numerals-yand1257-1","Chan2019","twentyone",21,"pɔ̀ː-nóː tùmá: -sîː","ponotumasi","??",FALSE,"(10’·2)+1{LIG}",NA,NA
-"534","yand1257","numerals-yand1257-1-twentytwo-1","numerals-yand1257-1","Chan2019","twentytwo",22,"pɔ̀ː-nóː nɔ́ː -sîː","pononosi",NA,FALSE,"(10’·2)+2{LIG}",NA,NA
-"535","yand1257","numerals-yand1257-1-twentythree-1","numerals-yand1257-1","Chan2019","twentythree",23,"pɔ̀ː-nóː táːndù -sîː","ponotandusi",NA,FALSE,"(10’·2)+3{LIG}",NA,NA
-"536","yand1257","numerals-yand1257-1-twentyfour-1","numerals-yand1257-1","Chan2019","twentyfour",24,"pɔ̀ː-nóː cɛ́zɔ̀ -sîː","ponocezosi",NA,FALSE,"(10’·2)+4{LIG}",NA,NA
-"537","yand1257","numerals-yand1257-1-twentyfive-1","numerals-yand1257-1","Chan2019","twentyfive",25,"pɔ̀ː-nóː nûm -sîː","pononumsi",NA,FALSE,"(10’·2)+5{LIG}",NA,NA
-"538","yand1257","numerals-yand1257-1-twentysix-1","numerals-yand1257-1","Chan2019","twentysix",26,"pɔ̀ː-nóː kúlé -sîː","ponokulesi",NA,FALSE,"(10’·2)+6{LIG}",NA,NA
-"539","yand1257","numerals-yand1257-1-twentyseven-1","numerals-yand1257-1","Chan2019","twentyseven",27,"pɔ̀ː-nóː swɛ́ː-sîː","ponoswesi",NA,FALSE,"(10’·2)+7{LIG}",NA,NA
-"540","yand1257","numerals-yand1257-1-twentyeight-1","numerals-yand1257-1","Chan2019","twentyeight",28,"pɔ̀ː-nóː sáːɡè -sîː","ponosagesi",NA,FALSE,"(10’·2)+8{LIG}",NA,NA
-"541","yand1257","numerals-yand1257-1-twentynine-1","numerals-yand1257-1","Chan2019","twentynine",29,"pɔ̀ː-nóː twàː -sîː","ponotwasi",NA,FALSE,"(10’·2)+9{LIG}",NA,NA
-"542","yand1257","numerals-yand1257-1-thirty-1","numerals-yand1257-1","Chan2019","thirty",30,"pɔ̀ː-táːndù","potandu",NA,FALSE,"10'·3",NA,NA
-"543","yand1257","numerals-yand1257-1-forty-1","numerals-yand1257-1","Chan2019","forty",40,"pɔ̀ː-cɛ́zɔ̀","pocezo",NA,FALSE,"10’·4",NA,NA
-"544","yand1257","numerals-yand1257-1-fifty-1","numerals-yand1257-1","Chan2019","fifty",50,"pɔ̀ː-nûm","ponum",NA,FALSE,"10’·5",NA,NA
-"545","yand1257","numerals-yand1257-1-sixty-1","numerals-yand1257-1","Chan2019","sixty",60,"pɔ̀lɔ̀-kúlé","polokule",NA,FALSE,"10'·6",NA,NA
-"546","yand1257","numerals-yand1257-1-seventy-1","numerals-yand1257-1","Chan2019","seventy",70,"pɔ̀lɔ̀-swɛ́ː","poloswe",NA,FALSE,"10'·7",NA,NA
-"547","yand1257","numerals-yand1257-1-eighty-1","numerals-yand1257-1","Chan2019","eighty",80,"pɔ̀lɔ̀-sáːɡè","polosage",NA,FALSE,"10’·8",NA,NA
-"548","yand1257","numerals-yand1257-1-eighty-2","numerals-yand1257-1","Chan2019","eighty",80,"sìŋ","sing",NA,FALSE,"80",NA,NA
-"549","yand1257","numerals-yand1257-1-ninety-1","numerals-yand1257-1","Chan2019","ninety",90,"pɔ̀lɔ̀-twâː","polotwa",NA,FALSE,"10’·9",NA,NA
-"550","yand1257","numerals-yand1257-1-ninety-2","numerals-yand1257-1","Chan2019","ninety",90,"sìŋ mí yè-píyél","singmiyepiyel",NA,FALSE,"80+{LIG’}10",NA,NA
-"551","yand1257","numerals-yand1257-1-hundred-1","numerals-yand1257-1","Chan2019","hundred",100,"tɛ́ːmɛ̀dɛ̀rɛ̀","temedere","( < Fulfulde )",TRUE,"100",NA,NA
-"552","yand1257","numerals-yand1257-1-twohundred-1","numerals-yand1257-1","Chan2019","twohundred",200,"tɛ́ːmɛ̀dɛ̀rɛ̀ nɔ́ː","temedereno","??",FALSE,"100·2",NA,NA
-"553","yand1257","numerals-yand1257-1-thousand-1","numerals-yand1257-1","Chan2019","thousand",1000,"mùzò","muzo",NA,FALSE,"1000",NA,NA
-"554","yand1257","numerals-yand1257-1-twothousand-1","numerals-yand1257-1","Chan2019","twothousand",2000,"mùzò nɔ́ː","muzono","??",FALSE,"1000·2",NA,NA
+Glottocode,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+ampa1238,numerals-ampa1238-1-one-1,numerals-ampa1238-1,Chan2019,one,1,tòːmà,toma,NA,FALSE,1,NA,NA
+ampa1238,numerals-ampa1238-1-two-1,numerals-ampa1238-1,Chan2019,two,2,nìːŋgà,ningga,NA,FALSE,2,NA,NA
+ampa1238,numerals-ampa1238-1-three-1,numerals-ampa1238-1,Chan2019,three,3,táːndí,tandi,NA,FALSE,3,NA,NA
+ampa1238,numerals-ampa1238-1-four-1,numerals-ampa1238-1,Chan2019,four,4,tʃɛ̀ːdʒɔ̀,tsedzo,(Boui),FALSE,4,NA,NA
+ampa1238,numerals-ampa1238-1-four-2,numerals-ampa1238-1,Chan2019,four,4,kɛ̀ːdʒɔ̀,kedzo,(Ningo),FALSE,4’,NA,NA
+ampa1238,numerals-ampa1238-1-five-1,numerals-ampa1238-1,Chan2019,five,5,núː,nu,NA,FALSE,5,NA,NA
+ampa1238,numerals-ampa1238-1-six-1,numerals-ampa1238-1,Chan2019,six,6,kùlèjⁿ,kulejn,NA,FALSE,6,NA,NA
+ampa1238,numerals-ampa1238-1-seven-1,numerals-ampa1238-1,Chan2019,seven,7,sɔ́ːj,soj,NA,FALSE,7,NA,NA
+ampa1238,numerals-ampa1238-1-eight-1,numerals-ampa1238-1,Chan2019,eight,8,séːlé,sele,(Boui),FALSE,8,NA,NA
+ampa1238,numerals-ampa1238-1-eight-2,numerals-ampa1238-1,Chan2019,eight,8,síjélé,sijele,(Ningo),FALSE,8,NA,NA
+ampa1238,numerals-ampa1238-1-nine-1,numerals-ampa1238-1,Chan2019,nine,9,tóːwá,towa,NA,FALSE,9,NA,NA
+ampa1238,numerals-ampa1238-1-ten-1,numerals-ampa1238-1,Chan2019,ten,10,pìjɔ̀lù,pijolu,NA,FALSE,10,NA,NA
+ampa1238,numerals-ampa1238-1-eleven-1,numerals-ampa1238-1,Chan2019,eleven,11,pɛ̀-sùgɔ́ tòːmà,pesugotoma,NA,FALSE,10+1,NA,NA
+ampa1238,numerals-ampa1238-1-twelve-1,numerals-ampa1238-1,Chan2019,twelve,12,pɛ̀-sùgɔ́ nìːŋgà,pesugoningga,NA,FALSE,10+2,NA,NA
+ampa1238,numerals-ampa1238-1-thirteen-1,numerals-ampa1238-1,Chan2019,thirteen,13,pɛ̀-sùgɔ́ tàːndì,pesugotandi,NA,FALSE,10+3,NA,NA
+ampa1238,numerals-ampa1238-1-fourteen-1,numerals-ampa1238-1,Chan2019,fourteen,14,pɛ̀-sùgɔ́ kɛ̀ːdʒɔ̀,pesugokedzo,(Ningo),FALSE,10+4,edited: kɛ̀ːdʒɔ̀ > pɛ̀-sùgɔ́ kɛ̀ːdʒɔ̀,NA
+ampa1238,numerals-ampa1238-1-fourteen-2,numerals-ampa1238-1,Chan2019,fourteen,14,pɛ̀-sùgɔ́ tʃɛ̀ːdʒɔ̀,pesugotsedzo,(Boui),FALSE,10+4',NA,NA
+ampa1238,numerals-ampa1238-1-fifteen-1,numerals-ampa1238-1,Chan2019,fifteen,15,pɛ̀-sùgɔ́ nùː,pesugonu,NA,FALSE,10+5,NA,NA
+ampa1238,numerals-ampa1238-1-sixteen-1,numerals-ampa1238-1,Chan2019,sixteen,16,pɛ̀-sùgɔ́ kùlèjⁿ,pesugokulejn,NA,FALSE,10+6,NA,NA
+ampa1238,numerals-ampa1238-1-seventeen-1,numerals-ampa1238-1,Chan2019,seventeen,17,pɛ̀-sùgɔ́ sɔ́ːj,pesugosoj,NA,FALSE,10+7,NA,NA
+ampa1238,numerals-ampa1238-1-eighteen-1,numerals-ampa1238-1,Chan2019,eighteen,18,pɛ̀-sùgɔ́ séːlé,pesugosele,(Boui),FALSE,10+8,NA,NA
+ampa1238,numerals-ampa1238-1-eighteen-2,numerals-ampa1238-1,Chan2019,eighteen,18,pɛ̀-sùgɔ́ síjélé,pesugosijele,(Ningo),FALSE,10+8,NA,NA
+ampa1238,numerals-ampa1238-1-nineteen-1,numerals-ampa1238-1,Chan2019,nineteen,19,pɛ̀-sùgɔ́ tóːwá,pesugotowa,NA,FALSE,10+9,NA,NA
+ampa1238,numerals-ampa1238-1-twenty-1,numerals-ampa1238-1,Chan2019,twenty,20,pɛ́ːnɛ́ːŋɡá,penengga,NA,FALSE,10·2,NA,NA
+ampa1238,numerals-ampa1238-1-thirty-1,numerals-ampa1238-1,Chan2019,thirty,30,pé-ráːndí,perandi,NA,FALSE,10·3,NA,NA
+ampa1238,numerals-ampa1238-1-forty-1,numerals-ampa1238-1,Chan2019,forty,40,dɛ́ː,de,NA,FALSE,40,NA,NA
+ampa1238,numerals-ampa1238-1-fifty-1,numerals-ampa1238-1,Chan2019,fifty,50,dɛ́ː pìjɔ̀lù,depijolu,( 40 + 10 ),FALSE,40+10,NA,NA
+ampa1238,numerals-ampa1238-1-sixty-1,numerals-ampa1238-1,Chan2019,sixty,60,pɛ́l-kúlêjⁿ,pelkulejn,NA,FALSE,10·6,NA,NA
+ampa1238,numerals-ampa1238-1-seventy-1,numerals-ampa1238-1,Chan2019,seventy,70,síŋgí-gí pìjɔ̀lù ɔ̀rá,singgigipijoluora,( 80 - 10 ? ),FALSE,80-10{LIG},NA,NA
+ampa1238,numerals-ampa1238-1-eighty-1,numerals-ampa1238-1,Chan2019,eighty,80,síŋgí,singgi,NA,FALSE,80,NA,NA
+ampa1238,numerals-ampa1238-1-ninety-1,numerals-ampa1238-1,Chan2019,ninety,90,síŋgí-já pìjɔ̀lù,singgijapijolu,( 80 + 10 ),FALSE,80+10,NA,NA
+ampa1238,numerals-ampa1238-1-hundred-1,numerals-ampa1238-1,Chan2019,hundred,100,tɛ̀ːmdɛ̀rɛ́,temdere,< Fulfulde,TRUE,100,NA,NA
+ampa1238,numerals-ampa1238-1-thousand-1,numerals-ampa1238-1,Chan2019,thousand,1000,múdʒú-sìlàːmú,mudzusilamu,NA,FALSE,1000,NA,NA
+bank1259,numerals-bank1259-1-one-1,numerals-bank1259-1,Chan2019,one,1,tùmá,tuma,NA,FALSE,1,NA,NA
+bank1259,numerals-bank1259-1-two-1,numerals-bank1259-1,Chan2019,two,2,jǒj,joj,NA,FALSE,2,NA,NA
+bank1259,numerals-bank1259-1-three-1,numerals-bank1259-1,Chan2019,three,3,tàːní,tani,NA,FALSE,3,NA,NA
+bank1259,numerals-bank1259-1-four-1,numerals-bank1259-1,Chan2019,four,4,nìŋŋějⁿ,ningngejn,NA,FALSE,4,NA,NA
+bank1259,numerals-bank1259-1-five-1,numerals-bank1259-1,Chan2019,five,5,nùmmǔjⁿ,nummujn,NA,FALSE,5,NA,NA
+bank1259,numerals-bank1259-1-six-1,numerals-bank1259-1,Chan2019,six,6,kúròj,kuroj,NA,FALSE,6,NA,NA
+bank1259,numerals-bank1259-1-seven-1,numerals-bank1259-1,Chan2019,seven,7,síjⁿɔ̀jⁿ,sijnojn,NA,FALSE,7,NA,NA
+bank1259,numerals-bank1259-1-eight-1,numerals-bank1259-1,Chan2019,eight,8,ɡáːràj,garaj,NA,FALSE,8,NA,NA
+bank1259,numerals-bank1259-1-nine-1,numerals-bank1259-1,Chan2019,nine,9,tèːsúm,tesum,NA,FALSE,9,NA,NA
+bank1259,numerals-bank1259-1-ten-1,numerals-bank1259-1,Chan2019,ten,10,pɛ́ːrú,peru,NA,FALSE,10,NA,NA
+bank1259,numerals-bank1259-1-eleven-1,numerals-bank1259-1,Chan2019,eleven,11,pɛ́ːrú tùmá,perutuma,NA,FALSE,10+1,NA,NA
+bank1259,numerals-bank1259-1-twelve-1,numerals-bank1259-1,Chan2019,twelve,12,pɛ́ːrú jǒj,perujoj,NA,FALSE,10+2,NA,NA
+bank1259,numerals-bank1259-1-thirteen-1,numerals-bank1259-1,Chan2019,thirteen,13,pɛ́ːrú tàːní,perutani,NA,FALSE,10+3,NA,NA
+bank1259,numerals-bank1259-1-fourteen-1,numerals-bank1259-1,Chan2019,fourteen,14,pɛ́ːrú nìŋŋějⁿ,peruningngejn,NA,FALSE,10+4,NA,NA
+bank1259,numerals-bank1259-1-fifteen-1,numerals-bank1259-1,Chan2019,fifteen,15,pɛ́ːrú nùmmǔjⁿ,perunummujn,NA,FALSE,10+5,NA,NA
+bank1259,numerals-bank1259-1-sixteen-1,numerals-bank1259-1,Chan2019,sixteen,16,pɛ́ːrú kúròj,perukuroj,NA,FALSE,10+6,NA,NA
+bank1259,numerals-bank1259-1-seventeen-1,numerals-bank1259-1,Chan2019,seventeen,17,pɛ́ːrú síjⁿɔ̀jⁿ,perusijnojn,NA,FALSE,10+7,NA,NA
+bank1259,numerals-bank1259-1-eighteen-1,numerals-bank1259-1,Chan2019,eighteen,18,pɛ́ːrú ɡáːràj,perugaraj,NA,FALSE,10+8,NA,NA
+bank1259,numerals-bank1259-1-nineteen-1,numerals-bank1259-1,Chan2019,nineteen,19,pɛ́ːrú tèːsúm,perutesum,NA,FALSE,10+9,NA,NA
+bank1259,numerals-bank1259-1-twenty-1,numerals-bank1259-1,Chan2019,twenty,20,pɛ̀rí jèj,perijej,NA,FALSE,10·2,NA,NA
+bank1259,numerals-bank1259-1-twentyone-1,numerals-bank1259-1,Chan2019,twentyone,21,pɛ̀rí tùmá,perituma,NA,FALSE,(10·2)+1,NA,NA
+bank1259,numerals-bank1259-1-twentytwo-1,numerals-bank1259-1,Chan2019,twentytwo,22,pɛ̀rí jǒj,perijoj,NA,FALSE,(10·2)+2,NA,NA
+bank1259,numerals-bank1259-1-twentythree-1,numerals-bank1259-1,Chan2019,twentythree,23,pɛ̀rí tàːní,peritani,NA,FALSE,(10·2)+3,NA,NA
+bank1259,numerals-bank1259-1-twentyfour-1,numerals-bank1259-1,Chan2019,twentyfour,24,pɛ̀rí nìŋŋějⁿ,periningngejn,NA,FALSE,(10·2)+4,NA,NA
+bank1259,numerals-bank1259-1-twentyfive-1,numerals-bank1259-1,Chan2019,twentyfive,25,pɛ̀rí nùmmǔjⁿ,perinummujn,NA,FALSE,(10·2)+5,NA,NA
+bank1259,numerals-bank1259-1-twentysix-1,numerals-bank1259-1,Chan2019,twentysix,26,pɛ̀rí kúròj,perikuroj,NA,FALSE,(10·2)+6,NA,NA
+bank1259,numerals-bank1259-1-twentyseven-1,numerals-bank1259-1,Chan2019,twentyseven,27,pɛ̀rí síjⁿɔ̀jⁿ,perisijnojn,NA,FALSE,(10·2)+7,NA,NA
+bank1259,numerals-bank1259-1-twentyeight-1,numerals-bank1259-1,Chan2019,twentyeight,28,pɛ̀rí ɡáːràj,perigaraj,NA,FALSE,(10·2)+8,NA,NA
+bank1259,numerals-bank1259-1-twentynine-1,numerals-bank1259-1,Chan2019,twentynine,29,pɛ̀rí tèːsúm,peritesum,NA,FALSE,(10·2)+9,NA,NA
+bank1259,numerals-bank1259-1-thirty-1,numerals-bank1259-1,Chan2019,thirty,30,pɛ́ tàːnú,petanu,NA,FALSE,10·3,NA,NA
+bank1259,numerals-bank1259-1-forty-1,numerals-bank1259-1,Chan2019,forty,40,pɛ́ nǐːyⁿ,peniyn,NA,FALSE,10·4,NA,NA
+bank1259,numerals-bank1259-1-fifty-1,numerals-bank1259-1,Chan2019,fifty,50,pɛ́ nùmǔyⁿ,penumuyn,NA,FALSE,10·5,NA,NA
+bank1259,numerals-bank1259-1-sixty-1,numerals-bank1259-1,Chan2019,sixty,60,pɛ̀rù kúròy,perukuroy,NA,FALSE,10·6,NA,NA
+bank1259,numerals-bank1259-1-seventy-1,numerals-bank1259-1,Chan2019,seventy,70,pɛ̀rù súyⁿɔ̀yⁿ,perusuynoyn,NA,FALSE,10·7,NA,NA
+bank1259,numerals-bank1259-1-seventy-2,numerals-bank1259-1,Chan2019,seventy,70,pɛ̀rù ŋɡ́oː sòːŋɡù,perunggosonggu,( 80-10 ),FALSE,10-{LIG}80,NA,NA
+bank1259,numerals-bank1259-1-eighty-1,numerals-bank1259-1,Chan2019,eighty,80,pɛ̀rù ɡáːràj,perugaraj,NA,FALSE,10·8,NA,NA
+bank1259,numerals-bank1259-1-eighty-2,numerals-bank1259-1,Chan2019,eighty,80,sòːŋɡú,songgu,(archaic),FALSE,80,NA,NA
+bank1259,numerals-bank1259-1-ninety-1,numerals-bank1259-1,Chan2019,ninety,90,pɛ̀rù tèːsùm,perutesum,NA,FALSE,10·9,NA,NA
+bank1259,numerals-bank1259-1-ninety-2,numerals-bank1259-1,Chan2019,ninety,90,sòːŋɡú wó pɛ́ːrú,songguwoperu,( 80+10),FALSE,80+10,NA,NA
+bank1259,numerals-bank1259-1-hundred-1,numerals-bank1259-1,Chan2019,hundred,100,tɛ́ːmbɛ̀ndɛ́rɛ̀,tembendere,NA,FALSE,100,NA,NA
+bank1259,numerals-bank1259-1-hundred-2,numerals-bank1259-1,Chan2019,hundred,100,tɛ́ːmɛ́dɛ́rɛ̀,temedere,( < Fulfulde ),TRUE,100,NA,NA
+bank1259,numerals-bank1259-1-twohundred-1,numerals-bank1259-1,Chan2019,twohundred,200,tɛ́ːmɛ́dɛ́rɛ̀ jǒj,temederejoj,??,FALSE,100·2,NA,NA
+bank1259,numerals-bank1259-1-thousand-1,numerals-bank1259-1,Chan2019,thousand,1000,mbùsú,mbusu,NA,FALSE,1000,NA,NA
+bank1259,numerals-bank1259-1-twothousand-1,numerals-bank1259-1,Chan2019,twothousand,2000,mbùsú jǒj,mbusujoj,??,FALSE,1000·2,NA,NA
+bent1238,numerals-bent1238-1-one-1,numerals-bent1238-1,Chan2019,one,1,tùmɔ́:,tumo,NA,FALSE,1,NA,NA
+bent1238,numerals-bent1238-1-two-1,numerals-bent1238-1,Chan2019,two,2,yěy,yey,NA,FALSE,2,NA,NA
+bent1238,numerals-bent1238-1-three-1,numerals-bent1238-1,Chan2019,three,3,tàːnú,tanu,NA,FALSE,3,NA,NA
+bent1238,numerals-bent1238-1-four-1,numerals-bent1238-1,Chan2019,four,4,nǐːyⁿ,niyn,NA,FALSE,4,NA,NA
+bent1238,numerals-bent1238-1-five-1,numerals-bent1238-1,Chan2019,five,5,nùmǔyⁿ,numuyn,NA,FALSE,5,NA,NA
+bent1238,numerals-bent1238-1-six-1,numerals-bent1238-1,Chan2019,six,6,kúròy,kuroy,NA,FALSE,6,NA,NA
+bent1238,numerals-bent1238-1-seven-1,numerals-bent1238-1,Chan2019,seven,7,súyⁿɔ̀yⁿ,suynoyn,NA,FALSE,7,NA,NA
+bent1238,numerals-bent1238-1-eight-1,numerals-bent1238-1,Chan2019,eight,8,ɡáːrày,garay,NA,FALSE,8,NA,NA
+bent1238,numerals-bent1238-1-nine-1,numerals-bent1238-1,Chan2019,nine,9,tèːsǐm,tesim,NA,FALSE,9,NA,NA
+bent1238,numerals-bent1238-1-ten-1,numerals-bent1238-1,Chan2019,ten,10,pɛ́rú,peru,NA,FALSE,10,NA,NA
+bent1238,numerals-bent1238-1-eleven-1,numerals-bent1238-1,Chan2019,eleven,11,pɛ́rɛ́ tùwⁿɔ́ sâː,peretuwnosa,NA,FALSE,10+1,NA,NA
+bent1238,numerals-bent1238-1-twelve-1,numerals-bent1238-1,Chan2019,twelve,12,pɛ́rɛ́ yěy sâː,pereyeysa,NA,FALSE,10+2,NA,NA
+bent1238,numerals-bent1238-1-thirteen-1,numerals-bent1238-1,Chan2019,thirteen,13,pɛ́rɛ́ tàːn sâː,peretansa,NA,FALSE,10+3,NA,NA
+bent1238,numerals-bent1238-1-fourteen-1,numerals-bent1238-1,Chan2019,fourteen,14,pɛ́rɛ́ nǐːyⁿ sâː,pereniynsa,NA,FALSE,10+4,NA,NA
+bent1238,numerals-bent1238-1-fifteen-1,numerals-bent1238-1,Chan2019,fifteen,15,pɛ́rɛ́ nùmǔyⁿ sâː,perenumuynsa,NA,FALSE,10+5,NA,NA
+bent1238,numerals-bent1238-1-sixteen-1,numerals-bent1238-1,Chan2019,sixteen,16,pɛ́rɛ́ kúròy sâː,perekuroysa,NA,FALSE,10+6,NA,NA
+bent1238,numerals-bent1238-1-seventeen-1,numerals-bent1238-1,Chan2019,seventeen,17,pɛ́rɛ́ súyⁿɔ̀yⁿ sâː,peresuynoynsa,NA,FALSE,10+7,NA,NA
+bent1238,numerals-bent1238-1-eighteen-1,numerals-bent1238-1,Chan2019,eighteen,18,pɛ́rɛ́ ɡáːrày sâː,peregaraysa,NA,FALSE,10+8,NA,NA
+bent1238,numerals-bent1238-1-nineteen-1,numerals-bent1238-1,Chan2019,nineteen,19,pɛ́rɛ́ tèːsǐm sâː,peretesimsa,NA,FALSE,10+9,NA,NA
+bent1238,numerals-bent1238-1-twenty-1,numerals-bent1238-1,Chan2019,twenty,20,pèrí yěy,periyey,NA,FALSE,10·2,NA,NA
+bent1238,numerals-bent1238-1-twentyone-1,numerals-bent1238-1,Chan2019,twentyone,21,pèrí yěy tùwⁿɔ́ sâː,periyeytuwnosa,??,FALSE,(10·2)+1{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentytwo-1,numerals-bent1238-1,Chan2019,twentytwo,22,pèrí yěy yěy sâː,periyeyyeysa,NA,FALSE,(10·2)+2{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentythree-1,numerals-bent1238-1,Chan2019,twentythree,23,pèrí yěy tàːn sâː,periyeytansa,NA,FALSE,(10·2)+3{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentyfour-1,numerals-bent1238-1,Chan2019,twentyfour,24,pèrí yěy nǐːyⁿ sâː,periyeyniynsa,NA,FALSE,(10·2)+4{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentyfive-1,numerals-bent1238-1,Chan2019,twentyfive,25,pèrí yěy nùmǔyⁿ sâː,periyeynumuynsa,NA,FALSE,(10·2)+5{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentysix-1,numerals-bent1238-1,Chan2019,twentysix,26,pèrí yěy kúròy sâː,periyeykuroysa,NA,FALSE,(10·2)+6{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentyseven-1,numerals-bent1238-1,Chan2019,twentyseven,27,pèrí yěy súyⁿɔ̀yⁿ sâː,periyeysuynoynsa,NA,FALSE,(10·2)+7{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentyeight-1,numerals-bent1238-1,Chan2019,twentyeight,28,pèrí yěy ɡáːrày sâː,periyeygaraysa,NA,FALSE,(10·2)+8{LIG},NA,NA
+bent1238,numerals-bent1238-1-twentynine-1,numerals-bent1238-1,Chan2019,twentynine,29,pèrí yěy tèːsǐm sâː,periyeytesimsa,NA,FALSE,(10·2)+9{LIG},NA,NA
+bent1238,numerals-bent1238-1-thirty-1,numerals-bent1238-1,Chan2019,thirty,30,pɛ̀r tàːnú,pertanu,NA,FALSE,10·3,NA,NA
+bent1238,numerals-bent1238-1-forty-1,numerals-bent1238-1,Chan2019,forty,40,pɛ̀r nǐːyⁿ,perniyn,NA,FALSE,10·4,NA,NA
+bent1238,numerals-bent1238-1-fifty-1,numerals-bent1238-1,Chan2019,fifty,50,pɛ̀r nùmǔyⁿ,pernumuyn,NA,FALSE,10·5,NA,NA
+bent1238,numerals-bent1238-1-sixty-1,numerals-bent1238-1,Chan2019,sixty,60,pɛ̀r kúròy,perkuroy,NA,FALSE,10·6,NA,NA
+bent1238,numerals-bent1238-1-seventy-1,numerals-bent1238-1,Chan2019,seventy,70,pɛ̀r súyⁿɔ̀yⁿ,persuynoyn,NA,FALSE,10·7,NA,NA
+bent1238,numerals-bent1238-1-eighty-1,numerals-bent1238-1,Chan2019,eighty,80,pɛ̀r ɡáːrày,pergaray,NA,FALSE,10·8,NA,NA
+bent1238,numerals-bent1238-1-eighty-2,numerals-bent1238-1,Chan2019,eighty,80,dɔ̀ː sòŋɡú,dosonggu,( archaic form),FALSE,80,10·8,NA
+bent1238,numerals-bent1238-1-ninety-1,numerals-bent1238-1,Chan2019,ninety,90,pɛ̀r tèːsǐm,pertesim,NA,FALSE,10·9,NA,NA
+bent1238,numerals-bent1238-1-hundred-1,numerals-bent1238-1,Chan2019,hundred,100,tɛ́ːmɛ́dɛ́rɛ̀,temedere,( < Fulfulde ),TRUE,100,NA,NA
+bent1238,numerals-bent1238-1-twohundred-1,numerals-bent1238-1,Chan2019,twohundred,200,tɛ́ːmɛ́dɛ́rɛ̀ yěy,temedereyey,??,FALSE,100·2,NA,NA
+bent1238,numerals-bent1238-1-thousand-1,numerals-bent1238-1,Chan2019,thousand,1000,mùsú,musu,NA,FALSE,1000,NA,NA
+bent1238,numerals-bent1238-1-twothousand-1,numerals-bent1238-1,Chan2019,twothousand,2000,mùsu yěy,musuyey,??,FALSE,1000·2,NA,NA
+bond1248,numerals-bond1248-1-one-1,numerals-bond1248-1,Chan2019,one,1,tíí,tii,(túmɔ́ as a modifier),FALSE,1,NA,NA
+bond1248,numerals-bond1248-1-two-1,numerals-bond1248-1,Chan2019,two,2,néé,nee,NA,FALSE,2,NA,NA
+bond1248,numerals-bond1248-1-three-1,numerals-bond1248-1,Chan2019,three,3,tààndú,taandu,NA,FALSE,3,NA,NA
+bond1248,numerals-bond1248-1-four-1,numerals-bond1248-1,Chan2019,four,4,nǎy,nay,NA,FALSE,4,NA,NA
+bond1248,numerals-bond1248-1-five-1,numerals-bond1248-1,Chan2019,five,5,ǹnɔ́,nno,NA,FALSE,5,NA,NA
+bond1248,numerals-bond1248-1-six-1,numerals-bond1248-1,Chan2019,six,6,kúlóy,kuloy,NA,FALSE,6,NA,NA
+bond1248,numerals-bond1248-1-seven-1,numerals-bond1248-1,Chan2019,seven,7,sɔ́y,soy,NA,FALSE,7,NA,NA
+bond1248,numerals-bond1248-1-eight-1,numerals-bond1248-1,Chan2019,eight,8,ɡáɡìrà,gagira,NA,FALSE,8,NA,NA
+bond1248,numerals-bond1248-1-nine-1,numerals-bond1248-1,Chan2019,nine,9,túwwɔ́,tuwwo,NA,FALSE,9,NA,NA
+bond1248,numerals-bond1248-1-ten-1,numerals-bond1248-1,Chan2019,ten,10,pɛ́l,pel,NA,FALSE,10,NA,NA
+bond1248,numerals-bond1248-1-eleven-1,numerals-bond1248-1,Chan2019,eleven,11,pɛ́l-ɡó túrú-ɡó síɡɛ́,pelgoturugosige,NA,FALSE,10{CL?}+1{CL?}{LIG},LIG=more than,NA
+bond1248,numerals-bond1248-1-twelve-1,numerals-bond1248-1,Chan2019,twelve,12,pɛ́l-ɡó néé-ɡó siɡɛ́,pelgoneegosige,NA,FALSE,10{CL?}+2{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-thirteen-1,numerals-bond1248-1,Chan2019,thirteen,13,pɛ́l-ɡó tààndú-ɡó siɡɛ́,pelgotaandugosige,NA,FALSE,10{CL?}+3{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-fourteen-1,numerals-bond1248-1,Chan2019,fourteen,14,pɛ́l-ɡó nǎy-ɡó siɡɛ́,pelgonaygosige,NA,FALSE,10{CL?}+4{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-fifteen-1,numerals-bond1248-1,Chan2019,fifteen,15,pɛ́l-ɡó ǹnɔ́-ɡó siɡɛ́,pelgonnogosige,NA,FALSE,10{CL?}+5{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-sixteen-1,numerals-bond1248-1,Chan2019,sixteen,16,pɛ́l-ɡó kúlóy-ɡó siɡɛ́,pelgokuloygosige,NA,FALSE,10{CL?}+6{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-seventeen-1,numerals-bond1248-1,Chan2019,seventeen,17,pɛ́l-ɡó sɔ́y-ɡó siɡɛ́,pelgosoygosige,NA,FALSE,10{CL?}+7{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-eighteen-1,numerals-bond1248-1,Chan2019,eighteen,18,pɛ́l-ɡó ɡáɡìrà-ɡó siɡɛ́,pelgogagiragosige,NA,FALSE,10{CL?}+8{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-nineteen-1,numerals-bond1248-1,Chan2019,nineteen,19,pɛ́l-ɡó túwwɔ́-ɡó siɡɛ́,pelgotuwwogosige,NA,FALSE,10{CL?}+9{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twenty-1,numerals-bond1248-1,Chan2019,twenty,20,pɛ̀ɛ̀-néé,peenee,NA,FALSE,10·2,NA,NA
+bond1248,numerals-bond1248-1-twentyone-1,numerals-bond1248-1,Chan2019,twentyone,21,pɛ̀ɛ̀-néé túrú-ɡó síɡɛ́,peeneeturugosige,NA,FALSE,(10·2)+1’{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentytwo-1,numerals-bond1248-1,Chan2019,twentytwo,22,pɛ̀ɛ̀-néé néé-ɡó síɡɛ́,peeneeneegosige,NA,FALSE,(10·2)+2{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentythree-1,numerals-bond1248-1,Chan2019,twentythree,23,pɛ̀ɛ̀-néé tààndú-ɡó síɡɛ́,peeneetaandugosige,NA,FALSE,(10·2)+3{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentyfour-1,numerals-bond1248-1,Chan2019,twentyfour,24,pɛ̀ɛ̀-néé nǎy-ɡó síɡɛ́,peeneenaygosige,NA,FALSE,(10·2)+4{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentyfive-1,numerals-bond1248-1,Chan2019,twentyfive,25,pɛ̀ɛ̀-néé túrú-ɡó síɡɛ́,peeneeturugosige,NA,FALSE,(10·2)+5{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentysix-1,numerals-bond1248-1,Chan2019,twentysix,26,pɛ̀ɛ̀-néé kúlóy-ɡó síɡɛ́,peeneekuloygosige,NA,FALSE,(10·2)+6{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentyseven-1,numerals-bond1248-1,Chan2019,twentyseven,27,pɛ̀ɛ̀-néé sɔ́y-ɡó síɡɛ́,peeneesoygosige,NA,FALSE,(10·2)+7{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentyeight-1,numerals-bond1248-1,Chan2019,twentyeight,28,pɛ̀ɛ̀-néé ɡáɡìrà-ɡó síɡɛ́,peeneegagiragosige,NA,FALSE,(10·2)+8{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-twentynine-1,numerals-bond1248-1,Chan2019,twentynine,29,pɛ̀ɛ̀-néé túwwɔ́-ɡó síɡɛ́,peeneetuwwogosige,NA,FALSE,(10·2)+9{CL?}{LIG},NA,NA
+bond1248,numerals-bond1248-1-thirty-1,numerals-bond1248-1,Chan2019,thirty,30,pɛ́l-tààndú,peltaandu,NA,FALSE,10·3,NA,NA
+bond1248,numerals-bond1248-1-forty-1,numerals-bond1248-1,Chan2019,forty,40,pɛ́l-này,pelnay,NA,FALSE,10·4,NA,NA
+bond1248,numerals-bond1248-1-fifty-1,numerals-bond1248-1,Chan2019,fifty,50,pɛ́l-ǹnɔ́,pelnno,NA,FALSE,10·5,NA,NA
+bond1248,numerals-bond1248-1-sixty-1,numerals-bond1248-1,Chan2019,sixty,60,pɛ́l kúlóy,pelkuloy,NA,FALSE,10·6,NA,NA
+bond1248,numerals-bond1248-1-seventy-1,numerals-bond1248-1,Chan2019,seventy,70,pɛ́l sóy,pelsoy,NA,FALSE,10·7,NA,NA
+bond1248,numerals-bond1248-1-eighty-1,numerals-bond1248-1,Chan2019,eighty,80,pɛ́-ɡáɡìrà,pegagira,NA,FALSE,10·8,NA,NA
+bond1248,numerals-bond1248-1-eighty-2,numerals-bond1248-1,Chan2019,eighty,80,kɛ̀ɛ̀-súm,keesum,(old ),FALSE,80,NA,NA
+bond1248,numerals-bond1248-1-ninety-1,numerals-bond1248-1,Chan2019,ninety,90,pɛ́-túwwɔ́,petuwwo,NA,FALSE,10·9,NA,NA
+bond1248,numerals-bond1248-1-ninety-2,numerals-bond1248-1,Chan2019,ninety,90,kɛ̀ɛ̀-súm =le kɛ̀ɛ̀lɛ̀ pɛ́l,keesumlekeelepel,NA,FALSE,80+{LIG'}10,NA,NA
+bond1248,numerals-bond1248-1-hundred-1,numerals-bond1248-1,Chan2019,hundred,100,kɛ̀ɛ̀-súm =le pɛ̀ɛ̀-néé,keesumlepeenee,NA,FALSE,80+{LIG}(10·2),NA,NA
+bond1248,numerals-bond1248-1-hundred-2,numerals-bond1248-1,Chan2019,hundred,100,tɛ́mɛ̀nd(r)ɛ̀,temendre,< Fula,TRUE,100,NA,NA
+bond1248,numerals-bond1248-1-twohundred-1,numerals-bond1248-1,Chan2019,twohundred,200,tɛ́mɛ̀nd(r)ɛ̀ néé,temendrenee,NA,FALSE,100·2,NA,NA
+bond1248,numerals-bond1248-1-thousand-1,numerals-bond1248-1,Chan2019,thousand,1000,kɛ̀ɛ̀lɛ̀ mùnjó,keelemunjo,(formerly 800 ),FALSE,{LIG’?}1000,NA,NA
+bond1248,numerals-bond1248-1-twothousand-1,numerals-bond1248-1,Chan2019,twothousand,2000,mùnjó nèè,munjonee,NA,FALSE,1000·2,NA,NA
+dogu1235,numerals-dogu1235-1-one-1,numerals-dogu1235-1,Chan2019,one,1,tɔ̀mɔ̀,tomo,NA,FALSE,1,NA,NA
+dogu1235,numerals-dogu1235-1-two-1,numerals-dogu1235-1,Chan2019,two,2,nééɡè,neege,NA,FALSE,2,NA,NA
+dogu1235,numerals-dogu1235-1-three-1,numerals-dogu1235-1,Chan2019,three,3,táándù,taandu,NA,FALSE,3,NA,NA
+dogu1235,numerals-dogu1235-1-four-1,numerals-dogu1235-1,Chan2019,four,4,kɛ́ɛ́sɔ̀,keeso,NA,FALSE,4,NA,NA
+dogu1235,numerals-dogu1235-1-five-1,numerals-dogu1235-1,Chan2019,five,5,ǹó,no,NA,FALSE,5,NA,NA
+dogu1235,numerals-dogu1235-1-six-1,numerals-dogu1235-1,Chan2019,six,6,kúlè,kule,NA,FALSE,6,NA,NA
+dogu1235,numerals-dogu1235-1-seven-1,numerals-dogu1235-1,Chan2019,seven,7,sɔ́ɔ́wɛ̀,soowe,NA,FALSE,7,NA,NA
+dogu1235,numerals-dogu1235-1-eight-1,numerals-dogu1235-1,Chan2019,eight,8,sèèlé,seele,NA,FALSE,8,NA,NA
+dogu1235,numerals-dogu1235-1-nine-1,numerals-dogu1235-1,Chan2019,nine,9,tùùwɔ́,tuuwo,NA,FALSE,9,NA,NA
+dogu1235,numerals-dogu1235-1-ten-1,numerals-dogu1235-1,Chan2019,ten,10,pɛ́ɛ̀l,peel,NA,FALSE,10,NA,NA
+dogu1235,numerals-dogu1235-1-eleven-1,numerals-dogu1235-1,Chan2019,eleven,11,pɛ́l tɔ́mɔ̀sìɡà,peltomosiga,NA,FALSE,10+1{LIG},LIG=more,NA
+dogu1235,numerals-dogu1235-1-twelve-1,numerals-dogu1235-1,Chan2019,twelve,12,pɛ́l néɡèsìɡà,pelnegesiga,NA,FALSE,10+2{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-thirteen-1,numerals-dogu1235-1,Chan2019,thirteen,13,pɛ́l tándùsìɡà,peltandusiga,NA,FALSE,10+3{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-fourteen-1,numerals-dogu1235-1,Chan2019,fourteen,14,pɛ́l kɛ́sɔ́sìɡà,pelkesosiga,NA,FALSE,10+4{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-fifteen-1,numerals-dogu1235-1,Chan2019,fifteen,15,pɛ́l ǹósìɡà,pelnosiga,NA,FALSE,10+5{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-sixteen-1,numerals-dogu1235-1,Chan2019,sixteen,16,pɛ́l kúlèsìɡà,pelkulesiga,NA,FALSE,10+6{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-seventeen-1,numerals-dogu1235-1,Chan2019,seventeen,17,pɛ́l sɔ́wɛ̀sìɡà,pelsowesiga,NA,FALSE,10+7{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-eighteen-1,numerals-dogu1235-1,Chan2019,eighteen,18,pɛ́l sèlésìɡà,pelselesiga,NA,FALSE,10+8{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-nineteen-1,numerals-dogu1235-1,Chan2019,nineteen,19,pɛ́l túwɔ́sìɡà,peltuwosiga,NA,FALSE,10+9{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twenty-1,numerals-dogu1235-1,Chan2019,twenty,20,pɛ́nééɡè,peneege,NA,FALSE,10·2,NA,NA
+dogu1235,numerals-dogu1235-1-twentyone-1,numerals-dogu1235-1,Chan2019,twentyone,21,pɛ́nééɡè tɔ́mɔ̀sìɡà,peneegetomosiga,NA,FALSE,(10·2)+1{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentytwo-1,numerals-dogu1235-1,Chan2019,twentytwo,22,pɛ́nééɡè néɡèsìɡà,peneegenegesiga,NA,FALSE,(10·2)+2{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentythree-1,numerals-dogu1235-1,Chan2019,twentythree,23,pɛ́nééɡè tándùsìɡà,peneegetandusiga,NA,FALSE,(10·2)+3{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentyfour-1,numerals-dogu1235-1,Chan2019,twentyfour,24,pɛ́nééɡè kɛ́sɔ́sìɡà,peneegekesosiga,NA,FALSE,(10·2)+4{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentyfive-1,numerals-dogu1235-1,Chan2019,twentyfive,25,pɛ́nééɡè ǹósìɡà,peneegenosiga,NA,FALSE,(10·2)+5{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentysix-1,numerals-dogu1235-1,Chan2019,twentysix,26,pɛ́nééɡè kúlèsìɡà,peneegekulesiga,NA,FALSE,(10·2)+6{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentyseven-1,numerals-dogu1235-1,Chan2019,twentyseven,27,pɛ́nééɡè sɔ́wɛ̀sìɡà,peneegesowesiga,NA,FALSE,(10·2)+7{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentyeight-1,numerals-dogu1235-1,Chan2019,twentyeight,28,pɛ́nééɡè sèlésìɡà,peneegeselesiga,NA,FALSE,(10·2)+8{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-twentynine-1,numerals-dogu1235-1,Chan2019,twentynine,29,pɛ́nééɡè túwɔ́sìɡà,peneegetuwosiga,NA,FALSE,(10·2)+9{LIG},NA,NA
+dogu1235,numerals-dogu1235-1-thirty-1,numerals-dogu1235-1,Chan2019,thirty,30,pìráándù,piraandu,NA,FALSE,10·3,NA,NA
+dogu1235,numerals-dogu1235-1-forty-1,numerals-dogu1235-1,Chan2019,forty,40,dɛ̀ɛ́,dee,NA,FALSE,40,NA,NA
+dogu1235,numerals-dogu1235-1-fifty-1,numerals-dogu1235-1,Chan2019,fifty,50,pɛ́nnò,penno,NA,FALSE,10·5,NA,NA
+dogu1235,numerals-dogu1235-1-sixty-1,numerals-dogu1235-1,Chan2019,sixty,60,pɛ̀l kùlé,pelkule,NA,FALSE,10·6,NA,NA
+dogu1235,numerals-dogu1235-1-seventy-1,numerals-dogu1235-1,Chan2019,seventy,70,pɛ́l sɔ́ɔ́wɛ̀,pelsoowe,NA,FALSE,10·7,NA,NA
+dogu1235,numerals-dogu1235-1-eighty-1,numerals-dogu1235-1,Chan2019,eighty,80,síìŋ,siing,NA,FALSE,80,NA,NA
+dogu1235,numerals-dogu1235-1-eighty-2,numerals-dogu1235-1,Chan2019,eighty,80,pɛ́sèèlè,peseele,NA,FALSE,10·8,NA,NA
+dogu1235,numerals-dogu1235-1-ninety-1,numerals-dogu1235-1,Chan2019,ninety,90,pɛ́ttùwà,pettuwa,NA,FALSE,10·9,NA,NA
+dogu1235,numerals-dogu1235-1-ninety-2,numerals-dogu1235-1,Chan2019,ninety,90,síìŋ yàŋ kɛ̀lɛ̀pɛ́l,siingyangkelepel,( 80 + 10 ),FALSE,80+{LIG}10,NA,NA
+dogu1235,numerals-dogu1235-1-hundred-1,numerals-dogu1235-1,Chan2019,hundred,100,tɛ́mdɛ̀rɛ̀,temdere,( < Fulfulde ),TRUE,100,NA,NA
+dogu1235,numerals-dogu1235-1-twohundred-1,numerals-dogu1235-1,Chan2019,twohundred,200,tɛ́mdɛ̀ nééɡè,temdeneege,NA,FALSE,100·2,NA,NA
+dogu1235,numerals-dogu1235-1-thousand-1,numerals-dogu1235-1,Chan2019,thousand,1000,múnjù,munju,NA,FALSE,1000,NA,NA
+dogu1235,numerals-dogu1235-1-twothousand-1,numerals-dogu1235-1,Chan2019,twothousand,2000,múnjù nééɡè,munjuneege,NA,FALSE,1000·2,NA,NA
+donn1239,numerals-donn1239-1-one-1,numerals-donn1239-1,Chan2019,one,1,tí,ti,(for counting),FALSE,1,NA,NA
+donn1239,numerals-donn1239-1-one-2,numerals-donn1239-1,Chan2019,one,1,túru,turu,NA,FALSE,1,NA,NA
+donn1239,numerals-donn1239-1-two-1,numerals-donn1239-1,Chan2019,two,2,lɛ̀y,ley,NA,FALSE,2,NA,NA
+donn1239,numerals-donn1239-1-three-1,numerals-donn1239-1,Chan2019,three,3,tàːnu,tanu,NA,FALSE,3,NA,NA
+donn1239,numerals-donn1239-1-four-1,numerals-donn1239-1,Chan2019,four,4,này,nay,NA,FALSE,4,NA,NA
+donn1239,numerals-donn1239-1-five-1,numerals-donn1239-1,Chan2019,five,5,nùmoro,numoro,NA,FALSE,5,NA,NA
+donn1239,numerals-donn1239-1-five-2,numerals-donn1239-1,Chan2019,five,5,nnɔ,nno,NA,FALSE,5,NA,NA
+donn1239,numerals-donn1239-1-six-1,numerals-donn1239-1,Chan2019,six,6,kúlóy,kuloy,NA,FALSE,6,NA,NA
+donn1239,numerals-donn1239-1-six-2,numerals-donn1239-1,Chan2019,six,6,kulei,kulei,NA,FALSE,6’,NA,NA
+donn1239,numerals-donn1239-1-seven-1,numerals-donn1239-1,Chan2019,seven,7,sɔ̀y,soy,NA,FALSE,7,NA,NA
+donn1239,numerals-donn1239-1-eight-1,numerals-donn1239-1,Chan2019,eight,8,ɡàɡara,gagara,NA,FALSE,8,NA,NA
+donn1239,numerals-donn1239-1-nine-1,numerals-donn1239-1,Chan2019,nine,9,tùo,tuo,NA,FALSE,9,NA,NA
+donn1239,numerals-donn1239-1-nine-2,numerals-donn1239-1,Chan2019,nine,9,tuɡɔ,tugo,NA,FALSE,9’,NA,NA
+donn1239,numerals-donn1239-1-ten-1,numerals-donn1239-1,Chan2019,ten,10,pɛ́lu,pelu,NA,FALSE,10,NA,NA
+donn1239,numerals-donn1239-1-eleven-1,numerals-donn1239-1,Chan2019,eleven,11,pɛ́lu túru siɡɛ́,peluturusige,NA,FALSE,10+1{LIG},NA,NA
+donn1239,numerals-donn1239-1-twelve-1,numerals-donn1239-1,Chan2019,twelve,12,pɛ́lu léi siɡɛ́,peluleisige,NA,FALSE,10+2{LIG},NA,NA
+donn1239,numerals-donn1239-1-thirteen-1,numerals-donn1239-1,Chan2019,thirteen,13,pɛ́lu táánú siɡɛ́,pelutaanusige,NA,FALSE,10+3{LIG},NA,NA
+donn1239,numerals-donn1239-1-fourteen-1,numerals-donn1239-1,Chan2019,fourteen,14,pɛ́lu náí siɡɛ́,pelunaisige,NA,FALSE,10+4{LIG},NA,NA
+donn1239,numerals-donn1239-1-fifteen-1,numerals-donn1239-1,Chan2019,fifteen,15,pɛ́lu númɔ́rɔ́n siɡɛ́,pelunumoronsige,NA,FALSE,10+5{LIG},NA,NA
+donn1239,numerals-donn1239-1-sixteen-1,numerals-donn1239-1,Chan2019,sixteen,16,pɛ́lu kúlóí siɡɛ́,pelukuloisige,NA,FALSE,10+6{LIG},NA,NA
+donn1239,numerals-donn1239-1-seventeen-1,numerals-donn1239-1,Chan2019,seventeen,17,pɛ́lu sɔ́í siɡɛ́,pelusoisige,NA,FALSE,10+7{LIG},NA,NA
+donn1239,numerals-donn1239-1-eighteen-1,numerals-donn1239-1,Chan2019,eighteen,18,pɛ́lu ɡáɡárá siɡɛ́,pelugagarasige,NA,FALSE,10+8{LIG},NA,NA
+donn1239,numerals-donn1239-1-nineteen-1,numerals-donn1239-1,Chan2019,nineteen,19,pɛ́lu túwɔ́ siɡɛ́,pelutuwosige,NA,FALSE,10+9{LIG},NA,NA
+donn1239,numerals-donn1239-1-twenty-1,numerals-donn1239-1,Chan2019,twenty,20,pɛ́lu lɛ̀y,peluley,NA,FALSE,10·2,NA,NA
+donn1239,numerals-donn1239-1-twenty-2,numerals-donn1239-1,Chan2019,twenty,20,pɛ́llɛy,pelley,NA,FALSE,10·2,NA,NA
+donn1239,numerals-donn1239-1-twentyone-1,numerals-donn1239-1,Chan2019,twentyone,21,pɛ́llɛy túru siɡɛ́,pelleyturusige,NA,FALSE,(10·2)+1{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentytwo-1,numerals-donn1239-1,Chan2019,twentytwo,22,pɛ́llɛy lɛ̀y siɡɛ́,pelleyleysige,NA,FALSE,(10·2)+2{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentythree-1,numerals-donn1239-1,Chan2019,twentythree,23,pɛ́llɛy táánúsiɡɛ,pelleytaanusige,NA,FALSE,(10·2)+3{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentyfour-1,numerals-donn1239-1,Chan2019,twentyfour,24,pɛ́llɛy náísiɡɛ,pelleynaisige,NA,FALSE,(10·2)+4{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentyfive-1,numerals-donn1239-1,Chan2019,twentyfive,25,pɛ́llɛy númɔ́rɔ́nsiɡɛ,pelleynumoronsige,NA,FALSE,(10·2)+5{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentysix-1,numerals-donn1239-1,Chan2019,twentysix,26,pɛ́llɛy kúlóísiɡɛ,pelleykuloisige,NA,FALSE,(10·2)+6{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentyseven-1,numerals-donn1239-1,Chan2019,twentyseven,27,pɛ́llɛy sɔ́ísiɡɛ,pelleysoisige,NA,FALSE,(10·2)+7{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentyeight-1,numerals-donn1239-1,Chan2019,twentyeight,28,pɛ́llɛy ɡáɡárásiɡɛ,pelleygagarasige,NA,FALSE,(10·2)+8{LIG},NA,NA
+donn1239,numerals-donn1239-1-twentynine-1,numerals-donn1239-1,Chan2019,twentynine,29,pɛ́llɛy túwɔ́siɡɛ,pelleytuwosige,NA,FALSE,(10·2)+9{LIG},NA,NA
+donn1239,numerals-donn1239-1-thirty-1,numerals-donn1239-1,Chan2019,thirty,30,pɛ́lu tàːnu,pelutanu,NA,FALSE,10·3,NA,NA
+donn1239,numerals-donn1239-1-thirty-2,numerals-donn1239-1,Chan2019,thirty,30,pɛ́ːtàːnu,petanu,NA,FALSE,10·3,NA,NA
+donn1239,numerals-donn1239-1-forty-1,numerals-donn1239-1,Chan2019,forty,40,pɛ́lu này,pelunay,NA,FALSE,10·4,NA,NA
+donn1239,numerals-donn1239-1-forty-2,numerals-donn1239-1,Chan2019,forty,40,pɛ́nnay,pennay,NA,FALSE,10·4,NA,NA
+donn1239,numerals-donn1239-1-fifty-1,numerals-donn1239-1,Chan2019,fifty,50,pɛ́lu númɔ́rɔ́n,pelunumoron,NA,FALSE,10·5,NA,NA
+donn1239,numerals-donn1239-1-sixty-1,numerals-donn1239-1,Chan2019,sixty,60,pɛ́lu kúlóí,pelukuloi,NA,FALSE,10·6,NA,NA
+donn1239,numerals-donn1239-1-seventy-1,numerals-donn1239-1,Chan2019,seventy,70,pɛ́lu sɔ́í,pelusoi,NA,FALSE,10·7,NA,NA
+donn1239,numerals-donn1239-1-eighty-1,numerals-donn1239-1,Chan2019,eighty,80,súŋu,sungu,NA,FALSE,80,NA,NA
+donn1239,numerals-donn1239-1-ninety-1,numerals-donn1239-1,Chan2019,ninety,90,súŋu le pɛ́llu,sungulepellu,( 80 + 10 ),FALSE,80+{LIG’}10,NA,NA
+donn1239,numerals-donn1239-1-hundred-1,numerals-donn1239-1,Chan2019,hundred,100,súŋú le pɛ́llɛy,sungulepelley,( 80 + 20 ),FALSE,80+{LIG’}20,NA,NA
+donn1239,numerals-donn1239-1-twohundred-1,numerals-donn1239-1,Chan2019,twohundred,200,súŋu lɛ̀y pɛ́nnay,sunguleypennay,[( 80 x 2 ) + 40 ],FALSE,(80·2)+10·4,NA,NA
+donn1239,numerals-donn1239-1-thousand-1,numerals-donn1239-1,Chan2019,thousand,1000,mùɲu súŋu lɛ̀y pɛ́nnay,munusunguleypennay,( 800 + 200 ),FALSE,5·((80·2)+10·4),NA,NA
+donn1239,numerals-donn1239-1-twothousand-1,numerals-donn1239-1,Chan2019,twothousand,2000,mùɲú lɛ̀y súŋu nnɔ,munuleysungunno,( 1600 + 400 ),FALSE,?,"configuration of 5,2,80,5 is not equal to 2000; 5·80·5 would",NA
+jams1239,numerals-jams1239-1-one-1,numerals-jams1239-1,Chan2019,one,1,túrú,turu,NA,FALSE,1,NA,NA
+jams1239,numerals-jams1239-1-two-1,numerals-jams1239-1,Chan2019,two,2,lɛ̌y,ley,NA,FALSE,2,NA,NA
+jams1239,numerals-jams1239-1-two-2,numerals-jams1239-1,Chan2019,two,2,lɛ̀y,ley,NA,FALSE,2,NA,NA
+jams1239,numerals-jams1239-1-three-1,numerals-jams1239-1,Chan2019,three,3,tǎːn,tan,NA,FALSE,3,NA,NA
+jams1239,numerals-jams1239-1-three-2,numerals-jams1239-1,Chan2019,three,3,tàːn,tan,NA,FALSE,3,NA,NA
+jams1239,numerals-jams1239-1-four-1,numerals-jams1239-1,Chan2019,four,4,nǎyⁿ,nayn,NA,FALSE,4,NA,NA
+jams1239,numerals-jams1239-1-four-2,numerals-jams1239-1,Chan2019,four,4,nàyⁿ,nayn,( *),FALSE,4,NA,NA
+jams1239,numerals-jams1239-1-five-1,numerals-jams1239-1,Chan2019,five,5,nǔːyⁿ,nuyn,NA,FALSE,5,NA,NA
+jams1239,numerals-jams1239-1-five-2,numerals-jams1239-1,Chan2019,five,5,nùːyⁿ,nuyn,NA,FALSE,5,NA,NA
+jams1239,numerals-jams1239-1-six-1,numerals-jams1239-1,Chan2019,six,6,kúróy,kuroy,NA,FALSE,6,NA,NA
+jams1239,numerals-jams1239-1-seven-1,numerals-jams1239-1,Chan2019,seven,7,sûyⁿ,suyn,NA,FALSE,7,NA,NA
+jams1239,numerals-jams1239-1-eight-1,numerals-jams1239-1,Chan2019,eight,8,ɡáːrà,gara,NA,FALSE,8,NA,NA
+jams1239,numerals-jams1239-1-nine-1,numerals-jams1239-1,Chan2019,nine,9,láːrúwà,laruwa,NA,FALSE,9,NA,NA
+jams1239,numerals-jams1239-1-nine-2,numerals-jams1239-1,Chan2019,nine,9,láːrwà,larwa,NA,FALSE,9,NA,NA
+jams1239,numerals-jams1239-1-ten-1,numerals-jams1239-1,Chan2019,ten,10,pɛ́rú,peru,NA,FALSE,10,NA,NA
+jams1239,numerals-jams1239-1-eleven-1,numerals-jams1239-1,Chan2019,eleven,11,pɛ́rɛ́ túrú sáɣà,pereturusaga,(litː one plus ),FALSE,10+1{LIG},NA,NA
+jams1239,numerals-jams1239-1-twelve-1,numerals-jams1239-1,Chan2019,twelve,12,pɛ́rɛ́ lɛ̀y sáɣà,pereleysaga,NA,FALSE,10+2{LIG},NA,NA
+jams1239,numerals-jams1239-1-thirteen-1,numerals-jams1239-1,Chan2019,thirteen,13,pɛ́rɛ́ tàːn sáɣà,peretansaga,NA,FALSE,10+3{LIG},NA,NA
+jams1239,numerals-jams1239-1-fourteen-1,numerals-jams1239-1,Chan2019,fourteen,14,pɛ́rɛ́ nàyⁿ sáɣà,perenaynsaga,NA,FALSE,10+4{LIG},NA,NA
+jams1239,numerals-jams1239-1-fifteen-1,numerals-jams1239-1,Chan2019,fifteen,15,pɛ́rɛ́ nùːyⁿ sáɣà,perenuynsaga,NA,FALSE,10+5{LIG},NA,NA
+jams1239,numerals-jams1239-1-sixteen-1,numerals-jams1239-1,Chan2019,sixteen,16,pɛ́rɛ́ kúróy sáɣà,perekuroysaga,NA,FALSE,10+6{LIG},NA,NA
+jams1239,numerals-jams1239-1-seventeen-1,numerals-jams1239-1,Chan2019,seventeen,17,pɛ́rɛ́ sûyⁿ sáɣà,peresuynsaga,NA,FALSE,10+7{LIG},NA,NA
+jams1239,numerals-jams1239-1-eighteen-1,numerals-jams1239-1,Chan2019,eighteen,18,pɛ́rɛ́ ɡáːrà sáɣà,peregarasaga,NA,FALSE,10+8{LIG},NA,NA
+jams1239,numerals-jams1239-1-nineteen-1,numerals-jams1239-1,Chan2019,nineteen,19,pɛ́rɛ́ láːrúwà sáɣà,perelaruwasaga,NA,FALSE,10+9{LIG},NA,NA
+jams1239,numerals-jams1239-1-twenty-1,numerals-jams1239-1,Chan2019,twenty,20,pɛ́l-lɛ̀y,pelley,NA,FALSE,10·2,NA,NA
+jams1239,numerals-jams1239-1-twentyone-1,numerals-jams1239-1,Chan2019,twentyone,21,pɛ́l-lɛ̀y túrú sáɣà,pelleyturusaga,NA,FALSE,(10·2)+1{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentytwo-1,numerals-jams1239-1,Chan2019,twentytwo,22,pɛ́l-lɛ̀y lɛ̀y sáɣà,pelleyleysaga,NA,FALSE,(10·2)+2{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentythree-1,numerals-jams1239-1,Chan2019,twentythree,23,pɛ́l-lɛ̀y tàːn sáɣà,pelleytansaga,NA,FALSE,(10·2)+3{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentyfour-1,numerals-jams1239-1,Chan2019,twentyfour,24,pɛ́l-lɛ̀y nàyⁿ sáɣà,pelleynaynsaga,NA,FALSE,(10·2)+4{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentyfive-1,numerals-jams1239-1,Chan2019,twentyfive,25,pɛ́l-lɛ̀y nùːyⁿ sáɣà,pelleynuynsaga,NA,FALSE,(10·2)+5{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentysix-1,numerals-jams1239-1,Chan2019,twentysix,26,pɛ́l-lɛ̀y kúróy sáɣà,pelleykuroysaga,NA,FALSE,(10·2)+6{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentyseven-1,numerals-jams1239-1,Chan2019,twentyseven,27,pɛ́l-lɛ̀y sûyⁿ sáɣà,pelleysuynsaga,NA,FALSE,(10·2)+7{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentyeight-1,numerals-jams1239-1,Chan2019,twentyeight,28,pɛ́l-lɛ̀y ɡáːrà sáɣà,pelleygarasaga,NA,FALSE,(10·2)+8{LIG},NA,NA
+jams1239,numerals-jams1239-1-twentynine-1,numerals-jams1239-1,Chan2019,twentynine,29,pɛ́l-lɛ̀y láːrúwà sáɣà,pelleylaruwasaga,NA,FALSE,(10·2)+9{LIG},NA,NA
+jams1239,numerals-jams1239-1-thirty-1,numerals-jams1239-1,Chan2019,thirty,30,pɛ́t-tàːn,pettan,NA,FALSE,10·3,NA,NA
+jams1239,numerals-jams1239-1-forty-1,numerals-jams1239-1,Chan2019,forty,40,pɛ́n-nàyⁿ,pennayn,NA,FALSE,10·4,NA,NA
+jams1239,numerals-jams1239-1-fifty-1,numerals-jams1239-1,Chan2019,fifty,50,pɛ́n-nùːyⁿ,pennuyn,NA,FALSE,10·5,NA,NA
+jams1239,numerals-jams1239-1-sixty-1,numerals-jams1239-1,Chan2019,sixty,60,pɛ̀rù-kúróy,perukuroy,NA,FALSE,10·6,NA,NA
+jams1239,numerals-jams1239-1-seventy-1,numerals-jams1239-1,Chan2019,seventy,70,pɛ̀ru sûyⁿ,perusuyn,NA,FALSE,10·7,NA,NA
+jams1239,numerals-jams1239-1-eighty-1,numerals-jams1239-1,Chan2019,eighty,80,pɛ̀rù-ɡáːrà,perugara,NA,FALSE,10·8,NA,NA
+jams1239,numerals-jams1239-1-eighty-2,numerals-jams1239-1,Chan2019,eighty,80,dɔ̀ɣɔ̀-sǔŋ,dogosung,NA,FALSE,80,10·8,NA
+jams1239,numerals-jams1239-1-ninety-1,numerals-jams1239-1,Chan2019,ninety,90,pɛ̀l-láːrúwà,pellaruwa,NA,FALSE,10·9,NA,NA
+jams1239,numerals-jams1239-1-ninety-2,numerals-jams1239-1,Chan2019,ninety,90,pɛ̀l-láːrwà,pellarwa,NA,FALSE,10·9,NA,NA
+jams1239,numerals-jams1239-1-hundred-1,numerals-jams1239-1,Chan2019,hundred,100,sǔŋ,sung,NA,FALSE,100,NA,NA
+jams1239,numerals-jams1239-1-hundred-2,numerals-jams1239-1,Chan2019,hundred,100,tɛ́ːmɛ́dɛ́rɛ̀,temedere,( < Fulfulde ),TRUE,100’,NA,NA
+jams1239,numerals-jams1239-1-twohundred-1,numerals-jams1239-1,Chan2019,twohundred,200,tɛ́ːmɛ́dɛ̂r lɛ̀y,temederley,NA,FALSE,100·2,NA,NA
+jams1239,numerals-jams1239-1-thousand-1,numerals-jams1239-1,Chan2019,thousand,1000,mùɲú,munu,NA,FALSE,1000,NA,NA
+jams1239,numerals-jams1239-1-twothousand-1,numerals-jams1239-1,Chan2019,twothousand,2000,mùɲú lɛ̀y,munuley,NA,FALSE,1000·2,NA,NA
+momb1254,numerals-momb1254-1-one-1,numerals-momb1254-1,Chan2019,one,1,yɛ̀ːtáːŋɡù,yetanggu,NA,FALSE,1,NA,NA
+momb1254,numerals-momb1254-1-one-2,numerals-momb1254-1,Chan2019,one,1,tíːtà,tita,(in counting),FALSE,1',NA,NA
+momb1254,numerals-momb1254-1-two-1,numerals-momb1254-1,Chan2019,two,2,nɛ́ːŋɡá,nengga,NA,FALSE,2,NA,NA
+momb1254,numerals-momb1254-1-three-1,numerals-momb1254-1,Chan2019,three,3,táːndì,tandi,NA,FALSE,3,NA,NA
+momb1254,numerals-momb1254-1-four-1,numerals-momb1254-1,Chan2019,four,4,kɛ́ːjɔ́,kejo,NA,FALSE,4,NA,NA
+momb1254,numerals-momb1254-1-five-1,numerals-momb1254-1,Chan2019,five,5,núːmù,numu,NA,FALSE,5,NA,NA
+momb1254,numerals-momb1254-1-six-1,numerals-momb1254-1,Chan2019,six,6,kúléyⁿ,kuleyn,NA,FALSE,6,NA,NA
+momb1254,numerals-momb1254-1-seven-1,numerals-momb1254-1,Chan2019,seven,7,sɔ́ːlì,soli,NA,FALSE,7,NA,NA
+momb1254,numerals-momb1254-1-eight-1,numerals-momb1254-1,Chan2019,eight,8,séːlè,sele,NA,FALSE,8,NA,NA
+momb1254,numerals-momb1254-1-nine-1,numerals-momb1254-1,Chan2019,nine,9,tóːwà,towa,NA,FALSE,9,NA,NA
+momb1254,numerals-momb1254-1-ten-1,numerals-momb1254-1,Chan2019,ten,10,pɛ́ːlù,pelu,NA,FALSE,10,NA,NA
+momb1254,numerals-momb1254-1-eleven-1,numerals-momb1254-1,Chan2019,eleven,11,pɛ́ːlú yɛ̀ː táːŋɡá súɡɔ́,peluyetanggasugo,NA,FALSE,10+1{LIG},NA,NA
+momb1254,numerals-momb1254-1-twelve-1,numerals-momb1254-1,Chan2019,twelve,12,pɛ́ːlú nɛ́ːŋɡá súɡɔ́,pelunenggasugo,NA,FALSE,10+2{LIG},NA,NA
+momb1254,numerals-momb1254-1-thirteen-1,numerals-momb1254-1,Chan2019,thirteen,13,pɛ́ːlú táːndì súɡɔ́,pelutandisugo,NA,FALSE,10+3{LIG},NA,NA
+momb1254,numerals-momb1254-1-fourteen-1,numerals-momb1254-1,Chan2019,fourteen,14,pɛ́ːlú kɛ́ːjɔ́ súɡɔ́,pelukejosugo,NA,FALSE,10+4{LIG},NA,NA
+momb1254,numerals-momb1254-1-fifteen-1,numerals-momb1254-1,Chan2019,fifteen,15,pɛ́ːlú núːmù súɡɔ́,pelunumusugo,NA,FALSE,10+5{LIG},NA,NA
+momb1254,numerals-momb1254-1-sixteen-1,numerals-momb1254-1,Chan2019,sixteen,16,pɛ́ːlú kúléyⁿ súɡɔ́,pelukuleynsugo,NA,FALSE,10+6{LIG},NA,NA
+momb1254,numerals-momb1254-1-seventeen-1,numerals-momb1254-1,Chan2019,seventeen,17,pɛ́ːlú sɔ́ːlì súɡɔ́,pelusolisugo,NA,FALSE,10+7{LIG},NA,NA
+momb1254,numerals-momb1254-1-eighteen-1,numerals-momb1254-1,Chan2019,eighteen,18,pɛ́ːlú séːlè súɡɔ́,peluselesugo,NA,FALSE,10+8{LIG},NA,NA
+momb1254,numerals-momb1254-1-nineteen-1,numerals-momb1254-1,Chan2019,nineteen,19,pɛ́rɛ́ tóːwà súɡɔ́,peretowasugo,NA,FALSE,10+9{LIG},NA,NA
+momb1254,numerals-momb1254-1-twenty-1,numerals-momb1254-1,Chan2019,twenty,20,pɛ́ːnɛ́ːŋɡá,penengga,NA,FALSE,10·2,NA,NA
+momb1254,numerals-momb1254-1-twentyone-1,numerals-momb1254-1,Chan2019,twentyone,21,pɛ́ːnɛ́ːŋɡá yɛ̀ː táːŋɡá súɡɔ́,penenggayetanggasugo,NA,FALSE,(10·2)+1{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentytwo-1,numerals-momb1254-1,Chan2019,twentytwo,22,pɛ́ːnɛ́ːŋɡá nɛ́ːŋɡá súɡɔ́,penengganenggasugo,NA,FALSE,(10·2)+2{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentythree-1,numerals-momb1254-1,Chan2019,twentythree,23,pɛ́ːnɛ́ːŋɡá táːndì súɡɔ́,penenggatandisugo,NA,FALSE,(10·2)+3{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentyfour-1,numerals-momb1254-1,Chan2019,twentyfour,24,pɛ́ːnɛ́ːŋɡá kɛ́ːjɔ́ súɡɔ́,penenggakejosugo,NA,FALSE,(10·2)+4{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentyfive-1,numerals-momb1254-1,Chan2019,twentyfive,25,pɛ́ːnɛ́ːŋɡá núːmù súɡɔ́,penengganumusugo,NA,FALSE,(10·2)+5{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentysix-1,numerals-momb1254-1,Chan2019,twentysix,26,pɛ́ːnɛ́ːŋɡá kúléyⁿ súɡɔ́,penenggakuleynsugo,NA,FALSE,(10·2)+6{LIG},NA,NA
+momb1254,numerals-momb1254-1-twentyseven-1,numerals-momb1254-1,Chan2019,twentyseven,27,pɛ́ːnɛ́ːŋɡá sɔ́ːlì súɡɔ́,penenggasolisugo,NA,FALSE,(10·2)+{LIG}7,NA,NA
+momb1254,numerals-momb1254-1-twentyeight-1,numerals-momb1254-1,Chan2019,twentyeight,28,pɛ́ːnɛ́ːŋɡá séːlè súɡɔ́,penenggaselesugo,NA,FALSE,(10·2)+{LIG}8,NA,NA
+momb1254,numerals-momb1254-1-twentynine-1,numerals-momb1254-1,Chan2019,twentynine,29,pɛ́ːnɛ́ːŋɡá tóːwà súɡɔ́,penenggatowasugo,NA,FALSE,(10·2)+{LIG}9,NA,NA
+momb1254,numerals-momb1254-1-thirty-1,numerals-momb1254-1,Chan2019,thirty,30,pɛ́ːtáːndì,petandi,NA,FALSE,10·3,NA,NA
+momb1254,numerals-momb1254-1-forty-1,numerals-momb1254-1,Chan2019,forty,40,dɛ̂ː,de,NA,FALSE,40,NA,NA
+momb1254,numerals-momb1254-1-fifty-1,numerals-momb1254-1,Chan2019,fifty,50,dɛ̀ː ndò pèːlú,dendopelu,NA,FALSE,40+{LIG'}10,NA,NA
+momb1254,numerals-momb1254-1-sixty-1,numerals-momb1254-1,Chan2019,sixty,60,pɛ́ːlú kúléyⁿ,pelukuleyn,NA,FALSE,10·6,NA,NA
+momb1254,numerals-momb1254-1-seventy-1,numerals-momb1254-1,Chan2019,seventy,70,síŋɡì pɛ́ːlú ólyâː,singgipeluolya,( 80 - 10 ? ),FALSE,80-10{LIG”},NA,NA
+momb1254,numerals-momb1254-1-eighty-1,numerals-momb1254-1,Chan2019,eighty,80,síŋɡì,singgi,NA,FALSE,80,NA,NA
+momb1254,numerals-momb1254-1-ninety-1,numerals-momb1254-1,Chan2019,ninety,90,síŋɡì ndò pɛ́ːlú,singgindopelu,( 80 + 10 ),FALSE,80+{LIG'}10,NA,NA
+momb1254,numerals-momb1254-1-hundred-1,numerals-momb1254-1,Chan2019,hundred,100,síŋɡì ndò pɛ̀ː-nɛ́ːŋɡá,singgindopenengga,( 80 + 20 ),FALSE,80+{LIG}(10·2),NA,NA
+momb1254,numerals-momb1254-1-twohundred-1,numerals-momb1254-1,Chan2019,twohundred,200,tɛ́mdɛ́rɛ́ nɛ́ŋɡá,temderenengga,NA,FALSE,100·2,NA,NA
+momb1254,numerals-momb1254-1-thousand-1,numerals-momb1254-1,Chan2019,thousand,1000,múnjù,munju,NA,FALSE,1000,NA,NA
+momb1254,numerals-momb1254-1-thousand-2,numerals-momb1254-1,Chan2019,thousand,1000,sìlá múnju,silamunju,NA,FALSE,1”·1000,NA,NA
+momb1254,numerals-momb1254-1-twothousand-1,numerals-momb1254-1,Chan2019,twothousand,2000,múnjù nɛ́ːŋɡà,munjunengga,NA,FALSE,1000·2,NA,NA
+nang1261,numerals-nang1261-1-one-1,numerals-nang1261-1,Chan2019,one,1,tùmâ,tuma,NA,FALSE,1,NA,NA
+nang1261,numerals-nang1261-1-two-1,numerals-nang1261-1,Chan2019,two,2,wǒj,woj,NA,FALSE,2,NA,NA
+nang1261,numerals-nang1261-1-three-1,numerals-nang1261-1,Chan2019,three,3,tàːndǐː,tandi,NA,FALSE,3,NA,NA
+nang1261,numerals-nang1261-1-four-1,numerals-nang1261-1,Chan2019,four,4,nɔ̌jⁿ,nojn,NA,FALSE,4,NA,NA
+nang1261,numerals-nang1261-1-five-1,numerals-nang1261-1,Chan2019,five,5,nìmǐː,nimi,NA,FALSE,5,NA,NA
+nang1261,numerals-nang1261-1-six-1,numerals-nang1261-1,Chan2019,six,6,kúrê,kure,NA,FALSE,6,NA,NA
+nang1261,numerals-nang1261-1-seven-1,numerals-nang1261-1,Chan2019,seven,7,sújɛ̂,suje,NA,FALSE,7,NA,NA
+nang1261,numerals-nang1261-1-eight-1,numerals-nang1261-1,Chan2019,eight,8,ɡáːrɛ̀,gare,NA,FALSE,8,NA,NA
+nang1261,numerals-nang1261-1-nine-1,numerals-nang1261-1,Chan2019,nine,9,tèːsǐː,tesi,NA,FALSE,9,NA,NA
+nang1261,numerals-nang1261-1-ten-1,numerals-nang1261-1,Chan2019,ten,10,pɛ́ːrú,peru,NA,FALSE,10,NA,NA
+nang1261,numerals-nang1261-1-eleven-1,numerals-nang1261-1,Chan2019,eleven,11,pɛ̂ːr tùmâ sáɡâ,pertumasaga,NA,FALSE,10+1{LIG},LIG=more than,NA
+nang1261,numerals-nang1261-1-twelve-1,numerals-nang1261-1,Chan2019,twelve,12,pɛ̂ːr wǒj sáɡâ,perwojsaga,NA,FALSE,10+2{LIG},NA,NA
+nang1261,numerals-nang1261-1-thirteen-1,numerals-nang1261-1,Chan2019,thirteen,13,pɛ̂ːr tàːndǐː sáɡâ,pertandisaga,NA,FALSE,10+3{LIG},NA,NA
+nang1261,numerals-nang1261-1-fourteen-1,numerals-nang1261-1,Chan2019,fourteen,14,pɛ̂ːr nɔ̌jⁿ sáɡâ,pernojnsaga,NA,FALSE,10+4{LIG},NA,NA
+nang1261,numerals-nang1261-1-fifteen-1,numerals-nang1261-1,Chan2019,fifteen,15,pɛ̂ːr nìmǐː sáɡâ,pernimisaga,NA,FALSE,10+5{LIG},NA,NA
+nang1261,numerals-nang1261-1-sixteen-1,numerals-nang1261-1,Chan2019,sixteen,16,pɛ̂ːr kúrê sáɡâ,perkuresaga,NA,FALSE,10+6{LIG},NA,NA
+nang1261,numerals-nang1261-1-seventeen-1,numerals-nang1261-1,Chan2019,seventeen,17,pɛ̂ːr sújɛ̂ sáɡâ,persujesaga,NA,FALSE,10+7{LIG},NA,NA
+nang1261,numerals-nang1261-1-eighteen-1,numerals-nang1261-1,Chan2019,eighteen,18,pɛ̂ːr ɡáːrɛ̀ sáɡâ,pergaresaga,NA,FALSE,10+8{LIG},NA,NA
+nang1261,numerals-nang1261-1-nineteen-1,numerals-nang1261-1,Chan2019,nineteen,19,pɛ̂ːr tèːsǐː sáɡâ,pertesisaga,NA,FALSE,10+9{LIG},NA,NA
+nang1261,numerals-nang1261-1-twenty-1,numerals-nang1261-1,Chan2019,twenty,20,pɛ̀rí jěj,perijej,NA,FALSE,10·2',NA,NA
+nang1261,numerals-nang1261-1-twentyone-1,numerals-nang1261-1,Chan2019,twentyone,21,pɛ̀rí jěj tùmâ sáɡâ,perijejtumasaga,??,FALSE,(10·2’)+1{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentytwo-1,numerals-nang1261-1,Chan2019,twentytwo,22,pɛ̀rí jěj wǒj sáɡâ,perijejwojsaga,NA,FALSE,(10·2’)+2{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentythree-1,numerals-nang1261-1,Chan2019,twentythree,23,pɛ̀rí jěj tàːndǐː sáɡâ,perijejtandisaga,NA,FALSE,(10·2’)+3{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentyfour-1,numerals-nang1261-1,Chan2019,twentyfour,24,pɛ̀rí jěj nɔ̌jⁿ sáɡâ,perijejnojnsaga,NA,FALSE,(10·2’)+4{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentyfive-1,numerals-nang1261-1,Chan2019,twentyfive,25,pɛ̀rí jěj nìmǐː sáɡâ,perijejnimisaga,NA,FALSE,(10·2’)+5{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentysix-1,numerals-nang1261-1,Chan2019,twentysix,26,pɛ̀rí jěj kúrê sáɡâ,perijejkuresaga,NA,FALSE,(10·2’)+6{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentyseven-1,numerals-nang1261-1,Chan2019,twentyseven,27,pɛ̀rí jěj sújɛ̂ sáɡâ,perijejsujesaga,NA,FALSE,(10·2’)+7{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentyeight-1,numerals-nang1261-1,Chan2019,twentyeight,28,pɛ̀rí jěj ɡáːrɛ̀ sáɡâ,perijejgaresaga,NA,FALSE,(10·2’)+8{LIG},NA,NA
+nang1261,numerals-nang1261-1-twentynine-1,numerals-nang1261-1,Chan2019,twentynine,29,pɛ̀rí jěj tèːsǐː sáɡâ,perijejtesisaga,NA,FALSE,(10·2’)+9{LIG},NA,NA
+nang1261,numerals-nang1261-1-thirty-1,numerals-nang1261-1,Chan2019,thirty,30,pɛ̌n tàːndǐː,pentandi,NA,FALSE,10·3,NA,NA
+nang1261,numerals-nang1261-1-forty-1,numerals-nang1261-1,Chan2019,forty,40,pɛ̌n nɔ̌jⁿ,pennojn,NA,FALSE,10·4,NA,NA
+nang1261,numerals-nang1261-1-fifty-1,numerals-nang1261-1,Chan2019,fifty,50,pɛ̌n nìmǐː,pennimi,NA,FALSE,10·5,NA,NA
+nang1261,numerals-nang1261-1-sixty-1,numerals-nang1261-1,Chan2019,sixty,60,pɛ̀r kúrê,perkure,NA,FALSE,10·6,NA,NA
+nang1261,numerals-nang1261-1-seventy-1,numerals-nang1261-1,Chan2019,seventy,70,pɛ̀r sújɛ̂,persuje,NA,FALSE,10·7,NA,NA
+nang1261,numerals-nang1261-1-eighty-1,numerals-nang1261-1,Chan2019,eighty,80,pɛ̀r ɡáːrɛ̀,pergare,NA,FALSE,10·8,NA,NA
+nang1261,numerals-nang1261-1-eighty-2,numerals-nang1261-1,Chan2019,eighty,80,dɔ̀ɡɔ̀ sěŋ,dogoseng,(archaic),FALSE,80,10·8,NA
+nang1261,numerals-nang1261-1-ninety-1,numerals-nang1261-1,Chan2019,ninety,90,pɛ̀r tèːsǐː,pertesi,NA,FALSE,10·9,NA,NA
+nang1261,numerals-nang1261-1-hundred-1,numerals-nang1261-1,Chan2019,hundred,100,tɛ́ːmɛ́dɛ́rɛ̀,temedere,NA,FALSE,100,NA,NA
+nang1261,numerals-nang1261-1-hundred-2,numerals-nang1261-1,Chan2019,hundred,100,tɛ́ːmdɛ́rɛ̀,temdere,( < Fulfulde ),TRUE,100,NA,NA
+nang1261,numerals-nang1261-1-twohundred-1,numerals-nang1261-1,Chan2019,twohundred,200,tɛ́ːmɛ́dɛ́rɛ̀ wǒj,temederewoj,??,FALSE,100·2,NA,NA
+nang1261,numerals-nang1261-1-thousand-1,numerals-nang1261-1,Chan2019,thousand,1000,mùsú,musu,NA,FALSE,1000,NA,NA
+nang1261,numerals-nang1261-1-twothousand-1,numerals-nang1261-1,Chan2019,twothousand,2000,mùsú wǒj,musuwoj,??,FALSE,1000·2,NA,NA
+toro1252,numerals-toro1252-1-one-1,numerals-toro1252-1,Chan2019,one,1,tíì,tii,(for counting),FALSE,1,NA,NA
+toro1252,numerals-toro1252-1-one-2,numerals-toro1252-1,Chan2019,one,1,túrú,turu,NA,FALSE,1’,NA,NA
+toro1252,numerals-toro1252-1-two-1,numerals-toro1252-1,Chan2019,two,2,lɛ́j,lej,NA,FALSE,2,NA,NA
+toro1252,numerals-toro1252-1-three-1,numerals-toro1252-1,Chan2019,three,3,tàánú,taanu,NA,FALSE,3,NA,NA
+toro1252,numerals-toro1252-1-four-1,numerals-toro1252-1,Chan2019,four,4,nàjí,naji,NA,FALSE,4,NA,NA
+toro1252,numerals-toro1252-1-five-1,numerals-toro1252-1,Chan2019,five,5,nùmɔ́r̃ɔ́,numoro,NA,FALSE,5,NA,NA
+toro1252,numerals-toro1252-1-six-1,numerals-toro1252-1,Chan2019,six,6,kúlòj,kuloj,NA,FALSE,6,NA,NA
+toro1252,numerals-toro1252-1-seven-1,numerals-toro1252-1,Chan2019,seven,7,sɔ́j,soj,NA,FALSE,7,NA,NA
+toro1252,numerals-toro1252-1-eight-1,numerals-toro1252-1,Chan2019,eight,8,ɡáárà,gaara,NA,FALSE,8,NA,NA
+toro1252,numerals-toro1252-1-nine-1,numerals-toro1252-1,Chan2019,nine,9,túwɔ́,tuwo,NA,FALSE,9,NA,NA
+toro1252,numerals-toro1252-1-ten-1,numerals-toro1252-1,Chan2019,ten,10,pɛ́rú,peru,NA,FALSE,10,NA,NA
+toro1252,numerals-toro1252-1-eleven-1,numerals-toro1252-1,Chan2019,eleven,11,pɛ́rú ɡúú tír sìɡɛ̀,peruguutirsige,NA,FALSE,10+{LIG?}1{LIG},NA,NA
+toro1252,numerals-toro1252-1-twelve-1,numerals-toro1252-1,Chan2019,twelve,12,pɛ́rú ɡúú léj̀ sìɡɛ̀,peruguulejsige,NA,FALSE,10+{LIG?}2{LIG},NA,NA
+toro1252,numerals-toro1252-1-thirteen-1,numerals-toro1252-1,Chan2019,thirteen,13,pɛ́rú ɡúú táánú sìɡɛ̀,peruguutaanusige,NA,FALSE,10+{LIG?}3{LIG},NA,NA
+toro1252,numerals-toro1252-1-fourteen-1,numerals-toro1252-1,Chan2019,fourteen,14,pɛ́rú ɡúú náj̀ sìɡɛ̀,peruguunajsige,NA,FALSE,10+{LIG?}4{LIG},NA,NA
+toro1252,numerals-toro1252-1-fifteen-1,numerals-toro1252-1,Chan2019,fifteen,15,pɛ́rú ɡúú nùmɔ́r̃ɔ́ sìɡɛ̀,peruguunumorosige,NA,FALSE,10+{LIG?}5{LIG},NA,NA
+toro1252,numerals-toro1252-1-sixteen-1,numerals-toro1252-1,Chan2019,sixteen,16,pɛ́rú ɡúú kúlój sìɡɛ̀,peruguukulojsige,NA,FALSE,10+{LIG?}6{LIG},NA,NA
+toro1252,numerals-toro1252-1-seventeen-1,numerals-toro1252-1,Chan2019,seventeen,17,pɛ́rú ɡúú sɔ́j̀ sìɡɛ̀,peruguusojsige,NA,FALSE,10+{LIG?}7{LIG},NA,NA
+toro1252,numerals-toro1252-1-eighteen-1,numerals-toro1252-1,Chan2019,eighteen,18,pɛ́rú ɡúú ɡáárà sìɡɛ̀,peruguugaarasige,NA,FALSE,10+{LIG?}8{LIG},NA,NA
+toro1252,numerals-toro1252-1-nineteen-1,numerals-toro1252-1,Chan2019,nineteen,19,pɛ́rú ɡúú túwɔ́ sìɡɛ̀,peruguutuwosige,NA,FALSE,10+{LIG?}9{LIG},NA,NA
+toro1252,numerals-toro1252-1-twenty-1,numerals-toro1252-1,Chan2019,twenty,20,pɛ́ léj̀,pelej,NA,FALSE,10·2,NA,NA
+toro1252,numerals-toro1252-1-twentyone-1,numerals-toro1252-1,Chan2019,twentyone,21,pɛ́ léj̀ túrú sìɡɛ̀,pelejturusige,NA,FALSE,(10·2)+1'{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentytwo-1,numerals-toro1252-1,Chan2019,twentytwo,22,pɛ́ léj̀ lɛ́j̀ sìɡɛ̀,pelejlejsige,NA,FALSE,(10·2)+2{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentythree-1,numerals-toro1252-1,Chan2019,twentythree,23,pɛ́ léj̀ tàánú sìɡɛ̀,pelejtaanusige,NA,FALSE,(10·2)+3{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentyfour-1,numerals-toro1252-1,Chan2019,twentyfour,24,pɛ́ léj̀ nàj̀ sìɡɛ̀,pelejnajsige,NA,FALSE,(10·2)+4{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentyfive-1,numerals-toro1252-1,Chan2019,twentyfive,25,pɛ́ léj̀ nùmɔ́r̃ɔ́ sìɡɛ̀,pelejnumorosige,NA,FALSE,(10·2)+5{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentysix-1,numerals-toro1252-1,Chan2019,twentysix,26,pɛ́ léj̀ kúlój sìɡɛ̀,pelejkulojsige,NA,FALSE,(10·2)+6{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentyseven-1,numerals-toro1252-1,Chan2019,twentyseven,27,pɛ́ léj̀ sɔ́j sìɡɛ̀,pelejsojsige,NA,FALSE,(10·2)+7{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentyeight-1,numerals-toro1252-1,Chan2019,twentyeight,28,pɛ́ léj̀ ɡáárà sìɡɛ̀,pelejgaarasige,NA,FALSE,(10·2)+8{LIG},NA,NA
+toro1252,numerals-toro1252-1-twentynine-1,numerals-toro1252-1,Chan2019,twentynine,29,pɛ́ léj̀ túwɔ́ sìɡɛ̀,pelejtuwosige,NA,FALSE,(10·2)+9{LIG},NA,NA
+toro1252,numerals-toro1252-1-thirty-1,numerals-toro1252-1,Chan2019,thirty,30,pɛ́ táánú,petaanu,NA,FALSE,10·3,NA,NA
+toro1252,numerals-toro1252-1-forty-1,numerals-toro1252-1,Chan2019,forty,40,pɛ́ náj̀,penaj,NA,FALSE,10·4,NA,NA
+toro1252,numerals-toro1252-1-fortyone-1,numerals-toro1252-1,Chan2019,fortyone,41,pɛ́ náj̀ tír sìɡɛ̀,penajtirsige,NA,FALSE,(10·4)+1{LIG},NA,NA
+toro1252,numerals-toro1252-1-fifty-1,numerals-toro1252-1,Chan2019,fifty,50,pɛ́ númɔ́r̃ɔ́,penumoro,NA,FALSE,10·5,NA,NA
+toro1252,numerals-toro1252-1-sixty-1,numerals-toro1252-1,Chan2019,sixty,60,pɛ́ kúlòj,pekuloj,NA,FALSE,10·6,NA,NA
+toro1252,numerals-toro1252-1-seventy-1,numerals-toro1252-1,Chan2019,seventy,70,pɛ́ sɔ́j̀,pesoj,NA,FALSE,10·7,NA,NA
+toro1252,numerals-toro1252-1-eighty-1,numerals-toro1252-1,Chan2019,eighty,80,dɔ̀ɡɔ̀ súŋú,dogosungu,NA,FALSE,10·8,NA,NA
+toro1252,numerals-toro1252-1-ninety-1,numerals-toro1252-1,Chan2019,ninety,90,dɔ̀ɡɔ̀ súŋú pɛ́rú,dogosunguperu,NA,FALSE,10·9,NA,NA
+toro1252,numerals-toro1252-1-hundred-1,numerals-toro1252-1,Chan2019,hundred,100,súŋú,sungu,NA,FALSE,100,NA,NA
+toro1252,numerals-toro1252-1-onehundredandone-1,numerals-toro1252-1,Chan2019,onehundredandone,101,súŋú túrú,sunguturu,NA,FALSE,100+1,NA,NA
+toro1252,numerals-toro1252-1-twohundred-1,numerals-toro1252-1,Chan2019,twohundred,200,súŋú léj̀,sungulej,NA,FALSE,100·2,NA,NA
+toro1252,numerals-toro1252-1-thousand-1,numerals-toro1252-1,Chan2019,thousand,1000,mùɲú,munu,NA,FALSE,1000,NA,NA
+toro1252,numerals-toro1252-1-twothousand-1,numerals-toro1252-1,Chan2019,twothousand,2000,mùɲú léj̀,munulej,NA,FALSE,1000·2,NA,NA
+toro1252,numerals-toro1252-1-twothousandandtwo-1,numerals-toro1252-1,Chan2019,twothousandandtwo,2002,mùɲú léj̀ támá léj̀,munulejtamalej,NA,FALSE,(1000·2)+{LIG”?}2,NA,NA
+toro1253,numerals-toro1253-1-one-1,numerals-toro1253-1,Chan2019,one,1,túrú,turu,NA,FALSE,1,NA,NA
+toro1253,numerals-toro1253-1-two-1,numerals-toro1253-1,Chan2019,two,2,lɛ̌y,ley,NA,FALSE,2,NA,NA
+toro1253,numerals-toro1253-1-three-1,numerals-toro1253-1,Chan2019,three,3,tǎːlí,tali,NA,FALSE,3,NA,NA
+toro1253,numerals-toro1253-1-four-1,numerals-toro1253-1,Chan2019,four,4,nǎyⁿ,nayn,NA,FALSE,4,NA,NA
+toro1253,numerals-toro1253-1-five-1,numerals-toro1253-1,Chan2019,five,5,nǔːyⁿ,nuyn,NA,FALSE,5,NA,NA
+toro1253,numerals-toro1253-1-six-1,numerals-toro1253-1,Chan2019,six,6,kúréy,kurey,NA,FALSE,6,NA,NA
+toro1253,numerals-toro1253-1-seven-1,numerals-toro1253-1,Chan2019,seven,7,sóyⁿ,soyn,NA,FALSE,7,NA,NA
+toro1253,numerals-toro1253-1-eight-1,numerals-toro1253-1,Chan2019,eight,8,ɡáːrà,gara,NA,FALSE,8,NA,NA
+toro1253,numerals-toro1253-1-nine-1,numerals-toro1253-1,Chan2019,nine,9,láːrà,lara,NA,FALSE,9,NA,NA
+toro1253,numerals-toro1253-1-ten-1,numerals-toro1253-1,Chan2019,ten,10,pɛ́ró,pero,NA,FALSE,10,NA,NA
+toro1253,numerals-toro1253-1-eleven-1,numerals-toro1253-1,Chan2019,eleven,11,pɛ́ːr-iː túrú,perituru,NA,FALSE,10+1,NA,NA
+toro1253,numerals-toro1253-1-twelve-1,numerals-toro1253-1,Chan2019,twelve,12,pɛ́ːr-iː lɛ̌y,periley,NA,FALSE,10+2,NA,NA
+toro1253,numerals-toro1253-1-thirteen-1,numerals-toro1253-1,Chan2019,thirteen,13,pɛ́ːr-iː tǎːli,peritali,NA,FALSE,10+3,NA,NA
+toro1253,numerals-toro1253-1-fourteen-1,numerals-toro1253-1,Chan2019,fourteen,14,pɛ́ːr-iː nǎyⁿ,perinayn,NA,FALSE,10+4,NA,NA
+toro1253,numerals-toro1253-1-fifteen-1,numerals-toro1253-1,Chan2019,fifteen,15,pɛ́ːr-iː nǔːyⁿ,perinuyn,NA,FALSE,10+5,NA,NA
+toro1253,numerals-toro1253-1-sixteen-1,numerals-toro1253-1,Chan2019,sixteen,16,pɛ́ːr-iː kúréy,perikurey,NA,FALSE,10+6,NA,NA
+toro1253,numerals-toro1253-1-seventeen-1,numerals-toro1253-1,Chan2019,seventeen,17,pɛ́ːr-iː sóyⁿ,perisoyn,NA,FALSE,10+7,NA,NA
+toro1253,numerals-toro1253-1-eighteen-1,numerals-toro1253-1,Chan2019,eighteen,18,pɛ́ːr-iː ɡáːrà,perigara,NA,FALSE,10+8,NA,NA
+toro1253,numerals-toro1253-1-nineteen-1,numerals-toro1253-1,Chan2019,nineteen,19,pɛ́ːr-iː láːrà,perilara,NA,FALSE,10+9,NA,NA
+toro1253,numerals-toro1253-1-twenty-1,numerals-toro1253-1,Chan2019,twenty,20,pé-lèy,peley,NA,FALSE,10·2,NA,NA
+toro1253,numerals-toro1253-1-twentyone-1,numerals-toro1253-1,Chan2019,twentyone,21,pé-lěy túrú,peleyturu,NA,FALSE,(10·2)+1,NA,NA
+toro1253,numerals-toro1253-1-twentytwo-1,numerals-toro1253-1,Chan2019,twentytwo,22,pé-lěy lɛ̌y,peleyley,NA,FALSE,(10·2)+2,NA,NA
+toro1253,numerals-toro1253-1-twentythree-1,numerals-toro1253-1,Chan2019,twentythree,23,pé-lěy tǎːli,peleytali,NA,FALSE,(10·2)+3,NA,NA
+toro1253,numerals-toro1253-1-twentyfour-1,numerals-toro1253-1,Chan2019,twentyfour,24,pé-lěy nǎyⁿ,peleynayn,NA,FALSE,(10·2)+4,NA,NA
+toro1253,numerals-toro1253-1-twentyfive-1,numerals-toro1253-1,Chan2019,twentyfive,25,pé-lěy nǔːyⁿ,peleynuyn,NA,FALSE,(10·2)+5,NA,NA
+toro1253,numerals-toro1253-1-twentysix-1,numerals-toro1253-1,Chan2019,twentysix,26,pé-lěy kúréy,peleykurey,NA,FALSE,(10·2)+6,NA,NA
+toro1253,numerals-toro1253-1-twentyseven-1,numerals-toro1253-1,Chan2019,twentyseven,27,pé-lěy sóyⁿ,peleysoyn,NA,FALSE,(10·2)+7,NA,NA
+toro1253,numerals-toro1253-1-twentyeight-1,numerals-toro1253-1,Chan2019,twentyeight,28,pé-lěy ɡáːrà,peleygara,NA,FALSE,(10·2)+8,NA,NA
+toro1253,numerals-toro1253-1-twentynine-1,numerals-toro1253-1,Chan2019,twentynine,29,pé-lěy láːrà,peleylara,NA,FALSE,(10·2)+9,NA,NA
+toro1253,numerals-toro1253-1-thirty-1,numerals-toro1253-1,Chan2019,thirty,30,pɛ́-tǎːli,petali,NA,FALSE,10·3,NA,NA
+toro1253,numerals-toro1253-1-forty-1,numerals-toro1253-1,Chan2019,forty,40,pɛ́-nǎyⁿ,penayn,NA,FALSE,10·4,NA,NA
+toro1253,numerals-toro1253-1-fifty-1,numerals-toro1253-1,Chan2019,fifty,50,pɛ́-nǔːyⁿ,penuyn,NA,FALSE,10·5,NA,NA
+toro1253,numerals-toro1253-1-sixty-1,numerals-toro1253-1,Chan2019,sixty,60,pɛ̀rú-kúréy,perukurey,NA,FALSE,10·6,NA,NA
+toro1253,numerals-toro1253-1-seventy-1,numerals-toro1253-1,Chan2019,seventy,70,pɛ̀rú-sóyⁿ,perusoyn,NA,FALSE,10·7,NA,NA
+toro1253,numerals-toro1253-1-eighty-1,numerals-toro1253-1,Chan2019,eighty,80,pɛ̀r-ɡáːrà,pergara,NA,FALSE,10·8,NA,NA
+toro1253,numerals-toro1253-1-eighty-2,numerals-toro1253-1,Chan2019,eighty,80,dɔ̀ɣɔ̀-sǔŋ,dogosung,NA,FALSE,80{?},10’·8 - borrowed,NA
+toro1253,numerals-toro1253-1-ninety-1,numerals-toro1253-1,Chan2019,ninety,90,pɛ̀r-láːrà,perlara,NA,FALSE,10·9,NA,NA
+toro1253,numerals-toro1253-1-hundred-1,numerals-toro1253-1,Chan2019,hundred,100,zàŋú túrú,zanguturu,NA,FALSE,100·1,NA,NA
+toro1253,numerals-toro1253-1-twohundred-1,numerals-toro1253-1,Chan2019,twohundred,200,zàŋu lɛ̌y,zanguley,NA,FALSE,100·2,NA,NA
+toro1253,numerals-toro1253-1-thousand-1,numerals-toro1253-1,Chan2019,thousand,1000,zɛ́mbɛ̀rɛ̀ túrú,zembereturu,NA,FALSE,1000·1,NA,NA
+toro1253,numerals-toro1253-1-twothousand-1,numerals-toro1253-1,Chan2019,twothousand,2000,mùɲú lɛ̌y,munuley,NA,FALSE,1000·2,NA,NA
+yand1257,numerals-yand1257-1-one-1,numerals-yand1257-1,Chan2019,one,1,tùmá:,tuma,NA,FALSE,1,NA,NA
+yand1257,numerals-yand1257-1-two-1,numerals-yand1257-1,Chan2019,two,2,nɔ́ː,no,NA,FALSE,2,NA,NA
+yand1257,numerals-yand1257-1-two-2,numerals-yand1257-1,Chan2019,two,2,nó,no,NA,FALSE,2,NA,NA
+yand1257,numerals-yand1257-1-three-1,numerals-yand1257-1,Chan2019,three,3,táːndù,tandu,NA,FALSE,3,NA,NA
+yand1257,numerals-yand1257-1-four-1,numerals-yand1257-1,Chan2019,four,4,cɛ́zɔ̀,cezo,NA,FALSE,4,NA,NA
+yand1257,numerals-yand1257-1-five-1,numerals-yand1257-1,Chan2019,five,5,nûm,num,NA,FALSE,5,NA,NA
+yand1257,numerals-yand1257-1-six-1,numerals-yand1257-1,Chan2019,six,6,kúlé,kule,NA,FALSE,6,NA,NA
+yand1257,numerals-yand1257-1-seven-1,numerals-yand1257-1,Chan2019,seven,7,swɛ́ː,swe,NA,FALSE,7,NA,NA
+yand1257,numerals-yand1257-1-eight-1,numerals-yand1257-1,Chan2019,eight,8,sáːɡè,sage,NA,FALSE,8,NA,NA
+yand1257,numerals-yand1257-1-nine-1,numerals-yand1257-1,Chan2019,nine,9,twâː,twa,NA,FALSE,9,NA,NA
+yand1257,numerals-yand1257-1-ten-1,numerals-yand1257-1,Chan2019,ten,10,píyél,piyel,NA,FALSE,10,NA,NA
+yand1257,numerals-yand1257-1-eleven-1,numerals-yand1257-1,Chan2019,eleven,11,píyél tùmá:-sì,piyeltumasi,NA,FALSE,10+1{LIG},"LIG=more than, more",NA
+yand1257,numerals-yand1257-1-twelve-1,numerals-yand1257-1,Chan2019,twelve,12,píyél nɔ́ː-sì,piyelnosi,NA,FALSE,10+2{LIG},NA,NA
+yand1257,numerals-yand1257-1-thirteen-1,numerals-yand1257-1,Chan2019,thirteen,13,píyél táːndù-sì,piyeltandusi,NA,FALSE,10+3{LIG},NA,NA
+yand1257,numerals-yand1257-1-fourteen-1,numerals-yand1257-1,Chan2019,fourteen,14,píyél cɛ́zɔ̀-sì,piyelcezosi,NA,FALSE,10+4{LIG},NA,NA
+yand1257,numerals-yand1257-1-fifteen-1,numerals-yand1257-1,Chan2019,fifteen,15,píyé-m̀-sì,piyemsi,< píyél nùm-sì,FALSE,10+5{LIG},NA,NA
+yand1257,numerals-yand1257-1-sixteen-1,numerals-yand1257-1,Chan2019,sixteen,16,píyél kúlé-sì,piyelkulesi,NA,FALSE,10+6{LIG},NA,NA
+yand1257,numerals-yand1257-1-seventeen-1,numerals-yand1257-1,Chan2019,seventeen,17,píyél swɛ́ː-sì,piyelswesi,NA,FALSE,10+7{LIG},NA,NA
+yand1257,numerals-yand1257-1-eighteen-1,numerals-yand1257-1,Chan2019,eighteen,18,píyél sáːɡè-sì,piyelsagesi,NA,FALSE,10+8{LIG},NA,NA
+yand1257,numerals-yand1257-1-nineteen-1,numerals-yand1257-1,Chan2019,nineteen,19,píyél twâː-sì,piyeltwasi,NA,FALSE,10+9{LIG},NA,NA
+yand1257,numerals-yand1257-1-twenty-1,numerals-yand1257-1,Chan2019,twenty,20,pɔ̀ː-nɔ́ː,pono,NA,FALSE,10'·2,NA,NA
+yand1257,numerals-yand1257-1-twenty-2,numerals-yand1257-1,Chan2019,twenty,20,pɔ̀ːnóː,pono,NA,FALSE,10'·2,NA,NA
+yand1257,numerals-yand1257-1-twentyone-1,numerals-yand1257-1,Chan2019,twentyone,21,pɔ̀ː-nóː tùmá: -sîː,ponotumasi,??,FALSE,(10’·2)+1{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentytwo-1,numerals-yand1257-1,Chan2019,twentytwo,22,pɔ̀ː-nóː nɔ́ː -sîː,pononosi,NA,FALSE,(10’·2)+2{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentythree-1,numerals-yand1257-1,Chan2019,twentythree,23,pɔ̀ː-nóː táːndù -sîː,ponotandusi,NA,FALSE,(10’·2)+3{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentyfour-1,numerals-yand1257-1,Chan2019,twentyfour,24,pɔ̀ː-nóː cɛ́zɔ̀ -sîː,ponocezosi,NA,FALSE,(10’·2)+4{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentyfive-1,numerals-yand1257-1,Chan2019,twentyfive,25,pɔ̀ː-nóː nûm -sîː,pononumsi,NA,FALSE,(10’·2)+5{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentysix-1,numerals-yand1257-1,Chan2019,twentysix,26,pɔ̀ː-nóː kúlé -sîː,ponokulesi,NA,FALSE,(10’·2)+6{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentyseven-1,numerals-yand1257-1,Chan2019,twentyseven,27,pɔ̀ː-nóː swɛ́ː-sîː,ponoswesi,NA,FALSE,(10’·2)+7{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentyeight-1,numerals-yand1257-1,Chan2019,twentyeight,28,pɔ̀ː-nóː sáːɡè -sîː,ponosagesi,NA,FALSE,(10’·2)+8{LIG},NA,NA
+yand1257,numerals-yand1257-1-twentynine-1,numerals-yand1257-1,Chan2019,twentynine,29,pɔ̀ː-nóː twàː -sîː,ponotwasi,NA,FALSE,(10’·2)+9{LIG},NA,NA
+yand1257,numerals-yand1257-1-thirty-1,numerals-yand1257-1,Chan2019,thirty,30,pɔ̀ː-táːndù,potandu,NA,FALSE,10'·3,NA,NA
+yand1257,numerals-yand1257-1-forty-1,numerals-yand1257-1,Chan2019,forty,40,pɔ̀ː-cɛ́zɔ̀,pocezo,NA,FALSE,10’·4,NA,NA
+yand1257,numerals-yand1257-1-fifty-1,numerals-yand1257-1,Chan2019,fifty,50,pɔ̀ː-nûm,ponum,NA,FALSE,10’·5,NA,NA
+yand1257,numerals-yand1257-1-sixty-1,numerals-yand1257-1,Chan2019,sixty,60,pɔ̀lɔ̀-kúlé,polokule,NA,FALSE,10'·6,NA,NA
+yand1257,numerals-yand1257-1-seventy-1,numerals-yand1257-1,Chan2019,seventy,70,pɔ̀lɔ̀-swɛ́ː,poloswe,NA,FALSE,10'·7,NA,NA
+yand1257,numerals-yand1257-1-eighty-1,numerals-yand1257-1,Chan2019,eighty,80,pɔ̀lɔ̀-sáːɡè,polosage,NA,FALSE,10’·8,NA,NA
+yand1257,numerals-yand1257-1-eighty-2,numerals-yand1257-1,Chan2019,eighty,80,sìŋ,sing,NA,FALSE,80,NA,NA
+yand1257,numerals-yand1257-1-ninety-1,numerals-yand1257-1,Chan2019,ninety,90,pɔ̀lɔ̀-twâː,polotwa,NA,FALSE,10’·9,NA,NA
+yand1257,numerals-yand1257-1-ninety-2,numerals-yand1257-1,Chan2019,ninety,90,sìŋ mí yè-píyél,singmiyepiyel,NA,FALSE,80+{LIG’}10,NA,NA
+yand1257,numerals-yand1257-1-hundred-1,numerals-yand1257-1,Chan2019,hundred,100,tɛ́ːmɛ̀dɛ̀rɛ̀,temedere,( < Fulfulde ),TRUE,100,NA,NA
+yand1257,numerals-yand1257-1-twohundred-1,numerals-yand1257-1,Chan2019,twohundred,200,tɛ́ːmɛ̀dɛ̀rɛ̀ nɔ́ː,temedereno,??,FALSE,100·2,NA,NA
+yand1257,numerals-yand1257-1-thousand-1,numerals-yand1257-1,Chan2019,thousand,1000,mùzò,muzo,NA,FALSE,1000,NA,NA
+yand1257,numerals-yand1257-1-twothousand-1,numerals-yand1257-1,Chan2019,twothousand,2000,mùzò nɔ́ː,muzono,??,FALSE,1000·2,NA,NA
