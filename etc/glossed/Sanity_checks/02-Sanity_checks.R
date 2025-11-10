@@ -117,6 +117,10 @@ all.data %>%
 all.data %>%
   mutate(Gloss = str_remove_all(Gloss," ")) -> all.data
 
+all.data %>%
+  mutate(Gloss = str_replace_all(Gloss, intToUtf8(160), "")) -> all.data
+
+
 
 #03 ? without comment
 all.data %>%
@@ -458,3 +462,4 @@ all.data.checked %>%
 
   
 write.csv(all.data.checked,"all.data.checked.csv")
+

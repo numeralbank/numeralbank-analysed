@@ -475,14 +475,88 @@ colnames(all.data)
 # length(myfiles)
 
 ##############
-read_csv_auto <- function(file) {
-  first_line <- readLines(file, n = 1)
-  if (grepl(";", first_line)) {
-    read.csv(file, sep = ";", stringsAsFactors = FALSE, row.names = NULL, quote = "")
-  } else {
-    read.csv(file, sep = ",", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+# read_csv_auto <- function(file) {
+#   first_line <- readLines(file, n = 1)
+#   if (grepl(";", first_line)) {
+#     read.csv(file, sep = ";", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+#   } else {
+#     read.csv(file, sep = ",", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+#   }
+# }
+
+
+####
+# deps
+library(readr)
+library(dplyr)
+library(stringr)
+
+# One-function, lapply-ready reader
+read_csv_auto <- function(path, expected_cols = NULL, drop_rownum_col = TRUE) {
+  # internal: detect delimiter from first non-empty line
+  detect_delim <- function(p) {
+    line <- read_lines(p, n_max = 1, lazy = FALSE)
+    if (!length(line)) return(",")
+    counts <- c(
+      comma     = str_count(line, ","),
+      semicolon = str_count(line, ";"),
+      tab       = str_count(line, "\t")
+    )
+    # pick the delimiter with the highest count
+    delim_name <- names(counts)[which.max(counts)]
+    switch(delim_name, comma = ",", semicolon = ";", tab = "\t", ",")
   }
+  
+  delim <- detect_delim(path)
+  
+  df <- read_delim(
+    file = path,
+    delim = delim,
+    quote = "\"",            # keep quoting ON (prevents column mixing)
+    escape_double = TRUE,
+    trim_ws = TRUE,
+    col_names = TRUE,
+    show_col_types = FALSE,
+    guess_max = 10000,
+    locale = locale(encoding = "UTF-8")  # handles BOM/UTF-8
+  )
+  
+  # normalize header: remove BOM, trim spaces
+  names(df) <- names(df) |>
+    str_replace("^\\ufeff", "") |>
+    str_trim()
+  
+  # optionally drop accidental row-number column
+  if (drop_rownum_col && ncol(df) > 0) {
+    first_name <- names(df)[1]
+    looks_like_rownum_col <-
+      first_name %in% c("...1", "X", "X1", "row.names", "ï..", "") ||
+      (is.numeric(df[[1]]) &&
+         identical(suppressWarnings(as.integer(df[[1]])), seq_len(nrow(df))))
+    if (looks_like_rownum_col) df <- df[, -1, drop = FALSE]
+  }
+  
+  # optionally enforce a canonical set & order of columns
+  if (!is.null(expected_cols)) {
+    # add missing columns as NA
+    missing <- setdiff(expected_cols, names(df))
+    for (m in missing) df[[m]] <- NA
+    # keep only expected columns and order them
+    df <- dplyr::select(df, dplyr::all_of(expected_cols))
+  }
+  
+  df
 }
+
+# --- usage ---
+# myfiles.I <- lapply(temp.I, read_csv_auto)
+# If you want to bind them all together and keep the source file:
+# names(myfiles.I) <- temp.I
+# all_data <- dplyr::bind_rows(myfiles.I, .id = "source_file")
+
+  
+
+####
 
 # setwd("./Enock/all_new/")
 setwd("./Enock")
@@ -493,13 +567,15 @@ temp.I = list.files( pattern="\\.csv$")
 myfiles.I = lapply(temp.I, read_csv_auto)
 names(myfiles.I) <- temp.I
 
-# myfiles.I = lapply(temp.I, read.csv2,quote = "", 
-#                    row.names = NULL, 
+# myfiles.I = lapply(temp.I, read.csv2,quote = "",
+#                    row.names = NULL,
 #                    stringsAsFactors = FALSE)
 
 length(myfiles.I)
-#934 files
+#803 files
 setwd("..")
+
+
 #setwd("..")
 
 setwd("./Enock")
@@ -531,26 +607,33 @@ table(all.ncols$V1)
 # 
 # 8   9  12  13  14 
 # 114   1 504 125   1 
+# newer
+#  1   8  12  13 
+# 249  36 428  90 
+
+# newest
+#  8   9  12  13 
+# 149  1 648  5 
+
+# 
+# myfiles.II %>%
+#   lapply(ncol) %>% 
+#   cbind.data.frame() %>%  
+#   t() -> all.ncols
+# 
+# table(all.ncols)
+# # all.ncols
+# # 13 
+# # 2
+# myfiles.II <- purrr::map(myfiles.II, as.data.frame)
 
 
-myfiles.II %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() -> all.ncols
-
-table(all.ncols)
-# all.ncols
-# 13 
-# 2
-myfiles.II <- purrr::map(myfiles.II, as.data.frame)
 
 
 
+#files <- c(myfiles.I, myfiles.II)
+files <- myfiles.I
 
-
-files <- c(myfiles.I, myfiles.II)
-
-#936 files
 
 #check column names
 
@@ -619,17 +702,21 @@ files_char <- purrr::map(clean_files, ~ mutate(.x, across(everything(), as.chara
 
 merged <- dplyr::bind_rows(files_char, .id = "source")
 
+# files[["numerals-soni1259-1.csv"]] %>% View()
+# files[["abar1238.csv"]] %>% View()
 
 
 colnames(all.data)
 colnames(merged)
+#table(merged$row.names)
 
 #extra columns
 colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
 
 ncol(merged)
 #35 columns
-
+#25 columns
+#19 columns
 
 #fix initial "X." and final "."
 
@@ -650,6 +737,8 @@ colnames(all.data)
 colnames(merged)
 ncol(merged)
 #reduced from 36 to 21 columns. Still 8 too much (there are 13 including Glosser)
+#reduced from 25 to 24 columns. Still 8 too much (there are 13 including Glosser)
+#no reduction
 
 #extra columns
 colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
@@ -666,7 +755,7 @@ tmp %>%
 
 ## row.names, X, ...1: superflouous columns
 tmp %>%
-  dplyr::select(-c(X,...1)) -> tmp
+  dplyr::select(-c(...13, ...7)) -> tmp
 # dplyr::select(-c(row.names,X,...1)) -> tmp
 
 
@@ -745,7 +834,7 @@ temp.data %>%
   filter(n()>1) -> duplicates.enock
 
 
-#737 duplications
+#NO duplications
 write.csv(duplicates.enock,"duplicates.enock.csv")
 
 
@@ -767,7 +856,7 @@ temp.data %>%
 #all Language_ID's present
 -sort(-table(temp.data$Language_ID, useNA = "ifany"))
 sum(is.na(temp.data$Language_ID))
-#381 cases of Language_ID = NA
+#0 cases of Language_ID = NA
 temp.data %>%
   filter(is.na(temp.data$Language_ID))
 sum(temp.data$Language_ID=="") -> Language_ID.na
@@ -829,6 +918,7 @@ all.data %>%
   filter(!(Language_ID == "numerals-gaww1239-1" & Glosser == "EAT")) %>%
   filter(!(Language_ID == "numerals-kale1246-1" & Glosser == "EAT")) %>%
   filter(!(Language_ID == "numerals-mang1394-1" & Glosser == "EAT")) %>%
+  filter(!(Language_ID == "numerals-toro1253-1" & Glosser == "EAT")) %>%
   filter(!(Language_ID == "numerals-nobi1240-1" & Glosser == "EAT"))-> all.data
 
 

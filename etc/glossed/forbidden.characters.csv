@@ -1,3 +1,18 @@
 ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss,Glosser,Gloss.clean,Gloss.math
-numerals-duun1242-1-twenty-2,numerals-duun1242-1,Chan2019,twenty,20,fɛ̃ː,fe,,FALSE,20′=c>f;eu>e,NA,NA,EAT,20′=c>f;eu>e,20=c>f;eu>e
-mand1423-1-6-2,mand1423-1,NA,6,NA,sita,sita,NA,NA,arabicloan,NA,6,EAT,arabicloan,arabicloan
+mbun1249-1-21-1,mbun1249-1,NA,21,NA,makumi avali na cimo,makumi avali na cimo,NA,NA,(10⋅ 2)+1,NA,NA,EAT,(10⋅ 2)+1,(10⋅ 2)+1
+mbun1249-1-22-1,mbun1249-1,NA,22,NA,makumi avali na vivali,makumi avali na vivali,NA,NA,(10⋅ 2)+2,NA,NA,EAT,(10⋅ 2)+2,(10⋅ 2)+2
+mbun1249-1-23-1,mbun1249-1,NA,23,NA,makumi avali na vitatu,makumi avali na vitatu,NA,NA,(10⋅ 2)+3,NA,NA,EAT,(10⋅ 2)+3,(10⋅ 2)+3
+mbun1249-1-24-1,mbun1249-1,NA,24,NA,makumi avali na viwana,makumi avali na viwana,NA,NA,(10⋅ 2)+4,NA,NA,EAT,(10⋅ 2)+4,(10⋅ 2)+4
+mbun1249-1-25-1,mbun1249-1,NA,25,NA,makumi avali na vitanu,makumi avali na vitanu,NA,NA,(10⋅ 2)+5,NA,NA,EAT,(10⋅ 2)+5,(10⋅ 2)+5
+mbun1249-1-26-1,mbun1249-1,NA,26,NA,makumi avali na vitanu na cimo,makumi avali na vitanu na cimo,NA,NA,(10⋅ 2)+(5+1),NA,NA,EAT,(10⋅ 2)+(5+1),(10⋅ 2)+(5+1)
+mbun1249-1-27-1,mbun1249-1,NA,27,NA,makumi avali na vitanu na vivali,makumi avali na vitanu na vivali,NA,NA,(10⋅ 2)+(5+2),NA,NA,EAT,(10⋅ 2)+(5+2),(10⋅ 2)+(5+2)
+mbun1249-1-28-1,mbun1249-1,NA,28,NA,makumi avali na vitanu na vitatu,makumi avali na vitanu na vitatu,NA,NA,(10⋅ 2)+(5+3),NA,NA,EAT,(10⋅ 2)+(5+3),(10⋅ 2)+(5+3)
+mbun1249-1-29-1,mbun1249-1,NA,29,NA,makumi avali na vitanu na viwana,makumi avali na vitanu na viwana,NA,NA,(10⋅ 2)+(5+4),NA,NA,EAT,(10⋅ 2)+(5+4),(10⋅ 2)+(5+4)
+mbun1249-1-30-1,mbun1249-1,NA,30,NA,makumi atatu,makumi atatu,NA,NA,10⋅ 3,NA,NA,EAT,10⋅ 3,10⋅ 3
+mbun1249-1-40-1,mbun1249-1,NA,40,NA,makumi awana,makumi awana,NA,NA,10⋅ 4,NA,NA,EAT,10⋅ 4,10⋅ 4
+mbun1249-1-50-1,mbun1249-1,NA,50,NA,makumi atanu,makumi atanu,NA,NA,10⋅ 5,NA,NA,EAT,10⋅ 5,10⋅ 5
+mbun1249-1-60-1,mbun1249-1,NA,60,NA,makumi atanu na limo,makumi atanu na limo,NA,NA,10⋅ (5+ 1),NA,NA,EAT,10⋅ (5+ 1),10⋅ (5+ 1)
+mbun1249-1-70-1,mbun1249-1,NA,70,NA,makumi atanu na avali,makumi atanu na avali,NA,NA,10⋅ (5+ 2),NA,NA,EAT,10⋅ (5+ 2),10⋅ (5+ 2)
+mbun1249-1-80-1,mbun1249-1,NA,80,NA,makumi atanu na atatu,makumi atanu na atatu,NA,NA,10⋅ (5+ 3),NA,NA,EAT,10⋅ (5+ 3),10⋅ (5+ 3)
+mbun1249-1-90-1,mbun1249-1,NA,90,NA,makumi atanu na awana,makumi atanu na awana,NA,NA,10⋅ (5+4),NA,NA,EAT,10⋅ (5+4),10⋅ (5+4)
+mbun1249-1-2000-1,mbun1249-1,NA,2000,NA,kulukazi avali,kulukazi avali,NA,NA,1000⋅ 2,NA,NA,EAT,1000⋅ 2,1000⋅ 2
