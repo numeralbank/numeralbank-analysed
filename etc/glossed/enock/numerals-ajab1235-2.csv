@@ -51,6 +51,6 @@
 50,numerals-ajab1235-1-ninety-1,numerals-ajab1235-1,Chan2019,ninety,90,(e)kavèɦowó,ekavehowo,(40x2+10),FALSE,({CL}40·2)+10’,,
 51,numerals-ajab1235-1-hundred-1,numerals-ajab1235-1,Chan2019,hundred,100,(e)kavèɦowi,ekavehowi,(40x2+20),FALSE,({CL}40·2)+20’,,
 52,numerals-ajab1235-1-twohundred-1,numerals-ajab1235-1,Chan2019,twohundred,200,(e) káatɔ̃̀,ekaato,(5x40),FALSE,{CL}40·5,,
-53,numerals-ajab1235-1-thousand-1,numerals-ajab1235-1,Chan2019,thousand,1000,kawivɔ̃̀ atɔ̃́,kawivoato,,FALSE,(({CL}40·2)+20)·5,,
+53,numerals-ajab1235-1-thousand-1,numerals-ajab1235-1,Chan2019,thousand,1000,kawivɔ̃̀ atɔ̃́,kawivoato,,FALSE,40·10·5,"not very confident about this as the form appears to have '40, 10, 2, and 5'. thousand in Ajab, like other Gbe languages, is usually kotoku",
 54,numerals-ajab1235-1-thousand-2,numerals-ajab1235-1,Chan2019,thousand,1000,kotokũɖeka,kotokudeka,,FALSE,1000·1,,
 55,numerals-ajab1235-1-twothousand-1,numerals-ajab1235-1,Chan2019,twothousand,2000,kotokũve,kotokuve,,FALSE,1000·2,,
