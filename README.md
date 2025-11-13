@@ -37,9 +37,9 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 8,797 (linked to 5,170 different Glottocodes)
+- **Varieties:** 9,119 (linked to 5,175 different Glottocodes)
 - **Concepts:** 162 (linked to 162 different Concepticon concept sets)
-- **Lexemes:** 260,718
+- **Lexemes:** 265,344
 - **Sources:** 5
 - **Synonymy:** 1.08
 
