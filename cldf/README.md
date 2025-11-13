@@ -13,8 +13,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numerals.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/61fcd6ac">numeralbank/numeralbank-analysed v0.8.1-706-g61fcd6ac</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2.1">Glottolog v5.2.1</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/v1.0">numeralbank/sand v1.0</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/a3e60bc">numeralbank/bowernnumerals v0.8-1-ga3e60bc</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/1255eba">numeralbank/barlowpacific v1.7-85-g1255eba</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.7</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/809c64ab">numeralbank/numeralbank-analysed v0.9-121-g809c64ab</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2.1">Glottolog v5.2.1</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/a3e60bc">numeralbank/bowernnumerals v0.8-1-ga3e60bc</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/v1.8">numeralbank/barlowpacific v1.8</a></li><li><a href="https://github.com/numeralbank/sand/tree/v1.0">numeralbank/sand v1.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -24,7 +24,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 260718
+[dc:extent](http://purl.org/dc/terms/extent) | 265344
 
 
 ### Columns
@@ -55,7 +55,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 8799
+[dc:extent](http://purl.org/dc/terms/extent) | 9121
 
 
 ### Columns
