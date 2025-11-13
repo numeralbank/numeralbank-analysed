@@ -48,6 +48,7 @@ class CustomLexeme(Lexeme):
 
 @attr.s
 class CustomLanguage(Language):
+    Dataset = attr.ib(default=None)
     BaseAnnotation = attr.ib(default=None)
     BaseAnnotator = attr.ib(default=None)
     BaseComment = attr.ib(default=None)
@@ -376,6 +377,7 @@ class Dataset(BaseDataset):
             args.writer.add_language(
                 ID=language.id,
                 Name=language.name,
+                Dataset=language.dataset,
                 Glottocode=language.glottocode,
                 Latitude=language.latitude,
                 Longitude=language.longitude,
