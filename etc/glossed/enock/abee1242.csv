@@ -1,41 +1,41 @@
-ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
-numerals-abee1242-1-one-1;numerals-abee1242-1;Chan2019;one;1;ŋ̀k͡pɔ̄;ngkpo;;FALSE;1;;
-numerals-abee1242-1-two-1;numerals-abee1242-1;Chan2019;two;2;āɲʊ̃́;anu;;FALSE;2;;
-numerals-abee1242-1-three-1;numerals-abee1242-1;Chan2019;three;3;āɾí;ari;;FALSE;3;;
-numerals-abee1242-1-four-1;numerals-abee1242-1;Chan2019;four;4;àlɛ́;ale;;FALSE;4;;
-numerals-abee1242-1-five-1;numerals-abee1242-1;Chan2019;five;5;ōní;oni;;FALSE;5;;
-numerals-abee1242-1-six-1;numerals-abee1242-1;Chan2019;six;6;lɔ̀hɔ̃̀;loho;;FALSE;6;5+1;
-numerals-abee1242-1-seven-1;numerals-abee1242-1;Chan2019;seven;7;lɔ̀hʍ̃ã̄ɾí;lohwari;;FALSE;7;CHECK: 5+2;
-numerals-abee1242-1-eight-1;numerals-abee1242-1;Chan2019;eight;8;èpʲè;epje;;FALSE;8;;
-numerals-abee1242-1-nine-1;numerals-abee1242-1;Chan2019;nine;9;ɲāàkó;naako;;FALSE;9;;
-numerals-abee1242-1-ten-1;numerals-abee1242-1;Chan2019;ten;10;ǹnɛ̀;nne;;FALSE;10;;
-numerals-abee1242-1-eleven-1;numerals-abee1242-1;Chan2019;eleven;11;ǹnɛ̀ŋ̀k͡pɔ̄;nnengkpo;;FALSE;10+1;;
-numerals-abee1242-1-twelve-1;numerals-abee1242-1;Chan2019;twelve;12;ǹnàɲʊ̃́;nnanu;;FALSE;10+2;;
-numerals-abee1242-1-thirteen-1;numerals-abee1242-1;Chan2019;thirteen;13;ǹnàɾí;nnari;;FALSE;10+3;;
-numerals-abee1242-1-fourteen-1;numerals-abee1242-1;Chan2019;fourteen;14;ǹnàlɛ́;nnale;;FALSE;10+4;;
-numerals-abee1242-1-fifteen-1;numerals-abee1242-1;Chan2019;fifteen;15;ǹnòní;nnoni;;FALSE;10+5;;
-numerals-abee1242-1-sixteen-1;numerals-abee1242-1;Chan2019;sixteen;16;ǹnɛ̀lɔ̀hɔ̃̀;nneloho;;FALSE;10+6;;
-numerals-abee1242-1-seventeen-1;numerals-abee1242-1;Chan2019;seventeen;17;ǹnɛ̀lɔ̀hʍ̃ã̄ɾí;nnelohwari;;FALSE;10+7;;
-numerals-abee1242-1-eighteen-1;numerals-abee1242-1;Chan2019;eighteen;18;ǹnèpʲè;nnepje;;FALSE;10+8;;
-numerals-abee1242-1-nineteen-1;numerals-abee1242-1;Chan2019;nineteen;19;ǹɲāàkó;nnaako;;FALSE;10+9;;
-numerals-abee1242-1-twenty-1;numerals-abee1242-1;Chan2019;twenty;20;òbɾāɲʊ̃̀;obranu;;FALSE;10·2;;
-numerals-abee1242-1-twentyone-1;numerals-abee1242-1;Chan2019;twentyone;21;òbɾāɲʊ̃̀ édʒì ŋ̀k͡pɔ̄;obranuedzingkpo;;FALSE;(10·2)+{LIG}1;;
-numerals-abee1242-1-twentytwo-1;numerals-abee1242-1;Chan2019;twentytwo;22;òbɾāɲʊ̃̀ édʒì āɲʊ̃́;obranuedzianu;;FALSE;(10·2)+{LIG}2;;
-numerals-abee1242-1-twentythree-1;numerals-abee1242-1;Chan2019;twentythree;23;òbɾāɲʊ̃̀ édʒì āɾí;obranuedziari;;FALSE;(10·2)+{LIG}3;;
-numerals-abee1242-1-twentyfour-1;numerals-abee1242-1;Chan2019;twentyfour;24;òbɾāɲʊ̃̀ édʒì àlɛ́;obranuedziale;;FALSE;(10·2)+{LIG}4;;
-numerals-abee1242-1-twentyfive-1;numerals-abee1242-1;Chan2019;twentyfive;25;òbɾāɲʊ̃̀ édʒì ōní;obranuedzioni;;FALSE;(10·2)+{LIG}5;;
-numerals-abee1242-1-twentysix-1;numerals-abee1242-1;Chan2019;twentysix;26;òbɾāɲʊ̃̀ édʒì lɔ̀hɔ̃̀;obranuedziloho;;FALSE;(10·2)+{LIG}6;;
-numerals-abee1242-1-twentyseven-1;numerals-abee1242-1;Chan2019;twentyseven;27;òbɾāɲʊ̃̀ édʒì lɔ̀hʍ̃ã̄ɾí;obranuedzilohwari;;FALSE;(10·2)+{LIG}7;;
-numerals-abee1242-1-twentyeight-1;numerals-abee1242-1;Chan2019;twentyeight;28;òbɾāɲʊ̃̀ édʒì èpʲè;obranuedziepje;;FALSE;(10·2)+{LIG}8;;
-numerals-abee1242-1-twentynine-1;numerals-abee1242-1;Chan2019;twentynine;29;òbɾāɲʊ̃̀ édʒì ɲāàkó;obranuedzinaako;;FALSE;(10·2)+{LIG}9;;
-numerals-abee1242-1-thirty-1;numerals-abee1242-1;Chan2019;thirty;30;òbɾāsà;obrasa;;FALSE;10·3;;
-numerals-abee1242-1-forty-1;numerals-abee1242-1;Chan2019;forty;40;òbɾānà;obrana;;FALSE;10·4;;
-numerals-abee1242-1-fifty-1;numerals-abee1242-1;Chan2019;fifty;50;òbɾōnù;obronu;;FALSE;10·5;;
-numerals-abee1242-1-sixty-1;numerals-abee1242-1;Chan2019;sixty;60;òbɾã̄ʃē;obrase;;FALSE;10·6;;
-numerals-abee1242-1-seventy-1;numerals-abee1242-1;Chan2019;seventy;70;òbɾã̄sɔ̂;obraso;;FALSE;10·7;;
-numerals-abee1242-1-eighty-1;numerals-abee1242-1;Chan2019;eighty;80;òbɾãmʊ̃̀kwɛ́;obramukwe;;FALSE;10·8;;
-numerals-abee1242-1-ninety-1;numerals-abee1242-1;Chan2019;ninety;90;òbɾãŋɡòrá;obranggora;;FALSE;10·9;;
-numerals-abee1242-1-hundred-1;numerals-abee1242-1;Chan2019;hundred;100;jā;ja;;FALSE;100;;
-numerals-abee1242-1-twohundred-1;numerals-abee1242-1;Chan2019;twohundred;200;jā āŋʊ̃́;jaangu;;FALSE;100·2;;
-numerals-abee1242-1-thousand-1;numerals-abee1242-1;Chan2019;thousand;1000;àk͡pī;akpi;;FALSE;1000;;
-numerals-abee1242-1-twothousand-1;numerals-abee1242-1;Chan2019;twothousand;2000;àk͡pī āŋʊ̃́;akpiangu;;FALSE;1000·2;;
+ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+numerals-abee1242-1-one-1,numerals-abee1242-1,Chan2019,one,1,ŋ̀k͡pɔ̄,ngkpo,,FALSE,1,,
+numerals-abee1242-1-two-1,numerals-abee1242-1,Chan2019,two,2,āɲʊ̃́,anu,,FALSE,2,,
+numerals-abee1242-1-three-1,numerals-abee1242-1,Chan2019,three,3,āɾí,ari,,FALSE,3,,
+numerals-abee1242-1-four-1,numerals-abee1242-1,Chan2019,four,4,àlɛ́,ale,,FALSE,4,,
+numerals-abee1242-1-five-1,numerals-abee1242-1,Chan2019,five,5,ōní,oni,,FALSE,5,,
+numerals-abee1242-1-six-1,numerals-abee1242-1,Chan2019,six,6,lɔ̀hɔ̃̀,loho,,FALSE,6,5+1,
+numerals-abee1242-1-seven-1,numerals-abee1242-1,Chan2019,seven,7,lɔ̀hʍ̃ã̄ɾí,lohwari,,FALSE,7,CHECK: 5+2,
+numerals-abee1242-1-eight-1,numerals-abee1242-1,Chan2019,eight,8,èpʲè,epje,,FALSE,8,,
+numerals-abee1242-1-nine-1,numerals-abee1242-1,Chan2019,nine,9,ɲāàkó,naako,,FALSE,9,,
+numerals-abee1242-1-ten-1,numerals-abee1242-1,Chan2019,ten,10,ǹnɛ̀,nne,,FALSE,10,,
+numerals-abee1242-1-eleven-1,numerals-abee1242-1,Chan2019,eleven,11,ǹnɛ̀ŋ̀k͡pɔ̄,nnengkpo,,FALSE,10+1,,
+numerals-abee1242-1-twelve-1,numerals-abee1242-1,Chan2019,twelve,12,ǹnàɲʊ̃́,nnanu,,FALSE,10+2,,
+numerals-abee1242-1-thirteen-1,numerals-abee1242-1,Chan2019,thirteen,13,ǹnàɾí,nnari,,FALSE,10+3,,
+numerals-abee1242-1-fourteen-1,numerals-abee1242-1,Chan2019,fourteen,14,ǹnàlɛ́,nnale,,FALSE,10+4,,
+numerals-abee1242-1-fifteen-1,numerals-abee1242-1,Chan2019,fifteen,15,ǹnòní,nnoni,,FALSE,10+5,,
+numerals-abee1242-1-sixteen-1,numerals-abee1242-1,Chan2019,sixteen,16,ǹnɛ̀lɔ̀hɔ̃̀,nneloho,,FALSE,10+6,,
+numerals-abee1242-1-seventeen-1,numerals-abee1242-1,Chan2019,seventeen,17,ǹnɛ̀lɔ̀hʍ̃ã̄ɾí,nnelohwari,,FALSE,10+7,,
+numerals-abee1242-1-eighteen-1,numerals-abee1242-1,Chan2019,eighteen,18,ǹnèpʲè,nnepje,,FALSE,10+8,,
+numerals-abee1242-1-nineteen-1,numerals-abee1242-1,Chan2019,nineteen,19,ǹɲāàkó,nnaako,,FALSE,10+9,,
+numerals-abee1242-1-twenty-1,numerals-abee1242-1,Chan2019,twenty,20,òbɾāɲʊ̃̀,obranu,,FALSE,10·2,,
+numerals-abee1242-1-twentyone-1,numerals-abee1242-1,Chan2019,twentyone,21,òbɾāɲʊ̃̀ édʒì ŋ̀k͡pɔ̄,obranuedzingkpo,,FALSE,(10·2)+{LIG}1,,
+numerals-abee1242-1-twentytwo-1,numerals-abee1242-1,Chan2019,twentytwo,22,òbɾāɲʊ̃̀ édʒì āɲʊ̃́,obranuedzianu,,FALSE,(10·2)+{LIG}2,,
+numerals-abee1242-1-twentythree-1,numerals-abee1242-1,Chan2019,twentythree,23,òbɾāɲʊ̃̀ édʒì āɾí,obranuedziari,,FALSE,(10·2)+{LIG}3,,
+numerals-abee1242-1-twentyfour-1,numerals-abee1242-1,Chan2019,twentyfour,24,òbɾāɲʊ̃̀ édʒì àlɛ́,obranuedziale,,FALSE,(10·2)+{LIG}4,,
+numerals-abee1242-1-twentyfive-1,numerals-abee1242-1,Chan2019,twentyfive,25,òbɾāɲʊ̃̀ édʒì ōní,obranuedzioni,,FALSE,(10·2)+{LIG}5,,
+numerals-abee1242-1-twentysix-1,numerals-abee1242-1,Chan2019,twentysix,26,òbɾāɲʊ̃̀ édʒì lɔ̀hɔ̃̀,obranuedziloho,,FALSE,(10·2)+{LIG}6,,
+numerals-abee1242-1-twentyseven-1,numerals-abee1242-1,Chan2019,twentyseven,27,òbɾāɲʊ̃̀ édʒì lɔ̀hʍ̃ã̄ɾí,obranuedzilohwari,,FALSE,(10·2)+{LIG}7,,
+numerals-abee1242-1-twentyeight-1,numerals-abee1242-1,Chan2019,twentyeight,28,òbɾāɲʊ̃̀ édʒì èpʲè,obranuedziepje,,FALSE,(10·2)+{LIG}8,,
+numerals-abee1242-1-twentynine-1,numerals-abee1242-1,Chan2019,twentynine,29,òbɾāɲʊ̃̀ édʒì ɲāàkó,obranuedzinaako,,FALSE,(10·2)+{LIG}9,,
+numerals-abee1242-1-thirty-1,numerals-abee1242-1,Chan2019,thirty,30,òbɾāsà,obrasa,,FALSE,10·3,,
+numerals-abee1242-1-forty-1,numerals-abee1242-1,Chan2019,forty,40,òbɾānà,obrana,,FALSE,10·4,,
+numerals-abee1242-1-fifty-1,numerals-abee1242-1,Chan2019,fifty,50,òbɾōnù,obronu,,FALSE,10·5,,
+numerals-abee1242-1-sixty-1,numerals-abee1242-1,Chan2019,sixty,60,òbɾã̄ʃē,obrase,,FALSE,10·6,,
+numerals-abee1242-1-seventy-1,numerals-abee1242-1,Chan2019,seventy,70,òbɾã̄sɔ̂,obraso,,FALSE,10·7,,
+numerals-abee1242-1-eighty-1,numerals-abee1242-1,Chan2019,eighty,80,òbɾãmʊ̃̀kwɛ́,obramukwe,,FALSE,10·8,,
+numerals-abee1242-1-ninety-1,numerals-abee1242-1,Chan2019,ninety,90,òbɾãŋɡòrá,obranggora,,FALSE,10·9,,
+numerals-abee1242-1-hundred-1,numerals-abee1242-1,Chan2019,hundred,100,jā,ja,,FALSE,100,,
+numerals-abee1242-1-twohundred-1,numerals-abee1242-1,Chan2019,twohundred,200,jā āŋʊ̃́,jaangu,,FALSE,100·2,,
+numerals-abee1242-1-thousand-1,numerals-abee1242-1,Chan2019,thousand,1000,àk͡pī,akpi,,FALSE,1000,,
+numerals-abee1242-1-twothousand-1,numerals-abee1242-1,Chan2019,twothousand,2000,àk͡pī āŋʊ̃́,akpiangu,,FALSE,1000·2,,
