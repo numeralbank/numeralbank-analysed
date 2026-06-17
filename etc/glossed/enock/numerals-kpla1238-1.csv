@@ -1,42 +1,42 @@
-;ID;Language_ID;Source;Parameter_ID;NumberValue;Value;Form;Comment_contributor;Loan;Gloss;Comment_glosser;Alternate_gloss
-1;numerals-kpla1238-1-one-1;numerals-kpla1238-1;Chan2019;one;1;kɔ̃;ko;;FALSE;1;;
-2;numerals-kpla1238-1-one-2;numerals-kpla1238-1;Chan2019;one;1;ɛkʊ́nkɔ́;ekunko;;FALSE;1’;;
-3;numerals-kpla1238-1-two-1;numerals-kpla1238-1;Chan2019;two;2;áɲɔ;ano;;FALSE;2;;
-4;numerals-kpla1238-1-three-1;numerals-kpla1238-1;Chan2019;three;3;asa;asa;;FALSE;3;;
-5;numerals-kpla1238-1-four-1;numerals-kpla1238-1;Chan2019;four;4;aná;ana;;FALSE;4;;
-6;numerals-kpla1238-1-five-1;numerals-kpla1238-1;Chan2019;five;5;ɛnʊ́;enu;;FALSE;5;;
-7;numerals-kpla1238-1-six-1;numerals-kpla1238-1;Chan2019;six;6;esé;ese;;FALSE;6;;
-8;numerals-kpla1238-1-seven-1;numerals-kpla1238-1;Chan2019;seven;7;ɛsʊ́nʊ́;esunu;;FALSE;7;;
-9;numerals-kpla1238-1-eight-1;numerals-kpla1238-1;Chan2019;eight;8;ɛkwé;ekwe;;FALSE;8;;
-10;numerals-kpla1238-1-nine-1;numerals-kpla1238-1;Chan2019;nine;9;apʊ́nɔ́;apuno;;FALSE;9;;
-11;numerals-kpla1238-1-ten-1;numerals-kpla1238-1;Chan2019;ten;10;ídú;idu;;FALSE;10;;
-12;numerals-kpla1238-1-eleven-1;numerals-kpla1238-1;Chan2019;eleven;11;ídú nɛ kʊ́ŋkɔ́;idunekungko;;FALSE;10+{and}1;;
-13;numerals-kpla1238-1-twelve-1;numerals-kpla1238-1;Chan2019;twelve;12;ídú nááɲɔ;idunaano;;FALSE;10+{and}2;;
-14;numerals-kpla1238-1-thirteen-1;numerals-kpla1238-1;Chan2019;thirteen;13;ídú náasa;idunaasa;;FALSE;10+{and}3;;
-15;numerals-kpla1238-1-fourteen-1;numerals-kpla1238-1;Chan2019;fourteen;14;ídú naná;idunana;;FALSE;10+{and}4;;
-16;numerals-kpla1238-1-fifteen-1;numerals-kpla1238-1;Chan2019;fifteen;15;ídú nenú;idunenu;;FALSE;10+{and}5;;
-17;numerals-kpla1238-1-sixteen-1;numerals-kpla1238-1;Chan2019;sixteen;16;ídú nɛsé;idunese;;FALSE;10+{and}6;;
-18;numerals-kpla1238-1-seventeen-1;numerals-kpla1238-1;Chan2019;seventeen;17;ídú nɛsʊ́nʊ́;idunesunu;;FALSE;10+{and}7;;
-19;numerals-kpla1238-1-eighteen-1;numerals-kpla1238-1;Chan2019;eighteen;18;ídú nɛkwé;idunekwe;;FALSE;10+{and}8;;
-20;numerals-kpla1238-1-nineteen-1;numerals-kpla1238-1;Chan2019;nineteen;19;ídú napʊ́nɔ́;idunapuno;;FALSE;10+{and}9;;
-21;numerals-kpla1238-1-twenty-1;numerals-kpla1238-1;Chan2019;twenty;20;ɛ́dʊ́ɲɔ;eduno;;FALSE;10·2;;
-22;numerals-kpla1238-1-twentyone-1;numerals-kpla1238-1;Chan2019;twentyone;21;ɛ́dʊ́ɲɔ nɛ kʊ́ŋkɔ́;edunonekungko;;FALSE;(10·2)+{and}1;;
-23;numerals-kpla1238-1-twentytwo-1;numerals-kpla1238-1;Chan2019;twentytwo;22;ɛ́dʊ́ɲɔ nááɲɔ;edunonaano;;FALSE;(10·2)+{and}2;;
-24;numerals-kpla1238-1-twentythree-1;numerals-kpla1238-1;Chan2019;twentythree;23;ɛ́dʊ́ɲɔ náasa;edunonaasa;;FALSE;(10·2)+{and}3;;
-25;numerals-kpla1238-1-twentyfour-1;numerals-kpla1238-1;Chan2019;twentyfour;24;ɛ́dʊ́ɲɔ naná;edunonana;;FALSE;(10·2)+{and}4;;
-26;numerals-kpla1238-1-twentyfive-1;numerals-kpla1238-1;Chan2019;twentyfive;25;ɛ́dʊ́ɲɔ nenú;edunonenu;;FALSE;(10·2)+{and}5;;
-27;numerals-kpla1238-1-twentysix-1;numerals-kpla1238-1;Chan2019;twentysix;26;ɛ́dʊ́ɲɔ nesé;edunonese;;FALSE;(10·2)+{and}6;;
-28;numerals-kpla1238-1-twentyseven-1;numerals-kpla1238-1;Chan2019;twentyseven;27;ɛ́dʊ́ɲɔ nɛsʊ́nʊ́;edunonesunu;;FALSE;(10·2)+{and}7;;
-29;numerals-kpla1238-1-twentyeight-1;numerals-kpla1238-1;Chan2019;twentyeight;28;ɛ́dʊ́ɲɔ nɛkwé;edunonekwe;;FALSE;(10·2)+{and}8;;
-30;numerals-kpla1238-1-twentynine-1;numerals-kpla1238-1;Chan2019;twentynine;29;ɛ́dʊ́ɲɔ napʊ́nɔ́;edunonapuno;;FALSE;(10·2)+{and}9;;
-31;numerals-kpla1238-1-thirty-1;numerals-kpla1238-1;Chan2019;thirty;30;ɛdʊasá;eduasa;;FALSE;10·3;;
-32;numerals-kpla1238-1-forty-1;numerals-kpla1238-1;Chan2019;forty;40;ɛduaná;eduana;;FALSE;10·4;;
-33;numerals-kpla1238-1-fifty-1;numerals-kpla1238-1;Chan2019;fifty;50;ɛdʊɛnʊ́;eduenu;;FALSE;10·5;;
-34;numerals-kpla1238-1-sixty-1;numerals-kpla1238-1;Chan2019;sixty;60;ɛdʊɛsé;eduese;;FALSE;10·6;;
-35;numerals-kpla1238-1-seventy-1;numerals-kpla1238-1;Chan2019;seventy;70;ɛdʊɛsʊ́nʊ́;eduesunu;;FALSE;10·7;;
-36;numerals-kpla1238-1-eighty-1;numerals-kpla1238-1;Chan2019;eighty;80;ɛdʊakwé;eduakwe;;FALSE;10·8;;
-37;numerals-kpla1238-1-ninety-1;numerals-kpla1238-1;Chan2019;ninety;90;ɛdʊapʊ́nɔ́;eduapuno;;FALSE;10·9;;
-38;numerals-kpla1238-1-hundred-1;numerals-kpla1238-1;Chan2019;hundred;100;ɛ́lɛ́fa;elefa;;FALSE;100;;
-39;numerals-kpla1238-1-twohundred-1;numerals-kpla1238-1;Chan2019;twohundred;200;alafáɲɔ́;alafano;;FALSE;100·2;;
-40;numerals-kpla1238-1-thousand-1;numerals-kpla1238-1;Chan2019;thousand;1000;ɛ́ɡ͡bʊ́ŋ;egbung;;FALSE;1000;;
-41;numerals-kpla1238-1-twothousand-1;numerals-kpla1238-1;Chan2019;twothousand;2000;ŋɡ͡bʊ́ŋɛɲɔ;nggbungeno;;FALSE;1000·2;;
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kpla1238-1-one-1,numerals-kpla1238-1,Chan2019,one,1,kɔ̃,ko,,FALSE,1,,
+2,numerals-kpla1238-1-one-2,numerals-kpla1238-1,Chan2019,one,1,ɛkʊ́nkɔ́,ekunko,,FALSE,1’,,
+3,numerals-kpla1238-1-two-1,numerals-kpla1238-1,Chan2019,two,2,áɲɔ,ano,,FALSE,2,,
+4,numerals-kpla1238-1-three-1,numerals-kpla1238-1,Chan2019,three,3,asa,asa,,FALSE,3,,
+5,numerals-kpla1238-1-four-1,numerals-kpla1238-1,Chan2019,four,4,aná,ana,,FALSE,4,,
+6,numerals-kpla1238-1-five-1,numerals-kpla1238-1,Chan2019,five,5,ɛnʊ́,enu,,FALSE,5,,
+7,numerals-kpla1238-1-six-1,numerals-kpla1238-1,Chan2019,six,6,esé,ese,,FALSE,6,,
+8,numerals-kpla1238-1-seven-1,numerals-kpla1238-1,Chan2019,seven,7,ɛsʊ́nʊ́,esunu,,FALSE,7,,
+9,numerals-kpla1238-1-eight-1,numerals-kpla1238-1,Chan2019,eight,8,ɛkwé,ekwe,,FALSE,8,,
+10,numerals-kpla1238-1-nine-1,numerals-kpla1238-1,Chan2019,nine,9,apʊ́nɔ́,apuno,,FALSE,9,,
+11,numerals-kpla1238-1-ten-1,numerals-kpla1238-1,Chan2019,ten,10,ídú,idu,,FALSE,10,,
+12,numerals-kpla1238-1-eleven-1,numerals-kpla1238-1,Chan2019,eleven,11,ídú nɛ kʊ́ŋkɔ́,idunekungko,,FALSE,10+{and}1,,
+13,numerals-kpla1238-1-twelve-1,numerals-kpla1238-1,Chan2019,twelve,12,ídú nááɲɔ,idunaano,,FALSE,10+{and}2,,
+14,numerals-kpla1238-1-thirteen-1,numerals-kpla1238-1,Chan2019,thirteen,13,ídú náasa,idunaasa,,FALSE,10+{and}3,,
+15,numerals-kpla1238-1-fourteen-1,numerals-kpla1238-1,Chan2019,fourteen,14,ídú naná,idunana,,FALSE,10+{and}4,,
+16,numerals-kpla1238-1-fifteen-1,numerals-kpla1238-1,Chan2019,fifteen,15,ídú nenú,idunenu,,FALSE,10+{and}5,,
+17,numerals-kpla1238-1-sixteen-1,numerals-kpla1238-1,Chan2019,sixteen,16,ídú nɛsé,idunese,,FALSE,10+{and}6,,
+18,numerals-kpla1238-1-seventeen-1,numerals-kpla1238-1,Chan2019,seventeen,17,ídú nɛsʊ́nʊ́,idunesunu,,FALSE,10+{and}7,,
+19,numerals-kpla1238-1-eighteen-1,numerals-kpla1238-1,Chan2019,eighteen,18,ídú nɛkwé,idunekwe,,FALSE,10+{and}8,,
+20,numerals-kpla1238-1-nineteen-1,numerals-kpla1238-1,Chan2019,nineteen,19,ídú napʊ́nɔ́,idunapuno,,FALSE,10+{and}9,,
+21,numerals-kpla1238-1-twenty-1,numerals-kpla1238-1,Chan2019,twenty,20,ɛ́dʊ́ɲɔ,eduno,,FALSE,10·2,,
+22,numerals-kpla1238-1-twentyone-1,numerals-kpla1238-1,Chan2019,twentyone,21,ɛ́dʊ́ɲɔ nɛ kʊ́ŋkɔ́,edunonekungko,,FALSE,(10·2)+{and}1,,
+23,numerals-kpla1238-1-twentytwo-1,numerals-kpla1238-1,Chan2019,twentytwo,22,ɛ́dʊ́ɲɔ nááɲɔ,edunonaano,,FALSE,(10·2)+{and}2,,
+24,numerals-kpla1238-1-twentythree-1,numerals-kpla1238-1,Chan2019,twentythree,23,ɛ́dʊ́ɲɔ náasa,edunonaasa,,FALSE,(10·2)+{and}3,,
+25,numerals-kpla1238-1-twentyfour-1,numerals-kpla1238-1,Chan2019,twentyfour,24,ɛ́dʊ́ɲɔ naná,edunonana,,FALSE,(10·2)+{and}4,,
+26,numerals-kpla1238-1-twentyfive-1,numerals-kpla1238-1,Chan2019,twentyfive,25,ɛ́dʊ́ɲɔ nenú,edunonenu,,FALSE,(10·2)+{and}5,,
+27,numerals-kpla1238-1-twentysix-1,numerals-kpla1238-1,Chan2019,twentysix,26,ɛ́dʊ́ɲɔ nesé,edunonese,,FALSE,(10·2)+{and}6,,
+28,numerals-kpla1238-1-twentyseven-1,numerals-kpla1238-1,Chan2019,twentyseven,27,ɛ́dʊ́ɲɔ nɛsʊ́nʊ́,edunonesunu,,FALSE,(10·2)+{and}7,,
+29,numerals-kpla1238-1-twentyeight-1,numerals-kpla1238-1,Chan2019,twentyeight,28,ɛ́dʊ́ɲɔ nɛkwé,edunonekwe,,FALSE,(10·2)+{and}8,,
+30,numerals-kpla1238-1-twentynine-1,numerals-kpla1238-1,Chan2019,twentynine,29,ɛ́dʊ́ɲɔ napʊ́nɔ́,edunonapuno,,FALSE,(10·2)+{and}9,,
+31,numerals-kpla1238-1-thirty-1,numerals-kpla1238-1,Chan2019,thirty,30,ɛdʊasá,eduasa,,FALSE,10·3,,
+32,numerals-kpla1238-1-forty-1,numerals-kpla1238-1,Chan2019,forty,40,ɛduaná,eduana,,FALSE,10·4,,
+33,numerals-kpla1238-1-fifty-1,numerals-kpla1238-1,Chan2019,fifty,50,ɛdʊɛnʊ́,eduenu,,FALSE,10·5,,
+34,numerals-kpla1238-1-sixty-1,numerals-kpla1238-1,Chan2019,sixty,60,ɛdʊɛsé,eduese,,FALSE,10·6,,
+35,numerals-kpla1238-1-seventy-1,numerals-kpla1238-1,Chan2019,seventy,70,ɛdʊɛsʊ́nʊ́,eduesunu,,FALSE,10·7,,
+36,numerals-kpla1238-1-eighty-1,numerals-kpla1238-1,Chan2019,eighty,80,ɛdʊakwé,eduakwe,,FALSE,10·8,,
+37,numerals-kpla1238-1-ninety-1,numerals-kpla1238-1,Chan2019,ninety,90,ɛdʊapʊ́nɔ́,eduapuno,,FALSE,10·9,,
+38,numerals-kpla1238-1-hundred-1,numerals-kpla1238-1,Chan2019,hundred,100,ɛ́lɛ́fa,elefa,,FALSE,100,,
+39,numerals-kpla1238-1-twohundred-1,numerals-kpla1238-1,Chan2019,twohundred,200,alafáɲɔ́,alafano,,FALSE,100·2,,
+40,numerals-kpla1238-1-thousand-1,numerals-kpla1238-1,Chan2019,thousand,1000,ɛ́ɡ͡bʊ́ŋ,egbung,,FALSE,1000,,
+41,numerals-kpla1238-1-twothousand-1,numerals-kpla1238-1,Chan2019,twothousand,2000,ŋɡ͡bʊ́ŋɛɲɔ,nggbungeno,,FALSE,1000·2,,
