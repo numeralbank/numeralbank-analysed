@@ -1,7 +1,7 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
 1,numerals-hajo1238-1-one-1,numerals-hajo1238-1,Chan2019,one,1,ækɔŋ,aekong,,false,1{CLF?},,
 2,numerals-hajo1238-1-two-1,numerals-hajo1238-1,Chan2019,two,2,bækɔŋ,baekong,,false,2{CLF?},,
-3,numerals-hajo1238-1-three-1,numerals-hajo1238-1,Chan2019,three,3,t̪ulʃi,tulsi,,false,3{,,
+3,numerals-hajo1238-1-three-1,numerals-hajo1238-1,Chan2019,three,3,t̪ulʃi,tulsi,,false,3,,
 4,numerals-hajo1238-1-four-1,numerals-hajo1238-1,Chan2019,four,4,t͡ʃabɔŋ,tsabong,,false,4{CLF?},,
 5,numerals-hajo1238-1-five-1,numerals-hajo1238-1,Chan2019,five,5,paɟ,paj,,false,5,,
 6,numerals-hajo1238-1-six-1,numerals-hajo1238-1,Chan2019,six,6,t͡ʃʰɔe,tshoe,,false,6,,
