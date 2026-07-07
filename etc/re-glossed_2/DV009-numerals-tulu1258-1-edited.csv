@@ -1,0 +1,56 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-tulu1258-1-one-1,numerals-tulu1258-1,Chan2019,one,1,oɲd͡ʒi,ondzi,,false,1,,
+2,numerals-tulu1258-1-two-1,numerals-tulu1258-1,Chan2019,two,2,ɾaɖɖɯ,raddw,,false,2,,
+3,numerals-tulu1258-1-three-1,numerals-tulu1258-1,Chan2019,three,3,muːd͡ʒi,mudzi,,false,3,,
+4,numerals-tulu1258-1-four-1,numerals-tulu1258-1,Chan2019,four,4,naːlɯ,nalw,,false,4,,
+5,numerals-tulu1258-1-five-1,numerals-tulu1258-1,Chan2019,five,5,aⁱnɯ,ainw,,false,5,,
+6,numerals-tulu1258-1-six-1,numerals-tulu1258-1,Chan2019,six,6,aːd͡ʒi,adzi,,false,6,,
+7,numerals-tulu1258-1-seven-1,numerals-tulu1258-1,Chan2019,seven,7,eːlɯ,elw,,false,7,,
+8,numerals-tulu1258-1-eight-1,numerals-tulu1258-1,Chan2019,eight,8,eɖma,edma,,false,8,"possibly historically non-atomic, of the form {8}{10}, perhaps even implying division (cf. Krishnamurti 2003:264)",
+9,numerals-tulu1258-1-eight-2,numerals-tulu1258-1,Chan2019,eight,8,enma,enma,,false,8,"possibly historically non-atomic, of the form {8}{10}, perhaps even implying division (cf. Krishnamurti 2003:264)",
+10,numerals-tulu1258-1-eight-3,numerals-tulu1258-1,Chan2019,eight,8,eɳma,enma,,false,8,"possibly historically non-atomic, of the form {8}{10}, perhaps even implying division (cf. Krishnamurti 2003:264)",
+11,numerals-tulu1258-1-nine-1,numerals-tulu1258-1,Chan2019,nine,9,oɾmba,ormba,,false,9,possibly historically subtractive,
+12,numerals-tulu1258-1-ten-1,numerals-tulu1258-1,Chan2019,ten,10,pat̪t̪ɯ,pattw,,false,10,,
+13,numerals-tulu1258-1-eleven-1,numerals-tulu1258-1,Chan2019,eleven,11,pat̪t̪oɲd͡ʒi,pattondzi,,false,10+1,,
+14,numerals-tulu1258-1-eleven-2,numerals-tulu1258-1,Chan2019,eleven,11,pad̪inoɲd͡ʒi,padinondzi,,false,10+{+}1,,
+15,numerals-tulu1258-1-twelve-1,numerals-tulu1258-1,Chan2019,twelve,12,pad̪ɾaːɖɯ,padradw,,false,10+2,,
+16,numerals-tulu1258-1-twelve-2,numerals-tulu1258-1,Chan2019,twelve,12,pad̪iɾaːɖɯ,padiradw,,false,10+{+}2,,
+17,numerals-tulu1258-1-thirteen-1,numerals-tulu1258-1,Chan2019,thirteen,13,pad̪muːd͡ʒi,padmudzi,,false,10+3,,
+18,numerals-tulu1258-1-thirteen-2,numerals-tulu1258-1,Chan2019,thirteen,13,pad̪imuːd͡ʒi,padimudzi,,false,10+{+}3,,
+19,numerals-tulu1258-1-fourteen-1,numerals-tulu1258-1,Chan2019,fourteen,14,pad̪naːlɯ,padnalw,,false,10+4,,
+20,numerals-tulu1258-1-fourteen-2,numerals-tulu1258-1,Chan2019,fourteen,14,pad̪inaːlɯ,padinalw,,false,10+{+}4,,
+21,numerals-tulu1258-1-fifteen-1,numerals-tulu1258-1,Chan2019,fifteen,15,pad̪naⁱnɯ,padnainw,,false,10+5,,
+22,numerals-tulu1258-1-fifteen-2,numerals-tulu1258-1,Chan2019,fifteen,15,pad̪inaⁱnɯ,padinainw,,false,10+{+}5,,
+23,numerals-tulu1258-1-sixteen-1,numerals-tulu1258-1,Chan2019,sixteen,16,pad̪naːd͡ʒi,padnadzi,,false,10+6,,
+24,numerals-tulu1258-1-sixteen-2,numerals-tulu1258-1,Chan2019,sixteen,16,pad̪inaːd͡ʒi,padinadzi,,false,10+{+}6,,
+25,numerals-tulu1258-1-seventeen-1,numerals-tulu1258-1,Chan2019,seventeen,17,pad̪neːlɯ,padnelw,,false,10+7,,
+26,numerals-tulu1258-1-seventeen-2,numerals-tulu1258-1,Chan2019,seventeen,17,pad̪ineːlɯ,padinelw,,false,10+{+}7,,
+27,numerals-tulu1258-1-eighteen-1,numerals-tulu1258-1,Chan2019,eighteen,18,pad̪neɖma,padnedma,,false,10+8,,
+28,numerals-tulu1258-1-eighteen-2,numerals-tulu1258-1,Chan2019,eighteen,18,pad̪ineɖma,padinedma,,false,10+{+}8,,
+29,numerals-tulu1258-1-nineteen-1,numerals-tulu1258-1,Chan2019,nineteen,19,pad̪noɾmba,padnormba,,false,10+9,,
+30,numerals-tulu1258-1-nineteen-2,numerals-tulu1258-1,Chan2019,nineteen,19,pad̪inoɾmba,padinormba,,false,10+{+}9,,
+31,numerals-tulu1258-1-twenty-1,numerals-tulu1258-1,Chan2019,twenty,20,iɾʋa,irva,,false,2′⋅10′,,20
+32,numerals-tulu1258-1-twentyone-1,numerals-tulu1258-1,Chan2019,twentyone,21,irʋat̪oɲd͡ʒi,irvatondzi,,false,(2′⋅10′)+1,,20+1
+33,numerals-tulu1258-1-twentytwo-1,numerals-tulu1258-1,Chan2019,twentytwo,22,irʋat̪ɾaɖɖɯ,irvatraddw,,false,(2′⋅10′)+2,,20+2
+34,numerals-tulu1258-1-twentythree-1,numerals-tulu1258-1,Chan2019,twentythree,23,irʋat̪muːd͡ʒi,irvatmudzi,,false,(2′⋅10′)+3,,20+3
+35,numerals-tulu1258-1-twentyfour-1,numerals-tulu1258-1,Chan2019,twentyfour,24,irʋat̪naːlɯ,irvatnalw,,false,(2′⋅10′)+4,,20+4
+36,numerals-tulu1258-1-twentyfive-1,numerals-tulu1258-1,Chan2019,twentyfive,25,irʋat̪aⁱnɯ,irvatainw,,false,(2′⋅10′)+5,,20+5
+37,numerals-tulu1258-1-twentysix-1,numerals-tulu1258-1,Chan2019,twentysix,26,irʋat̪aːd͡ʒi,irvatadzi,,false,(2′⋅10′)+6,,20+6
+38,numerals-tulu1258-1-twentyseven-1,numerals-tulu1258-1,Chan2019,twentyseven,27,irʋat̪eːlɯ,irvatelw,,false,(2′⋅10′)+7,,20+7
+39,numerals-tulu1258-1-twentyeight-1,numerals-tulu1258-1,Chan2019,twentyeight,28,irʋat̪eɖma,irvatedma,,false,(2′⋅10′)+8,,20+8
+40,numerals-tulu1258-1-twentyeight-2,numerals-tulu1258-1,Chan2019,twentyeight,28,irʋat̪enma,irvatenma,,false,(2′⋅10′)+8,,20+8
+41,numerals-tulu1258-1-twentynine-1,numerals-tulu1258-1,Chan2019,twentynine,29,irʋat̪oɾmba,irvatormba,,false,(2′⋅10′)+9,,20+9
+42,numerals-tulu1258-1-thirty-1,numerals-tulu1258-1,Chan2019,thirty,30,muppa,muppa,,false,3⋅10′,,
+43,numerals-tulu1258-1-forty-1,numerals-tulu1258-1,Chan2019,forty,40,nalpa,nalpa,,false,4⋅10′,,
+44,numerals-tulu1258-1-fifty-1,numerals-tulu1258-1,Chan2019,fifty,50,aⁱʋa,aiva,,false,5⋅10′,,
+45,numerals-tulu1258-1-sixty-1,numerals-tulu1258-1,Chan2019,sixty,60,ad͡ʒpa,adzpa,,false,6⋅10′,,
+46,numerals-tulu1258-1-seventy-1,numerals-tulu1258-1,Chan2019,seventy,70,elpa,elpa,,false,7⋅10′,,
+47,numerals-tulu1258-1-eighty-1,numerals-tulu1258-1,Chan2019,eighty,80,eɳpa,enpa,,false,8⋅10′,,
+48,numerals-tulu1258-1-ninety-1,numerals-tulu1258-1,Chan2019,ninety,90,soɳpa,sonpa,,false,9⋅10′′,,
+49,numerals-tulu1258-1-ninety-2,numerals-tulu1258-1,Chan2019,ninety,90,sonpa,sonpa,,false,9⋅10′′,,
+50,numerals-tulu1258-1-hundred-1,numerals-tulu1258-1,Chan2019,hundred,100,nuːd̪ɯ,nudw,,false,100,,
+51,numerals-tulu1258-1-twohundred-1,numerals-tulu1258-1,Chan2019,twohundred,200,iɾnuːd̪ɯ,irnudw,,false,2′[⋅]100,,
+52,numerals-tulu1258-1-fourhundred-1,numerals-tulu1258-1,Chan2019,fourhundred,400,naːlnuːd̪ɯ,nalnudw,,false,4[⋅]100,,
+53,numerals-tulu1258-1-eighthundred-1,numerals-tulu1258-1,Chan2019,eighthundred,800,eɳmanuːd̪ɯ,enmanudw,,false,8[⋅]100,,
+54,numerals-tulu1258-1-thousand-1,numerals-tulu1258-1,Chan2019,thousand,1000,saːʋiɾa,savira,,false,1000,,
+55,numerals-tulu1258-1-twothousand-1,numerals-tulu1258-1,Chan2019,twothousand,2000,ɾaɖɖɯ saːʋiɾa,raddwsavira,,false,2[⋅]1000,,
