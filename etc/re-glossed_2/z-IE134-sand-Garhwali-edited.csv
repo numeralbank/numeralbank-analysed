@@ -17,7 +17,7 @@
 16,sand-Garhwali-sixteen-1,sand-Garhwali,Mamta2023,sixteen,16,ʃolɑ,sola,,,6′+10′,,
 17,sand-Garhwali-seventeen-1,sand-Garhwali,Mamta2023,seventeen,17,sətərɑ,satara,,,7+10′,,
 18,sand-Garhwali-eighteen-1,sand-Garhwali,Mamta2023,eighteen,18,əʈʰɑrɑ,athara,,,8+10′,,
-19,sand-Garhwali-nineteen-1,sand-Garhwali,Mamta2023,nineteen,19,unnis,unnis,,,1′′−([2]⋅10′′),,
+19,sand-Garhwali-nineteen-1,sand-Garhwali,Mamta2023,nineteen,19,unnis,unnis,,,[1]−{−}([2]⋅10′′),,
 20,sand-Garhwali-twenty-1,sand-Garhwali,Mamta2023,twenty,20,bis,bis,,,2⋅10′′,,
 21,sand-Garhwali-twentyone-1,sand-Garhwali,Mamta2023,twentyone,21,ikkis,ikkis,,,1+([2]⋅10′′),,
 22,sand-Garhwali-twentytwo-1,sand-Garhwali,Mamta2023,twentytwo,22,bɑis,bais,,,2′+([2]⋅10′′),,
@@ -27,7 +27,7 @@
 26,sand-Garhwali-twentysix-1,sand-Garhwali,Mamta2023,twentysix,26,cʰəbbis,chabbis,,,6+(2⋅10′′),,
 27,sand-Garhwali-twentyseven-1,sand-Garhwali,Mamta2023,twentyseven,27,sətɑis,satais,,,7+([2]⋅10′′),,
 28,sand-Garhwali-twentyeight-1,sand-Garhwali,Mamta2023,twentyeight,28,əʈʰɑis,athais,,,8+([2]⋅10′′),,
-29,sand-Garhwali-twentynine-1,sand-Garhwali,Mamta2023,twentynine,29,untis,untis,,,1′′−(3⋅10′′),,
+29,sand-Garhwali-twentynine-1,sand-Garhwali,Mamta2023,twentynine,29,untis,untis,,,[1]−{−}(3⋅10′′),,
 30,sand-Garhwali-thirty-1,sand-Garhwali,Mamta2023,thirty,30,tis,tis,,,3⋅10′′,,
 31,sand-Garhwali-thirtyone-1,sand-Garhwali,Mamta2023,thirtyone,31,ikkətis,ikkatis,,,1+(3⋅10′′),,
 32,sand-Garhwali-thirtytwo-1,sand-Garhwali,Mamta2023,thirtytwo,32,bəttis,battis,,,2′+(3⋅10′′),,
@@ -37,7 +37,7 @@
 36,sand-Garhwali-thirtysix-1,sand-Garhwali,Mamta2023,thirtysix,36,cʰəttis,chattis,,,6+(3⋅10′′),,
 37,sand-Garhwali-thirtyseven-1,sand-Garhwali,Mamta2023,thirtyseven,37,sɛtis,setis,,,7+(3⋅10′′),,
 38,sand-Garhwali-thirtyeight-1,sand-Garhwali,Mamta2023,thirtyeight,38,əɽtis,artis,,,8+(3⋅10′′),,
-39,sand-Garhwali-thirtynine-1,sand-Garhwali,Mamta2023,thirtynine,39,uncɑlis,uncalis,,,1′′−(4⋅10′′),,
+39,sand-Garhwali-thirtynine-1,sand-Garhwali,Mamta2023,thirtynine,39,uncɑlis,uncalis,,,[1]−{−}(4⋅10′′),,
 40,sand-Garhwali-forty-1,sand-Garhwali,Mamta2023,forty,40,cɑlis,calis,,,4⋅10′′,,
 41,sand-Garhwali-fortyone-1,sand-Garhwali,Mamta2023,fortyone,41,ektɑlis,ektalis,,,1+(4⋅10′′),,
 42,sand-Garhwali-fortytwo-1,sand-Garhwali,Mamta2023,fortytwo,42,bəjɑlis,bajalis,,,2′+(4⋅10′′),,
@@ -47,7 +47,7 @@
 46,sand-Garhwali-fortysix-1,sand-Garhwali,Mamta2023,fortysix,46,cʰejɑlis,chejalis,,,6+(4⋅10′′),,
 47,sand-Garhwali-fortyseven-1,sand-Garhwali,Mamta2023,fortyseven,47,sɛ̃tɑlis,setalis,,,7+(4⋅10′′),,
 48,sand-Garhwali-fortyeight-1,sand-Garhwali,Mamta2023,fortyeight,48,əɽtɑlis,artalis,,,8+(4⋅10′′),,
-49,sand-Garhwali-fortynine-1,sand-Garhwali,Mamta2023,fortynine,49,unnəncɑs,unnancas,,,1′′−50,,1′′−(5⋅10′′′)
+49,sand-Garhwali-fortynine-1,sand-Garhwali,Mamta2023,fortynine,49,unnəncɑs,unnancas,,,[1]−{−}50,,[1]−{−}(5⋅10′′′)
 50,sand-Garhwali-fifty-1,sand-Garhwali,Mamta2023,fifty,50,pəcɑs,pacas,,,50,,5⋅10′′′
 51,sand-Garhwali-fiftyone-1,sand-Garhwali,Mamta2023,fiftyone,51,ekjɑʋən,ekjavan,,,1+50′,,1+(5⋅10′′′)
 52,sand-Garhwali-fiftytwo-1,sand-Garhwali,Mamta2023,fiftytwo,52,bɑʋən,bavan,,,2′+50′,,2′+(5⋅10′′′)
@@ -57,7 +57,7 @@
 56,sand-Garhwali-fiftysix-1,sand-Garhwali,Mamta2023,fiftysix,56,cʰəppən,chappan,,,6+50′,,6+(5⋅10′′′)
 57,sand-Garhwali-fiftyseven-1,sand-Garhwali,Mamta2023,fiftyseven,57,sətɑʋən,satavan,,,7+50′,,7+(5⋅10′′′)
 58,sand-Garhwali-fiftyeight-1,sand-Garhwali,Mamta2023,fiftyeight,58,əʈʰɑʋən,athavan,,,8+50′,,8+(5⋅10′′′)
-59,sand-Garhwali-fiftynine-1,sand-Garhwali,Mamta2023,fiftynine,59,unsəʈʰ,unsath,,,1′′−60,,1′′−(6′⋅10′′′′)
+59,sand-Garhwali-fiftynine-1,sand-Garhwali,Mamta2023,fiftynine,59,unsəʈʰ,unsath,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′′)
 60,sand-Garhwali-sixty-1,sand-Garhwali,Mamta2023,sixty,60,sɑʈʰ,sath,,,60,,6′⋅10′′′′
 61,sand-Garhwali-sixtyone-1,sand-Garhwali,Mamta2023,sixtyone,61,eksəʈʰ,eksath,,,1+60,,1+(6′⋅10′′′′)
 62,sand-Garhwali-sixtytwo-1,sand-Garhwali,Mamta2023,sixtytwo,62,bɑsəʈʰ,basath,,,2′+60,,2′+(6′⋅10′′′′)
@@ -67,7 +67,7 @@
 66,sand-Garhwali-sixtysix-1,sand-Garhwali,Mamta2023,sixtysix,66,cʰijɑeʈʰ,chijaeth,,,6+60,,6+(6′⋅10′′′′)
 67,sand-Garhwali-sixtyseven-1,sand-Garhwali,Mamta2023,sixtyseven,67,sərsəʈʰ,sarsath,,,7+60,,7+(6′⋅10′′′′)
 68,sand-Garhwali-sixtyeight-1,sand-Garhwali,Mamta2023,sixtyeight,68,ərsəʈʰ,arsath,,,8+60,,8+(6′⋅10′′′′)
-69,sand-Garhwali-sixtynine-1,sand-Garhwali,Mamta2023,sixtynine,69,unhəttər,unhattar,,,1′′−70,,1′′−(7⋅10′′′′′)
+69,sand-Garhwali-sixtynine-1,sand-Garhwali,Mamta2023,sixtynine,69,unhəttər,unhattar,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
 70,sand-Garhwali-seventy-1,sand-Garhwali,Mamta2023,seventy,70,səttər,sattar,,,70,,7⋅10′′′′′
 71,sand-Garhwali-seventyone-1,sand-Garhwali,Mamta2023,seventyone,71,ekəttər,ekattar,,,1+70,,1+(7⋅10′′′′′)
 72,sand-Garhwali-seventytwo-1,sand-Garhwali,Mamta2023,seventytwo,72,bəhəttər,bahattar,,,2′+70,,2′+(7⋅10′′′′′)
@@ -77,7 +77,7 @@
 76,sand-Garhwali-seventysix-1,sand-Garhwali,Mamta2023,seventysix,76,cʰejəttər,chejattar,,,6+70,,6+(7⋅10′′′′′)
 77,sand-Garhwali-seventyseven-1,sand-Garhwali,Mamta2023,seventyseven,77,səttəttər,sattattar,,,7+70,,7+(7⋅10′′′′′)
 78,sand-Garhwali-seventyeight-1,sand-Garhwali,Mamta2023,seventyeight,78,əʈʰəttər,athattar,,,8+70,,8+(7⋅10′′′′′)
-79,sand-Garhwali-seventynine-1,sand-Garhwali,Mamta2023,seventynine,79,unɑsi,unasi,,,1′′−80,,1′′−(8⋅10′′′′′′)
+79,sand-Garhwali-seventynine-1,sand-Garhwali,Mamta2023,seventynine,79,unɑsi,unasi,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
 80,sand-Garhwali-eighty-1,sand-Garhwali,Mamta2023,eighty,80,əssi,assi,,,80,,8⋅10′′′′′′
 81,sand-Garhwali-eightyone-1,sand-Garhwali,Mamta2023,eightyone,81,ekjɑsi,ekjasi,,,1+80,,1+(8⋅10′′′′′′)
 82,sand-Garhwali-eightytwo-1,sand-Garhwali,Mamta2023,eightytwo,82,bəjɑsi,bajasi,,,2′+80,,2′+(8⋅10′′′′′′)

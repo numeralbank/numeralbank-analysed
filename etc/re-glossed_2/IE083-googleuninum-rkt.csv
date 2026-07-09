@@ -18,7 +18,7 @@
 17,googleuninum-rkt-sixteen-1,googleuninum-rkt,Ritchie2019,sixteen,16,ষোল,ssol,,,16,,6′+10′
 18,googleuninum-rkt-seventeen-1,googleuninum-rkt,Ritchie2019,seventeen,17,সতেরো,stero,,,7+10′,,
 19,googleuninum-rkt-eighteen-1,googleuninum-rkt,Ritchie2019,eighteen,18,আঠারো,aatthaaro,,,8+10′,,
-20,googleuninum-rkt-nineteen-1,googleuninum-rkt,Ritchie2019,nineteen,19,ঊনিশ,uunish,,,1′−([2′]⋅10′′),,
+20,googleuninum-rkt-nineteen-1,googleuninum-rkt,Ritchie2019,nineteen,19,ঊনিশ,uunish,,,[1]−{−}([2′]⋅10′′),,
 21,googleuninum-rkt-twenty-1,googleuninum-rkt,Ritchie2019,twenty,20,বিশ,bish,,,2′⋅10′′,,
 22,googleuninum-rkt-twentyone-1,googleuninum-rkt,Ritchie2019,twentyone,21,একুশ,ekush,,,1+([2′]⋅10′′),,
 23,googleuninum-rkt-twentytwo-1,googleuninum-rkt,Ritchie2019,twentytwo,22,বাইশ,baaish,,,2′+([2′]⋅10′′),,
@@ -28,7 +28,7 @@
 27,googleuninum-rkt-twentysix-1,googleuninum-rkt,Ritchie2019,twentysix,26,ছাব্বিশ,chaabbish,,,6+(2′⋅10′′),,
 28,googleuninum-rkt-twentyseven-1,googleuninum-rkt,Ritchie2019,twentyseven,27,সাতাশ,saataash,,,7+([2′]⋅10′′),,
 29,googleuninum-rkt-twentyeight-1,googleuninum-rkt,Ritchie2019,twentyeight,28,আঠাশ,aatthaash,,,8+([2′]⋅10′′),,
-30,googleuninum-rkt-twentynine-1,googleuninum-rkt,Ritchie2019,twentynine,29,ঊনত্রিশ,uuntrish,,,1′−(3⋅10′′),,
+30,googleuninum-rkt-twentynine-1,googleuninum-rkt,Ritchie2019,twentynine,29,ঊনত্রিশ,uuntrish,,,[1]−{−}(3⋅10′′),,
 31,googleuninum-rkt-thirty-1,googleuninum-rkt,Ritchie2019,thirty,30,ত্রিশ,trish,,,3⋅10′′,,
 32,googleuninum-rkt-thirtyone-1,googleuninum-rkt,Ritchie2019,thirtyone,31,একত্রিশ,ektrish,,,1+(3⋅10′′),,
 33,googleuninum-rkt-thirtytwo-1,googleuninum-rkt,Ritchie2019,thirtytwo,32,বত্রিশ,btrish,,,2′+(3⋅10′′),,
@@ -38,7 +38,7 @@
 37,googleuninum-rkt-thirtysix-1,googleuninum-rkt,Ritchie2019,thirtysix,36,ছত্রিশ,chtrish,,,6+(3⋅10′′),,
 38,googleuninum-rkt-thirtyseven-1,googleuninum-rkt,Ritchie2019,thirtyseven,37,সাঁইত্রিশ,saanitrish,,,7+(3⋅10′′),,
 39,googleuninum-rkt-thirtyeight-1,googleuninum-rkt,Ritchie2019,thirtyeight,38,আটত্রিশ,aatttrish,,,8+(3⋅10′′),,
-40,googleuninum-rkt-thirtynine-1,googleuninum-rkt,Ritchie2019,thirtynine,39,ঊনচল্লিশ,uuncllish,,,1′−(4⋅10′′),,
+40,googleuninum-rkt-thirtynine-1,googleuninum-rkt,Ritchie2019,thirtynine,39,ঊনচল্লিশ,uuncllish,,,[1]−{−}(4⋅10′′),,
 41,googleuninum-rkt-forty-1,googleuninum-rkt,Ritchie2019,forty,40,চল্লিশ,cllish,,,4⋅10′′,,
 42,googleuninum-rkt-fortyone-1,googleuninum-rkt,Ritchie2019,fortyone,41,একচল্লিশ,ekcllish,,,1+(4⋅10′′),,
 43,googleuninum-rkt-fortytwo-1,googleuninum-rkt,Ritchie2019,fortytwo,42,বিয়াল্লিশ,biyaallish,,,2′+(4⋅10′′),,
@@ -48,7 +48,7 @@
 47,googleuninum-rkt-fortysix-1,googleuninum-rkt,Ritchie2019,fortysix,46,ছেচল্লিশ,checllish,,,6+(4⋅10′′),,
 48,googleuninum-rkt-fortyseven-1,googleuninum-rkt,Ritchie2019,fortyseven,47,সাতচল্লিশ,saatcllish,,,7+(4⋅10′′),,
 49,googleuninum-rkt-fortyeight-1,googleuninum-rkt,Ritchie2019,fortyeight,48,আটচল্লিশ,aattcllish,,,8+(4⋅10′′),,
-50,googleuninum-rkt-fortynine-1,googleuninum-rkt,Ritchie2019,fortynine,49,ঊনপঞ্চাশ,uunpnycaash,,,1′−50,,1′−(5⋅10′′)
+50,googleuninum-rkt-fortynine-1,googleuninum-rkt,Ritchie2019,fortynine,49,ঊনপঞ্চাশ,uunpnycaash,,,[1]−{−}50,,[1]−{−}(5⋅10′′)
 51,googleuninum-rkt-fifty-1,googleuninum-rkt,Ritchie2019,fifty,50,পঞ্চাশ,pnycaash,,,50,,5⋅10′′
 52,googleuninum-rkt-fiftyone-1,googleuninum-rkt,Ritchie2019,fiftyone,51,একান্ন,ekaann,,,1+50,,1+(5⋅10′′)
 53,googleuninum-rkt-fiftytwo-1,googleuninum-rkt,Ritchie2019,fiftytwo,52,বায়ান্ন,baayaann,,,2′+50,,2′+(5⋅10′′)
@@ -58,7 +58,7 @@
 57,googleuninum-rkt-fiftysix-1,googleuninum-rkt,Ritchie2019,fiftysix,56,ছাপ্পান্ন,chaappaann,,,6+50,,6+(5⋅10′′)
 58,googleuninum-rkt-fiftyseven-1,googleuninum-rkt,Ritchie2019,fiftyseven,57,সাতান্ন,saataann,,,7+50,,7+(5⋅10′′)
 59,googleuninum-rkt-fiftyeight-1,googleuninum-rkt,Ritchie2019,fiftyeight,58,আটান্ন,aattaann,,,8+50,,8+(5⋅10′′)
-60,googleuninum-rkt-fiftynine-1,googleuninum-rkt,Ritchie2019,fiftynine,59,ঊনষাট,uunssaatt,,,1′−60,,1′−(6′⋅10′′′)
+60,googleuninum-rkt-fiftynine-1,googleuninum-rkt,Ritchie2019,fiftynine,59,ঊনষাট,uunssaatt,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′)
 61,googleuninum-rkt-sixty-1,googleuninum-rkt,Ritchie2019,sixty,60,ষাট,ssaatt,,,60,,6′⋅10′′′
 62,googleuninum-rkt-sixtyone-1,googleuninum-rkt,Ritchie2019,sixtyone,61,একষট্টি,eksstttti,,,1+60,,1+(6′⋅10′′′)
 63,googleuninum-rkt-sixtytwo-1,googleuninum-rkt,Ritchie2019,sixtytwo,62,বাষট্টি,baasstttti,,,2′+60,,2′+(6′⋅10′′′)
@@ -68,7 +68,7 @@
 67,googleuninum-rkt-sixtysix-1,googleuninum-rkt,Ritchie2019,sixtysix,66,ছেষট্টি,chesstttti,,,6+60,,6+(6′⋅10′′′)
 68,googleuninum-rkt-sixtyseven-1,googleuninum-rkt,Ritchie2019,sixtyseven,67,সাতষট্টি,saatsstttti,,,7+60,,7+(6′⋅10′′′)
 69,googleuninum-rkt-sixtyeight-1,googleuninum-rkt,Ritchie2019,sixtyeight,68,আটষট্টি,aattsstttti,,,8+60,,8+(6′⋅10′′′)
-70,googleuninum-rkt-sixtynine-1,googleuninum-rkt,Ritchie2019,sixtynine,69,ঊনসত্তর,uunsttr,,,1′−70,,1′−(7⋅10′′′′)
+70,googleuninum-rkt-sixtynine-1,googleuninum-rkt,Ritchie2019,sixtynine,69,ঊনসত্তর,uunsttr,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′)
 71,googleuninum-rkt-seventy-1,googleuninum-rkt,Ritchie2019,seventy,70,সত্তর,sttr,,,70,,7⋅10′′′′
 72,googleuninum-rkt-seventyone-1,googleuninum-rkt,Ritchie2019,seventyone,71,একাত্তর,ekaattr,,,1+70,,1+(7⋅10′′′′)
 73,googleuninum-rkt-seventytwo-1,googleuninum-rkt,Ritchie2019,seventytwo,72,বাহাত্তর,baahaattr,,,2′+70,,2′+(7⋅10′′′′)
@@ -78,7 +78,7 @@
 77,googleuninum-rkt-seventysix-1,googleuninum-rkt,Ritchie2019,seventysix,76,ছিয়াত্তর,chiyaattr,,,6+70,,6+(7⋅10′′′′)
 78,googleuninum-rkt-seventyseven-1,googleuninum-rkt,Ritchie2019,seventyseven,77,সাতাত্তর,saataattr,,,7+70,,7+(7⋅10′′′′)
 79,googleuninum-rkt-seventyeight-1,googleuninum-rkt,Ritchie2019,seventyeight,78,আটাত্তর,aattaattr,,,8+70,,8+(7⋅10′′′′)
-80,googleuninum-rkt-seventynine-1,googleuninum-rkt,Ritchie2019,seventynine,79,ঊনআশি,uunaashi,,,1′−80,,1′−(8⋅10′′′′′)
+80,googleuninum-rkt-seventynine-1,googleuninum-rkt,Ritchie2019,seventynine,79,ঊনআশি,uunaashi,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′)
 81,googleuninum-rkt-eighty-1,googleuninum-rkt,Ritchie2019,eighty,80,আশি,aashi,,,80,,8⋅10′′′′′
 82,googleuninum-rkt-eightyone-1,googleuninum-rkt,Ritchie2019,eightyone,81,একাশি,ekaashi,,,1+80,,1+(8⋅10′′′′′)
 83,googleuninum-rkt-eightytwo-1,googleuninum-rkt,Ritchie2019,eightytwo,82,বিরাশি,biraashi,,,2′+80,,2′+(8⋅10′′′′′)
@@ -88,7 +88,7 @@
 87,googleuninum-rkt-eightysix-1,googleuninum-rkt,Ritchie2019,eightysix,86,ছিয়াশি,chiyaashi,,,6+80,,6+(8⋅10′′′′′)
 88,googleuninum-rkt-eightyseven-1,googleuninum-rkt,Ritchie2019,eightyseven,87,সাতাশি,saataashi,,,7+80,,7+(8⋅10′′′′′)
 89,googleuninum-rkt-eightyeight-1,googleuninum-rkt,Ritchie2019,eightyeight,88,আটাশি,aattaashi,,,8+80,,8+(8⋅10′′′′′)
-90,googleuninum-rkt-eightynine-1,googleuninum-rkt,Ritchie2019,eightynine,89,ঊননব্বই,uunnbbi,,,1′−90,,1′−(9⋅10′′′′′′)
+90,googleuninum-rkt-eightynine-1,googleuninum-rkt,Ritchie2019,eightynine,89,ঊননব্বই,uunnbbi,,,[1]−{−}90,,[1]−{−}(9⋅10′′′′′′)
 91,googleuninum-rkt-ninety-1,googleuninum-rkt,Ritchie2019,ninety,90,নব্বই,nbbi,,,90,,9⋅10′′′′′′
 92,googleuninum-rkt-ninetyone-1,googleuninum-rkt,Ritchie2019,ninetyone,91,একানব্বই,ekaanbbi,,,1+90,,1+(9⋅10′′′′′′)
 93,googleuninum-rkt-ninetytwo-1,googleuninum-rkt,Ritchie2019,ninetytwo,92,বিরানব্বই,biraanbbi,,,2′+90,,2′+(9⋅10′′′′′′)

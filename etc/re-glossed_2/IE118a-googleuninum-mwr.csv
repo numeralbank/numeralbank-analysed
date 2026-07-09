@@ -18,7 +18,7 @@
 17,googleuninum-mwr-sixteen-1,googleuninum-mwr,Ritchie2019,sixteen,16,सौलह,saulh,,,6′+10′,,
 18,googleuninum-mwr-seventeen-1,googleuninum-mwr,Ritchie2019,seventeen,17,सत्रह,strh,,,7+10′,,
 19,googleuninum-mwr-eighteen-1,googleuninum-mwr,Ritchie2019,eighteen,18,अठारह,atthaarh,,,8+10′,,
-20,googleuninum-mwr-nineteen-1,googleuninum-mwr,Ritchie2019,nineteen,19,उन्नीस,unniis,,,1′′−([2′]⋅10′′),,
+20,googleuninum-mwr-nineteen-1,googleuninum-mwr,Ritchie2019,nineteen,19,उन्नीस,unniis,,,[1]−{−}([2′]⋅10′′),,
 21,googleuninum-mwr-twenty-1,googleuninum-mwr,Ritchie2019,twenty,20,बीस,biis,,,2′⋅10′′,,
 22,googleuninum-mwr-twentyone-1,googleuninum-mwr,Ritchie2019,twentyone,21,इक्कीस,ikkiis,,,1+([2′]⋅10′′),,
 23,googleuninum-mwr-twentytwo-1,googleuninum-mwr,Ritchie2019,twentytwo,22,बाईस,baaiis,,,2′+([2′]⋅10′′),,
@@ -28,7 +28,7 @@
 27,googleuninum-mwr-twentysix-1,googleuninum-mwr,Ritchie2019,twentysix,26,छब्बीस,chbbiis,,,6+(2′⋅10′′),,
 28,googleuninum-mwr-twentyseven-1,googleuninum-mwr,Ritchie2019,twentyseven,27,सत्ताईस,sttaaiis,,,7+([2′]⋅10′′),,
 29,googleuninum-mwr-twentyeight-1,googleuninum-mwr,Ritchie2019,twentyeight,28,अट्ठाइस,atttthaais,,,8+([2′]⋅10′′),,
-30,googleuninum-mwr-twentynine-1,googleuninum-mwr,Ritchie2019,twentynine,29,उनतीस,untiis,,,1′′−(3⋅10′′),,
+30,googleuninum-mwr-twentynine-1,googleuninum-mwr,Ritchie2019,twentynine,29,उनतीस,untiis,,,[1]−{−}(3⋅10′′),,
 31,googleuninum-mwr-thirty-1,googleuninum-mwr,Ritchie2019,thirty,30,तीस,tiis,,,3⋅10′′,,
 32,googleuninum-mwr-thirtyone-1,googleuninum-mwr,Ritchie2019,thirtyone,31,इकतीस,iktiis,,,1+(3⋅10′′),,
 33,googleuninum-mwr-thirtytwo-1,googleuninum-mwr,Ritchie2019,thirtytwo,32,बत्तीस,bttiis,,,2′+(3⋅10′′),,
@@ -38,7 +38,7 @@
 37,googleuninum-mwr-thirtysix-1,googleuninum-mwr,Ritchie2019,thirtysix,36,छत्तीस,chttiis,,,6+(3⋅10′′),,
 38,googleuninum-mwr-thirtyseven-1,googleuninum-mwr,Ritchie2019,thirtyseven,37,सैंतीस,saintiis,,,7+(3⋅10′′),,
 39,googleuninum-mwr-thirtyeight-1,googleuninum-mwr,Ritchie2019,thirtyeight,38,अड़तीस,addtiis,,,8+(3⋅10′′),,
-40,googleuninum-mwr-thirtynine-1,googleuninum-mwr,Ritchie2019,thirtynine,39,उन्तालीस,untaaliis,,,1′′−(4⋅10′′),,
+40,googleuninum-mwr-thirtynine-1,googleuninum-mwr,Ritchie2019,thirtynine,39,उन्तालीस,untaaliis,,,[1]−{−}(4⋅10′′),,
 41,googleuninum-mwr-forty-1,googleuninum-mwr,Ritchie2019,forty,40,चालीस,caaliis,,,4⋅10′′,,
 42,googleuninum-mwr-fortyone-1,googleuninum-mwr,Ritchie2019,fortyone,41,इकतालीस,iktaaliis,,,1+(4⋅1),,
 43,googleuninum-mwr-fortytwo-1,googleuninum-mwr,Ritchie2019,fortytwo,42,बयालीस,byaaliis,,,2′+(4⋅10′′),,
@@ -50,7 +50,7 @@
 49,googleuninum-mwr-fortysix-1,googleuninum-mwr,Ritchie2019,fortysix,46,छियालीस,chiyaaliis,,,6+(4⋅10′′),,
 50,googleuninum-mwr-fortyseven-1,googleuninum-mwr,Ritchie2019,fortyseven,47,सैंतालीस,saintaaliis,,,7+(4⋅10′′),,
 51,googleuninum-mwr-fortyeight-1,googleuninum-mwr,Ritchie2019,fortyeight,48,अड़तालीस,addtaaliis,,,8+(4⋅10′′),,
-52,googleuninum-mwr-fortynine-1,googleuninum-mwr,Ritchie2019,fortynine,49,उन्चास,uncaas,,,1′′−50,,1′′−(5⋅10′′′)
+52,googleuninum-mwr-fortynine-1,googleuninum-mwr,Ritchie2019,fortynine,49,उन्चास,uncaas,,,[1]−{−}50,,[1]−{−}(5⋅10′′′)
 53,googleuninum-mwr-fifty-1,googleuninum-mwr,Ritchie2019,fifty,50,पचास,pcaas,,,50,,5⋅10′′′
 54,googleuninum-mwr-fiftyone-1,googleuninum-mwr,Ritchie2019,fiftyone,51,इक्यावन,ikyaavn,,,1+50′,,1+(5⋅10′′′)
 55,googleuninum-mwr-fiftytwo-1,googleuninum-mwr,Ritchie2019,fiftytwo,52,बावन,baavn,,,2′+50′,,2′+(5⋅10′′′)
@@ -61,7 +61,7 @@
 60,googleuninum-mwr-fiftysix-1,googleuninum-mwr,Ritchie2019,fiftysix,56,छप्पन,chppn,,,6+50′,,6+(5⋅10′′′)
 61,googleuninum-mwr-fiftyseven-1,googleuninum-mwr,Ritchie2019,fiftyseven,57,सतावन,staavn,,,7+50′,,7+(5⋅10′′′)
 62,googleuninum-mwr-fiftyeight-1,googleuninum-mwr,Ritchie2019,fiftyeight,58,अठावन,atthaavn,,,8+50′,,8+(5⋅10′′′)
-63,googleuninum-mwr-fiftynine-1,googleuninum-mwr,Ritchie2019,fiftynine,59,उनसठ,unstth,,,1′′′−60,,1′′′−(6′⋅10′′′′)
+63,googleuninum-mwr-fiftynine-1,googleuninum-mwr,Ritchie2019,fiftynine,59,उनसठ,unstth,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′′)
 64,googleuninum-mwr-sixty-1,googleuninum-mwr,Ritchie2019,sixty,60,साठ,saatth,,,60,,6′⋅10′′′′
 65,googleuninum-mwr-sixtyone-1,googleuninum-mwr,Ritchie2019,sixtyone,61,इकसठ,ikstth,,,1+60,,1+(6′⋅10′′′′)
 66,googleuninum-mwr-sixtytwo-1,googleuninum-mwr,Ritchie2019,sixtytwo,62,बासठ,baastth,,,2′+60,,2′+(6′⋅10′′′′)
@@ -71,7 +71,7 @@
 70,googleuninum-mwr-sixtysix-1,googleuninum-mwr,Ritchie2019,sixtysix,66,छियासठ,chiyaastth,,,6+60,,6+(6′⋅10′′′′)
 71,googleuninum-mwr-sixtyseven-1,googleuninum-mwr,Ritchie2019,sixtyseven,67,सड़सठ,sddstth,,,7+60,,7+(6′⋅10′′′′)
 72,googleuninum-mwr-sixtyeight-1,googleuninum-mwr,Ritchie2019,sixtyeight,68,अड़सठ,addstth,,,8+60,,8+(6′⋅10′′′′)
-73,googleuninum-mwr-sixtynine-1,googleuninum-mwr,Ritchie2019,sixtynine,69,उनहतर,unhtr,,,1′′′−70,,1′′′−(7⋅10′′′′′)
+73,googleuninum-mwr-sixtynine-1,googleuninum-mwr,Ritchie2019,sixtynine,69,उनहतर,unhtr,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
 74,googleuninum-mwr-seventy-1,googleuninum-mwr,Ritchie2019,seventy,70,सत्तर,sttr,,,70,,7⋅10′′′′′
 75,googleuninum-mwr-seventyone-1,googleuninum-mwr,Ritchie2019,seventyone,71,इकहतर,ikhtr,,,1+70,,1+(7⋅10′′′′′)
 76,googleuninum-mwr-seventytwo-1,googleuninum-mwr,Ritchie2019,seventytwo,72,बहतर,bhtr,,,2′+70,,2′+(7⋅10′′′′′)
@@ -81,7 +81,7 @@
 80,googleuninum-mwr-seventysix-1,googleuninum-mwr,Ritchie2019,seventysix,76,छिहतर,chihtr,,,6+70,,6+(7⋅10′′′′′)
 81,googleuninum-mwr-seventyseven-1,googleuninum-mwr,Ritchie2019,seventyseven,77,सतहतर,sthtr,,,7+70,,7+(7⋅10′′′′′)
 82,googleuninum-mwr-seventyeight-1,googleuninum-mwr,Ritchie2019,seventyeight,78,अठहतर,atthhtr,,,8+70,,8+(7⋅10′′′′′)
-83,googleuninum-mwr-seventynine-1,googleuninum-mwr,Ritchie2019,seventynine,79,उन्नासी,unnaasii,,,1′′′−80,,1′′′−(8⋅10′′′′′′)
+83,googleuninum-mwr-seventynine-1,googleuninum-mwr,Ritchie2019,seventynine,79,उन्नासी,unnaasii,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
 84,googleuninum-mwr-eighty-1,googleuninum-mwr,Ritchie2019,eighty,80,अस्सी,assii,,,80,,8⋅10′′′′′′
 85,googleuninum-mwr-eightyone-1,googleuninum-mwr,Ritchie2019,eightyone,81,इक्यासी,ikyaasii,,,1+80,,1+(8⋅10′′′′′′)
 86,googleuninum-mwr-eightytwo-1,googleuninum-mwr,Ritchie2019,eightytwo,82,बयासी,byaasii,,,2′+80,,2′+(8⋅10′′′′′′)

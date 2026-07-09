@@ -17,7 +17,7 @@
 16,sand-Bengali-sixteen-1,sand-Bengali,Mamta2023,sixteen,16,solo,solo,,,6′+10′,,
 17,sand-Bengali-seventeen-1,sand-Bengali,Mamta2023,seventeen,17,sɔtero,sotero,,,7+10′,,
 18,sand-Bengali-eighteen-1,sand-Bengali,Mamta2023,eighteen,18,ɑ:ʈʰero,athero,,,8+10′,,
-19,sand-Bengali-nineteen-1,sand-Bengali,Mamta2023,nineteen,19,uni:s,unis,,,1′−([2′]⋅10′′),,
+19,sand-Bengali-nineteen-1,sand-Bengali,Mamta2023,nineteen,19,uni:s,unis,,,[1]−{−}([2′]⋅10′′),,
 20,sand-Bengali-twenty-1,sand-Bengali,Mamta2023,twenty,20,kurɪ,kuri,,,20,,
 21,sand-Bengali-twentyone-1,sand-Bengali,Mamta2023,twentyone,21,eku:s,ekus,,,1+([2′]⋅10′′),,
 22,sand-Bengali-twentytwo-1,sand-Bengali,Mamta2023,twentytwo,22,baɪs,bais,,,2′+([2′]⋅10′′),,
@@ -27,7 +27,7 @@
 26,sand-Bengali-twentysix-1,sand-Bengali,Mamta2023,twentysix,26,cʰɑbbɪs,chabbis,,,6+(2⋅10′′),,
 27,sand-Bengali-twentyseven-1,sand-Bengali,Mamta2023,twentyseven,27,sɑtɑs,satas,,,7+([2′]⋅10′′),,
 28,sand-Bengali-twentyeight-1,sand-Bengali,Mamta2023,twentyeight,28,ɑʈʰɑs,athas,,,8+([2′]⋅10′′),,
-29,sand-Bengali-twentynine-1,sand-Bengali,Mamta2023,twentynine,29,untɪrɪs,untiris,,,1′−(3⋅10′′),,
+29,sand-Bengali-twentynine-1,sand-Bengali,Mamta2023,twentynine,29,untɪrɪs,untiris,,,[1]−{−}(3⋅10′′),,
 30,sand-Bengali-thirty-1,sand-Bengali,Mamta2023,thirty,30,tɪrɪs,tiris,,,3⋅10′′,,
 31,sand-Bengali-thirtyone-1,sand-Bengali,Mamta2023,thirtyone,31,ektɪrɪs,ektiris,,,1+(3⋅10′′),,
 32,sand-Bengali-thirtytwo-1,sand-Bengali,Mamta2023,thirtytwo,32,bottɪrɪs,bottiris,,,2′+(3⋅10′′),,
@@ -37,7 +37,7 @@
 36,sand-Bengali-thirtysix-1,sand-Bengali,Mamta2023,thirtysix,36,cɔtɪris,cotiris,,,6+(3⋅10′′),,
 37,sand-Bengali-thirtyseven-1,sand-Bengali,Mamta2023,thirtyseven,37,sɑ̃ɪtɪris,saitiris,,,7+(3⋅10′′),,
 38,sand-Bengali-thirtyeight-1,sand-Bengali,Mamta2023,thirtyeight,38,ɑ:ttɪris,attiris,,,8+(3⋅10′′),,
-39,sand-Bengali-thirtynine-1,sand-Bengali,Mamta2023,thirtynine,39,unocollis,unocollis,,,1′−(4⋅10′′),,
+39,sand-Bengali-thirtynine-1,sand-Bengali,Mamta2023,thirtynine,39,unocollis,unocollis,,,[1]−{−}(4⋅10′′),,
 40,sand-Bengali-forty-1,sand-Bengali,Mamta2023,forty,40,collis,collis,,,4⋅10′′,,
 41,sand-Bengali-fortyone-1,sand-Bengali,Mamta2023,fortyone,41,ekcollis,ekcollis,,,1+(4⋅10′′),,
 42,sand-Bengali-fortytwo-1,sand-Bengali,Mamta2023,fortytwo,42,bɪɑllis,biallis,,,2′+(4⋅10′′),,
@@ -47,7 +47,7 @@
 46,sand-Bengali-fortysix-1,sand-Bengali,Mamta2023,fortysix,46,cʰɪɑllis,chiallis,,,6+(4⋅10′′),,
 47,sand-Bengali-fortyseven-1,sand-Bengali,Mamta2023,fortyseven,47,sɑtcollis,satcollis,,,7+(4⋅10′′),,
 48,sand-Bengali-fortyeight-1,sand-Bengali,Mamta2023,fortyeight,48,ɑʈcollis,atcollis,,,8+(4⋅10′′),,
-49,sand-Bengali-fortynine-1,sand-Bengali,Mamta2023,fortynine,49,unopɔncɑ:s,unoponcas,,,1′−(5⋅10′′),,
+49,sand-Bengali-fortynine-1,sand-Bengali,Mamta2023,fortynine,49,unopɔncɑ:s,unoponcas,,,[1]−{−}(5⋅10′′),,
 50,sand-Bengali-fifty-1,sand-Bengali,Mamta2023,fifty,50,pɔncɑ:s,poncas,,,5⋅10′′,,50
 51,sand-Bengali-fiftyone-1,sand-Bengali,Mamta2023,fiftyone,51,ɛkɑnno,ekanno,,,1+50,,
 52,sand-Bengali-fiftytwo-1,sand-Bengali,Mamta2023,fiftytwo,52,bɑhɑnno,bahanno,,,2′+50,,
@@ -57,7 +57,7 @@
 56,sand-Bengali-fiftysix-1,sand-Bengali,Mamta2023,fiftysix,56,cʰɑppɑnno,chappanno,,,6+50,,
 57,sand-Bengali-fiftyseven-1,sand-Bengali,Mamta2023,fiftyseven,57,sɑtɑnno,satanno,,,7+50,,
 58,sand-Bengali-fiftyeight-1,sand-Bengali,Mamta2023,fiftyeight,58,ɑ:ʈʰɑnno,athanno,,,8+50,,
-59,sand-Bengali-fiftynine-1,sand-Bengali,Mamta2023,fiftynine,59,unosɑ:ʈ,unosat,,,1′−60,,1′−(6⋅10′′′)
+59,sand-Bengali-fiftynine-1,sand-Bengali,Mamta2023,fiftynine,59,unosɑ:ʈ,unosat,,,[1]−{−}60,,[1]−{−}(6⋅10′′′)
 60,sand-Bengali-sixty-1,sand-Bengali,Mamta2023,sixty,60,sɑ:ʈ,sat,,,60,,6⋅10′′′
 61,sand-Bengali-sixtyone-1,sand-Bengali,Mamta2023,sixtyone,61,eksoʈʈɪ,eksotti,,,1+60,,1+(6⋅10′′′)
 62,sand-Bengali-sixtytwo-1,sand-Bengali,Mamta2023,sixtytwo,62,bɑsoʈʈɪ,basotti,,,2′+60,,2+(6⋅10′′′)
@@ -67,7 +67,7 @@
 66,sand-Bengali-sixtysix-1,sand-Bengali,Mamta2023,sixtysix,66,cʰesoʈʈɪ,chesotti,,,6+60,,6+(6⋅10′′′)
 67,sand-Bengali-sixtyseven-1,sand-Bengali,Mamta2023,sixtyseven,67,sɑtsoʈʈɪ,satsotti,,,7+60,,7+(6⋅10′′′)
 68,sand-Bengali-sixtyeight-1,sand-Bengali,Mamta2023,sixtyeight,68,ɑ:tsoʈʈɪ,atsotti,,,8+60,,8+(6⋅10′′′)
-69,sand-Bengali-sixtynine-1,sand-Bengali,Mamta2023,sixtynine,69,unosottor,unosottor,,,1′−70,,1′−(7⋅10′′′′)
+69,sand-Bengali-sixtynine-1,sand-Bengali,Mamta2023,sixtynine,69,unosottor,unosottor,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′)
 70,sand-Bengali-seventy-1,sand-Bengali,Mamta2023,seventy,70,sottor,sottor,,,70,,7⋅10′′′′
 71,sand-Bengali-seventyone-1,sand-Bengali,Mamta2023,seventyone,71,ɛkɑttor,ekattor,,,1+70,,1+(7⋅10′′′′)
 72,sand-Bengali-seventytwo-1,sand-Bengali,Mamta2023,seventytwo,72,bahattor,bahattor,,,2′+70,,2′+(7⋅10′′′′)
@@ -77,7 +77,7 @@
 76,sand-Bengali-seventysix-1,sand-Bengali,Mamta2023,seventysix,76,cʰɪɑttor,chiattor,,,6+70,,6+(7⋅10′′′′)
 77,sand-Bengali-seventyseven-1,sand-Bengali,Mamta2023,seventyseven,77,sɑtɑttor,satattor,,,7+70,,7+(7⋅10′′′′)
 78,sand-Bengali-seventyeight-1,sand-Bengali,Mamta2023,seventyeight,78,ɑ:ʈʰɑttor,athattor,,,8+70,,8+(7⋅10′′′′)
-79,sand-Bengali-seventynine-1,sand-Bengali,Mamta2023,seventynine,79,unoɑ:sɪ,unoasi,,,1′−80,,1′−(8⋅10′′′′′)
+79,sand-Bengali-seventynine-1,sand-Bengali,Mamta2023,seventynine,79,unoɑ:sɪ,unoasi,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′)
 80,sand-Bengali-eighty-1,sand-Bengali,Mamta2023,eighty,80,ɑ:sɪ,asi,,,80,,8⋅10′′′′′
 81,sand-Bengali-eightyone-1,sand-Bengali,Mamta2023,eightyone,81,ɛkɑ:sɪ,ekasi,,,1+80,,1+(8⋅10′′′′′)
 82,sand-Bengali-eightytwo-1,sand-Bengali,Mamta2023,eightytwo,82,bɪrɑ:sɪ,birasi,,,2′+80,,2′+(8⋅10′′′′′)
@@ -87,7 +87,7 @@
 86,sand-Bengali-eightysix-1,sand-Bengali,Mamta2023,eightysix,86,cʰɪɑ:sɪ,chiasi,,,6+80,,6+(8⋅10′′′′′)
 87,sand-Bengali-eightyseven-1,sand-Bengali,Mamta2023,eightyseven,87,sɑtɑ:sɪ,satasi,,,7+80,,7+(8⋅10′′′′′)
 88,sand-Bengali-eightyeight-1,sand-Bengali,Mamta2023,eightyeight,88,ɔstoɑ:sɪ,ostoasi,,,8+80,,8+(8⋅10′′′′′)
-89,sand-Bengali-eightynine-1,sand-Bengali,Mamta2023,eightynine,89,unonobbo-i,unonobboi,,,1′−90,,1′−(9⋅10′′′′′′)
+89,sand-Bengali-eightynine-1,sand-Bengali,Mamta2023,eightynine,89,unonobbo-i,unonobboi,,,[1]−{−}90,,[1]−{−}(9⋅10′′′′′′)
 90,sand-Bengali-ninety-1,sand-Bengali,Mamta2023,ninety,90,nobboɪ,nobboi,,,90,,9⋅10′′′′′′
 91,sand-Bengali-ninetyone-1,sand-Bengali,Mamta2023,ninetyone,91,ɛkɑnobboɪ,ekanobboi,,,1+90,,1+(9⋅10′′′′′′)
 92,sand-Bengali-ninetytwo-1,sand-Bengali,Mamta2023,ninetytwo,92,bɪrɑnobboɪ,biranobboi,,,2′+90,,2′+(9⋅10′′′′′′)

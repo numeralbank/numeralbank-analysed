@@ -17,7 +17,7 @@
 16,sand-Bajjika-sixteen-1,sand-Bajjika,Mamta2023,sixteen,16,solɑ,sola,,,6′+10′,,
 17,sand-Bajjika-seventeen-1,sand-Bajjika,Mamta2023,seventeen,17,sətrɑ,satra,,,7+10′,,
 18,sand-Bajjika-eighteen-1,sand-Bajjika,Mamta2023,eighteen,18,əʈʰɑrɑ,athara,,,8+10′,,
-19,sand-Bajjika-nineteen-1,sand-Bajjika,Mamta2023,nineteen,19,unəis,unais,,,1′−([2′]⋅10′′),,
+19,sand-Bajjika-nineteen-1,sand-Bajjika,Mamta2023,nineteen,19,unəis,unais,,,[1]−{−}([2′]⋅10′′),,
 20,sand-Bajjika-twenty-1,sand-Bajjika,Mamta2023,twenty,20,bis,bis,,,2′⋅10′′,,
 21,sand-Bajjika-twentyone-1,sand-Bajjika,Mamta2023,twentyone,21,ekəis,ekais,,,1+([2′]⋅10′′),,
 22,sand-Bajjika-twentytwo-1,sand-Bajjika,Mamta2023,twentytwo,22,bɑis,bais,,,2′+([2′]⋅10′′),,
@@ -27,7 +27,7 @@
 26,sand-Bajjika-twentysix-1,sand-Bajjika,Mamta2023,twentysix,26,cʰəbbis,chabbis,,,6+(2′⋅10′′),,
 27,sand-Bajjika-twentyseven-1,sand-Bajjika,Mamta2023,twentyseven,27,sətɑis,satais,,,7+([2′]⋅10′′),,
 28,sand-Bajjika-twentyeight-1,sand-Bajjika,Mamta2023,twentyeight,28,əʈʰɑis,athais,,,8+([2′]⋅10′′),,
-29,sand-Bajjika-twentynine-1,sand-Bajjika,Mamta2023,twentynine,29,untis,untis,,,1′−(3⋅10′′),,
+29,sand-Bajjika-twentynine-1,sand-Bajjika,Mamta2023,twentynine,29,untis,untis,,,[1]−{−}(3⋅10′′),,
 30,sand-Bajjika-thirty-1,sand-Bajjika,Mamta2023,thirty,30,tis,tis,,,3⋅10′′,,
 31,sand-Bajjika-thirtyone-1,sand-Bajjika,Mamta2023,thirtyone,31,ektis,ektis,,,1+(3⋅10′′),,
 32,sand-Bajjika-thirtytwo-1,sand-Bajjika,Mamta2023,thirtytwo,32,bəttis,battis,,,2′+(3⋅10′′),,
@@ -37,7 +37,7 @@
 36,sand-Bajjika-thirtysix-1,sand-Bajjika,Mamta2023,thirtysix,36,cʰəttis,chattis,,,6+(3⋅10′′),,
 37,sand-Bajjika-thirtyseven-1,sand-Bajjika,Mamta2023,thirtyseven,37,sɛtis,setis,,,7+(3⋅10′′),,
 38,sand-Bajjika-thirtyeight-1,sand-Bajjika,Mamta2023,thirtyeight,38,əɽtis,artis,,,8+(3⋅10′′),,
-39,sand-Bajjika-thirtynine-1,sand-Bajjika,Mamta2023,thirtynine,39,uncɑlis,uncalis,,,1′′−(4⋅10′′),,
+39,sand-Bajjika-thirtynine-1,sand-Bajjika,Mamta2023,thirtynine,39,uncɑlis,uncalis,,,[1]−{−}(4⋅10′′),,
 40,sand-Bajjika-forty-1,sand-Bajjika,Mamta2023,forty,40,cɑlis,calis,,,4⋅10′′,,
 41,sand-Bajjika-fortyone-1,sand-Bajjika,Mamta2023,fortyone,41,ektɑlis,ektalis,,,1+(4⋅10′′),,
 42,sand-Bajjika-fortytwo-1,sand-Bajjika,Mamta2023,fortytwo,42,bejɑlis,bejalis,,,2′+(4⋅10′′),,
@@ -47,7 +47,7 @@
 46,sand-Bajjika-fortysix-1,sand-Bajjika,Mamta2023,fortysix,46,cʰejɑlis,chejalis,,,6+(4⋅10′′),,
 47,sand-Bajjika-fortyseven-1,sand-Bajjika,Mamta2023,fortyseven,47,sɛtɑlis,setalis,,,7+(4⋅10′′),,
 48,sand-Bajjika-fortyeight-1,sand-Bajjika,Mamta2023,fortyeight,48,əɽtɑlis,artalis,,,8+(4⋅10′′),,
-49,sand-Bajjika-fortynine-1,sand-Bajjika,Mamta2023,fortynine,49,uncɑs,uncas,,,1′′−50,,1′′−(5⋅10′′′)
+49,sand-Bajjika-fortynine-1,sand-Bajjika,Mamta2023,fortynine,49,uncɑs,uncas,,,[1]−{−}50,,[1]−{−}(5⋅10′′′)
 50,sand-Bajjika-fifty-1,sand-Bajjika,Mamta2023,fifty,50,pəcɑs,pacas,,,50,,5⋅10′′′
 51,sand-Bajjika-fiftyone-1,sand-Bajjika,Mamta2023,fiftyone,51,ekɑʋən,ekavan,,,1+50′,,1+(5⋅10′′′)
 52,sand-Bajjika-fiftytwo-1,sand-Bajjika,Mamta2023,fiftytwo,52,bɑʋən,bavan,,,2′+50′,,2′+(5⋅10′′′)
@@ -57,7 +57,7 @@
 56,sand-Bajjika-fiftysix-1,sand-Bajjika,Mamta2023,fiftysix,56,cʰəppən,chappan,,,6+50′,,6+(5⋅10′′′)
 57,sand-Bajjika-fiftyseven-1,sand-Bajjika,Mamta2023,fiftyseven,57,səntɑʋən,santavan,,,7+50′,,7+(5⋅10′′′)
 58,sand-Bajjika-fiftyeight-1,sand-Bajjika,Mamta2023,fiftyeight,58,ənʈʰɑʋən,anthavan,,,8+50′,,8+(5⋅10′′′)
-59,sand-Bajjika-fiftynine-1,sand-Bajjika,Mamta2023,fiftynine,59,unsəʈʰ,unsath,,,1′′−60,,1′′−(6′⋅10′′′′)
+59,sand-Bajjika-fiftynine-1,sand-Bajjika,Mamta2023,fiftynine,59,unsəʈʰ,unsath,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′′)
 60,sand-Bajjika-sixty-1,sand-Bajjika,Mamta2023,sixty,60,sɑʈʰ,sath,,,60,,6′⋅10′′′′
 61,sand-Bajjika-sixtyone-1,sand-Bajjika,Mamta2023,sixtyone,61,eksəʈʰ,eksath,,,1+60,,1+(6′⋅10′′′′)
 62,sand-Bajjika-sixtytwo-1,sand-Bajjika,Mamta2023,sixtytwo,62,bɑsəʈʰ,basath,,,2′+60,,2′+(6′⋅10′′′′)
@@ -67,7 +67,7 @@
 66,sand-Bajjika-sixtysix-1,sand-Bajjika,Mamta2023,sixtysix,66,cʰijɑsəʈʰ,chijasath,,,6+60,,6+(6′⋅10′′′′)
 67,sand-Bajjika-sixtyseven-1,sand-Bajjika,Mamta2023,sixtyseven,67,sərsəʈʰ,sarsath,,,7+60,,7+(6′⋅10′′′′)
 68,sand-Bajjika-sixtyeight-1,sand-Bajjika,Mamta2023,sixtyeight,68,ərsəʈʰ,arsath,,,8+60,,8+(6′⋅10′′′′)
-69,sand-Bajjika-sixtynine-1,sand-Bajjika,Mamta2023,sixtynine,69,unhəttər,unhattar,,,1′′−70,,1′′−(7⋅10′′′′′)
+69,sand-Bajjika-sixtynine-1,sand-Bajjika,Mamta2023,sixtynine,69,unhəttər,unhattar,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
 70,sand-Bajjika-seventy-1,sand-Bajjika,Mamta2023,seventy,70,səttər,sattar,,,70,,7⋅10′′′′′
 71,sand-Bajjika-seventyone-1,sand-Bajjika,Mamta2023,seventyone,71,ekhəttər,ekhattar,,,1+70,,1+(7⋅10′′′′′)
 72,sand-Bajjika-seventytwo-1,sand-Bajjika,Mamta2023,seventytwo,72,bəhəttər,bahattar,,,2′+70,,2′+(7⋅10′′′′′)
@@ -77,7 +77,7 @@
 76,sand-Bajjika-seventysix-1,sand-Bajjika,Mamta2023,seventysix,76,cʰihəttər,chihattar,,,6+70,,6+(7⋅10′′′′′)
 77,sand-Bajjika-seventyseven-1,sand-Bajjika,Mamta2023,seventyseven,77,səttətər,sattatar,,,7+70,,7+(7⋅10′′′′′)
 78,sand-Bajjika-seventyeight-1,sand-Bajjika,Mamta2023,seventyeight,78,əʈʰəttər,athattar,,,8+70,,8+(7⋅10′′′′′)
-79,sand-Bajjika-seventynine-1,sand-Bajjika,Mamta2023,seventynine,79,unɑsi,unasi,,,1′′−80,,1′′−(8⋅10′′′′′′)
+79,sand-Bajjika-seventynine-1,sand-Bajjika,Mamta2023,seventynine,79,unɑsi,unasi,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
 80,sand-Bajjika-eighty-1,sand-Bajjika,Mamta2023,eighty,80,əssi,assi,,,80,,8⋅10′′′′′′
 81,sand-Bajjika-eightyone-1,sand-Bajjika,Mamta2023,eightyone,81,ekɑsi,ekasi,,,1+80,,1+(8⋅10′′′′′′)
 82,sand-Bajjika-eightytwo-1,sand-Bajjika,Mamta2023,eightytwo,82,berɑsi,berasi,,,2′+80,,2′+(8⋅10′′′′′′)
