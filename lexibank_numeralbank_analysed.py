@@ -1,20 +1,33 @@
 import json
 import pathlib
 import subprocess
-from collections import defaultdict, namedtuple
+from collections import Counter, defaultdict, namedtuple
 
 import attr
 import pycldf
 from cldfzenodo.api import API as ZenodoAPI
 from cldfzenodo.record import GithubRepos
 from clldutils.misc import slug
-from cltoolkit import Wordlist
 from git import Repo, GitCommandError
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Lexeme
 from pylexibank import progressbar
 from unidecode import unidecode
 
+
+# just to save me some typing
+CLDF_ID = 'http://cldf.clld.org/v1.0/terms.rdf#id'
+CLDF_NAME = 'http://cldf.clld.org/v1.0/terms.rdf#name'
+CLDF_GLOTTOCODE = 'http://cldf.clld.org/v1.0/terms.rdf#glottocode'
+CLDF_FORM = 'http://cldf.clld.org/v1.0/terms.rdf#form'
+CLDF_VALUE = 'http://cldf.clld.org/v1.0/terms.rdf#value'
+CLDF_COMMENT = 'http://cldf.clld.org/v1.0/terms.rdf#comment'
+CLDF_LATITUDE = 'http://cldf.clld.org/v1.0/terms.rdf#latitude'
+CLDF_LONGITUDE = 'http://cldf.clld.org/v1.0/terms.rdf#longitude'
+CLDF_MACROAREA = 'http://cldf.clld.org/v1.0/terms.rdf#macroarea'
+CLDF_LANGUAGE_ID = 'http://cldf.clld.org/v1.0/terms.rdf#languageReference'
+CLDF_PARAMETER_ID = 'http://cldf.clld.org/v1.0/terms.rdf#parameterReference'
+CLDF_CONCEPTICON_ID = 'http://cldf.clld.org/v1.0/terms.rdf#concepticonReference'
 
 GlossKey = namedtuple("GlossKey", "language_id parameter_id value")
 Gloss = namedtuple("Gloss", "gloss gloss_clean gloss_math gloss_calc")
@@ -63,27 +76,37 @@ class CustomLanguage(Language):
     BaseInSource = attr.ib(default=None)
 
 
-def coverage(language, concepts):
-    return len([c.id for c in language.concepts if c.id in concepts]) / len(concepts)
+def coverage(forms, concept_set):
+    # NOTE: `concept_set` refers to concept ids (i.e. the lower-case ones),
+    # not concepticon glosses (the upper-case ones).
+    language_concepts = {
+        (form[CLDF_LANGUAGE_ID], form[CLDF_PARAMETER_ID])
+        for form in forms}
+    counts = Counter(
+        language_id
+        for language_id, _ in language_concepts)
+    return {
+        language_id: count / len(concept_set)
+        for language_id, count in counts.most_common()}
 
 
-def git_last_commit_date(p, git_command="git"):
-    p = pathlib.Path(p)
-    if not p.exists():
+def git_last_commit_date(path, git_command="git"):
+    path = pathlib.Path(path)
+    if not path.exists():
         raise ValueError("cannot read from non-existent directory")
-    p = p.resolve()
+    path = path.resolve()
     cmd = [
         git_command,
-        "--git-dir={0}".format(p.joinpath(".git")),
+        "--git-dir={0}".format(path.joinpath(".git")),
         "--no-pager",
         "log",
         "-1",
         '--format="%ai"',
     ]
     try:
-        p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        stdout, stderr = p.communicate()
-        if p.returncode == 0:
+        proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        stdout, stderr = proc.communicate()
+        if proc.returncode == 0:
             res = stdout.strip()  # pragma: no cover
         else:
             raise ValueError(stderr)
@@ -149,6 +172,7 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
+        # FIXME: rename to reflect that this just maps concepticon glosses to number values
         all_concepts = {
             concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts
         }
@@ -200,14 +224,73 @@ class Dataset(BaseDataset):
                 )
             )
 
-        wl = Wordlist(
-            [
-                pycldf.Dataset.from_metadata(
-                    self.raw_dir.joinpath(ds, "cldf", "cldf-metadata.json")
-                )
-                for ds in datasets
-            ]
-        )
+        cldf_datasets = [
+            pycldf.Dataset.from_metadata(self.raw_dir / ds / "cldf" / "cldf-metadata.json")
+            for ds in datasets]
+
+        languages = {}
+        # XXX: maybe get rid of this and use the concepts from self.concepts instead?
+        concepts = {}
+        forms = []
+
+        # FIXME: duplicate of all_concepts above
+        number_concepts_all = {
+            concept['CONCEPTICON_GLOSS']: concept
+            for concept in self.concepts}
+
+        for ds in cldf_datasets:
+            dsid = ds.metadata_dict['rdf:ID']
+            ds_languages = {
+                lg[CLDF_ID]: lg
+                for lg in ds.iter_rows(
+                    'LanguageTable',
+                    CLDF_ID,
+                    CLDF_NAME,
+                    CLDF_GLOTTOCODE,
+                    CLDF_LATITUDE,
+                    CLDF_LONGITUDE,
+                    CLDF_MACROAREA)}
+            for lg in ds_languages.values():
+                lg[CLDF_ID] = '{}-{}'.format(dsid, lg[CLDF_ID])
+                lg['Dataset'] = dsid
+
+            ds_concepts = {
+                concept[CLDF_ID]: concept
+                for concept in ds.iter_rows(
+                    'ParameterTable',
+                    CLDF_ID,
+                    CLDF_CONCEPTICON_ID,
+                    'Concepticon_Gloss')
+                # we only want number concepts
+                if concept['Concepticon_Gloss'] in number_concepts_all}
+            for concept in ds_concepts.values():
+                # this collapses concepts that share a Concepticon gloss
+                # (e.g. ‘thousand’ vs ‘one thousand’ in Mamta 2023)
+                concept[CLDF_ID] = slug(concept['Concepticon_Gloss'])
+
+            ds_forms = [
+                form
+                for form in ds.iter_rows(
+                    'FormTable',
+                    CLDF_ID,
+                    CLDF_LANGUAGE_ID,
+                    CLDF_PARAMETER_ID,
+                    CLDF_FORM,
+                    CLDF_VALUE,
+                    CLDF_COMMENT)
+                if form[CLDF_PARAMETER_ID] in ds_concepts]
+            for form in ds_forms:
+                form[CLDF_LANGUAGE_ID] = ds_languages[form[CLDF_LANGUAGE_ID]][CLDF_ID]
+                form[CLDF_PARAMETER_ID] = ds_concepts[form[CLDF_PARAMETER_ID]][CLDF_ID]
+
+            # only include languages that have any coverage at all
+            languages.update(
+                (lg[CLDF_ID], lg)
+                for lg in ds_languages.values())
+            forms.extend(ds_forms)
+            concepts.update(
+                (concept[CLDF_ID], concept)
+                for concept in ds_concepts.values())
 
         # get base info from the external document
         base_info = {}
@@ -220,46 +303,56 @@ class Dataset(BaseDataset):
                 base_info[row["Glottocode"]] = row
         args.log.info("loaded base info")
 
+        one_to_infinity = {
+            slug(concept['CONCEPTICON_GLOSS'])
+            for concept in self.concepts}
+        one_to_forty = {
+            slug(concept['CONCEPTICON_GLOSS'])
+            for concept in self.concepts
+            if concept['TEST'] in {'1', '2'}}
+        one_to_thirty = {
+            slug(concept['CONCEPTICON_GLOSS'])
+            for concept in self.concepts
+            if concept['TEST'] == '1'}
+        coverage_all = coverage(ds_forms, one_to_infinity)
+        coverage_one_to_forty = coverage(ds_forms, one_to_forty)
+        coverage_one_to_thirty = coverage(ds_forms, one_to_thirty)
+
         # filter languages (only those with glottocodes)
         #  select first all language which occur only in one dataset
         #  otherwise select languages having the best coverage excluding googleuninum
         map_glottocode_nr_of_sources = defaultdict(int)
-        for language in wl.languages:
-            if language.glottocode is not None:
-                map_glottocode_nr_of_sources[language.glottocode] += 1
+        for language in languages.values():
+            if (glottocode := language.get('Glottocode')):
+                map_glottocode_nr_of_sources[glottocode] += 1
 
         selected_languages = []
         visited = set()
 
-        for language in sorted(wl.languages, key=lambda x: coverage(x, all_concepts), reverse=True):
-            #if language.glottocode is not None and (
-            #    map_glottocode_nr_of_sources[language.glottocode] == 1
-            #    or (language.glottocode not in visited and language.dataset != "googleuninum")
+        for language in sorted(languages.values(), key=lambda lg: coverage_all.get(lg[CLDF_ID], 0), reverse=True):
+            #if (glottocode := langauge.get('glottocode')) and (
+            #    map_glottocode_nr_of_sources[glottocode] == 1
+            #    or (glottocode not in visited and language['Dataset'] != "googleuninum")
             #):
-            if language.glottocode is not None:
-                visited.add(language.glottocode)
-                selected_languages += [language]
+            if (glottocode := language.get(CLDF_GLOTTOCODE)):
+                visited.add(glottocode)
+                selected_languages.append(language)
 
-        one_to_forty = [
-            concept["CONCEPTICON_GLOSS"]
-            for concept in self.concepts
-            if concept["TEST"] in ["1", "2"]
-        ]
-        one_to_thirty = [
-            concept["CONCEPTICON_GLOSS"] for concept in self.concepts if concept["TEST"] in ["1"]
-        ]
+        selected_languages.sort(key=lambda lg: lg['Glottocode'])
 
-        for concept in wl.concepts:
+        # XXX: this can probably be deduplicated earlier
+        for concept in concepts.values():
             args.writer.add_concept(
-                ID=slug(concept.id),
-                Name=concept.id,
-                Concepticon_ID=concept.concepticon_id,
-                Concepticon_Gloss=concept.id,
+                ID=concept[CLDF_ID],
+                Name=concept['Concepticon_Gloss'],
+                Concepticon_ID=concept[CLDF_CONCEPTICON_ID],
+                Concepticon_Gloss=concept['Concepticon_Gloss'],
             )
 
         with open(self.raw_dir.joinpath("unique_relations.json")) as f:
             relations = json.load(f)
 
+        # XXX: variable unused?
         # relations conversion for our detection method
         convert = {
             "Tener": "decimal",
@@ -327,38 +420,38 @@ class Dataset(BaseDataset):
 
         base_errors = set()
         for language in progressbar(
-            sorted(selected_languages, key=lambda x: x.glottocode),
+            selected_languages,
             desc="Processing {} selected languages".format(len(selected_languages)),
         ):
             # check for sufficient coverage
-            cov_ = coverage(language, all_concepts)
-            cov1 = coverage(language, one_to_forty)
-            cov2 = coverage(language, one_to_thirty)
+            language_id = language[CLDF_ID]
+            glottocode = language[CLDF_GLOTTOCODE]
+            language_dataset = language['Dataset']
 
             # retrieve annotated base
-            if language.id in base_info:
+            if language_id in base_info:
                 annotated_base, annotator, cmt = (
                     target_bases.get(
-                        base_info[language.id]["Base"], base_info[language.id]["Base"]
+                        base_info[language_id]["Base"], base_info[language_id]["Base"]
                     ),
-                    base_info[language.id]["Annotator"],
-                    base_info[language.id]["Comment"],
+                    base_info[language_id]["Annotator"],
+                    base_info[language_id]["Comment"],
                 )
-            elif language.glottocode in base_info:
+            elif glottocode in base_info:
                 annotated_base, annotator, cmt = (
                     target_bases.get(
-                        base_info[language.glottocode]["Base"],
-                        base_info[language.glottocode]["Base"],
+                        base_info[glottocode]["Base"],
+                        base_info[glottocode]["Base"],
                     ),
-                    base_info[language.glottocode]["Annotator"],
-                    base_info[language.glottocode]["Comment"],
+                    base_info[glottocode]["Annotator"],
+                    base_info[glottocode]["Comment"],
                 )
             else:
-                if language.dataset == "numerals":
-                    annotated_base = target_bases.get(language.data["Base"], language.data["Base"])
+                if language_dataset == "numerals":
+                    annotated_base = target_bases.get(language["Base"], language["Base"])
                     annotator, cmt = "Eugene Chan", ""
-                elif language.dataset == "sand":
-                    annotated_base = target_bases.get(language.data["Base"], language.data["Base"])
+                elif language_dataset == "sand":
+                    annotated_base = target_bases.get(language["Base"], language["Base"])
                     annotator, cmt = "Mamta Kumari", ""
                 else:
                     annotated_base, annotator, cmt = "", "", ""
@@ -366,51 +459,61 @@ class Dataset(BaseDataset):
             # check for type
             if annotated_base and annotated_base not in valid_bases:
                 if annotated_base.lower() != "unknown":
-                    base_errors.add((language.id, annotated_base, annotator))
+                    base_errors.add((language_id, annotated_base, annotator))
                 annotated_base, annotator, cmt = "", "", ""
 
-            if 'Comment' in language.data and language.data['Comment']:
-                if cmt:
-                    cmt += '; '
-                cmt += language.data['Comment']
+            if (language_comment := language.get('Comment')):
+                cmt = f'{cmt}; {language_comment}' if cmt else language_comment
 
             args.writer.add_language(
-                ID=language.id,
-                Name=language.name,
-                Dataset=language.dataset,
-                Glottocode=language.glottocode,
-                Latitude=language.latitude,
-                Longitude=language.longitude,
-                Macroarea=language.macroarea,
+                ID=language_id,
+                Name=language[CLDF_NAME],
+                Dataset=language['Dataset'],
+                Glottocode=language[CLDF_GLOTTOCODE],
+                Latitude=language[CLDF_LATITUDE],
+                Longitude=language[CLDF_LONGITUDE],
+                Macroarea=language[CLDF_MACROAREA],
                 BaseAnnotation=annotated_base,
                 BaseAnnotator=annotator,
                 BaseComment=cmt,
-                Coverage=cov_,
-                OneToThirty=cov2,
+                Coverage=coverage_all.get(language_id, 0),
+                OneToThirty=coverage_one_to_thirty.get(language_id, 0),
             )
-            for concept in language.concepts:
-                if concept.id in all_concepts:
-                    for form in concept.forms:
-                        parameter_id = slug(concept.id)
-                        gloss_key = GlossKey(
-                            language_id=language.id,
-                            parameter_id=parameter_id,
-                            value=form.value)
-                        gloss = glosses.get(gloss_key) or Gloss("", "", "", "")
-                        args.writer.add_form(
-                            Language_ID=language.id,
-                            Parameter_ID=parameter_id,
-                            Value=form.value,
-                            Form=simple_chars(form.form),
-                            Loan=form.data["Loan"],
-                            Source=datasets[language.dataset][0],
-                            NumberValue=all_concepts[concept.id],
-                            Comment=form.data["Comment"].strip() if form.data["Comment"] is not None else None,
-                            Gloss=gloss.gloss,
-                            GlossClean=gloss.gloss_clean,
-                            GlossMath=gloss.gloss_math,
-                            GlossCalc=gloss.gloss_calc,
-                        )
+
+        # TODO: do this earlier and incorporate in the language loop above
+        selected_language_ids = {lg[CLDF_ID] for lg in selected_languages}
+        selected_forms = [
+            form for form in forms if form[CLDF_LANGUAGE_ID] in selected_language_ids]
+        for form in progressbar(
+            selected_forms,
+            desc="Processing {} forms".format(len(selected_forms)),
+        ):
+            language_id = form[CLDF_LANGUAGE_ID]
+            language = languages[language_id]
+            concept_id = form[CLDF_PARAMETER_ID]
+            concept = concepts[concept_id]
+            number_value = all_concepts[concept['Concepticon_Gloss']]
+            language_dataset = language['Dataset']
+            source, _ = datasets[language_dataset]
+            gloss_key = GlossKey(
+                language_id=language_id,
+                parameter_id=concept_id,
+                value=form[CLDF_VALUE])
+            gloss = glosses.get(gloss_key) or Gloss("", "", "", "")
+            args.writer.add_form(
+                Language_ID=language_id,
+                Parameter_ID=concept_id,
+                Value=form[CLDF_VALUE],
+                Form=simple_chars(form[CLDF_FORM]),
+                Loan=form['Loan'],
+                Source=source,
+                NumberValue=number_value,
+                Comment=form['Comment'].strip() if form.get('Comment') else None,
+                Gloss=gloss.gloss,
+                GlossClean=gloss.gloss_clean,
+                GlossMath=gloss.gloss_math,
+                GlossCalc=gloss.gloss_calc,
+            )
 
         counts = defaultdict(int)
         with open(self.dir.joinpath("base_errors.md"), "w") as f:
