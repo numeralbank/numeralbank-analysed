@@ -77,11 +77,10 @@ class CustomLanguage(Language):
 
 
 def coverage(forms, concept_set):
-    # NOTE: `concept_set` refers to concept ids (i.e. the lower-case ones),
-    # not concepticon glosses (the upper-case ones).
     language_concepts = {
-        (form[CLDF_LANGUAGE_ID], form[CLDF_PARAMETER_ID])
-        for form in forms}
+        (form[CLDF_LANGUAGE_ID], form['Concepticon_Gloss'])
+        for form in forms
+        if form['Concepticon_Gloss'] in concept_set}
     counts = Counter(
         language_id
         for language_id, _ in language_concepts)
@@ -172,10 +171,8 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
-        # FIXME: rename to reflect that this just maps concepticon glosses to number values
         all_concepts = {
-            concept["CONCEPTICON_GLOSS"]: concept["NUMBER_VALUE"] for concept in self.concepts
-        }
+            concept["CONCEPTICON_GLOSS"]: concept for concept in self.concepts}
         datasets = {
             r["ID"]: (r["Source"], r["URL"])
             for r in self.etc_dir.read_csv("datasets.tsv", delimiter="\t", dicts=True)
@@ -233,11 +230,6 @@ class Dataset(BaseDataset):
         concepts = {}
         forms = []
 
-        # FIXME: duplicate of all_concepts above
-        number_concepts_all = {
-            concept['CONCEPTICON_GLOSS']: concept
-            for concept in self.concepts}
-
         for ds in cldf_datasets:
             dsid = ds.metadata_dict['rdf:ID']
             ds_languages = {
@@ -262,7 +254,7 @@ class Dataset(BaseDataset):
                     CLDF_CONCEPTICON_ID,
                     'Concepticon_Gloss')
                 # we only want number concepts
-                if concept['Concepticon_Gloss'] in number_concepts_all}
+                if concept['Concepticon_Gloss'] in all_concepts}
             for concept in ds_concepts.values():
                 # this collapses concepts that share a Concepticon gloss
                 # (e.g. ‘thousand’ vs ‘one thousand’ in Mamta 2023)
@@ -281,7 +273,9 @@ class Dataset(BaseDataset):
                 if form[CLDF_PARAMETER_ID] in ds_concepts]
             for form in ds_forms:
                 form[CLDF_LANGUAGE_ID] = ds_languages[form[CLDF_LANGUAGE_ID]][CLDF_ID]
-                form[CLDF_PARAMETER_ID] = ds_concepts[form[CLDF_PARAMETER_ID]][CLDF_ID]
+                concept = ds_concepts[form[CLDF_PARAMETER_ID]]
+                form[CLDF_PARAMETER_ID] = concept[CLDF_ID]
+                form['Concepticon_Gloss'] = concept['Concepticon_Gloss']
 
             # only include languages that have any coverage at all
             languages.update(
@@ -304,19 +298,21 @@ class Dataset(BaseDataset):
         args.log.info("loaded base info")
 
         one_to_infinity = {
-            slug(concept['CONCEPTICON_GLOSS'])
+            concept['CONCEPTICON_GLOSS']
             for concept in self.concepts}
         one_to_forty = {
-            slug(concept['CONCEPTICON_GLOSS'])
+            concept['CONCEPTICON_GLOSS']
             for concept in self.concepts
             if concept['TEST'] in {'1', '2'}}
         one_to_thirty = {
-            slug(concept['CONCEPTICON_GLOSS'])
+            concept['CONCEPTICON_GLOSS']
             for concept in self.concepts
             if concept['TEST'] == '1'}
-        coverage_all = coverage(ds_forms, one_to_infinity)
-        coverage_one_to_forty = coverage(ds_forms, one_to_forty)
-        coverage_one_to_thirty = coverage(ds_forms, one_to_thirty)
+        coverage_all = coverage(forms, one_to_infinity)
+        coverage_one_to_forty = coverage(forms, one_to_forty)
+        coverage_one_to_thirty = coverage(forms, one_to_thirty)
+
+        # assert all(coverage_all.get(lg[CLDF_ID], 0) != 0 for lg in languages.values())
 
         # filter languages (only those with glottocodes)
         #  select first all language which occur only in one dataset
@@ -492,7 +488,9 @@ class Dataset(BaseDataset):
             language = languages[language_id]
             concept_id = form[CLDF_PARAMETER_ID]
             concept = concepts[concept_id]
-            number_value = all_concepts[concept['Concepticon_Gloss']]
+            # TODO: remove this dichotomy
+            global_concept = all_concepts[concept['Concepticon_Gloss']]
+            number_value = global_concept['NUMBER_VALUE']
             language_dataset = language['Dataset']
             source, _ = datasets[language_dataset]
             gloss_key = GlossKey(
