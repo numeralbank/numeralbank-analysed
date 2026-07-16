@@ -1,0 +1,52 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-chug1252-1-one-1,numerals-chug1252-1,Chan2019,one,1,hin,hin,,false,1,,
+2,numerals-chug1252-1-two-1,numerals-chug1252-1,Chan2019,two,2,ɲis,nis,,false,2,,
+3,numerals-chug1252-1-three-1,numerals-chug1252-1,Chan2019,three,3,ˀom,om,,false,3,,
+4,numerals-chug1252-1-four-1,numerals-chug1252-1,Chan2019,four,4,pɕi,pci,,false,4,,
+5,numerals-chug1252-1-five-1,numerals-chug1252-1,Chan2019,five,5,kʰaː,kha,,false,5,,
+6,numerals-chug1252-1-six-1,numerals-chug1252-1,Chan2019,six,6,t͡ɕʰuˀk,tchuk,,false,6,,
+7,numerals-chug1252-1-seven-1,numerals-chug1252-1,Chan2019,seven,7,ɕis,cis,,false,7,,
+8,numerals-chug1252-1-eight-1,numerals-chug1252-1,Chan2019,eight,8,saɹɡeˀt,sarget,,false,8,,
+9,numerals-chug1252-1-nine-1,numerals-chug1252-1,Chan2019,nine,9,tʰikʰu,thikhu,,false,9,,
+10,numerals-chug1252-1-ten-1,numerals-chug1252-1,Chan2019,ten,10,san,san,,false,10,,
+11,numerals-chug1252-1-eleven-1,numerals-chug1252-1,Chan2019,eleven,11,ɕamɕinhin,camcinhin,,false,10′+1,,(10′[⋅]1′)[+]1
+12,numerals-chug1252-1-twelve-1,numerals-chug1252-1,Chan2019,twelve,12,ɕamɕinɲis,camcinnis,,false,10′+2,,(10′[⋅]1′)[+]2
+13,numerals-chug1252-1-thirteen-1,numerals-chug1252-1,Chan2019,thirteen,13,ɕamɕinˀom,camcinom,,false,10′+3,,(10′[⋅]1′)[+]3
+14,numerals-chug1252-1-fourteen-1,numerals-chug1252-1,Chan2019,fourteen,14,ɕamɕinpɕi,camcinpci,,false,10′+4,,(10′[⋅]1′)[+]4
+15,numerals-chug1252-1-fifteen-1,numerals-chug1252-1,Chan2019,fifteen,15,ɕamɕinkʰaː,camcinkha,,false,10′+5,,(10′[⋅]1′)[+]5
+16,numerals-chug1252-1-sixteen-1,numerals-chug1252-1,Chan2019,sixteen,16,ɕamɕint͡ɕʰuˀk,camcintchuk,,false,10′+6,,(10′[⋅]1′)[+]6
+17,numerals-chug1252-1-seventeen-1,numerals-chug1252-1,Chan2019,seventeen,17,ɕamɕinɕis,camcincis,,false,10′+7,,(10′[⋅]1′)[+]7
+18,numerals-chug1252-1-eighteen-1,numerals-chug1252-1,Chan2019,eighteen,18,samsaɹɡeˀt,samsarget,,false,10′+8,,(10′[⋅]1′)[+]8
+19,numerals-chug1252-1-nineteen-1,numerals-chug1252-1,Chan2019,nineteen,19,samtʰikʰu,samthikhu,,false,10′+9,,(10′[⋅]1′)[+]9
+20,numerals-chug1252-1-twenty-1,numerals-chug1252-1,Chan2019,twenty,20,kʰaihin,khaihin,,false,20[⋅]1,,
+21,numerals-chug1252-1-twenty-2,numerals-chug1252-1,Chan2019,twenty,20,kʰai,khai,,false,20,,
+22,numerals-chug1252-1-twentyone-1,numerals-chug1252-1,Chan2019,twentyone,21,kʰaihindaŋhin,khaihindanghin,,false,(20[⋅]1)+{and}1,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+23,numerals-chug1252-1-twentytwo-1,numerals-chug1252-1,Chan2019,twentytwo,22,kʰaihindaŋɲis,khaihindangnis,,false,(20[⋅]1)+{and}2,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+24,numerals-chug1252-1-twentythree-1,numerals-chug1252-1,Chan2019,twentythree,23,kʰaihindaŋˀom,khaihindangom,,false,(20[⋅]1)+{and}3,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+25,numerals-chug1252-1-twentyfour-1,numerals-chug1252-1,Chan2019,twentyfour,24,kʰaihindaŋpɕi,khaihindangpci,,false,(20[⋅]1)+{and}4,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+26,numerals-chug1252-1-twentyfive-1,numerals-chug1252-1,Chan2019,twentyfive,25,kʰaihindaŋkʰaː,khaihindangkha,,false,(20[⋅]1)+{and}5,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+27,numerals-chug1252-1-twentysix-1,numerals-chug1252-1,Chan2019,twentysix,26,kʰaihindaŋt͡ɕʰuˀk,khaihindangtchuk,,false,(20[⋅]1)+{and}6,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+28,numerals-chug1252-1-twentyseven-1,numerals-chug1252-1,Chan2019,twentyseven,27,kʰaihindaŋɕis,khaihindangcis,,false,(20[⋅]1)+{and}7,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+29,numerals-chug1252-1-twentyeight-1,numerals-chug1252-1,Chan2019,twentyeight,28,kʰaihinsaɹɡeˀt,khaihinsarget,,false,(20[⋅]1)+{and}8,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+30,numerals-chug1252-1-twentynine-1,numerals-chug1252-1,Chan2019,twentynine,29,kʰaihintʰikʰu,khaihinthikhu,,false,(20[⋅]1)+{and}9,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+31,numerals-chug1252-1-thirty-1,numerals-chug1252-1,Chan2019,thirty,30,kʰaihindaŋsan,khaihindangsan,( 20 + 10 ),false,(20[⋅]1)+{and}10,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+32,numerals-chug1252-1-forty-1,numerals-chug1252-1,Chan2019,forty,40,kʰaiɲis,khainis,( 2 x 20 ),false,20[⋅]2,,
+33,numerals-chug1252-1-fifty-1,numerals-chug1252-1,Chan2019,fifty,50,kʰaiɲisdaŋsan,khainisdangsan,,false,(20[⋅]2)+{and}10,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+34,numerals-chug1252-1-fifty-2,numerals-chug1252-1,Chan2019,fifty,50,ŋapt͡ɕutʰambaː,ngaptcuthamba,,false,50,,
+35,numerals-chug1252-1-sixty-1,numerals-chug1252-1,Chan2019,sixty,60,kʰaiˀom,khaiom,( 20 x 3),false,20[⋅]3,,
+36,numerals-chug1252-1-seventy-1,numerals-chug1252-1,Chan2019,seventy,70,kʰaiˀomdaŋsan,khaiomdangsan,,false,(20[⋅]3)+{and}10,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+37,numerals-chug1252-1-eighty-1,numerals-chug1252-1,Chan2019,eighty,80,kʰaipɕi,khaipci,( 20 x 4),false,20[⋅]4,,
+38,numerals-chug1252-1-ninety-1,numerals-chug1252-1,Chan2019,ninety,90,kʰaipɕidaŋsan,khaipcidangsan,,false,(20[⋅]4)+{and}10,"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+39,numerals-chug1252-1-hundred-1,numerals-chug1252-1,Chan2019,hundred,100,kʰaikʰaː,khaikha,,false,20[⋅]5,,
+40,numerals-chug1252-1-hundred-2,numerals-chug1252-1,Chan2019,hundred,100,d͡ʑaːhin,dzahin,,false,100⋅1,,
+41,numerals-chug1252-1-hundred-3,numerals-chug1252-1,Chan2019,hundred,100,d͡ʑaː,dza,,false,100,,
+42,numerals-chug1252-1-hundred-4,numerals-chug1252-1,Chan2019,hundred,100,ɡjaːhin,gjahin,,false,100′[⋅]1,,
+43,numerals-chug1252-1-hundred-5,numerals-chug1252-1,Chan2019,hundred,100,ɡja,gja,,false,100′,,
+44,numerals-chug1252-1-twohundred-1,numerals-chug1252-1,Chan2019,twohundred,200,kʰaisan,khaisan,,false,20[⋅]10,,
+45,numerals-chug1252-1-twohundred-2,numerals-chug1252-1,Chan2019,twohundred,200,d͡ʑaːɲis,dzanis,,false,100[⋅]2,,
+46,numerals-chug1252-1-twohundred-3,numerals-chug1252-1,Chan2019,twohundred,200,ɡjaːɲis,gjanis,,false,100′[⋅]2,,
+47,numerals-chug1252-1-thousand-1,numerals-chug1252-1,Chan2019,thousand,1000,pʰuŋɲisdaŋkʰaisan,phungnisdangkhaisan,,false,(400[⋅]2)+{and}(20[⋅]10),"<daŋ> ‘and’ possibly borrowed from Tibetan, a fellow Sino-Tibetan language",
+48,numerals-chug1252-1-thousand-2,numerals-chug1252-1,Chan2019,thousand,1000,toŋtaː,tongta,,false,1000,,
+49,numerals-chug1252-1-thousand-3,numerals-chug1252-1,Chan2019,thousand,1000,toŋtaːhin,tongtahin,,false,1000[⋅]1,,
+50,numerals-chug1252-1-twothousand-1,numerals-chug1252-1,Chan2019,twothousand,2000,pʰuŋkʰaː,phungkha,,false,400[⋅]5,,
+51,numerals-chug1252-1-twothousand-2,numerals-chug1252-1,Chan2019,twothousand,2000,toŋtaːɲis,tongtanis,,false,1000[⋅]2,,
