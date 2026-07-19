@@ -1,0 +1,45 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-mruu1242-1-one-1,numerals-mruu1242-1,Chan2019,one,1,lak42,lak42,,false,1,,
+2,numerals-mruu1242-1-two-1,numerals-mruu1242-1,Chan2019,two,2,pre:32,pre32,,false,2,,
+3,numerals-mruu1242-1-three-1,numerals-mruu1242-1,Chan2019,three,3,ʃʊm32,sum32,,false,3,,
+4,numerals-mruu1242-1-four-1,numerals-mruu1242-1,Chan2019,four,4,tʼliː34,tli34,,false,4,,
+5,numerals-mruu1242-1-five-1,numerals-mruu1242-1,Chan2019,five,5,tʼŋaː34,tnga34,,false,5,,
+6,numerals-mruu1242-1-six-1,numerals-mruu1242-1,Chan2019,six,6,trʊːk423,truk423,,false,6,,
+7,numerals-mruu1242-1-seven-1,numerals-mruu1242-1,Chan2019,seven,7,rə33niːt323,ra33nit323,,false,7,,
+8,numerals-mruu1242-1-eight-1,numerals-mruu1242-1,Chan2019,eight,8,rə33jaːt423,ra33jat423,,false,8,,
+9,numerals-mruu1242-1-nine-1,numerals-mruu1242-1,Chan2019,nine,9,tə33kʊː34,ta33ku33,,false,9,,
+10,numerals-mruu1242-1-ten-1,numerals-mruu1242-1,Chan2019,ten,10,hə33mʊt42,ha33mut42,,false,10,,
+11,numerals-mruu1242-1-eleven-1,numerals-mruu1242-1,Chan2019,eleven,11,laj33 lak53,laj33lak53,,false,[10]+{+}1,,
+12,numerals-mruu1242-1-twelve-1,numerals-mruu1242-1,Chan2019,twelve,12,laj33 preː44,laj33pre44,,false,[10]+{+}2,,
+13,numerals-mruu1242-1-thirteen-1,numerals-mruu1242-1,Chan2019,thirteen,13,laj33 ʃʊm44,laj33sum44,,false,[10]+{+}3,,
+14,numerals-mruu1242-1-fourteen-1,numerals-mruu1242-1,Chan2019,fourteen,14,laj33 tʼli34,laj33tli34,,false,[10]+{+}4,,
+15,numerals-mruu1242-1-fifteen-1,numerals-mruu1242-1,Chan2019,fifteen,15,laj33 tʼŋa34,laj33tnga34,,false,[10]+{+}5,,
+16,numerals-mruu1242-1-sixteen-1,numerals-mruu1242-1,Chan2019,sixteen,16,laj33 trʊːk423,laj33truk423,,false,[10]+{+}6,,
+17,numerals-mruu1242-1-seventeen-1,numerals-mruu1242-1,Chan2019,seventeen,17,laj33 rə33niːt423,laj33ra33nit423,,false,[10]+{+}7,,
+18,numerals-mruu1242-1-eighteen-1,numerals-mruu1242-1,Chan2019,eighteen,18,laj33 rʼjaːt423,laj33rjat423,,false,[10]+{+}8,,
+19,numerals-mruu1242-1-nineteen-1,numerals-mruu1242-1,Chan2019,nineteen,19,laj33 tʰkuː34,laj33thku34,,false,[10]+{+}9,,
+20,numerals-mruu1242-1-twenty-1,numerals-mruu1242-1,Chan2019,twenty,20,pir31mi32,pir31mi33,,false,20,,2⋅10′
+21,numerals-mruu1242-1-twentyone-1,numerals-mruu1242-1,Chan2019,twentyone,21,pir31mi32 laj33 lak53,pir31mi32laj33lak53,,false,20+{+}1,,(2⋅10′)+{+}1
+22,numerals-mruu1242-1-twentytwo-1,numerals-mruu1242-1,Chan2019,twentytwo,22,pir31mi32 laj33 preː44,pir31mi32laj33pre44,,false,20+{+}2,,(2⋅10′)+{+}2
+23,numerals-mruu1242-1-twentythree-1,numerals-mruu1242-1,Chan2019,twentythree,23,pir31mi32 laj33 ʃʊm44,pir31mi32laj33sum44,,false,20+{+}3,,(2⋅10′)+{+}3
+24,numerals-mruu1242-1-twentyfour-1,numerals-mruu1242-1,Chan2019,twentyfour,24,pir31mi32 laj33 tʼli34,pir31mi32laj33tli34,,false,20+{+}4,,(2⋅10′)+{+}4
+25,numerals-mruu1242-1-twentyfive-1,numerals-mruu1242-1,Chan2019,twentyfive,25,pir31mi32 laj33 tʼŋa34,pir31mi32laj33tnga35,,false,20+{+}5,,(2⋅10′)+{+}5
+26,numerals-mruu1242-1-twentysix-1,numerals-mruu1242-1,Chan2019,twentysix,26,pir31mi32 laj33 trʊːk423,pir31mi32laj33truk423,,false,20+{+}6,,(2⋅10′)+{+}6
+27,numerals-mruu1242-1-twentyseven-1,numerals-mruu1242-1,Chan2019,twentyseven,27,pir31mi32 laj33 rə33niːt423,pir31mi32laj33ra33nit423,,false,20+{+}7,,(2⋅10′)+{+}7
+28,numerals-mruu1242-1-twentyeight-1,numerals-mruu1242-1,Chan2019,twentyeight,28,pir31mi32 laj33 rʼjaːt423,pir31mi32laj33rjat423,,false,20+{+}8,,(2⋅10′)+{+}8
+29,numerals-mruu1242-1-twentynine-1,numerals-mruu1242-1,Chan2019,twentynine,29,pir31mi32 laj33 tʰkuː34,pir31mi32laj33thku34,,false,20+{+}9,,(2⋅10′)+{+}9
+30,numerals-mruu1242-1-thirty-1,numerals-mruu1242-1,Chan2019,thirty,30,ʃʊŋ33 kɔm32,sung33kom33,,false,3⋅10′′,,
+31,numerals-mruu1242-1-forty-1,numerals-mruu1242-1,Chan2019,forty,40,liː33 kɔm44,li33kom44,,false,4⋅10′′,,
+32,numerals-mruu1242-1-fifty-1,numerals-mruu1242-1,Chan2019,fifty,50,ŋa33 kɔm44,nga33kom44,,false,5⋅10′′,,
+33,numerals-mruu1242-1-sixty-1,numerals-mruu1242-1,Chan2019,sixty,60,trʊːk33 kɔm44,truk33kom44,,false,6⋅10′′,,
+34,numerals-mruu1242-1-seventy-1,numerals-mruu1242-1,Chan2019,seventy,70,rə44niːt22 kɔm33,ra44nit22kom33,,false,7⋅10′′,,
+35,numerals-mruu1242-1-eighty-1,numerals-mruu1242-1,Chan2019,eighty,80,rə44jaːt42 kɔm33,ra44jat42kom33,,false,8⋅10′′,,
+36,numerals-mruu1242-1-ninety-1,numerals-mruu1242-1,Chan2019,ninety,90,tə33kʊː34 kɔm44,ta33ku34kom44,,false,9⋅10′′,,
+37,numerals-mruu1242-1-hundred-1,numerals-mruu1242-1,Chan2019,hundred,100,ə33kɔm22,a33kom22,,false,?,"If <kɔm22> ~ <kɔm32> means ‘hundred’, then this numeral is differentiated only in tone from various allomorphs of ‘ten’: <kɔm44> ~ <kɔm33> ~ <kɔm32>.",1′′⋅100
+38,numerals-mruu1242-1-twohundred-1,numerals-mruu1242-1,Chan2019,twohundred,200,preː33kɔm22,pre33kom22,,false,?,"If <kɔm22> ~ <kɔm32> means ‘hundred’, then this numeral is differentiated only in tone from various allomorphs of ‘ten’: <kɔm44> ~ <kɔm33> ~ <kɔm32>.",2⋅100
+39,numerals-mruu1242-1-threehundred-1,numerals-mruu1242-1,Chan2019,threehundred,300,ʃʊm33kɔm32,sum33kom32,,false,?,"If <kɔm22> ~ <kɔm32> means ‘hundred’, then this numeral is differentiated only in tone from various allomorphs of ‘ten’: <kɔm44> ~ <kɔm33> ~ <kɔm32>.",3⋅100
+40,numerals-mruu1242-1-fourhundred-1,numerals-mruu1242-1,Chan2019,fourhundred,400,t’li:34kɔm44ma32,tli34kom44ma32,,false,?,,4⋅10⋅10′′′
+41,numerals-mruu1242-1-fivehundred-1,numerals-mruu1242-1,Chan2019,fivehundred,500,t’ŋa:34 kɔm44ma32,tnga34kom44ma32,,false,?,,5⋅10⋅10′′′
+42,numerals-mruu1242-1-thousand-1,numerals-mruu1242-1,Chan2019,thousand,1000,pă4tʰauŋ2,pa4thaung2,,true,1′⋅1000,"<tʰauŋ2> ‘thousand’ possibly borrowed from Burmese, a fellow Sino-Tibetan language",
+43,numerals-mruu1242-1-thousand-2,numerals-mruu1242-1,Chan2019,thousand,1000,atʰauŋ2,athaung2,(? < Burmese),true,1′′⋅1000′,"<tʰauŋ2> ‘thousand’ possibly borrowed from Burmese, a fellow Sino-Tibetan language",
+44,numerals-mruu1242-1-twothousand-1,numerals-mruu1242-1,Chan2019,twothousand,2000,prɛ4tʰauŋ2,pre4thaung2,?,false,2⋅1000,"<tʰauŋ2> ‘thousand’ possibly borrowed from Burmese, a fellow Sino-Tibetan language",
