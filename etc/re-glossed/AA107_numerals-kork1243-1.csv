@@ -1,0 +1,42 @@
+,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
+1,numerals-kork1243-1-one-1,numerals-kork1243-1,Chan2019,one,1,miɲa,mina,,false,1,NA,NA
+2,numerals-kork1243-1-two-1,numerals-kork1243-1,Chan2019,two,2,bari,bari,,false,2,NA,NA
+3,numerals-kork1243-1-three-1,numerals-kork1243-1,Chan2019,three,3,apʰai,aphai,,false,3,NA,NA
+4,numerals-kork1243-1-three-2,numerals-kork1243-1,Chan2019,three,3,apʰei,aphei,,false,3,NA,NA
+5,numerals-kork1243-1-four-1,numerals-kork1243-1,Chan2019,four,4,apʰun,aphun,,false,4,NA,NA
+6,numerals-kork1243-1-five-1,numerals-kork1243-1,Chan2019,five,5,monoe,monoe,,false,5,NA,NA
+7,numerals-kork1243-1-six-1,numerals-kork1243-1,Chan2019,six,6,turui,turui,,false,6,NA,NA
+8,numerals-kork1243-1-seven-1,numerals-kork1243-1,Chan2019,seven,7,ei,ei,,false,7,NA,NA
+9,numerals-kork1243-1-eight-1,numerals-kork1243-1,Chan2019,eight,8,ilar,ilar,,false,8,NA,NA
+10,numerals-kork1243-1-nine-1,numerals-kork1243-1,Chan2019,nine,9,arei,arei,,false,9,NA,NA
+11,numerals-kork1243-1-ten-1,numerals-kork1243-1,Chan2019,ten,10,gel,gel,,false,10,NA,NA
+12,numerals-kork1243-1-eleven-1,numerals-kork1243-1,Chan2019,eleven,11,gyara,gyara,,false,1′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European) or code-switching",NA
+13,numerals-kork1243-1-twelve-1,numerals-kork1243-1,Chan2019,twelve,12,baɾa,bara,,false,2+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+14,numerals-kork1243-1-thirteen-1,numerals-kork1243-1,Chan2019,thirteen,13,t̪eɾa,tera,,false,3′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+15,numerals-kork1243-1-fourteen-1,numerals-kork1243-1,Chan2019,fourteen,14,t͡ʃʌud̪a,tsuda,,false,4′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+16,numerals-kork1243-1-fifteen-1,numerals-kork1243-1,Chan2019,fifteen,15,pʌnd̪ɾa,pndra,,false,5′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+17,numerals-kork1243-1-sixteen-1,numerals-kork1243-1,Chan2019,sixteen,16,sola,sola,,false,6′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+18,numerals-kork1243-1-seventeen-1,numerals-kork1243-1,Chan2019,seventeen,17,sʌt̪ɾa,stra,,false,7′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+19,numerals-kork1243-1-eighteen-1,numerals-kork1243-1,Chan2019,eighteen,18,aʈʰɾa,athra,,false,8′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+20,numerals-kork1243-1-nineteen-1,numerals-kork1243-1,Chan2019,nineteen,19,unːis,unis,,false,9′+10′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+21,numerals-kork1243-1-twenty-1,numerals-kork1243-1,Chan2019,twenty,20,isa,isa,,false,20,NA,NA
+22,numerals-kork1243-1-twentyone-1,numerals-kork1243-1,Chan2019,twentyone,21,ekis,ekis,,false,1′′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+23,numerals-kork1243-1-twentytwo-1,numerals-kork1243-1,Chan2019,twentytwo,22,bais,bais,,false,2+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+24,numerals-kork1243-1-twentythree-1,numerals-kork1243-1,Chan2019,twentythree,23,t̪eis,teis,,false,3′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+25,numerals-kork1243-1-twentyfour-1,numerals-kork1243-1,Chan2019,twentyfour,24,t͡ʃavis,tsavis,,false,4′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+26,numerals-kork1243-1-twentyfive-1,numerals-kork1243-1,Chan2019,twentyfive,25,pʌt͡ʃis,ptsis,,false,5′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+27,numerals-kork1243-1-twentysix-1,numerals-kork1243-1,Chan2019,twentysix,26,t͡ʃʰʌbbis,tshbbis,,false,6′′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+28,numerals-kork1243-1-twentyseven-1,numerals-kork1243-1,Chan2019,twentyseven,27,sʌt̪ais,stais,,false,7′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+29,numerals-kork1243-1-twentyeight-1,numerals-kork1243-1,Chan2019,twentyeight,28,ʌʈʰais,thais,,false,8′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+30,numerals-kork1243-1-twentynine-1,numerals-kork1243-1,Chan2019,twentynine,29,unt̪is,untis,,false,9′+20,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+31,numerals-kork1243-1-thirty-1,numerals-kork1243-1,Chan2019,thirty,30,t̪is,tis,,false,3′⋅10′′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+32,numerals-kork1243-1-forty-1,numerals-kork1243-1,Chan2019,forty,40,t͡ʃalis,tsalis,,false,4′⋅10′′,"Borrowed from Hindi (Indo-Aryan, Indo-European)",NA
+33,numerals-kork1243-1-fifty-1,numerals-kork1243-1,Chan2019,fifty,50,pʌt͡ʃas,ptsas,,false,50,"Borrowed from Hindi (Indo-Aryan, Indo-European), historically 5⋅10",5′⋅10′′′
+34,numerals-kork1243-1-sixty-1,numerals-kork1243-1,Chan2019,sixty,60,saʈʰ,sath,,false,60,"Borrowed from Hindi (Indo-Aryan, Indo-European), historically 6⋅10",6′⋅10′′′′
+35,numerals-kork1243-1-seventy-1,numerals-kork1243-1,Chan2019,seventy,70,sʌt̪ʌɾ,str,,false,70,"Borrowed from Hindi (Indo-Aryan, Indo-European), historically 7⋅10",7′⋅10′′′′′
+36,numerals-kork1243-1-eighty-1,numerals-kork1243-1,Chan2019,eighty,80,ʌssi,ssi,,false,80,"Borrowed from Hindi (Indo-Aryan, Indo-European), historically 8⋅10",8′⋅10′′′′′′
+37,numerals-kork1243-1-ninety-1,numerals-kork1243-1,Chan2019,ninety,90,nʌbbe,nbbe,,false,90,"Borrowed from Hindi (Indo-Aryan, Indo-European), historically 9⋅10",9′⋅10′′′′′′′
+38,numerals-kork1243-1-hundred-1,numerals-kork1243-1,Chan2019,hundred,100,miɲa saddi,minasaddi,,false,1[⋅]100,NA,NA
+39,numerals-kork1243-1-twohundred-1,numerals-kork1243-1,Chan2019,twohundred,200,baɾi saddi,barisaddi,,false,2[⋅]100,NA,NA
+40,numerals-kork1243-1-thousand-1,numerals-kork1243-1,Chan2019,thousand,1000,miɲa hʌd͡ʒaɾ,minahdzar,,false,1[⋅]1000,"hʌd͡ʒaɾ is borrowed from Hindi (Indo-Aryan) but ultimately from Iranian, probably Persian (all Indo-European)",NA
+41,numerals-kork1243-1-twothousand-1,numerals-kork1243-1,Chan2019,twothousand,2000,bari hʌd͡ʒaɾ,barihdzar,,false,2[⋅]1000,"hʌd͡ʒaɾ is borrowed from Hindi (Indo-Aryan) but ultimately from Iranian, probably Persian (all Indo-European)",NA
