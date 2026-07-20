@@ -33,12 +33,12 @@
 32,numerals-harz1239-1-twentyeight-1,numerals-harz1239-1,Chan2019,twentyeight,28,vist-o-hæʃt,vistohaest,,false,20+{+}8,,
 33,numerals-harz1239-1-twentynine-1,numerals-harz1239-1,Chan2019,twentynine,29,vist-o-nov,vistonov,,false,20+{+}9,,
 34,numerals-harz1239-1-thirty-1,numerals-harz1239-1,Chan2019,thirty,30,si,si,,false,30,historically 3⋅10,
-35,numerals-harz1239-1-forty-1,numerals-harz1239-1,Chan2019,forty,40,t͡ʃel,tsel,,false,40,,4⋅10′′′
-36,numerals-harz1239-1-fifty-1,numerals-harz1239-1,Chan2019,fifty,50,pind͡ʒe,pindze,,false,50,,5⋅10′′′′
-37,numerals-harz1239-1-sixty-1,numerals-harz1239-1,Chan2019,sixty,60,ʃeʃt,sest,,false,60,,6⋅10′′′′′
+35,numerals-harz1239-1-forty-1,numerals-harz1239-1,Chan2019,forty,40,t͡ʃel,tsel,,false,40,historically 4⋅10,4⋅10′′′
+36,numerals-harz1239-1-fifty-1,numerals-harz1239-1,Chan2019,fifty,50,pind͡ʒe,pindze,,false,50,historically 5⋅10,5⋅10′′′′
+37,numerals-harz1239-1-sixty-1,numerals-harz1239-1,Chan2019,sixty,60,ʃeʃt,sest,,false,60,historically 6⋅10,6⋅10′′′′′
 38,numerals-harz1239-1-seventy-1,numerals-harz1239-1,Chan2019,seventy,70,hæftö,haefto,,false,7⋅10′′,,
 39,numerals-harz1239-1-eighty-1,numerals-harz1239-1,Chan2019,eighty,80,hæʃtö,haesto,,false,8⋅10′′,,
-40,numerals-harz1239-1-ninety-1,numerals-harz1239-1,Chan2019,ninety,90,soj-i-doh-kim,sojidohkim,,false,100[−](1⋅10){less?},,
+40,numerals-harz1239-1-ninety-1,numerals-harz1239-1,Chan2019,ninety,90,soj-i-doh-kim,sojidohkim,,false,100[−](1[⋅]10){less?},,
 41,numerals-harz1239-1-hundred-1,numerals-harz1239-1,Chan2019,hundred,100,soj,soj,,false,100,,
 42,numerals-harz1239-1-hundred-2,numerals-harz1239-1,Chan2019,hundred,100,sæ,sae,,false,100,,
 43,numerals-harz1239-1-twohundred-1,numerals-harz1239-1,Chan2019,twohundred,200,de sæ,desae,,false,2[⋅]100,,

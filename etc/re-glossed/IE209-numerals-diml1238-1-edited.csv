@@ -1,6 +1,6 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-1,numerals-diml1238-1-one-1,numerals-diml1238-1,Chan2019,one,1,ʒɛw,zew,,false,1,,
-2,numerals-diml1238-1-one-2,numerals-diml1238-1,Chan2019,one,1,ʒu,zu,(masc./fem.),false,1,,
+1,numerals-diml1238-1-one-1,numerals-diml1238-1,Chan2019,one,1,ʒɛw,zew,,false,1,masculine,
+2,numerals-diml1238-1-one-2,numerals-diml1238-1,Chan2019,one,1,ʒu,zu,(masc./fem.),false,1,feminine,
 3,numerals-diml1238-1-two-1,numerals-diml1238-1,Chan2019,two,2,dy,dy,,false,2,,
 4,numerals-diml1238-1-two-2,numerals-diml1238-1,Chan2019,two,2,dydy,dydy,,false,2{2},,
 5,numerals-diml1238-1-three-1,numerals-diml1238-1,Chan2019,three,3,hire,hire,,false,3,,
