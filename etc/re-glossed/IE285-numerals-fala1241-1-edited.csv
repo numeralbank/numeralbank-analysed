@@ -20,7 +20,7 @@
 19,numerals-fala1241-1-seventeen-1,numerals-fala1241-1,Chan2019,seventeen,17,deðaˈseti,dedaseti,,false,10+{+}7,,
 20,numerals-fala1241-1-eighteen-1,numerals-fala1241-1,Chan2019,eighteen,18,deðaˈɔit̪u,dedaoitu,,false,10+{+}8,,
 21,numerals-fala1241-1-nineteen-1,numerals-fala1241-1,Chan2019,nineteen,19,deðaˈnoβi,dedanobi,,false,10+{+}9,,
-22,numerals-fala1241-1-twenty-1,numerals-fala1241-1,Chan2019,twenty,20,ˈbin̪t̪i,binti,,false,20,,2′⋅10′′
+22,numerals-fala1241-1-twenty-1,numerals-fala1241-1,Chan2019,twenty,20,ˈbin̪t̪i,binti,,false,20,historically 2⋅10,2′⋅10′′
 23,numerals-fala1241-1-twentyone-1,numerals-fala1241-1,Chan2019,twentyone,21,bin̪t̪iˈuŋ,bintiung,,false,20[+]1,masculine,(2′⋅10′′)[+]1
 24,numerals-fala1241-1-twentyone-2,numerals-fala1241-1,Chan2019,twentyone,21,bin̪t̪iˈuŋa,unga,,false,20[+]1,feminine,(2′⋅10′′)[+]1
 25,numerals-fala1241-1-twentytwo-1,numerals-fala1241-1,Chan2019,twentytwo,22,bin̪t̪iˈdois,bintidois,,false,20[+]2,masculine,(2′⋅10′′)[+]2
@@ -40,8 +40,8 @@
 39,numerals-fala1241-1-eighty-1,numerals-fala1241-1,Chan2019,eighty,80,oˈt͡ʃen̪t̪a,otsenta,,false,8⋅10′′,,
 40,numerals-fala1241-1-ninety-1,numerals-fala1241-1,Chan2019,ninety,90,noˈβɛn̪t̪a,nobenta,,false,9⋅10′′,,
 41,numerals-fala1241-1-hundred-1,numerals-fala1241-1,Chan2019,hundred,100,ˈθeŋ,theng,,false,100,,
-42,numerals-fala1241-1-twohundred-1,numerals-fala1241-1,Chan2019,twohundred,200,duˈðen̪t̪us,dudentus,,false,2[⋅]100′,masculine,
-43,numerals-fala1241-1-twohundred-2,numerals-fala1241-1,Chan2019,twohundred,200,duˈðen̪t̪as̺,dudentas,(masc./fem.),false,2[⋅]100′,feminine,
+42,numerals-fala1241-1-twohundred-1,numerals-fala1241-1,Chan2019,twohundred,200,duˈðen̪t̪us,dudentus,,false,2⋅100′,masculine,
+43,numerals-fala1241-1-twohundred-2,numerals-fala1241-1,Chan2019,twohundred,200,duˈðen̪t̪as̺,dudentas,(masc./fem.),false,2⋅100′,feminine,
 44,numerals-fala1241-1-thousand-1,numerals-fala1241-1,Chan2019,thousand,1000,ˈmil,mil,,false,1000,,
 45,numerals-fala1241-1-twothousand-1,numerals-fala1241-1,Chan2019,twothousand,2000,doisˈmil,doismil,,false,2[⋅]1000,masculine,
 46,numerals-fala1241-1-twothousand-2,numerals-fala1241-1,Chan2019,twothousand,2000,duasˈmil,duasmil,(masc./fem.),false,2[⋅]1000,feminine,

@@ -22,7 +22,7 @@
 21,numerals-pica1241-1-seventeen-1,numerals-pica1241-1,Chan2019,seventeen,17,diˈsɛt,diset,,false,10+7,,
 22,numerals-pica1241-1-eighteen-1,numerals-pica1241-1,Chan2019,eighteen,18,dizˈɥit,dizyit,,false,10+8,,
 23,numerals-pica1241-1-nineteen-1,numerals-pica1241-1,Chan2019,nineteen,19,dizˈnœf,diznoef,,false,10+9,,
-24,numerals-pica1241-1-twenty-1,numerals-pica1241-1,Chan2019,twenty,20,ˈvɛ̃t,vet,,false,20,,2′′⋅10′′
+24,numerals-pica1241-1-twenty-1,numerals-pica1241-1,Chan2019,twenty,20,ˈvɛ̃t,vet,,false,20,historically 2⋅10,2′′⋅10′′
 25,numerals-pica1241-1-twentyone-1,numerals-pica1241-1,Chan2019,twentyone,21,vɛ̃teˈɛ̃,vetee,,false,20+{and}1,,(2′′⋅10′′)+{and}1
 26,numerals-pica1241-1-twentytwo-1,numerals-pica1241-1,Chan2019,twentytwo,22,vɛ̃nˈdø,vendo,,false,20+2,,(2′′⋅10′′)+2
 27,numerals-pica1241-1-twentythree-1,numerals-pica1241-1,Chan2019,twentythree,23,vɛ̃nˈtʁwɛ,ventrwe,,false,20+3,,(2′′⋅10′′)+3
@@ -36,9 +36,9 @@
 35,numerals-pica1241-1-forty-1,numerals-pica1241-1,Chan2019,forty,40,kɑˈʁãt,karat,,false,4⋅10′′,,
 36,numerals-pica1241-1-fifty-1,numerals-pica1241-1,Chan2019,fifty,50,ʃɛ̃ˈkãt,sekat,,false,5⋅10′′,,
 37,numerals-pica1241-1-sixty-1,numerals-pica1241-1,Chan2019,sixty,60,swɛˈʃãt,swesat,,false,6⋅10′′,,
-38,numerals-pica1241-1-seventy-1,numerals-pica1241-1,Chan2019,seventy,70,swɛʃɛ̃nˈdis,swesendis,(60+ 10),false,(6⋅10′′)[+]10,,
+38,numerals-pica1241-1-seventy-1,numerals-pica1241-1,Chan2019,seventy,70,swɛʃɛ̃nˈdis,swesendis,(60+ 10),false,(6⋅10′′)+10,,
 39,numerals-pica1241-1-eighty-1,numerals-pica1241-1,Chan2019,eighty,80,kɑtʁəˈvɛ̃,katrave,( 4 x 20 ),false,4⋅20,,4⋅2′′⋅10′′
-40,numerals-pica1241-1-ninety-1,numerals-pica1241-1,Chan2019,ninety,90,kɑtʁəvɛ̃ˈdis,katravedis,(80+ 10),false,(4⋅20)[+]10,,(4⋅2′′⋅10′′)[+]10
+40,numerals-pica1241-1-ninety-1,numerals-pica1241-1,Chan2019,ninety,90,kɑtʁəvɛ̃ˈdis,katravedis,(80+ 10),false,(4⋅20)+10,,(4⋅2′′⋅10′′)+10
 41,numerals-pica1241-1-hundred-1,numerals-pica1241-1,Chan2019,hundred,100,ˈʃɛ̃,se,,false,100,,
 42,numerals-pica1241-1-twohundred-1,numerals-pica1241-1,Chan2019,twohundred,200,døˈʃɛ̃,dose,,false,2[⋅]100,,
 43,numerals-pica1241-1-thousand-1,numerals-pica1241-1,Chan2019,thousand,1000,ˈmil,mil,,false,1000,,

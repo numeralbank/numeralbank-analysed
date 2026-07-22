@@ -16,11 +16,11 @@
 15,numerals-port1283-1-thirteen-1,numerals-port1283-1,Chan2019,thirteen,13,ˈtɾezɨ,trezi,,false,3+10′,,
 16,numerals-port1283-1-fourteen-1,numerals-port1283-1,Chan2019,fourteen,14,kɐˈtoɾzɨ,katorzi,,false,4+10′,,
 17,numerals-port1283-1-fifteen-1,numerals-port1283-1,Chan2019,fifteen,15,ˈkĩzɨ,kizi,,false,5′+10′,,
-18,numerals-port1283-1-sixteen-1,numerals-port1283-1,Chan2019,sixteen,16,dɨzɐˈsɐjʃ,dizasajs,,false,10+6,,
-19,numerals-port1283-1-seventeen-1,numerals-port1283-1,Chan2019,seventeen,17,dɨzɐˈsɐtɨ,dizasati,,false,10+7,,
-20,numerals-port1283-1-eighteen-1,numerals-port1283-1,Chan2019,eighteen,18,dɨzɐˈzɔjtu,dizazojtu,,false,10+8,,
-21,numerals-port1283-1-nineteen-1,numerals-port1283-1,Chan2019,nineteen,19,dɨzɐˈnɔvɨ,dizanovi,,false,10+9,,
-22,numerals-port1283-1-twenty-1,numerals-port1283-1,Chan2019,twenty,20,ˈvĩtɨ,viti,,false,20,,2′⋅10′′
+18,numerals-port1283-1-sixteen-1,numerals-port1283-1,Chan2019,sixteen,16,dɨzɐˈsɐjʃ,dizasajs,,false,10+{+}6,,
+19,numerals-port1283-1-seventeen-1,numerals-port1283-1,Chan2019,seventeen,17,dɨzɐˈsɐtɨ,dizasati,,false,10+{+}7,,
+20,numerals-port1283-1-eighteen-1,numerals-port1283-1,Chan2019,eighteen,18,dɨzɐˈzɔjtu,dizazojtu,,false,10+{+}8,,
+21,numerals-port1283-1-nineteen-1,numerals-port1283-1,Chan2019,nineteen,19,dɨzɐˈnɔvɨ,dizanovi,,false,10+{+}9,,
+22,numerals-port1283-1-twenty-1,numerals-port1283-1,Chan2019,twenty,20,ˈvĩtɨ,viti,,false,20,historically 2⋅10,2′⋅10′′
 23,numerals-port1283-1-twentyone-1,numerals-port1283-1,Chan2019,twentyone,21,vĩtɨˈũ,vitiu,,false,20[+]1,masculine,(2′⋅10′′)[+]1
 24,numerals-port1283-1-twentyone-2,numerals-port1283-1,Chan2019,twentyone,21,vĩtɨˈumɐ,vitiuma,,false,20[+]1,feminine,(2′⋅10′′)[+]1
 25,numerals-port1283-1-twentytwo-1,numerals-port1283-1,Chan2019,twentytwo,22,vĩtɨˈdojʃ,vitidojs,,false,20[+]2,masculine,(2′⋅10′′)[+]2
@@ -43,5 +43,5 @@
 42,numerals-port1283-1-twohundred-1,numerals-port1283-1,Chan2019,twohundred,200,duˈzẽtuʃ,duzetus,,false,2⋅100′,masculine,
 43,numerals-port1283-1-twohundred-2,numerals-port1283-1,Chan2019,twohundred,200,duˈzẽtɐʃ,duzetas,,false,2⋅100′,feminine,
 44,numerals-port1283-1-thousand-1,numerals-port1283-1,Chan2019,thousand,1000,miɬ,mil,,false,1000,,
-45,numerals-port1283-1-twothousand-1,numerals-port1283-1,Chan2019,twothousand,2000,dojʒˈmiɬ,dojzmil,,false,2[⋅]1000,masculine,
-46,numerals-port1283-1-twothousand-2,numerals-port1283-1,Chan2019,twothousand,2000,duɐʒˈmiɬ,duazmil,,false,2[⋅]1000,feminine,
+45,numerals-port1283-1-twothousand-1,numerals-port1283-1,Chan2019,twothousand,2000,dojʒˈmiɬ,dojzmil,,false,2⋅1000,masculine,
+46,numerals-port1283-1-twothousand-2,numerals-port1283-1,Chan2019,twothousand,2000,duɐʒˈmiɬ,duazmil,,false,2⋅1000,feminine,

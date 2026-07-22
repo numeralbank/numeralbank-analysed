@@ -22,23 +22,23 @@
 21,numerals-auve1239-1-seventeen-1,numerals-auve1239-1,Chan2019,seventeen,17,daraˈsɛ,darase,,false,10′′+7,,
 22,numerals-auve1239-1-eighteen-1,numerals-auve1239-1,Chan2019,eighteen,18,ˈdozjø,dozjo,,false,10′′+8,,
 23,numerals-auve1239-1-nineteen-1,numerals-auve1239-1,Chan2019,nineteen,19,dazaˈnjø,dazanjo,,false,10′′+9,,
-24,numerals-auve1239-1-twenty-1,numerals-auve1239-1,Chan2019,twenty,20,vjin,vjin,,false,20,historically 2⋅10,
-25,numerals-auve1239-1-twentyone-1,numerals-auve1239-1,Chan2019,twentyone,21,vjintaˈvyn,vjintavyn,,false,20+{+}1,,
-26,numerals-auve1239-1-twentytwo-1,numerals-auve1239-1,Chan2019,twentytwo,22,vjintaˈdu,vjintadu,,false,20+{+}2,,
-27,numerals-auve1239-1-twentythree-1,numerals-auve1239-1,Chan2019,twentythree,23,vjintaˈtʀej,vjintatrej,,false,20+{+}3,,
-28,numerals-auve1239-1-twentyfour-1,numerals-auve1239-1,Chan2019,twentyfour,24,vjintaˈkatʀə,vjintakatra,,false,20+{+}4,,
-29,numerals-auve1239-1-twentyfive-1,numerals-auve1239-1,Chan2019,twentyfive,25,vjintaˈʃin,vjintasin,,false,20+{+}5,,
-30,numerals-auve1239-1-twentysix-1,numerals-auve1239-1,Chan2019,twentysix,26,vjintaˈʃej,vjintasej,,false,20+{+}6,,
-31,numerals-auve1239-1-twentyseven-1,numerals-auve1239-1,Chan2019,twentyseven,27,vjintaˈse,vjintase,,false,20+{+}7,,
-32,numerals-auve1239-1-twentyeight-1,numerals-auve1239-1,Chan2019,twentyeight,28,vjintaˈvø,vjintavo,,false,20+{+}8,,
-33,numerals-auve1239-1-twentynine-1,numerals-auve1239-1,Chan2019,twentynine,29,vjintaˈnjø,vjintanjo,,false,20+{+}9,,
+24,numerals-auve1239-1-twenty-1,numerals-auve1239-1,Chan2019,twenty,20,vjin,vjin,,false,20,historically 2⋅10,2′⋅10′′′
+25,numerals-auve1239-1-twentyone-1,numerals-auve1239-1,Chan2019,twentyone,21,vjintaˈvyn,vjintavyn,,false,20+{+}1,,(2′⋅10′′′)+{+}1
+26,numerals-auve1239-1-twentytwo-1,numerals-auve1239-1,Chan2019,twentytwo,22,vjintaˈdu,vjintadu,,false,20+{+}2,,(2′⋅10′′′)+{+}2
+27,numerals-auve1239-1-twentythree-1,numerals-auve1239-1,Chan2019,twentythree,23,vjintaˈtʀej,vjintatrej,,false,20+{+}3,,(2′⋅10′′′)+{+}3
+28,numerals-auve1239-1-twentyfour-1,numerals-auve1239-1,Chan2019,twentyfour,24,vjintaˈkatʀə,vjintakatra,,false,20+{+}4,,(2′⋅10′′′)+{+}4
+29,numerals-auve1239-1-twentyfive-1,numerals-auve1239-1,Chan2019,twentyfive,25,vjintaˈʃin,vjintasin,,false,20+{+}5,,(2′⋅10′′′)+{+}5
+30,numerals-auve1239-1-twentysix-1,numerals-auve1239-1,Chan2019,twentysix,26,vjintaˈʃej,vjintasej,,false,20+{+}6,,(2′⋅10′′′)+{+}6
+31,numerals-auve1239-1-twentyseven-1,numerals-auve1239-1,Chan2019,twentyseven,27,vjintaˈse,vjintase,,false,20+{+}7,,(2′⋅10′′′)+{+}7
+32,numerals-auve1239-1-twentyeight-1,numerals-auve1239-1,Chan2019,twentyeight,28,vjintaˈvø,vjintavo,,false,20+{+}8,,(2′⋅10′′′)+{+}8
+33,numerals-auve1239-1-twentynine-1,numerals-auve1239-1,Chan2019,twentynine,29,vjintaˈnjø,vjintanjo,,false,20+{+}9,,(2′⋅10′′′)+{+}9
 34,numerals-auve1239-1-thirty-1,numerals-auve1239-1,Chan2019,thirty,30,ˈtʀẽtɐ,treta,,false,3⋅10′′′,,
 35,numerals-auve1239-1-forty-1,numerals-auve1239-1,Chan2019,forty,40,ˈkʀãtɐ,krata,,false,4⋅10′′′,,
 36,numerals-auve1239-1-fifty-1,numerals-auve1239-1,Chan2019,fifty,50,ʃinˈkãtɐ,sinkata,,false,5⋅10′′′,,
 37,numerals-auve1239-1-sixty-1,numerals-auve1239-1,Chan2019,sixty,60,seˈsãtɐ,sesata,,false,6⋅10′′′,,
 38,numerals-auve1239-1-seventy-1,numerals-auve1239-1,Chan2019,seventy,70,sejˈsãtɐ ˈdje,sejsatadje,(60 + 10 ),false,(6⋅10′′′)[+]10,,
-39,numerals-auve1239-1-eighty-1,numerals-auve1239-1,Chan2019,eighty,80,katʀəˈvjin,katravjin,(4 x 20 ),false,4⋅20,,
-40,numerals-auve1239-1-ninety-1,numerals-auve1239-1,Chan2019,ninety,90,katʀəˈvjin ˈdje,katravjindje,(80 + 10 ),false,(4⋅20)[+]10,,
+39,numerals-auve1239-1-eighty-1,numerals-auve1239-1,Chan2019,eighty,80,katʀəˈvjin,katravjin,(4 x 20 ),false,4⋅20,,4⋅2′⋅10′′′
+40,numerals-auve1239-1-ninety-1,numerals-auve1239-1,Chan2019,ninety,90,katʀəˈvjin ˈdje,katravjindje,(80 + 10 ),false,(4⋅20)[+]10,,(4⋅2′⋅10′′′)[+]10
 41,numerals-auve1239-1-hundred-1,numerals-auve1239-1,Chan2019,hundred,100,sẽ,se,,false,100,,
 42,numerals-auve1239-1-twohundred-1,numerals-auve1239-1,Chan2019,twohundred,200,duˈsẽ,duse,,false,2[⋅]100,,
 43,numerals-auve1239-1-thousand-1,numerals-auve1239-1,Chan2019,thousand,1000,ˈmjilɐ,mjila,,false,1000,,

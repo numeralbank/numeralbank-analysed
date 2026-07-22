@@ -21,9 +21,9 @@
 20,numerals-piem1238-1-seventeen-1,numerals-piem1238-1,Chan2019,seventeen,17,diˈsɛt,diset,,false,10+7,,
 21,numerals-piem1238-1-eighteen-1,numerals-piem1238-1,Chan2019,eighteen,18,diʒˈdøt,dizdot,,false,10+8,,
 22,numerals-piem1238-1-nineteen-1,numerals-piem1238-1,Chan2019,nineteen,19,diʒˈnøv,diznov,,false,10+9,,
-23,numerals-piem1238-1-twenty-1,numerals-piem1238-1,Chan2019,twenty,20,ˈviŋt,vingt,,false,20,,2′⋅10′′
-24,numerals-piem1238-1-twentyone-1,numerals-piem1238-1,Chan2019,twentyone,21,vinˈtyŋ,vintyng,(masc.),false,20[+]1,masculine,(2′⋅10′′)[+]1
-25,numerals-piem1238-1-twentyone-2,numerals-piem1238-1,Chan2019,twentyone,21,vinˈtyŋa,vintynga,(fem.),false,20[+]1,feminine,(2′⋅10′′)[+]1
+23,numerals-piem1238-1-twenty-1,numerals-piem1238-1,Chan2019,twenty,20,ˈviŋt,vingt,,false,20,historically 2⋅10,2′⋅10′′
+24,numerals-piem1238-1-twentyone-1,numerals-piem1238-1,Chan2019,twentyone,21,vinˈtyŋ,vintyng,(masc.),false,20+1,masculine,(2′⋅10′′)+1
+25,numerals-piem1238-1-twentyone-2,numerals-piem1238-1,Chan2019,twentyone,21,vinˈtyŋa,vintynga,(fem.),false,20+1,feminine,(2′⋅10′′)+1
 26,numerals-piem1238-1-twentytwo-1,numerals-piem1238-1,Chan2019,twentytwo,22,vinteˈduj,vinteduj,(masc.),false,20+2,masculine,(2′⋅10′′)+2
 27,numerals-piem1238-1-twentytwo-2,numerals-piem1238-1,Chan2019,twentytwo,22,vinteˈduɛ,due,(fem.),false,20+2,feminine,(2′⋅10′′)+2
 28,numerals-piem1238-1-twentythree-1,numerals-piem1238-1,Chan2019,twentythree,23,vinteˈtrɛj,vintetrej,(masc.),false,20+3,masculine,(2′⋅10′′)+3
@@ -32,7 +32,7 @@
 31,numerals-piem1238-1-twentyfive-1,numerals-piem1238-1,Chan2019,twentyfive,25,vinteˈt͡siŋk,vintetsingk,,false,20+5,,(2′⋅10′′)+5
 32,numerals-piem1238-1-twentysix-1,numerals-piem1238-1,Chan2019,twentysix,26,vinteˈseːʒ,vintesez,,false,20+6,,(2′⋅10′′)+6
 33,numerals-piem1238-1-twentyseven-1,numerals-piem1238-1,Chan2019,twentyseven,27,vinteˈsɛt,vinteset,,false,20+7,,(2′⋅10′′)+7
-34,numerals-piem1238-1-twentyeight-1,numerals-piem1238-1,Chan2019,twentyeight,28,vinˈtøːt,vintot,,false,20[+]8,,(2′⋅10′′)[+]8
+34,numerals-piem1238-1-twentyeight-1,numerals-piem1238-1,Chan2019,twentyeight,28,vinˈtøːt,vintot,,false,20+8,,(2′⋅10′′)+8
 35,numerals-piem1238-1-twentynine-1,numerals-piem1238-1,Chan2019,twentynine,29,vinteˈnøv,vintenov,,false,20+9,,(2′⋅10′′)+9
 36,numerals-piem1238-1-thirty-1,numerals-piem1238-1,Chan2019,thirty,30,ˈtɾan̪ta,tranta,,false,3⋅10′′,,
 37,numerals-piem1238-1-forty-1,numerals-piem1238-1,Chan2019,forty,40,kwaˈɾan̪ta,kwaranta,,false,4⋅10′′,,
