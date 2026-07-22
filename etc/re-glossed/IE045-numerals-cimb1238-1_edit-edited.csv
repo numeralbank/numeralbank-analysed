@@ -19,10 +19,10 @@
 18,numerals-cimb1238-1-nine-2,numerals-cimb1238-1,Chan2019,nine,9,ˈnɔin,noin,,false,9,,
 19,numerals-cimb1238-1-ten-1,numerals-cimb1238-1,Chan2019,ten,10,ˈsɘgɘne,segene,,false,10,,
 20,numerals-cimb1238-1-ten-2,numerals-cimb1238-1,Chan2019,ten,10,ˈsɘgɘn,segen,,false,10,,
-21,numerals-cimb1238-1-eleven-1,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlbe,oelbe,,false,11,historically 1+{left}[10],
-22,numerals-cimb1238-1-eleven-2,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlf,oelf,,false,11,historically 1+{left}[10],
-23,numerals-cimb1238-1-twelve-1,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlbe,sboelbe,,false,12,historically 2+{left}[10],
-24,numerals-cimb1238-1-twelve-2,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlf,sboelf,,false,12,historically 2+{left}[10],
+21,numerals-cimb1238-1-eleven-1,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlbe,oelbe,,false,11,historically 1+{left}[10],[1]+10′′
+22,numerals-cimb1238-1-eleven-2,numerals-cimb1238-1,Chan2019,eleven,11,ˈœlf,oelf,,false,11,historically 1+{left}[10],[1]+10′′
+23,numerals-cimb1238-1-twelve-1,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlbe,sboelbe,,false,12,historically 2+{left}[10],2+10′′
+24,numerals-cimb1238-1-twelve-2,numerals-cimb1238-1,Chan2019,twelve,12,ˈsbœlf,sboelf,,false,12,historically 2+{left}[10],2+10′′
 25,numerals-cimb1238-1-thirteen-1,numerals-cimb1238-1,Chan2019,thirteen,13,ˈdraɪt͡sɘne,draitsene,,false,3+10,,
 26,numerals-cimb1238-1-thirteen-2,numerals-cimb1238-1,Chan2019,thirteen,13,ˈdraɪt͡sɘn,draitsen,,false,3+10,,
 27,numerals-cimb1238-1-fourteen-1,numerals-cimb1238-1,Chan2019,fourteen,14,ˈviɐrt͡sɘne,viartsene,,false,4+10,,

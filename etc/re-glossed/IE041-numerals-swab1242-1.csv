@@ -17,10 +17,10 @@
 16,numerals-swab1242-1-nine-2,numerals-swab1242-1,Chan2019,nine,9,ˈnɔɪnə,noina,,false,9,,
 17,numerals-swab1242-1-ten-1,numerals-swab1242-1,Chan2019,ten,10,t͡seːn,tsen,,false,10,,
 18,numerals-swab1242-1-ten-2,numerals-swab1242-1,Chan2019,ten,10,t͡seːnə,tsena,,false,10,,
-19,numerals-swab1242-1-eleven-1,numerals-swab1242-1,Chan2019,eleven,11,ʔɛlf,elf,,false,11,historically 1+{left}[10],
-20,numerals-swab1242-1-eleven-2,numerals-swab1242-1,Chan2019,eleven,11,ʔɛlfə,elfa,,false,11,historically 1+{left}[10],
-21,numerals-swab1242-1-twelve-1,numerals-swab1242-1,Chan2019,twelve,12,ˈt͡sʋœlf,tsvoelf,,false,12,historically 2+{left}[10],
-22,numerals-swab1242-1-twelve-2,numerals-swab1242-1,Chan2019,twelve,12,ˈt͡sʋœlfə,tsvoelfa,,false,12,historically 2+{left}[10],
+19,numerals-swab1242-1-eleven-1,numerals-swab1242-1,Chan2019,eleven,11,ʔɛlf,elf,,false,11,historically 1+{left}[10],1′+10′′
+20,numerals-swab1242-1-eleven-2,numerals-swab1242-1,Chan2019,eleven,11,ʔɛlfə,elfa,,false,11,historically 1+{left}[10],1′+10′′
+21,numerals-swab1242-1-twelve-1,numerals-swab1242-1,Chan2019,twelve,12,ˈt͡sʋœlf,tsvoelf,,false,12,historically 2+{left}[10],2+10′′
+22,numerals-swab1242-1-twelve-2,numerals-swab1242-1,Chan2019,twelve,12,ˈt͡sʋœlfə,tsvoelfa,,false,12,historically 2+{left}[10],2+10′′
 23,numerals-swab1242-1-thirteen-1,numerals-swab1242-1,Chan2019,thirteen,13,ˈdraɪt͡sn̩,draitsn,,false,3+10,,
 24,numerals-swab1242-1-fourteen-1,numerals-swab1242-1,Chan2019,fourteen,14,ˈfi˞ɾt͡sn̩,firrtsn,,false,4+10,,
 25,numerals-swab1242-1-fifteen-1,numerals-swab1242-1,Chan2019,fifteen,15,ˈfʊt͡sn̩,futsn,,false,5+10,,
@@ -28,8 +28,8 @@
 27,numerals-swab1242-1-seventeen-1,numerals-swab1242-1,Chan2019,seventeen,17,ˈsɪpt͡sn̩,siptsn,,false,7+10,,
 28,numerals-swab1242-1-eighteen-1,numerals-swab1242-1,Chan2019,eighteen,18,ˈʔɑxt͡sn̩,axtsn,,false,8+10,,
 29,numerals-swab1242-1-nineteen-1,numerals-swab1242-1,Chan2019,nineteen,19,ˈnɔɪnt͡sn̩,nointsn,,false,9+10,,
-30,numerals-swab1242-1-twenty-1,numerals-swab1242-1,Chan2019,twenty,20,ˈt͡sʋɑnt͡sk,tsvantsk,,false,2′⋅10,,
-31,numerals-swab1242-1-twenty-2,numerals-swab1242-1,Chan2019,twenty,20,ˈt͡sʋɑnt͡skə,tsvantska,,false,2′⋅10,,
+30,numerals-swab1242-1-twenty-1,numerals-swab1242-1,Chan2019,twenty,20,ˈt͡sʋɑnt͡sk,tsvantsk,,false,2⋅10′,,
+31,numerals-swab1242-1-twenty-2,numerals-swab1242-1,Chan2019,twenty,20,ˈt͡sʋɑnt͡skə,tsvantska,,false,2⋅10′,,
 32,numerals-swab1242-1-twentyone-1,numerals-swab1242-1,Chan2019,twentyone,21,ˈʔɔɪnɐˌˈt͡sʋɑnt͡sk,oinatsvantsk,,false,1+{and}(2⋅10′),,
 33,numerals-swab1242-1-twentytwo-1,numerals-swab1242-1,Chan2019,twentytwo,22,ˈt͡sʋoːɐˌˈt͡sʋɑnt͡sk,tsvoatsvantsk,,false,2+{and}(2⋅10′),,
 34,numerals-swab1242-1-twentythree-1,numerals-swab1242-1,Chan2019,twentythree,23,ˈdraɪɐˌˈt͡sʋɑnt͡sk,draiatsvantsk,,false,3+{and}(2⋅10′),,

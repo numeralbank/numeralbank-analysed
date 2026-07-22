@@ -9,8 +9,8 @@
 8,numerals-wals1238-1-eight-1,numerals-wals1238-1,Chan2019,eight,8,ˈaxti,axti,,false,8,,
 9,numerals-wals1238-1-nine-1,numerals-wals1238-1,Chan2019,nine,9,ˈniːni,nini,,false,9,,
 10,numerals-wals1238-1-ten-1,numerals-wals1238-1,Chan2019,ten,10,ˈt͡sæxəni,tsaexani,,false,10,,
-11,numerals-wals1238-1-eleven-1,numerals-wals1238-1,Chan2019,eleven,11,ˈɪndlɛfi,indlefi,,false,11,historically 1+{left}[10],
-12,numerals-wals1238-1-twelve-1,numerals-wals1238-1,Chan2019,twelve,12,ˈt͡svɛlfi,tsvelfi,,false,12,historically 2+{left}[10],
+11,numerals-wals1238-1-eleven-1,numerals-wals1238-1,Chan2019,eleven,11,ˈɪndlɛfi,indlefi,,false,11,historically 1+{left}[10],1′+10′′
+12,numerals-wals1238-1-twelve-1,numerals-wals1238-1,Chan2019,twelve,12,ˈt͡svɛlfi,tsvelfi,,false,12,historically 2+{left}[10],2+10′′
 13,numerals-wals1238-1-thirteen-1,numerals-wals1238-1,Chan2019,thirteen,13,ˈdrit͡sæni,dritsaeni,,false,3+10,,
 14,numerals-wals1238-1-fourteen-1,numerals-wals1238-1,Chan2019,fourteen,14,ˈfɪːrt͡sæni,firtsaeni,,false,4+10,,
 15,numerals-wals1238-1-fifteen-1,numerals-wals1238-1,Chan2019,fifteen,15,ˈfift͡sæni,fiftsaeni,,false,5+10,,
@@ -18,7 +18,7 @@
 17,numerals-wals1238-1-seventeen-1,numerals-wals1238-1,Chan2019,seventeen,17,ˈsɪbənt͡sæni,sibantsaeni,,false,7+10,,
 18,numerals-wals1238-1-eighteen-1,numerals-wals1238-1,Chan2019,eighteen,18,ˈaxt͡sæni,axtsaeni,,false,8+10,,
 19,numerals-wals1238-1-nineteen-1,numerals-wals1238-1,Chan2019,nineteen,19,ˈnint͡sæni,nintsaeni,,false,9+10,,
-20,numerals-wals1238-1-twenty-1,numerals-wals1238-1,Chan2019,twenty,20,ˈt͡svɛnt͡sg,tsventsg,,false,2⋅10’,,
+20,numerals-wals1238-1-twenty-1,numerals-wals1238-1,Chan2019,twenty,20,ˈt͡svɛnt͡sg,tsventsg,,false,2⋅10′,,
 21,numerals-wals1238-1-twentyone-1,numerals-wals1238-1,Chan2019,twentyone,21,ˌɛɪnuˈt͡svɛnt͡sg,einutsventsg,,false,1+{+}(2⋅10′),,
 22,numerals-wals1238-1-twentytwo-1,numerals-wals1238-1,Chan2019,twentytwo,22,ˌt͡svɛɪuˈt͡svɛnt͡sg,tsveiutsventsg,,false,2+{+}(2⋅10′),,
 23,numerals-wals1238-1-twentythree-1,numerals-wals1238-1,Chan2019,twentythree,23,ˌdriuˈt͡svɛnt͡sg,driutsventsg,,false,3+{+}(2⋅10′),,
