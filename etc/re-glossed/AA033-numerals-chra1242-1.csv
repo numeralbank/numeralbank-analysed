@@ -10,16 +10,16 @@
 9,numerals-chra1242-1-seven-2,numerals-chra1242-1,Chan2019,seven,7,paːh,pah,,false,7,,
 10,numerals-chra1242-1-eight-1,numerals-chra1242-1,Chan2019,eight,8,pʰam,pham,,false,8,,
 11,numerals-chra1242-1-nine-1,numerals-chra1242-1,Chan2019,nine,9,suˀn,sun,,false,9,,
-12,numerals-chra1242-1-ten-1,numerals-chra1242-1,Chan2019,ten,10,maːt,mat,,false,1⋅10,,
-13,numerals-chra1242-1-eleven-1,numerals-chra1242-1,Chan2019,eleven,11,maːt muoːi,matmuoi,,false,1⋅10[+]1,,
-14,numerals-chra1242-1-twelve-1,numerals-chra1242-1,Chan2019,twelve,12,maːt val,matval,,false,1⋅10[+]2,,
-15,numerals-chra1242-1-thirteen-1,numerals-chra1242-1,Chan2019,thirteen,13,maːt pe,matpe,,false,1⋅10[+]3,,
-16,numerals-chra1242-1-fourteen-1,numerals-chra1242-1,Chan2019,fourteen,14,maːt puoːn,matpuon,,false,1⋅10[+]4,,
-17,numerals-chra1242-1-fifteen-1,numerals-chra1242-1,Chan2019,fifteen,15,maːt prăm,matpram,,false,1⋅10[+]5,,
-18,numerals-chra1242-1-sixteen-1,numerals-chra1242-1,Chan2019,sixteen,16,maːt prau,matprau,,false,1⋅10[+]6,,
-19,numerals-chra1242-1-seventeen-1,numerals-chra1242-1,Chan2019,seventeen,17,maːt pŏh,matpoh,,false,1⋅10[+]7,,
-20,numerals-chra1242-1-eighteen-1,numerals-chra1242-1,Chan2019,eighteen,18,maːt pʰam,matpham,,false,1⋅10[+]8,,
-21,numerals-chra1242-1-nineteen-1,numerals-chra1242-1,Chan2019,nineteen,19,maːt suˀn,matsun,,false,1⋅10[+]9,,
+12,numerals-chra1242-1-ten-1,numerals-chra1242-1,Chan2019,ten,10,maːt,mat,,false,1⋅10,,10′
+13,numerals-chra1242-1-eleven-1,numerals-chra1242-1,Chan2019,eleven,11,maːt muoːi,matmuoi,,false,(1⋅10)[+]1,,10′[+]1
+14,numerals-chra1242-1-twelve-1,numerals-chra1242-1,Chan2019,twelve,12,maːt val,matval,,false,(1⋅10)[+]2,,10′[+]2
+15,numerals-chra1242-1-thirteen-1,numerals-chra1242-1,Chan2019,thirteen,13,maːt pe,matpe,,false,(1⋅10)[+]3,,10′[+]3
+16,numerals-chra1242-1-fourteen-1,numerals-chra1242-1,Chan2019,fourteen,14,maːt puoːn,matpuon,,false,(1⋅10)[+]4,,10′[+]4
+17,numerals-chra1242-1-fifteen-1,numerals-chra1242-1,Chan2019,fifteen,15,maːt prăm,matpram,,false,(1⋅10)[+]5,,10′[+]5
+18,numerals-chra1242-1-sixteen-1,numerals-chra1242-1,Chan2019,sixteen,16,maːt prau,matprau,,false,(1⋅10)[+]6,,10′[+]6
+19,numerals-chra1242-1-seventeen-1,numerals-chra1242-1,Chan2019,seventeen,17,maːt pŏh,matpoh,,false,(1⋅10)[+]7,,10′[+]7
+20,numerals-chra1242-1-eighteen-1,numerals-chra1242-1,Chan2019,eighteen,18,maːt pʰam,matpham,,false,(1⋅10)[+]8,,10′[+]8
+21,numerals-chra1242-1-nineteen-1,numerals-chra1242-1,Chan2019,nineteen,19,maːt suˀn,matsun,,false,(1⋅10)[+]9,,10′[+]9
 22,numerals-chra1242-1-twenty-1,numerals-chra1242-1,Chan2019,twenty,20,val ɟaːt,valjat,,false,2[⋅]10,,
 23,numerals-chra1242-1-twentyone-1,numerals-chra1242-1,Chan2019,twentyone,21,val ɟaːt muoːi,valjatmuoi,,false,(2[⋅]10)+1,,
 24,numerals-chra1242-1-twentytwo-1,numerals-chra1242-1,Chan2019,twentytwo,22,val ɟaːt val,valjatval,,false,(2[⋅]10)+2,,
@@ -39,5 +39,5 @@
 38,numerals-chra1242-1-ninety-1,numerals-chra1242-1,Chan2019,ninety,90,suˀn ɟaːt,sunjat,,false,9[⋅]10,,
 39,numerals-chra1242-1-hundred-1,numerals-chra1242-1,Chan2019,hundred,100,du rajĕŋ,durajeng,,false,1′[⋅]100,,
 40,numerals-chra1242-1-twohundred-1,numerals-chra1242-1,Chan2019,twohundred,200,val rajĕŋ,valrajeng,,false,2[⋅]100,,
-41,numerals-chra1242-1-thousand-1,numerals-chra1242-1,Chan2019,thousand,1000,du ravu,duravu,< Chamic,true,1′[⋅]1000,ravu is a loan from Cham (Austronesian),
-42,numerals-chra1242-1-twothousand-1,numerals-chra1242-1,Chan2019,twothousand,2000,val ravu,valravu,,false,2[⋅]1000,ravu is a loan from Cham (Austronesian),
+41,numerals-chra1242-1-thousand-1,numerals-chra1242-1,Chan2019,thousand,1000,du ravu,duravu,< Chamic,true,1′[⋅]1000,<ravu> ‘thousand’ borrowed from Chamic (Austronesian),
+42,numerals-chra1242-1-twothousand-1,numerals-chra1242-1,Chan2019,twothousand,2000,val ravu,valravu,,false,2[⋅]1000,<ravu> ‘thousand’ borrowed from Chamic (Austronesian),

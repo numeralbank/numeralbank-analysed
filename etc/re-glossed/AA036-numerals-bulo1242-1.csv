@@ -10,16 +10,16 @@
 9,numerals-bulo1242-1-seven-2,numerals-bulo1242-1,Chan2019,seven,7,paːh,pah,,false,7,,
 10,numerals-bulo1242-1-eight-1,numerals-bulo1242-1,Chan2019,eight,8,pʰam,pham,,false,8,,
 11,numerals-bulo1242-1-nine-1,numerals-bulo1242-1,Chan2019,nine,9,suˀn,sun,,false,9,,
-12,numerals-bulo1242-1-ten-1,numerals-bulo1242-1,Chan2019,ten,10,maːt,mat,,false,10,,
-13,numerals-bulo1242-1-eleven-1,numerals-bulo1242-1,Chan2019,eleven,11,maːt ɟaːt muoːi,matjatmuoi,,false,10{10′}+1,,
-14,numerals-bulo1242-1-twelve-1,numerals-bulo1242-1,Chan2019,twelve,12,maːt ɟaːt val,matjatval,,false,10{10′}+2,,
-15,numerals-bulo1242-1-thirteen-1,numerals-bulo1242-1,Chan2019,thirteen,13,maːt ɟaːt pe,matjatpe,,false,10{10′}+3,,
-16,numerals-bulo1242-1-fourteen-1,numerals-bulo1242-1,Chan2019,fourteen,14,maːt ɟaːt puoːn,matjatpuon,,false,10{10′}+4,,
-17,numerals-bulo1242-1-fifteen-1,numerals-bulo1242-1,Chan2019,fifteen,15,maːt ɟaːt prăm,matjatpram,,false,10{10′}+5,,
-18,numerals-bulo1242-1-sixteen-1,numerals-bulo1242-1,Chan2019,sixteen,16,maːt ɟaːt prau,matjatprau,,false,10{10′}+6,,
-19,numerals-bulo1242-1-seventeen-1,numerals-bulo1242-1,Chan2019,seventeen,17,maːt ɟaːt pŏh,matjatpoh,,false,10{10′}+7,,
-20,numerals-bulo1242-1-eighteen-1,numerals-bulo1242-1,Chan2019,eighteen,18,maːt ɟaːt pʰam,matjatpham,,false,10{10′}+8,,
-21,numerals-bulo1242-1-nineteen-1,numerals-bulo1242-1,Chan2019,nineteen,19,maːt ɟaːt suˀn,matjatsun,,false,10{10′}+9,,
+12,numerals-bulo1242-1-ten-1,numerals-bulo1242-1,Chan2019,ten,10,maːt,mat,,false,10,historically 1⋅10 (?),1⋅10
+13,numerals-bulo1242-1-eleven-1,numerals-bulo1242-1,Chan2019,eleven,11,maːt ɟaːt muoːi,matjatmuoi,,false,10{10′}+1,,(1⋅10){10}+1
+14,numerals-bulo1242-1-twelve-1,numerals-bulo1242-1,Chan2019,twelve,12,maːt ɟaːt val,matjatval,,false,10{10′}+2,,(1⋅10){10}+2
+15,numerals-bulo1242-1-thirteen-1,numerals-bulo1242-1,Chan2019,thirteen,13,maːt ɟaːt pe,matjatpe,,false,10{10′}+3,,(1⋅10){10}+3
+16,numerals-bulo1242-1-fourteen-1,numerals-bulo1242-1,Chan2019,fourteen,14,maːt ɟaːt puoːn,matjatpuon,,false,10{10′}+4,,(1⋅10){10}+4
+17,numerals-bulo1242-1-fifteen-1,numerals-bulo1242-1,Chan2019,fifteen,15,maːt ɟaːt prăm,matjatpram,,false,10{10′}+5,,(1⋅10){10}+5
+18,numerals-bulo1242-1-sixteen-1,numerals-bulo1242-1,Chan2019,sixteen,16,maːt ɟaːt prau,matjatprau,,false,10{10′}+6,,(1⋅10){10}+6
+19,numerals-bulo1242-1-seventeen-1,numerals-bulo1242-1,Chan2019,seventeen,17,maːt ɟaːt pŏh,matjatpoh,,false,10{10′}+7,,(1⋅10){10}+7
+20,numerals-bulo1242-1-eighteen-1,numerals-bulo1242-1,Chan2019,eighteen,18,maːt ɟaːt pʰam,matjatpham,,false,10{10′}+8,,(1⋅10){10}+8
+21,numerals-bulo1242-1-nineteen-1,numerals-bulo1242-1,Chan2019,nineteen,19,maːt ɟaːt suˀn,matjatsun,,false,10{10′}+9,,(1⋅10){10}+9
 22,numerals-bulo1242-1-twenty-1,numerals-bulo1242-1,Chan2019,twenty,20,val ɟaːt,valjat,,false,2[⋅]10′,,
 23,numerals-bulo1242-1-twentyone-1,numerals-bulo1242-1,Chan2019,twentyone,21,val ɟaːt muoːi,valjatmuoi,,false,(2[⋅]10′)[+]1,,
 24,numerals-bulo1242-1-twentytwo-1,numerals-bulo1242-1,Chan2019,twentytwo,22,val ɟaːt val,valjatval,,false,(2[⋅]10′)[+]2,,
