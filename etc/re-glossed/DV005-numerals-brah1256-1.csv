@@ -20,7 +20,7 @@
 19,numerals-brah1256-1-seventeen-1,numerals-brah1256-1,Chan2019,seventeen,17,ˀavda,avda,,false,7+10,borrowed from Indo-Iranian (Indo-European),
 20,numerals-brah1256-1-eighteen-1,numerals-brah1256-1,Chan2019,eighteen,18,ˀaʒda,azda,,false,8+10,borrowed from Indo-Iranian (Indo-European),
 21,numerals-brah1256-1-nineteen-1,numerals-brah1256-1,Chan2019,nineteen,19,noːzda,nozda,,false,9+10,borrowed from Indo-Iranian (Indo-European),
-22,numerals-brah1256-1-twenty-1,numerals-brah1256-1,Chan2019,twenty,20,biːst,bist,,false,20,borrowed from Indo-Iranian (Indo-European),
+22,numerals-brah1256-1-twenty-1,numerals-brah1256-1,Chan2019,twenty,20,biːst,bist,,false,20,borrowed from Indo-Iranian (Indo-European); historically 2⋅10,
 23,numerals-brah1256-1-twentyone-1,numerals-brah1256-1,Chan2019,twentyone,21,biːst u jak,bistujak,,false,20+{+}1′,borrowed from Indo-Iranian (Indo-European),
 24,numerals-brah1256-1-twentytwo-1,numerals-brah1256-1,Chan2019,twentytwo,22,biːst u do,bistudo,,false,20+{+}2′,borrowed from Indo-Iranian (Indo-European),
 25,numerals-brah1256-1-twentythree-1,numerals-brah1256-1,Chan2019,twentythree,23,biːst u saj,bistusaj,,false,20+{+}3′,borrowed from Indo-Iranian (Indo-European),
@@ -33,7 +33,7 @@
 32,numerals-brah1256-1-thirty-1,numerals-brah1256-1,Chan2019,thirty,30,siː,si,,false,30,borrowed from Indo-Iranian (Indo-European),3′⋅10′
 33,numerals-brah1256-1-forty-1,numerals-brah1256-1,Chan2019,forty,40,t͡ʃil,tsil,,false,40,borrowed from Indo-Iranian (Indo-European),4⋅10′′
 34,numerals-brah1256-1-fifty-1,numerals-brah1256-1,Chan2019,fifty,50,pand͡ʒaː,pandza,,false,50,borrowed from Indo-Iranian (Indo-European),5⋅10′′′
-35,numerals-brah1256-1-sixty-1,numerals-brah1256-1,Chan2019,sixty,60,ʃast,sast,,false,60,borrowed from Indo-Iranian (Indo-European),5⋅10′′′′
+35,numerals-brah1256-1-sixty-1,numerals-brah1256-1,Chan2019,sixty,60,ʃast,sast,,false,60,borrowed from Indo-Iranian (Indo-European),6⋅10′′′′
 36,numerals-brah1256-1-sixty-2,numerals-brah1256-1,Chan2019,sixty,60,musi biːst,musibist,(3 x 20),false,3[⋅]20,<biːst> ‘twenty’ borrowed from Indo-Iranian (Indo-European),
 37,numerals-brah1256-1-seventy-1,numerals-brah1256-1,Chan2019,seventy,70,ˀaptaːd,aptad,,false,7⋅10,borrowed from Indo-Iranian (Indo-European),70
 38,numerals-brah1256-1-seventy-2,numerals-brah1256-1,Chan2019,seventy,70,must biːst u da,mustbistuda,( 3 x 20+ 10),false,(3[⋅]20)+{+}10,"<biːst> ‘twenty’, <u> ‘plus’, and <da> ‘ten’ borrowed from Indo-Iranian (Indo-European)",
@@ -43,5 +43,5 @@
 42,numerals-brah1256-1-ninety-2,numerals-brah1256-1,Chan2019,ninety,90,t͡ʃaːr biːst u da,tsarbistuda,,false,(4⋅20)+{LP}10,"<t͡ʃaːr> ‘four’ <biːst> ‘twenty’, <u> ‘plus’, and <da> ‘ten’ borrowed from Indo-Iranian (Indo-European)",
 43,numerals-brah1256-1-hundred-1,numerals-brah1256-1,Chan2019,hundred,100,sad,sad,,false,100,borrowed from Indo-Iranian (Indo-European),
 44,numerals-brah1256-1-twohundred-1,numerals-brah1256-1,Chan2019,twohundred,200,do sad,dosad,,false,2′[⋅]100,borrowed from Indo-Iranian (Indo-European),
-45,numerals-brah1256-1-thousand-1,numerals-brah1256-1,Chan2019,thousand,1000,ˀazaːr,azar,,false,1000,borrowed from Indo-Iranian (Indo-European),
-46,numerals-brah1256-1-twothousand-1,numerals-brah1256-1,Chan2019,twothousand,2000,do ˀazaːr,doazar,,false,2′[⋅]1000,borrowed from Indo-Iranian (Indo-European),
+45,numerals-brah1256-1-thousand-1,numerals-brah1256-1,Chan2019,thousand,1000,ˀazaːr,azar,,false,1000,"borrowed from Indo-Iranian (Indo-European), ultimately from Iranian",
+46,numerals-brah1256-1-twothousand-1,numerals-brah1256-1,Chan2019,twothousand,2000,do ˀazaːr,doazar,,false,2′[⋅]1000,borrowed from Indo-Iranian (Indo-European); <ˀazaːr> ‘thousand’ ultimately from Iranian,
