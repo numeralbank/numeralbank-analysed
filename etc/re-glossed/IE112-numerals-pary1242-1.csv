@@ -21,9 +21,9 @@
 20,numerals-pary1242-1-seventeen-2,numerals-pary1242-1,Chan2019,seventeen,17,sitaraːn,sitaran,,false,7+10′,,
 21,numerals-pary1242-1-eighteen-1,numerals-pary1242-1,Chan2019,eighteen,18,aʈʰaran,atharan,,false,8+10′,,
 22,numerals-pary1242-1-eighteen-2,numerals-pary1242-1,Chan2019,eighteen,18,aʈʰaraːn,atharan,,false,8+10′,,
-23,numerals-pary1242-1-nineteen-1,numerals-pary1242-1,Chan2019,nineteen,19,uni,uni,,false,19,Historically subtractive [1]−{−}(2⋅10),
-24,numerals-pary1242-1-nineteen-2,numerals-pary1242-1,Chan2019,nineteen,19,unni,unni,( 20 - 1),false,19,Historically subtractive [1]−{−}(2⋅10),
-25,numerals-pary1242-1-twenty-1,numerals-pary1242-1,Chan2019,twenty,20,bis,bis,,false,20,Historically 2⋅10,2′⋅10″
+23,numerals-pary1242-1-nineteen-1,numerals-pary1242-1,Chan2019,nineteen,19,uni,uni,,false,19,historically subtractive: [1]−{−}(2⋅10),
+24,numerals-pary1242-1-nineteen-2,numerals-pary1242-1,Chan2019,nineteen,19,unni,unni,( 20 - 1),false,19,historically subtractive: [1]−{−}(2⋅10),
+25,numerals-pary1242-1-twenty-1,numerals-pary1242-1,Chan2019,twenty,20,bis,bis,,false,20,historically 2⋅10,2′⋅10″
 26,numerals-pary1242-1-twentyone-1,numerals-pary1242-1,Chan2019,twentyone,21,bisitijek,bisitijek,,false,20+{+}1,,(2′⋅10′′)+{+}1
 27,numerals-pary1242-1-twentytwo-1,numerals-pary1242-1,Chan2019,twentytwo,22,bisitidoː,bisitido,,false,20+{+}2,,(2′⋅10′′)+{+}2
 28,numerals-pary1242-1-twentythree-1,numerals-pary1242-1,Chan2019,twentythree,23,bisititin,bisititin,,false,20+{+}3,,(2′⋅10′′)+{+}3
@@ -36,13 +36,13 @@
 35,numerals-pary1242-1-thirty-1,numerals-pary1242-1,Chan2019,thirty,30,tri,tri,,false,3⋅10′′,,
 36,numerals-pary1242-1-forty-1,numerals-pary1242-1,Chan2019,forty,40,t͡ʃalli,tsalli,,false,4⋅10′′,,
 37,numerals-pary1242-1-forty-2,numerals-pary1242-1,Chan2019,forty,40,t͡ʃali,tsali,,false,4⋅10′′,,
-38,numerals-pary1242-1-fifty-1,numerals-pary1242-1,Chan2019,fifty,50,piɲd͡ʒah,pindzah,,false,50,Historically 5⋅10,5⋅10′′′
+38,numerals-pary1242-1-fifty-1,numerals-pary1242-1,Chan2019,fifty,50,piɲd͡ʒah,pindzah,,false,50,historically 5⋅10,5⋅10′′′
 39,numerals-pary1242-1-sixty-1,numerals-pary1242-1,Chan2019,sixty,60,tinbisi,tinbisi,( 3 x 20),false,3⋅20,,3⋅(2′⋅10′′)
-40,numerals-pary1242-1-seventy-1,numerals-pary1242-1,Chan2019,seventy,70,saɽetinbisi,saretinbisi,[half of 'twenty' + (3 x 20) ],false,{half}[10+](3⋅20),saɽe means 'half' so this could be overcounting or adding half of 20,(½⋅[20])+(3⋅20)
+40,numerals-pary1242-1-seventy-1,numerals-pary1242-1,Chan2019,seventy,70,saɽetinbisi,saretinbisi,[half of 'twenty' + (3 x 20) ],false,(½⋅[20])+(3⋅20),"<saɽe> means ‘half’, so this could be interpreted either as adding half [of twenty] or as overcounting (i.e., halfway [toward the next twenty]).",{half}[10+](3⋅20)
 41,numerals-pary1242-1-eighty-1,numerals-pary1242-1,Chan2019,eighty,80,t͡ʃarbisi,tsarbisi,( 4 x 20),false,4⋅20,,4⋅(2′⋅10′′)
-42,numerals-pary1242-1-ninety-1,numerals-pary1242-1,Chan2019,ninety,90,saɽet͡ʃarbisi,saretsarbisi,[half of 'twenty' +(4 x 20) ],false,{half}[10+](4⋅20),saɽe means 'half' so this could be overcounting or adding half of 20,(½⋅[20])(4⋅20)
+42,numerals-pary1242-1-ninety-1,numerals-pary1242-1,Chan2019,ninety,90,saɽet͡ʃarbisi,saretsarbisi,[half of 'twenty' +(4 x 20) ],false,(½⋅[20])(4⋅20),"<saɽe> means ‘half’, so this could be interpreted either as adding half [of twenty] or as overcounting (i.e., halfway [toward the next twenty]).",{half}[10+](4⋅20)
 43,numerals-pary1242-1-hundred-1,numerals-pary1242-1,Chan2019,hundred,100,soː,so,,false,100,,
 44,numerals-pary1242-1-hundred-2,numerals-pary1242-1,Chan2019,hundred,100,su,su,,false,100,,
 45,numerals-pary1242-1-twohundred-1,numerals-pary1242-1,Chan2019,twohundred,200,doː soː,doso,,false,2[⋅]100,,
-46,numerals-pary1242-1-thousand-1,numerals-pary1242-1,Chan2019,thousand,1000,hazor,hazor,( < Iranian ),true,1000,"hazor is an Iranian loan, likely from Persian",
-47,numerals-pary1242-1-twothousand-1,numerals-pary1242-1,Chan2019,twothousand,2000,doː hazor,dohazor,,false,2[⋅]1000,"hazor is an Iranian loan, likely from Persian",
+46,numerals-pary1242-1-thousand-1,numerals-pary1242-1,Chan2019,thousand,1000,hazor,hazor,( < Iranian ),true,1000,ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+47,numerals-pary1242-1-twothousand-1,numerals-pary1242-1,Chan2019,twothousand,2000,doː hazor,dohazor,,false,2[⋅]1000,<hazor> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

@@ -18,17 +18,17 @@
 17,googleuninum-syl-sixteen-1,googleuninum-syl,Ritchie2019,sixteen,16,ষোল্ল,ssoll,,,6′+10′,6 and 6′ are historically identical,
 18,googleuninum-syl-seventeen-1,googleuninum-syl,Ritchie2019,seventeen,17,সতরো,stro,,,7+10′,,
 19,googleuninum-syl-eighteen-1,googleuninum-syl,Ritchie2019,eighteen,18,আটারো,aattaaro,,,8+10′,,
-20,googleuninum-syl-nineteen-1,googleuninum-syl,Ritchie2019,nineteen,19,উন্নিশ,unnish,,,[1]−{−}(2′⋅10′′),Subtraction,
+20,googleuninum-syl-nineteen-1,googleuninum-syl,Ritchie2019,nineteen,19,উন্নিশ,unnish,,,[1]−{−}([2′]⋅10′′),,
 21,googleuninum-syl-twenty-1,googleuninum-syl,Ritchie2019,twenty,20,বিশ,bish,,,2′⋅10′′,,
-22,googleuninum-syl-twentyone-1,googleuninum-syl,Ritchie2019,twentyone,21,একুইশ,ekuish,,,1+(2′⋅10′′),,
-23,googleuninum-syl-twentytwo-1,googleuninum-syl,Ritchie2019,twentytwo,22,বাইশ,baaish,,,2′+(2′⋅10′′),,
-24,googleuninum-syl-twentythree-1,googleuninum-syl,Ritchie2019,twentythree,23,তেইশ,teish,,,3+(2′⋅10′′),,
+22,googleuninum-syl-twentyone-1,googleuninum-syl,Ritchie2019,twentyone,21,একুইশ,ekuish,,,1+([2′]⋅10′′),,
+23,googleuninum-syl-twentytwo-1,googleuninum-syl,Ritchie2019,twentytwo,22,বাইশ,baaish,,,2′+([2′]⋅10′′),,
+24,googleuninum-syl-twentythree-1,googleuninum-syl,Ritchie2019,twentythree,23,তেইশ,teish,,,3+([2′]⋅10′′),,
 25,googleuninum-syl-twentyfour-1,googleuninum-syl,Ritchie2019,twentyfour,24,ছব্বিশ,chbbish,,,4+(2′⋅10′′),,
-26,googleuninum-syl-twentyfive-1,googleuninum-syl,Ritchie2019,twentyfive,25,ফচিশ,phcish,,,5+(2′⋅10′′),,
+26,googleuninum-syl-twentyfive-1,googleuninum-syl,Ritchie2019,twentyfive,25,ফচিশ,phcish,,,5+([2′]⋅10′′),,
 27,googleuninum-syl-twentysix-1,googleuninum-syl,Ritchie2019,twentysix,26,ছাব্বিশ,chaabbish,,,6+(2′⋅10′′),,
-28,googleuninum-syl-twentyseven-1,googleuninum-syl,Ritchie2019,twentyseven,27,সাতাইশ,saataaish,,,7+(2′⋅10′′),,
-29,googleuninum-syl-twentyeight-1,googleuninum-syl,Ritchie2019,twentyeight,28,আটাইশ,aattaaish,,,8+(2′⋅10′′),,
-30,googleuninum-syl-twentynine-1,googleuninum-syl,Ritchie2019,twentynine,29,ঊনতিরিশ,uuntirish,,,[1]−{−}(3⋅10′′),Subtraction,
+28,googleuninum-syl-twentyseven-1,googleuninum-syl,Ritchie2019,twentyseven,27,সাতাইশ,saataaish,,,7+([2′]⋅10′′),,
+29,googleuninum-syl-twentyeight-1,googleuninum-syl,Ritchie2019,twentyeight,28,আটাইশ,aattaaish,,,8+([2′]⋅10′′),,
+30,googleuninum-syl-twentynine-1,googleuninum-syl,Ritchie2019,twentynine,29,ঊনতিরিশ,uuntirish,,,[1]−{−}(3⋅10′′),,
 31,googleuninum-syl-thirty-1,googleuninum-syl,Ritchie2019,thirty,30,তিরিশ,tirish,,,3⋅10′′,,
 32,googleuninum-syl-thirtyone-1,googleuninum-syl,Ritchie2019,thirtyone,31,এখতিরিশ,ekhtirish,,,1+(3⋅10′′),,
 33,googleuninum-syl-thirtytwo-1,googleuninum-syl,Ritchie2019,thirtytwo,32,বততিরিশ,bttirish,,,2′+(3⋅10′′),,
@@ -38,7 +38,7 @@
 37,googleuninum-syl-thirtysix-1,googleuninum-syl,Ritchie2019,thirtysix,36,ছয়তিরিশ,chyytirish,,,6+(3⋅10′′),,
 38,googleuninum-syl-thirtyseven-1,googleuninum-syl,Ritchie2019,thirtyseven,37,সাঁয়তিরিশ,saanytirish,,,7+(3⋅10′′),,
 39,googleuninum-syl-thirtyeight-1,googleuninum-syl,Ritchie2019,thirtyeight,38,আটতিরিশ,aatttirish,,,8+(3⋅10′′),,
-40,googleuninum-syl-thirtynine-1,googleuninum-syl,Ritchie2019,thirtynine,39,ঊনচল্লিশ,uuncllish,,,[1]−{−}(4⋅10′′),Subtraction,
+40,googleuninum-syl-thirtynine-1,googleuninum-syl,Ritchie2019,thirtynine,39,ঊনচল্লিশ,uuncllish,,,[1]−{−}(4⋅10′′),,
 41,googleuninum-syl-forty-1,googleuninum-syl,Ritchie2019,forty,40,ছল্লিশ,chllish,,,4⋅10′′,,
 42,googleuninum-syl-fortyone-1,googleuninum-syl,Ritchie2019,fortyone,41,এখছল্লিশ,ekhchllish,,,1+(4⋅10′′),,
 43,googleuninum-syl-fortytwo-1,googleuninum-syl,Ritchie2019,fortytwo,42,বিয়াল্লিশ,biyyaallish,,,2′+(4⋅10′′),,
@@ -48,9 +48,9 @@
 47,googleuninum-syl-fortysix-1,googleuninum-syl,Ritchie2019,fortysix,46,ছয়ছাল্লিশ,chyychaallish,,,6+(4⋅10′′),,
 48,googleuninum-syl-fortyseven-1,googleuninum-syl,Ritchie2019,fortyseven,47,সাতছাল্লিশ,saatchaallish,,,7+(4⋅10′′),,
 49,googleuninum-syl-fortyeight-1,googleuninum-syl,Ritchie2019,fortyeight,48,আটছাল্লিশ,aattchaallish,,,8+(4⋅10′′),,
-50,googleuninum-syl-fortynine-1,googleuninum-syl,Ritchie2019,fortynine,49,ঊনফইঞ্চাশ,uunphinycaash,,,[1]−{−}50,"50 is historically 5⋅10, subtraction",[1]−{−}(5⋅10′′′)
-51,googleuninum-syl-fifty-1,googleuninum-syl,Ritchie2019,fifty,50,ফইঞ্চাশ,phinycaash,,,50,,5⋅10′′′
-52,googleuninum-syl-fiftyone-1,googleuninum-syl,Ritchie2019,fiftyone,51,এক্কান্ন,ekkaann,,,1+50′,Probably also 5⋅10 historically?,
+50,googleuninum-syl-fortynine-1,googleuninum-syl,Ritchie2019,fortynine,49,ঊনফইঞ্চাশ,uunphinycaash,,,[1]−{−}50,,[1]−{−}(5⋅10′′′)
+51,googleuninum-syl-fifty-1,googleuninum-syl,Ritchie2019,fifty,50,ফইঞ্চাশ,phinycaash,,,50,historically 5⋅10,5⋅10′′′
+52,googleuninum-syl-fiftyone-1,googleuninum-syl,Ritchie2019,fiftyone,51,এক্কান্ন,ekkaann,,,1+50′,50′ is presumably also historically 5⋅10,
 53,googleuninum-syl-fiftytwo-1,googleuninum-syl,Ritchie2019,fiftytwo,52,বায়ান্ন,baayyaann,,,2′+50′,,
 54,googleuninum-syl-fiftythree-1,googleuninum-syl,Ritchie2019,fiftythree,53,তেপ্পান্ন,teppaann,,,3+50′,,
 55,googleuninum-syl-fiftyfour-1,googleuninum-syl,Ritchie2019,fiftyfour,54,ছৌয়ান্ন,cheyyaann,,,4+50′,,
@@ -58,8 +58,8 @@
 57,googleuninum-syl-fiftysix-1,googleuninum-syl,Ritchie2019,fiftysix,56,ছাপ্পান্ন,chaappaann,,,6+50′,,
 58,googleuninum-syl-fiftyseven-1,googleuninum-syl,Ritchie2019,fiftyseven,57,সাতান্ন,saataann,,,7+50′,,
 59,googleuninum-syl-fiftyeight-1,googleuninum-syl,Ritchie2019,fiftyeight,58,আটান্ন,aattaann,,,8+50′,,
-60,googleuninum-syl-fiftynine-1,googleuninum-syl,Ritchie2019,fiftynine,59,ঊনষাইট,uunssaaitt,,,[1]−{−}60,"60 is historically 6⋅10, subtraction",[1]−{−}(6⋅10′′′′)
-61,googleuninum-syl-sixty-1,googleuninum-syl,Ritchie2019,sixty,60,ষাট,ssaatt,,,60,,6⋅10′′′′
+60,googleuninum-syl-fiftynine-1,googleuninum-syl,Ritchie2019,fiftynine,59,ঊনষাইট,uunssaaitt,,,[1]−{−}60,,[1]−{−}(6⋅10′′′′)
+61,googleuninum-syl-sixty-1,googleuninum-syl,Ritchie2019,sixty,60,ষাট,ssaatt,,,60,historically 6⋅10,6⋅10′′′′
 62,googleuninum-syl-sixtyone-1,googleuninum-syl,Ritchie2019,sixtyone,61,এখষট্টি,ekhsstttti,,,1+60,,1+(6⋅10′′′′)
 63,googleuninum-syl-sixtytwo-1,googleuninum-syl,Ritchie2019,sixtytwo,62,বাষট্টি,baasstttti,,,2′+60,,2′+(6⋅10′′′′)
 64,googleuninum-syl-sixtythree-1,googleuninum-syl,Ritchie2019,sixtythree,63,তেষট্টি,tesstttti,,,3+60,,3+(6⋅10′′′′)
@@ -68,8 +68,8 @@
 67,googleuninum-syl-sixtysix-1,googleuninum-syl,Ritchie2019,sixtysix,66,ছয়ষট্টি,chyysstttti,,,6+60,,6+(6⋅10′′′′)
 68,googleuninum-syl-sixtyseven-1,googleuninum-syl,Ritchie2019,sixtyseven,67,সাতষট্টি,saatsstttti,,,7+60,,7+(6⋅10′′′′)
 69,googleuninum-syl-sixtyeight-1,googleuninum-syl,Ritchie2019,sixtyeight,68,আটষট্টি,aattsstttti,,,8+60,,8+(6⋅10′′′′)
-70,googleuninum-syl-sixtynine-1,googleuninum-syl,Ritchie2019,sixtynine,69,ঊনসত্তইর,uunsttir,,,[1]−{−}70,"70 is historically 7⋅10, subtraction",[1]−{−}(7⋅10′′′′′)
-71,googleuninum-syl-seventy-1,googleuninum-syl,Ritchie2019,seventy,70,সত্তইর,sttir,,,70,,7⋅10′′′′′
+70,googleuninum-syl-sixtynine-1,googleuninum-syl,Ritchie2019,sixtynine,69,ঊনসত্তইর,uunsttir,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
+71,googleuninum-syl-seventy-1,googleuninum-syl,Ritchie2019,seventy,70,সত্তইর,sttir,,,70,historically 7⋅10,7⋅10′′′′′
 72,googleuninum-syl-seventyone-1,googleuninum-syl,Ritchie2019,seventyone,71,এখত্তইর,ekhttir,,,1+70,,1+(7⋅10′′′′′)
 73,googleuninum-syl-seventytwo-1,googleuninum-syl,Ritchie2019,seventytwo,72,বাওত্তইর,baaottir,,,2′+70,,2′+(7⋅10′′′′′)
 74,googleuninum-syl-seventythree-1,googleuninum-syl,Ritchie2019,seventythree,73,তেওত্তইর,teottir,,,3+70,,3+(7⋅10′′′′′)
@@ -78,8 +78,8 @@
 77,googleuninum-syl-seventysix-1,googleuninum-syl,Ritchie2019,seventysix,76,ছিওত্তইর,chiottir,,,6+70,,6+(7⋅10′′′′′)
 78,googleuninum-syl-seventyseven-1,googleuninum-syl,Ritchie2019,seventyseven,77,সাতত্তইর,saatttir,,,7+70,,7+(7⋅10′′′′′)
 79,googleuninum-syl-seventyeight-1,googleuninum-syl,Ritchie2019,seventyeight,78,আটত্তইর,aattttir,,,8+70,,8+(7⋅10′′′′′)
-80,googleuninum-syl-seventynine-1,googleuninum-syl,Ritchie2019,seventynine,79,উনোআশি,unoaashi,,,[1]−{−}80,"80 is historically 8⋅10, subtraction",[1]−{−}(8⋅10′′′′′′)
-81,googleuninum-syl-eighty-1,googleuninum-syl,Ritchie2019,eighty,80,আশি,aashi,,,80,,8⋅10′′′′′′
+80,googleuninum-syl-seventynine-1,googleuninum-syl,Ritchie2019,seventynine,79,উনোআশি,unoaashi,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
+81,googleuninum-syl-eighty-1,googleuninum-syl,Ritchie2019,eighty,80,আশি,aashi,,,80,historically 8⋅10,8⋅10′′′′′′
 82,googleuninum-syl-eightyone-1,googleuninum-syl,Ritchie2019,eightyone,81,এখাশি,ekhaashi,,,1+80,,1+(8⋅10′′′′′′)
 83,googleuninum-syl-eightytwo-1,googleuninum-syl,Ritchie2019,eightytwo,82,বিরাশি,biraashi,,,2′+80,,2′+(8⋅10′′′′′′)
 84,googleuninum-syl-eightythree-1,googleuninum-syl,Ritchie2019,eightythree,83,তিরাশি,tiraashi,,,3+80,,3+(8⋅10′′′′′′)
@@ -88,8 +88,8 @@
 87,googleuninum-syl-eightysix-1,googleuninum-syl,Ritchie2019,eightysix,86,ছিয়াশি,chiyaashi,,,6+80,,6+(8⋅10′′′′′′)
 88,googleuninum-syl-eightyseven-1,googleuninum-syl,Ritchie2019,eightyseven,87,সাতাশি,saataashi,,,7+80,,7+(8⋅10′′′′′′)
 89,googleuninum-syl-eightyeight-1,googleuninum-syl,Ritchie2019,eightyeight,88,অষ্টআশি,assttaashi,,,8+80,,8+(8⋅10′′′′′′)
-90,googleuninum-syl-eightynine-1,googleuninum-syl,Ritchie2019,eightynine,89,উননব্বই,unnbbi,,,[1]−{−}90,"90 is historically 9⋅10, subtraction",[1]−{−}(9⋅10′′′′′′′)
-91,googleuninum-syl-ninety-1,googleuninum-syl,Ritchie2019,ninety,90,নব্বই,nbbi,,,90,,9⋅10′′′′′′′
+90,googleuninum-syl-eightynine-1,googleuninum-syl,Ritchie2019,eightynine,89,উননব্বই,unnbbi,,,[1]−{−}90,,[1]−{−}(9⋅10′′′′′′′)
+91,googleuninum-syl-ninety-1,googleuninum-syl,Ritchie2019,ninety,90,নব্বই,nbbi,,,90,historically 9⋅10,9⋅10′′′′′′′
 92,googleuninum-syl-ninetyone-1,googleuninum-syl,Ritchie2019,ninetyone,91,একান্নব্বই,ekaannbbi,,,1+90,,1+(9⋅10′′′′′′′)
 93,googleuninum-syl-ninetytwo-1,googleuninum-syl,Ritchie2019,ninetytwo,92,বিরান্নব্বই,biraannbbi,,,2′+90,,2′+(9⋅10′′′′′′′)
 94,googleuninum-syl-ninetythree-1,googleuninum-syl,Ritchie2019,ninetythree,93,তিরান্নব্বই,tiraannbbi,,,3+90,,3+(9⋅10′′′′′′′)
@@ -100,12 +100,12 @@
 99,googleuninum-syl-ninetyeight-1,googleuninum-syl,Ritchie2019,ninetyeight,98,আটান্নব্বই,aattaannbbi,,,8+90,,8+(9⋅10′′′′′′′)
 100,googleuninum-syl-ninetynine-1,googleuninum-syl,Ritchie2019,ninetynine,99,নিরান্নব্বই,niraannbbi,,,9′+90,,9′+(9⋅10′′′′′′′)
 101,googleuninum-syl-hundred-1,googleuninum-syl,Ritchie2019,hundred,100,এখ শ,ekhsh,,,1[⋅]100,,
-102,googleuninum-syl-thousand-1,googleuninum-syl,Ritchie2019,thousand,1000,এখ আজার,ekhaajaar,,,1[⋅]1000,"আজার is a loan from Iranian (likely Persian), possibly via another language",
-103,googleuninum-syl-tenthousand-1,googleuninum-syl,Ritchie2019,tenthousand,10000,দশ আজার,dshaajaar,,,10[⋅]1000,"আজার is a loan from Iranian (likely Persian), possibly via another language",
+102,googleuninum-syl-thousand-1,googleuninum-syl,Ritchie2019,thousand,1000,এখ আজার,ekhaajaar,,,1[⋅]1000,<আজার> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+103,googleuninum-syl-tenthousand-1,googleuninum-syl,Ritchie2019,tenthousand,10000,দশ আজার,dshaajaar,,,10[⋅]1000,<আজার> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
 104,googleuninum-syl-onehundredthousand-1,googleuninum-syl,Ritchie2019,onehundredthousand,100000,এখ লাখ,ekhlaakh,,,1[⋅]100000,,
 105,googleuninum-syl-onemillion-1,googleuninum-syl,Ritchie2019,onemillion,1000000,দশ লাখ,dshlaakh,,,10[⋅]100000,,
 106,googleuninum-syl-tenmillion-1,googleuninum-syl,Ritchie2019,tenmillion,10000000,এখ কুটি,ekhkutti,,,1[⋅]10000000,,
 107,googleuninum-syl-onehundredmillion-1,googleuninum-syl,Ritchie2019,onehundredmillion,100000000,দশ কুটি,dshkutti,,,10[⋅]10000000,,
 108,googleuninum-syl-billion-1,googleuninum-syl,Ritchie2019,billion,1000000000,এখ শ কুটি,ekhshkutti,,,1[⋅]100[⋅]10000000,,
-109,googleuninum-syl-tenbillion-1,googleuninum-syl,Ritchie2019,tenbillion,10000000000,এখ আজার কুটি,ekhaajaarkutti,,,1[⋅]1000[⋅]10000000,"আজার is a loan from Iranian (likely Persian), possibly via another language",
-110,googleuninum-syl-onehundredbillion-1,googleuninum-syl,Ritchie2019,onehundredbillion,100000000000,দশ আজার কুটি,dshaajaarkutti,,,10[⋅]1000[⋅]10000000,"আজার is a loan from Iranian (likely Persian), possibly via another language",
+109,googleuninum-syl-tenbillion-1,googleuninum-syl,Ritchie2019,tenbillion,10000000000,এখ আজার কুটি,ekhaajaarkutti,,,1[⋅]1000[⋅]10000000,<আজার> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+110,googleuninum-syl-onehundredbillion-1,googleuninum-syl,Ritchie2019,onehundredbillion,100000000000,দশ আজার কুটি,dshaajaarkutti,,,10[⋅]1000[⋅]10000000,<আজার> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

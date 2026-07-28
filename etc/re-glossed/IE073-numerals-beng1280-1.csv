@@ -19,7 +19,7 @@
 18,numerals-beng1280-1-eighteen-1,numerals-beng1280-1,Chan2019,eighteen,18,ɑʈʰero,athero,,false,8+10′,,
 19,numerals-beng1280-1-eighteen-2,numerals-beng1280-1,Chan2019,eighteen,18,ɑʈʰɑro,atharo,,false,8+10′,,
 20,numerals-beng1280-1-nineteen-1,numerals-beng1280-1,Chan2019,nineteen,19,uniʃ,unis,( 20 - 1),false,[1]−{−}([2′]⋅10′′),,
-21,numerals-beng1280-1-twenty-1,numerals-beng1280-1,Chan2019,twenty,20,kuɽi,kuri,,false,20,,
+21,numerals-beng1280-1-twenty-1,numerals-beng1280-1,Chan2019,twenty,20,kuɽi,kuri,,false,20,probably ultimately borrowed from Munda (Austroasiatic),
 22,numerals-beng1280-1-twenty-2,numerals-beng1280-1,Chan2019,twenty,20,biʃ,bis,,false,2′⋅10′,,
 23,numerals-beng1280-1-twentyone-1,numerals-beng1280-1,Chan2019,twentyone,21,ekuʃ,ekus,,false,1+([2′]⋅10′′),,
 24,numerals-beng1280-1-twentytwo-1,numerals-beng1280-1,Chan2019,twentytwo,22,bɑiʃ,bais,,false,2′+([2′]⋅10′′),,
@@ -34,12 +34,12 @@
 33,numerals-beng1280-1-thirty-1,numerals-beng1280-1,Chan2019,thirty,30,triʃ,tris,,false,3⋅10′′,,
 34,numerals-beng1280-1-thirty-2,numerals-beng1280-1,Chan2019,thirty,30,tiriʃ,tiris,,false,3⋅10′′,,
 35,numerals-beng1280-1-forty-1,numerals-beng1280-1,Chan2019,forty,40,c͡ʃalliʃ,csallis,,false,4⋅10′′,,
-36,numerals-beng1280-1-fifty-1,numerals-beng1280-1,Chan2019,fifty,50,pɔnc͡ʃɑʃ,poncsas,,false,50,,5⋅10′′
-37,numerals-beng1280-1-sixty-1,numerals-beng1280-1,Chan2019,sixty,60,ʃɑʈ,sat,,false,60,,6⋅10′′′
-38,numerals-beng1280-1-seventy-1,numerals-beng1280-1,Chan2019,seventy,70,ʃottor,sottor,,false,70,,7⋅10′′′′
-39,numerals-beng1280-1-eighty-1,numerals-beng1280-1,Chan2019,eighty,80,ɑʃi,asi,,false,80,,8⋅10′′′′′
-40,numerals-beng1280-1-ninety-1,numerals-beng1280-1,Chan2019,ninety,90,nobboi,nobboi,,false,90,,9⋅10′′′′′′
+36,numerals-beng1280-1-fifty-1,numerals-beng1280-1,Chan2019,fifty,50,pɔnc͡ʃɑʃ,poncsas,,false,50,historically 5⋅10,5⋅10′′
+37,numerals-beng1280-1-sixty-1,numerals-beng1280-1,Chan2019,sixty,60,ʃɑʈ,sat,,false,60,historically 6⋅10,6⋅10′′′
+38,numerals-beng1280-1-seventy-1,numerals-beng1280-1,Chan2019,seventy,70,ʃottor,sottor,,false,70,historically 7⋅10,7⋅10′′′′
+39,numerals-beng1280-1-eighty-1,numerals-beng1280-1,Chan2019,eighty,80,ɑʃi,asi,,false,80,historically 8⋅10,8⋅10′′′′′
+40,numerals-beng1280-1-ninety-1,numerals-beng1280-1,Chan2019,ninety,90,nobboi,nobboi,,false,90,historically 9⋅10,9⋅10′′′′′′
 41,numerals-beng1280-1-hundred-1,numerals-beng1280-1,Chan2019,hundred,100,ækʃo,aekso,,false,1[⋅]100,,
 42,numerals-beng1280-1-twohundred-1,numerals-beng1280-1,Chan2019,twohundred,200,du ʃo,duso,,false,2[⋅]100,,
-43,numerals-beng1280-1-thousand-1,numerals-beng1280-1,Chan2019,thousand,1000,æk hɑɟɑr,aekhajar,,false,1[⋅]1000,,
-44,numerals-beng1280-1-twothousand-1,numerals-beng1280-1,Chan2019,twothousand,2000,du hɑɟɑr,duhajar,,false,2[⋅]1000,,
+43,numerals-beng1280-1-thousand-1,numerals-beng1280-1,Chan2019,thousand,1000,æk hɑɟɑr,aekhajar,,false,1[⋅]1000,<hɑɟɑr> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+44,numerals-beng1280-1-twothousand-1,numerals-beng1280-1,Chan2019,twothousand,2000,du hɑɟɑr,duhajar,,false,2[⋅]1000,<hɑɟɑr> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

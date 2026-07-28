@@ -19,7 +19,7 @@
 18,googleuninum-ori-seventeen-1,googleuninum-ori,Ritchie2019,seventeen,17,ସତର,str,,,7+10′,,
 19,googleuninum-ori-eighteen-1,googleuninum-ori,Ritchie2019,eighteen,18,ଅଠର,atthr,,,8+10′,,
 20,googleuninum-ori-nineteen-1,googleuninum-ori,Ritchie2019,nineteen,19,ଉଣେଇଶି,unneishi,,,[1]−{−}([2′′]⋅10′′),,
-21,googleuninum-ori-twenty-1,googleuninum-ori,Ritchie2019,twenty,20,କୋଡିଏ,koddie,,,20,,
+21,googleuninum-ori-twenty-1,googleuninum-ori,Ritchie2019,twenty,20,କୋଡିଏ,koddie,,,20,probably ultimately borrowed from Munda (Austroasiatic),
 22,googleuninum-ori-twentyone-1,googleuninum-ori,Ritchie2019,twentyone,21,ଏକୋଇଶି,ekoishi,,,1+([2′′]⋅10′′),,
 23,googleuninum-ori-twentytwo-1,googleuninum-ori,Ritchie2019,twentytwo,22,ବାଇଶି,baaishi,,,2′+([2′′]⋅10′′),,
 24,googleuninum-ori-twentythree-1,googleuninum-ori,Ritchie2019,twentythree,23,ତେଇଶି,teishi,,,3+([2′′]⋅10′′),,
@@ -49,8 +49,8 @@
 48,googleuninum-ori-fortyseven-1,googleuninum-ori,Ritchie2019,fortyseven,47,ସତଚାଳିଶି,stcaallishi,,,7+(4⋅10′′),,
 49,googleuninum-ori-fortyeight-1,googleuninum-ori,Ritchie2019,fortyeight,48,ଅଠଚାଳିଶି,atthcaallishi,,,8+(4⋅10′′),,
 50,googleuninum-ori-fortynine-1,googleuninum-ori,Ritchie2019,fortynine,49,ଅଣଚାଶ,anncaash,,,[1]−{−}(5⋅10′′),,[1]−{−}(5⋅10′′′)
-51,googleuninum-ori-fifty-1,googleuninum-ori,Ritchie2019,fifty,50,ପଚାଶ,pcaash,,,50,,5⋅10′′′
-52,googleuninum-ori-fiftyone-1,googleuninum-ori,Ritchie2019,fiftyone,51,ଏକାବନ,ekaabn,,,1+50′,,1+(5⋅10′′′)
+51,googleuninum-ori-fifty-1,googleuninum-ori,Ritchie2019,fifty,50,ପଚାଶ,pcaash,,,50,historically 5⋅10,5⋅10′′′
+52,googleuninum-ori-fiftyone-1,googleuninum-ori,Ritchie2019,fiftyone,51,ଏକାବନ,ekaabn,,,1+50′,50′ is presumably also historically 5⋅10,1+(5⋅10′′′)
 53,googleuninum-ori-fiftytwo-1,googleuninum-ori,Ritchie2019,fiftytwo,52,ବାବନ,baabn,,,2′+50′,,2′+(5⋅10′′′)
 54,googleuninum-ori-fiftythree-1,googleuninum-ori,Ritchie2019,fiftythree,53,ତେପନ,tepn,,,3+50′,,3+(5⋅10′′′)
 55,googleuninum-ori-fiftyfour-1,googleuninum-ori,Ritchie2019,fiftyfour,54,ଚଉବନ,cubn,,,4+50′,,4+(5⋅10′′′)
@@ -59,7 +59,7 @@
 58,googleuninum-ori-fiftyseven-1,googleuninum-ori,Ritchie2019,fiftyseven,57,ସତାବନ,staabn,,,7+50′,,7+(5⋅10′′′)
 59,googleuninum-ori-fiftyeight-1,googleuninum-ori,Ritchie2019,fiftyeight,58,ଅଠାବନ,atthaabn,,,8+50′,,8+(5⋅10′′′)
 60,googleuninum-ori-fiftynine-1,googleuninum-ori,Ritchie2019,fiftynine,59,ଅଣଷଠି,annsstthi,,,[1]−{−}60,,[1]−{−}(6′⋅10′′′′)
-61,googleuninum-ori-sixty-1,googleuninum-ori,Ritchie2019,sixty,60,ଷାଠିଏ,ssaatthie,,,60,,6′⋅10′′′′
+61,googleuninum-ori-sixty-1,googleuninum-ori,Ritchie2019,sixty,60,ଷାଠିଏ,ssaatthie,,,60,historically 6⋅10,6′⋅10′′′′
 62,googleuninum-ori-sixtyone-1,googleuninum-ori,Ritchie2019,sixtyone,61,ଏକଷଠି,eksstthi,,,1+60,,1+(6′⋅10′′′′)
 63,googleuninum-ori-sixtytwo-1,googleuninum-ori,Ritchie2019,sixtytwo,62,ବାଷଠି,baasstthi,,,2′+60,,2′+(6′⋅10′′′′)
 64,googleuninum-ori-sixtythree-1,googleuninum-ori,Ritchie2019,sixtythree,63,ତେଷଠି,tesstthi,,,3+60,,3+(6′⋅10′′′′)
@@ -69,7 +69,7 @@
 68,googleuninum-ori-sixtyseven-1,googleuninum-ori,Ritchie2019,sixtyseven,67,ସତଷଠି,stsstthi,,,7+60,,7+(6′⋅10′′′′)
 69,googleuninum-ori-sixtyeight-1,googleuninum-ori,Ritchie2019,sixtyeight,68,ଅଠଷଠି,atthsstthi,,,8+60,,8+(6′⋅10′′′′)
 70,googleuninum-ori-sixtynine-1,googleuninum-ori,Ritchie2019,sixtynine,69,ଅଣସ୍ତୋରି,annstori,,,[1]−{−}70,,[1]−{−}(7⋅10′′′′′)
-71,googleuninum-ori-seventy-1,googleuninum-ori,Ritchie2019,seventy,70,ସତୁରି,sturi,,,70,,7⋅10′′′′′
+71,googleuninum-ori-seventy-1,googleuninum-ori,Ritchie2019,seventy,70,ସତୁରି,sturi,,,70,historically 7⋅10,7⋅10′′′′′
 72,googleuninum-ori-seventyone-1,googleuninum-ori,Ritchie2019,seventyone,71,ଏକସ୍ତୋରି,ekstori,,,1+70,,1+(7⋅10′′′′′)
 73,googleuninum-ori-seventytwo-1,googleuninum-ori,Ritchie2019,seventytwo,72,ବାସ୍ତରୀ,baastrii,,,2′+70,,2′+(7⋅10′′′′′)
 74,googleuninum-ori-seventythree-1,googleuninum-ori,Ritchie2019,seventythree,73,ତେସ୍ତରି,testri,,,3+70,,3+(7⋅10′′′′′)
@@ -79,7 +79,7 @@
 78,googleuninum-ori-seventyseven-1,googleuninum-ori,Ritchie2019,seventyseven,77,ସତସ୍ତୋରି,ststori,,,7+70,,7+(7⋅10′′′′′)
 79,googleuninum-ori-seventyeight-1,googleuninum-ori,Ritchie2019,seventyeight,78,ଅଠସ୍ତରି,atthstri,,,8+70,,8+(7⋅10′′′′′)
 80,googleuninum-ori-seventynine-1,googleuninum-ori,Ritchie2019,seventynine,79,ଅଣାଅଶୀ,annaaashii,,,[1]−{−}80,,[1]−{−}(8⋅10′′′′′′)
-81,googleuninum-ori-eighty-1,googleuninum-ori,Ritchie2019,eighty,80,ଅଶି,ashi,,,80,,8⋅10′′′′′′
+81,googleuninum-ori-eighty-1,googleuninum-ori,Ritchie2019,eighty,80,ଅଶି,ashi,,,80,historically 8⋅10,8⋅10′′′′′′
 82,googleuninum-ori-eightyone-1,googleuninum-ori,Ritchie2019,eightyone,81,ଏକାଅଶି,ekaaashi,,,1+80,,1+(8⋅10′′′′′′)
 83,googleuninum-ori-eightytwo-1,googleuninum-ori,Ritchie2019,eightytwo,82,ବୟାଅଶି,byyaaashi,,,2′+80,,2′+(8⋅10′′′′′′)
 84,googleuninum-ori-eightythree-1,googleuninum-ori,Ritchie2019,eightythree,83,ତେୟାଅଶି,teyyaaashi,,,3+80,,3+(8⋅10′′′′′′)
@@ -89,7 +89,7 @@
 88,googleuninum-ori-eightyseven-1,googleuninum-ori,Ritchie2019,eightyseven,87,ସତାଅଶି,staaashi,,,7+80,,7+(8⋅10′′′′′′)
 89,googleuninum-ori-eightyeight-1,googleuninum-ori,Ritchie2019,eightyeight,88,ଅଠାଅଶି,atthaaashi,,,8+80,,8+(8⋅10′′′′′′)
 90,googleuninum-ori-eightynine-1,googleuninum-ori,Ritchie2019,eightynine,89,ଅଣାନବେ,annaanbe,,,[1]−{−}90,,[1]−{−}(9⋅10′′′′′′′)
-91,googleuninum-ori-ninety-1,googleuninum-ori,Ritchie2019,ninety,90,ନବେ,nbe,,,90,,9⋅10′′′′′′′
+91,googleuninum-ori-ninety-1,googleuninum-ori,Ritchie2019,ninety,90,ନବେ,nbe,,,90,historically 9⋅10,9⋅10′′′′′′′
 92,googleuninum-ori-ninetyone-1,googleuninum-ori,Ritchie2019,ninetyone,91,ଏକାନବେ,ekaanbe,,,1+90,,1+(9⋅10′′′′′′′)
 93,googleuninum-ori-ninetytwo-1,googleuninum-ori,Ritchie2019,ninetytwo,92,ବୟାନବେ,byyaanbe,,,2′+90,,2′+(9⋅10′′′′′′′)
 94,googleuninum-ori-ninetythree-1,googleuninum-ori,Ritchie2019,ninetythree,93,ତେୟାନବେ,teyyaanbe,,,3+90,,3+(9⋅10′′′′′′′)
@@ -100,8 +100,8 @@
 99,googleuninum-ori-ninetyeight-1,googleuninum-ori,Ritchie2019,ninetyeight,98,ଅଠାନବେ,atthaanbe,,,8+90,,8+(9⋅10′′′′′′′)
 100,googleuninum-ori-ninetynine-1,googleuninum-ori,Ritchie2019,ninetynine,99,ଅନେଶତ,anesht,,,1′−100,,
 101,googleuninum-ori-hundred-1,googleuninum-ori,Ritchie2019,hundred,100,ଶହ,shh,,,100,,
-102,googleuninum-ori-thousand-1,googleuninum-ori,Ritchie2019,thousand,1000,ହଜାର,hjaar,,,1000,,
-103,googleuninum-ori-tenthousand-1,googleuninum-ori,Ritchie2019,tenthousand,10000,ଦଶ ହଜାର,dshhjaar,,,10[⋅]1000,,
+102,googleuninum-ori-thousand-1,googleuninum-ori,Ritchie2019,thousand,1000,ହଜାର,hjaar,,,1000,ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+103,googleuninum-ori-tenthousand-1,googleuninum-ori,Ritchie2019,tenthousand,10000,ଦଶ ହଜାର,dshhjaar,,,10[⋅]1000,<ହଜାର> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
 104,googleuninum-ori-onehundredthousand-1,googleuninum-ori,Ritchie2019,onehundredthousand,100000,ଲକ୍ଷ,lkss,,,100000,,
 105,googleuninum-ori-onemillion-1,googleuninum-ori,Ritchie2019,onemillion,1000000,ଦଶ ଲକ୍ଷ,dshlkss,,,10[⋅]100000,,
 106,googleuninum-ori-tenmillion-1,googleuninum-ori,Ritchie2019,tenmillion,10000000,କୋଟି,kotti,,,10000000,,
