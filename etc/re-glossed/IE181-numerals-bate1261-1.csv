@@ -17,8 +17,8 @@
 16,numerals-bate1261-1-sixteen-1,numerals-bate1261-1,Chan2019,sixteen,16,ʂoeʃ,soes,,false,6+10′,,
 17,numerals-bate1261-1-seventeen-1,numerals-bate1261-1,Chan2019,seventeen,17,sataʃ,satas,,false,7+10′,,
 18,numerals-bate1261-1-eighteen-1,numerals-bate1261-1,Chan2019,eighteen,18,atʰaʃ,athas,,false,8+10′,,
-19,numerals-bate1261-1-nineteen-1,numerals-bate1261-1,Chan2019,nineteen,19,ũbiʃ,ubis,( 20 -1 ),false,19,Historically subtractive,[1]−{−}20
-20,numerals-bate1261-1-twenty-1,numerals-bate1261-1,Chan2019,twenty,20,biʃ,bis,,false,20,Historically 2⋅10,
+19,numerals-bate1261-1-nineteen-1,numerals-bate1261-1,Chan2019,nineteen,19,ũbiʃ,ubis,( 20 -1 ),false,[1]−{−}20,historically subtractive,19
+20,numerals-bate1261-1-twenty-1,numerals-bate1261-1,Chan2019,twenty,20,biʃ,bis,,false,20,historically 2⋅10,
 21,numerals-bate1261-1-twentyone-1,numerals-bate1261-1,Chan2019,twentyone,21,jakubiʃ,jakubis,,false,1+20,,
 22,numerals-bate1261-1-twentytwo-1,numerals-bate1261-1,Chan2019,twentytwo,22,dujubiʃ,dujubis,,false,2+20,,
 23,numerals-bate1261-1-twentythree-1,numerals-bate1261-1,Chan2019,twentythree,23,ʈ͡ʂajubiʃ,tsajubis,,false,3+20,,
@@ -38,5 +38,5 @@
 37,numerals-bate1261-1-hundred-1,numerals-bate1261-1,Chan2019,hundred,100,pɑ̃ːzbiʃ,pazbis,( 5 x 20),false,5[⋅]20,,
 38,numerals-bate1261-1-hundred-2,numerals-bate1261-1,Chan2019,hundred,100,ʃal,sal,,false,100,,
 39,numerals-bate1261-1-twohundred-1,numerals-bate1261-1,Chan2019,twohundred,200,duʃal,dusal,,false,2[⋅]100,,
-40,numerals-bate1261-1-thousand-1,numerals-bate1261-1,Chan2019,thousand,1000,zir,zir,,false,1000,"an Iranian loan, probably from Persian (Indo-European)",
-41,numerals-bate1261-1-twothousand-1,numerals-bate1261-1,Chan2019,twothousand,2000,duzir,duzir,,false,2[⋅]1000,"zir is an Iranian loan, probably from Persian (Indo-European)",
+40,numerals-bate1261-1-thousand-1,numerals-bate1261-1,Chan2019,thousand,1000,zir,zir,,false,1000,ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+41,numerals-bate1261-1-twothousand-1,numerals-bate1261-1,Chan2019,twothousand,2000,duzir,duzir,,false,2[⋅]1000,<zir> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),

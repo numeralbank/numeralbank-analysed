@@ -36,7 +36,7 @@
 35,numerals-usho1238-1-eighteen-1,numerals-usho1238-1,Chan2019,eighteen,18,ɑʈde,atde,,false,8+10,,
 36,numerals-usho1238-1-eighteen-2,numerals-usho1238-1,Chan2019,eighteen,18,ʌˈtaʃ,tas,,false,8+10′,form provided by SIL linguist Ms. Sandra Decker in 1992,
 37,numerals-usho1238-1-nineteen-1,numerals-usho1238-1,Chan2019,nineteen,19,nəode,naode,,false,9+10,,
-38,numerals-usho1238-1-nineteen-2,numerals-usho1238-1,Chan2019,nineteen,19,ʌnˈbiʃ,nbis,,false,[1]−{−}20,form provided by SIL linguist Ms. Sandra Decker in 1992,
+38,numerals-usho1238-1-nineteen-2,numerals-usho1238-1,Chan2019,nineteen,19,ʌnˈbiʃ,nbis,,false,19,historically subtractive; form provided by SIL linguist Ms. Sandra Decker in 1992,[1]−{−}20
 39,numerals-usho1238-1-twenty-1,numerals-usho1238-1,Chan2019,twenty,20,bɪey,biey,,false,20,,
 40,numerals-usho1238-1-twenty-2,numerals-usho1238-1,Chan2019,twenty,20,bi,bi,,false,20,historically 2⋅10; form provided by SIL linguist Ms. Sandra Decker in 1992,
 41,numerals-usho1238-1-twentyone-1,numerals-usho1238-1,Chan2019,twentyone,21,ɪkbɪey,ikbiey,,false,1+20,,
@@ -61,6 +61,6 @@
 60,numerals-usho1238-1-ninety-1,numerals-usho1238-1,Chan2019,ninety,90,degat͡ʃʌrbi,degatsrbi,[10 + (4 x 20)],false,10+{+}(4[⋅]20),form provided by SIL linguist Ms. Sandra Decker in 1992,
 61,numerals-usho1238-1-hundred-1,numerals-usho1238-1,Chan2019,hundred,100,sao,sao,,false,100,reportedly borrowed (presumably from another Indo-Iranian Indo-European language),
 62,numerals-usho1238-1-hundred-2,numerals-usho1238-1,Chan2019,hundred,100,pod͡ʒbi,podzbi,,false,5[⋅]20,form provided by SIL linguist Ms. Sandra Decker in 1992,
-63,numerals-usho1238-1-twohundred-1,numerals-usho1238-1,Chan2019,twohundred,200,dusao,dusao,,false,2[⋅]100,<sao> ‘hundred’ reportedly borrowed (presumably from another Indo-Iranian Indo-European language),
-64,numerals-usho1238-1-thousand-1,numerals-usho1238-1,Chan2019,thousand,1000,zʌr,zr,,false,1000,reportedly borrowed (presumably from another Indo-Iranian language),
-65,numerals-usho1238-1-twothousand-1,numerals-usho1238-1,Chan2019,twothousand,2000,duzʌr,duzr,,false,2[⋅]1000,<zʌr> ‘thousand’ reportedly borrowed (presumably from another Indo-Iranian Indo-European language),
+63,numerals-usho1238-1-twohundred-1,numerals-usho1238-1,Chan2019,twohundred,200,dusao,dusao,,false,2[⋅]100,"<sao> ‘hundred’ reportedly borrowed, presumably from another Indo-Iranian (Indo-European) language",
+64,numerals-usho1238-1-thousand-1,numerals-usho1238-1,Chan2019,thousand,1000,zʌr,zr,,false,1000,"reportedly borrowed, presumably ultimately from the Iranian branch of Indo-Iranian (Indo-European)",
+65,numerals-usho1238-1-twothousand-1,numerals-usho1238-1,Chan2019,twothousand,2000,duzʌr,duzr,,false,2[⋅]1000,"<zʌr> ‘thousand’ reportedly borrowed, presumably ultimately from the Iranian branch of Indo-Iranian (Indo-European)",
