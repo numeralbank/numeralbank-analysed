@@ -11,14 +11,14 @@
 10,numerals-bodo1266-1-ten-1,numerals-bodo1266-1,Chan2019,ten,10,d̪ɔsʈa,dosta,,false,10,,
 11,numerals-bodo1266-1-eleven-1,numerals-bodo1266-1,Chan2019,eleven,11,d̪ɔsʈam paraguʈa,dostamparaguta,(10 + 1),false,10+{+}1,,
 12,numerals-bodo1266-1-twelve-1,numerals-bodo1266-1,Chan2019,twelve,12,t̪inpuŋɟɑ,tinpungja,,false,3⋅4′,,12
-13,numerals-bodo1266-1-thirteen-1,numerals-bodo1266-1,Chan2019,thirteen,13,t̪inpuŋɟɑ paraguʈa,tinpungjaparaguta,(12 + 1)  ?,false,(3⋅4′)+{+}1,<puŋɟɑ> 4′ < ‘heap’ (?),12+{+}1
+13,numerals-bodo1266-1-thirteen-1,numerals-bodo1266-1,Chan2019,thirteen,13,t̪inpuŋɟɑ paraguʈa,tinpungjaparaguta,(12 + 1)  ?,false,(3⋅4′)+{+}1,<puŋɟɑ> 4′ derived from ‘heap’ (?),12+{+}1
 14,numerals-bodo1266-1-fourteen-1,numerals-bodo1266-1,Chan2019,fourteen,14,t̪inpuŋɟɑ parad̪iʈa,tinpungjaparadita,(12 + 2) ?,false,(3⋅4′)+{+}2,,12+{+}2
 15,numerals-bodo1266-1-fifteen-1,numerals-bodo1266-1,Chan2019,fifteen,15,t̪inpuŋɟɑ parat̪inʈa,tinpungjaparatinta,(12 + 3) ?,false,(3⋅4′)+{+}3,,12+{+}3
-16,numerals-bodo1266-1-sixteen-1,numerals-bodo1266-1,Chan2019,sixteen,16,carapunɟa,carapunja,,false,4⋅4′,<puŋɟɑ> 4′ < ‘heap’ (?),16
+16,numerals-bodo1266-1-sixteen-1,numerals-bodo1266-1,Chan2019,sixteen,16,carapunɟa,carapunja,,false,4⋅4′,<puŋɟɑ> 4′ derived from ‘heap’ (?),16
 17,numerals-bodo1266-1-seventeen-1,numerals-bodo1266-1,Chan2019,seventeen,17,carapunɟa para guʈe,carapunjaparagute,(16 + 1) ?,false,(4⋅4′)+{+}1,,16+{+}1
 18,numerals-bodo1266-1-eighteen-1,numerals-bodo1266-1,Chan2019,eighteen,18,carapunɟa parat̪inʈa,carapunjaparatinta,(16 + 2) ?,false,(4⋅4′)+{+}2,,16+{+}2
 19,numerals-bodo1266-1-nineteen-1,numerals-bodo1266-1,Chan2019,nineteen,19,carapunɟa parat̪inʈa,carapunjaparatinta,(16 + 3) ?,false,(4⋅4′)+{+}3,,16+{+}3
-20,numerals-bodo1266-1-twenty-1,numerals-bodo1266-1,Chan2019,twenty,20,kuddi,kuddi,,false,20,,
+20,numerals-bodo1266-1-twenty-1,numerals-bodo1266-1,Chan2019,twenty,20,kuddi,kuddi,,false,20,probably ultimately borrowed from Munda (Austroasiatic),
 21,numerals-bodo1266-1-twentyone-1,numerals-bodo1266-1,Chan2019,twentyone,21,kuddiampara guʈe,kuddiamparagute,,false,20+{+}1,,
 22,numerals-bodo1266-1-twentytwo-1,numerals-bodo1266-1,Chan2019,twentytwo,22,kuddiampara d̪iʈa,kuddiamparadita,,false,20+{+}2,,
 23,numerals-bodo1266-1-twentythree-1,numerals-bodo1266-1,Chan2019,twentythree,23,kuddiampara t̟inʈa,kuddiamparatinta,,false,20+{+}3,,
@@ -39,5 +39,5 @@
 38,numerals-bodo1266-1-twohundred-1,numerals-bodo1266-1,Chan2019,twohundred,200,d̪iʈa soii,ditasoii,,false,2[⋅]100,,
 39,numerals-bodo1266-1-fourhundred-1,numerals-bodo1266-1,Chan2019,fourhundred,400,sarːa soii,sarasoii,,false,4[⋅]100,,
 40,numerals-bodo1266-1-eighthundred-1,numerals-bodo1266-1,Chan2019,eighthundred,800,aʈa soii,atasoii,,false,8[⋅]100,,
-41,numerals-bodo1266-1-thousand-1,numerals-bodo1266-1,Chan2019,thousand,1000,kaʈe,kate,,false,1000,,
-42,numerals-bodo1266-1-twothousand-1,numerals-bodo1266-1,Chan2019,twothousand,2000,d̪ita kaʈe,ditakate,,false,2[⋅]1000,,
+41,numerals-bodo1266-1-thousand-1,numerals-bodo1266-1,Chan2019,thousand,1000,kaʈe,kate,,false,1000,This form looks like the areal term for ‘twenty’ (probably ultimately from Munda); was there reanalysis? Or could this be an error?,
+42,numerals-bodo1266-1-twothousand-1,numerals-bodo1266-1,Chan2019,twothousand,2000,d̪ita kaʈe,ditakate,,false,2[⋅]1000,<kaʈe> ‘thousand’ looks like the areal term for ‘twenty’ (probably ultimately from Munda); was there reanalysis? Or could this be an error?,

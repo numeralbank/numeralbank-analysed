@@ -12,7 +12,7 @@
 11,numerals-dung1251-1-eleven-1,numerals-dung1251-1,Chan2019,eleven,11,iɡjare,igjare,,false,11,,1′+10′
 12,numerals-dung1251-1-twelve-1,numerals-dung1251-1,Chan2019,twelve,12,bare,bare,,false,12,,2+10′
 13,numerals-dung1251-1-thirteen-1,numerals-dung1251-1,Chan2019,thirteen,13,t̪ere,tere,,false,13,,3+10′
-14,numerals-dung1251-1-fourteen-1,numerals-dung1251-1,Chan2019,fourteen,14,sovud̪e,sovude,,false,14,The beginning of the form looks closer to 6 than to 4.,4′+10′
+14,numerals-dung1251-1-fourteen-1,numerals-dung1251-1,Chan2019,fourteen,14,sovud̪e,sovude,,false,14,The beginning of the form looks more similar to 6 than to 4.,4′+10′
 15,numerals-dung1251-1-fifteen-1,numerals-dung1251-1,Chan2019,fifteen,15,ponore,ponore,,false,15,,5′+10′
 16,numerals-dung1251-1-sixteen-1,numerals-dung1251-1,Chan2019,sixteen,16,hole,hole,,false,16,,6′+10′
 17,numerals-dung1251-1-seventeen-1,numerals-dung1251-1,Chan2019,seventeen,17,sit̪ore,sitore,,false,17,,7′+10′
@@ -29,13 +29,13 @@
 28,numerals-dung1251-1-twentyeight-1,numerals-dung1251-1,Chan2019,twentyeight,28,vihin aʈ,vihinat,,false,20+8,,
 29,numerals-dung1251-1-twentynine-1,numerals-dung1251-1,Chan2019,twentynine,29,vihin nov,vihinnov,,false,20+9,,
 30,numerals-dung1251-1-thirty-1,numerals-dung1251-1,Chan2019,thirty,30,vihin d̪oh,vihindoh,( 20 + 10 ),false,20+10,,
-31,numerals-dung1251-1-forty-1,numerals-dung1251-1,Chan2019,forty,40,salihi,salihi,,false,40,,4⋅10′′
-32,numerals-dung1251-1-fifty-1,numerals-dung1251-1,Chan2019,fifty,50,posah,posah,,false,50,,5⋅10′′′
+31,numerals-dung1251-1-forty-1,numerals-dung1251-1,Chan2019,forty,40,salihi,salihi,,false,40,historically 4⋅10,4⋅10′′
+32,numerals-dung1251-1-fifty-1,numerals-dung1251-1,Chan2019,fifty,50,posah,posah,,false,50,historically 5⋅10,5⋅10′′′
 33,numerals-dung1251-1-sixty-1,numerals-dung1251-1,Chan2019,sixty,60,t̪in vihi,tinvihi,( 3 x 20  ),false,3[⋅]20,,
 34,numerals-dung1251-1-seventy-1,numerals-dung1251-1,Chan2019,seventy,70,t̪in vihan d̪oh,tinvihandoh,( 3 x 20 + 10 ),false,(3[⋅]20)+10,,
 35,numerals-dung1251-1-eighty-1,numerals-dung1251-1,Chan2019,eighty,80,sijar vihi,sijarvihi,(4 x 20),false,4[⋅]20,,
 36,numerals-dung1251-1-ninety-1,numerals-dung1251-1,Chan2019,ninety,90,sijar vihan d̪oh,sijarvihandoh,( 4 x 20 + 10 ),false,(4[⋅]20)+10,,
 37,numerals-dung1251-1-hundred-1,numerals-dung1251-1,Chan2019,hundred,100,hov,hov,,false,100,,
 38,numerals-dung1251-1-twohundred-1,numerals-dung1251-1,Chan2019,twohundred,200,ben hov,benhov,,false,2[⋅]100,,
-39,numerals-dung1251-1-thousand-1,numerals-dung1251-1,Chan2019,thousand,1000,ek ojaɾ,ekojar,,false,1[⋅]1000,,
-40,numerals-dung1251-1-twothousand-1,numerals-dung1251-1,Chan2019,twothousand,2000,ben ojaɾ,benojar,,false,2[⋅]1000,,
+39,numerals-dung1251-1-thousand-1,numerals-dung1251-1,Chan2019,thousand,1000,ek ojaɾ,ekojar,,false,1[⋅]1000,<ojaɾ> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
+40,numerals-dung1251-1-twothousand-1,numerals-dung1251-1,Chan2019,twothousand,2000,ben ojaɾ,benojar,,false,2[⋅]1000,<ojaɾ> ‘thousand’ ultimately borrowed from Iranian branch of Indo-Iranian (Indo-European),
