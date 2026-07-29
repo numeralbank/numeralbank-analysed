@@ -1,7 +1,7 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
 1,numerals-ling1262-1-one-1,numerals-ling1262-1,Chan2019,one,1,hə3,ha3,,false,1,,
 2,numerals-ling1262-1-two-1,numerals-ling1262-1,Chan2019,two,2,vɔn3,von3,,false,2,,
-3,numerals-ling1262-1-three-1,numerals-ling1262-1,Chan2019,three,3,taːm1,tam1,< Chinese Hainan Minnan,true,3,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan, Sino-Tibetan) or code-switching",
+3,numerals-ling1262-1-three-1,numerals-ling1262-1,Chan2019,three,3,taːm1,tam1,< Chinese Hainan Minnan,true,3,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan); alternatively, these forms may represent code-switching",
 4,numerals-ling1262-1-four-1,numerals-ling1262-1,Chan2019,four,4,ti3,ti3,,false,4,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 5,numerals-ling1262-1-four-2,numerals-ling1262-1,Chan2019,four,4,tə3,ta3,,false,4,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 6,numerals-ling1262-1-five-1,numerals-ling1262-1,Chan2019,five,5,ŋo3,ngo3,,false,5,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
@@ -42,7 +42,7 @@
 41,numerals-ling1262-1-seventy-1,numerals-ling1262-1,Chan2019,seventy,70,sit7 təp8,sit7tap8,,false,7[⋅]10,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 42,numerals-ling1262-1-eighty-1,numerals-ling1262-1,Chan2019,eighty,80,bat7 təp8,bat7tap8,,false,8[⋅]10,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 43,numerals-ling1262-1-ninety-1,numerals-ling1262-1,Chan2019,ninety,90,ku8 təp8,ku8tap8,,false,9[⋅]10,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
-44,numerals-ling1262-1-hundred-1,numerals-ling1262-1,Chan2019,hundred,100,pek7hə3,pek7ha3,,false,100[⋅]1,"pek7 is borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
+44,numerals-ling1262-1-hundred-1,numerals-ling1262-1,Chan2019,hundred,100,pek7hə3,pek7ha3,,false,100[⋅]1,"<pek7> ‘hundred’ borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 45,numerals-ling1262-1-hundred-2,numerals-ling1262-1,Chan2019,hundred,100,ʔit7 pek7,it7pek7,,false,1′[⋅]100,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 46,numerals-ling1262-1-twohundred-1,numerals-ling1262-1,Chan2019,twohundred,200,ŋi4pek7,ngi4pek7,,false,2′[⋅]100,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
 47,numerals-ling1262-1-thousand-1,numerals-ling1262-1,Chan2019,thousand,1000,ʔit7 sen1,it7sen1,,false,1′[⋅]1000,"borrowed from Hainan Min Nan (Sinitic, Sino-Tibetan)",
