@@ -63,9 +63,9 @@
 62,numerals-kumz1235-1-forty-2,numerals-kumz1235-1,Chan2019,forty,40,ˈt͡ʃɪlta,tsilta,,false,40{count.suffix},,4⋅10′′′{count.suffix}
 63,numerals-kumz1235-1-fifty-1,numerals-kumz1235-1,Chan2019,fifty,50,mʊr,mur,,false,50,historically 5⋅10,5⋅10′′′′
 64,numerals-kumz1235-1-fifty-2,numerals-kumz1235-1,Chan2019,fifty,50,ˈpɐnd͡ʒata,pandzata,,false,50′{count.suffix},,5⋅10′′′′{count.suffix}
-65,numerals-kumz1235-1-fiftyone-1,numerals-kumz1235-1,Chan2019,fifty,51,pɐnd͡ʒa ʊ ˈjɪkta,pandzaujikta,,false,50′+{and}1{count.suffix},,
-66,numerals-kumz1235-1-sixty-1,numerals-kumz1235-1,Chan2019,sixtyone,60,ˈʃasˠtˠa,sasgtga,,false,60{count.suffix},,
-67,numerals-kumz1235-1-sixtyone-1,numerals-kumz1235-1,Chan2019,sixtyone,61,ʃas ʊ ˈjɪkt,sasujikt,,false,60+{and}1{count.suffix},,
+65,numerals-kumz1235-1-fiftyone-1,numerals-kumz1235-1,Chan2019,fifty,51,pɐnd͡ʒa ʊ ˈjɪkta,pandzaujikta,,false,50′+{and}1{count.suffix},,(5⋅10′′′′)+{and}1{count.suffix}
+66,numerals-kumz1235-1-sixty-1,numerals-kumz1235-1,Chan2019,sixtyone,60,ˈʃasˠtˠa,sasgtga,,false,60{count.suffix},,6⋅10′′′′′{count.suffix}
+67,numerals-kumz1235-1-sixtyone-1,numerals-kumz1235-1,Chan2019,sixtyone,61,ʃas ʊ ˈjɪkt,sasujikt,,false,60+{and}1{count.suffix},,(6⋅10′′′′′)+{and}1{count.suffix}
 68,numerals-kumz1235-1-seventy-1,numerals-kumz1235-1,Chan2019,seventy,70,ˈʔaftata,aftata,,false,7⋅10′{count.suffix},,70{count.suffix}
 69,numerals-kumz1235-1-seventyone-1,numerals-kumz1235-1,Chan2019,seventyone,71,ʔaftad ʊ ˈjɪkta,aftadujikta,,false,(7⋅10′)+{and}1{count.suffix},,70+{and}1{count.suffix}
 70,numerals-kumz1235-1-eighty-1,numerals-kumz1235-1,Chan2019,eighty,80,ˈʔaʃtata,astata,,false,8⋅10′{count.suffix},,80{count.suffix}

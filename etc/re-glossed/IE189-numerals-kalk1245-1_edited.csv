@@ -24,8 +24,8 @@
 23,numerals-kalk1245-1-ten-2,numerals-kalk1245-1,Chan2019,ten,10,deeɕ,deec,,false,10,tentative phonemic transcription,
 24,numerals-kalk1245-1-eleven-1,numerals-kalk1245-1,Chan2019,eleven,11,æ'kaːɕ,aekac,,false,1+10′,phonetic transcription; 10′ and 10 are identical historically,
 25,numerals-kalk1245-1-eleven-2,numerals-kalk1245-1,Chan2019,eleven,11,ekaaɕ,ekaac,,false,1+10′,tentative phonemic transcription,
-26,numerals-kalk1245-1-twelve-1,numerals-kalk1245-1,Chan2019,twelve,12,baːɕ,bac,,false,12,phonetic transcription,2′+10′
-27,numerals-kalk1245-1-twelve-2,numerals-kalk1245-1,Chan2019,twelve,12,baaɕ,baac,,false,12,tentative phonemic transcription,2′+10′
+26,numerals-kalk1245-1-twelve-1,numerals-kalk1245-1,Chan2019,twelve,12,baːɕ,bac,,false,2′+10′,phonetic transcription,12
+27,numerals-kalk1245-1-twelve-2,numerals-kalk1245-1,Chan2019,twelve,12,baaɕ,baac,,false,2′+10′,tentative phonemic transcription,12
 28,numerals-kalk1245-1-thirteen-1,numerals-kalk1245-1,Chan2019,thirteen,13,t̪ɾeːɕ,trec,,false,3+10′,phonetic transcription,
 29,numerals-kalk1245-1-thirteen-2,numerals-kalk1245-1,Chan2019,thirteen,13,treeɕ,treec,,false,3+10′,tentative phonemic transcription,
 30,numerals-kalk1245-1-fourteen-1,numerals-kalk1245-1,Chan2019,fourteen,14,tɕɛn̪'deːɕ,tcendec,,false,4+10,phonetic transcription,
@@ -40,8 +40,8 @@
 39,numerals-kalk1245-1-eighteen-2,numerals-kalk1245-1,Chan2019,eighteen,18,eʂʈaaɕ,estaac,,false,8+10′,tentative phonemic transcription,
 40,numerals-kalk1245-1-nineteen-1,numerals-kalk1245-1,Chan2019,nineteen,19,ˈaɳbiːɕ,anbic,,false,[1]−{−}20,phonetic transcription,19
 41,numerals-kalk1245-1-nineteen-2,numerals-kalk1245-1,Chan2019,nineteen,19,aɳbiiɕ,anbiic,,false,[1]−{−}20,tentative phonemic transcription,19
-42,numerals-kalk1245-1-twenty-1,numerals-kalk1245-1,Chan2019,twenty,20,biːɕ,bic,,false,20,phonetic transcription,2′⋅10
-43,numerals-kalk1245-1-twenty-2,numerals-kalk1245-1,Chan2019,twenty,20,biiɕ,biic,,false,20,tentative phonemic transcription,2′⋅10
+42,numerals-kalk1245-1-twenty-1,numerals-kalk1245-1,Chan2019,twenty,20,biːɕ,bic,,false,20,phonetic transcription; historically 2⋅10,2′⋅10
+43,numerals-kalk1245-1-twenty-2,numerals-kalk1245-1,Chan2019,twenty,20,biiɕ,biic,,false,20,tentative phonemic transcription; historically 2⋅10,2′⋅10
 44,numerals-kalk1245-1-twentyone-1,numerals-kalk1245-1,Chan2019,twentyone,21,'ækt̪eː biːɕ,aektebic,,false,1+{+}20,phonetic transcription,1+{+}(2′⋅10)
 45,numerals-kalk1245-1-twentyone-2,numerals-kalk1245-1,Chan2019,twentyone,21,ektee biiɕ,ekteebiic,,false,1+{+}20,tentative phonemic transcription,1+{+}(2′⋅10)
 46,numerals-kalk1245-1-twentytwo-1,numerals-kalk1245-1,Chan2019,twentytwo,22,'d̪uːt̪eː biːɕ,dutebic,,false,2+{+}20,phonetic transcription,2+{+}(2′⋅10)
@@ -76,7 +76,7 @@
 75,numerals-kalk1245-1-ninety-2,numerals-kalk1245-1,Chan2019,ninety,90,deeɕtee tɕoorbiɕ,deecteetcoorbic,,false,10+{+}(4[⋅]20),tentative phonemic transcription,10+{+}(4[⋅](2′⋅10))
 76,numerals-kalk1245-1-hundred-1,numerals-kalk1245-1,Chan2019,hundred,100,paːɳʑ'biɕ,panzbic,,false,5[⋅]20,phonetic transcription,5[⋅](2′⋅10)
 77,numerals-kalk1245-1-hundred-2,numerals-kalk1245-1,Chan2019,hundred,100,paandʑbiɕ,paandzbic,,false,5[⋅]20,tentative phonemic transcription,5[⋅](2′⋅10)
-78,numerals-kalk1245-1-twohundred-1,numerals-kalk1245-1,Chan2019,twohundred,200,'d̪usoː,duso,,false,2[⋅]100,phonetic transcription; according to the contributor soː is a loanword from Pashto,
-79,numerals-kalk1245-1-twohundred-2,numerals-kalk1245-1,Chan2019,twohundred,200,dusoo,dusoo,,false,2[⋅]100,tentative phonemic transcription; according to the contributor soː is a loanword from Pashto,
-80,numerals-kalk1245-1-thousand-1,numerals-kalk1245-1,Chan2019,thousand,1000,ziɾ,zir,,false,1000,phonetic transcription; according to the contributor ziɾ is a loanword from Pashto,
-81,numerals-kalk1245-1-thousand-2,numerals-kalk1245-1,Chan2019,thousand,1000,zir,zir,,false,1000,tentative phonemic transcription; according to the contributor zir is a loanword from Pashto,
+78,numerals-kalk1245-1-twohundred-1,numerals-kalk1245-1,Chan2019,twohundred,200,'d̪usoː,duso,,false,2[⋅]100,"phonetic transcription; according to the contributor, <soː> ‘hundred’ borrowed from Pashto (Iranian branch of Indo-Iranian, Indo-European)",
+79,numerals-kalk1245-1-twohundred-2,numerals-kalk1245-1,Chan2019,twohundred,200,dusoo,dusoo,,false,2[⋅]100,"tentative phonemic transcription; according to the contributor, <soo> ‘hundred’ borrowed from Pashto (Iranian branch of Indo-Iranian, Indo-European)",
+80,numerals-kalk1245-1-thousand-1,numerals-kalk1245-1,Chan2019,thousand,1000,ziɾ,zir,,false,1000,"phonetic transcription; according to the contributor, <ziɾ> ‘thousand’ borrowed from Pashto (Iranian branch of Indo-Iranian, Indo-European)",
+81,numerals-kalk1245-1-thousand-2,numerals-kalk1245-1,Chan2019,thousand,1000,zir,zir,,false,1000,"tentative phonemic transcription; according to the contributor, <zir> ‘thousand’ borrowed from Pashto (Iranian branch of Indo-Iranian, Indo-European)",
