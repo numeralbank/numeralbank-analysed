@@ -1,5 +1,5 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-1,numerals-axiy1235-1-one-1,numerals-axiy1235-1,Chan2019,one,1,tli22,tli22,,false,1{?},All forms have some kind of suffix – a classifier?,
+1,numerals-axiy1235-1-one-1,numerals-axiy1235-1,Chan2019,one,1,tli22,tli22,,false,1{?},"all forms appear to have some kind of suffix, possibly a classifier",
 2,numerals-axiy1235-1-two-1,numerals-axiy1235-1,Chan2019,two,2,niɛ55li21,nie55li21,,false,2{?},,
 3,numerals-axiy1235-1-three-1,numerals-axiy1235-1,Chan2019,three,3,sɑ̠55li21,sa55li21,,false,3{?},,
 4,numerals-axiy1235-1-four-1,numerals-axiy1235-1,Chan2019,four,4,ɣ̩55lɛ21,g55le21,,false,4{?},,
@@ -35,4 +35,4 @@
 34,numerals-axiy1235-1-seventy-1,numerals-axiy1235-1,Chan2019,seventy,70,ʂ tɕ̩33lɛ21,stc33le21,,false,7[⋅]10{?},,
 35,numerals-axiy1235-1-eighty-1,numerals-axiy1235-1,Chan2019,eighty,80,xi21 tɕ̩33lɛ21,xi21tc33le21,,false,8[⋅]10{?},,
 36,numerals-axiy1235-1-ninety-1,numerals-axiy1235-1,Chan2019,ninety,90,ɡə33 tɕ̩33lɛ21,ga33tc33le21,,false,9[⋅]10{?},,
-37,numerals-axiy1235-1-hundred-1,numerals-axiy1235-1,Chan2019,hundred,100,kʰi̥o̥21 niɛ21,khio21nie21,,false,100,Looks suspiciously compositional but niɛ21 is probably not the same as 2?,
+37,numerals-axiy1235-1-hundred-1,numerals-axiy1235-1,Chan2019,hundred,100,kʰi̥o̥21 niɛ21,khio21nie21,,false,?,"Is this 100⋅2, i.e., 200?",100
