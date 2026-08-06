@@ -260,10 +260,10 @@ temp.data %>%
   group_by(ID) %>%
   filter(n()>1)
 
-#TEMPO: Kill inconsistent rows:
-
-temp.data %>%
-  filter(!(is.na(NumberValue))) -> temp.data
+# #NOT NECESSARY: TEMPO: Kill inconsistent rows:
+# 
+# temp.data %>%
+#   filter(!(is.na(NumberValue))) -> temp.data
 
 
 

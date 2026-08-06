@@ -1,0 +1,30 @@
+"","X","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","rb","sb","cb"
+"1",29,"numerals-bijo1238-1-twentynine-1","numerals-bijo1238-1","Chan2019","twentynine",29,"ʊn̪t̪is ɡoʈ","untisgot","","false","[1]−{−}({3′⋅10′′){CLF}","borrowed from Indo-Aryan (Indo-European)","[1]−{−}30{CLF}","RE-GLOSSED",TRUE,TRUE,FALSE
+"2",37,"numerals-chut1247-1-ninety-1","numerals-chut1247-1","Chan2019","ninety",90,"ciːn35 mɨəj31","cin35miaj31","","false","9[⋅[10","borrowed from Vietnamese (a fellow Vietic, Austroasiatic language)",NA,"RE-GLOSSED",TRUE,FALSE,TRUE
+"3",36,"numerals-nguo1239-1-ninety-1","numerals-nguo1239-1","Chan2019","ninety",90,"ciːn312 mɨəj22","cin312miaj22",NA,"false","9[⋅[10","borrowed from Vietnamese (a fellow Vietic, Austroasiatic language)",NA,"RE-GLOSSED",TRUE,FALSE,TRUE
+"4",25,"numerals-panj1256-1-twentyfive-1","numerals-panj1256-1","Chan2019","twentyfive",25,"pəñɟi","panji","","false","5+(]2′]⋅10′′)","","","RE-GLOSSED",TRUE,FALSE,TRUE
+"5",23,"numerals-mewa1250-1-twentythree-1","numerals-mewa1250-1","Chan2019","twentythree",23,"teis","teis","","false","3+([2′′⋅10′′)","","","RE-GLOSSED",TRUE,FALSE,TRUE
+"6",11,"numerals-dzon1239-1-eleven-1","numerals-dzon1239-1","Chan2019","eleven",11,"tɕu tɕí","tcutci",NA,"false","10[+]]1",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"7",12,"numerals-dzon1239-1-twelve-1","numerals-dzon1239-1","Chan2019","twelve",12,"tɕu ɲí","tcuni",NA,"false","10[+]]2",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"8",13,"numerals-dzon1239-1-thirteen-1","numerals-dzon1239-1","Chan2019","thirteen",13,"tɕu súm","tcusum",NA,"false","10[+]]3",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"9",14,"numerals-dzon1239-1-fourteen-1","numerals-dzon1239-1","Chan2019","fourteen",14,"tɕu ʃi̤","tcusi",NA,"false","10[+]]4",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"10",15,"numerals-dzon1239-1-fifteen-1","numerals-dzon1239-1","Chan2019","fifteen",15,"tɕu ŋə","tcunga",NA,"false","10[+]]5",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"11",16,"numerals-dzon1239-1-sixteen-1","numerals-dzon1239-1","Chan2019","sixteen",16,"tɕu dʑo","tcudzo",NA,"false","10[+]]6",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"12",17,"numerals-dzon1239-1-seventeen-1","numerals-dzon1239-1","Chan2019","seventeen",17,"tɕu ty̤n","tcutyn",NA,"false","10[+]]7",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"13",18,"numerals-dzon1239-1-eighteen-1","numerals-dzon1239-1","Chan2019","eighteen",18,"tɕu kæ̤","tcukae",NA,"false","10[+]]8",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"14",19,"numerals-dzon1239-1-nineteen-1","numerals-dzon1239-1","Chan2019","nineteen",19,"tɕu kṳ","tcuku",NA,"false","10[+]]9",NA,"","RE-GLOSSED",TRUE,FALSE,TRUE
+"15",42,"numerals-darm1243-1-ninety-1","numerals-darm1243-1","Chan2019","ninety",90,"ɟjɛca ci","jjecaci","","false","(8⋅10′′)[+[10","","","RE-GLOSSED",TRUE,FALSE,TRUE
+"16",57,"numerals-lepc1244-2-seventy-1","numerals-lepc1244-2","Chan2019","seventy",70,"khá sám sá kati","khasamsakati","","false","(20[⋅]3)+{+})(1⋅[10])","",NA,"RE-GLOSSED",FALSE,TRUE,TRUE
+"17",37,"numerals-west2409-1-twentyseven-2","numerals-west2409-1","Chan2019","twentyseven",27,"nje˧ ʃje˧ sjuᵉ˧ swo˦ tə˨","sjueswota",NA,"false","(2[⋅]10)[+](3⋅2′)[+}1",NA,NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"18",55,"numerals-west2409-1-thousand-1","numerals-west2409-1","Chan2019","thousand",1000,"tə̄ríʔ tə˨","tarita",NA,"false","1[⋅]1000)[⋅]1",NA,NA,"RE-GLOSSED",FALSE,TRUE,TRUE
+"19",22,"numerals-lish1235-1-twentyone-1","numerals-lish1235-1","Chan2019","twentyone",21,"kʰaihinhin","khaihinhin","","false","(20[⋅]1)[+}1","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"20",23,"numerals-lish1235-1-twentytwo-1","numerals-lish1235-1","Chan2019","twentytwo",22,"kʰaihinɲɪs","khaihinnis","","false","(20[⋅]1)[+}2","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"21",24,"numerals-lish1235-1-twentythree-1","numerals-lish1235-1","Chan2019","twentythree",23,"kʰaihinoːm","khaihinom","","false","(20[⋅]1)[+}3","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"22",25,"numerals-lish1235-1-twentyfour-1","numerals-lish1235-1","Chan2019","twentyfour",24,"kʰaihinpɕi","khaihinpci","","false","(20[⋅]1)[+}4","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"23",26,"numerals-lish1235-1-twentyfive-1","numerals-lish1235-1","Chan2019","twentyfive",25,"kʰaihinkʰaː","khaihinkha","","false","(20[⋅]1)[+}5","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"24",27,"numerals-lish1235-1-twentysix-1","numerals-lish1235-1","Chan2019","twentysix",26,"kʰaihint͡ɕʰuˀp","khaihintchup","","false","(20[⋅]1)[+}6","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"25",28,"numerals-lish1235-1-twentyseven-1","numerals-lish1235-1","Chan2019","twentyseven",27,"kʰaihinɕis","khaihincis","","false","(20[⋅]1)[+}7","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"26",29,"numerals-lish1235-1-twentyeight-1","numerals-lish1235-1","Chan2019","twentyeight",28,"kʰaihinsaɹɡeˀt","khaihinsarget","","false","(20[⋅]1)[+}8","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"27",30,"numerals-lish1235-1-twentynine-1","numerals-lish1235-1","Chan2019","twentynine",29,"kʰaihintʰikʰu","khaihinthikhu","","false","(20[⋅]1)[+}9","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"28",31,"numerals-lish1235-1-thirty-1","numerals-lish1235-1","Chan2019","thirty",30,"kʰaihinsan","khaihinsan","( 20 + 10 )","false","(20[⋅]1)[+}10","",NA,"RE-GLOSSED",TRUE,FALSE,FALSE
+"29",21,"numerals-prov1235-1-nineteen-1","numerals-prov1235-1","Chan2019","nineteen",19,"dɛzeˈnɔw","dezenow","","false","10+{and]9","","","RE-GLOSSED",TRUE,FALSE,FALSE
