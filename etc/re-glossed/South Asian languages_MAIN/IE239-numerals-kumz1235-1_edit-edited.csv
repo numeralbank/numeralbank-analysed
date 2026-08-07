@@ -75,7 +75,7 @@
 74,numerals-kumz1235-1-hundred-1,numerals-kumz1235-1,Chan2019,hundred,100,sˠatˠːa,sgatga,,false,100{count.suffix},,
 75,numerals-kumz1235-1-onehundredandone-1,numerals-kumz1235-1,Chan2019,onehundredandone,101,sˠad ʊ ˈjɪkta,sgadujikta,,false,100+{and}1{count.suffix},,
 76,numerals-kumz1235-1-twohundred-1,numerals-kumz1235-1,Chan2019,twohundred,200,dweːsta,dwesta,,false,2⋅100′{count.suffix},,
-77,numerals-kumz1235-1-twohundredandone-1,numerals-kumz1235-1,Chan2019,twohundredandone,201,dweːs ʊ ˈjɪkta,desujikta,,false,(2⋅100′)+{and}{count.suffix},,
+77,numerals-kumz1235-1-twohundredandone-1,numerals-kumz1235-1,Chan2019,twohundredandone,201,dweːs ʊ ˈjɪkta,desujikta,,false,(2⋅100′)+{and}1{count.suffix},,
 78,numerals-kumz1235-1-threehundred-1,numerals-kumz1235-1,Chan2019,threehundred,300,ˈseːsˠatˠtˠa,sesgatgtga,,false,3⋅100′{count.suffix},,
 79,numerals-kumz1235-1-threehundred-2,numerals-kumz1235-1,Chan2019,threehundred,300,ˈsəsˠatˠtˠa,sasgatgtga,,false,3⋅100′{count.suffix},,
 80,numerals-kumz1235-1-threehundred-3,numerals-kumz1235-1,Chan2019,threehundred,300,ˈsˠəsˠatˠtˠa,sgasgatgtga,,false,3⋅100′{count.suffix},,

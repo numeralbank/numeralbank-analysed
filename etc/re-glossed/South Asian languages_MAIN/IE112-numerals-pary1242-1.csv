@@ -40,7 +40,7 @@
 39,numerals-pary1242-1-sixty-1,numerals-pary1242-1,Chan2019,sixty,60,tinbisi,tinbisi,( 3 x 20),false,3⋅20,,3⋅(2′⋅10′′)
 40,numerals-pary1242-1-seventy-1,numerals-pary1242-1,Chan2019,seventy,70,saɽetinbisi,saretinbisi,[half of 'twenty' + (3 x 20) ],false,(½⋅[20])+(3⋅20),"<saɽe> means ‘half’, so this could be interpreted either as adding half [of twenty] or as overcounting (i.e., halfway [toward the next twenty]).",{half}[10+](3⋅20)
 41,numerals-pary1242-1-eighty-1,numerals-pary1242-1,Chan2019,eighty,80,t͡ʃarbisi,tsarbisi,( 4 x 20),false,4⋅20,,4⋅(2′⋅10′′)
-42,numerals-pary1242-1-ninety-1,numerals-pary1242-1,Chan2019,ninety,90,saɽet͡ʃarbisi,saretsarbisi,[half of 'twenty' +(4 x 20) ],false,(½⋅[20])(4⋅20),"<saɽe> means ‘half’, so this could be interpreted either as adding half [of twenty] or as overcounting (i.e., halfway [toward the next twenty]).",{half}[10+](4⋅20)
+42,numerals-pary1242-1-ninety-1,numerals-pary1242-1,Chan2019,ninety,90,saɽet͡ʃarbisi,saretsarbisi,[half of 'twenty' +(4 x 20) ],false,(½⋅[20])+(4⋅20),"<saɽe> means ‘half’, so this could be interpreted either as adding half [of twenty] or as overcounting (i.e., halfway [toward the next twenty]).",{half}[10+](4⋅20)
 43,numerals-pary1242-1-hundred-1,numerals-pary1242-1,Chan2019,hundred,100,soː,so,,false,100,,
 44,numerals-pary1242-1-hundred-2,numerals-pary1242-1,Chan2019,hundred,100,su,su,,false,100,,
 45,numerals-pary1242-1-twohundred-1,numerals-pary1242-1,Chan2019,twohundred,200,doː soː,doso,,false,2[⋅]100,,
