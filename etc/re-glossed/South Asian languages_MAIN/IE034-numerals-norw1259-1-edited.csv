@@ -1,6 +1,6 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-1,numerals-norw1259-1-one-1,numerals-norw1259-1,Chan2019,one,1,eːn,en,,false,1,masculine,NA
-2,numerals-norw1259-1-one-2,numerals-norw1259-1,Chan2019,one,1,ɛtː,et,,false,1,neuter,NA
+1,numerals-norw1259-1-one-1,numerals-norw1259-1,Chan2019,one,1,eːn,en,,false,1,masculine,
+2,numerals-norw1259-1-one-2,numerals-norw1259-1,Chan2019,one,1,ɛtː,et,,false,1,neuter,
 3,numerals-norw1259-1-two-1,numerals-norw1259-1,Chan2019,two,2,tuː,tu,,false,2,,
 4,numerals-norw1259-1-three-1,numerals-norw1259-1,Chan2019,three,3,treː,tre,,false,3,,
 5,numerals-norw1259-1-four-1,numerals-norw1259-1,Chan2019,four,4,ˈfiːrə,fira,,false,4,,
