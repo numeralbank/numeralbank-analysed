@@ -1,8 +1,8 @@
 ,ID,Language_ID,Source,Parameter_ID,NumberValue,Value,Form,Comment_contributor,Loan,Gloss,Comment_glosser,Alternate_gloss
-1,numerals-hass1238-1-one-1,numerals-hass1238-1,Chan2019,one,1,'waːħəd,wahad,,false,1{M},NA,NA
+1,numerals-hass1238-1-one-1,numerals-hass1238-1,Chan2019,one,1,'waːħəd,wahad,,false,1,NA,NA
 2,numerals-hass1238-1-one-2,numerals-hass1238-1,Chan2019,one,1,wa:ħəd,wahad,(m.),false,1{M},NA,NA
 3,numerals-hass1238-1-one-3,numerals-hass1238-1,Chan2019,one,1,wa:ħdæ,wahdae,(f.),false,1{F},NA,NA
-4,numerals-hass1238-1-two-1,numerals-hass1238-1,Chan2019,two,2,æθnæjn,aethnaejn,,false,2{M},NA,NA
+4,numerals-hass1238-1-two-1,numerals-hass1238-1,Chan2019,two,2,æθnæjn,aethnaejn,,false,2,NA,NA
 5,numerals-hass1238-1-two-2,numerals-hass1238-1,Chan2019,two,2,æθnæjn,aethnaejn,(m.),false,2{M},NA,NA
 6,numerals-hass1238-1-two-3,numerals-hass1238-1,Chan2019,two,2,θnətæjn,thnataejn,(f.),false,2{F},NA,NA
 7,numerals-hass1238-1-three-1,numerals-hass1238-1,Chan2019,three,3,(æ)θlaːθæ,aethlathae,(c.),false,3{DEF},NA,NA
