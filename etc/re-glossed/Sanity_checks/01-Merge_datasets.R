@@ -18,6 +18,7 @@ pkgs <- c("tidyverse",
           "purrr")
 groundhog.library(pkgs,my.date, ignore.deps = "systemfonts")
 
+
 options(tidyverse.quiet = TRUE)
 
 #set working directory and load data----
@@ -60,35 +61,35 @@ all.ncols %>%
   as.data.frame() %>%
   filter(V1 > 13) 
 
-myfiles[[1]] %>% colnames()
-myfiles[[1]] %>% head()
-
-#14 columns
-myfiles[["AA069-numerals-east2330-1.csv"]] %>% colnames()
-myfiles[["AA069-numerals-east2330-1.csv"]] %>% head()
-myfiles[["AA069-numerals-east2330-1.csv"]] <- myfiles[["AA069-numerals-east2330-1.csv"]][,-1]
-colnames(myfiles[["AA069-numerals-east2330-1.csv"]])[1] <- "X"
-
-#15 columns
-myfiles[["IE104-numerals-kach1272-1.csv"]] %>% colnames()
-myfiles[["IE104-numerals-kach1272-1.csv"]] %>% head()
-myfiles[["IE104-numerals-kach1272-1.csv"]] <- myfiles[["IE104-numerals-kach1272-1.csv"]][,-c(1,2)]
-colnames(myfiles[["IE104-numerals-kach1272-1.csv"]])[1] <- "X"
-
-myfiles[["ST061-numerals-koch1250-1.csv"]] %>% colnames()
-myfiles[["ST061-numerals-koch1250-1.csv"]] %>% head()
-myfiles[["ST061-numerals-koch1250-1.csv"]] <- myfiles[["ST061-numerals-koch1250-1.csv"]][,-c(1,2)]
-colnames(myfiles[["ST061-numerals-koch1250-1.csv"]])[1] <- "X"
-
-#16 columns
-myfiles[["DV003-numerals-mudh1235-1.csv"]] %>% colnames()
-myfiles[["DV003-numerals-mudh1235-1.csv"]] %>% head()
-myfiles[["DV003-numerals-mudh1235-1.csv"]] <- myfiles[["DV003-numerals-mudh1235-1.csv"]][,-c(1,2,3)]
-colnames(myfiles[["DV003-numerals-mudh1235-1.csv"]])[1] <- "X"
-
-myfiles[["ST058-numerals-deor1238-1.csv"]] %>% colnames()
-myfiles[["ST058-numerals-deor1238-1.csv"]] %>% head()
-myfiles[["ST058-numerals-deor1238-1.csv"]]  <- myfiles[["ST058-numerals-deor1238-1.csv"]][,-c(14,15,16)]
+# myfiles[[1]] %>% colnames()
+# myfiles[[1]] %>% head()
+# 
+# #14 columns
+# myfiles[["AA069-numerals-east2330-1.csv"]] %>% colnames()
+# myfiles[["AA069-numerals-east2330-1.csv"]] %>% head()
+# myfiles[["AA069-numerals-east2330-1.csv"]] <- myfiles[["AA069-numerals-east2330-1.csv"]][,-1]
+# colnames(myfiles[["AA069-numerals-east2330-1.csv"]])[1] <- "X"
+# 
+# #15 columns
+# myfiles[["IE104-numerals-kach1272-1.csv"]] %>% colnames()
+# myfiles[["IE104-numerals-kach1272-1.csv"]] %>% head()
+# myfiles[["IE104-numerals-kach1272-1.csv"]] <- myfiles[["IE104-numerals-kach1272-1.csv"]][,-c(1,2)]
+# colnames(myfiles[["IE104-numerals-kach1272-1.csv"]])[1] <- "X"
+# 
+# myfiles[["ST061-numerals-koch1250-1.csv"]] %>% colnames()
+# myfiles[["ST061-numerals-koch1250-1.csv"]] %>% head()
+# myfiles[["ST061-numerals-koch1250-1.csv"]] <- myfiles[["ST061-numerals-koch1250-1.csv"]][,-c(1,2)]
+# colnames(myfiles[["ST061-numerals-koch1250-1.csv"]])[1] <- "X"
+# 
+# #16 columns
+# myfiles[["DV003-numerals-mudh1235-1.csv"]] %>% colnames()
+# myfiles[["DV003-numerals-mudh1235-1.csv"]] %>% head()
+# myfiles[["DV003-numerals-mudh1235-1.csv"]] <- myfiles[["DV003-numerals-mudh1235-1.csv"]][,-c(1,2,3)]
+# colnames(myfiles[["DV003-numerals-mudh1235-1.csv"]])[1] <- "X"
+# 
+# myfiles[["ST058-numerals-deor1238-1.csv"]] %>% colnames()
+# myfiles[["ST058-numerals-deor1238-1.csv"]] %>% head()
+# myfiles[["ST058-numerals-deor1238-1.csv"]]  <- myfiles[["ST058-numerals-deor1238-1.csv"]][,-c(14,15,16)]
 
 
 myfiles %>%
@@ -135,10 +136,10 @@ temp.data %>%
   filter(n()>1) -> duplicates.SA_Main
 
 setwd("..")
-write.csv(duplicates.SA_Main,"duplicates.SA_Main.csv")
+# write.csv(duplicates.SA_Main,"duplicates.SA_Main.csv")
 
 
-##332 duplicated rows!
+##no duplicated rows!
 
 #all Language_ID's present
 -sort(-table(temp.data$Language_ID, useNA = "ifany"))
@@ -192,7 +193,7 @@ colnames(temp.data)
 #unique numeral ID's:
 temp.data %>%
   group_by(ID) %>%
-  filter(n())>1
+  filter(n()>1)
 
 
 ##no duplicated rows!
@@ -216,7 +217,7 @@ temp = list.files( pattern="\\.csv$")
 myfiles = lapply(temp, read.csv)
 names(myfiles) <- temp
 length(myfiles)
-#86 files
+#88 files
 
 
 
@@ -227,7 +228,7 @@ myfiles %>%
 table(all.ncols)
 
 # 13 
-# 86  
+# 88  
 all.ncols %>%
   as.data.frame() %>%
   filter(V1 > 13) 
