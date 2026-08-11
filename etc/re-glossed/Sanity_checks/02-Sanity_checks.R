@@ -280,12 +280,16 @@ all.data %>%
 all.data %>%
   mutate(Gloss.calc = gsub("⋅","\\*",Gloss.math),
          Gloss.calc = gsub("−","-",Gloss.calc),
+         Gloss.calc = gsub("1½","(3/2)",Gloss.calc),         
+         Gloss.calc = gsub("2½","(5/2)",Gloss.calc),    
          Gloss.calc = gsub("½","(1/2)",Gloss.calc),         
-         Gloss.calc = gsub("⅓","(1/3)",Gloss.calc),         
+         Gloss.calc = gsub("⅓","(1/3)",Gloss.calc), 
          Gloss.calc = gsub("⅔","(2/3)",Gloss.calc),         
          Gloss.calc = gsub("¼","(1/4)",Gloss.calc),         
          Gloss.calc = gsub( "¾","(3/4)",Gloss.calc),
          Gloss.calc = gsub( "\\?",NA,Gloss.calc)) -> all.data
+
+
 
 #fix subtraction: usually, forms such as 9 = 10-1 are noted as 9 = 1-10, hence we need some absolute value.
 # Same works for cases like 19 = 10 + (1 - 10) rather than 19 = 10 + (10-1). 
