@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.9.1-118-gde6be673",
+            "dc:created": "v0.9.1-119-g1d172b8d",
             "dc:title": "Repository"
         },
         {
@@ -85,7 +85,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 265344,
+            "dc:extent": 265928,
             "tableSchema": {
                 "columns": [
                     {
@@ -303,7 +303,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 162,
+            "dc:extent": 168,
             "tableSchema": {
                 "columns": [
                     {

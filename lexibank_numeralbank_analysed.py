@@ -2,8 +2,8 @@ import json
 import pathlib
 import subprocess
 from collections import Counter, defaultdict, namedtuple
+from dataclasses import dataclass, field
 
-import attr
 import pycldf
 from cldfzenodo.api import API as ZenodoAPI
 from cldfzenodo.record import GithubRepos
@@ -50,30 +50,29 @@ def simple_chars(chars):
     return slug(unidecode(chars).replace("@", "a"))
 
 
-@attr.s
+@dataclass
 class CustomLexeme(Lexeme):
-    NumberValue = attr.ib(default=None, metadata={"datatype": "integer"})
-    Gloss = attr.ib(default=None)
-    GlossClean = attr.ib(default=None)
-    GlossMath = attr.ib(default=None)
-    GlossCalc = attr.ib(default=None)
+    NumberValue: int | None = None
+    Gloss: str | None = None
+    GlossClean: str | None = None
+    GlossMath: str | None = None
+    GlossCalc: str | None = None
 
 
-@attr.s
+@dataclass
 class CustomLanguage(Language):
-    Dataset = attr.ib(default=None)
-    BaseAnnotation = attr.ib(default=None)
-    BaseAnnotator = attr.ib(default=None)
-    BaseComment = attr.ib(default=None)
-    Coverage = attr.ib(
+    Dataset: str | None = None
+    BaseAnnotation: str | None = None
+    BaseAnnotator: str | None = None
+    BaseComment: str | None = None
+    Coverage: float | None = field(
         default=None,
         metadata={
             "datatype": "float",
             "dc:description": "Coverage of the language in comparison with our master concept list.",
-        },
-    )
-    OneToThirty = attr.ib(default=None, metadata={"datatype": "float"})
-    BaseInSource = attr.ib(default=None)
+        })
+    OneToThirty: float | None = None
+    BaseInSource: str | None = None
 
 
 def coverage(forms, concept_set):
