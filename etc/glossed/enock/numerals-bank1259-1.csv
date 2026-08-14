@@ -37,7 +37,7 @@
 36;numerals-bank1259-1-eighty-1;numerals-bank1259-1;Chan2019;eighty;80;pɛ̀rù ɡáːràj;perugaraj;;FALSE;10·8;;
 37;numerals-bank1259-1-eighty-2;numerals-bank1259-1;Chan2019;eighty;80;sòːŋɡú;songgu;(archaic);FALSE;80;;
 38;numerals-bank1259-1-ninety-1;numerals-bank1259-1;Chan2019;ninety;90;pɛ̀rù tèːsùm;perutesum;;FALSE;10·9;;
-39;numerals-bank1259-1-ninety-2;numerals-bank1259-1;Chan2019;ninety;90;sòːŋɡú wó pɛ́ːrú;songguwoperu;( 80+10);FALSE;90+{LIG}10;;
+39;numerals-bank1259-1-ninety-2;numerals-bank1259-1;Chan2019;ninety;90;sòːŋɡú wó pɛ́ːrú;songguwoperu;( 80+10);FALSE;80+{LIG}10;;
 40;numerals-bank1259-1-hundred-1;numerals-bank1259-1;Chan2019;hundred;100;tɛ́ːmbɛ̀ndɛ́rɛ̀;tembendere;;TRUE;100;loan;
 41;numerals-bank1259-1-hundred-2;numerals-bank1259-1;Chan2019;hundred;100;tɛ́ːmɛ́dɛ́rɛ̀;temedere;( < Fulfulde );TRUE;100;loan;
 42;numerals-bank1259-1-twohundred-1;numerals-bank1259-1;Chan2019;twohundred;200;tɛ́ːmɛ́dɛ́rɛ̀ jǒj;temederejoj;??;FALSE;100·2;;
