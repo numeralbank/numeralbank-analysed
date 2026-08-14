@@ -1,5 +1,7 @@
 # CLDF Numeralbank Analysed
 
+[![CLDF validation](https://github.com/numeralbank/numeralbank-analysed/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/numeralbank-analysed/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -33,23 +35,23 @@ Column Base_subsystem was added: extra information present in data coded by Barl
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+[![CLDF validation](https://github.com/numeralbank/numeralbank-analysed/workflows/CLDF-validation/badge.svg)](https://github.com/numeralbank/numeralbank-analysed/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
 
 - **Varieties:** 9,119 (linked to 5,175 different Glottocodes)
-- **Concepts:** 162 (linked to 162 different Concepticon concept sets)
-- **Lexemes:** 265,344
+- **Concepts:** 168 (linked to 162 different Concepticon concept sets)
+- **Lexemes:** 265,928
 - **Sources:** 5
 - **Synonymy:** 1.08
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Bikaru [from L. Bragge] [bika1251](http://glottolog.org/resource/languoid/id/bika1251)
-  - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
-  - Phangduwali [phan1256](http://glottolog.org/resource/languoid/id/phan1256)
-
+- Languages linked to [bookkeeping languoids in Glottolog](https://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Bikaru [from L. Bragge] [bika1251](https://glottolog.org/resource/languoid/id/bika1251)
+  - Chamari, India [cham1329](https://glottolog.org/resource/languoid/id/cham1329)
+  - Phangduwali [phan1256](https://glottolog.org/resource/languoid/id/phan1256)
 
 
 Name               | GitHub user | Description               | Role

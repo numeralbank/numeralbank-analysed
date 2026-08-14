@@ -13,13 +13,15 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numerals.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numeralbank-analysed
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/1d172b8d">numeralbank/numeralbank-analysed v0.9.1-119-g1d172b8d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/v1.0">numeralbank/sand v1.0</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/v1.8">numeralbank/barlowpacific v1.8</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/a3e60bc">numeralbank/bowernnumerals v0.8-1-ga3e60bc</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals 1ff39840</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numeralbank-analysed/tree/03b11858">numeralbank/numeralbank-analysed  v0.9.1-124-g03b11858</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li><li><a href="https://github.com/numeralbank/sand/tree/37683f0">numeralbank/sand  v1.0-1-g37683f0</a></li><li><a href="https://github.com/numeralbank/barlowpacific/tree/v1.8">numeralbank/barlowpacific  v1.8</a></li><li><a href="https://github.com/numeralbank/bowernnumerals/tree/a3e60bc">numeralbank/bowernnumerals  v0.8-1-ga3e60bc</a></li><li><a href="https://github.com/numeralbank/googleuninum/tree/b9ece9f">numeralbank/googleuninum  b9ece9f</a></li><li><a href="https://github.com/numeralbank/numerals/tree/1ff39840">numeralbank/numerals  1ff39840</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.20</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numeralbank-analysed
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
+
+CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, NumberValue: int | None = None, Gloss: str | None = None, GlossClean: str | None = None, GlossMath: str | None = None, GlossCalc: str | None = None)
 
 property | value
  --- | ---
@@ -44,7 +46,7 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
-`NumberValue` | `integer` | 
+`NumberValue` | `string` | 
 `Gloss` | `string` | 
 `GlossClean` | `string` | 
 `GlossMath` | `string` | 
@@ -52,10 +54,12 @@ Name/Property | Datatype | Description
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
+CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, Dataset: str | None = None, BaseAnnotation: str | None = None, BaseAnnotator: str | None = None, BaseComment: str | None = None, Coverage: float | None = None, OneToThirty: float | None = None, BaseInSource: str | None = None)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 9121
+[dc:extent](http://purl.org/dc/terms/extent) | 9120
 
 
 ### Columns
@@ -76,10 +80,12 @@ Name/Property | Datatype | Description
 `BaseAnnotator` | `string` | 
 `BaseComment` | `string` | 
 `Coverage` | `float` | Coverage of the language in comparison with our master concept list.
-`OneToThirty` | `float` | 
+`OneToThirty` | `string` | 
 `BaseInSource` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
+
+Essential data of a concept mapped to Concepticon.
 
 property | value
  --- | ---
@@ -112,4 +118,3 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | 
 `Metadata` | `string` | JSON encoded metadata of used datasets
-
