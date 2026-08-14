@@ -31,10 +31,10 @@
 30;numerals-vend1245-1-thirty-1;numerals-vend1245-1;Chan2019;thirty;30;maɦumi matʰaru;mahumimatharu;;FALSE;{PLU}10·{PLU}3;NA;NA
 31;numerals-vend1245-1-forty-1;numerals-vend1245-1;Chan2019;forty;40;maɦumi man̪a;mahumimana;;FALSE;{PLU}10·{PLU}4;NA;NA
 32;numerals-vend1245-1-fifty-1;numerals-vend1245-1;Chan2019;fifty;50;maɦumi mat̪ʰanu;mahumimathanu;;FALSE;{PLU}10·{PLU}5;NA;NA
-33;numerals-vend1245-1-sixty-1;numerals-vend1245-1;Chan2019;sixty;60;maɦumi mat̪ʰanu na ntʰiɦi;mahumimathanunanthihi;;FALSE;{PLU}10·({PLU}5)+{+}1’);NA;NA
-34;numerals-vend1245-1-seventy-1;numerals-vend1245-1;Chan2019;seventy;70;maɦumi mat̪ʰanu na mbiɾi;mahumimathanunambiri;;FALSE;{PLU}10·({PLU}5)+{+}2);NA;NA
-35;numerals-vend1245-1-eighty-1;numerals-vend1245-1;Chan2019;eighty;80;maɦumi mat̪ʰanu na ntʰaru;mahumimathanunantharu;;FALSE;{PLU}10·({PLU}5)+{+}3);NA;NA
-36;numerals-vend1245-1-ninety-1;numerals-vend1245-1;Chan2019;ninety;90;maɦumi mat̪ʰanu na nn̪a;mahumimathanunanna;;FALSE;{PLU}10·({PLU}5)+{+}4);NA;NA
+33;numerals-vend1245-1-sixty-1;numerals-vend1245-1;Chan2019;sixty;60;maɦumi mat̪ʰanu na ntʰiɦi;mahumimathanunanthihi;;FALSE;{PLU}10·({PLU}5+{+}1’);NA;NA
+34;numerals-vend1245-1-seventy-1;numerals-vend1245-1;Chan2019;seventy;70;maɦumi mat̪ʰanu na mbiɾi;mahumimathanunambiri;;FALSE;{PLU}10·({PLU}5+{+}2);NA;NA
+35;numerals-vend1245-1-eighty-1;numerals-vend1245-1;Chan2019;eighty;80;maɦumi mat̪ʰanu na ntʰaru;mahumimathanunantharu;;FALSE;{PLU}10·({PLU}5+{+}3);NA;NA
+36;numerals-vend1245-1-ninety-1;numerals-vend1245-1;Chan2019;ninety;90;maɦumi mat̪ʰanu na nn̪a;mahumimathanunanna;;FALSE;{PLU}10·({PLU}5+{+}4);NA;NA
 37;numerals-vend1245-1-hundred-1;numerals-vend1245-1;Chan2019;hundred;100;d̪ana;dana;;FALSE;100;NA;NA
 38;numerals-vend1245-1-twohundred-1;numerals-vend1245-1;Chan2019;twohundred;200;mad̪ana maβiɾi;madanamabiri;;FALSE;{PLU}100·{PLU}2;NA;NA
 39;numerals-vend1245-1-thousand-1;numerals-vend1245-1;Chan2019;thousand;1000;tsʰiɡidi;tshigidi;;FALSE;1000;NA;NA
