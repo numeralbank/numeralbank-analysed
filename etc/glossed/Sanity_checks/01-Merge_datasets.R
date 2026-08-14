@@ -139,7 +139,7 @@ temp = list.files( pattern="\\.csv$",
 myfiles.0 = lapply(temp, read.csv,row.names = 1)
 names(myfiles.0) <- temp
 length(myfiles.0)
-#117 files from SAND
+#103 files from SAND
 
 
 ####
@@ -224,7 +224,7 @@ table(all.ncols)
 
 # all.ncols
 # 12  15
-# 736  1  
+# 721  1  
 all.ncols %>%
   as.data.frame() %>%
   filter(V1 > 12) 
@@ -345,8 +345,8 @@ myfiles %>%
   t() -> all.ncols
 table(all.ncols)
 # all.ncols
-# 13    14    15    22 16384 
-# 2267     8     1     1     1 
+# 13    14    15    22
+# 2268     8     1     1  
 all.ncols %>%
   as.data.frame() %>%
   filter(V1 > 13) 
@@ -614,6 +614,9 @@ table(all.ncols$V1)
 # newest
 #  8   9  12  13 
 # 149  1 648  5 
+# latest
+# 8   9  12  13 
+# 155   1 822   5 
 
 # 
 # myfiles.II %>%

@@ -101,24 +101,24 @@ myfiles %>%
 for(i in 1:ncol(all.columns)){
   print(table(all.columns[,i])) }
 
-#which element does not contain a given col name
-names(myfiles)[!sapply(myfiles, \(df) "X" %in% names(df))]
+# #which element does not contain a given col name
+# names(myfiles)[!sapply(myfiles, \(df) "X" %in% names(df))]
+# 
+# myfiles[["DV017-numerals-irul1243-1.csv"]] %>% colnames()
+# myfiles[["DV017-numerals-irul1243-1.csv"]] %>% head()
+# colnames(myfiles[["DV017-numerals-irul1243-1.csv"]])[1] <- "X"
+# 
+# myfiles[["IE268-googleuninum-hat.csv"]] %>% colnames()
+# myfiles[["IE268-googleuninum-hat.csv"]] %>% head()
+# colnames(myfiles[["IE268-googleuninum-hat.csv"]])[1] <- "X"
+# 
+# names(myfiles)[!sapply(myfiles, \(df) "Comment_glosser" %in% names(df))]
+# 
+# myfiles[["IE162-numerals-urdu1245-1.csv"]] %>% colnames()
+# myfiles[["IE162-numerals-urdu1245-1.csv"]] %>% head()
 
-myfiles[["DV017-numerals-irul1243-1.csv"]] %>% colnames()
-myfiles[["DV017-numerals-irul1243-1.csv"]] %>% head()
-colnames(myfiles[["DV017-numerals-irul1243-1.csv"]])[1] <- "X"
 
-myfiles[["IE268-googleuninum-hat.csv"]] %>% colnames()
-myfiles[["IE268-googleuninum-hat.csv"]] %>% head()
-colnames(myfiles[["IE268-googleuninum-hat.csv"]])[1] <- "X"
-
-names(myfiles)[!sapply(myfiles, \(df) "Comment_glosser" %in% names(df))]
-
-myfiles[["IE162-numerals-urdu1245-1.csv"]] %>% colnames()
-myfiles[["IE162-numerals-urdu1245-1.csv"]] %>% head()
-
-
-colnames(myfiles[["IE162-numerals-urdu1245-1.csv"]])[c(12,13)] <- c("Comment_glosser","Alternate_gloss")
+# colnames(myfiles[["IE162-numerals-urdu1245-1.csv"]])[c(12,13)] <- c("Comment_glosser","Alternate_gloss")
 
 
 do.call(rbind.data.frame, myfiles) -> temp.data
