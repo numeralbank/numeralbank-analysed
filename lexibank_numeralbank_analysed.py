@@ -238,6 +238,7 @@ class Dataset(BaseDataset):
 
         for ds in cldf_datasets:
             dsid = ds.metadata_dict['rdf:ID']
+            args.log.info('Loading data from %s', len(cldf_datasets))
             ds_languages = {
                 lg[CLDF_ID]: lg
                 for lg in ds.iter_rows(
@@ -293,6 +294,7 @@ class Dataset(BaseDataset):
                 for concept in ds_concepts.values())
 
         # get base info from the external document
+        args.log.info('Loading base info')
         base_info = {}
         for row in self.etc_dir.read_csv('bases.tsv', delimiter='\t', dicts=True):
             if row['Annotator'] == 'Russell Barlow':
@@ -301,7 +303,6 @@ class Dataset(BaseDataset):
                 base_info[row['Language_ID']] = row
             else:
                 base_info[row['Glottocode']] = row
-        args.log.info('loaded base info')
 
         one_to_infinity = {
             concept['CONCEPTICON_GLOSS']
@@ -318,16 +319,6 @@ class Dataset(BaseDataset):
         coverage_one_to_forty = coverage(forms, one_to_forty)
         coverage_one_to_thirty = coverage(forms, one_to_thirty)
 
-        # assert all(coverage_all.get(lg[CLDF_ID], 0) != 0 for lg in languages.values())
-
-        # filter languages (only those with glottocodes)
-        #  select first all language which occur only in one dataset
-        #  otherwise select languages having the best coverage excluding googleuninum
-        map_glottocode_nr_of_sources = Counter(
-            glottocode
-            for language in languages.values()
-            if (glottocode := language.get('Glottocode')))
-
         selected_languages = [
             language
             for language in sorted(
@@ -335,9 +326,14 @@ class Dataset(BaseDataset):
                 key=lambda lg: coverage_all.get(lg[CLDF_ID], 0),
                 reverse=True)
             if language.get(CLDF_GLOTTOCODE)
+            # skip lote1237-9 which doesn't have data in the original dataset either
+            and language[CLDF_ID] != 'barlowpacific-lote1237-9'
         ]
         selected_languages.sort(key=lambda lg: lg['Glottocode'])
+        # make sure we only have languages with data points in there
+        assert all(coverage_all.get(lg[CLDF_ID], 0) > 0 for lg in selected_languages)
 
+        args.log.info('Processing %d concepts', len(concepts))
         for concept in concepts.values():
             args.writer.add_concept(
                 ID=concept[CLDF_ID],
@@ -496,10 +492,11 @@ class Dataset(BaseDataset):
         counts = defaultdict(int)
         with open(self.dir / 'base_errors.md', 'w') as f:
             f.write('Language | Annotation | Annotator\n--- | --- | ---\n')
-            for a, b, c in sorted(base_errors):
-                f.write(f'{a} | {b} | {c}\n')
-                counts[b, c] += 1
+            for language_id, base, annotator in sorted(base_errors):
+                f.write(f'{language_id} | {base} | {annotator}\n')
+                counts[base, annotator] += 1
 
-        for (a, b), c in counts.items():
+        for (base, annotator), count in counts.items():
             args.log.info(
-                f'Problematic annotation {a:40} by {b:20} occurs {c} times.')
+                'Problematic annotation %40s by %20s occurs %d times',
+                base, annotator, count)
