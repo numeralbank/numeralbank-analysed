@@ -166,7 +166,7 @@ temp.3 = list.files( pattern="\\.csv$")
 myfiles.3 = lapply(temp.3, read.csv,row.names = 1)
 names(myfiles.3) <- temp.3
 length(myfiles.3)
-#113 files for Indo-Aryan
+#112 files for Indo-Aryan
 setwd("..")
 
 
@@ -559,7 +559,7 @@ read_csv_auto <- function(path, expected_cols = NULL, drop_rownum_col = TRUE) {
 ####
 
 # setwd("./Enock/all_new/")
-setwd("./Enock")
+setwd("./enock")
 temp.data.I <- NULL
 temp.I = list.files( pattern="\\.csv$")
 
@@ -572,13 +572,13 @@ names(myfiles.I) <- temp.I
 #                    stringsAsFactors = FALSE)
 
 length(myfiles.I)
-#803 files
+#982 files
 setwd("..")
 
 
 #setwd("..")
 
-setwd("./Enock")
+setwd("./enock")
 # setwd("./Enock/all_new/")
 temp.data.II <- NULL
 temp.II = list.files( pattern="\\.tsv$")
@@ -617,7 +617,10 @@ table(all.ncols$V1)
 # latest
 # 8   9  12  13 
 # 155   1 822   5 
+# latestest
 
+# 8   9  11  12  13  14 
+# 154   1   1 821   4   1 
 # 
 # myfiles.II %>%
 #   lapply(ncol) %>% 
@@ -748,7 +751,7 @@ colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
 
 #remove unused columns:
 merged %>%
-  dplyr::select(-c(glottocode,Glottocode)) -> tmp
+  dplyr::select(-c(glottocode)) -> tmp
 
 
 #explore unclear rows:
@@ -758,7 +761,7 @@ tmp %>%
 
 ## row.names, X, ...1: superflouous columns
 tmp %>%
-  dplyr::select(-c(...13, ...7)) -> tmp
+  dplyr::select(-c(...13, ...7,...14)) -> tmp
 # dplyr::select(-c(row.names,X,...1)) -> tmp
 
 

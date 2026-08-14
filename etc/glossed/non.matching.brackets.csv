@@ -1,16 +1,2 @@
 "","ID","Language_ID","Source","Parameter_ID","NumberValue","Value","Form","Comment_contributor","Loan","Gloss","Comment_glosser","Alternate_gloss","Glosser","rb","sb","cb"
-"1","numerals-kobi1241-1-seventy-1","numerals-kobi1241-1","Chan2019","seventy",70,"ŋuntaaza ɟirooɣ nɡo he nɡo koɲ","nguntaazajiroogngohengokon","(10 x 7)","FALSE","10⋅({5+{LIG}1+{LIG}1′)",NA,NA,"EAT",TRUE,TRUE,FALSE
-"2","numerals-samb1305-1-twentyone-1","numerals-samb1305-1","Chan2019","twentyone",21,"laa nɨ́ŋ ze nɨ́ŋ","laaningzening",NA,"FALSE","(20⋅1)+{LIG)1",NA,NA,"EAT",FALSE,TRUE,FALSE
-"3","numerals-samb1305-1-twentytwo-1","numerals-samb1305-1","Chan2019","twentytwo",22,"laa nɨ́ŋ ze iirà","laaningzeiira",NA,"FALSE","(20⋅1)+{LIG)2",NA,NA,"EAT",FALSE,TRUE,FALSE
-"4","numerals-samb1305-1-twentythree-1","numerals-samb1305-1","Chan2019","twentythree",23,"laa nɨ́ŋ ze toorà","laaningzetoora",NA,"FALSE","(20⋅1)+{LIG)3",NA,NA,"EAT",FALSE,TRUE,FALSE
-"5","numerals-samb1305-1-twentyfour-1","numerals-samb1305-1","Chan2019","twentyfour",24,"laa nɨ́ŋ ze naarà","laaningzenaara",NA,"FALSE","(20⋅1)+{LIG)4",NA,NA,"EAT",FALSE,TRUE,FALSE
-"6","numerals-samb1305-1-twentyfive-1","numerals-samb1305-1","Chan2019","twentyfive",25,"laa nɨ́ŋ ze núúnà","laaningzenuuna",NA,"FALSE","(20⋅1)+{LIG)5",NA,NA,"EAT",FALSE,TRUE,FALSE
-"7","numerals-samb1305-1-twentysix-1","numerals-samb1305-1","Chan2019","twentysix",26,"laa nɨ́ŋ ze nɔ̂ŋɡɔ̂s","laaningzenonggos",NA,"FALSE","(20⋅1)+{LIG)6",NA,NA,"EAT",FALSE,TRUE,FALSE
-"8","numerals-samb1305-1-twentyseven-1","numerals-samb1305-1","Chan2019","twentyseven",27,"laa nɨ́ŋ ze nɨ̂ŋsinà","laaningzeningsina",NA,"FALSE","(20⋅1)+{LIG)7",NA,NA,"EAT",FALSE,TRUE,FALSE
-"9","numerals-samb1305-1-twentyeight-1","numerals-samb1305-1","Chan2019","twentyeight",28,"laa nɨ́ŋ ze dàɡwà","laaningzedagwa",NA,"FALSE","(20⋅1)+{LIG)8",NA,NA,"EAT",FALSE,TRUE,FALSE
-"10","numerals-samb1305-1-twentynine-1","numerals-samb1305-1","Chan2019","twentynine",29,"laa nɨ́ŋ ze daanɨ̂ŋne","laaningzedaaningne",NA,"FALSE","(20⋅1)+{LIG)9",NA,NA,"EAT",FALSE,TRUE,FALSE
-"11","numerals-vend1245-1-sixty-1","numerals-vend1245-1","Chan2019","sixty",60,"maɦumi mat̪ʰanu na ntʰiɦi","mahumimathanunanthihi",NA,"FALSE","{PLU}10⋅({PLU}5)+{+}1′)",NA,NA,"EAT",FALSE,TRUE,TRUE
-"12","numerals-vend1245-1-seventy-1","numerals-vend1245-1","Chan2019","seventy",70,"maɦumi mat̪ʰanu na mbiɾi","mahumimathanunambiri",NA,"FALSE","{PLU}10⋅({PLU}5)+{+}2)",NA,NA,"EAT",FALSE,TRUE,TRUE
-"13","numerals-vend1245-1-eighty-1","numerals-vend1245-1","Chan2019","eighty",80,"maɦumi mat̪ʰanu na ntʰaru","mahumimathanunantharu",NA,"FALSE","{PLU}10⋅({PLU}5)+{+}3)",NA,NA,"EAT",FALSE,TRUE,TRUE
-"14","numerals-vend1245-1-ninety-1","numerals-vend1245-1","Chan2019","ninety",90,"maɦumi mat̪ʰanu na nn̪a","mahumimathanunanna",NA,"FALSE","{PLU}10⋅({PLU}5)+{+}4)",NA,NA,"EAT",FALSE,TRUE,TRUE
-"15","numerals-vidu1238-1-twentyone-1","numerals-vidu1238-1","Chan2019","twentyone",21,"makumi meli na imwe","makumimelinaimwe",NA,"FALSE","(10⋅2)+{and)1",NA,NA,"EAT",FALSE,TRUE,FALSE
+"1","numerals-ukaa1243-1-seventeen-1","numerals-ukaa1243-1","Chan2019","seventeen","17","ù- bʷ-áꜜhráhr b-ùɡ͡bɔ́rɔ́","ubwahrahrbugboro","( 20 - 3 )","FALSE","({LIG}3−20",NA,NA,"EAT",FALSE,TRUE,TRUE
