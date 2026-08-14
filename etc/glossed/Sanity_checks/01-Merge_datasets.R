@@ -885,7 +885,7 @@ temp.data <- temp.data %>%
   
 
 temp.data %>%
-  filter(!(Source == "Chan2019" | is.na(Source))) -> wrong.source
+  filter(!(Source == "Chan2019" | Source == "Barlow2024" | is.na(Source))) -> wrong.source
 
 write.csv(wrong.source, "wrong.source.csv")
 temp.data %>%
