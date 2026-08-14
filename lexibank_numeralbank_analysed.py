@@ -177,7 +177,7 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
-        all_concepts = {
+        concepts = {
             concept['CONCEPTICON_GLOSS']: concept for concept in self.concepts}
         datasets = {
             r['ID']: (r['Source'], r['URL'])
@@ -232,13 +232,11 @@ class Dataset(BaseDataset):
             for ds in datasets]
 
         languages = {}
-        # XXX: maybe get rid of this and use the concepts from self.concepts instead?
-        concepts = {}
         forms = []
 
         for ds in cldf_datasets:
             dsid = ds.metadata_dict['rdf:ID']
-            args.log.info('Loading data from %s', len(cldf_datasets))
+            args.log.info('Loading data from %s', dsid)
             ds_languages = {
                 lg[CLDF_ID]: lg
                 for lg in ds.iter_rows(
@@ -261,12 +259,7 @@ class Dataset(BaseDataset):
                     CLDF_CONCEPTICON_ID,
                     'Concepticon_Gloss')
                 # we only want number concepts
-                if concept['Concepticon_Gloss'] in all_concepts}
-            for concept in ds_concepts.values():
-                # this collapses concepts that share a Concepticon gloss
-                # (e.g. ‘thousand’ vs ‘one thousand’ in Mamta 2023)
-                concept[CLDF_ID] = slug(concept['Concepticon_Gloss'])
-
+                if concept['Concepticon_Gloss'] in concepts}
             ds_forms = [
                 form
                 for form in ds.iter_rows(
@@ -280,18 +273,14 @@ class Dataset(BaseDataset):
                 if form[CLDF_PARAMETER_ID] in ds_concepts]
             for form in ds_forms:
                 form[CLDF_LANGUAGE_ID] = ds_languages[form[CLDF_LANGUAGE_ID]][CLDF_ID]
-                concept = ds_concepts[form[CLDF_PARAMETER_ID]]
-                form[CLDF_PARAMETER_ID] = concept[CLDF_ID]
-                form['Concepticon_Gloss'] = concept['Concepticon_Gloss']
+                ds_concept = ds_concepts[form[CLDF_PARAMETER_ID]]
+                form[CLDF_PARAMETER_ID] = slug(ds_concept['Concepticon_Gloss'])
+                form['Concepticon_Gloss'] = ds_concept['Concepticon_Gloss']
 
-            # only include languages that have any coverage at all
             languages.update(
                 (lg[CLDF_ID], lg)
                 for lg in ds_languages.values())
             forms.extend(ds_forms)
-            concepts.update(
-                (concept[CLDF_ID], concept)
-                for concept in ds_concepts.values())
 
         # get base info from the external document
         args.log.info('Loading base info')
@@ -306,14 +295,14 @@ class Dataset(BaseDataset):
 
         one_to_infinity = {
             concept['CONCEPTICON_GLOSS']
-            for concept in self.concepts}
+            for concept in concepts.values()}
         one_to_forty = {
             concept['CONCEPTICON_GLOSS']
-            for concept in self.concepts
+            for concept in concepts.values()
             if concept['TEST'] in {'1', '2'}}
         one_to_thirty = {
             concept['CONCEPTICON_GLOSS']
-            for concept in self.concepts
+            for concept in concepts.values()
             if concept['TEST'] == '1'}
         coverage_all = coverage(forms, one_to_infinity)
         coverage_one_to_forty = coverage(forms, one_to_forty)
@@ -333,13 +322,13 @@ class Dataset(BaseDataset):
         # make sure we only have languages with data points in there
         assert all(coverage_all.get(lg[CLDF_ID], 0) > 0 for lg in selected_languages)
 
-        args.log.info('Processing %d concepts', len(concepts))
+        args.log.info('Processing %d selected concepts', len(concepts))
         for concept in concepts.values():
             args.writer.add_concept(
-                ID=concept[CLDF_ID],
-                Name=concept['Concepticon_Gloss'],
-                Concepticon_ID=concept[CLDF_CONCEPTICON_ID],
-                Concepticon_Gloss=concept['Concepticon_Gloss'],
+                ID=slug(concept['CONCEPTICON_GLOSS']),
+                Name=concept['CONCEPTICON_GLOSS'],
+                Concepticon_ID=concept['CONCEPTICON_ID'],
+                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
             )
 
         # how to represent basic relations in Chan, which are frequent enough
@@ -458,15 +447,12 @@ class Dataset(BaseDataset):
         selected_language_ids = {lg[CLDF_ID] for lg in selected_languages}
         selected_forms = [
             form for form in forms if form[CLDF_LANGUAGE_ID] in selected_language_ids]
-        args.log.info('Processing %d forms', len(selected_forms))
+        args.log.info('Processing %d selected forms', len(selected_forms))
         for form in selected_forms:
             language_id = form[CLDF_LANGUAGE_ID]
             language = languages[language_id]
-            concept_id = form[CLDF_PARAMETER_ID]
-            concept = concepts[concept_id]
-            # TODO: remove this dichotomy
-            global_concept = all_concepts[concept['Concepticon_Gloss']]
-            number_value = global_concept['NUMBER_VALUE']
+            concept = concepts[form['Concepticon_Gloss']]
+            concept_id = slug(concept['CONCEPTICON_GLOSS'])
             language_dataset = language['Dataset']
             source, _ = datasets[language_dataset]
             gloss_key = GlossKey(
@@ -481,7 +467,7 @@ class Dataset(BaseDataset):
                 Form=simple_chars(form[CLDF_FORM]),
                 Loan=form['Loan'],
                 Source=source,
-                NumberValue=number_value,
+                NumberValue=concept['NUMBER_VALUE'],
                 Comment=form['Comment'].strip() if form.get('Comment') else None,
                 Gloss=gloss.gloss,
                 GlossClean=gloss.gloss_clean,
@@ -498,5 +484,5 @@ class Dataset(BaseDataset):
 
         for (base, annotator), count in counts.items():
             args.log.info(
-                'Problematic annotation %40s by %20s occurs %d times',
+                'Problematic annotation %-40s by %-20s occurs %d times',
                 base, annotator, count)
