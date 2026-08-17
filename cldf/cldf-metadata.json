@@ -4,9 +4,7 @@
     "dc:bibliographicCitation": "Bibiko, H.-H.; Koile, E.; Barlow, R.; Mamta, K.; Korobzow, N.; Appiah Tieku, E.; Rzymski, C.; List, J.-M.; Gray, R. D. (2025): Numeralbank. A Collection of Numeral Systems of the World's Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://numerals.clld.org",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF Numeralbank Analysed",
     "dcat:accessURL": "https://github.com/numeralbank/numeralbank-analysed",
@@ -14,13 +12,13 @@
         {
             "rdf:about": "https://github.com/numeralbank/numeralbank-analysed",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.9-123-gd6f9ef8c",
+            "dc:created": "v0.9.1-124-g03b11858",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -36,6 +34,24 @@
             "dc:title": "CLTS"
         },
         {
+            "rdf:about": "https://github.com/numeralbank/sand",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0-1-g37683f0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/barlowpacific",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.8",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v0.8-1-ga3e60bc",
+            "dc:title": "Repository"
+        },
+        {
             "rdf:about": "https://github.com/numeralbank/googleuninum",
             "rdf:type": "prov:Entity",
             "dc:created": "b9ece9f",
@@ -46,24 +62,6 @@
             "rdf:type": "prov:Entity",
             "dc:created": "1ff39840",
             "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/bowernnumerals",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v0.8-1-ga3e60bc",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/barlowpacific",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.8",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/numeralbank/sand",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
-            "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -73,7 +71,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.9"
+            "dc:description": "3.10.20"
         },
         {
             "dc:title": "python-packages",
@@ -85,7 +83,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 265344,
+            "dc:description": "CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, NumberValue: int | None = None, Gloss: str | None = None, GlossClean: str | None = None, GlossMath: str | None = None, GlossCalc: str | None = None)",
+            "dc:extent": 265928,
             "tableSchema": {
                 "columns": [
                     {
@@ -156,7 +155,7 @@
                         "name": "Profile"
                     },
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "name": "NumberValue"
                     },
                     {
@@ -208,7 +207,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 9121,
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, Dataset: str | None = None, BaseAnnotation: str | None = None, BaseAnnotator: str | None = None, BaseComment: str | None = None, Coverage: float | None = None, OneToThirty: float | None = None, BaseInSource: str | None = None)",
+            "dc:extent": 9120,
             "tableSchema": {
                 "columns": [
                     {
@@ -287,7 +287,7 @@
                         "name": "Coverage"
                     },
                     {
-                        "datatype": "float",
+                        "datatype": "string",
                         "name": "OneToThirty"
                     },
                     {
@@ -303,7 +303,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 169,
+            "dc:description": "Essential data of a concept mapped to Concepticon.",
+            "dc:extent": 168,
             "tableSchema": {
                 "columns": [
                     {
