@@ -39,12 +39,15 @@ data.glossed <- read.csv("../glossed/all.data.checked.csv")
 data.reglossed <- read.csv("../re-glossed/all.data.checked.csv",row.names = 1)
 doculects.good <- read.csv("../doculects.to.use.in.analyses_20260816.csv")
 
+data.glossed.unfiltered <- read.csv("../glossed/all.data.glossed.csv")
+data.reglossed.unfiltered <- read.csv("../re-glossed/all.data.glossed.csv",row.names = 1)
+
 data.merged <- rbind(data.glossed,
                      data.reglossed)
 
 length(unique(data.merged$FileName))
 # 5978 doculects
-
+# 6190 if all.data.glossed.csv
 write.csv(data.merged, "all_data.csv")
 
 
@@ -56,7 +59,15 @@ data.merged %>%
 table(doculects.good$Use_in_analyses)
 
 length(unique(data.final$FileName))
-#4856 doculects
+# 4856 doculects
+# 5048 if all.data.glossed.csv
 write.csv(data.merged, "all_data_filtered.csv")
 
+#check mismatches between glossed and checked
+data.glossed.unfiltered %>%
+  filter(!(FileName %in% data.glossed$FileName)) -> problematic.glossed
+
+
   
+data.reglossed.unfiltered %>%
+  filter(!(FileName %in% data.reglossed$FileName)) -> problematic.reglossed
