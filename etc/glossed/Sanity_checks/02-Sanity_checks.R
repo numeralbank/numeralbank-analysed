@@ -108,7 +108,7 @@ all.data %>%
 
 table(no.gloss$Glosser)
 
-write.csv(no.gloss,"no.gloss.csv")
+write.csv(no.gloss,"errors/no.gloss.csv")
 
 all.data %>%
   filter(Gloss != "") -> all.data
@@ -128,7 +128,7 @@ all.data %>%
 
 table(no.comment$Glosser)
 
-write.csv(no.comment,"no.comment.csv")
+write.csv(no.comment,"errors/no.comment.csv")
 all.data %>%
   filter(!(Gloss == "?" & (is.na(Comment_glosser) | Comment_glosser == "") ) ) -> all.data
 
@@ -168,7 +168,7 @@ all.data %>%
 
 table(non.matching.brackets$Glosser)
 
-write.csv(non.matching.brackets,"non.matching.brackets.csv")
+write.csv(non.matching.brackets,"errors/non.matching.brackets.csv")
 
 #for the time being, we kill the problematic rows:
 
@@ -268,7 +268,7 @@ ifelse(that == "[]", 0==0 ,
 
 table(forbidden.characters$Glosser)
 
-if(that != "[]"){write_csv(forbidden.characters,"forbidden.characters.csv")}
+if(that != "[]"){write_csv(forbidden.characters,"errors/forbidden.characters.csv")}
 
 all.data %>%
   filter(!(ID %in% forbidden.characters$ID)) -> all.data
@@ -316,14 +316,14 @@ this %>%
 
 table(math.not.well.defined$Glosser)
 
-write.csv(math.not.well.defined,"math.not.well.defined.csv")
+write.csv(math.not.well.defined,"errors/math.not.well.defined.csv")
 
 #07C Check the math proper
 
 this %>% 
   filter(Gloss.calc == "") -> no.math
 
-write.csv(no.math,"no.math.csv")
+write.csv(no.math,"errors/no.math.csv")
 
 
 this %>%
@@ -358,7 +358,7 @@ all.data.checked %>%
 table(bad.math$Glosser)
 
 
-write.csv(bad.math, "bad.math.csv")
+write.csv(bad.math, "errors/bad.math.csv")
 
 all.data.checked %>%
   filter(Does.math.work == TRUE) -> all.data.checked

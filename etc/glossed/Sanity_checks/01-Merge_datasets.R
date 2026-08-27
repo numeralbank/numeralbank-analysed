@@ -40,7 +40,12 @@ setwd("..")
 setwd("./Ezequiel")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
-myfiles = lapply(temp, read.csv,row.names = 1)
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
+
 length(myfiles)
 #52 files
 
@@ -77,10 +82,14 @@ setwd("..")
 setwd("./Natalie")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
-myfiles = lapply(temp, read.csv)
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 # myfiles = lapply(temp, read.csv,row.names = 1)
 length(myfiles)
-#1158 files
+#1159 files
 
 myfiles %>%
   lapply(colnames) %>% 
@@ -109,7 +118,14 @@ colnames(temp.data)
 #unique numeral ID's:
 temp.data %>%
   group_by(ID) %>%
-  filter(n()>1) 
+  filter(n()>1) -> duplicates.natalie
+
+
+
+#kill duplicate rows
+
+temp.data %>%
+  distinct() -> temp.data
 
 #TEMPO: kill superflous rows:
 
@@ -127,6 +143,10 @@ rbind(all.data,temp.data) -> all.data
 setwd("..")
 
 
+#duplicates
+write.csv(duplicates.natalie,"errors/duplicates.natalie.csv")
+
+
 
 
 #Mamta----
@@ -136,7 +156,11 @@ setwd("./Mamta")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$",
                    full.names = T)
-myfiles.0 = lapply(temp, read.csv,row.names = 1)
+myfiles.0 = lapply(temp, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.0) <- temp
 length(myfiles.0)
 #103 files from SAND
@@ -147,7 +171,11 @@ length(myfiles.0)
 setwd("./Austroasiatic/")
 temp.data <- NULL
 temp.1 = list.files( pattern="\\.csv$")
-myfiles.1 = lapply(temp.1, read.csv,row.names = 1)
+myfiles.1 = lapply(temp.1, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.1) <- temp.1
 length(myfiles.1)
 #122 files for Austroasiatic
@@ -155,7 +183,11 @@ setwd("..")
 
 setwd("./Dravidian/")
 temp.2 = list.files( pattern="\\.csv$")
-myfiles.2 = lapply(temp.2, read.csv,row.names = 1)
+myfiles.2 = lapply(temp.2, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.2) <- temp.2
 length(myfiles.2)
 #39 files for Dravidian
@@ -163,7 +195,11 @@ setwd("..")
 
 setwd("./Indo-Aryan/")
 temp.3 = list.files( pattern="\\.csv$")
-myfiles.3 = lapply(temp.3, read.csv,row.names = 1)
+myfiles.3 = lapply(temp.3, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.3) <- temp.3
 length(myfiles.3)
 #112 files for Indo-Aryan
@@ -172,7 +208,11 @@ setwd("..")
 
 setwd("./Sino-Tibetan/")
 temp.4 = list.files( pattern="\\.csv$")
-myfiles.4 = lapply(temp.4, read.csv) #issue with row.names
+myfiles.4 = lapply(temp.4, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})#issue with row.names
 names(myfiles.4) <- temp.4
 for(i in 1:length(myfiles.4)){
   myfiles.4[[i]]$X <- NULL
@@ -183,7 +223,11 @@ setwd("..")
 
 setwd("./Tai-Kadai/")
 temp.5 = list.files( pattern="\\.csv$")
-myfiles.5 = lapply(temp.5, read.csv,row.names = 1)
+myfiles.5 = lapply(temp.5, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.5) <- temp.5
 length(myfiles.5)
 #54 files for Tai-Kadai
@@ -191,7 +235,11 @@ setwd("..")
 
 setwd("./Ta-Ne Omotic/")
 temp.6 = list.files( pattern="\\.csv$")
-myfiles.6 = lapply(temp.6, read.csv,row.names = 1)
+myfiles.6 = lapply(temp.6, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
+})
 names(myfiles.6) <- temp.6
 length(myfiles.6)
 #16 files for Ta-Ne Omotic
@@ -223,15 +271,15 @@ myfiles %>%
 table(all.ncols)
 
 # all.ncols
-# 12  15
+# 13  16
 # 721  1  
 all.ncols %>%
   as.data.frame() %>%
-  filter(V1 > 12) 
+  filter(V1 > 13) 
 
 myfiles[["numerals-deor1238-1.csv"]] %>% colnames()
 
-myfiles[["numerals-deor1238-1.csv"]] <- myfiles[["numerals-deor1238-1.csv"]][,1:12]
+myfiles[["numerals-deor1238-1.csv"]] <- myfiles[["numerals-deor1238-1.csv"]][,c(1:12,16)]
 
 myfiles %>%
   lapply(colnames) %>% 
@@ -283,7 +331,11 @@ setwd("..")
 setwd("./Russell")
 temp.data <- NULL
 temp.1 = list.files( pattern="\\.csv$")
-myfiles.1 = lapply(temp.1, read.csv)
+myfiles.1 = lapply(temp.1, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 names(myfiles.1) <- temp.1
 length(myfiles.1)
 #1001 files in the first folder
@@ -291,7 +343,11 @@ setwd("..")
 
 setwd("./Russell_2/")
 temp.2 = list.files( pattern="\\.csv$")
-myfiles.2 = lapply(temp.2, read.csv)
+myfiles.2 = lapply(temp.2, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 names(myfiles.2) <- temp.2
 length(myfiles.2)
 #356 files in the second folder
@@ -299,7 +355,11 @@ setwd("..")
 
 setwd("./Russell_3/")
 temp.3 = list.files( pattern="\\.csv$")
-myfiles.3 = lapply(temp.3, read.csv)
+myfiles.3 = lapply(temp.3, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 names(myfiles.3) <- temp.3
 length(myfiles.3)
 #714 files in the third folder
@@ -308,7 +368,11 @@ setwd("..")
 
 setwd("./Russell_4/")
 temp.4 = list.files( pattern="\\.csv$")
-myfiles.4 = lapply(temp.4, read.csv)
+myfiles.4 = lapply(temp.4, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 names(myfiles.4) <- temp.4
 length(myfiles.4)
 #140 files in the third folder
@@ -317,7 +381,11 @@ setwd("..")
 
 setwd("./Russell_4/Africa")
 temp.5 = list.files( pattern="\\.csv$")
-myfiles.5 = lapply(temp.5, read.csv)
+myfiles.5 = lapply(temp.5, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
 names(myfiles.5) <- temp.5
 length(myfiles.5)
 #67 files in the third folder
@@ -345,44 +413,38 @@ myfiles %>%
   t() -> all.ncols
 table(all.ncols)
 # all.ncols
-# 13    14    15    22
+# 14    15    16    23
 # 2268     8     1     1  
 all.ncols %>%
   as.data.frame() %>%
-  filter(V1 > 13) 
+  filter(V1 > 14) 
 
-# AN0106_numerals-romb1245-1.csv                   14
-# AN0310_EDIT_abvd-1209-lawa1257_EDIT.csv          14
-# AN0401_barlowpacific-sibu1258-1.csv              14
-# AN0496_barlowpacific-baub1235-1.csv              14
-# AN0504_barlowpacific-rara1235-1.csv              14
-# AN0527_barlowpacific-lamp1243-1.csv           16384
-# AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv    22
-# PAP436_barlowpacific-mass1263-1.csv              14
-# PAP579_numerals-hewa1241-1.csv                   14
-# PAP698_barlowpacific-edol1239-3.csv              14
-# AN0659_numerals-naka1263-1.csv                   14
-
-# AN0834_numerals-kiss1246-1.csv                   14
-# AN0988_numerals-nali1244-1.csv                   14
-# AN1135_numerals-litz1237-1.csv                   14
-# AN1212_numerals-bwat1240-1.csv                   15
-# we have 15 issues now
+# V1
+# AN0106_numerals-romb1245-1.csv                15
+# AN0310_EDIT_abvd-1209-lawa1257_EDIT.csv       15
+# AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv 23
+# PAP436_barlowpacific-mass1263-1.csv           15
+# PAP579_numerals-hewa1241-1.csv                15
+# AN0659_numerals-naka1263-1.csv                15
+# AN0834_numerals-kiss1246-1.csv                15
+# AN0988_numerals-nali1244-1.csv                15
+# AN1135_numerals-litz1237-1.csv                15
+# AN1212_numerals-bwat1240-1.csv                16
 
 
 
 
-
-colnames(myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]])
-myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]] <- myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]][1:25,1:13]
+# 
+# colnames(myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]])
+# myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]] <- myfiles[["AN0527_barlowpacific-lamp1243-1.csv"]][1:25,1:13]
 
 
 colnames(myfiles[["AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv"]])
-myfiles[["AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv"]] <- myfiles[["AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv"]][,1:13]
+myfiles[["AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv"]] <- myfiles[["AN0709_EDIT_barlowpacific-cham1312-1_EDIT.csv"]][,c(1:13,23)]
 
 
 
-#The ones with 14/15 columns:
+#The ones with 15/16 columns:
 colnames(myfiles[["AN0106_numerals-romb1245-1.csv"]])
 colnames(myfiles[["AN0310_EDIT_abvd-1209-lawa1257_EDIT.csv"]])
 colnames(myfiles[["AN0401_barlowpacific-sibu1258-1.csv"]])
@@ -402,14 +464,24 @@ colnames(myfiles[["AN1212_numerals-bwat1240-1.csv"]]) #last 2 extra cols
 
 #Other than "PAP436_barlowpacific-mass1263-1.csv", they all have a spurious 14th (or 14th and 155h) column. We manually change it for that case:
 
-myfiles[["PAP436_barlowpacific-mass1263-1.csv"]] <- myfiles[["PAP436_barlowpacific-mass1263-1.csv"]][,2:14]
+myfiles[["PAP436_barlowpacific-mass1263-1.csv"]] <- myfiles[["PAP436_barlowpacific-mass1263-1.csv"]][,2:15]
 
-#And we automatically filter cols 2:13 for all (col 14 is spureus in these cases, and col 1 is spureus for all datasets)
 
+
+
+#And we automatically filter cols 2:13 (+ 15 if it exists)  all (col 14 is spureous in these cases, and col 1 is spureous for all datasets)
 
 for(i in 1:length(myfiles)){
-  myfiles[[i]] <- myfiles[[i]][,2:13]
+  ifelse(ncol(myfiles[[i]]) == 16,
+         myfiles[[i]] <- myfiles[[i]][,c(2:13,16)],
+         ifelse(ncol(myfiles[[i]]) == 15,
+         myfiles[[i]] <- myfiles[[i]][,c(2:13,15)],
+         myfiles[[i]] <- myfiles[[i]][,2:14]))
 }
+# 
+# for(i in 1:length(myfiles)){
+#   myfiles[[i]] <- myfiles[[i]][,2:13]
+# }
 
 #check column names
 
@@ -543,8 +615,9 @@ read_csv_auto <- function(path, expected_cols = NULL, drop_rownum_col = TRUE) {
     for (m in missing) df[[m]] <- NA
     # keep only expected columns and order them
     df <- dplyr::select(df, dplyr::all_of(expected_cols))
+    
   }
-  
+  df$FileName <- basename(path)
   df
 }
 
@@ -620,6 +693,11 @@ table(all.ncols$V1)
 # latestest
 
 # 8   9  11  12  13  14 
+# 154   1   1 821   4   1 
+
+#last with 15 rows
+# 
+# 9  10  12  13  14  15 
 # 154   1   1 821   4   1 
 # 
 # myfiles.II %>%
@@ -841,20 +919,21 @@ temp.data %>%
 
 
 #NO duplications
-write.csv(duplicates.enock,"duplicates.enock.csv")
+write.csv(duplicates.enock,"errors/duplicates.enock.csv")
 
 
 #kill duplicate rows
 
 temp.data %>%
   distinct() -> temp.data
+# 
+# #try again unique numeral ID's:
+# temp.data %>%
+#   group_by(ID) %>%
+#   filter(n()>1)  -> duplicates.enock.not.fully
+# write.csv(duplicates.enock.not.fully,"duplicates.enock.not.fully.csv")
 
-#try again unique numeral ID's:
-temp.data %>%
-  group_by(ID) %>%
-  filter(n()>1)  -> duplicates.enock.not.fully
-write.csv(duplicates.enock.not.fully,"duplicates.enock.not.fully.csv")
-
+#TEMPO:
 #I pick only one per ID (this should not be done when the data is corrected):
 temp.data %>%
   distinct(ID, .keep_all = T) -> temp.data
@@ -867,7 +946,7 @@ temp.data %>%
   filter(is.na(temp.data$Language_ID))
 sum(temp.data$Language_ID=="") -> Language_ID.na
 
-write.csv(Language_ID.na,"Language_ID.na.csv")
+write.csv(Language_ID.na,"errors/Language_ID.na.csv")
 
 temp.data %>%
   filter(Language_ID != "") -> temp.data
@@ -887,7 +966,7 @@ temp.data <- temp.data %>%
 temp.data %>%
   filter(!(Source == "Chan2019" | Source == "Barlow2024" | is.na(Source))) -> wrong.source
 
-write.csv(wrong.source, "wrong.source.csv")
+write.csv(wrong.source, "errors/wrong.source.csv")
 temp.data %>%
   filter(Source == "Chan2019" | is.na(Source)) -> temp.data
 
@@ -910,28 +989,46 @@ write.csv(all.duplicates,"all.duplicates.csv")
 
 table(all.duplicates$Language_ID, all.duplicates$Glosser)
 
+all.data.with.duplicates <- all.data
+#####
+# all.data.with.duplicates %>%
+#   filter(Language_ID == "numerals-gaam1241-1") -> gaam1241
+# 
+# write.csv(gaam1241, "gaam1241.csv")
 
-#TEMPO: some languages were coded twice. Keep only one:
-
-all.data %>%
-  filter(!(Language_ID == "numerals-fiji1242-1" & Glosser == "KM")) %>%
-  filter(!(Language_ID == "numerals-furr1244-1" & Glosser == "NK")) %>%
-  filter(!(Language_ID == "numerals-katl1237-1" & Glosser == "NK")) %>%
-  filter(!(Language_ID == "numerals-nuuu1241-1" & Glosser == "NK")) %>%
-  filter(!(Language_ID == "numerals-tega1236-1" & Glosser == "NK")) %>%
-  filter(!(Language_ID == "numerals-dime1235-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-gaam1241-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-gaww1239-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-kale1246-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-mang1394-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-toro1253-1" & Glosser == "EAT")) %>%
-  filter(!(Language_ID == "numerals-nobi1240-1" & Glosser == "EAT"))-> all.data
+#####
+# all.data.with.duplicates %>%
+#   group_by(ID) %>%
+#   filter(n()>1) -> all.duplicates
+# 
+# table(all.duplicates$Language_ID, all.duplicates$Glosser)
 
 
-all.data %>%
-  group_by(ID) %>%
-  filter(n()>1) -> all.duplicates
-table(all.duplicates$Language_ID, all.duplicates$Glosser)
+## well done:
+# 
+# doculects.to.use <- read.csv("../doculects.to.use.in.analyses_20260816.csv")
+# table(doculects.to.use$Use_in_analyses)
+# #TEMPO: some languages were coded twice. Keep only one:
+# 
+# all.data %>%
+#   filter(!(Language_ID == "numerals-fiji1242-1" & Glosser == "KM")) %>%
+#   filter(!(Language_ID == "numerals-furr1244-1" & Glosser == "NK")) %>%
+#   filter(!(Language_ID == "numerals-katl1237-1" & Glosser == "NK")) %>%
+#   filter(!(Language_ID == "numerals-nuuu1241-1" & Glosser == "NK")) %>%
+#   filter(!(Language_ID == "numerals-tega1236-1" & Glosser == "NK")) %>%
+#   filter(!(Language_ID == "numerals-dime1235-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-gaam1241-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-gaww1239-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-kale1246-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-mang1394-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-toro1253-1" & Glosser == "EAT")) %>%
+#   filter(!(Language_ID == "numerals-nobi1240-1" & Glosser == "EAT"))-> all.data
+
+# 
+# all.data %>%
+#   group_by(ID) %>%
+#   filter(n()>1) -> all.duplicates
+# table(all.duplicates$Language_ID, all.duplicates$Glosser)
 
 #no duplicates!
 

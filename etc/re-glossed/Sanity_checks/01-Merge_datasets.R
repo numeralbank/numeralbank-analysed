@@ -41,7 +41,12 @@ setwd("..")
 setwd("./South Asian languages_MAIN")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
-myfiles = lapply(temp, read.csv)
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
+
 names(myfiles) <- temp
 length(myfiles)
 #850 files
@@ -53,13 +58,13 @@ myfiles %>%
   cbind.data.frame() %>%  
   t() -> all.ncols
 table(all.ncols)
-
+# 
 # all.ncols
-# 13  14  15  16 
-# 845   1   2   2  
+# 14 
+# 850  
 all.ncols %>%
   as.data.frame() %>%
-  filter(V1 > 13) 
+  filter(V1 > 14) 
 
 # myfiles[[1]] %>% colnames()
 # myfiles[[1]] %>% head()
@@ -123,9 +128,13 @@ for(i in 1:ncol(all.columns)){
 
 do.call(rbind.data.frame, myfiles) -> temp.data
 
-
+setwd("..")
 #Add glosser name
-temp.data$Glosser <- "RE-GLOSSED"
+glossers <- read.csv("glossers_for_re-glossed.csv")
+
+left_join(temp.data, glossers, join_by(FileName == File) ) -> temp.data
+
+#temp.data$Glosser <- "KM+NK+RB"
 
 #basic checks
 colnames(temp.data)
@@ -135,7 +144,7 @@ temp.data %>%
   group_by(ID) %>%
   filter(n()>1) -> duplicates.SA_Main
 
-setwd("..")
+
 # write.csv(duplicates.SA_Main,"duplicates.SA_Main.csv")
 
 
@@ -157,7 +166,12 @@ rbind(all.data,temp.data) -> all.data
 setwd("./South Asian languages_alternative-doculects")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
-myfiles = lapply(temp, read.csv)
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
+
 names(myfiles) <- temp
 length(myfiles)
 #63 files
@@ -185,7 +199,9 @@ do.call(rbind.data.frame, myfiles) -> temp.data
 
 
 #Add glosser name
-temp.data$Glosser <- "RE-GLOSSED"
+# temp.data$Glosser <- "KM+NK+RB"
+
+left_join(temp.data, glossers, join_by(FileName == File) ) -> temp.data
 
 #basic checks
 colnames(temp.data)
@@ -214,7 +230,12 @@ setwd("..")
 setwd("./other languages")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
-myfiles = lapply(temp, read.csv)
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x)
+  data$FileName = x
+  data
+})
+
 names(myfiles) <- temp
 length(myfiles)
 #88 files
@@ -227,7 +248,7 @@ myfiles %>%
   t() -> all.ncols
 table(all.ncols)
 
-# 13 
+# 14 
 # 88  
 all.ncols %>%
   as.data.frame() %>%
@@ -249,9 +270,12 @@ for(i in 1:ncol(all.columns)){
 
 do.call(rbind.data.frame, myfiles) -> temp.data
 
+setwd("..")
+
 
 #Add glosser name
-temp.data$Glosser <- "RE-GLOSSED"
+# temp.data$Glosser <- "RE-GLOSSED"
+left_join(temp.data, glossers, join_by(FileName == File) ) -> temp.data
 
 #basic checks
 colnames(temp.data)
@@ -261,7 +285,6 @@ temp.data %>%
   group_by(ID) %>%
   filter(n()>1)
 
-setwd("..")
 
 
 ##no duplicated rows!
