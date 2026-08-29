@@ -89,7 +89,7 @@ myfiles = lapply(temp, function(x) {
 })
 # myfiles = lapply(temp, read.csv,row.names = 1)
 length(myfiles)
-#1159 files
+#1158 files
 
 myfiles %>%
   lapply(colnames) %>% 
@@ -537,377 +537,466 @@ rbind(all.data,temp.data) -> all.data
 
 colnames(all.data)
 
-
-#Enock----
-
-# setwd("./Enock/all_new/")
-# temp.data <- NULL
-# temp = list.files( pattern="\\.csv$")
-# myfiles = lapply(temp, read.csv,row.names = 1)
-# length(myfiles)
-
-##############
-# read_csv_auto <- function(file) {
-#   first_line <- readLines(file, n = 1)
-#   if (grepl(";", first_line)) {
-#     read.csv(file, sep = ";", stringsAsFactors = FALSE, row.names = NULL, quote = "")
-#   } else {
-#     read.csv(file, sep = ",", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+# tempo: I'll comment all Enock's folder, and load the Africa folder instead
+# #Enock----
+# 
+# # setwd("./Enock/all_new/")
+# # temp.data <- NULL
+# # temp = list.files( pattern="\\.csv$")
+# # myfiles = lapply(temp, read.csv,row.names = 1)
+# # length(myfiles)
+# 
+# ##############
+# # read_csv_auto <- function(file) {
+# #   first_line <- readLines(file, n = 1)
+# #   if (grepl(";", first_line)) {
+# #     read.csv(file, sep = ";", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+# #   } else {
+# #     read.csv(file, sep = ",", stringsAsFactors = FALSE, row.names = NULL, quote = "")
+# #   }
+# # }
+# 
+# 
+# ####
+# # deps
+# library(readr)
+# library(dplyr)
+# library(stringr)
+# 
+# # One-function, lapply-ready reader
+# read_csv_auto <- function(path, expected_cols = NULL, drop_rownum_col = TRUE) {
+#   # internal: detect delimiter from first non-empty line
+#   detect_delim <- function(p) {
+#     line <- read_lines(p, n_max = 1, lazy = FALSE)
+#     if (!length(line)) return(",")
+#     counts <- c(
+#       comma     = str_count(line, ","),
+#       semicolon = str_count(line, ";"),
+#       tab       = str_count(line, "\t")
+#     )
+#     # pick the delimiter with the highest count
+#     delim_name <- names(counts)[which.max(counts)]
+#     switch(delim_name, comma = ",", semicolon = ";", tab = "\t", ",")
 #   }
+#   
+#   delim <- detect_delim(path)
+#   
+#   df <- read_delim(
+#     file = path,
+#     delim = delim,
+#     quote = "\"",            # keep quoting ON (prevents column mixing)
+#     escape_double = TRUE,
+#     trim_ws = TRUE,
+#     col_names = TRUE,
+#     show_col_types = FALSE,
+#     guess_max = 10000,
+#     locale = locale(encoding = "UTF-8")  # handles BOM/UTF-8
+#   )
+#   
+#   # normalize header: remove BOM, trim spaces
+#   names(df) <- names(df) |>
+#     str_replace("^\\ufeff", "") |>
+#     str_trim()
+#   
+#   # optionally drop accidental row-number column
+#   if (drop_rownum_col && ncol(df) > 0) {
+#     first_name <- names(df)[1]
+#     looks_like_rownum_col <-
+#       first_name %in% c("...1", "X", "X1", "row.names", "ï..", "") ||
+#       (is.numeric(df[[1]]) &&
+#          identical(suppressWarnings(as.integer(df[[1]])), seq_len(nrow(df))))
+#     if (looks_like_rownum_col) df <- df[, -1, drop = FALSE]
+#   }
+#   
+#   # optionally enforce a canonical set & order of columns
+#   if (!is.null(expected_cols)) {
+#     # add missing columns as NA
+#     missing <- setdiff(expected_cols, names(df))
+#     for (m in missing) df[[m]] <- NA
+#     # keep only expected columns and order them
+#     df <- dplyr::select(df, dplyr::all_of(expected_cols))
+#     
+#   }
+#   df$FileName <- basename(path)
+#   df
 # }
-
-
-####
-# deps
-library(readr)
-library(dplyr)
-library(stringr)
-
-# One-function, lapply-ready reader
-read_csv_auto <- function(path, expected_cols = NULL, drop_rownum_col = TRUE) {
-  # internal: detect delimiter from first non-empty line
-  detect_delim <- function(p) {
-    line <- read_lines(p, n_max = 1, lazy = FALSE)
-    if (!length(line)) return(",")
-    counts <- c(
-      comma     = str_count(line, ","),
-      semicolon = str_count(line, ";"),
-      tab       = str_count(line, "\t")
-    )
-    # pick the delimiter with the highest count
-    delim_name <- names(counts)[which.max(counts)]
-    switch(delim_name, comma = ",", semicolon = ";", tab = "\t", ",")
-  }
-  
-  delim <- detect_delim(path)
-  
-  df <- read_delim(
-    file = path,
-    delim = delim,
-    quote = "\"",            # keep quoting ON (prevents column mixing)
-    escape_double = TRUE,
-    trim_ws = TRUE,
-    col_names = TRUE,
-    show_col_types = FALSE,
-    guess_max = 10000,
-    locale = locale(encoding = "UTF-8")  # handles BOM/UTF-8
-  )
-  
-  # normalize header: remove BOM, trim spaces
-  names(df) <- names(df) |>
-    str_replace("^\\ufeff", "") |>
-    str_trim()
-  
-  # optionally drop accidental row-number column
-  if (drop_rownum_col && ncol(df) > 0) {
-    first_name <- names(df)[1]
-    looks_like_rownum_col <-
-      first_name %in% c("...1", "X", "X1", "row.names", "ï..", "") ||
-      (is.numeric(df[[1]]) &&
-         identical(suppressWarnings(as.integer(df[[1]])), seq_len(nrow(df))))
-    if (looks_like_rownum_col) df <- df[, -1, drop = FALSE]
-  }
-  
-  # optionally enforce a canonical set & order of columns
-  if (!is.null(expected_cols)) {
-    # add missing columns as NA
-    missing <- setdiff(expected_cols, names(df))
-    for (m in missing) df[[m]] <- NA
-    # keep only expected columns and order them
-    df <- dplyr::select(df, dplyr::all_of(expected_cols))
-    
-  }
-  df$FileName <- basename(path)
-  df
-}
-
-# --- usage ---
-# myfiles.I <- lapply(temp.I, read_csv_auto)
-# If you want to bind them all together and keep the source file:
+# 
+# # --- usage ---
+# # myfiles.I <- lapply(temp.I, read_csv_auto)
+# # If you want to bind them all together and keep the source file:
+# # names(myfiles.I) <- temp.I
+# # all_data <- dplyr::bind_rows(myfiles.I, .id = "source_file")
+# 
+#   
+# 
+# ####
+# 
+# # setwd("./Enock/all_new/")
+# setwd("./enock")
+# temp.data.I <- NULL
+# temp.I = list.files( pattern="\\.csv$")
+# 
+# 
+# myfiles.I = lapply(temp.I, read_csv_auto)
 # names(myfiles.I) <- temp.I
-# all_data <- dplyr::bind_rows(myfiles.I, .id = "source_file")
-
-  
-
-####
-
-# setwd("./Enock/all_new/")
-setwd("./enock")
-temp.data.I <- NULL
-temp.I = list.files( pattern="\\.csv$")
-
-
-myfiles.I = lapply(temp.I, read_csv_auto)
-names(myfiles.I) <- temp.I
-
-# myfiles.I = lapply(temp.I, read.csv2,quote = "",
-#                    row.names = NULL,
-#                    stringsAsFactors = FALSE)
-
-length(myfiles.I)
-#982 files
-setwd("..")
-
-
-#setwd("..")
-
-setwd("./enock")
-# setwd("./Enock/all_new/")
-temp.data.II <- NULL
-temp.II = list.files( pattern="\\.tsv$")
-
-myfiles.II = lapply(temp.II, read_delim,quote = "")
-names(myfiles.II) <- temp.II
-
-length(myfiles.II)
-#0 files
-setwd("..")
-#setwd("..")
-
-
-myfiles.I %>%
-  lapply(ncol) %>% 
-  cbind.data.frame() %>%  
-  t() %>%
-  as.data.frame() %>%
-  rownames_to_column("Language_ID")-> all.ncols
-
-table(all.ncols$V1)
-#old
-# 8       9  12  13  14 
-# 175     1 540 215   3 
-# new
 # 
-# 8   9  12  13  14 
-# 114   1 504 125   1 
-# newer
-#  1   8  12  13 
-# 249  36 428  90 
-
-# newest
-#  8   9  12  13 
-# 149  1 648  5 
-# latest
-# 8   9  12  13 
-# 155   1 822   5 
-# latestest
-
-# 8   9  11  12  13  14 
-# 154   1   1 821   4   1 
-
-#last with 15 rows
+# # myfiles.I = lapply(temp.I, read.csv2,quote = "",
+# #                    row.names = NULL,
+# #                    stringsAsFactors = FALSE)
 # 
-# 9  10  12  13  14  15 
-# 154   1   1 821   4   1 
+# length(myfiles.I)
+# #982 files
+# setwd("..")
 # 
-# myfiles.II %>%
+# 
+# #setwd("..")
+# 
+# setwd("./enock")
+# # setwd("./Enock/all_new/")
+# temp.data.II <- NULL
+# temp.II = list.files( pattern="\\.tsv$")
+# 
+# myfiles.II = lapply(temp.II, read_delim,quote = "")
+# names(myfiles.II) <- temp.II
+# 
+# length(myfiles.II)
+# #0 files
+# setwd("..")
+# #setwd("..")
+# 
+# 
+# myfiles.I %>%
 #   lapply(ncol) %>% 
 #   cbind.data.frame() %>%  
-#   t() -> all.ncols
+#   t() %>%
+#   as.data.frame() %>%
+#   rownames_to_column("Language_ID")-> all.ncols
 # 
-# table(all.ncols)
-# # all.ncols
-# # 13 
-# # 2
-# myfiles.II <- purrr::map(myfiles.II, as.data.frame)
-
-
-
-
-
-#files <- c(myfiles.I, myfiles.II)
-files <- myfiles.I
-
-
-#check column names
-
-# # Ensure the list is named
-# if (is.null(names(files))) names(files) <- paste0("df", seq_along(files))
+# table(all.ncols$V1)
+# #old
+# # 8       9  12  13  14 
+# # 175     1 540 215   3 
+# # new
+# # 
+# # 8   9  12  13  14 
+# # 114   1 504 125   1 
+# # newer
+# #  1   8  12  13 
+# # 249  36 428  90 
 # 
-# # Sanitize column names in each df: replace "" with ".empty_1", ".empty_2", ... and ensure uniqueness
-# clean_files <- imap(files, ~{
-#   nm <- names(.x) %>% replace_na("") %>% trimws()
-#   if (any(!nzchar(nm))) nm[!nzchar(nm)] <- paste0(".empty_", seq_len(sum(!nzchar(nm))))
-#   nm <- make.unique(nm)              # handle duplicates within a df
-#   names(.x) <- nm
-#   .x
+# # newest
+# #  8   9  12  13 
+# # 149  1 648  5 
+# # latest
+# # 8   9  12  13 
+# # 155   1 822   5 
+# # latestest
+# 
+# # 8   9  11  12  13  14 
+# # 154   1   1 821   4   1 
+# 
+# #last with 15 rows
+# # 
+# # 9  10  12  13  14  15 
+# # 154   1   1 821   4   1 
+# # 
+# # myfiles.II %>%
+# #   lapply(ncol) %>% 
+# #   cbind.data.frame() %>%  
+# #   t() -> all.ncols
+# # 
+# # table(all.ncols)
+# # # all.ncols
+# # # 13 
+# # # 2
+# # myfiles.II <- purrr::map(myfiles.II, as.data.frame)
+# 
+# 
+# 
+# 
+# 
+# #files <- c(myfiles.I, myfiles.II)
+# files <- myfiles.I
+# 
+# 
+# #check column names
+# 
+# # # Ensure the list is named
+# # if (is.null(names(files))) names(files) <- paste0("df", seq_along(files))
+# # 
+# # # Sanitize column names in each df: replace "" with ".empty_1", ".empty_2", ... and ensure uniqueness
+# # clean_files <- imap(files, ~{
+# #   nm <- names(.x) %>% replace_na("") %>% trimws()
+# #   if (any(!nzchar(nm))) nm[!nzchar(nm)] <- paste0(".empty_", seq_len(sum(!nzchar(nm))))
+# #   nm <- make.unique(nm)              # handle duplicates within a df
+# #   names(.x) <- nm
+# #   .x
+# # })
+# # 
+# # # Build presence/absence matrix
+# # col_summary <- clean_files %>%
+# #   imap(~ tibble(file = .y, column = unique(names(.x)))) %>%  # unique() avoids dup counts
+# #   list_rbind() %>%
+# #   mutate(present = 1L) %>%
+# #   pivot_wider(names_from = column, values_from = present, values_fill = 0L)
+# # 
+# # col_summary
+# # 
+# # col_summary %>%
+# #   summarise(across(where(is.numeric), sum, na.rm = TRUE)) -> col_summary_sums
+# # 
+# # ncol(col_summary)
+# # # 35 columns
+# # 
+# # #fix initial "X." and final "."
+# # 
+# # for(i in 1:length(clean_files)){
+# #   colnames(clean_files[[i]]) <- sub("^X\\.", "", colnames(clean_files[[i]]))
+# #   colnames(clean_files[[i]]) <- sub("\\.$", "", colnames(clean_files[[i]]))
+# # }
+# # 
+# # # Build presence/absence matrix
+# # col_summary <- clean_files %>%
+# #   imap(~ tibble(file = .y, column = unique(names(.x)))) %>%  # unique() avoids dup counts
+# #   list_rbind() %>%
+# #   mutate(present = 1L) %>%
+# #   pivot_wider(names_from = column, values_from = present, values_fill = 0L)
+# # 
+# # col_summary
+# # ncol(col_summary)
+# # 
+# # # we reduced the ncol(col_summary) from 35 to 20
+# # #stats:
+# # col_summary %>%
+# #   summarise(across(where(is.numeric), sum, na.rm = TRUE)) -> col_summary_sums
+# 
+# #merge considering missing columns:
+# 
+# # cleanup:
+# clean_files <- purrr::map(files, ~{
+#   nm <- names(.x)
+#   nm[!nzchar(nm)] <- paste0(".empty_", seq_len(sum(!nzchar(nm))))  # fix empty names
+#   names(.x) <- make.unique(nm)
+#   dplyr::mutate(.x, dplyr::across(where(is.factor), as.character))
 # })
 # 
-# # Build presence/absence matrix
-# col_summary <- clean_files %>%
-#   imap(~ tibble(file = .y, column = unique(names(.x)))) %>%  # unique() avoids dup counts
-#   list_rbind() %>%
-#   mutate(present = 1L) %>%
-#   pivot_wider(names_from = column, values_from = present, values_fill = 0L)
+# #convert all to character to avoid mismatches
+# files_char <- purrr::map(clean_files, ~ mutate(.x, across(everything(), as.character)))
 # 
-# col_summary
 # 
-# col_summary %>%
-#   summarise(across(where(is.numeric), sum, na.rm = TRUE)) -> col_summary_sums
+# merged <- dplyr::bind_rows(files_char, .id = "source")
 # 
-# ncol(col_summary)
-# # 35 columns
+# # files[["numerals-soni1259-1.csv"]] %>% View()
+# # files[["abar1238.csv"]] %>% View()
+# 
+# 
+# colnames(all.data)
+# colnames(merged)
+# #table(merged$row.names)
+# 
+# #extra columns
+# colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
+# 
+# ncol(merged)
+# #35 columns
+# #25 columns
+# #19 columns
 # 
 # #fix initial "X." and final "."
 # 
-# for(i in 1:length(clean_files)){
-#   colnames(clean_files[[i]]) <- sub("^X\\.", "", colnames(clean_files[[i]]))
-#   colnames(clean_files[[i]]) <- sub("\\.$", "", colnames(clean_files[[i]]))
+# for(i in 1:length(files_char)){
+#   colnames(files_char[[i]]) <- sub("^X\\.", "", colnames(files_char[[i]]))
+#   colnames(files_char[[i]]) <- sub("\\.$", "", colnames(files_char[[i]]))
+# }
+#   
+#    
+# 
+# merged <- dplyr::bind_rows(files_char, .id = "source")
+# 
+# #Add glosser name
+# merged$Glosser <- "EAT"
+# 
+# 
+# colnames(all.data)
+# colnames(merged)
+# ncol(merged)
+# #reduced from 36 to 21 columns. Still 8 too much (there are 13 including Glosser)
+# #reduced from 25 to 24 columns. Still 8 too much (there are 13 including Glosser)
+# #no reduction
+# 
+# #extra columns
+# colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
+# 
+# #remove unused columns:
+# merged %>%
+#   dplyr::select(-c(glottocode)) -> tmp
+# 
+# 
+# #explore unclear rows:
+# ## source stands for filename, not Source. I remove it:
+# tmp %>%
+#   dplyr::select(-source) -> tmp
+# 
+# ## row.names, X, ...1: superflouous columns
+# tmp %>%
+#   dplyr::select(-c(...13, ...7,...14)) -> tmp
+# # dplyr::select(-c(row.names,X,...1)) -> tmp
+# 
+# 
+# #merge obvious columns
+# 
+# ## Alternate_Gloss / Alternate_gloss
+# 
+# conflicts <- tmp %>%
+#   filter(!is.na(Alternate_Gloss), Alternate_Gloss != "", !is.na(Alternate_gloss), Alternate_gloss != "")
+# if (nrow(conflicts) > 0) {
+#   warning(paste("There are", nrow(conflicts), "rows where both columns are filled."))
 # }
 # 
-# # Build presence/absence matrix
-# col_summary <- clean_files %>%
-#   imap(~ tibble(file = .y, column = unique(names(.x)))) %>%  # unique() avoids dup counts
-#   list_rbind() %>%
-#   mutate(present = 1L) %>%
-#   pivot_wider(names_from = column, values_from = present, values_fill = 0L)
 # 
-# col_summary
-# ncol(col_summary)
+# tmp <- tmp %>%
+#   mutate(
+#     # New unified column
+#     Alternate_Gloss_ok = case_when(
+#       !is.na(Alternate_Gloss) & Alternate_Gloss != "" & (is.na(Alternate_gloss) | Alternate_gloss == "") ~ Alternate_Gloss,
+#       (is.na(Alternate_Gloss) | Alternate_Gloss == "") & !is.na(Alternate_gloss) & Alternate_gloss != "" ~ Alternate_gloss,
+#       (is.na(Alternate_Gloss) | Alternate_Gloss == "") & (is.na(Alternate_gloss) | Alternate_gloss == "") ~ NA_character_,
+#       # if both have values (conflict)
+#       TRUE ~ {
+#         warning("Some rows have both 'Alternate_Gloss' and 'Alternate_gloss' filled.")
+#         Alternate_Gloss  
+#       }
+#     )
+#   ) %>%
+#   select(-Alternate_Gloss, -Alternate_gloss)  # remove originals
 # 
-# # we reduced the ncol(col_summary) from 35 to 20
-# #stats:
-# col_summary %>%
-#   summarise(across(where(is.numeric), sum, na.rm = TRUE)) -> col_summary_sums
+# 
+# ## Comment_Glosser / Comment_glosser
+# 
+# conflicts <- tmp %>%
+#   filter(!is.na(Comment_Glosser), Comment_Glosser != "", !is.na(Comment_glosser), Comment_glosser != "")
+# if (nrow(conflicts) > 0) {
+#   warning(paste("There are", nrow(conflicts), "rows where both columns are filled."))
+# }
+# 
+# 
+# tmp <- tmp %>%
+#   mutate(
+#     # New unified column
+#     Comment_Glosser_ok = case_when(
+#       !is.na(Comment_Glosser) & Comment_Glosser != "" & (is.na(Comment_glosser) | Comment_glosser == "") ~ Comment_Glosser,
+#       (is.na(Comment_Glosser) | Comment_Glosser == "") & !is.na(Comment_glosser) & Comment_glosser != "" ~ Comment_glosser,
+#       (is.na(Comment_Glosser) | Comment_Glosser == "") & (is.na(Comment_glosser) | Comment_glosser == "") ~ NA_character_,
+#       # if both have values (conflict)
+#       TRUE ~ {
+#         warning("Some rows have both 'Comment_Glosser' and 'Comment_glosser' filled.")
+#         Comment_Glosser  
+#       }
+#     )
+#   ) %>%
+#   select(-Comment_Glosser, -Comment_glosser)  # remove originals
+# 
+# 
+# tmp <- tmp %>%
+#   rename(
+#     Alternate_gloss = Alternate_Gloss_ok,
+#     Comment_glosser = Comment_Glosser_ok
+#   )
+# 
+# tmp -> temp.data
+# #########
+# 
+# 
+# 
+# 
+# #basic checks
+# colnames(temp.data)
+# 
+# #unique numeral ID's:
+# temp.data %>%
+#   group_by(ID) %>%
+#   filter(n()>1) -> duplicates.enock
+# 
+# 
+# #NO duplications
+# write.csv(duplicates.enock,"errors/duplicates.enock.csv")
+# 
+# 
+# #kill duplicate rows
+# 
+# temp.data %>%
+#   distinct() -> temp.data
+# # 
+# # #try again unique numeral ID's:
+# # temp.data %>%
+# #   group_by(ID) %>%
+# #   filter(n()>1)  -> duplicates.enock.not.fully
+# # write.csv(duplicates.enock.not.fully,"duplicates.enock.not.fully.csv")
+# 
+# #TEMPO:
+# #I pick only one per ID (this should not be done when the data is corrected):
+# temp.data %>%
+#   distinct(ID, .keep_all = T) -> temp.data
+# 
+# #all Language_ID's present
+# -sort(-table(temp.data$Language_ID, useNA = "ifany"))
+# sum(is.na(temp.data$Language_ID))
+# #0 cases of Language_ID = NA
+# temp.data %>%
+#   filter(is.na(temp.data$Language_ID))
+# sum(temp.data$Language_ID=="") -> Language_ID.na
+# 
+# write.csv(Language_ID.na,"errors/Language_ID.na.csv")
+# 
+# temp.data %>%
+#   filter(Language_ID != "") -> temp.data
+# 
+# 
+# temp.data %>%
+#   filter(!is.na(Language_ID)) -> temp.data
+# 
+# #all Sources present
+# -sort(-table(temp.data$Source, useNA = "ifany"))
+# 
+# #keep only known sources or NA
+# temp.data <- temp.data %>%
+#   mutate(Source = str_replace_all(Source, '^"|"$', ''))
+#   
+# 
+# temp.data %>%
+#   filter(!(Source == "Chan2019" | Source == "Barlow2024" | is.na(Source))) -> wrong.source
+# 
+# write.csv(wrong.source, "errors/wrong.source.csv")
+# temp.data %>%
+#   filter(Source == "Chan2019" | is.na(Source)) -> temp.data
+# 
+# colnames(all.data)
+# rbind(all.data,temp.data) -> all.data
+# 
+# 
+# 
 
-#merge considering missing columns:
 
-# cleanup:
-clean_files <- purrr::map(files, ~{
-  nm <- names(.x)
-  nm[!nzchar(nm)] <- paste0(".empty_", seq_len(sum(!nzchar(nm))))  # fix empty names
-  names(.x) <- make.unique(nm)
-  dplyr::mutate(.x, dplyr::across(where(is.factor), as.character))
+#Africa----
+
+
+setwd("./Africa")
+temp.data <- NULL
+temp = list.files( pattern="\\.csv$")
+myfiles = lapply(temp, function(x) {
+  data = read.csv(x, row.names = 1)
+  data$FileName = x
+  data
 })
 
-#convert all to character to avoid mismatches
-files_char <- purrr::map(clean_files, ~ mutate(.x, across(everything(), as.character)))
+length(myfiles)
+#944 files
 
-
-merged <- dplyr::bind_rows(files_char, .id = "source")
-
-# files[["numerals-soni1259-1.csv"]] %>% View()
-# files[["abar1238.csv"]] %>% View()
-
-
-colnames(all.data)
-colnames(merged)
-#table(merged$row.names)
-
-#extra columns
-colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
-
-ncol(merged)
-#35 columns
-#25 columns
-#19 columns
-
-#fix initial "X." and final "."
-
-for(i in 1:length(files_char)){
-  colnames(files_char[[i]]) <- sub("^X\\.", "", colnames(files_char[[i]]))
-  colnames(files_char[[i]]) <- sub("\\.$", "", colnames(files_char[[i]]))
-}
-  
-   
-
-merged <- dplyr::bind_rows(files_char, .id = "source")
+#Merge all datasets
+do.call(rbind.data.frame, myfiles) -> temp.data
 
 #Add glosser name
-merged$Glosser <- "EAT"
-
-
-colnames(all.data)
-colnames(merged)
-ncol(merged)
-#reduced from 36 to 21 columns. Still 8 too much (there are 13 including Glosser)
-#reduced from 25 to 24 columns. Still 8 too much (there are 13 including Glosser)
-#no reduction
-
-#extra columns
-colnames(merged)[!(colnames(merged) %in% colnames(all.data))]
-
-#remove unused columns:
-merged %>%
-  dplyr::select(-c(glottocode)) -> tmp
-
-
-#explore unclear rows:
-## source stands for filename, not Source. I remove it:
-tmp %>%
-  dplyr::select(-source) -> tmp
-
-## row.names, X, ...1: superflouous columns
-tmp %>%
-  dplyr::select(-c(...13, ...7,...14)) -> tmp
-# dplyr::select(-c(row.names,X,...1)) -> tmp
-
-
-#merge obvious columns
-
-## Alternate_Gloss / Alternate_gloss
-
-conflicts <- tmp %>%
-  filter(!is.na(Alternate_Gloss), Alternate_Gloss != "", !is.na(Alternate_gloss), Alternate_gloss != "")
-if (nrow(conflicts) > 0) {
-  warning(paste("There are", nrow(conflicts), "rows where both columns are filled."))
-}
-
-
-tmp <- tmp %>%
-  mutate(
-    # New unified column
-    Alternate_Gloss_ok = case_when(
-      !is.na(Alternate_Gloss) & Alternate_Gloss != "" & (is.na(Alternate_gloss) | Alternate_gloss == "") ~ Alternate_Gloss,
-      (is.na(Alternate_Gloss) | Alternate_Gloss == "") & !is.na(Alternate_gloss) & Alternate_gloss != "" ~ Alternate_gloss,
-      (is.na(Alternate_Gloss) | Alternate_Gloss == "") & (is.na(Alternate_gloss) | Alternate_gloss == "") ~ NA_character_,
-      # if both have values (conflict)
-      TRUE ~ {
-        warning("Some rows have both 'Alternate_Gloss' and 'Alternate_gloss' filled.")
-        Alternate_Gloss  
-      }
-    )
-  ) %>%
-  select(-Alternate_Gloss, -Alternate_gloss)  # remove originals
-
-
-## Comment_Glosser / Comment_glosser
-
-conflicts <- tmp %>%
-  filter(!is.na(Comment_Glosser), Comment_Glosser != "", !is.na(Comment_glosser), Comment_glosser != "")
-if (nrow(conflicts) > 0) {
-  warning(paste("There are", nrow(conflicts), "rows where both columns are filled."))
-}
-
-
-tmp <- tmp %>%
-  mutate(
-    # New unified column
-    Comment_Glosser_ok = case_when(
-      !is.na(Comment_Glosser) & Comment_Glosser != "" & (is.na(Comment_glosser) | Comment_glosser == "") ~ Comment_Glosser,
-      (is.na(Comment_Glosser) | Comment_Glosser == "") & !is.na(Comment_glosser) & Comment_glosser != "" ~ Comment_glosser,
-      (is.na(Comment_Glosser) | Comment_Glosser == "") & (is.na(Comment_glosser) | Comment_glosser == "") ~ NA_character_,
-      # if both have values (conflict)
-      TRUE ~ {
-        warning("Some rows have both 'Comment_Glosser' and 'Comment_glosser' filled.")
-        Comment_Glosser  
-      }
-    )
-  ) %>%
-  select(-Comment_Glosser, -Comment_glosser)  # remove originals
-
-
-tmp <- tmp %>%
-  rename(
-    Alternate_gloss = Alternate_Gloss_ok,
-    Comment_glosser = Comment_Glosser_ok
-  )
-
-tmp -> temp.data
-#########
-
-
-
+temp.data$Glosser <- "EAT"
 
 #basic checks
 colnames(temp.data)
@@ -915,67 +1004,19 @@ colnames(temp.data)
 #unique numeral ID's:
 temp.data %>%
   group_by(ID) %>%
-  filter(n()>1) -> duplicates.enock
-
-
-#NO duplications
-write.csv(duplicates.enock,"errors/duplicates.enock.csv")
-
-
-#kill duplicate rows
-
-temp.data %>%
-  distinct() -> temp.data
-# 
-# #try again unique numeral ID's:
-# temp.data %>%
-#   group_by(ID) %>%
-#   filter(n()>1)  -> duplicates.enock.not.fully
-# write.csv(duplicates.enock.not.fully,"duplicates.enock.not.fully.csv")
-
-#TEMPO:
-#I pick only one per ID (this should not be done when the data is corrected):
-temp.data %>%
-  distinct(ID, .keep_all = T) -> temp.data
+  filter(n()>1)
 
 #all Language_ID's present
 -sort(-table(temp.data$Language_ID, useNA = "ifany"))
+
 sum(is.na(temp.data$Language_ID))
-#0 cases of Language_ID = NA
-temp.data %>%
-  filter(is.na(temp.data$Language_ID))
-sum(temp.data$Language_ID=="") -> Language_ID.na
-
-write.csv(Language_ID.na,"errors/Language_ID.na.csv")
-
-temp.data %>%
-  filter(Language_ID != "") -> temp.data
-
-
-temp.data %>%
-  filter(!is.na(Language_ID)) -> temp.data
 
 #all Sources present
 -sort(-table(temp.data$Source, useNA = "ifany"))
 
-#keep only known sources or NA
-temp.data <- temp.data %>%
-  mutate(Source = str_replace_all(Source, '^"|"$', ''))
-  
-
-temp.data %>%
-  filter(!(Source == "Chan2019" | Source == "Barlow2024" | is.na(Source))) -> wrong.source
-
-write.csv(wrong.source, "errors/wrong.source.csv")
-temp.data %>%
-  filter(Source == "Chan2019" | is.na(Source)) -> temp.data
-
-colnames(all.data)
 rbind(all.data,temp.data) -> all.data
 
-
-
-
+setwd("..")
 #organize data-----
 
 
