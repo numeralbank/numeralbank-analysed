@@ -984,7 +984,7 @@ setwd("./Africa")
 temp.data <- NULL
 temp = list.files( pattern="\\.csv$")
 myfiles = lapply(temp, function(x) {
-  data = read.csv(x, row.names = 1)
+  data = read.csv(x)
   data$FileName = x
   data
 })
@@ -992,8 +992,33 @@ myfiles = lapply(temp, function(x) {
 length(myfiles)
 #944 files
 
+
+
+myfiles %>%
+  lapply(ncol) %>% 
+  cbind.data.frame() %>%  
+  t() -> all.ncols
+table(all.ncols)
+# 14  15  17 
+# 942   1   1  
+all.ncols %>%
+  as.data.frame() %>%
+  filter(V1 > 14) 
+
+which(sapply(myfiles, ncol) > 14)
+
+myfiles[[55]] %>% colnames()
+myfiles[[107]] %>% colnames()
+
+myfiles[[55]] <- myfiles[[55]][,-c(2:4)]
+myfiles[[107]] <- myfiles[[107]][,-14]
+
+
+
 #Merge all datasets
 do.call(rbind.data.frame, myfiles) -> temp.data
+
+temp.data <- temp.data[,-1]
 
 #Add glosser name
 temp.data$Glosser <- "EAT"

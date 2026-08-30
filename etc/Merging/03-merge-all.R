@@ -71,8 +71,8 @@ length(unique(data.glossed.merged.filtered$FileName))
 length(unique(data.glossed.checked.merged.filtered$FileName))
 # 5048 doculects should be filtered
 # 4990 doculects are checked and filtered
-write.csv(data.glossed.filtered, "data.glossed.merged.filtered.csv")
-write.csv(data.glossed.checked.filtered, "data.glossed.checked.merged.filtered.csv")
+write.csv(data.glossed.merged.filtered, "data.glossed.merged.filtered.csv")
+write.csv(data.glossed.checked.merged.filtered, "data.glossed.checked.merged.filtered.csv")
 
 #check mismatches between glossed and checked
 
@@ -135,3 +135,4 @@ write.csv(problematic.doculects.filtered, "problematic.doculects.filtered.csv")
 #   filter(Glosser == "EAT") -> enocks.columns
 # 
 # write.csv(enocks.columns, "enocks.columns.csv")
+
