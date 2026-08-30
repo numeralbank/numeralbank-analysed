@@ -17,7 +17,7 @@
 16,numerals-bemb1257-1-sixteen-1,numerals-bemb1257-1,Chan2019,sixteen,16,íkúmí nà mùtándá,ikuminamutanda,,false,{CL”}10+{+}{CL’}6,,
 17,numerals-bemb1257-1-seventeen-1,numerals-bemb1257-1,Chan2019,seventeen,17,íkúmí nà cínè-lùbálí,ikuminacinelubali,,false,{CL”}10+{+}{CL}4+{CL?}3’,,
 18,numerals-bemb1257-1-eighteen-1,numerals-bemb1257-1,Chan2019,eighteen,18,íkúmí nà cínè-kònsè,ikuminacinekonse,,false,{CL”}10+{+}{CL}4+4’,,
-19,numerals-bemb1257-1-nineteen-1,numerals-bemb1257-1,Chan2019,nineteen,19,íkúmí nà pààbúlá,ikuminapaabula,,false,{CL”}10+{+}0,,
+19,numerals-bemb1257-1-nineteen-1,numerals-bemb1257-1,Chan2019,nineteen,19,íkúmí nà pààbúlá,ikuminapaabula,,false,{CL”}10+{+}9,,{CL”}10+{+}([10]-1')
 20,numerals-bemb1257-1-twenty-1,numerals-bemb1257-1,Chan2019,twenty,20,ámàkúmí yà bìlì,amakumiyabili,,false,{CL””’}10·{·}2,,
 21,numerals-bemb1257-1-twentyone-1,numerals-bemb1257-1,Chan2019,twentyone,21,ámàkúmí yà bìlì nà cìmò,amakumiyabilinacimo,,false,({CL””’}10·{·}2)+{+}{CL}1,,
 22,numerals-bemb1257-1-twentytwo-1,numerals-bemb1257-1,Chan2019,twentytwo,22,ámàkúmí yà bìlì nà fìbìlì,amakumiyabilinafibili,,false,({CL””’}10·{·}2)+{+}{CL’}2,,
@@ -27,15 +27,15 @@
 26,numerals-bemb1257-1-twentysix-1,numerals-bemb1257-1,Chan2019,twentysix,26,ámàkúmí yà bìlì nà mùtándá,amakumiyabilinamutanda,,false,({CL””’}10·{·}2)+{+}{CL”}6,,
 27,numerals-bemb1257-1-twentyseven-1,numerals-bemb1257-1,Chan2019,twentyseven,27,ámàkúmí yà bìlì nà cínè-lùbálí,amakumiyabilinacinelubali,,false,({CL””’}10·{·}2)+{+}{CL}4+{CL?}3’,,
 28,numerals-bemb1257-1-twentyeight-1,numerals-bemb1257-1,Chan2019,twentyeight,28,ámàkúmí yà bìlì nà cínè-kònsè,amakumiyabilinacinekonse,,false,({CL””’}10·{·}2)+{+}{CL}4+4’,,
-29,numerals-bemb1257-1-twentynine-1,numerals-bemb1257-1,Chan2019,twentynine,29,ámàkúmí yà bìlì nà pààbúlá,amakumiyabilinapaabula,,false,({CL””’}10·{·}2)+{+}9,,
+29,numerals-bemb1257-1-twentynine-1,numerals-bemb1257-1,Chan2019,twentynine,29,ámàkúmí yà bìlì nà pààbúlá,amakumiyabilinapaabula,,false,({CL””’}10·{·}2)+{+}9,,({CL””’}10·{·}2)+{+}([10]-1')
 30,numerals-bemb1257-1-thirty-1,numerals-bemb1257-1,Chan2019,thirty,30,ámàkúmí yà tatu,amakumiyatatu,,false,{CL””’}10·{·}3,,
 31,numerals-bemb1257-1-forty-1,numerals-bemb1257-1,Chan2019,forty,40,ámàkúmí yà ne,amakumiyane,,false,{CL””’}10·{·}4,,
 32,numerals-bemb1257-1-fifty-1,numerals-bemb1257-1,Chan2019,fifty,50,ámàkúmí yà saano,amakumiyasaano,,false,{CL””’}10·{·}5,,
 33,numerals-bemb1257-1-sixty-1,numerals-bemb1257-1,Chan2019,sixty,60,ámàkúmí mùtándá,amakumimutanda,,false,{CL””’}10·{·}{CL”}6,,
 34,numerals-bemb1257-1-seventy-1,numerals-bemb1257-1,Chan2019,seventy,70,ámàkúmí cínè-lùbálí,amakumicinelubali,,false,{CL””’}10·{·}({CL”}4+{CL?}3’),,
 35,numerals-bemb1257-1-eighty-1,numerals-bemb1257-1,Chan2019,eighty,80,ámàkúmí cínè-kònsè,amakumicinekonse,,false,{CL””’}10·{·}({CL}4+4’),,
-36,numerals-bemb1257-1-ninety-1,numerals-bemb1257-1,Chan2019,ninety,90,ámàkúmí pààbúlá,amakumipaabula,,false,{CL””’}10·{·}9,,
-37,numerals-bemb1257-1-hundred-1,numerals-bemb1257-1,Chan2019,hundred,100,ùmwándá ùmò,umwandaumo,,false,"{CL”""""}1000·{CL”""""}1",,
+36,numerals-bemb1257-1-ninety-1,numerals-bemb1257-1,Chan2019,ninety,90,ámàkúmí pààbúlá,amakumipaabula,,false,{CL””’}10·{·}9,,{CL””’}10·{·}([10]-1')
+37,numerals-bemb1257-1-hundred-1,numerals-bemb1257-1,Chan2019,hundred,100,ùmwándá ùmò,umwandaumo,,false,"{CL”""""}100·{CL”""""}1",,
 38,numerals-bemb1257-1-twohundred-1,numerals-bemb1257-1,Chan2019,twohundred,200,ìmyándá ìbìlì,imyandaibili,,false,"{CL”}100·{CL""}2",,
 39,numerals-bemb1257-1-thousand-1,numerals-bemb1257-1,Chan2019,thousand,1000,ìkànà lìmò,ikanalimo,,false,"{CL”}1000·{CL”""}1",,
 40,numerals-bemb1257-1-twothousand-1,numerals-bemb1257-1,Chan2019,twothousand,2000,àmákànà yà bìlì,amakanayabili,,false,{CL”}1000·{·}{CL””}2,,
