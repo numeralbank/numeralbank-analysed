@@ -1,24 +1,5 @@
 #load libraries----
-library(groundhog)
-#install.packages("systemfonts", type = "binary")
-library(systemfonts)
-my.date <- "2025-10-01"
-pkgs <- c("tidyverse",
-          "ggplot2",
-          "cowplot",
-          "RColorBrewer",
-          "randomcoloR",
-          "forcats",
-          "readr",
-          "maps",
-          "mapproj",
-          "viridis",
-          "reshape2",
-          "english",
-          "purrr")
-groundhog.library(pkgs,my.date, ignore.deps = "systemfonts")
-
-
+library(tidyverse)
 options(tidyverse.quiet = TRUE)
 
 #set working directory and load data----
