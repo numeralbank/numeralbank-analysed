@@ -140,7 +140,7 @@ all.data %>%
   mutate(Gloss = str_replace_all(Gloss,"·", "⋅"),
          # Gloss = str_replace_all(Gloss,"\\.", "⋅"), NOT! THERE IS 12.5 IN MESOAMERICAN LANGUAGES
          Gloss = str_replace_all(Gloss,"∙", "⋅"),
-         Gloss = gsub("-([0-9½()[{}]|\\])", "−\\1", Gloss),
+         Gloss = gsub("-([]0-9½()[{}])", "−\\1", Gloss),
          Gloss = str_replace_all(Gloss,"’", "′"),
          Gloss = str_replace_all(Gloss,"\\'\\'\\'\\'", "⁗"),
          Gloss = str_replace_all(Gloss,"\\'\\'\\'", "‴"),
