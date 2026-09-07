@@ -381,8 +381,8 @@ class Dataset(BaseDataset):
             'vigesimal',
         }
 
-        glosses = collect_glosses(self.etc_dir.joinpath('glossed').read_csv(
-            'all.data.glossed.csv',
+        glosses = collect_glosses(self.etc_dir.joinpath('Merging').read_csv(
+            'data.glossed.checked.filtered.csv',
             dicts=True))
 
         base_errors = set()
