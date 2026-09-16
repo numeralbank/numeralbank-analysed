@@ -29,7 +29,6 @@ CLDF_PARAMETER_ID = 'http://cldf.clld.org/v1.0/terms.rdf#parameterReference'
 CLDF_CONCEPTICON_ID = 'http://cldf.clld.org/v1.0/terms.rdf#concepticonReference'
 
 GlossKey = namedtuple('GlossKey', 'language_id parameter_id value')
-#Gloss = namedtuple('Gloss', 'gloss gloss_clean gloss_math gloss_calc')
 
 def collect_glosses(csv_rows):
     return {
@@ -38,11 +37,6 @@ def collect_glosses(csv_rows):
             parameter_id=row['Parameter_ID'],
             value=row['Value']):
         row
-        # Gloss(
-        #     gloss=row['Gloss'],
-        #     gloss_clean=row['Gloss.clean'],
-        #     gloss_math=row['Gloss.math'],
-        #     gloss_calc=row['Gloss.calc'])
         for row in csv_rows}
 
 
