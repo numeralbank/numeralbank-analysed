@@ -2,7 +2,7 @@ import json
 import pathlib
 import shutil
 import subprocess
-from collections import Counter, defaultdict, namedtuple
+from collections import ChainMap, Counter, defaultdict, namedtuple
 from dataclasses import dataclass, field
 
 import pycldf
@@ -29,7 +29,7 @@ CLDF_PARAMETER_ID = 'http://cldf.clld.org/v1.0/terms.rdf#parameterReference'
 CLDF_CONCEPTICON_ID = 'http://cldf.clld.org/v1.0/terms.rdf#concepticonReference'
 
 GlossKey = namedtuple('GlossKey', 'language_id parameter_id value')
-Gloss = namedtuple('Gloss', 'gloss gloss_clean gloss_math gloss_calc')
+#Gloss = namedtuple('Gloss', 'gloss gloss_clean gloss_math gloss_calc')
 
 def collect_glosses(csv_rows):
     return {
@@ -37,11 +37,12 @@ def collect_glosses(csv_rows):
             language_id=row['Language_ID'],
             parameter_id=row['Parameter_ID'],
             value=row['Value']):
-        Gloss(
-            gloss=row['Gloss'],
-            gloss_clean=row['Gloss.clean'],
-            gloss_math=row['Gloss.math'],
-            gloss_calc=row['Gloss.calc'])
+        row
+        # Gloss(
+        #     gloss=row['Gloss'],
+        #     gloss_clean=row['Gloss.clean'],
+        #     gloss_math=row['Gloss.math'],
+        #     gloss_calc=row['Gloss.calc'])
         for row in csv_rows}
 
 
@@ -459,20 +460,21 @@ class Dataset(BaseDataset):
                 language_id=language_id,
                 parameter_id=concept_id,
                 value=form[CLDF_VALUE])
-            gloss = glosses.get(gloss_key) or Gloss('', '', '', '')
+            gloss = glosses.get(gloss_key) or {}
+            glossed_form = ChainMap(gloss, form)
             args.writer.add_form(
                 Language_ID=language_id,
                 Parameter_ID=concept_id,
-                Value=form[CLDF_VALUE],
-                Form=simple_chars(form[CLDF_FORM]),
-                Loan=form['Loan'],
+                Value=glossed_form[CLDF_VALUE],
+                Form=simple_chars(glossed_form[CLDF_FORM]),
+                Loan=glossed_form['Loan'],
                 Source=source,
                 NumberValue=concept['NUMBER_VALUE'],
-                Comment=form['Comment'].strip() if form.get('Comment') else None,
-                Gloss=gloss.gloss,
-                GlossClean=gloss.gloss_clean,
-                GlossMath=gloss.gloss_math,
-                GlossCalc=gloss.gloss_calc,
+                Comment=glossed_form['Comment'].strip() if glossed_form.get('Comment') else None,
+                Gloss=glossed_form.get('Gloss') or '',
+                GlossClean=glossed_form.get('Gloss.clean') or '',
+                GlossMath=glossed_form.get('Gloss.math') or '',
+                GlossCalc=glossed_form.get('Gloss.calc') or '',
             )
 
         counts = defaultdict(int)
