@@ -1054,7 +1054,7 @@ all.data.with.duplicates <- all.data
 
 ## well done:
 # 
-# doculects.to.use <- read.csv("../doculects.to.use.in.analyses_20260816.csv")
+# doculects.to.use <- read.csv("../doculects.to.use.in.analyses_20260916.csv")
 # table(doculects.to.use$Use_in_analyses)
 # #TEMPO: some languages were coded twice. Keep only one:
 # 

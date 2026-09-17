@@ -19,7 +19,7 @@ all.data <- NULL
 
 data.glossed.checked <- read.csv("../glossed/all.data.checked.csv")
 data.reglossed.checked <- read.csv("../re-glossed/all.data.checked.csv",row.names = 1)
-doculects.good <- read.csv("../doculects.to.use.in.analyses_20260829.csv")
+doculects.good <- read.csv("../doculects.to.use.in.analyses_20260916.csv")
 
 data.glossed <- read.csv("../glossed/all.data.glossed.csv")
 data.reglossed<- read.csv("../re-glossed/all.data.glossed.csv",row.names = 1)
