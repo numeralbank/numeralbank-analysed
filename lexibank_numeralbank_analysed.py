@@ -51,6 +51,8 @@ class CustomLexeme(Lexeme):
     GlossClean: str | None = None
     GlossMath: str | None = None
     GlossCalc: str | None = None
+    AlternateGloss: str | None = None
+    CommentGlosser: str | None = None
 
 
 @dataclass
@@ -456,6 +458,23 @@ class Dataset(BaseDataset):
                 value=form[CLDF_VALUE])
             gloss = glosses.get(gloss_key) or {}
             glossed_form = ChainMap(gloss, form)
+
+            # we all love R...
+            gloss = glossed_form.get('Gloss')
+            assert gloss != 'NA'
+            gloss_clean = glossed_form.get('Gloss.clean')
+            assert gloss_clean != 'NA'
+            gloss_math = glossed_form.get('Gloss.math')
+            assert gloss_math != 'NA'
+            gloss_calc = glossed_form.get('Gloss.calc')
+            assert gloss_calc != 'NA'
+            alternate_gloss = glossed_form.get('Alternate_gloss')
+            if alternate_gloss == 'NA':
+                alternate_gloss = ''
+            comment_glosser = glossed_form.get('Comment_glosser')
+            if comment_glosser == 'NA':
+                comment_glosser = ''
+
             args.writer.add_form(
                 Language_ID=language_id,
                 Parameter_ID=concept_id,
@@ -465,10 +484,12 @@ class Dataset(BaseDataset):
                 Source=source,
                 NumberValue=concept['NUMBER_VALUE'],
                 Comment=glossed_form['Comment'].strip() if glossed_form.get('Comment') else None,
-                Gloss=glossed_form.get('Gloss') or '',
-                GlossClean=glossed_form.get('Gloss.clean') or '',
-                GlossMath=glossed_form.get('Gloss.math') or '',
-                GlossCalc=glossed_form.get('Gloss.calc') or '',
+                Gloss=gloss,
+                GlossClean=gloss_clean,
+                GlossMath=gloss_math,
+                GlossCalc=gloss_calc,
+                AlternateGloss=alternate_gloss,
+                CommentGlosser=comment_glosser,
             )
 
         counts = defaultdict(int)
